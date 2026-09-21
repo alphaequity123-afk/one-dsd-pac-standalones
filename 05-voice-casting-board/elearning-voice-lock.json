@@ -1,0 +1,20 @@
+﻿{
+    "confirmedAt":  "2026-09-19T22:50:44.5803261-05:00",
+    "confirmedBy":  "Gary",
+    "status":  "confirmed",
+    "elearning":  {
+                      "id":  "playground-project-en-v1",
+                      "label":  "Playground Project (En) V1",
+                      "appliesTo":  "All e-learning courses",
+                      "sourceFile":  "Playground Project (en) v1.mp3",
+                      "sampleSrc":  "/media/voice-sources-clones/Playground Project (en) v1.mp3",
+                      "sourcePath":  "media/voice-sources-clones/Playground Project (en) v1.mp3"
+                  },
+    "implementationNotes":  [
+                                "Gary locked Playground Project (En) V1 as the voice for all e-learning courses.",
+                                "Regenerate or reassign course narration / course podcasts to this voice.",
+                                "Do not use unnamed host pair or prior course-ea-intro-am as the default course narrator going forward.",
+                                "2026-09-19: Gary approved canary; locked custom Qwen3 Playground renderer as e-learning engine."
+                            ],
+    "engineLock":  "elearning-engine-lock.json"
+}
