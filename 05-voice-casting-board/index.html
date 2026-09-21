@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>PAC Voice Casting Board Â· One DHS PAC</title>
+<style>
+/* Exact chrome from localhost:3456 */
+@import "tailwindcss";
+
+/* Somali brief pilot: disclosure-based reading, isolated from other briefs. */
+.community-brief-preview .brief-spotlight { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); gap: 2rem; margin: 1.75rem 0; padding: 1.75rem; background: #f7f4ef; border-radius: 6px; }
+.community-brief-preview .brief-spotlight h2 { font-size: 1.7rem; font-weight: 500; }
+.community-brief-preview .brief-spotlight p { line-height: 1.7; margin: .8rem 0; }
+.community-brief-preview .brief-spotlight aside { border-left: 1px solid #c9c1b5; padding-left: 1.75rem; align-self: center; }
+@media (max-width: 700px) {
+  .community-brief-preview .brief-spotlight { grid-template-columns: 1fr; padding: 1.25rem; gap: 1.25rem; }
+  .community-brief-preview .brief-spotlight aside { border-left: 0; border-top: 1px solid #c9c1b5; padding: 1.25rem 0 0; }
+}
+.community-brief-preview .brief-intro { padding-top: 2.5rem; }
+.community-brief-preview .brief-intro h1 { font-size: clamp(2rem, 4vw, 3rem); }
+.community-brief-preview .brief-lede { max-width: 52rem; font-size: 1.15rem; line-height: 1.7; margin: 1.25rem 0; }
+.community-brief-preview .brief-quick-links { display: flex; flex-wrap: wrap; gap: .8rem 1.75rem; border-block: 1px solid #d7dfe5; padding: 1rem 0; }
+.community-brief-preview .brief-about { margin-top: 1rem; font-size: .9rem; color: #353532; }
+.community-brief-preview summary { cursor: pointer; }
+.community-brief-preview .brief-disclosure { border-bottom: 1px solid #cbd5dd; }
+.community-brief-preview .brief-disclosure > summary { padding: 1.25rem .75rem; font-size: 1.2rem; font-weight: 500; color: #003865; line-height: 1.4; }
+.community-brief-preview summary:is(:hover, :focus-visible) { background: #edf3f7; text-decoration: underline; text-underline-offset: .2em; }
+.community-brief-preview .brief-disclosure[open] > summary { background: #f4f7f9; }
+.community-brief-preview .brief-disclosure-content { padding: .25rem .75rem 1.5rem; }
+.community-brief-preview .brief-disclosure-content > section { margin-top: .5rem; border-top: 0; padding-top: 0; }
+.community-brief-preview .brief-disclosure-content p,
+.community-brief-preview .brief-disclosure-content li { max-width: 70ch; line-height: 1.7; }
+.community-brief-preview .brief-disclosure-content li + li { margin-top: .6rem; }
+.community-brief-preview .kicker { text-transform: none; letter-spacing: normal; font-weight: 600; color: #353532; }
+.community-brief-preview h2 { font-weight: 500; font-size: 1.3rem; }
+.community-brief-preview h3 { font-weight: 600; }
+.community-brief-preview table { display: block; overflow-x: auto; }
+
+/*
+  People, Access and Culture design tokens.
+  Color and type harvested from One DHS live (one-dhs-equity-resource): navy #003865,
+  deep navy #024, mid navy #004f90, green #78be21 (accent), green-strong #2e6b12 (text/buttons).
+  #78be21 on white is about 2.2:1, so it is never used for text or as a button background with
+  white text; green-strong (#2e6b12, about 6.4:1 on white) carries text and CTAs.
+*/
+:root {
+  --blue: #003865;
+  --blue-dark: #002244;
+  --blue-mid: #004f90;
+  --green: #78be21;
+  --green-strong: #2e6b12;
+  --green-stronger: #245610;
+  --green-soft: #f3f9ea;
+  --white: #ffffff;
+  --gray-50: #f5f5f3;
+  --gray-100: #eeeeeb;
+  --gray-200: #ddddd9;
+  --gray-300: #c5c5c0;
+  --gray-400: #a8a8a4;
+  --gray-600: #353532;
+  --gray-700: #252523;
+  --gray-800: #181817;
+  --gray-900: #101010;
+  --amber-soft: #fff7e0;
+  --amber-strong: #7a4d00;
+  --red-soft: #fdecec;
+  --red-strong: #8b1c1c;
+  --sans: Aptos, "Aptos Display", "Segoe UI", Calibri, system-ui, -apple-system, Arial, sans-serif;
+  --radius: 4px;
+  --radius-lg: 12px;
+  --shadow: 0 8px 22px rgba(0, 0, 0, 0.06);
+  --maxw: 1140px;
+}
+
+@theme inline {
+  --color-navy: var(--blue);
+  --color-navy-deep: var(--blue-dark);
+  --color-navy-mid: var(--blue-mid);
+  --color-green: var(--green);
+  --color-green-strong: var(--green-strong);
+  --color-green-stronger: var(--green-stronger);
+  --color-green-soft: var(--green-soft);
+  --color-ink: var(--gray-900);
+  --color-muted: var(--gray-600);
+  --color-line: var(--gray-200);
+  --color-panel: var(--gray-50);
+  --font-sans: var(--sans);
+}
+
+@layer base {
+  html {
+    font-size: 100%;
+    overflow-y: scroll;
+  }
+
+  body {
+    margin: 0;
+    font-family: var(--sans);
+    color: var(--gray-900);
+    background: var(--white);
+    line-height: 1.55;
+    overflow-x: clip;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: var(--blue-dark);
+    line-height: 1.2;
+    margin: 0;
+  }
+
+  a {
+    color: var(--blue-mid);
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+  a:hover {
+    color: var(--blue);
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--blue-mid);
+    outline-offset: 2px;
+  }
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  background: var(--blue-dark);
+  color: #fff;
+  padding: 0.6rem 1rem;
+}
+.skip-link:focus {
+  left: 0.5rem;
+  top: 0.5rem;
+}
+
+.wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.program-wordmark {
+  display: grid;
+  max-width: 34rem;
+  color: var(--blue-dark);
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.2;
+}
+.program-wordmark:hover {
+  color: var(--blue);
+}
+.program-wordmark__sub {
+  margin-top: 0.2rem;
+  color: var(--gray-600);
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.context-switcher {
+  display: grid;
+  justify-items: end;
+  gap: 0.2rem;
+}
+.context-switcher__label {
+  color: var(--gray-600);
+  font-size: 0.76rem;
+
+/* Shared presentation for the owner-authorized September 8 program renewal. */
+body.program-design{--radius:8px;--radius-lg:14px;--shadow:0 6px 20px #17395108;--gray-200:#d8e0e4;--gray-50:#f7f5f0;--gray-900:#182c3a;--gray-800:#243946;--gray-700:#304551;--gray-600:#4c606d;--maxw:1200px;color:#182c3a;background:white}
+.program-design .program-header{background:white;color:#182c3a;border-top:4px solid #003865;border-bottom:1px solid #d8e0e4}
+.program-design .program-brand-row{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:1rem;padding-top:1.25rem;padding-bottom:1.25rem;min-height:0}
+.program-design .program-brand-link{display:flex;align-items:center;gap:1.5rem;color:#003865;text-decoration:none;min-width:0}
+.program-design .program-brand-link img{width:210px;height:auto;flex-shrink:0}
+.program-design .program-wordmark{font-size:1rem;font-weight:600;line-height:1.35;max-width:22rem;color:#003865;border-left:1px solid #d8e0e4;padding-left:1.5rem}
+.program-design .program-header-actions{display:flex;align-items:center;gap:1rem}
+.program-design .context-switcher__label{display:none}
+.program-design .context-switcher__button{min-height:36px;font-size:.82rem;font-weight:600}
+.program-design .context-switcher__choices{background:#f4f7f8;border-color:#d8e0e4;padding:.2rem}
+.program-design .program-navigation{border-top:1px solid #e9edef;background:#fff}
+.program-design .program-navigation ul{display:flex;list-style:none;flex-wrap:wrap;gap:0 .25rem;margin-block:0;padding-block:0}
+.program-design .program-navigation li{margin:0}
+.program-design .program-navigation .program-personal-link{margin-left:auto}
+.program-design .primary-nav-link{color:#304551;font-size:.9rem;font-weight:500;border-bottom:3px solid transparent;padding:.8rem .75rem;min-height:48px;background:transparent}
+.program-design .primary-nav-link--current{color:#003865;border-bottom-color:#003865;font-weight:700;background:#f4f7f8}
+.program-design .primary-nav-link:hover{color:#003865;background:#f0f5f7;text-decoration:underline;text-underline-offset:.3em}
+.program-design .program-menu-toggle{display:none;font:inherit;min-height:44px;padding:.5rem 1rem;border:1px solid #94a9b7;border-radius:8px;background:white;color:#003865;font-weight:600}
+.program-design .page-intro{background:#f7f5f0;border-bottom:1px solid #e7e7e0;color:#182c3a}
+.program-design .page-intro>.wrap{padding-top:clamp(2rem,4vw,3.5rem);padding-bottom:clamp(2rem,4vw,3.5rem)}
+.program-design .page-intro h1{font-size:clamp(2.2rem,4vw,3.4rem);line-height:1.12;letter-spacing:-.035em;font-weight:500;color:#003865;max-width:26ch;text-wrap:balance}
+.program-design .page-intro .kicker{font-size:.85rem;font-weight:600;margin-bottom:.65rem;color:#4c606d;text-transform:none}
+.program-design .page-intro h1+p{line-height:1.7;color:#4c606d;font-size:1.1rem;max-width:65ch}
+.program-design :is(.card,.panel){box-shadow:none;border-width:1px}
+.program-design .card{border-left:1px solid #d8e0e4;padding:1.4rem}
+.program-design .panel{background:#f7f8f8;padding:1.4rem}
+.program-design .notice:not(.notice--warn):not(.notice--stop){border:1px solid #d8e0e4;border-left:3px solid #9eb0bb;background:#f5f8f9;color:#304551}
+.program-design .door{background:white;border:1px solid #d8e0e4;box-shadow:none}
+.program-design .door:hover{border-color:#567b91;background:#f5f8fa}
+.program-design .btn{border-radius:8px;min-height:46px;padding:.65rem 1.1rem;font-weight:600;line-height:1.4}
+.program-design .btn--light{border-color:#a8bac5}
+.program-design .label-pill{font-weight:500}
+.program-design :is(a[href],button,summary,input,select,textarea):focus-visible{outline:3px solid #003865;outline-offset:3px;box-shadow:0 0 0 3px white}
+.program-design summary{min-height:44px;line-height:1.5}
+.program-design .site-footer{margin-top:1rem;background:#f7f5f0;border-top:1px solid #d8e0e4;color:#4c606d}
+.program-design .footer-top{display:grid;grid-template-columns:1.15fr .85fr 1fr;gap:2.5rem;padding-block:2.5rem}
+.program-design .site-footer .kicker{color:#003865;font-weight:600;font-size:.95rem;margin-bottom:.8rem}
+.program-design .site-footer p{line-height:1.7}
+.program-design .site-footer ul{padding:0;margin:0;list-style:none}
+.program-design .site-footer li{font-size:.9rem}
+.program-design .site-footer a{display:inline-flex;align-items:center;min-height:36px;color:#003865}
+.program-design .site-footer details{font-size:.85rem;line-height:1.7}
+.program-design .site-footer summary{font-weight:500;color:#003865}
+.program-design .footer-bottom{border-top:1px solid #d8e0e4;padding-block:1rem;display:flex;flex-wrap:wrap;gap:1rem 2rem;font-size:.85rem}
+.program-design .community-editorial{font-family:var(--sans)}
+.program-design .community-program-band{background:#f7f5f0;color:#003865;border-bottom:1px solid #e7e7e0;font-size:1rem}
+.program-design .community-editorial h1{color:#003865;letter-spacing:-.035em}
+.program-design .community-directory a{border-radius:0}
+@media(min-width:850px) and (max-width:1080px){.program-design .program-wordmark{max-width:17rem;font-size:.9rem}.program-design .program-brand-link img{width:175px}.program-design .primary-nav-link{font-size:.82rem;padding-inline:.55rem}}
+@media(max-width:849px){
+.program-design .program-brand-row{gap:.85rem;padding-block:1rem}
+.program-design .program-brand-link{gap:1rem}
+.program-design .program-brand-link img{width:170px}
+.program-design .program-wordmark{max-width:21rem;font-size:.9rem;padding-left:1rem}
+.program-design .program-header-actions{width:100%;justify-content:space-between}
+.program-design .context-switcher{justify-items:start}
+.program-design .program-menu-toggle{display:inline-flex;align-items:center}
+.program-design .program-navigation{display:none}
+.program-design .program-navigation.is-open{display:block}
+.program-design .program-navigation ul{display:grid;grid-template-columns:1fr 1fr;padding-block:.5rem}
+.program-design .program-navigation .program-personal-link{margin-left:0}
+.program-design .primary-nav-link{border-bottom:0;border-left:3px solid transparent;border-radius:4px}
+.program-design .primary-nav-link--current{border-left-color:#003865}
+.program-design .footer-top{grid-template-columns:1fr 1fr;gap:1.5rem}
+.program-design .footer-top>div:first-child{grid-column:1/-1}
+}
+@media(max-width:480px){.program-design .program-brand-link img{width:135px}.program-design .program-wordmark{font-size:.8rem;max-width:15rem}.program-design .footer-top{grid-template-columns:1fr}.program-design .footer-top>div:first-child{grid-column:auto}.program-design .program-navigation ul{grid-template-columns:1fr}.program-design .page-intro h1{font-size:2.2rem}}
+@media(prefers-reduced-motion:reduce){.program-design{scroll-behavior:auto}.program-design *{scroll-behavior:auto}}
+@media(forced-colors:active){.program-design :is(a[href],button,summary,input,select,textarea):focus-visible{outline-color:Highlight}}
+@media print{.program-design .program-header-actions,.program-design .program-navigation{display:none}.program-design .page-intro{background:white}}
+
+.program-design .scope-note{border:0;border-bottom:1px solid #d8e0e4;border-radius:0;background:transparent;padding:.5rem 0;gap:.5rem 2rem;align-items:start}
+.program-design .scope-note details{flex:1 1 20rem}
+.program-design .scope-note summary{font-size:.9rem;font-weight:500;color:#4c606d;min-height:36px}
+.program-design .scope-note details p{max-width:65ch;margin:.5rem 0 1rem;line-height:1.65}
+.program-design .scope-note>a{min-height:36px;display:inline-flex;align-items:center}
+
+
+
+
+.program-design .program-header {
+  color: #182c3a;
+  background: #fff;
+  border-top: 4px solid #003865;
+  border-bottom: 1px solid #d8e0e4;
+}
+
+
+.program-design .program-header-actions {
+  align-items: center;
+  gap: 1rem;
+  display: flex;
+}
+
+
+  .program-design .program-header-actions {
+    justify-content: space-between;
+    width: 100%;
+  }
+
+
+  .inner-program-header .program-brand-row {
+    min-height: 172px;
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
+  }
+
+
+  .inner-program-header .program-brand-row > a {
+    align-items: center;
+    max-width: 49rem;
+  }
+
+
+  .inner-program-header .program-brand-row img {
+    background: #fff;
+    border-radius: 2px;
+    max-width: 100%;
+    height: auto;
+  }
+
+
+.program-design .program-brand-link {
+  color: #003865;
+  align-items: center;
+  gap: 1.5rem;
+  min-width: 0;
+  text-decoration: none;
+  display: flex;
+}
+
+
+.program-design .program-brand-link img {
+  flex-shrink: 0;
+  width: 210px;
+  height: auto;
+}
+
+
+  .program-design .program-brand-link img {
+    width: 175px;
+  }
+
+
+.program-wordmark {
+  max-width: 34rem;
+  color: var(--blue-dark);
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.2;
+  display: grid;
+}
+
+
+.program-wordmark:hover {
+  color: var(--blue);
+}
+
+
+.program-wordmark__sub {
+  color: var(--gray-600);
+  margin-top: .2rem;
+  font-size: .82rem;
+  font-weight: 600;
+}
+
+
+.program-design .program-header-actions {
+  align-items: center;
+  gap: 1rem;
+  display: flex;
+}
+
+
+  .program-design .program-header-actions {
+    justify-content: space-between;
+    width: 100%;
+  }
+
+
+@media print {
+  .program-design .program-header-actions, .program-design .program-navigation {
+    display: none;
+  }
+
+
+.program-design .program-navigation {
+  background: #fff;
+  border-top: 1px solid #e9edef;
+}
+
+
+.program-design .program-navigation ul {
+  flex-wrap: wrap;
+  gap: 0 .25rem;
+  margin-block: 0;
+  padding-block: 0;
+  list-style: none;
+  display: flex;
+}
+
+
+.program-design .program-navigation li {
+  margin: 0;
+}
+
+
+.primary-nav-link {
+  min-height: 44px;
+  color: var(--white);
+  border-bottom: 4px solid #0000;
+  padding: .72rem .7rem;
+  font-size: .92rem;
+  font-weight: 800;
+  text-decoration: none;
+  display: block;
+}
+
+
+.primary-nav-link:hover, .primary-nav-link:focus-visible {
+  background: var(--blue-dark);
+  color: var(--white);
+  text-decoration: underline;
+}
+
+
+.primary-nav-link:hover, .primary-nav-link:focus-visible {
+  background: var(--blue-dark);
+  color: var(--white);
+  text-decoration: underline;
+}
+
+
+.context-switcher {
+  justify-items: end;
+  gap: .2rem;
+  display: grid;
+}
+
+
+.context-switcher__label {
+  color: var(--gray-600);
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  font-size: .76rem;
+  font-weight: 800;
+}
+
+
+.context-switcher__choices {
+  border: 1px solid var(--gray-300);
+  background: var(--gray-50);
+  border-radius: 999px;
+  padding: .2rem;
+  display: inline-flex;
+}
+
+
+.program-design .site-footer {
+  color: #4c606d;
+  background: #f7f5f0;
+  border-top: 1px solid #d8e0e4;
+  margin-top: 1rem;
+}
+
+
+.program-design .site-footer .kicker {
+  color: #003865;
+  margin-bottom: .8rem;
+  font-size: .95rem;
+  font-weight: 600;
+}
+
+
+.program-design .site-footer p {
+  line-height: 1.7;
+}
+
+
+.program-design .footer-top {
+  grid-template-columns: 1.15fr .85fr 1fr;
+  gap: 2.5rem;
+  padding-block: 2.5rem;
+  display: grid;
+}
+
+
+  .program-design .footer-top {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+
+
+  .program-design .footer-top > div:first-child {
+    grid-column: 1 / -1;
+  }
+
+
+.program-design .footer-bottom {
+  border-top: 1px solid #d8e0e4;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  padding-block: 1rem;
+  font-size: .85rem;
+  display: flex;
+}
+
+
+.wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+
+.learning-page .wrap {
+  max-width: 1440px;
+  padding-left: clamp(1.25rem, 3.5vw, 3rem);
+  padding-right: clamp(1.25rem, 3.5vw, 3rem);
+}
+
+
+.learning-page .page-intro .wrap {
+  padding-top: 2.75rem;
+  padding-bottom: 1.75rem;
+}
+
+
+  nav a[href]:not(.primary-nav-link):not(.btn):is(:hover, :focus-visible) {
+    color: var(--blue-dark);
+    background-color: #edf3f7;
+  }
+
+
+.btn {
+  min-height: 44px;
+  font: inherit;
+  border-radius: var(--radius);
+  cursor: pointer;
+  border: 1px solid #0000;
+  justify-content: center;
+  align-items: center;
+  gap: .4rem;
+  padding: .55rem 1rem;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-flex;
+}
+
+
+.btn--primary {
+  background: var(--blue);
+  color: #fff;
+  border-color: var(--blue-dark);
+}
+
+
+.page-intro {
+  background: var(--white);
+  color: var(--gray-900);
+}
+
+
+.page-intro h1 {
+  color: var(--gray-800);
+}
+
+
+.learning-page .page-intro .wrap {
+  padding-top: 2.75rem;
+  padding-bottom: 1.75rem;
+}
+
+.program-header{background:#fff;color:#182c3a;border-top:4px solid #003865;border-bottom:1px solid #d8e0e4}
+.program-brand-row{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:1rem;padding-top:1.25rem;padding-bottom:1.25rem}
+.program-brand-link{display:flex;align-items:center;gap:1.5rem;color:#003865;text-decoration:none;min-width:0}
+.program-brand-link img{width:210px;height:auto;flex-shrink:0}
+.program-wordmark{font-size:1rem;font-weight:600;line-height:1.35;max-width:22rem;color:#003865;border-left:1px solid #d8e0e4;padding-left:1.5rem}
+.program-header-actions{display:flex;align-items:center;gap:1rem;flex-wrap:wrap}
+.program-navigation{border-top:1px solid #e9edef;background:#fff}
+.program-navigation ul{display:flex;list-style:none;flex-wrap:wrap;gap:0 .25rem;margin:0;padding:0}
+.program-navigation .program-personal-link{margin-left:auto}
+.primary-nav-link{display:inline-flex;align-items:center;color:#304551;font-size:.9rem;font-weight:500;border-bottom:3px solid transparent;padding:.8rem .75rem;min-height:48px;text-decoration:none;background:transparent}
+.primary-nav-link--current,.primary-nav-link[aria-current="page"]{color:#003865;border-bottom-color:#003865;font-weight:700;background:#f4f7f8}
+.primary-nav-link:hover{color:#003865;background:#f0f5f7;text-decoration:underline;text-underline-offset:.3em}
+.context-switcher{display:grid;justify-items:end;gap:.2rem}
+.context-switcher__label{display:none}
+.context-switcher__choices{display:inline-flex;padding:.2rem;border:1px solid #d8e0e4;border-radius:999px;background:#f4f7f8}
+.context-switcher__button{min-height:36px;padding:.35rem .75rem;border:0;border-radius:999px;background:transparent;color:#003865;font:inherit;font-size:.82rem;font-weight:600;text-decoration:none;display:inline-flex;align-items:center}
+.context-switcher__button--active,.context-switcher__button[aria-current="true"]{background:#003865;color:#fff}
+.program-menu-toggle{display:none;font:inherit;min-height:44px;padding:.5rem 1rem;border:1px solid #94a9b7;border-radius:8px;background:#fff;color:#003865;font-weight:600}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:.55rem 1rem;font:inherit;font-weight:600;border-radius:8px;border:1px solid #d8e0e4;background:#fff;color:#003865;cursor:pointer}
+.btn--light{min-height:36px;padding:.35rem .75rem;font-size:.75rem;border-color:#a8bac5}
+.wrap{max-width:1140px;margin:0 auto;padding:0 1.25rem;width:100%}
+.page-intro{background:#f7f5f0;border-bottom:1px solid #e7e7e0;color:#182c3a}
+.page-intro>.wrap{padding-top:clamp(2rem,4vw,3.5rem);padding-bottom:clamp(2rem,4vw,3.5rem)}
+.page-intro h1{font-size:clamp(2.2rem,4vw,3.4rem);line-height:1.12;letter-spacing:-.035em;font-weight:500;color:#003865;max-width:26ch;margin:0 0 .75rem}
+.page-intro .kicker{font-size:.85rem;font-weight:600;margin:0 0 .65rem;color:#4c606d}
+.page-intro h1+p{line-height:1.7;color:#4c606d;font-size:1.1rem;max-width:65ch;margin:0}
+.site-footer{margin-top:auto;background:#f7f5f0;border-top:1px solid #d8e0e4;color:#4c606d}
+.footer-top{display:grid;grid-template-columns:1.15fr .85fr 1fr;gap:2.5rem;padding-block:2.5rem}
+.site-footer .kicker{color:#003865;font-weight:600;font-size:.95rem;margin:0 0 .8rem}
+.site-footer ul{padding:0;margin:0;list-style:none}
+.site-footer a{display:inline-flex;align-items:center;min-height:36px;color:#003865;text-decoration:none}
+.footer-bottom{border-top:1px solid #d8e0e4;padding-block:1rem;display:flex;flex-wrap:wrap;gap:1rem 2rem;font-size:.85rem}
+.skip-link{position:absolute;left:-9999px;top:0;z-index:200;background:#002244;color:#fff;padding:.6rem 1rem;font-weight:700;text-decoration:none}
+.skip-link:focus{left:.5rem;top:.5rem}
+.prose{max-width:72ch}.prose h2,.prose h3{color:#003865}.prose p,.prose li{line-height:1.7}
+.card{border:1px solid #d8e0e4;padding:1.4rem;margin:1rem 0}
+body.program-design{min-height:100vh;display:flex;flex-direction:column;margin:0;background:#fff;color:#182c3a;font-family:Aptos,"Segoe UI",Calibri,system-ui,sans-serif}
+@media(max-width:849px){
+.program-menu-toggle{display:inline-flex}
+.program-navigation{display:none}
+.program-navigation.is-open{display:block}
+.program-navigation ul{display:grid;grid-template-columns:1fr 1fr}
+.footer-top{grid-template-columns:1fr 1fr}
+}
+
+</style>
+</head>
+<body class="program-design flex min-h-full flex-col">
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="program-header"><div class="program-brand-row wrap"><a class="program-brand-link" href="http://localhost:3456/"><img alt="Minnesota Department of Human Services" width="319" height="68" src="dhs-logo.png"/><span class="program-wordmark">One DHS People, Access and Culture Program</span></a><div class="program-header-actions"><div class="inline-flex flex-wrap items-center gap-2" data-share-page="true"><button type="button" class="btn btn--light !min-h-0 !px-3 !py-1 !text-xs">Share</button></div><div class="context-switcher"><span class="context-switcher__label">View</span><div class="context-switcher__choices" role="group" aria-label="Choose the program view"><a href="http://localhost:3456/?view=one_dhs" class="context-switcher__button context-switcher__button--active" aria-current="true" style="display:inline-flex;align-items:center;text-decoration:none" title="Start with shared knowledge, tools, and support routes for work across DHS.">One DHS</a><a href="http://localhost:3456/?view=one_dsd" class="context-switcher__button" style="display:inline-flex;align-items:center;text-decoration:none" title="Use the shared One DHS foundation with added DSD examples, scenarios, routes, and services.">One DSD</a></div><span class="sr-only" aria-live="polite">Start with shared knowledge, tools, and support routes for work across DHS.<!-- --> </span></div><button type="button" class="program-menu-toggle" aria-expanded="false" aria-controls="program-primary-navigation">Menu</button></div></div><nav id="program-primary-navigation" aria-label="Primary" class="program-navigation"><ul class="wrap"><li><a class="primary-nav-link" href="http://localhost:3456/">Home</a></li><li><a class="primary-nav-link" href="http://localhost:3456/start">Start</a></li><li><a class="primary-nav-link" href="http://localhost:3456/ask">Ask</a></li><li><a class="primary-nav-link" href="http://localhost:3456/areas">Areas of work</a></li><li><a aria-current="page" class="primary-nav-link primary-nav-link--current" href="http://localhost:3456/learn">Learning and resources</a></li><li><a class="primary-nav-link" href="http://localhost:3456/practice">Practice</a></li><li><a class="primary-nav-link" href="http://localhost:3456/one-dsd">One DSD</a></li><li><a class="primary-nav-link" href="http://localhost:3456/support">Support</a></li><li class="program-personal-link"><a class="primary-nav-link" href="http://localhost:3456/my-work">My Work</a></li></ul></nav></header>
+<main id="main" class="flex-1" tabindex="-1">
+<section class="page-intro">
+<div class="wrap">
+<p class="kicker">Voice casting</p>
+<h1>PAC Voice Casting Board</h1>
+<p>Review and select voices for e-learning and podcasts.</p>
+</div>
+</section>
+<div class="wrap prose" style="padding-top:1.75rem;padding-bottom:3rem">
+
+</div>
+</main>
+<footer class="site-footer"><div class="wrap footer-top"><div><p class="kicker">One DHS People, Access and Culture Program</p><p class="m-0 text-sm">A resource for DHS staff, run by the program.</p><details class="mt-2"><summary>About this resource</summary><p>It is not connected to DHS information technology, case, or personnel systems. Its guidance supports everyday work and does not replace policy, legal advice, formal processes, or decisions made by responsible DHS offices. Authority labels show what each item can and cannot establish.</p></details></div><div><p class="kicker">Find your next step</p><ul><li><a href="http://localhost:3456/ask">Ask a question</a></li><li><a href="http://localhost:3456/library">Library</a></li><li><a href="http://localhost:3456/minnesota-communities">Minnesota Communities</a></li><li><a href="http://localhost:3456/support">Support and DSD consultation guidance</a></li><li><a href="http://localhost:3456/support/right-person">Find the right person or office</a></li></ul></div><div><p class="kicker">Privacy and access</p><p class="m-0 text-sm">Please leave out case, medical, personnel, complaint, and identifying details anywhere in this program. Notes you write are saved only on this computer, so another person who uses it could see them. If any part of the program is hard to use with assistive technology, Support explains how to tell us.</p></div></div><nav class="wrap footer-bottom" aria-label="About the program"><a href="http://localhost:3456/about">About the program</a><a href="http://localhost:3456/orientation">Orientation</a><a href="http://localhost:3456/operationalizing-equity">Operationalizing equity</a><a href="http://localhost:3456/equity-policy">DHS equity policy</a><a href="http://localhost:3456/equity-framework">Equity Strategic Framework</a><a href="http://localhost:3456/understanding-dhs">Understanding DHS</a></nav></footer>
+</body>
+</html>
