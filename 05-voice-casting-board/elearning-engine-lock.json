@@ -1,0 +1,37 @@
+{
+    "confirmedAt":  "2026-09-19T22:50:44.2247885-05:00",
+    "appliesTo":  [
+                      "Toolkit Studio walkthrough chapters",
+                      "All e-learning course narration",
+                      "Course-attached lesson audio (browse-and-download)"
+                  ],
+    "doesNotAutoApplyTo":  [
+                               "Dual-host / conversational podcasts (separate cast decision)",
+                               "Sensational or experimental podcast pilots until Gary green-lights"
+                           ],
+    "voice":  {
+                  "label":  "Playground Project (En) V1",
+                  "id":  "playground-project-en-v1",
+                  "sourcePath":  "media/voice-sources-clones/Playground Project (en) v1.mp3"
+              },
+    "status":  "locked",
+    "engine":  {
+                   "id":  "custom-qwen3-playground-renderer-v1",
+                   "model":  "Qwen/Qwen3-TTS-12Hz-0.6B-Base",
+                   "canary":  "toolkit-studio-audio\\mp3\\_canary-playground.mp3",
+                   "replaces":  [
+                                    "one-dsd rust narration worker (deprecated for e-learning)",
+                                    "legacy course-ea-intro-am default"
+                                ],
+                   "label":  "Custom Playground Project + Qwen3-TTS renderer",
+                   "mode":  "voice_clone_x_vector",
+                   "scriptPath":  "toolkit-studio-audio\\playground_renderer.py",
+                   "canaryVerdict":  "Gary approved — sounds excellent; keep and lock"
+               },
+    "confirmedBy":  "Gary",
+    "implementationNotes":  [
+                                "Do not fall back to the old One DSD local narration worker for e-learning.",
+                                "Regenerate Toolkit Studio and course narration only through playground_renderer.py (or successor of this engine).",
+                                "Preserve Playground Project (En) V1 as the locked voice identity."
+                            ]
+}
