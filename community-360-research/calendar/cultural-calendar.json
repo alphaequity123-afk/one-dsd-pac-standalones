@@ -1,0 +1,5776 @@
+{
+  "generated": "2026-10-30",
+  "note": "Dates calculated locally; Minnesota celebration details, events and workplace notes are not yet researched.",
+  "entries": [
+    {
+      "id": "lunar-new-year",
+      "name": "Lunar New Year",
+      "alsoKnownAs": [
+        "Spring Festival",
+        "Chunjie"
+      ],
+      "communities": [
+        "chinese"
+      ],
+      "briefLinks": [
+        {
+          "community": "chinese",
+          "title": "Chinese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "First day of the first month of the Chinese lunisolar calendar, falling between January 21 and February 20.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-02-17",
+          "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 1, day 1 (Spring Festival)"
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-06",
+          "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 1, day 1 (Spring Festival)"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-26",
+          "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 1, day 1 (Spring Festival)"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Start of the lunisolar year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 1, day 1 (Spring Festival)"
+      ]
+    },
+    {
+      "id": "tết-nguyên-đán",
+      "name": "Tết Nguyên Đán",
+      "alsoKnownAs": [
+        "Tết",
+        "Vietnamese Lunar New Year"
+      ],
+      "communities": [
+        "vietnamese"
+      ],
+      "briefLinks": [
+        {
+          "community": "vietnamese",
+          "title": "Vietnamese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "First day of the first month of the Vietnamese lunisolar calendar (usually the same day as Chinese New Year; rare one-day differences come from the time zone used).",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-02-17",
+          "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-06",
+          "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-26",
+          "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Start of the lunisolar year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "seollal",
+      "name": "Seollal",
+      "alsoKnownAs": [
+        "Korean Lunar New Year"
+      ],
+      "communities": [
+        "korean"
+      ],
+      "briefLinks": [
+        {
+          "community": "korean",
+          "title": "Korean Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "First day of the first month of the Korean lunisolar calendar.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-02-17",
+          "source": "Calculated with python-holidays 0.107, South Korea module (country KR); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-07",
+          "source": "Calculated with python-holidays 0.107, South Korea module (country KR); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-27",
+          "source": "Calculated with python-holidays 0.107, South Korea module (country KR); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Start of the lunisolar year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, South Korea module (country KR); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "chuseok",
+      "name": "Chuseok",
+      "alsoKnownAs": [
+        "Hangawi"
+      ],
+      "communities": [
+        "korean"
+      ],
+      "briefLinks": [
+        {
+          "community": "korean",
+          "title": "Korean Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Fifteenth day of the eighth month of the Korean lunisolar calendar.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-09-25",
+          "source": "Calculated with python-holidays 0.107, South Korea module (country KR); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-09-15",
+          "source": "Calculated with python-holidays 0.107, South Korea module (country KR); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-10-03",
+          "source": "Calculated with python-holidays 0.107, South Korea module (country KR); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Autumn harvest festival.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, South Korea module (country KR); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "midautumn-festival",
+      "name": "Mid-Autumn Festival",
+      "alsoKnownAs": [
+        "Zhongqiu Jie",
+        "Tết Trung Thu"
+      ],
+      "communities": [
+        "chinese",
+        "vietnamese"
+      ],
+      "briefLinks": [
+        {
+          "community": "chinese",
+          "title": "Chinese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
+        },
+        {
+          "community": "vietnamese",
+          "title": "Vietnamese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Fifteenth day of the eighth month of the Chinese lunisolar calendar.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-09-25",
+          "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 8, day 15 (Mid-Autumn)"
+        },
+        {
+          "year": 2027,
+          "date": "2027-09-15",
+          "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 8, day 15 (Mid-Autumn)"
+        },
+        {
+          "year": 2028,
+          "date": "2028-10-03",
+          "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 8, day 15 (Mid-Autumn)"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Harvest moon festival.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 8, day 15 (Mid-Autumn)"
+      ]
+    },
+    {
+      "id": "dragon-boat-festival",
+      "name": "Dragon Boat Festival",
+      "alsoKnownAs": [
+        "Duanwu Jie"
+      ],
+      "communities": [
+        "chinese"
+      ],
+      "briefLinks": [
+        {
+          "community": "chinese",
+          "title": "Chinese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Fifth day of the fifth month of the Chinese lunisolar calendar.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-06-19",
+          "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 5, day 5 (Duanwu)"
+        },
+        {
+          "year": 2027,
+          "date": "2027-06-09",
+          "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 5, day 5 (Duanwu)"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-28",
+          "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 5, day 5 (Duanwu)"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Traditional early-summer festival.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 5, day 5 (Duanwu)"
+      ]
+    },
+    {
+      "id": "qingming",
+      "name": "Qingming",
+      "alsoKnownAs": [
+        "Tomb-Sweeping Day"
+      ],
+      "communities": [
+        "chinese"
+      ],
+      "briefLinks": [
+        {
+          "community": "chinese",
+          "title": "Chinese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Solar term beginning about April 4 or 5.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-05",
+          "source": "Calculated with python-holidays 0.107, China module (country CN); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-04-05",
+          "source": "Calculated with python-holidays 0.107, China module (country CN); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-04",
+          "source": "Calculated with python-holidays 0.107, China module (country CN); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Day for tending family graves and honoring ancestors.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, China module (country CN); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "songkran",
+      "name": "Songkran",
+      "alsoKnownAs": [
+        "Thai New Year"
+      ],
+      "communities": [
+        "thai"
+      ],
+      "briefLinks": [
+        {
+          "community": "thai",
+          "title": "Thai Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "April 13 to 15 as set by the Thai government (traditional solar new year).",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-13",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-04-13",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-13",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Traditional Thai new year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "pi-mai-lao",
+      "name": "Pi Mai Lao",
+      "alsoKnownAs": [
+        "Lao New Year",
+        "Boun Pi Mai"
+      ],
+      "communities": [
+        "lao"
+      ],
+      "briefLinks": [
+        {
+          "community": "lao",
+          "title": "Lao Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Mid-April, usually April 14 to 16 as set by the Lao government.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-14",
+          "source": "Calculated with python-holidays 0.107, Laos module (country LA); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-04-14",
+          "source": "Calculated with python-holidays 0.107, Laos module (country LA); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-14",
+          "source": "Calculated with python-holidays 0.107, Laos module (country LA); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "announced each year",
+      "whatItMarks": "Traditional Lao new year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Laos module (country LA); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "choul-chnam-thmey",
+      "name": "Choul Chnam Thmey",
+      "alsoKnownAs": [
+        "Khmer New Year"
+      ],
+      "communities": [
+        "khmer"
+      ],
+      "briefLinks": [
+        {
+          "community": "khmer",
+          "title": "Cambodian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Mid-April, usually April 13 or 14 to 16, set each year by the Cambodian government from the traditional astronomical calendar.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-14",
+          "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-04-14",
+          "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-13",
+          "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "announced each year",
+      "whatItMarks": "Traditional Khmer new year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "thingyan",
+      "name": "Thingyan",
+      "alsoKnownAs": [
+        "Burmese New Year",
+        "Water Festival"
+      ],
+      "communities": [
+        "burmese"
+      ],
+      "briefLinks": [
+        {
+          "community": "burmese",
+          "title": "Burmese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Mid-April, calculated from the traditional Myanmar calendar.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-13",
+          "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-04-13",
+          "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-13",
+          "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Traditional Burmese new year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "karen-new-year",
+      "name": "Karen New Year",
+      "alsoKnownAs": [
+        "Kaw La Thaw Ni"
+      ],
+      "communities": [
+        "karen"
+      ],
+      "briefLinks": [
+        {
+          "community": "karen",
+          "title": "Karen Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "First day of the Karen month of Thalay (Pyatho waxing moon), usually in late December or January.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": null,
+          "source": "No date found by the calculation"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-08",
+          "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-16",
+          "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Karen new year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry",
+        "No date found by the calculation"
+      ]
+    },
+    {
+      "id": "visakha-bucha",
+      "name": "Visakha Bucha",
+      "alsoKnownAs": [
+        "Vesak",
+        "Buddha Day"
+      ],
+      "communities": [
+        "thai",
+        "lao",
+        "khmer",
+        "burmese"
+      ],
+      "briefLinks": [
+        {
+          "community": "thai",
+          "title": "Thai Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+        },
+        {
+          "community": "lao",
+          "title": "Lao Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+        },
+        {
+          "community": "khmer",
+          "title": "Cambodian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+        },
+        {
+          "community": "burmese",
+          "title": "Burmese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Full moon of the sixth lunar month in the Thai and Cambodian calendars, usually in May; temples may choose a nearby weekend.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-31",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-20",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-08",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Birth, enlightenment and death of the Buddha in Theravada tradition.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "start-of-ramadan",
+      "name": "Start of Ramadan",
+      "alsoKnownAs": [
+        "Ramadan",
+        "Ramazan",
+        "Soomaan"
+      ],
+      "communities": [
+        "somali",
+        "arabic-speaking",
+        "oromo",
+        "bosnian",
+        "ethiopian",
+        "lebanese",
+        "nigerian",
+        "kenyan",
+        "indian",
+        "african-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "somali",
+          "title": "Somali Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+        },
+        {
+          "community": "arabic-speaking",
+          "title": "Arabic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        },
+        {
+          "community": "bosnian",
+          "title": "Bosnian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+        },
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "lebanese",
+          "title": "Lebanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+        },
+        {
+          "community": "nigerian",
+          "title": "Nigerian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+        },
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        },
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        },
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-02-18",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-08",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-28",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        }
+      ],
+      "dateCertainty": "moon-sighted or announced",
+      "whatItMarks": "Start of the month of daytime fasting.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+      ]
+    },
+    {
+      "id": "eid-alfitr",
+      "name": "Eid al-Fitr",
+      "alsoKnownAs": [
+        "Ciid Yare",
+        "Ramazanski Bajram",
+        "Id el Fitr"
+      ],
+      "communities": [
+        "somali",
+        "arabic-speaking",
+        "oromo",
+        "bosnian",
+        "ethiopian",
+        "lebanese",
+        "nigerian",
+        "kenyan",
+        "indian",
+        "african-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "somali",
+          "title": "Somali Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+        },
+        {
+          "community": "arabic-speaking",
+          "title": "Arabic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        },
+        {
+          "community": "bosnian",
+          "title": "Bosnian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+        },
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "lebanese",
+          "title": "Lebanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+        },
+        {
+          "community": "nigerian",
+          "title": "Nigerian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+        },
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        },
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        },
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-03-20",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2027,
+          "date": "2027-03-09",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2028,
+          "date": "2028-02-26",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        }
+      ],
+      "dateCertainty": "moon-sighted or announced",
+      "whatItMarks": "End of Ramadan.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+      ]
+    },
+    {
+      "id": "eid-aladha",
+      "name": "Eid al-Adha",
+      "alsoKnownAs": [
+        "Ciid Weyn",
+        "Kurban Bajram",
+        "Id el Kabir"
+      ],
+      "communities": [
+        "somali",
+        "arabic-speaking",
+        "oromo",
+        "bosnian",
+        "ethiopian",
+        "lebanese",
+        "nigerian",
+        "kenyan",
+        "indian",
+        "african-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "somali",
+          "title": "Somali Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+        },
+        {
+          "community": "arabic-speaking",
+          "title": "Arabic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        },
+        {
+          "community": "bosnian",
+          "title": "Bosnian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+        },
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "lebanese",
+          "title": "Lebanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+        },
+        {
+          "community": "nigerian",
+          "title": "Nigerian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+        },
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        },
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        },
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-27",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-16",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-05",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        }
+      ],
+      "dateCertainty": "moon-sighted or announced",
+      "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+      ]
+    },
+    {
+      "id": "islamic-new-year",
+      "name": "Islamic New Year",
+      "alsoKnownAs": [
+        "Hijri New Year",
+        "Muharram"
+      ],
+      "communities": [
+        "somali",
+        "arabic-speaking",
+        "oromo",
+        "bosnian",
+        "lebanese",
+        "nigerian",
+        "kenyan",
+        "indian"
+      ],
+      "briefLinks": [
+        {
+          "community": "somali",
+          "title": "Somali Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+        },
+        {
+          "community": "arabic-speaking",
+          "title": "Arabic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        },
+        {
+          "community": "bosnian",
+          "title": "Bosnian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+        },
+        {
+          "community": "lebanese",
+          "title": "Lebanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+        },
+        {
+          "community": "nigerian",
+          "title": "Nigerian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+        },
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        },
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "First day of the first Islamic month (Muharram).",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-06-16",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2027,
+          "date": "2027-06-06",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-25",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        }
+      ],
+      "dateCertainty": "moon-sighted or announced",
+      "whatItMarks": "Start of the Hijri year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+      ]
+    },
+    {
+      "id": "ashura",
+      "name": "Ashura",
+      "alsoKnownAs": [],
+      "communities": [
+        "arabic-speaking",
+        "lebanese",
+        "indian"
+      ],
+      "briefLinks": [
+        {
+          "community": "arabic-speaking",
+          "title": "Arabic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+        },
+        {
+          "community": "lebanese",
+          "title": "Lebanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+        },
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Tenth day of Muharram.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-06-25",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2027,
+          "date": "2027-06-15",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2028,
+          "date": "2028-06-03",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        }
+      ],
+      "dateCertainty": "moon-sighted or announced",
+      "whatItMarks": "A day observed differently in Sunni and Shia practice.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+      ]
+    },
+    {
+      "id": "mawlid-annabi",
+      "name": "Mawlid an-Nabi",
+      "alsoKnownAs": [
+        "Mawlid",
+        "Mawliid"
+      ],
+      "communities": [
+        "somali",
+        "arabic-speaking",
+        "oromo",
+        "ethiopian",
+        "nigerian"
+      ],
+      "briefLinks": [
+        {
+          "community": "somali",
+          "title": "Somali Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+        },
+        {
+          "community": "arabic-speaking",
+          "title": "Arabic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        },
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "nigerian",
+          "title": "Nigerian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Twelfth day of the third Islamic month (Rabi al-Awwal); not observed by all Muslims.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-08-25",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2027,
+          "date": "2027-08-14",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        },
+        {
+          "year": 2028,
+          "date": "2028-08-03",
+          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+        }
+      ],
+      "dateCertainty": "moon-sighted or announced",
+      "whatItMarks": "Birthday of the Prophet Muhammad.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+      ]
+    },
+    {
+      "id": "enkutatash",
+      "name": "Enkutatash",
+      "alsoKnownAs": [
+        "Ethiopian New Year",
+        "Meskerem 1"
+      ],
+      "communities": [
+        "ethiopian",
+        "amharic",
+        "oromo"
+      ],
+      "briefLinks": [
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "amharic",
+          "title": "Amharic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Meskerem 1 on the Ethiopian calendar: September 11, or September 12 in the Gregorian year before a Gregorian leap year.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-09-11",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-09-12",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-09-11",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Start of the Ethiopian year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "meskel",
+      "name": "Meskel",
+      "alsoKnownAs": [
+        "Finding of the True Cross",
+        "Demera"
+      ],
+      "communities": [
+        "ethiopian",
+        "amharic"
+      ],
+      "briefLinks": [
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "amharic",
+          "title": "Amharic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Meskerem 17 on the Ethiopian calendar: September 27, or September 28 in leap-adjacent years.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-09-27",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-09-28",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-09-27",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Ethiopian Orthodox feast of the finding of the True Cross.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "genna",
+      "name": "Genna",
+      "alsoKnownAs": [
+        "Ethiopian Christmas",
+        "Ledet"
+      ],
+      "communities": [
+        "ethiopian",
+        "amharic",
+        "oromo"
+      ],
+      "briefLinks": [
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "amharic",
+          "title": "Amharic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Tahsas 29 on the Ethiopian calendar, usually January 7.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-07",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-07",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-07",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Christmas in the Ethiopian Orthodox Tewahedo Church.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "timkat",
+      "name": "Timkat",
+      "alsoKnownAs": [
+        "Ethiopian Epiphany",
+        "Timket"
+      ],
+      "communities": [
+        "ethiopian",
+        "amharic",
+        "oromo"
+      ],
+      "briefLinks": [
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "amharic",
+          "title": "Amharic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Tir 11 on the Ethiopian calendar, usually January 19 (January 20 in some years).",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-19",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-19",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-20",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "fasika",
+      "name": "Fasika",
+      "alsoKnownAs": [
+        "Ethiopian Easter"
+      ],
+      "communities": [
+        "ethiopian",
+        "amharic",
+        "oromo"
+      ],
+      "briefLinks": [
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "amharic",
+          "title": "Amharic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Same date as Eastern Orthodox Easter.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-12",
+          "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-02",
+          "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-16",
+          "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Easter in the Ethiopian Orthodox tradition.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+      ]
+    },
+    {
+      "id": "adwa-victory-day",
+      "name": "Adwa Victory Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "ethiopian",
+        "amharic",
+        "oromo"
+      ],
+      "briefLinks": [
+        {
+          "community": "ethiopian",
+          "title": "Ethiopian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+        },
+        {
+          "community": "amharic",
+          "title": "Amharic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "March 2 (Yekatit 23).",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-03-02",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-03-02",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-03-02",
+          "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1896 Ethiopian victory at Adwa.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "orthodox-christmas-julian-calendar",
+      "name": "Orthodox Christmas (Julian calendar)",
+      "alsoKnownAs": [
+        "Rizdvo",
+        "Rozhdestvo",
+        "Božić (Pravoslavni)"
+      ],
+      "communities": [
+        "ukrainian",
+        "russian-speaking",
+        "bosnian"
+      ],
+      "briefLinks": [
+        {
+          "community": "ukrainian",
+          "title": "Ukrainian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+        },
+        {
+          "community": "russian-speaking",
+          "title": "Russian-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+        },
+        {
+          "community": "bosnian",
+          "title": "Bosnian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses December 25 on the Revised Julian calendar.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2027-01-07",
+          "source": "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+        },
+        {
+          "year": 2027,
+          "date": "2028-01-07",
+          "source": "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+        },
+        {
+          "year": 2028,
+          "date": "2029-01-07",
+          "source": "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Christmas for churches on the Julian calendar.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+      ]
+    },
+    {
+      "id": "orthodox-easter",
+      "name": "Orthodox Easter",
+      "alsoKnownAs": [
+        "Pascha",
+        "Velykden",
+        "Paskha"
+      ],
+      "communities": [
+        "ukrainian",
+        "russian-speaking",
+        "bosnian",
+        "arabic-speaking",
+        "lebanese"
+      ],
+      "briefLinks": [
+        {
+          "community": "ukrainian",
+          "title": "Ukrainian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+        },
+        {
+          "community": "russian-speaking",
+          "title": "Russian-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+        },
+        {
+          "community": "bosnian",
+          "title": "Bosnian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+        },
+        {
+          "community": "arabic-speaking",
+          "title": "Arabic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+        },
+        {
+          "community": "lebanese",
+          "title": "Lebanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-12",
+          "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-02",
+          "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-16",
+          "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Resurrection of Jesus in Eastern Christian tradition.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+      ]
+    },
+    {
+      "id": "easter",
+      "name": "Easter",
+      "alsoKnownAs": [
+        "Pascua",
+        "Pâques",
+        "Pasko ng Pagkabuhay"
+      ],
+      "communities": [
+        "american",
+        "european-american",
+        "minnesota",
+        "filipino",
+        "mexican",
+        "latino",
+        "guatemalan",
+        "salvadoran",
+        "colombian",
+        "ecuadorian",
+        "cuban",
+        "puerto-rican",
+        "french",
+        "african-american",
+        "liberian",
+        "nigerian",
+        "kenyan",
+        "lebanese",
+        "korean",
+        "karen",
+        "ukrainian"
+      ],
+      "briefLinks": [
+        {
+          "community": "american",
+          "title": "American culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+        },
+        {
+          "community": "european-american",
+          "title": "European American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        },
+        {
+          "community": "filipino",
+          "title": "Filipino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+        },
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        },
+        {
+          "community": "guatemalan",
+          "title": "Guatemalan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+        },
+        {
+          "community": "salvadoran",
+          "title": "Salvadoran Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+        },
+        {
+          "community": "colombian",
+          "title": "Colombian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+        },
+        {
+          "community": "ecuadorian",
+          "title": "Ecuadorian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+        },
+        {
+          "community": "cuban",
+          "title": "Cuban Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+        },
+        {
+          "community": "puerto-rican",
+          "title": "Puerto Rican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+        },
+        {
+          "community": "french",
+          "title": "French-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+        },
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        },
+        {
+          "community": "liberian",
+          "title": "Liberian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+        },
+        {
+          "community": "nigerian",
+          "title": "Nigerian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+        },
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        },
+        {
+          "community": "lebanese",
+          "title": "Lebanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+        },
+        {
+          "community": "korean",
+          "title": "Korean Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+        },
+        {
+          "community": "karen",
+          "title": "Karen Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+        },
+        {
+          "community": "ukrainian",
+          "title": "Ukrainian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-05",
+          "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+        },
+        {
+          "year": 2027,
+          "date": "2027-03-28",
+          "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-16",
+          "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+      ]
+    },
+    {
+      "id": "good-friday",
+      "name": "Good Friday",
+      "alsoKnownAs": [
+        "Viernes Santo",
+        "Biyernes Santo"
+      ],
+      "communities": [
+        "filipino",
+        "mexican",
+        "latino",
+        "guatemalan",
+        "salvadoran",
+        "colombian",
+        "ecuadorian",
+        "puerto-rican",
+        "liberian",
+        "nigerian",
+        "kenyan",
+        "european-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "filipino",
+          "title": "Filipino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+        },
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        },
+        {
+          "community": "guatemalan",
+          "title": "Guatemalan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+        },
+        {
+          "community": "salvadoran",
+          "title": "Salvadoran Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+        },
+        {
+          "community": "colombian",
+          "title": "Colombian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+        },
+        {
+          "community": "ecuadorian",
+          "title": "Ecuadorian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+        },
+        {
+          "community": "puerto-rican",
+          "title": "Puerto Rican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+        },
+        {
+          "community": "liberian",
+          "title": "Liberian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+        },
+        {
+          "community": "nigerian",
+          "title": "Nigerian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+        },
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        },
+        {
+          "community": "european-american",
+          "title": "European American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "The Friday before Western Easter.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-03",
+          "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+        },
+        {
+          "year": 2027,
+          "date": "2027-03-26",
+          "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-14",
+          "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "The crucifixion of Jesus.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+      ]
+    },
+    {
+      "id": "ash-wednesday",
+      "name": "Ash Wednesday",
+      "alsoKnownAs": [
+        "Miércoles de Ceniza"
+      ],
+      "communities": [
+        "latino",
+        "mexican",
+        "filipino",
+        "european-american",
+        "guatemalan",
+        "salvadoran"
+      ],
+      "briefLinks": [
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        },
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "filipino",
+          "title": "Filipino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+        },
+        {
+          "community": "european-american",
+          "title": "European American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+        },
+        {
+          "community": "guatemalan",
+          "title": "Guatemalan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+        },
+        {
+          "community": "salvadoran",
+          "title": "Salvadoran Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "46 days before Western Easter.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-02-18",
+          "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Ash Wednesday"
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-10",
+          "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Ash Wednesday"
+        },
+        {
+          "year": 2028,
+          "date": "2028-03-01",
+          "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Ash Wednesday"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Start of Lent.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: Gregorian Easter computus (python-dateutil 2.9), Ash Wednesday"
+      ]
+    },
+    {
+      "id": "diwali",
+      "name": "Diwali",
+      "alsoKnownAs": [
+        "Deepavali"
+      ],
+      "communities": [
+        "indian"
+      ],
+      "briefLinks": [
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "New moon (Amavasya) of the Hindu lunar month Kartika (Ashvin in the amanta reckoning), usually October or November.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-11-08",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-10-29",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-10-17",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Festival of lights.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "holi",
+      "name": "Holi",
+      "alsoKnownAs": [],
+      "communities": [
+        "indian"
+      ],
+      "briefLinks": [
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Day after the full moon of the Hindu month Phalguna, usually March.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-03-04",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-03-22",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-03-11",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Spring festival of colors.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "republic-day-india",
+      "name": "Republic Day (India)",
+      "alsoKnownAs": [],
+      "communities": [
+        "indian"
+      ],
+      "briefLinks": [
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "January 26.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-26",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-26",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-26",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Adoption of the Constitution of India in 1950.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "independence-day-india",
+      "name": "Independence Day (India)",
+      "alsoKnownAs": [],
+      "communities": [
+        "indian"
+      ],
+      "briefLinks": [
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "August 15.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-08-15",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-08-15",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-08-15",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Indian independence in 1947.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "shōgatsu",
+      "name": "Shōgatsu",
+      "alsoKnownAs": [
+        "Japanese New Year",
+        "Oshōgatsu"
+      ],
+      "communities": [
+        "japanese"
+      ],
+      "briefLinks": [
+        {
+          "community": "japanese",
+          "title": "Japanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "January 1, with celebrations through the first days of January.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Japanese new year.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "mexican-independence-day",
+      "name": "Mexican Independence Day",
+      "alsoKnownAs": [
+        "Grito de Dolores",
+        "Día de la Independencia"
+      ],
+      "communities": [
+        "mexican",
+        "latino"
+      ],
+      "briefLinks": [
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "September 16.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-09-16",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-09-16",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-09-16",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Start of the 1810 war of independence.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "central-american-independence-day",
+      "name": "Central American Independence Day",
+      "alsoKnownAs": [
+        "Día de la Independencia"
+      ],
+      "communities": [
+        "guatemalan",
+        "salvadoran",
+        "latino"
+      ],
+      "briefLinks": [
+        {
+          "community": "guatemalan",
+          "title": "Guatemalan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+        },
+        {
+          "community": "salvadoran",
+          "title": "Salvadoran Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "September 15.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-09-15",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-09-15",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-09-15",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Independence of Central America from Spain in 1821.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "colombian-independence-day",
+      "name": "Colombian Independence Day",
+      "alsoKnownAs": [
+        "Día de la Independencia"
+      ],
+      "communities": [
+        "colombian",
+        "latino"
+      ],
+      "briefLinks": [
+        {
+          "community": "colombian",
+          "title": "Colombian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "July 20.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-07-20",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-07-20",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-07-20",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1810 declaration in Bogotá.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "ecuadorian-independence-day",
+      "name": "Ecuadorian Independence Day",
+      "alsoKnownAs": [
+        "Primer Grito de Independencia"
+      ],
+      "communities": [
+        "ecuadorian",
+        "latino"
+      ],
+      "briefLinks": [
+        {
+          "community": "ecuadorian",
+          "title": "Ecuadorian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "August 10.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-08-10",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-08-10",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-08-10",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1809 Quito uprising.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "philippine-independence-day",
+      "name": "Philippine Independence Day",
+      "alsoKnownAs": [
+        "Araw ng Kalayaan"
+      ],
+      "communities": [
+        "filipino"
+      ],
+      "briefLinks": [
+        {
+          "community": "filipino",
+          "title": "Filipino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "June 12.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-06-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-06-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-06-12",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1898 declaration of independence.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "nigerian-independence-day",
+      "name": "Nigerian Independence Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "nigerian"
+      ],
+      "briefLinks": [
+        {
+          "community": "nigerian",
+          "title": "Nigerian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "October 1.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-10-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-10-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-10-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Independence in 1960.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "jamhuri-day",
+      "name": "Jamhuri Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "kenyan"
+      ],
+      "briefLinks": [
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "December 12.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-12-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-12-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-12",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Independence (1963) and republic (1964).",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "liberian-independence-day",
+      "name": "Liberian Independence Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "liberian"
+      ],
+      "briefLinks": [
+        {
+          "community": "liberian",
+          "title": "Liberian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "July 26.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-07-26",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-07-26",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-07-26",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Independence in 1847.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "somali-independence-day",
+      "name": "Somali Independence Day",
+      "alsoKnownAs": [
+        "1 Luulyo"
+      ],
+      "communities": [
+        "somali"
+      ],
+      "briefLinks": [
+        {
+          "community": "somali",
+          "title": "Somali Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "July 1.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-07-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-07-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-07-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Union of the former British and Italian territories as the Somali Republic in 1960.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "lebanese-independence-day",
+      "name": "Lebanese Independence Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "lebanese",
+        "arabic-speaking"
+      ],
+      "briefLinks": [
+        {
+          "community": "lebanese",
+          "title": "Lebanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+        },
+        {
+          "community": "arabic-speaking",
+          "title": "Arabic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "November 22.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-11-22",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-11-22",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-11-22",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Independence in 1943.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "ukrainian-independence-day",
+      "name": "Ukrainian Independence Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "ukrainian"
+      ],
+      "briefLinks": [
+        {
+          "community": "ukrainian",
+          "title": "Ukrainian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "August 24.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-08-24",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-08-24",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-08-24",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Independence in 1991.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "bosnia-and-herzegovina-independence-day",
+      "name": "Bosnia and Herzegovina Independence Day",
+      "alsoKnownAs": [
+        "Dan nezavisnosti"
+      ],
+      "communities": [
+        "bosnian"
+      ],
+      "briefLinks": [
+        {
+          "community": "bosnian",
+          "title": "Bosnian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "March 1.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-03-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-03-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-03-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1992 independence referendum.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "korean-independence-movement-day",
+      "name": "Korean Independence Movement Day",
+      "alsoKnownAs": [
+        "Samiljeol"
+      ],
+      "communities": [
+        "korean"
+      ],
+      "briefLinks": [
+        {
+          "community": "korean",
+          "title": "Korean Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "March 1.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-03-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-03-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-03-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1919 March First Movement.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "korean-liberation-day",
+      "name": "Korean Liberation Day",
+      "alsoKnownAs": [
+        "Gwangbokjeol"
+      ],
+      "communities": [
+        "korean"
+      ],
+      "briefLinks": [
+        {
+          "community": "korean",
+          "title": "Korean Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "August 15.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-08-15",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-08-15",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-08-15",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Liberation from Japanese rule in 1945.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "puerto-rico-constitution-day",
+      "name": "Puerto Rico Constitution Day",
+      "alsoKnownAs": [
+        "Día de la Constitución"
+      ],
+      "communities": [
+        "puerto-rican"
+      ],
+      "briefLinks": [
+        {
+          "community": "puerto-rican",
+          "title": "Puerto Rican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "July 25.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-07-25",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-07-25",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-07-25",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1952 Commonwealth constitution.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "lao-national-day",
+      "name": "Lao National Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "lao"
+      ],
+      "briefLinks": [
+        {
+          "community": "lao",
+          "title": "Lao Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "December 2.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-12-02",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-12-02",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-02",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Founding of the Lao PDR in 1975.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "union-day-myanmar",
+      "name": "Union Day (Myanmar)",
+      "alsoKnownAs": [],
+      "communities": [
+        "burmese",
+        "karen"
+      ],
+      "briefLinks": [
+        {
+          "community": "burmese",
+          "title": "Burmese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+        },
+        {
+          "community": "karen",
+          "title": "Karen Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "February 12.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-02-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-02-12",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1947 Panglong Agreement.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "día-de-la-virgen-de-guadalupe",
+      "name": "Día de la Virgen de Guadalupe",
+      "alsoKnownAs": [
+        "Our Lady of Guadalupe"
+      ],
+      "communities": [
+        "mexican",
+        "latino"
+      ],
+      "briefLinks": [
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "December 12.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-12-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-12-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-12",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Feast of Our Lady of Guadalupe.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "día-de-los-muertos",
+      "name": "Día de los Muertos",
+      "alsoKnownAs": [
+        "Day of the Dead"
+      ],
+      "communities": [
+        "mexican",
+        "latino",
+        "guatemalan"
+      ],
+      "briefLinks": [
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        },
+        {
+          "community": "guatemalan",
+          "title": "Guatemalan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+        }
+      ],
+      "kind": "heritage",
+      "dateRule": "November 2.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-11-02",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-11-02",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-11-02",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Remembrance of the dead (observed November 1 and 2).",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "st-patricks-day",
+      "name": "St. Patrick's Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "european-american",
+        "american"
+      ],
+      "briefLinks": [
+        {
+          "community": "european-american",
+          "title": "European American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+        },
+        {
+          "community": "american",
+          "title": "American culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+        }
+      ],
+      "kind": "heritage",
+      "dateRule": "March 17.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-03-17",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-03-17",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-03-17",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Feast of Saint Patrick.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "syttende-mai",
+      "name": "Syttende Mai",
+      "alsoKnownAs": [
+        "Norwegian Constitution Day"
+      ],
+      "communities": [
+        "european-american",
+        "minnesota"
+      ],
+      "briefLinks": [
+        {
+          "community": "european-american",
+          "title": "European American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "May 17.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-17",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-17",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-17",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1814 Norwegian constitution.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "st-lucia-day",
+      "name": "St. Lucia Day",
+      "alsoKnownAs": [
+        "Luciadagen"
+      ],
+      "communities": [
+        "european-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "european-american",
+          "title": "European American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+        }
+      ],
+      "kind": "heritage",
+      "dateRule": "December 13.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-12-13",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-12-13",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-13",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Feast of Saint Lucy, kept in Swedish tradition.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "minnesota-statehood-day",
+      "name": "Minnesota Statehood Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "minnesota"
+      ],
+      "briefLinks": [
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "May 11.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-11",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-11",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-11",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Minnesota became a state on May 11, 1858.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "international-day-of-sign-languages",
+      "name": "International Day of Sign Languages",
+      "alsoKnownAs": [],
+      "communities": [
+        "deaf-deafblind-hard-of-hearing"
+      ],
+      "briefLinks": [
+        {
+          "community": "deaf-deafblind-hard-of-hearing",
+          "title": "deaf-deafblind-hard-of-hearing",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/deaf-deafblind-hard-of-hearing"
+        }
+      ],
+      "kind": "heritage",
+      "dateRule": "September 23.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-09-23",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-09-23",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-09-23",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "United Nations day for sign languages.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "alsoKnownAs": [
+        "Navidad",
+        "Noël",
+        "Pasko"
+      ],
+      "communities": [
+        "american",
+        "european-american",
+        "minnesota",
+        "filipino",
+        "mexican",
+        "latino",
+        "guatemalan",
+        "salvadoran",
+        "colombian",
+        "ecuadorian",
+        "cuban",
+        "puerto-rican",
+        "french",
+        "african-american",
+        "liberian",
+        "nigerian",
+        "kenyan",
+        "lebanese",
+        "korean",
+        "karen"
+      ],
+      "briefLinks": [
+        {
+          "community": "american",
+          "title": "American culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+        },
+        {
+          "community": "european-american",
+          "title": "European American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        },
+        {
+          "community": "filipino",
+          "title": "Filipino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+        },
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        },
+        {
+          "community": "guatemalan",
+          "title": "Guatemalan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+        },
+        {
+          "community": "salvadoran",
+          "title": "Salvadoran Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+        },
+        {
+          "community": "colombian",
+          "title": "Colombian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+        },
+        {
+          "community": "ecuadorian",
+          "title": "Ecuadorian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+        },
+        {
+          "community": "cuban",
+          "title": "Cuban Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+        },
+        {
+          "community": "puerto-rican",
+          "title": "Puerto Rican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+        },
+        {
+          "community": "french",
+          "title": "French-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+        },
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        },
+        {
+          "community": "liberian",
+          "title": "Liberian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+        },
+        {
+          "community": "nigerian",
+          "title": "Nigerian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+        },
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        },
+        {
+          "community": "lebanese",
+          "title": "Lebanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+        },
+        {
+          "community": "korean",
+          "title": "Korean Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+        },
+        {
+          "community": "karen",
+          "title": "Karen Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "December 25.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-12-25",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-12-25",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-25",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "kwanzaa-first-day",
+      "name": "Kwanzaa (first day)",
+      "alsoKnownAs": [],
+      "communities": [
+        "african-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        }
+      ],
+      "kind": "heritage",
+      "dateRule": "December 26.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-12-26",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-12-26",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-26",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "First of seven days (December 26 to January 1) honoring African heritage, created in 1966.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "martin-luther-king-jr-day",
+      "name": "Martin Luther King Jr. Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "african-american",
+        "american",
+        "minnesota"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        },
+        {
+          "community": "american",
+          "title": "American culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "Third Monday in January.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-19",
+          "source": "Calculated: third Monday in January (federal holiday rule)"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-18",
+          "source": "Calculated: third Monday in January (federal holiday rule)"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-17",
+          "source": "Calculated: third Monday in January (federal holiday rule)"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Life and work of Dr. Martin Luther King Jr.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: third Monday in January (federal holiday rule)"
+      ]
+    },
+    {
+      "id": "juneteenth",
+      "name": "Juneteenth",
+      "alsoKnownAs": [
+        "Juneteenth National Independence Day"
+      ],
+      "communities": [
+        "african-american",
+        "american",
+        "minnesota"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        },
+        {
+          "community": "american",
+          "title": "American culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "June 19.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-06-19",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-06-19",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-06-19",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "June 19, 1865, when enslaved people in Galveston, Texas, were told of their freedom.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "independence-day-united-states",
+      "name": "Independence Day (United States)",
+      "alsoKnownAs": [
+        "Fourth of July"
+      ],
+      "communities": [
+        "american",
+        "minnesota",
+        "european-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "american",
+          "title": "American culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        },
+        {
+          "community": "european-american",
+          "title": "European American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "July 4.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-07-04",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-07-04",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-07-04",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1776 Declaration of Independence.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "thanksgiving",
+      "name": "Thanksgiving",
+      "alsoKnownAs": [],
+      "communities": [
+        "american",
+        "minnesota",
+        "european-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "american",
+          "title": "American culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        },
+        {
+          "community": "european-american",
+          "title": "European American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "Fourth Thursday in November.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-11-26",
+          "source": "Calculated: fourth Thursday in November (federal holiday rule)"
+        },
+        {
+          "year": 2027,
+          "date": "2027-11-25",
+          "source": "Calculated: fourth Thursday in November (federal holiday rule)"
+        },
+        {
+          "year": 2028,
+          "date": "2028-11-23",
+          "source": "Calculated: fourth Thursday in November (federal holiday rule)"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "United States harvest and thanksgiving holiday.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: fourth Thursday in November (federal holiday rule)"
+      ]
+    },
+    {
+      "id": "somaliland-independence-june-26",
+      "name": "Somaliland independence (June 26)",
+      "alsoKnownAs": [],
+      "communities": [
+        "somali"
+      ],
+      "briefLinks": [
+        {
+          "community": "somali",
+          "title": "Somali Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "June 26.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-06-26",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-06-26",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-06-26",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Independence of British Somaliland in 1960; marked by some families, and its meaning depends on Somaliland politics.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "may-14-hmong-veterans-and-general-vang-pao-remembrance",
+      "name": "May 14 Hmong veterans and General Vang Pao remembrance",
+      "alsoKnownAs": [],
+      "communities": [
+        "hmong"
+      ],
+      "briefLinks": [
+        {
+          "community": "hmong",
+          "title": "Hmong Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/hmong"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "May 14.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-14",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-14",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-14",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The May 14, 1975 departure of General Vang Pao from Laos, remembered by Hmong American and Hmong-Lao veterans.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "karen-martyrs-day",
+      "name": "Karen Martyrs' Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "karen"
+      ],
+      "briefLinks": [
+        {
+          "community": "karen",
+          "title": "Karen Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "August 12.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-08-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-08-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-08-12",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1950 killing of Saw Ba U Gyi.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "srebrenica-genocide-memorial-day",
+      "name": "Srebrenica Genocide Memorial Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "bosnian"
+      ],
+      "briefLinks": [
+        {
+          "community": "bosnian",
+          "title": "Bosnian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "July 11.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-07-11",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-07-11",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-07-11",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The July 1995 genocide at Srebrenica.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "victory-day-may-9",
+      "name": "Victory Day (May 9)",
+      "alsoKnownAs": [
+        "Den Pobedy"
+      ],
+      "communities": [
+        "russian-speaking"
+      ],
+      "briefLinks": [
+        {
+          "community": "russian-speaking",
+          "title": "Russian-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "May 9.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-09",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-09",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-09",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1945 end of the Second World War in Europe in Soviet memory; meaningful to some elders and contested by others since 2022.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "new-year-novy-god",
+      "name": "New Year (Novy God)",
+      "alsoKnownAs": [
+        "Novy God"
+      ],
+      "communities": [
+        "russian-speaking",
+        "ukrainian"
+      ],
+      "briefLinks": [
+        {
+          "community": "russian-speaking",
+          "title": "Russian-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+        },
+        {
+          "community": "ukrainian",
+          "title": "Ukrainian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "January 1.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The major secular winter holiday from the Soviet era, still central for some families.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "haitian-independence-day",
+      "name": "Haitian Independence Day",
+      "alsoKnownAs": [
+        "Jour de l'Indépendance"
+      ],
+      "communities": [
+        "french"
+      ],
+      "briefLinks": [
+        {
+          "community": "french",
+          "title": "French-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "January 1.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Haitian independence in 1804.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "haiti-earthquake-remembrance",
+      "name": "Haiti earthquake remembrance",
+      "alsoKnownAs": [],
+      "communities": [
+        "french"
+      ],
+      "briefLinks": [
+        {
+          "community": "french",
+          "title": "French-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "January 12.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-12",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The January 12, 2010 earthquake in Haiti.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "cambodian-genocide-remembrance-april-17",
+      "name": "Cambodian Genocide Remembrance (April 17)",
+      "alsoKnownAs": [],
+      "communities": [
+        "khmer"
+      ],
+      "briefLinks": [
+        {
+          "community": "khmer",
+          "title": "Cambodian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "April 17.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-17",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-04-17",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-17",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The Khmer Rouge takeover of Phnom Penh on April 17, 1975.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "day-of-remembrance-executive-order-9066",
+      "name": "Day of Remembrance (Executive Order 9066)",
+      "alsoKnownAs": [],
+      "communities": [
+        "japanese"
+      ],
+      "briefLinks": [
+        {
+          "community": "japanese",
+          "title": "Japanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "February 19.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-02-19",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-19",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-02-19",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The February 19, 1942 order that led to the incarceration of Japanese Americans.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "black-april",
+      "name": "Black April",
+      "alsoKnownAs": [
+        "Ngày Quốc Hận",
+        "Fall of Saigon remembrance"
+      ],
+      "communities": [
+        "vietnamese"
+      ],
+      "briefLinks": [
+        {
+          "community": "vietnamese",
+          "title": "Vietnamese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "April 30.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-30",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-04-30",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-30",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "April 30, 1975, the end of the Republic of Vietnam; grief and politics for many Vietnamese Americans.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "día-de-los-reyes",
+      "name": "Día de los Reyes",
+      "alsoKnownAs": [
+        "Three Kings Day",
+        "Epiphany"
+      ],
+      "communities": [
+        "mexican",
+        "puerto-rican",
+        "latino",
+        "guatemalan",
+        "salvadoran",
+        "colombian",
+        "ecuadorian",
+        "cuban"
+      ],
+      "briefLinks": [
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "puerto-rican",
+          "title": "Puerto Rican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        },
+        {
+          "community": "guatemalan",
+          "title": "Guatemalan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+        },
+        {
+          "community": "salvadoran",
+          "title": "Salvadoran Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+        },
+        {
+          "community": "colombian",
+          "title": "Colombian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+        },
+        {
+          "community": "ecuadorian",
+          "title": "Ecuadorian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+        },
+        {
+          "community": "cuban",
+          "title": "Cuban Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "January 6.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-06",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-06",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-06",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "las-posadas-first-night",
+      "name": "Las Posadas (first night)",
+      "alsoKnownAs": [],
+      "communities": [
+        "mexican",
+        "latino",
+        "guatemalan"
+      ],
+      "briefLinks": [
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        },
+        {
+          "community": "guatemalan",
+          "title": "Guatemalan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "December 16.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-12-16",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-12-16",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-16",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Nine nights (December 16 to 24) re-enacting Mary and Joseph's search for shelter.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "discovery-of-puerto-rico-day",
+      "name": "Discovery of Puerto Rico Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "puerto-rican"
+      ],
+      "briefLinks": [
+        {
+          "community": "puerto-rican",
+          "title": "Puerto Rican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "November 19.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-11-19",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-11-19",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-11-19",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Columbus's 1493 landing; marked in some public life.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "saint-óscar-romero-remembrance",
+      "name": "Saint Óscar Romero remembrance",
+      "alsoKnownAs": [],
+      "communities": [
+        "salvadoran"
+      ],
+      "briefLinks": [
+        {
+          "community": "salvadoran",
+          "title": "Salvadoran Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "March 24.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-03-24",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-03-24",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-03-24",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The assassination of Archbishop Óscar Romero on March 24, 1980.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "salvadoran-peace-accords-anniversary",
+      "name": "Salvadoran Peace Accords anniversary",
+      "alsoKnownAs": [],
+      "communities": [
+        "salvadoran"
+      ],
+      "briefLinks": [
+        {
+          "community": "salvadoran",
+          "title": "Salvadoran Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "January 16.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-16",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-16",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-16",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The January 16, 1992 peace accords ending the civil war.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "cuban-revolution-exile-anniversary",
+      "name": "Cuban Revolution / exile anniversary",
+      "alsoKnownAs": [],
+      "communities": [
+        "cuban"
+      ],
+      "briefLinks": [
+        {
+          "community": "cuban",
+          "title": "Cuban Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "January 1.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-01-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-01-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-01-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "January 1, 1959; revolution or exile depending on the family, and grief and politics for many.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "cuban-independence-may-20",
+      "name": "Cuban Independence (May 20)",
+      "alsoKnownAs": [],
+      "communities": [
+        "cuban"
+      ],
+      "briefLinks": [
+        {
+          "community": "cuban",
+          "title": "Cuban Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "May 20.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-20",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-20",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-20",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1902 republic; kept in some exile calendars.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "grito-de-yara-october-10",
+      "name": "Grito de Yara (October 10)",
+      "alsoKnownAs": [],
+      "communities": [
+        "cuban"
+      ],
+      "briefLinks": [
+        {
+          "community": "cuban",
+          "title": "Cuban Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "October 10.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-10-10",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-10-10",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-10-10",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The 1868 start of the wars of independence.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "madaraka-day",
+      "name": "Madaraka Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "kenyan"
+      ],
+      "briefLinks": [
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "June 1.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-06-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-06-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-06-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Self-rule in 1963.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "mashujaa-day",
+      "name": "Mashujaa Day",
+      "alsoKnownAs": [
+        "Heroes' Day"
+      ],
+      "communities": [
+        "kenyan"
+      ],
+      "briefLinks": [
+        {
+          "community": "kenyan",
+          "title": "Kenyan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "October 20.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-10-20",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-10-20",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-10-20",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Day honoring national heroes.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "edsa-people-power-anniversary",
+      "name": "EDSA People Power anniversary",
+      "alsoKnownAs": [],
+      "communities": [
+        "filipino"
+      ],
+      "briefLinks": [
+        {
+          "community": "filipino",
+          "title": "Filipino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "February 25.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-02-25",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-25",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-02-25",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The February 1986 People Power movement.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "watch-night",
+      "name": "Watch Night",
+      "alsoKnownAs": [],
+      "communities": [
+        "african-american",
+        "liberian"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        },
+        {
+          "community": "liberian",
+          "title": "Liberian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "December 31.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-12-31",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-12-31",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-31",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "New Year's Eve church vigil, remembering the 1862 vigil before the Emancipation Proclamation took effect.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "malcolm-xs-birthday",
+      "name": "Malcolm X's birthday",
+      "alsoKnownAs": [],
+      "communities": [
+        "african-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "May 19.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-19",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-19",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-19",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Birth of Malcolm X in 1925.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "anniversary-of-dr-kings-assassination",
+      "name": "Anniversary of Dr. King's assassination",
+      "alsoKnownAs": [],
+      "communities": [
+        "african-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "April 4.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-04",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-04-04",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-04",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "April 4, 1968.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "george-floyd-remembrance",
+      "name": "George Floyd remembrance",
+      "alsoKnownAs": [],
+      "communities": [
+        "african-american",
+        "minnesota"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "May 25.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-25",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-25",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-25",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The May 25, 2020 murder of George Floyd in Minneapolis.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "march-on-washington-anniversary",
+      "name": "March on Washington anniversary",
+      "alsoKnownAs": [],
+      "communities": [
+        "african-american"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "August 28.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-08-28",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-08-28",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-08-28",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "The August 28, 1963 March on Washington.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "black-history-month-begins",
+      "name": "Black History Month (begins)",
+      "alsoKnownAs": [],
+      "communities": [
+        "african-american",
+        "american",
+        "minnesota"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        },
+        {
+          "community": "american",
+          "title": "American culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        }
+      ],
+      "kind": "heritage",
+      "dateRule": "February 1.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-02-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-01",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-02-01",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Month of Black history, February.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "hispanic-heritage-month-begins",
+      "name": "Hispanic Heritage Month (begins)",
+      "alsoKnownAs": [],
+      "communities": [
+        "latino",
+        "mexican",
+        "guatemalan",
+        "salvadoran",
+        "colombian",
+        "ecuadorian",
+        "cuban",
+        "puerto-rican"
+      ],
+      "briefLinks": [
+        {
+          "community": "latino",
+          "title": "Latino Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+        },
+        {
+          "community": "mexican",
+          "title": "Mexican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+        },
+        {
+          "community": "guatemalan",
+          "title": "Guatemalan Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+        },
+        {
+          "community": "salvadoran",
+          "title": "Salvadoran Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+        },
+        {
+          "community": "colombian",
+          "title": "Colombian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+        },
+        {
+          "community": "ecuadorian",
+          "title": "Ecuadorian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+        },
+        {
+          "community": "cuban",
+          "title": "Cuban Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+        },
+        {
+          "community": "puerto-rican",
+          "title": "Puerto Rican Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+        }
+      ],
+      "kind": "heritage",
+      "dateRule": "September 15.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-09-15",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-09-15",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-09-15",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "thai-mothers-day",
+      "name": "Thai Mother's Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "thai"
+      ],
+      "briefLinks": [
+        {
+          "community": "thai",
+          "title": "Thai Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "August 12.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-08-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-08-12",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-08-12",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Birthday of Queen Mother Sirikit, kept as Mother's Day in Thailand.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "thai-fathers-day",
+      "name": "Thai Father's Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "thai"
+      ],
+      "briefLinks": [
+        {
+          "community": "thai",
+          "title": "Thai Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+        }
+      ],
+      "kind": "national",
+      "dateRule": "December 5.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-12-05",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2027,
+          "date": "2027-12-05",
+          "source": "Fixed Gregorian date"
+        },
+        {
+          "year": 2028,
+          "date": "2028-12-05",
+          "source": "Fixed Gregorian date"
+        }
+      ],
+      "dateCertainty": "fixed",
+      "whatItMarks": "Birthday of King Bhumibol, kept as Father's Day in Thailand.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Fixed Gregorian date"
+      ]
+    },
+    {
+      "id": "rondo-days",
+      "name": "Rondo Days",
+      "alsoKnownAs": [],
+      "communities": [
+        "african-american",
+        "minnesota"
+      ],
+      "briefLinks": [
+        {
+          "community": "african-american",
+          "title": "African American Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+        },
+        {
+          "community": "minnesota",
+          "title": "Minnesota culture",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+        }
+      ],
+      "kind": "community festival",
+      "dateRule": "Third Saturday of July in St. Paul, as set by the organizers.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-07-18",
+          "source": "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year"
+        },
+        {
+          "year": 2027,
+          "date": "2027-07-17",
+          "source": "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year"
+        },
+        {
+          "year": 2028,
+          "date": "2028-07-15",
+          "source": "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year"
+        }
+      ],
+      "dateCertainty": "announced each year",
+      "whatItMarks": "The Black St. Paul neighborhood of Rondo, divided by Interstate 94.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year"
+      ]
+    },
+    {
+      "id": "holodomor-remembrance-day",
+      "name": "Holodomor Remembrance Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "ukrainian"
+      ],
+      "briefLinks": [
+        {
+          "community": "ukrainian",
+          "title": "Ukrainian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+        }
+      ],
+      "kind": "remembrance",
+      "dateRule": "Fourth Saturday of November.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-11-28",
+          "source": "Calculated: fourth Saturday in November"
+        },
+        {
+          "year": 2027,
+          "date": "2027-11-27",
+          "source": "Calculated: fourth Saturday in November"
+        },
+        {
+          "year": 2028,
+          "date": "2028-11-25",
+          "source": "Calculated: fourth Saturday in November"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "The 1932-33 famine in Soviet Ukraine.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: fourth Saturday in November"
+      ]
+    },
+    {
+      "id": "vyshyvanka-day",
+      "name": "Vyshyvanka Day",
+      "alsoKnownAs": [],
+      "communities": [
+        "ukrainian"
+      ],
+      "briefLinks": [
+        {
+          "community": "ukrainian",
+          "title": "Ukrainian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Third Thursday of May.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-05-21",
+          "source": "Calculated: third Thursday in May"
+        },
+        {
+          "year": 2027,
+          "date": "2027-05-20",
+          "source": "Calculated: third Thursday in May"
+        },
+        {
+          "year": 2028,
+          "date": "2028-05-18",
+          "source": "Calculated: third Thursday in May"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "A day for wearing embroidered shirts.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated: third Thursday in May"
+      ]
+    },
+    {
+      "id": "pchum-ben",
+      "name": "Pchum Ben",
+      "alsoKnownAs": [
+        "Ancestors' Day"
+      ],
+      "communities": [
+        "khmer"
+      ],
+      "briefLinks": [
+        {
+          "community": "khmer",
+          "title": "Cambodian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Last of fifteen days at the end of the Khmer lunar month Photrobot, usually September or October.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-10-10",
+          "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-09-29",
+          "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-09-17",
+          "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "The fortnight when families make offerings for the dead.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "hùng-kings-commemoration",
+      "name": "Hùng Kings Commemoration",
+      "alsoKnownAs": [
+        "Giỗ Tổ Hùng Vương"
+      ],
+      "communities": [
+        "vietnamese"
+      ],
+      "briefLinks": [
+        {
+          "community": "vietnamese",
+          "title": "Vietnamese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Tenth day of the third lunar month.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-04-26",
+          "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-04-16",
+          "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-04-04",
+          "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Commemoration of the legendary founding kings.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "makha-bucha",
+      "name": "Makha Bucha",
+      "alsoKnownAs": [
+        "Magha Puja"
+      ],
+      "communities": [
+        "thai",
+        "lao",
+        "khmer"
+      ],
+      "briefLinks": [
+        {
+          "community": "thai",
+          "title": "Thai Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+        },
+        {
+          "community": "lao",
+          "title": "Lao Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+        },
+        {
+          "community": "khmer",
+          "title": "Cambodian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Full moon of the third lunar month, usually February or March.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-03-03",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-02-21",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-02-10",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "A Theravada Buddhist holy day.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "asanha-bucha-and-start-of-buddhist-lent",
+      "name": "Asanha Bucha and start of Buddhist Lent",
+      "alsoKnownAs": [
+        "Khao Phansa"
+      ],
+      "communities": [
+        "thai",
+        "lao",
+        "khmer",
+        "burmese"
+      ],
+      "briefLinks": [
+        {
+          "community": "thai",
+          "title": "Thai Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+        },
+        {
+          "community": "lao",
+          "title": "Lao Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+        },
+        {
+          "community": "khmer",
+          "title": "Cambodian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+        },
+        {
+          "community": "burmese",
+          "title": "Burmese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Full moon of the eighth lunar month, usually July; the rains retreat starts the next day.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-07-29",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-07-18",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-07-06",
+          "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "The Buddha's first sermon, and the start of the three-month rains retreat.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "navaratri-and-dussehra",
+      "name": "Navaratri and Dussehra",
+      "alsoKnownAs": [
+        "Vijayadashami"
+      ],
+      "communities": [
+        "indian"
+      ],
+      "briefLinks": [
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Dussehra is the tenth day of the bright half of the Hindu month Ashvin, usually October; the nine nights of Navaratri come before it.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-10-20",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-10-09",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-09-27",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Victory of good over evil.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "guru-nanak-gurpurab",
+      "name": "Guru Nanak Gurpurab",
+      "alsoKnownAs": [],
+      "communities": [
+        "indian"
+      ],
+      "briefLinks": [
+        {
+          "community": "indian",
+          "title": "Indian (Asian Indian) Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Full moon of the Hindu month Kartika, usually November.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": "2026-11-24",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        },
+        {
+          "year": 2027,
+          "date": "2027-11-14",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        },
+        {
+          "year": 2028,
+          "date": "2028-11-02",
+          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+        }
+      ],
+      "dateCertainty": "calculated",
+      "whatItMarks": "Birth of Guru Nanak, founder of Sikhism.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry"
+      ]
+    },
+    {
+      "id": "obon",
+      "name": "Obon",
+      "alsoKnownAs": [
+        "Bon"
+      ],
+      "communities": [
+        "japanese"
+      ],
+      "briefLinks": [
+        {
+          "community": "japanese",
+          "title": "Japanese Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+        }
+      ],
+      "kind": "religious",
+      "dateRule": "Mid-July or mid-August depending on the region and temple; local dates are announced by the organizers.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2027,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2028,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        }
+      ],
+      "dateCertainty": "announced each year",
+      "whatItMarks": "Remembrance of ancestors.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Not yet announced or not yet checked against an opened announcement"
+      ]
+    },
+    {
+      "id": "loy-krathong",
+      "name": "Loy Krathong",
+      "alsoKnownAs": [],
+      "communities": [
+        "thai"
+      ],
+      "briefLinks": [
+        {
+          "community": "thai",
+          "title": "Thai Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Full moon of the twelfth Thai lunar month, usually November.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2027,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2028,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        }
+      ],
+      "dateCertainty": "announced each year",
+      "whatItMarks": "Floating offerings on water.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Not yet announced or not yet checked against an opened announcement"
+      ]
+    },
+    {
+      "id": "hmong-new-year-minnesota",
+      "name": "Hmong New Year (Minnesota)",
+      "alsoKnownAs": [
+        "Noj Peb Caug"
+      ],
+      "communities": [
+        "hmong"
+      ],
+      "briefLinks": [
+        {
+          "community": "hmong",
+          "title": "Hmong Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/hmong"
+        }
+      ],
+      "kind": "community festival",
+      "dateRule": "Set each year by the organizing groups. Hmong New Year celebrations traditionally follow the harvest; in Minnesota they run from about October to December, and each city or organization picks its own dates and venue.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2027,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2028,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        }
+      ],
+      "dateCertainty": "announced each year",
+      "whatItMarks": "Hmong new year after the harvest.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Not yet announced or not yet checked against an opened announcement"
+      ]
+    },
+    {
+      "id": "irreecha",
+      "name": "Irreecha",
+      "alsoKnownAs": [
+        "Irreessa"
+      ],
+      "communities": [
+        "oromo"
+      ],
+      "briefLinks": [
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        }
+      ],
+      "kind": "cultural",
+      "dateRule": "Announced each year; held around the end of the Ethiopian rainy season, usually on a weekend in late September or early October.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2027,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2028,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        }
+      ],
+      "dateCertainty": "announced each year",
+      "whatItMarks": "Oromo thanksgiving at the end of the rainy season.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Not yet announced or not yet checked against an opened announcement"
+      ]
+    },
+    {
+      "id": "ramadan-night-prayers-and-community-iftars",
+      "name": "Ramadan night prayers and community iftars",
+      "alsoKnownAs": [],
+      "communities": [
+        "somali",
+        "arabic-speaking",
+        "oromo",
+        "bosnian"
+      ],
+      "briefLinks": [
+        {
+          "community": "somali",
+          "title": "Somali Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+        },
+        {
+          "community": "arabic-speaking",
+          "title": "Arabic-speaking Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+        },
+        {
+          "community": "oromo",
+          "title": "Oromo Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+        },
+        {
+          "community": "bosnian",
+          "title": "Bosnian Minnesota",
+          "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+        }
+      ],
+      "kind": "community festival",
+      "dateRule": "Announced by each mosque and community group during Ramadan.",
+      "dates": [
+        {
+          "year": 2026,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2027,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        },
+        {
+          "year": 2028,
+          "date": null,
+          "source": "Not yet announced or not yet checked against an opened announcement"
+        }
+      ],
+      "dateCertainty": "announced each year",
+      "whatItMarks": "Shared fast-breaking meals and evening prayers during Ramadan.",
+      "howCelebratedInMinnesota": null,
+      "minnesotaEvents": [],
+      "workplaceNote": null,
+      "sources": [
+        "Not yet announced or not yet checked against an opened announcement"
+      ]
+    }
+  ]
+}
