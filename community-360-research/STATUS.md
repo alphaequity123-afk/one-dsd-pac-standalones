@@ -15,7 +15,7 @@
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): european-american now running. Second pass running on karen and somali (of the 10 thin communities below).
+- In the cloud session (started October 31, 2026): european-american now running. Second pass running on karen, somali, african-american and latino (of the 10 thin communities below).
 
 ## Next, after the 28 communities
 
