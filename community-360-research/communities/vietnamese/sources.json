@@ -691,5 +691,285 @@
   "url": "https://www.exploreminnesota.com/profile/quang/36940",
   "dateChecked": "2026-10-30",
   "usedFor": "Status"
+ },
+ {
+  "title": "ACS 2020-2024 five-year tables B02015 and B02018, Minnesota and counties",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B02015,B02018&geo_ids=04000US27,050|04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "State and county Vietnamese counts"
+ },
+ {
+  "title": "ACS 2020-2024 five-year table B02018 by place, Minnesota",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B02018&geo_ids=160|04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "City-level Vietnamese counts"
+ },
+ {
+  "title": "ACS 2020-2024 five-year table B02015 by place, Minnesota",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B02015&geo_ids=160|04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "City-level Vietnamese-alone counts, cross-check"
+ },
+ {
+  "title": "Minnesota Health Care Disparities by Race, Ethnicity, Preferred Language and Country of Origin (care in 2022), October 2023",
+  "publisher": "MN Community Measurement via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2023/mandated/232010.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Clinic quality results for Vietnamese-speaking patients"
+ },
+ {
+  "title": "English Learners in Minnesota Report 2024-25",
+  "publisher": "Minnesota Department of Education via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2026/other/261381.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Students with Vietnamese home language, by county"
+ },
+ {
+  "title": "Personal Care Assistant Agencies provider list",
+  "publisher": "HealthPartners",
+  "url": "https://www.healthpartners.com/content/dam/plan/providers/reference/pca-provider-list.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Vietnamese Minnesotans Association as contracted PCA agency"
+ },
+ {
+  "title": "Vietnamese Minnesotans Association profile (IRS Form 990 summary)",
+  "publisher": "GrantWatch",
+  "url": "https://minnesota.grantwatch.com/organization-profile/573694/vietnamese-minnesotans-association/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "VMA founding, mission, revenue"
+ },
+ {
+  "title": "Karen and New Refugee Support Project",
+  "publisher": "Greater Twin Cities United Way 211",
+  "url": "https://search.211unitedway.org/search/48d4003a-bca0-5284-ba59-b5bccffedbf3",
+  "dateChecked": "2026-10-31",
+  "usedFor": "VSS address and refugee program, last assured Dec. 23, 2025"
+ },
+ {
+  "title": "Complex Care care team listing",
+  "publisher": "Gillette Children's",
+  "url": "https://gillettechildrens.org/care-team/results/complex-care-care-team/P8",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Vietnamese-speaking complex care pediatrician"
+ },
+ {
+  "title": "Hội Thánh Tin Lành Việt Nam; Vietnamese Alliance Church listing",
+  "publisher": "Devout church directory",
+  "url": "https://www.devout.org/churches/mn/minneapolis/hoi-thanh-tin-lanh-viet-namvietnamese-alliance-church",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Vietnamese Protestant congregation listing"
+ },
+ {
+  "title": "Hon. Viet-Hanh Winchell '08",
+  "publisher": "Mitchell Hamline School of Law",
+  "url": "https://mitchellhamline.edu/alumni/class-note/hon-viet-hanh-winchell-08/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Judicial appointment"
+ },
+ {
+  "title": "Jennifer Nguyen Moore, #MinneAsianStories",
+  "publisher": "Coalition of Asian American Leaders",
+  "url": "https://caalmn.org/2020/10/15/jennifer-nguyen-moore/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2018 candidacy statement"
+ },
+ {
+  "title": "Other races: Mitra Jalali Nelson wins St. Paul council seat; field winnowed ...",
+  "publisher": "MinnPost, August 2018",
+  "url": "https://www.minnpost.com/politics-policy/2018/08/other-races-mitra-jalali-nelson-wins-st-paul-council-seat-field-winnowed-she/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Ramsey County District 3 primary result"
+ },
+ {
+  "title": "HF 1440 status, 94th Legislature",
+  "publisher": "Office of the Revisor of Statutes",
+  "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1440/?body=house",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Fall of Saigon commemoration bill status"
+ },
+ {
+  "title": "HF 1440 text as introduced",
+  "publisher": "Office of the Revisor of Statutes",
+  "url": "https://www.revisor.mn.gov/bills/text.php?number=HF1440&version=0&session=ls94&session_year=2025&session_number=0",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Bill appropriation language"
+ },
+ {
+  "title": "Information for HF1440",
+  "publisher": "Minnesota House of Representatives",
+  "url": "https://www.house.leg.state.mn.us/bills/Info/HF1440/94/2025/0",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Bill short description"
+ },
+ {
+  "title": "What Southeast Asians in the U.S. need to know about Trump's deportations, March 28, 2025",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/immigration/trump-deportations-southeast-asian-hmong-laos-thailand-vietnam-cambodia/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Repatriation agreements and deportation figures"
+ },
+ {
+  "title": "DIY-ing Our Survival: Moving in Solidarity with Minnesota's Southeast Asian Communities, Feb. 25, 2026",
+  "publisher": "New Breath Foundation",
+  "url": "https://new-breath.org/blog/diy-our-survival/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Operation Metro Surge description"
+ },
+ {
+  "title": "Op-ed on Operation Metro Surge, July 19, 2026",
+  "publisher": "Duluth News Tribune (PDF via World Without Genocide)",
+  "url": "https://worldwithoutgenocide.org/wp-content/uploads/2026/07/2026-7-19-Duluth-News-Tribune-Metro-Surge.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Advocates' surge figures; Vietnamese-language rights cards"
+ },
+ {
+  "title": "Vietnam topic page",
+  "publisher": "WCCO/CBS Minnesota",
+  "url": "https://www.cbsnews.com/minnesota/vietnam/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Minnesota Military and Veterans Museum; Black April"
+ },
+ {
+  "title": "Schedule",
+  "publisher": "KFAI",
+  "url": "https://kfai.org/schedule/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "No Vietnamese program on current schedule"
+ },
+ {
+  "title": "Cheap Charlie's in Rochester is closing after 58 years in business",
+  "publisher": "KAAL ABC 6 News",
+  "url": "https://www.kaaltv.com/news/cheap-charlies-in-rochester-is-closing-after-58-years-in-business/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Closing announcement"
+ },
+ {
+  "title": "Owners of Rochester restaurant reflect on decades of service ahead of closing",
+  "publisher": "KAAL ABC 6 News",
+  "url": "https://www.kaaltv.com/news/owners-of-rochester-restaurant-reflect-on-decades-of-service-ahead-of-closing/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Closing details"
+ },
+ {
+  "title": "'Cheap' but great diner food at Cheap Charlie's, Oct. 8, 2025",
+  "publisher": "Post Bulletin",
+  "url": "https://www.postbulletin.com/lifestyle/cheap-but-great-diner-food-at-cheap-charlies",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Still open in Oct. 2025"
+ },
+ {
+  "title": "Where to Find Minnesota State Fair Favorite Que Viet Year-Round, Sept. 2, 2025",
+  "publisher": "KROC",
+  "url": "https://krocnews.com/minnesota-state-fair-vendor-year-round/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Que Viet status and fair revenue"
+ },
+ {
+  "title": "Brooklyn Center's Que Viet Benefits from State Fair Presence, June 29, 2021",
+  "publisher": "CCX Media",
+  "url": "https://ccxmedia.org/news/brooklyn-centers-que-viet-benefits-from-state-fair-presence/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Brooklyn Center location"
+ },
+ {
+  "title": "Wintertime Cafés and Bakeries Locals Love Around the Twin Cities, Jan. 22, 2026",
+  "publisher": "Counselor Realty",
+  "url": "https://vsiskin.counselorrealty.com/blog/2026/01/22/wintertime-cafes-and-bakeries-locals-love-around-the-twin-cities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Trung Nam hours"
+ },
+ {
+  "title": "Trung Nam French Bakery",
+  "publisher": "Trung Nam French Bakery",
+  "url": "https://trung-nam.squarespace.com",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Menu"
+ },
+ {
+  "title": "Vermicelli Noodle Salad from Mai Village, Jan. 2014",
+  "publisher": "Heavy Table",
+  "url": "https://heavytable.com/vermicelli-noodle-salad-mai-village/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mai Village history"
+ },
+ {
+  "title": "Southeast Asian Restaurants in Saint Paul",
+  "publisher": "Visit Saint Paul",
+  "url": "https://www.visitsaintpaul.com/blog/dine-at-these-vietnamese-restaurants-in-saint-paul/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "St. Paul Vietnamese restaurant listings"
+ },
+ {
+  "title": "Khue's",
+  "publisher": "Khue's",
+  "url": "https://www.khueskitchen.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hours and 2026 recognition"
+ },
+ {
+  "title": "Appetites: St. Paul chef re-opens restaurant after fire, March 5, 2025",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2025/03/05/appetites-st-paul-chef-reopens-restaurant-after-fire-and-adds-surprises-to-the-menu",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Khue's Kitchen reopening"
+ },
+ {
+  "title": "Deconstructed: The Savory Crepe at Em Que Viet",
+  "publisher": "Mpls.St.Paul Magazine",
+  "url": "https://mspmag.com/eat-and-drink/deconstructed-the-savory-crepe-at-em-que-viet/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "eM Que Viet"
+ },
+ {
+  "title": "5 things to know about House of Huế, Dec. 8, 2025",
+  "publisher": "Racket",
+  "url": "https://racketmn.com/5-things-to-know-about-house-of-hue-mns-first-dedicated-bun-bo-hue-shop",
+  "dateChecked": "2026-10-31",
+  "usedFor": "House of Huế"
+ },
+ {
+  "title": "Eat Street Crossing",
+  "publisher": "Eat Street Crossing",
+  "url": "https://eatstreetcrossing.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "House of Huế listing"
+ },
+ {
+  "title": "Pho Hoa",
+  "publisher": "Pho Hoa",
+  "url": "https://phohoa.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Founding history"
+ },
+ {
+  "title": "Tri Tang, Farmers Insurance agent",
+  "publisher": "Farmers Insurance",
+  "url": "https://agents.farmers.com/mn/minneapolis/tri-tang/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hours and languages"
+ },
+ {
+  "title": "Hoa Nguyen, Farmers Insurance agent",
+  "publisher": "Farmers Insurance",
+  "url": "https://agents.farmers.com/mn/blaine/hoa-nguyen/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hours and languages"
+ },
+ {
+  "title": "Lake Street Recovery Stories: Cali Nails",
+  "publisher": "Lake Street Council",
+  "url": "https://www.visitlakestreet.com/not-just-a-business/cali-nails",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cali Nails history"
+ },
+ {
+  "title": "Trieu Chau, The Return, Jan. 10, 2023",
+  "publisher": "My Annoying Opinions (food blog)",
+  "url": "https://myannoyingopinions.com/2023/01/10/trieu-chau-the-return-st-paul-mn/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Trieu Chau dated visit"
  }
 ]

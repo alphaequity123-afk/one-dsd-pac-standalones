@@ -1,7 +1,7 @@
 # Vietnamese Minnesota page: corrections and checks
 
 Page checked: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese
-Date checked for all items: October 30, 2026.
+Date checked: October 30, 2026, except items marked October 31, 2026.
 
 ## Outdated figures
 
@@ -45,10 +45,12 @@ Date checked for all items: October 30, 2026.
 ## Could not support from pages reached
 
 - Church of Saint Columba's Sunday 10:30 a.m. Vietnamese Mass.
-- Judge Viet-Hanh Winchell's appointment details (Minnesota courts pages not reached).
+- Judge Viet-Hanh Winchell's description as Minnesota's first Vietnamese American state court judge (Minnesota courts pages not reached). Her appointment by Gov. Walz to the Tenth Judicial District, chambered in Stillwater, is supported by Mitchell Hamline (https://mitchellhamline.edu/alumni/class-note/hon-viet-hanh-winchell-08/, checked Oct. 31, 2026).
 - Hoang Murphy's Foster Advocates history, Bush Fellowship and House run. A 2018 WCCO story confirms only that he spoke as the son of Vietnamese immigrants from St. Paul's East Side.
 - Bao Phi's biography and awards.
-- Vietnamese Minnesotans Association details, KFAI Vietnam MN Radio's latest program, and Asian American Press's status.
+- Asian American Press's status.
+- Vietnamese Minnesotans Association (checked Oct. 31, 2026): a summary of its IRS Form 990 filings supports a St. Paul nonprofit founded in 1993 that focuses on personal care assistance and homemaking for mostly Vietnamese American clients (https://minnesota.grantwatch.com/organization-profile/573694/vietnamese-minnesotans-association/). Any other details on the page about it were not confirmed.
+- KFAI Vietnam MN Radio (checked Oct. 31, 2026). Page: a 60-minute Vietnamese-language program whose latest posted show was dated April 26, 2026. KFAI's current weekly schedule lists no Vietnamese-language program (https://kfai.org/schedule/), and the program page (https://kfai.org/program/vietnammnradio/) returned a server error. Whether the program is still on the air should be confirmed with the station.
 - VSS's history items: 1987 founding, house as collateral, Point of Light, Peace Prize, and street address.
 - MNopedia's and Phật Ân's founding details for the Buddhist Association (May 15, 1976, and building dates). The Carleton College exhibit refused connections.
 - DHS language lists, hepatitis B guidance, and Medical Assistance disability rules. These were not rechecked in this pass.

@@ -2,6 +2,14 @@
 
 A plain date has an opened source stating it. "About" means the day is not yet confirmed for that year: moon-sighted dates are set by each mosque or religious authority, and other dates here are projections until a source confirms them.
 
+## April 2018
+
+- Saturday, April 28: **Black April Commemoration at the Minnesota State Capitol**. A Vietnamese Community of Minnesota gathering at the Capitol for veterans, families and the fall of Saigon. [Vietnamese Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese)
+
+## April 2019
+
+- Saturday, April 27: **Black April Commemoration at the Minnesota State Capitol**. A Vietnamese Community of Minnesota gathering at the Capitol for veterans, families and the fall of Saigon. [Vietnamese Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese)
+
 ## April 2024
 
 - Saturday, April 27: **Black April Commemoration at the Minnesota State Capitol**. A Vietnamese Community of Minnesota gathering at the Capitol for veterans, families and the fall of Saigon. [Vietnamese Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese)

@@ -38621,7 +38621,7 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "The end of the Republic of Vietnam; loss, exile and remembrance of those who served.",
-   "howCelebratedInMinnesota": "The Vietnamese Community of Minnesota holds commemorations, often at the State Capitol, on nearby days. See its entry.",
+   "howCelebratedInMinnesota": "The Vietnamese Community of Minnesota holds commemorations, often at the State Capitol, on a Saturday near April 30 (April 28, 2018; April 27, 2019; April 27, 2024). See its entry. No 2026 Minnesota event could be confirmed.",
    "minnesotaEvents": [
     {
      "name": "Black April commemoration",
@@ -38668,6 +38668,22 @@
    "dateRule": "Announced each year by the organizer, on a date near April 30.",
    "dates": [
     {
+     "year": 2018,
+     "date": "2018-04-28",
+     "endDate": null,
+     "source": "Vietnamese Community of Minnesota past events (43rd anniversary commemoration)",
+     "sourceUrl": "https://vietnam-minnesota.org/past-events/",
+     "verified": true
+    },
+    {
+     "year": 2019,
+     "date": "2019-04-27",
+     "endDate": null,
+     "source": "Vietnamese Community of Minnesota past events (44th anniversary commemoration)",
+     "sourceUrl": "https://vietnam-minnesota.org/past-events/",
+     "verified": true
+    },
+    {
      "year": 2024,
      "date": "2024-04-27",
      "endDate": null,
@@ -38687,7 +38703,7 @@
      "year": 2026,
      "date": null,
      "endDate": null,
-     "source": "No date could be confirmed as of Oct. 30, 2026",
+     "source": "No organizer announcement or news report found as of Oct. 31, 2026; a third-party listing of an April 30, 2026 Capitol gathering could not be opened or checked",
      "sourceUrl": null,
      "verified": false
     },
@@ -38695,7 +38711,7 @@
      "year": 2027,
      "date": null,
      "endDate": null,
-     "source": "No date could be confirmed as of Oct. 30, 2026",
+     "source": "No organizer announcement or news report found as of Oct. 31, 2026; a third-party listing of an April 30, 2026 Capitol gathering could not be opened or checked",
      "sourceUrl": null,
      "verified": false
     },
@@ -38703,14 +38719,14 @@
      "year": 2028,
      "date": null,
      "endDate": null,
-     "source": "No date could be confirmed as of Oct. 30, 2026",
+     "source": "No organizer announcement or news report found as of Oct. 31, 2026; a third-party listing of an April 30, 2026 Capitol gathering could not be opened or checked",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "The anniversary of April 30, 1975.",
-   "howCelebratedInMinnesota": "In 2025, WCCO reported people carrying a South Vietnamese flag to the Minnesota Vietnam Memorial, with veterans and families from several communities. MNopedia lists Capitol commemorations in 2015, 2018, 2023 and 2025.",
+   "howCelebratedInMinnesota": "In 2025, WCCO reported people carrying a South Vietnamese flag to the Minnesota Vietnam Memorial, with veterans and families from several communities. MNopedia lists Capitol commemorations in 2015, 2018, 2023 and 2025. VCM's own list shows commemorations on Saturdays near April 30: April 28, 2018, April 27, 2019, and April 27, 2024. A 2025 House bill, HF 1440, proposed $500,000 for Fall of Saigon anniversary programming with Cambodian, Lao and Vietnamese groups; it was referred to committee.",
    "minnesotaEvents": [
     {
      "name": "50th anniversary commemoration",
@@ -38718,6 +38734,20 @@
      "link": "https://www.cbsnews.com/minnesota/news/vietnam-war-50-years-minnesota-state-capitol",
      "organizerDates": "Late April 2025",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Commemoration of the 44th Anniversary of April 30",
+     "place": "Minnesota (VCM event)",
+     "link": "https://vietnam-minnesota.org/past-events/",
+     "organizerDates": "Saturday, April 27, 2019",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Commemoration of the 43rd Anniversary of April 30",
+     "place": "Minnesota (VCM event)",
+     "link": "https://vietnam-minnesota.org/past-events/",
+     "organizerDates": "Saturday, April 28, 2018",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -38735,7 +38765,12 @@
     {
      "title": "VCM past events",
      "url": "https://vietnam-minnesota.org/past-events/",
-     "dateChecked": "2026-10-30"
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "HF 1440 text, Office of the Revisor of Statutes",
+     "url": "https://www.revisor.mn.gov/bills/text.php?number=HF1440&version=0&session=ls94&session_year=2025&session_number=0",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -39105,15 +39140,15 @@
      "year": 2026,
      "date": null,
      "endDate": null,
-     "source": "Organizer pages showed no 2026 date when checked",
-     "sourceUrl": "https://www.littlemekong.com/event-details",
+     "source": "Organizer site still showed only the 2025 market when checked Oct. 31, 2026; a third-party listing of June 28-29, 2026 could not be checked against the organizer",
+     "sourceUrl": "https://www.littlemekong.com/night-market",
      "verified": false
     },
     {
      "year": 2027,
      "date": null,
      "endDate": null,
-     "source": "No date announced as of Oct. 30, 2026",
+     "source": "No date announced as of Oct. 31, 2026",
      "sourceUrl": null,
      "verified": false
     },
@@ -39121,7 +39156,7 @@
      "year": 2028,
      "date": null,
      "endDate": null,
-     "source": "No date announced as of Oct. 30, 2026",
+     "source": "No date announced as of Oct. 31, 2026",
      "sourceUrl": null,
      "verified": false
     }
@@ -39135,7 +39170,7 @@
      "place": "Little Mekong District, St. Paul",
      "link": "https://www.littlemekong.com/night-market",
      "organizerDates": "June 28 and 29, 2025",
-     "dateChecked": "2026-10-30"
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -39143,12 +39178,12 @@
     {
      "title": "Little Mekong night market",
      "url": "https://www.littlemekong.com/night-market",
-     "dateChecked": "2026-10-30"
+     "dateChecked": "2026-10-31"
     },
     {
      "title": "Little Mekong timeline",
      "url": "https://www.littlemekong.com/explore-the-district",
-     "dateChecked": "2026-10-30"
+     "dateChecked": "2026-10-31"
     }
    ]
   },

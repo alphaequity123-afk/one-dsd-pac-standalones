@@ -4,6 +4,32 @@ PRODID:-//community-360-research//cultural-calendar//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Minnesota cultural calendar
 BEGIN:VEVENT
+UID:black-april-commemoration-at-the-minnesota-state-capitol-2018-04-28@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20180428
+DTEND;VALUE=DATE:20180429
+SUMMARY:Black April Commemoration at the Minnesota State Capitol
+DESCRIPTION:The anniversary of April 30\, 1975. Date: Announced each year
+  by the organizer\, on a date near April 30. Source: Vietnamese Community
+  of Minnesota past events (43rd anniversary commemoration) https://vietna
+ m-minnesota.org/past-events/ Communities: Vietnamese Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:black-april-commemoration-at-the-minnesota-state-capitol-2019-04-27@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20190427
+DTEND;VALUE=DATE:20190428
+SUMMARY:Black April Commemoration at the Minnesota State Capitol
+DESCRIPTION:The anniversary of April 30\, 1975. Date: Announced each year
+  by the organizer\, on a date near April 30. Source: Vietnamese Community
+  of Minnesota past events (44th anniversary commemoration) https://vietna
+ m-minnesota.org/past-events/ Communities: Vietnamese Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:black-april-commemoration-at-the-minnesota-state-capitol-2024-04-27@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20240427
