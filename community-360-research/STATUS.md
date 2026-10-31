@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-2 of 39 communities are finished, and Karen has gaps listed below. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+3 of 39 communities are finished. Karen and Somali have gaps listed below. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen.
+- **Communities:** hmong, karen, somali.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- somali, african-american, latino, mexican.
+- african-american, latino, mexican.
 
 ## Not started
 
@@ -39,6 +39,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Somali:** web search ran out partway, so sections 5, 7, 8 and 10 and the Greater Minnesota businesses are thinner than the rest and need another pass. Not established: household wealth, a current Somali chamber of commerce, theological differences, Somali Christians and people of no faith, dress, marriage and elder-care customs, adult and non-autism disability evidence, Somali-specific Eid al-Adha events, and statewide Somali graduation rates. 19 of 56 businesses could not be confirmed open, and many Lake Street guide entries do not state Somali ownership.
 - **Karen:** a real Karen count or Karen-only economic data (only Burmese figures and estimates), any Minnesota disability count or study, and Karen elected officials. Web search ran out before these were reached: state refugee arrival tables, Karen roles in the 1947 Panglong agreement, PACER's Karen materials, lead screening, and whether several shops are still open. 14 of 20 businesses could not be confirmed open. Union Day was dropped because no Minnesota observance was found, not because Karen views of it were checked.
 - **Hmong:** household wealth, use of waivers or personal care assistance, a total for deportations to Laos, religious shares, occupations, a Hmong Deaf community, and any 2027 New Year dates. The profile lists the rest.
 - **Calendar:** how Minnesota mosques decide their dates, because the one report found could not be opened. Also no opened date for future Islamic observances, Ashura or Mawlid 2026, Holodomor, Rondo Days, or Vyshyvanka 2027 and 2028.

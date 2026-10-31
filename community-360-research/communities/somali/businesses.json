@@ -1,0 +1,562 @@
+[
+ {
+  "name": "Karmel Mall",
+  "type": "mall",
+  "neighborhoodOrCity": "2910 Pleasant Ave. S., Minneapolis (Lake Street area)",
+  "whatItIs": "Somali mall opened 2005 with shops, food, money transfer and a mosque; counts range from over 100 businesses (MNopedia, AP) to 650 (owner, June 2026).",
+  "link": "https://sahanjournal.com/business-work/minnesota-somali-businesses-struggle-after-immigration-crackdown/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, June 2026: owner reports businesses slowly regaining foot traffic; listed in 2026 Visit Lake Street guide."
+ },
+ {
+  "name": "Karmel Mall (second site)",
+  "type": "mall",
+  "neighborhoodOrCity": "200 W. Lake St., Minneapolis",
+  "whatItIs": "Second site listed as new Karmel Mall.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in 2026 Visit Lake Street guide as a cultural mall."
+ },
+ {
+  "name": "Madina Mall",
+  "type": "mall",
+  "neighborhoodOrCity": "2825 and 2833 13th Ave. S., Minneapolis",
+  "whatItIs": "Somali shopping mall.",
+  "link": "https://sahanjournal.com/business-work/minnesota-somali-businesses-struggle-after-immigration-crackdown/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, June 2026: open, with 12 of 40 shops closed. Listed in 2026 Visit Lake Street guide."
+ },
+ {
+  "name": "Riverside Mall",
+  "type": "mall",
+  "neighborhoodOrCity": "Cedar-Riverside, Minneapolis",
+  "whatItIs": "Somali mall with money transfer, travel agency, clothing, rug, jewelry and food shops.",
+  "link": "https://www.minneapolis.org/east-african-community/east-african-itinerary/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "24 Mall",
+  "type": "mall",
+  "neighborhoodOrCity": "Minneapolis, a short drive from Cedar Avenue",
+  "whatItIs": "Somali mall.",
+  "link": "https://www.minneapolis.org/east-african-community/east-african-itinerary/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Star City Mall",
+  "type": "mall",
+  "neighborhoodOrCity": "3405 Third St. area, St. Cloud",
+  "whatItIs": "Strip mall with Somali-run businesses, Hayat Clinic and Afya Pharmacy.",
+  "link": "https://www.minnpost.com/health/2025/07/meet-dr-bashir-he-opened-st-clouds-first-somali-run-clinic/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "MinnPost, July 30, 2025 describes it in present tense; nothing dated 2026 opened."
+ },
+ {
+  "name": "Afro Deli & Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Stadium Village, Minneapolis; downtown St. Paul; Minnesota State Fair",
+  "whatItIs": "Fast-casual halal Somali fusion, owned by Abdirahman Kahin.",
+  "link": "https://www.afrodeli.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows location hours and an Aug. 13, 2026 State Fair post."
+ },
+ {
+  "name": "Mama Safia's Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "720 E. Lake St., Minneapolis",
+  "whatItIs": "Counter-service halal restaurant with goat and lamb stews and a prayer room.",
+  "link": "https://sahanjournal.com/business-work/minnesota-somali-businesses-struggle-after-immigration-crackdown/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, June 2026: open 9 a.m. to 9 p.m., behind on rent."
+ },
+ {
+  "name": "Baarakallah Restaurant Somali Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "408 Cedar Ave., Minneapolis",
+  "whatItIs": "Somali cuisine on the West Bank.",
+  "link": "https://baarakallahsomalicuisine.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site, copyright 2026, with online ordering and job application. Hours not stated."
+ },
+ {
+  "name": "Hamdi Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "818 E. Lake St., Minneapolis",
+  "whatItIs": "Long-standing Somali restaurant with large portions.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's and Meet Minneapolis's 2026 Ramadan guides."
+ },
+ {
+  "name": "Quruxlow",
+  "type": "restaurant",
+  "neighborhoodOrCity": "1414 E. Lake St., Minneapolis",
+  "whatItIs": "Family and group restaurant known for suqaar and goat with rice.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 guide."
+ },
+ {
+  "name": "Sanag Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "1201 E. Lake St., Minneapolis",
+  "whatItIs": "Iftar restaurant on Lake Street.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Laina Cafe",
+  "type": "restaurant",
+  "neighborhoodOrCity": "317 W. Lake St., Minneapolis",
+  "whatItIs": "Iftar cafe on Lake Street.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Taste of East African",
+  "type": "restaurant",
+  "neighborhoodOrCity": "313 W. Lake St., Minneapolis",
+  "whatItIs": "East African restaurant.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Savoro Deli",
+  "type": "restaurant",
+  "neighborhoodOrCity": "920 E. Lake St. (Midtown Global Market), Minneapolis",
+  "whatItIs": "Deli in Midtown Global Market.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Quruxley Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "27th Ave. S., Minneapolis",
+  "whatItIs": "Iftar restaurant; no street number given.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Marhaba Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "2801 Nicollet Ave., Minneapolis",
+  "whatItIs": "Iftar restaurant; ownership not stated.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "West Bank Diner",
+  "type": "restaurant",
+  "neighborhoodOrCity": "324 Cedar Ave., Minneapolis",
+  "whatItIs": "Neighborhood diner that Meet Minneapolis says serves the local Somali community; ownership not stated.",
+  "link": "https://www.westbankdiner.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site, copyright 2026, lists hours 8 a.m. to 10 p.m. daily."
+ },
+ {
+  "name": "Wiilo Restaurant & Bakery",
+  "type": "restaurant and bakery",
+  "neighborhoodOrCity": "Karmel Mall, second floor, Minneapolis",
+  "whatItIs": "Family-run Somali cooking and sweets; catering and classes.",
+  "link": "https://www.minneapolis.org/food-drink/international/somali/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Sagal Restaurant and Coffee",
+  "type": "restaurant and coffee",
+  "neighborhoodOrCity": "Off Cedar Avenue, Minneapolis",
+  "whatItIs": "Sambusas, East African dishes and tea.",
+  "link": "https://www.minneapolis.org/food-drink/international/somali/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Albi Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Loring Park, Minneapolis",
+  "whatItIs": "Modern Somali comfort food; sambusas and qahwa.",
+  "link": "https://www.minneapolis.org/food-drink/international/somali/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in undated Meet Minneapolis guides; its listed site did not resolve when checked."
+ },
+ {
+  "name": "Soma Grill & Deli",
+  "type": "restaurant",
+  "neighborhoodOrCity": "629 Cedar Ave., Minneapolis",
+  "whatItIs": "Described as a reliable servant of the Cedar-Riverside Somali community.",
+  "link": "https://www.minneapolis.org/food-drink/international/east-african/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Capitol Cafe",
+  "type": "restaurant",
+  "neighborhoodOrCity": "2417 E. Franklin Ave., Minneapolis",
+  "whatItIs": "Crepes, wraps, Somali tea and sambusas.",
+  "link": "https://www.minneapolis.org/food-drink/international/east-african/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Halwo Kismayo",
+  "type": "sweets",
+  "neighborhoodOrCity": "E. Lake St. near Bloomington Ave., Minneapolis",
+  "whatItIs": "Known for halwo.",
+  "link": "https://www.minneapolis.org/east-african-community/east-african-itinerary/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Safari Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "4th Ave. S., Minneapolis",
+  "whatItIs": "Former Somali restaurant whose co-owner was convicted in the Feeding Our Future trial.",
+  "link": "https://sahanjournal.com/public-safety/feeding-our-future-safari-restaurant-minneapolis/",
+  "dateChecked": "2026-10-30",
+  "status": "closed",
+  "evidence": "Sahan Journal, Feb. 12, 2025: the restaurant has since shut down."
+ },
+ {
+  "name": "Nur House Cafe",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "515 S. 4th St., Minneapolis",
+  "whatItIs": "Somali family-run cafe led by Fatuma Ali and her brothers.",
+  "link": "https://hoodline.com/2026/03/somali-coffee-shop-nur-house-lights-up-former-downtown-starbucks/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Hoodline: opened March 25, 2026."
+ },
+ {
+  "name": "Dero Coffee",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "Columbia Heights",
+  "whatItIs": "Owned by Somali parents, per Meet Minneapolis.",
+  "link": "https://www.minneapolis.org/east-african-community/coffee-shops/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Sip Society Coffee",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "Uptown, Minneapolis",
+  "whatItIs": "Founded by Sacad Guled; opened 2024.",
+  "link": "https://www.minneapolis.org/east-african-community/coffee-shops/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Mawadda Cafe",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "Lake Street corridor, Minneapolis",
+  "whatItIs": "Owned by sisters Barka and Dunya.",
+  "link": "https://www.minneapolis.org/east-african-community/coffee-shops/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Sabah Coffee Co.",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "Location not given",
+  "whatItIs": "Owners tie their coffee to Yemeni and Somali culture.",
+  "link": "https://www.minneapolis.org/east-african-community/coffee-shops/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+ },
+ {
+  "name": "Kisma Cafe",
+  "type": "mobile cafe",
+  "neighborhoodOrCity": "Twin Cities (city not stated)",
+  "whatItIs": "Mobile cafe opened February 2025, named for Kismayo.",
+  "link": "https://sahanjournal.com/business-work/minnesota-mobile-cafes-women-entrepreneurs-oromo-somali/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Sept. 17, 2025."
+ },
+ {
+  "name": "Hoyo",
+  "type": "food maker",
+  "neighborhoodOrCity": "Midtown Global Market, Minneapolis",
+  "whatItIs": "Somali-owned sambusa maker selling to groceries, schools and the State Fair.",
+  "link": "https://sahanjournal.com/news-partners/hoyo-somali-midtown-global-market/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, June 2, 2025; 2026 Visit Lake Street guide lists its products."
+ },
+ {
+  "name": "BlueHorn Tea",
+  "type": "food maker",
+  "neighborhoodOrCity": "Hopkins",
+  "whatItIs": "Somali loose-leaf tea by Yubi Hassan.",
+  "link": "https://sahanjournal.com/business-work/bluehorn-entrepreneur-yubi-hassan-somali-tea/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Aug. 27, 2025."
+ },
+ {
+  "name": "Bundle Halal",
+  "type": "grocery delivery",
+  "neighborhoodOrCity": "Minnesota, online",
+  "whatItIs": "Halal grocery delivery co-founded September 2025 by Ahmed Ali and Badraddin Abdi.",
+  "link": "https://sahanjournal.com/business-work/bundle-halal-grocery-delivery-minnesota/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, May 12, 2026."
+ },
+ {
+  "name": "Abdinasir Fashion Furniture",
+  "type": "furniture",
+  "neighborhoodOrCity": "4th Ave. S., Minneapolis",
+  "whatItIs": "Furniture store.",
+  "link": "https://sahanjournal.com/business-work/minnesota-somali-businesses-struggle-after-immigration-crackdown/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, June 2026: open, about 30 percent of customers back."
+ },
+ {
+  "name": "Arwa's Fashion",
+  "type": "boutique",
+  "neighborhoodOrCity": "129 W. Lake St., Minneapolis",
+  "whatItIs": "Eid shopping boutique.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Baarla's Boutique",
+  "type": "boutique",
+  "neighborhoodOrCity": "1705 E. Lake St., Minneapolis",
+  "whatItIs": "Eid shopping boutique.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Zizi Boutique",
+  "type": "boutique",
+  "neighborhoodOrCity": "413 W. Lake St., Minneapolis",
+  "whatItIs": "Eid shopping boutique.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Cibaado Beauty Salon",
+  "type": "salon",
+  "neighborhoodOrCity": "317 W. Lake St., Minneapolis",
+  "whatItIs": "Salon.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Cali Nails",
+  "type": "salon",
+  "neighborhoodOrCity": "420 W. Lake St., Minneapolis",
+  "whatItIs": "Nail salon.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Heilya Brow Art",
+  "type": "salon",
+  "neighborhoodOrCity": "417 E. Lake St., Minneapolis",
+  "whatItIs": "Brow salon, Plaza Mexico second floor.",
+  "link": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed in Visit Lake Street's 2026 Ramadan guide; Somali ownership not stated by that page."
+ },
+ {
+  "name": "Hayat Clinic",
+  "type": "clinic",
+  "neighborhoodOrCity": "3405 Third St., St. Cloud",
+  "whatItIs": "Somali-run primary care clinic.",
+  "link": "https://www.mprnews.org/story/2025/09/04/bashir-moallin-opens-clinic-in-st-cloud-for-somali-community",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "MPR News, Sept. 4, 2025: marked its first anniversary."
+ },
+ {
+  "name": "Afya Pharmacy",
+  "type": "pharmacy",
+  "neighborhoodOrCity": "Star City Mall, St. Cloud",
+  "whatItIs": "Pharmacy next to Hayat Clinic, with multilingual staff.",
+  "link": "https://www.minnpost.com/health/2025/07/meet-dr-bashir-he-opened-st-clouds-first-somali-run-clinic/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "MinnPost, July 30, 2025."
+ },
+ {
+  "name": "Inspire Change Clinic",
+  "type": "clinic",
+  "neighborhoodOrCity": "Ventura Village, Minneapolis",
+  "whatItIs": "Primary care with a Somali mothers' circle.",
+  "link": "https://sahanjournal.com/health/minneapolis-inspire-change-clinic-ventura-village/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Nov. 10, 2025."
+ },
+ {
+  "name": "Bridge Healing Center",
+  "type": "clinic",
+  "neighborhoodOrCity": "St. Cloud",
+  "whatItIs": "Mental health and addiction treatment in Somali and other languages.",
+  "link": "https://www.mprnews.org/story/2023/12/21/st-cloud-mental-health-center-aims-to-be-a-bridge-to-healing",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "MPR News, Dec. 21, 2023 is the latest opened."
+ },
+ {
+  "name": "Axis Medical Clinic",
+  "type": "clinic",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Nonprofit community health center with a Somali diabetes educator; not described as Somali-owned.",
+  "link": "https://sahanjournal.com/health/somali-minnesotans-challenges-diabetes/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Sept. 18, 2025."
+ },
+ {
+  "name": "Greene Espel (Amran Farah, partner)",
+  "type": "law firm",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Commercial litigation firm; Farah became partner in January 2021. Not a Somali-owned firm.",
+  "link": "https://sahanjournal.com/?p=8071",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Sahan Journal, Feb. 18, 2021 is the latest opened."
+ },
+ {
+  "name": "Somali American Bar Association",
+  "type": "professional association",
+  "neighborhoodOrCity": "Minnesota",
+  "whatItIs": "Association with about 20 Minnesota attorneys in 2021.",
+  "link": "https://sahanjournal.com/?p=8071",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Sahan Journal, 2021 is the latest opened."
+ },
+ {
+  "name": "Isuroon Small Business Hub and Community Capital",
+  "type": "business support",
+  "neighborhoodOrCity": "1600 E. Lake St., Minneapolis",
+  "whatItIs": "Somali women-led nonprofit's business programs.",
+  "link": "https://isuroon.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site lists 2026 events."
+ },
+ {
+  "name": "African Development Center",
+  "type": "lender and business support",
+  "neighborhoodOrCity": "1931 S. 5th St., Minneapolis; Rochester; St. Cloud; Willmar",
+  "whatItIs": "Micro-lender and homebuyer help founded by Hussein Samatar.",
+  "link": "https://www.adcminnesota.org/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Own site is live with addresses; no dated 2026 item shown."
+ },
+ {
+  "name": "The Somali Brief",
+  "type": "media",
+  "neighborhoodOrCity": "Minnesota, online",
+  "whatItIs": "Somali American media company, launched September 2026.",
+  "link": "https://tcbmag.com/sahan-journal-founder-mukhtar-ibrahim-launches-somali-american-media-company/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Twin Cities Business, Sept. 28, 2026; MPR News, Sept. 30, 2026."
+ },
+ {
+  "name": "Somali TV Minnesota",
+  "type": "media",
+  "neighborhoodOrCity": "Minnesota",
+  "whatItIs": "First media partner of The Somali Brief.",
+  "link": "https://tcbmag.com/sahan-journal-founder-mukhtar-ibrahim-launches-somali-american-media-company/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Twin Cities Business, Sept. 28, 2026."
+ },
+ {
+  "name": "KALY 101.7 FM",
+  "type": "media",
+  "neighborhoodOrCity": "South Minneapolis",
+  "whatItIs": "Low-power Somali-language radio, program of Somali American Community.",
+  "link": "https://kalyradio.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site, uploads dated February 2026. Broadcast status not stated."
+ },
+ {
+  "name": "Ainu Shams Grocery",
+  "type": "grocery",
+  "neighborhoodOrCity": "Litchfield Ave. area, Willmar",
+  "whatItIs": "Somali import grocery in a 2016 report.",
+  "link": "https://www.nbcnews.com/business/business-news/how-somali-immigrants-are-breathing-new-life-sleepy-rural-towns-n690226",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "NBC News, Dec. 1, 2016 is the latest opened."
+ },
+ {
+  "name": "Bihi's",
+  "type": "cafe",
+  "neighborhoodOrCity": "Litchfield Ave. area, Willmar",
+  "whatItIs": "Cafe where men gather over coffee, in a 2016 report.",
+  "link": "https://www.nbcnews.com/business/business-news/how-somali-immigrants-are-breathing-new-life-sleepy-rural-towns-n690226",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "NBC News, 2016 only."
+ },
+ {
+  "name": "Somali Star Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Litchfield Ave. area, Willmar",
+  "whatItIs": "Restaurant in a 2016 report.",
+  "link": "https://www.nbcnews.com/business/business-news/how-somali-immigrants-are-breathing-new-life-sleepy-rural-towns-n690226",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "NBC News, 2016 only."
+ }
+]
