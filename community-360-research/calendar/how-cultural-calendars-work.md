@@ -1,6 +1,6 @@
 # How cultural calendars work
 
-**Written:** October 30, 2026. This note was written without being able to open outside websites (see `../STATUS.md`). It describes the calendar systems and the way our own calendar data handles them. Where a claim needs a checked source before it is relied on, it says so. The parts that are mechanical (how each calendar counts days) are implemented in the script that builds `cultural-calendar.json`, so they can be checked by running it.
+**Updated:** October 30, 2026. The opened sources behind each calendar system are listed in [calendar-methods-sources.md](calendar-methods-sources.md), which says what each page supports and what could not be opened. Dates for 2026 to 2028 were checked against opened sources where possible, and the results are in `tools/date-checks.json`.
 
 ## Why a cultural calendar is hard
 
@@ -44,18 +44,21 @@ Good practice, as seen in university and public-sector diversity calendars, is t
 
 Our data follows this: each entry has `dateCertainty`, each date has its own `source`, and `workplaceNote` is left empty until a source supports it.
 
-## How the data was produced
+## How dates are treated
 
-The build script uses:
+Calculated dates start from calendar tables and the rule for each observance, then are checked against opened sources:
 
-- `python-dateutil` for Western and Orthodox Easter.
-- `hijridate` (Umm al-Qura tables) for Islamic dates, labeled as estimates.
-- `lunardate` for the Chinese lunisolar calendar.
-- `python-holidays` 0.107 for national holiday tables of Ethiopia, Vietnam, South Korea, China, Laos, Thailand, Cambodia, Myanmar, India and the United States. This library encodes each government's published rules; it is a calculation, not an opened government source, and it is labeled that way in each date's `source`.
+- An official or religious source that states the date confirms it.
+- A commercial calendar site does not confirm a date. It only adds a note.
+- Official sources that disagree confirm nothing. Holi 2027 is March 23 on the Government of India's list and March 22 on Drik Panchang, so it stays unconfirmed.
+- A moon-sighted date is never shown as certain, however good the projection. The Fiqh Council of North America publishes a calculated calendar, and Saudi Arabia's Supreme Court calls on sighting committees, so two mosques in one city can differ by a day.
+- Dates an organizer announces come from the organizer's own page and are added once posted.
 
-## What still needs checking against opened sources
+The `.ics` file carries confirmed dates only.
 
-- Each organizer's announced dates for Hmong New Year, Karen New Year, Irreecha, Obon, Pchum Ben and Loy Krathong, for 2026 to 2028, with links.
-- Which Minnesota mosques follow which Eid determination method.
+## What still needs checking
+
+- How Minnesota mosques decide their dates. No opened source explains it.
 - Which calendar each Ukrainian and Russian Orthodox parish in Minnesota uses for Christmas.
-- Any workplace note (fasting, common days off), which must cite a source.
+- Organizer dates for 2027 and 2028, most of which had not been posted when checked.
+- 2027 and 2028 dates that rest only on commercial calendar sites, including several Buddhist and Ethiopian dates.

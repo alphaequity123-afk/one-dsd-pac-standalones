@@ -68,6 +68,15 @@ If a site blocks fetching, try another route: the organization's other pages, a 
 
 Do not guess at web addresses and then report them as blocked: search for the real address first. Sites often blocked for fetching: Star Tribune, mn.gov, conservancy.umn.edu, Minnesota courts and Senate pages. Look for the same fact from another open source; for state agency reports try the PDF or Legislative Reference Library (lrl.mn.gov).
 
+## Lessons from earlier communities (binding)
+
+- The existing page is never a source for `verified:true`. Only an opened outside page can confirm a date.
+- List only pages you truly opened. Count them from your own fetch results, not by estimate.
+- Each organizer's announced dates go in their own calendar entry with real dates, so they appear on the calendar, and the lunar or traditional date stays a separate entry.
+- If web search stops working, keep going with pages you can reach, and name the thin sections and business types in "What could not be established" in plain words.
+- Attribute closely. Say who said what. Do not write "officials say" if one named official said it, do not state an exact date a source does not give, and write "the report does not say she has been charged" rather than "has not been charged" unless a source says so.
+- Do your full start-to-finish reread before you reply.
+
 ## Rules (binding)
 
 - No Wikipedia, Wikimedia or any wiki, anywhere, as source, link or lead, including mirrors (DBpedia, wikiwand, Everybodywiki, Fandom, Ballotpedia is a wiki: do not use). MNopedia is fine.
