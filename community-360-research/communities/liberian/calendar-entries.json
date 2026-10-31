@@ -1,0 +1,864 @@
+{
+ "community": "liberian",
+ "entries": [
+  {
+   "seedId": "liberian-independence-day",
+   "name": "Liberian Independence Day",
+   "alsoKnownAs": [
+    "July 26",
+    "Liberia Independence Day",
+    "the 26"
+   ],
+   "kind": "national",
+   "capsule": "Liberia's 1847 independence, marked in Minnesota with a parade, ball, concerts, soccer and family gatherings each late July.",
+   "dateRule": "July 26 each year. Minnesota events cluster on the surrounding weekend, set by each organizer.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-26",
+     "endDate": null,
+     "source": "Fixed date; CCX Media and Office Holidays state July 26",
+     "sourceUrl": "https://ccxmedia.org/news/residents-celebrate-liberian-independence-day/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-26",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://ccxmedia.org/news/residents-celebrate-liberian-independence-day/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-26",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://ccxmedia.org/news/residents-celebrate-liberian-independence-day/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Liberia's declaration of independence on July 26, 1847. 2026 was the 179th anniversary.",
+   "howCelebratedInMinnesota": "The community's largest public celebration, centered in Brooklyn Park and Brooklyn Center. Recent years include the We Are Liberian parade and Day in the Park (first held 2025), an OLM ball and youth music festival, a soccer match between teams styled after Liberia's rival clubs Mighty Barrolle and Invincible Eleven, concerts in Minneapolis, kickball and basketball tournaments, prayer services, and city and state proclamations (Brooklyn Park and Gov. Walz proclaimed Liberian Independence Week in 2019). People greet each other with 'My 26th is on you.' A 2026 match between Minnesota United and Liberia's national team was canceled when some players were denied visas.",
+   "minnesotaEvents": [
+    {
+     "name": "Liberian Independence Day Parade & Day in the Park (We Are Liberian)",
+     "place": "North Hennepin Community College, 7411 85th Ave. N., Brooklyn Park",
+     "link": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "organizerDates": "Sunday, July 26, 2026, parade 11 a.m., festival 11 a.m. to 7 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "First Liberian Independence Day Parade in Minnesota (We Are Liberian)",
+     "place": "Shingle Creek Parkway to Centennial Park, Brooklyn Center",
+     "link": "https://ccxmedia.org/news/liberian-independence-day-celebrated-through-local-business-impact/",
+     "organizerDates": "Saturday, July 26, 2025, 11 a.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "OLM Independence Twin Ball",
+     "place": "Marriott Northwest, 7025 Northland Dr. N., Brooklyn Park",
+     "link": "https://www.olmbp.org/event-details/independence-twin-ball",
+     "organizerDates": "Friday, July 24, 2026, 6 p.m. to 1 a.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Liberia Youth Music Festival + Barrolle vs. Invincible Eleven soccer match (OLM)",
+     "place": "Northwoods Park Field, 7600 107th Ave. N. (OLM page); Sahan Journal listed the match at Robbinsdale Armstrong High School",
+     "link": "https://www.olmbp.org/event-details/youth-festival-sports",
+     "organizerDates": "Saturday, July 25, 2026, 9 a.m. to 8 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Minnesota United vs. Liberia Lone Stars friendly (canceled)",
+     "place": "Allianz Field, St. Paul",
+     "link": "https://ccxmedia.org/news/newsmakers-liberia-national-soccer-team-to-play-minnesota-united-july-26/",
+     "organizerDates": "Was set for Sunday, July 26, 2026, 5 p.m.; canceled July 16, 2026, over visa denials",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Residents celebrate Liberian Independence Day (CCX Media, July 25, 2019)",
+     "url": "https://ccxmedia.org/news/residents-celebrate-liberian-independence-day/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Liberian community marks Independence Day (Sahan Journal, July 24, 2026)",
+     "url": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Liberian Independence Day celebrated through local business impact (CCX Media, July 2025)",
+     "url": "https://ccxmedia.org/news/liberian-independence-day-celebrated-through-local-business-impact/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Brooklyn Park to celebrate Liberian Independence Day July 26 (CCX Media, 2021)",
+     "url": "https://ccxmedia.org/news/brooklyn-park-to-celebrate-liberian-independence-day-july-26/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Liberian independence celebrations kick off (Minnesota Spokesman-Recorder, 2019)",
+     "url": "https://spokesman-recorder.com/2019/07/25/liberian-independence-celebrations-kick-off/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Liberia national team vs. Minnesota United canceled (CCX Media, July 16, 2026)",
+     "url": "https://ccxmedia.org/news/newsmakers-liberia-national-soccer-team-to-play-minnesota-united-july-26/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "National holidays in Liberia in 2026 (Office Holidays)",
+     "url": "https://www.officeholidays.com/countries/liberia/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "OLM Independence Twin Ball",
+     "url": "https://www.olmbp.org/event-details/independence-twin-ball",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "OLM Youth Festival + Sports",
+     "url": "https://www.olmbp.org/event-details/youth-festival-sports",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "We Are Liberian Independence Day Parade & Day in the Park",
+   "alsoKnownAs": [
+    "Liberian Independence Day Parade",
+    "Day in the Park"
+   ],
+   "kind": "community festival",
+   "capsule": "Free parade and festival with food, music, vendors and family activities for Liberian Independence Day in the northwest suburbs.",
+   "dateRule": "Held on July 26 in 2025 and 2026, as announced by We Are Liberian. Future dates announced each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-26",
+     "endDate": null,
+     "source": "Sahan Journal listing of We Are Liberian event",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Liberian independence, and in organizers' words a way to bridge the older and younger generations.",
+   "howCelebratedInMinnesota": "First held July 26, 2025, from Shingle Creek Parkway to Centennial Park in Brooklyn Center with about 70 vendors, free with Eventbrite registration; thousands attended, some from as far as New York. In 2026 it moved to North Hennepin Community College in Brooklyn Park, parade at 11 a.m. and festival until 7 p.m. Co-founded by Marie Dweh.",
+   "minnesotaEvents": [
+    {
+     "name": "2nd Annual Liberian Independence Day Parade & Day in the Park",
+     "place": "North Hennepin Community College, 7411 85th Ave. N., Brooklyn Park",
+     "link": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "organizerDates": "Sunday, July 26, 2026, 11 a.m. to 7 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Liberian Independence Day Parade (first)",
+     "place": "Brooklyn Center",
+     "link": "https://ccxmedia.org/news/liberian-independence-day-celebrated-through-local-business-impact/",
+     "organizerDates": "Saturday, July 26, 2025, from 11 a.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sahan Journal, July 24, 2026",
+     "url": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "CCX Media, July 2025",
+     "url": "https://ccxmedia.org/news/liberian-independence-day-celebrated-through-local-business-impact/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "OLM Liberian Independence Twin Ball",
+   "alsoKnownAs": [
+    "Independence Ball"
+   ],
+   "kind": "community festival",
+   "capsule": "Formal evening ball hosted by the Organization of Liberians in Minnesota during Independence weekend.",
+   "dateRule": "Set each year by the Organization of Liberians in Minnesota, usually the Friday before or near July 26.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-24",
+     "endDate": "2026-07-25",
+     "source": "OLM event page",
+     "sourceUrl": "https://www.olmbp.org/event-details/independence-twin-ball",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Liberian independence; a dress-up evening of music and networking.",
+   "howCelebratedInMinnesota": "OLM held the 2026 ball at the Marriott Northwest in Brooklyn Park from 6 p.m. to 1 a.m.; OLM calls it Liberia's biggest Independence celebration. OLM also held a banquet dinner during Independence week in 2019.",
+   "minnesotaEvents": [
+    {
+     "name": "Independence Twin Ball",
+     "place": "Marriott Northwest, 7025 Northland Dr. N., Brooklyn Park",
+     "link": "https://www.olmbp.org/event-details/independence-twin-ball",
+     "organizerDates": "July 24, 2026, 6 p.m. to July 25, 1 a.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "OLM, Independence Twin Ball",
+     "url": "https://www.olmbp.org/event-details/independence-twin-ball",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "CCX Media, July 25, 2019",
+     "url": "https://ccxmedia.org/news/residents-celebrate-liberian-independence-day/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Liberia Youth Music Festival and Independence Soccer Match",
+   "alsoKnownAs": [
+    "Barrolle vs. Invincible Eleven match",
+    "LSA-MN Independence tournament"
+   ],
+   "kind": "community festival",
+   "capsule": "Youth music, soccer and games for Independence weekend, including a mock match of Liberia's two famous rival clubs.",
+   "dateRule": "Set each year by OLM with the Liberian Sporting Association of Minnesota, on the Saturday of Independence weekend in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-25",
+     "endDate": null,
+     "source": "OLM event page",
+     "sourceUrl": "https://www.olmbp.org/event-details/youth-festival-sports",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Liberian independence, through sport and youth culture.",
+   "howCelebratedInMinnesota": "The Liberian Sporting Association of Minnesota has hosted Independence Day basketball, girls' kickball and boys' soccer since 2021, growing from about 1,000 to 3,000 attendees by its founder's account. In 2026 the match pitted teams in the colors of Mighty Barrolle and Invincible Eleven. OLM's page lists Northwoods Park Field, 9 a.m. to 8 p.m.; Sahan Journal listed Robbinsdale Armstrong High School at 5 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Youth Festival + Sports",
+     "place": "Northwoods Park Field, 7600 107th Ave. N.",
+     "link": "https://www.olmbp.org/event-details/youth-festival-sports",
+     "organizerDates": "Saturday, July 25, 2026, 9 a.m. to 8 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "OLM / LSA-MN soccer match",
+     "place": "Robbinsdale Armstrong High School (per Sahan Journal)",
+     "link": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "organizerDates": "Saturday, July 25, 2026, 5 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "OLM, Youth Festival + Sports",
+     "url": "https://www.olmbp.org/event-details/youth-festival-sports",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Sahan Journal, July 24, 2026",
+     "url": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Tribeville Music Festival",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Afrobeat concert opening Minnesota's Liberian Independence weekend in Minneapolis.",
+   "dateRule": "Announced each year; held the Friday of Independence weekend in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-24",
+     "endDate": null,
+     "source": "Sahan Journal event listing",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Liberian Independence Day celebrations.",
+   "howCelebratedInMinnesota": "Live Afrobeat music at The Armory, 500 S. 6th St., Minneapolis, 6 p.m., per Sahan Journal.",
+   "minnesotaEvents": [
+    {
+     "name": "Tribeville Music Festival",
+     "place": "The Armory, Minneapolis",
+     "link": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "organizerDates": "Friday, July 24, 2026, 6 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sahan Journal, July 24, 2026",
+     "url": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Mama Liberia Concert",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Night of Liberian music at the Varsity Theater during Independence weekend.",
+   "dateRule": "Announced each year; Saturday of Independence weekend in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-25",
+     "endDate": null,
+     "source": "Sahan Journal event listing",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Liberian Independence Day celebrations.",
+   "howCelebratedInMinnesota": "Liberian artists including King Dee and Dee Tweh at the Varsity Theater, 1308 S.E. Fourth St., Minneapolis, 9 p.m., per Sahan Journal.",
+   "minnesotaEvents": [
+    {
+     "name": "Mama Liberia Concert",
+     "place": "Varsity Theater, Minneapolis",
+     "link": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "organizerDates": "Saturday, July 25, 2026, 9 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sahan Journal, July 24, 2026",
+     "url": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "christmas",
+   "name": "Christmas",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "The birth of Jesus; a national holiday in Liberia and a major day for Minnesota's many Liberian churches.",
+   "dateRule": "December 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Fixed date; Office Holidays lists Christmas Day Dec. 25 in Liberia (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/liberia/2026",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Fixed date; Office Holidays lists Christmas Day Dec. 25 in Liberia (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/liberia/2026",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Fixed date; Office Holidays lists Christmas Day Dec. 25 in Liberia (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/liberia/2026",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Birth of Jesus.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Office Holidays, Liberia 2026",
+     "url": "https://www.officeholidays.com/countries/liberia/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Resurrection of Jesus; a central day for Liberian Christian congregations in Minnesota.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Western Easter).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "Calculated (Western Easter computus), from seed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
+     "endDate": null,
+     "source": "Calculated, from seed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Calculated, from seed",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "good-friday",
+   "name": "Good Friday",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "The crucifixion of Jesus, kept by many Liberian Christian congregations before Easter.",
+   "dateRule": "The Friday before Western Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-03",
+     "endDate": null,
+     "source": "Calculated, from seed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-26",
+     "endDate": null,
+     "source": "Calculated, from seed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-14",
+     "endDate": null,
+     "source": "Calculated, from seed",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The crucifixion of Jesus.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "eid-alfitr",
+   "name": "Eid al-Fitr",
+   "alsoKnownAs": [
+    "Eid"
+   ],
+   "kind": "religious",
+   "capsule": "End of Ramadan; observed by Liberian Muslim families, including the majority-Liberian Masjid Al-Ansar in Brooklyn Center.",
+   "dateRule": "First day of Shawwal, after Ramadan. Decided by moon sighting or calculation; dates here are projections.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-20",
+     "endDate": null,
+     "source": "Projected (Umm al-Qura tabular calendar), not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Projected, not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-26",
+     "endDate": null,
+     "source": "Projected, not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "The end of the month of Ramadan fasting.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Brooklyn Center mosque officially opens (CCX Media, Oct. 14, 2022)",
+     "url": "https://ccxmedia.org/news/brooklyn-center-mosque-officially-opens-after-years-of-planning/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Mosque approved for Brooklyn Center site (CCX Media, March 24, 2020)",
+     "url": "https://ccxmedia.org/news/despite-parking-concerns-mosque-approved-for-brooklyn-center-site/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-aladha",
+   "name": "Eid al-Adha",
+   "alsoKnownAs": [
+    "Feast of Sacrifice"
+   ],
+   "kind": "religious",
+   "capsule": "Feast of Sacrifice during the Hajj season; observed by Liberian Muslim families in Minnesota.",
+   "dateRule": "10 Dhu al-Hijjah. Decided by moon sighting or calculation; dates here are projections.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": null,
+     "source": "Projected (Umm al-Qura tabular calendar), not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Projected, not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Projected, not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Abraham's willingness to sacrifice his son, and the Hajj pilgrimage.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Brooklyn Center mosque officially opens (CCX Media, Oct. 14, 2022)",
+     "url": "https://ccxmedia.org/news/brooklyn-center-mosque-officially-opens-after-years-of-planning/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Decoration Day (Liberia)",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Liberian national day for cleaning and decorating family graves; no Minnesota observance was found.",
+   "dateRule": "Second Wednesday in March.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-11",
+     "endDate": null,
+     "source": "Office Holidays, Liberia 2026 (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/liberia/2026",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-10",
+     "endDate": null,
+     "source": "Calculated from rule",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-08",
+     "endDate": null,
+     "source": "Calculated from rule",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Remembrance of the dead by decorating graves.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Office Holidays, Liberia 2026",
+     "url": "https://www.officeholidays.com/countries/liberia/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "National Fast and Prayer Day (Liberia)",
+   "alsoKnownAs": [
+    "Fast and Prayer Day"
+   ],
+   "kind": "religious",
+   "capsule": "Liberian national day of fasting and prayer for the nation, set by an 1883 act; no Minnesota observance was found.",
+   "dateRule": "Second Friday in April, by an 1883 act of Liberia's legislature; proclaimed each year by the president.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-10",
+     "endDate": null,
+     "source": "Office Holidays, Liberia 2026 (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/liberia/2026",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-04-09",
+     "endDate": null,
+     "source": "Calculated from rule",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-14",
+     "endDate": null,
+     "source": "Calculated from rule",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Prayer and fasting for the safety and welfare of the nation.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Office Holidays, Liberia 2026",
+     "url": "https://www.officeholidays.com/countries/liberia/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Liberia Ministry of Foreign Affairs, Fast & Prayer Day",
+     "url": "https://www.mofa.gov.lr/node/5184",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Flag Day (Liberia)",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "Liberian national holiday honoring the flag; no Minnesota observance was found.",
+   "dateRule": "August 24.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-24",
+     "endDate": null,
+     "source": "Fixed date; Office Holidays lists Aug. 24 (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/liberia/2026",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-24",
+     "endDate": null,
+     "source": "Fixed date; Office Holidays lists Aug. 24 (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/liberia/2026",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-24",
+     "endDate": null,
+     "source": "Fixed date; Office Holidays lists Aug. 24 (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/liberia/2026",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Liberia's national flag.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Office Holidays, Liberia 2026",
+     "url": "https://www.officeholidays.com/countries/liberia/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "National Thanksgiving Day (Liberia)",
+   "alsoKnownAs": [
+    "Liberian Thanksgiving"
+   ],
+   "kind": "national",
+   "capsule": "Liberian national day of thanks, held weeks before U.S. Thanksgiving; no Minnesota observance was found.",
+   "dateRule": "First Thursday in November.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-05",
+     "endDate": null,
+     "source": "Office Holidays, Liberia 2026 (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/liberia/2026",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-04",
+     "endDate": null,
+     "source": "Calculated from rule",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-02",
+     "endDate": null,
+     "source": "Calculated from rule",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Thanks for blessings received over the year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Office Holidays, Liberia 2026",
+     "url": "https://www.officeholidays.com/countries/liberia/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": [
+  {
+   "id": "watch-night",
+   "reason": "The seed ties Watch Night to the 1862 Emancipation vigil, which is African American history. No opened source showed Liberian Minnesotans or their churches observing it under that meaning; New Year's Eve church services may occur but were not documented."
+  }
+ ]
+}

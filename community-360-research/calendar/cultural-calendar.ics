@@ -1631,6 +1631,33 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:olm-liberian-independence-twin-ball-2026-07-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260726
+SUMMARY:OLM Liberian Independence Twin Ball
+DESCRIPTION:Liberian independence\; a dress-up evening of music and netwo
+ rking. Date: Set each year by the Organization of Liberians in Minnesota\
+ , usually the Friday before or near July 26. Source: OLM event page https
+ ://www.olmbp.org/event-details/independence-twin-ball Communities: Liberi
+ an Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tribeville-music-festival-2026-07-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:Tribeville Music Festival
+DESCRIPTION:Liberian Independence Day celebrations. Date: Announced each 
+ year\; held the Friday of Independence weekend in 2026. Source: Sahan Jou
+ rnal event listing https://sahanjournal.com/arts-culture/minnesota-liberi
+ an-independence-day-festival-2026/ Communities: Liberian Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:kolacky-days-2026-07-24@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260724
@@ -1655,6 +1682,33 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:liberia-youth-music-festival-and-independence-soccer-match-2026-07-25@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Liberia Youth Music Festival and Independence Soccer Match
+DESCRIPTION:Liberian independence\, through sport and youth culture. Date
+ : Set each year by OLM with the Liberian Sporting Association of Minnesot
+ a\, on the Saturday of Independence weekend in 2026. Source: OLM event pa
+ ge https://www.olmbp.org/event-details/youth-festival-sports Communities:
+  Liberian Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mama-liberia-concert-2026-07-25@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Mama Liberia Concert
+DESCRIPTION:Liberian Independence Day celebrations. Date: Announced each 
+ year\; Saturday of Independence weekend in 2026. Source: Sahan Journal ev
+ ent listing https://sahanjournal.com/arts-culture/minnesota-liberian-inde
+ pendence-day-festival-2026/ Communities: Liberian Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:puerto-rico-constitution-day-2026-07-25@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260725
@@ -1673,11 +1727,28 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
 SUMMARY:Liberian Independence Day
-DESCRIPTION:Independence in 1847. Date: July 26. Source: Embassy of the R
- epublic of Liberia in Washington\, President Sirleaf's Independence Day M
- essage (July 26\, 2012) https://www.liberianembassyus.org/view/announceme
- nts?page=19 Communities: Liberian Minnesota
+DESCRIPTION:Liberia's declaration of independence on July 26\, 1847. 2026
+  was the 179th anniversary. Date: July 26 each year. Minnesota events clu
+ ster on the surrounding weekend\, set by each organizer. Source: Fixed da
+ te\; CCX Media and Office Holidays state July 26 https://ccxmedia.org/new
+ s/residents-celebrate-liberian-independence-day/ Communities: Liberian Mi
+ nnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:we-are-liberian-independence-day-parade-day-in-the-park-2026-07-26@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:We Are Liberian Independence Day Parade & Day in the Park
+DESCRIPTION:Liberian independence\, and in organizers' words a way to bri
+ dge the older and younger generations. Date: Held on July 26 in 2025 and 
+ 2026\, as announced by We Are Liberian. Future dates announced each year.
+  Source: Sahan Journal listing of We Are Liberian event https://sahanjour
+ nal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/ C
+ ommunities: Liberian Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3301,7 +3372,7 @@ DESCRIPTION:New Year's Eve vigil\, remembering the 1862 vigil before the
  Emancipation Proclamation took effect. Date: December 31. Source: Nationa
  l Park Service\, Freedom's Eve: Awaiting the Passage of the Emancipation 
  Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Communiti
- es: African American Minnesota\, Liberian Minnesota
+ es: African American Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4256,10 +4327,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
 SUMMARY:Liberian Independence Day
-DESCRIPTION:Independence in 1847. Date: July 26. Source: Embassy of the R
- epublic of Liberia in Washington\, President Sirleaf's Independence Day M
- essage (July 26\, 2012) https://www.liberianembassyus.org/view/announceme
- nts?page=19 Communities: Liberian Minnesota
+DESCRIPTION:Liberia's declaration of independence on July 26\, 1847. 2026
+  was the 179th anniversary. Date: July 26 each year. Minnesota events clu
+ ster on the surrounding weekend\, set by each organizer. Source: Fixed da
+ te https://ccxmedia.org/news/residents-celebrate-liberian-independence-da
+ y/ Communities: Liberian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4902,7 +4974,7 @@ DESCRIPTION:New Year's Eve vigil\, remembering the 1862 vigil before the
  Emancipation Proclamation took effect. Date: December 31. Source: Nationa
  l Park Service\, Freedom's Eve: Awaiting the Passage of the Emancipation 
  Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Communiti
- es: African American Minnesota\, Liberian Minnesota
+ es: African American Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5741,10 +5813,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280726
 DTEND;VALUE=DATE:20280727
 SUMMARY:Liberian Independence Day
-DESCRIPTION:Independence in 1847. Date: July 26. Source: Embassy of the R
- epublic of Liberia in Washington\, President Sirleaf's Independence Day M
- essage (July 26\, 2012) https://www.liberianembassyus.org/view/announceme
- nts?page=19 Communities: Liberian Minnesota
+DESCRIPTION:Liberia's declaration of independence on July 26\, 1847. 2026
+  was the 179th anniversary. Date: July 26 each year. Minnesota events clu
+ ster on the surrounding weekend\, set by each organizer. Source: Fixed da
+ te https://ccxmedia.org/news/residents-celebrate-liberian-independence-da
+ y/ Communities: Liberian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6302,7 +6375,7 @@ DESCRIPTION:New Year's Eve vigil\, remembering the 1862 vigil before the
  Emancipation Proclamation took effect. Date: December 31. Source: Nationa
  l Park Service\, Freedom's Eve: Awaiting the Passage of the Emancipation 
  Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Communiti
- es: African American Minnesota\, Liberian Minnesota
+ es: African American Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT

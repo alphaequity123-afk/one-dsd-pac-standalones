@@ -1,0 +1,716 @@
+[
+ {
+  "title": "Liberian Minnesota (current page)",
+  "publisher": "One DSD People, Access and Culture",
+  "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Page checked for corrections"
+ },
+ {
+  "title": "Liberian population, cultural communities",
+  "publisher": "Minnesota Compass (Wilder Research)",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/liberian",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population and socioeconomic figures; corrections"
+ },
+ {
+  "title": "ACS 2020-2024 table B05006, place of birth, Minnesota places and counties",
+  "publisher": "Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27,16000US2707966,16000US2707948,16000US2743000,16000US2758000,05000US27053,05000US27123,05000US27003,01000US,16000US2713456,16000US2739878,16000US2747680,16000US2754880",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population counts"
+ },
+ {
+  "title": "ACS 2020-2024 table B04006, ancestry",
+  "publisher": "Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B04006&geo_ids=04000US27,16000US2707966,16000US2707948,16000US2743000,16000US2758000,05000US27053,05000US27123,05000US27003,01000US,16000US2713456,16000US2739878,16000US2747680,16000US2754880",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population counts"
+ },
+ {
+  "title": "ACS 2020-2024 table B05006, states compared",
+  "publisher": "Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US06,04000US10,04000US11,04000US13,04000US24,04000US25,04000US26,04000US27,04000US34,04000US36,04000US37,04000US39,04000US42,04000US44,04000US48,04000US51,04000US53,04000US55,04000US17,04000US12",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population counts"
+ },
+ {
+  "title": "Minnesota Liberian community marks Independence Day with three-day celebration",
+  "publisher": "Sahan Journal, July 24, 2026",
+  "url": "https://sahanjournal.com/arts-culture/minnesota-liberian-independence-day-festival-2026/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile, calendar, corrections"
+ },
+ {
+  "title": "'Cried with joy': Minnesota's Liberians find elation, relief in new residency law. Sahan Journal, Jan",
+  "publisher": "5, 2020",
+  "url": "https://sahanjournal.com/immigration/cried-with-joy-minnesotas-liberians-find-elation-relief-in-new-residency-law/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "OLM receives $400K to expand Brooklyn Park facility",
+  "publisher": "CCX Media, July 2, 2026",
+  "url": "https://ccxmedia.org/news/olm-receives-400k-to-expand-brooklyn-park-facility/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "About",
+  "publisher": "Organization of Liberians in Minnesota",
+  "url": "https://www.olmbp.org/about",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Seniors Enrichment Program",
+  "publisher": "OLM",
+  "url": "https://www.olmbp.org/sep",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Youth Enrichment Program",
+  "publisher": "OLM",
+  "url": "https://www.olmbp.org/yep",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Community Enrichment Program",
+  "publisher": "OLM",
+  "url": "https://www.olmbp.org/cep",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Independence Twin Ball event page",
+  "publisher": "OLM",
+  "url": "https://www.olmbp.org/event-details/independence-twin-ball",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Calendar organizer dates"
+ },
+ {
+  "title": "Youth Festival + Sports event page",
+  "publisher": "OLM",
+  "url": "https://www.olmbp.org/event-details/youth-festival-sports",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Calendar organizer dates"
+ },
+ {
+  "title": "Amb. Patten calls for trade mission from Minnesota to Liberia",
+  "publisher": "Embassy of the Republic of Liberia, 2019",
+  "url": "https://liberianembassyus.org/node/6198",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Attorney General Ellison moves to protect Minnesota's Liberian community",
+  "publisher": "Minnesota Attorney General, March 26, 2019",
+  "url": "https://www.ag.state.mn.us/Office/Communications/2019/03/26_LiberianDEDStatus.asp",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Bush extends stays of thousands of Liberians in U.S. MPR News/AP, Sept",
+  "publisher": "13, 2007",
+  "url": "https://www.mprnews.org/story/2007/09/13/liberianstatus",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "'Minnesota is my home': Liberians face deportation deadline",
+  "publisher": "MPR News, March 11, 2019",
+  "url": "https://www.mprnews.org/story/2019/03/11/liberians-minnesota-deportation-deadline",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Ones to watch: These Minnesota men are running for Liberia at the Paris Olympics",
+  "publisher": "MPR News, July 26, 2024",
+  "url": "https://www.mprnews.org/story/2024/07/26/ones-to-watch-these-minnesota-men-are-running-for-liberia-at-the-paris-olympics",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberians in Minnesota concerned over Ebola outbreak",
+  "publisher": "CBS Minnesota/AP, July 29, 2014",
+  "url": "https://www.cbsnews.com/minnesota/news/liberians-in-minnesota-concerned-over-ebola-outbreak/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Letter from Gov. Mark Dayton on DED",
+  "publisher": "Office of the Governor, March 29, 2018 (Legislative Reference Library)",
+  "url": "https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2018_03_29_ded_letter.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Minnesota United to host June 22 youth soccer clinic in Brooklyn Park",
+  "publisher": "CCX Media, June 18, 2026",
+  "url": "https://ccxmedia.org/news/minnesota-united-to-host-june-22-youth-soccer-clinic-in-brooklyn-park/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "United Community: Liberian Independence Day",
+  "publisher": "City of Brooklyn Park, July 23, 2021",
+  "url": "https://www.brooklynpark.org/community-story/united-community-liberian-independence-day/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "D.Min. alums minister to immigrant populations in the Twin Cities. Luther Seminary, Nov",
+  "publisher": "16, 2015",
+  "url": "https://www.luthersem.edu/story/2015/11/16/d-min-alums-minister-to-immigrant-populations-in-the-twin-cities/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Maple Grove Liberian immigrant celebrates U.S. Senate vote. CCX Media, Dec",
+  "publisher": "18, 2019",
+  "url": "https://ccxmedia.org/news/maple-grove-liberian-immigrant-celebrates-u-s-senate-vote/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "English Learners in Minnesota report",
+  "publisher": "Minnesota Department of Education, 2024 (Legislative Reference Library)",
+  "url": "https://www.lrl.mn.gov/docs/2024/other/240747.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Education Finance Committee presentation (Megan Dayton, senior demographer), Feb. 6, 2019",
+  "publisher": "Minnesota House",
+  "url": "https://www.house.mn.gov/comm/docs/7c13a07c-694f-44ce-a330-86bb54727e62.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberians organize to help community during COVID-19 outbreak",
+  "publisher": "CCX Media, March 30, 2020",
+  "url": "https://ccxmedia.org/news/liberians-organize-to-help-community-during-covid-19-outbreak/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberians rally at Minnesota Capitol as DED program deadline approaches",
+  "publisher": "FOX 9, March 26, 2018",
+  "url": "https://www.fox9.com/news/liberians-rally-at-minnesota-capitol-as-ded-program-deadline-approaches",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberian immigrants face uncertain fate as temporary status ends. St",
+  "publisher": "Paul Pioneer Press via Inforum, April 7, 2018",
+  "url": "https://www.inforum.com/news/liberian-immigrants-face-uncertain-fate-as-temporary-status-ends",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "End of DED program could impact Minnesota health care industry",
+  "publisher": "FOX 9, March 31, 2018",
+  "url": "https://www.fox9.com/news/end-of-ded-program-could-impact-minnesota-health-care-industry",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Brooklyn Park, Liberian organization partner for health care worker training program",
+  "publisher": "CCX Media, April 26, 2021",
+  "url": "https://ccxmedia.org/news/brooklyn-park-liberian-organization-partner-for-healthcare-workers-training-program/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "ACER home page",
+  "publisher": "African Career, Education & Resource, Inc",
+  "url": "https://acerinc.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberian Business Association connects dots for minority-owned businesses. CCX Media, Oct",
+  "publisher": "8, 2020",
+  "url": "https://ccxmedia.org/news/liberian-business-association-connects-dots-for-minority-owned-businesses/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "LIBA-Diaspora handout, Senate Jobs Committee, March 20, 2023",
+  "publisher": "Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/archive/minutes/senate/2023/jobs/20230320/Jobs_20230320_Handout-LIBA-Work-in-the-Community.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "The Black immigrant women who bought a Minneapolis mall. Next City, Feb",
+  "publisher": "20, 2024",
+  "url": "https://nextcity.org/features/black-immigrant-women-bought-minneapolis-strip-mall-shingle-creek-cent",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Hundreds of local Liberians worry about deportation",
+  "publisher": "CCX Media, March 12, 2018",
+  "url": "https://ccxmedia.org/news/hundreds-local-liberians-worry-deportation/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Carol's African Restaurant brings Liberian cuisine and community to Brooklyn Park",
+  "publisher": "Minnesota Spokesman-Recorder, June 27, 2026",
+  "url": "https://spokesman-recorder.com/2026/06/27/carols-african-restaurant-brooklyn-park/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "New Liberian restaurant offers West African flavors in Brooklyn Center",
+  "publisher": "CCX Media, July 7, 2026",
+  "url": "https://ccxmedia.org/news/new-liberian-restaurant-offers-west-african-flavors-in-brooklyn-center/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Carol's brings Liberian cuisine to Brooklyn Park",
+  "publisher": "Hoodline, June 2026",
+  "url": "https://hoodline.com/2026/06/liberian-hot-spot-carol-s-packs-brooklyn-park-corner-on-opening-night/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Milah's Royal Bistro menu listing",
+  "publisher": "Roost Cafe and Bistro directory",
+  "url": "https://www.roostcafeandbistro.com/milahs-royal-bistro-55444/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberian Independence Day celebrated through local business impact",
+  "publisher": "CCX Media, July 2025",
+  "url": "https://ccxmedia.org/news/liberian-independence-day-celebrated-through-local-business-impact/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Cavalla Travel opens Brooklyn Center store specializing in African tours",
+  "publisher": "CCX Media, June 27, 2024",
+  "url": "https://ccxmedia.org/news/brooklyn-center-travel-business-expands-in-shingle-creek/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Jambo Africa restaurant approved for new Brooklyn Center location. CCX Media, Aug",
+  "publisher": "11, 2026",
+  "url": "https://ccxmedia.org/news/jambo-africa-restaurant-approved-for-new-brooklyn-center-location/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "About",
+  "publisher": "Value Foods Corp",
+  "url": "https://valuefoodsmn.com/about.php",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Waterside Market listing",
+  "publisher": "Atly",
+  "url": "https://www.atly.com/location/WatersideMarket1.md",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Crystal's African Foods & Gifts 'goes beyond the cassava leaf.' CCX Media, Feb",
+  "publisher": "15, 2022",
+  "url": "https://ccxmedia.org/news/crystals-african-foods-gifts-goes-beyond-the-cassava-leaf/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "About Us",
+  "publisher": "The AfricaPaper",
+  "url": "https://theafricapaper.com/about-us/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Search results for \"Liberian.\" CCX Media",
+  "publisher": "",
+  "url": "https://ccxmedia.org/?s=Liberian",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "It's hard out there for a Liberian restaurant. Food Republic, Oct",
+  "publisher": "16, 2014",
+  "url": "https://www.foodrepublic.com/2014/10/16/its-hard-out-there-for-a-liberian-restaurant/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Rev. Dr. Josef A. Howard author page",
+  "publisher": "Working Preacher, Luther Seminary",
+  "url": "https://www.workingpreacher.org/authors/rev-dr-josef-a-howard",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Ebenezer Community Church home page",
+  "publisher": "",
+  "url": "https://www.ebenezercommunitychurch.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberian immigrants promoting gospel in Minnesota",
+  "publisher": "FrontPage Africa",
+  "url": "https://frontpageafricaonline.com/liberian-immigrants-promoting-gospel-in-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Beloved Liberian pastor Charles Goah dies",
+  "publisher": "CCX Media, May 11, 2018",
+  "url": "https://ccxmedia.org/news/beloved-liberian-pastor-charles-goah-dies/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "US-Liberian pastor receives Minnesota Governor's award",
+  "publisher": "The AfricaPaper",
+  "url": "https://theafricapaper.com/us-liberian-pastor-receives-minnesota-governors-award/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberian city names parkland after Brooklyn Park",
+  "publisher": "CCX Media, May 26, 2022",
+  "url": "https://ccxmedia.org/news/liberian-city-names-parkland-after-brooklyn-park/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Brooklyn Center mosque officially opens after years of planning. CCX Media, Oct",
+  "publisher": "14, 2022",
+  "url": "https://ccxmedia.org/news/brooklyn-center-mosque-officially-opens-after-years-of-planning/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Despite parking concerns, mosque approved for Brooklyn Center site",
+  "publisher": "CCX Media, March 24, 2020",
+  "url": "https://ccxmedia.org/news/despite-parking-concerns-mosque-approved-for-brooklyn-center-site/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Residents celebrate Liberian Independence Day",
+  "publisher": "CCX Media, July 25, 2019",
+  "url": "https://ccxmedia.org/news/residents-celebrate-liberian-independence-day/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberian independence celebrations kick off",
+  "publisher": "Minnesota Spokesman-Recorder, July 25, 2019",
+  "url": "https://spokesman-recorder.com/2019/07/25/liberian-independence-celebrations-kick-off/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "UPDATE: Liberian national soccer team vs. Minnesota United game canceled due to visa issues",
+  "publisher": "CCX Media, July 16, 2026",
+  "url": "https://ccxmedia.org/news/newsmakers-liberia-national-soccer-team-to-play-minnesota-united-july-26/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Brooklyn Park to celebrate Liberian Independence Day July 26",
+  "publisher": "CCX Media, July 15, 2021",
+  "url": "https://ccxmedia.org/news/brooklyn-park-to-celebrate-liberian-independence-day-july-26/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "After tough year, Liberian community celebrates Independence Day",
+  "publisher": "CBS Minnesota, July 25, 2015",
+  "url": "https://www.cbsnews.com/minnesota/news/after-tough-year-liberian-community-celebrates-independence-day/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "National holidays in Liberia in 2026",
+  "publisher": "Office Holidays",
+  "url": "https://www.officeholidays.com/countries/liberia/2026",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Calendar dates and profile section 6"
+ },
+ {
+  "title": "Friday, April 14, is National Fast & Prayer Day",
+  "publisher": "Liberia Ministry of Foreign Affairs",
+  "url": "https://www.mofa.gov.lr/node/5184",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Calendar (Fast and Prayer Day rule)"
+ },
+ {
+  "title": "US-based West Africa ballet dance troupe comes to Twin Cities",
+  "publisher": "The AfricaPaper, 2015",
+  "url": "https://theafricapaper.com/us-based-west-africa-ballet-dance-troupe-comes-to-twin-cities/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "St. Paul sprinter pushed through adversity to race in Rio. MPR News, Aug",
+  "publisher": "12, 2016",
+  "url": "https://www.mprnews.org/story/2016/08/12/st-paul-sprinter-pushed-through-adversity-to-race-in-rio",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "EL.i.BE, 'Liberation.' Essentially Pop, May 2017",
+  "publisher": "",
+  "url": "https://essentiallypop.com/epop/2017/05/el-i-be-liberation/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Kokou Kah event listing",
+  "publisher": "The Current, 2022",
+  "url": "https://www.thecurrent.org/events/kokou-kah-08312022",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Rotunda Dance Series: Nimely Pan African Dance Company",
+  "publisher": "Dancers' Group, May 24, 2011",
+  "url": "https://dancersgroup.org/wp-content/uploads/2012/10/RotundaPR_Nimely.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Art Hounds: Ladysmith, Liberia and dance",
+  "publisher": "MPR News, July 22, 2010",
+  "url": "https://www.mprnews.org/story/2010/07/22/art-hounds-ladysmith-liberia-and-dance",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberian-born U.S. citizen hospitalized after alleged rough encounter with ICE agents in Minnesota. FrontPage Africa, Jan",
+  "publisher": "9, 2026",
+  "url": "https://frontpageafricaonline.com/liberian-born-u-s-citizen-hospitalized-after-alleged-rough-encounter-with-ice-agents-in-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Who is Mike Elliott? Sahan Journal, 2021",
+  "publisher": "",
+  "url": "https://sahanjournal.com/public-safety/mike-elliott-mayor-brooklyn-center/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Brooklyn Center mayor at final meeting: 'Let's celebrate our differences.' CCX Media, December 2022",
+  "publisher": "",
+  "url": "https://ccxmedia.org/news/brooklyn-center-mayor-at-final-meeting-lets-celebrate-our-differences/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "History made: Brooklyn Park swears in first Liberian-American city council member",
+  "publisher": "FOX 9, January 2019",
+  "url": "https://www.fox9.com/news/history-made-brooklyn-park-swears-in-first-liberian-american-city-council-member",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Brooklyn Park swears in first Liberian-American council member. CCX Media, Jan",
+  "publisher": "8, 2019",
+  "url": "https://ccxmedia.org/news/brooklyn-park-swears-in-first-liberian-american-council-member/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Kenyan, Liberian candidates face off in one of Minnesota's most diverse House districts. Sahan Journal, Aug",
+  "publisher": "2024",
+  "url": "https://sahanjournal.com/democracy-politics/minnesota-primary-huldah-hiltsley-wynfred-russell/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Hiltsley edges Russell in House 38A primary. CCX Media, Aug",
+  "publisher": "14, 2024",
+  "url": "https://ccxmedia.org/news/hiltsley-edges-russell-in-house-38a-primary-to-face-olson/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "State primaries: Janigo, Pha win Senate challenges; Momanyi-Hiltsley advances in House race. CCX Media, Aug",
+  "publisher": "11, 2026",
+  "url": "https://ccxmedia.org/news/state-primaries-janigo-pha-win-senate-challenges-momanyi-hiltsley-advances-in-house-race/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "SF 1249, 94th Legislature",
+  "publisher": "Minnesota Revisor of Statutes",
+  "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1249/versions/latest/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "For Liberians in Minnesota, an uncertain year ahead",
+  "publisher": "MPR News, March 28, 2018",
+  "url": "https://www.mprnews.org/story/2018/03/28/for-liberians-in-minnesota-uncertain-year-ahead",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Brooklyn Park police to donate old uniforms to Liberian officers. CCX Media, Dec",
+  "publisher": "14, 2019",
+  "url": "https://ccxmedia.org/news/brooklyn-park-police-to-donate-old-uniforms-to-liberian-officers/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "From Brooklyn Park, Minnesota to Paynesville, Liberia",
+  "publisher": "City of Brooklyn Park, April 30, 2020",
+  "url": "https://www.brooklynpark.org/community-story/from-brooklyn-park-minnesota-to-paynesville-liberia/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Sister Cities",
+  "publisher": "City of Brooklyn Park",
+  "url": "https://www.brooklynpark.org/sister-cities/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberians rally for Deferred Enforced Departure extension",
+  "publisher": "CCX Media, March 26, 2018",
+  "url": "https://ccxmedia.org/news/liberians-rally/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberia TRC Diaspora Project",
+  "publisher": "The Advocates for Human Rights",
+  "url": "https://www.theadvocatesforhumanrights.org/Liberia_TRC_Diaspora_Project",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "A House with Two Rooms (record page)",
+  "publisher": "Mitchell Hamline Open Access, 2009",
+  "url": "https://open.mitchellhamline.edu/dri_press/7/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Liberians in Minnesota divided on country's future as peacekeepers move in. MPR News archive, Aug",
+  "publisher": "7, 2003",
+  "url": "https://archive.mpr.org/stories/2003/08/07/liberians-minnesota-divided-country-s",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Minnesotan who was former Liberian security forces commander deported",
+  "publisher": "CBS Minnesota/AP, April 29, 2020",
+  "url": "https://www.cbsnews.com/minnesota/news/minnesotan-who-was-fmr-liberian-security-forces-commander-deported/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Prevalence of cardiovascular risk factors across six African immigrant groups in Minnesota",
+  "publisher": "BMC Public Health, 2015 (PubMed)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25895917/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Leaders of Minnesota's West African community urge against travel to Liberia. MPR News, Oct",
+  "publisher": "5, 2014",
+  "url": "https://www.mprnews.org/story/2014/10/05/ebola-travel",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Brooklyn Park man creates Liberian Health Initiative. CCX Media, Dec",
+  "publisher": "20, 2018",
+  "url": "https://ccxmedia.org/news/brooklyn-park-man-creates-liberian-health-initiative/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Minnesota couple living with disabilities builds accessible orphanage and clinic in Liberia",
+  "publisher": "CBS Minnesota, July 16, 2024",
+  "url": "https://www.cbsnews.com/minnesota/news/prince-cole-agnes-cole-disability-motivational-network-liberia-acessible-orphanage/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Disability Motivational Network home page",
+  "publisher": "",
+  "url": "https://www.disabilitymotivationalnetwork.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Disability Motivational Network",
+  "publisher": "GiveMN",
+  "url": "https://www.givemn.org/organization/Disability-Motivational-Network",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Memorandum on extending eligibility for Deferred Enforced Departure for Liberians",
+  "publisher": "The White House, June 28, 2024",
+  "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/28/memorandum-on-extending-eligibility-for-deferred-enforced-departure-for-liberians/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "President Trump allows Deferred Enforced Departure for Liberians to expire",
+  "publisher": "Immigration Policy Tracking Project",
+  "url": "https://immpolicytracking.org/policies/deferred-enforced-departure-for-liberians-allowed-to-expire-on-june-30-2026/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Relief for Liberian refugees: Congress extends green card, citizenship application deadline. CCX Media, Dec",
+  "publisher": "31, 2020",
+  "url": "https://ccxmedia.org/news/relief-for-liberians-congress-extends-green-card-citizenship-application-deadline/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "A Liberian man released after his battering-ram arrest in Minneapolis is back in custody again. AP via Bangor Daily News, Jan",
+  "publisher": "16, 2026",
+  "url": "https://www.bangordailynews.com/2026/01/16/nation/a-liberian-man-released-after-his-battering-ram-arrest-in-minneapolis-is-back-in-custody-again/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "Minnesota man detained and released by ICE 2 times in a week speaks out",
+  "publisher": "KSTP, January 2026",
+  "url": "https://kstp.com/kstp-news/top-news/minnesota-man-detained-and-released-by-ice-2-times-in-a-week-speaks-out/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "New Brooklyn Center CAPI building expands opportunities for immigrants. CCX Media, Oct",
+  "publisher": "15, 2026",
+  "url": "https://ccxmedia.org/news/new-brooklyn-center-capi-building-expands-opportunities-for-immigrants/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Profile facts and citations"
+ },
+ {
+  "title": "3D's African Kitchen brings Nigerian, Liberian cuisine to Crystal",
+  "publisher": "CCX Media, April 25, 2024",
+  "url": "https://ccxmedia.org/news/3ds-african-kitchen-brings-nigerian-liberian-cuisine-to-crystal/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Business list"
+ }
+]

@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-26 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+27 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking, colombian, ecuadorian.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking, colombian, ecuadorian, liberian.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): liberian, nigerian, kenyan, amharic, guatemalan, salvadoran, cuban, puerto-rican, french, deaf-deafblind-hard-of-hearing now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): nigerian, kenyan, amharic, guatemalan, salvadoran, cuban, puerto-rican, french, deaf-deafblind-hard-of-hearing now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -43,6 +43,8 @@ american, european-american, minnesota.
 ## Blocked sources
 
 Hmong and the methods note could not open these: Star Tribune, Christian Century, the state charter school directory, Carleton's Religions in Minnesota, mn.gov pages (State Demographic Center, Department of Veterans Affairs), the University of Minnesota Conservancy, state courts, the Senate roster, Department of Education pages, and ICPSR.
+
+- Liberian could not open: Star Tribune, Mshale, the state's Help Me Connect and MinnesotaHelp directories, legacy.mn.gov, Secretary of State results, USCIS, Wilder's Speaking for Ourselves PDFs, Yelp, DoorDash, timeanddate and PubMed Central.
 
 - Ecuadorian could not open: Sahan Journal (too many requests), Minnesota Reformer, Yelp, Explore Minnesota, Toast, the University of Minnesota autism monitoring site and a Stanford dissertation record.
 
@@ -76,6 +78,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Liberian:** 102 opened sources; web search worked throughout. Not established: any Minnesota data on disability, mental health or special education for Liberian residents, a Minnesota count of people affected when Deferred Enforced Departure ended on June 30, 2026, Liberian-owned law, accounting, tax or insurance firms, ethnic or language breakdowns, and Liberian communities in Greater Minnesota. 10 of 18 businesses could not be confirmed open. Liberian national holidays listed only on a commercial holiday site are shown as unconfirmed.
 - **Ecuadorian:** 78 opened sources. Web search ran out after about 50 searches (the shared limit), and the rest was done by opening pages directly. Not established: a Minnesota count of Kichwa (Quichua) or other Indigenous-language speakers, Ecuadorian occupations, wealth or disability data beyond one Compass rate, any Ecuadorian-owned law, tax, insurance or media business, and any Ecuadorian evangelical congregation. 8 of 16 businesses could not be confirmed open, including Chimborazo's Minneapolis restaurant after a June 2026 fire.
 - **Colombian:** 84 opened sources; web search worked throughout. Only 10 businesses (5 open, 5 could not be confirmed open) for a community of about 10,000. Not established: any 2025 or 2026 Minnesota Colombian festival or Independence Day event, any active Colombian association, congregation, chamber or media outlet, and Colombian-specific disability, health or religion data beyond survey rates. Colombian holiday dates come from a commercial calendar site, so they are shown as unconfirmed until checked against an official source.
 - **Arabic-speaking:** 92 opened sources; web search worked throughout. Not established: Minnesota income, health or disability data for any Arab group except Lebanese, any Minnesota organization focused on disability among Arabic-speaking families, arrival histories for Egyptian, Sudanese, Syrian or Yemeni Minnesotans, and any non-food business (chamber, law or accounting firm, clinic). 13 of 22 businesses could not be confirmed open; nearly all businesses found are food businesses.

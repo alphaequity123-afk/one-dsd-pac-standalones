@@ -1,0 +1,182 @@
+[
+ {
+  "name": "Carol's African Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park / Brooklyn Center line (6940 Brooklyn Blvd.)",
+  "whatItIs": "Family-owned restaurant serving mostly Liberian food (dried rice, jollof, ginger juice), run by Daniel and Jamecar Killen and named for Carol Gbanjah; also caters.",
+  "link": "https://ccxmedia.org/news/new-liberian-restaurant-offers-west-african-flavors-in-brooklyn-center/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "CCX Media, July 7, 2026, reports it opened in May 2026 and has steady traffic; Spokesman-Recorder, June 27, 2026, reports a May 9 grand opening drawing 200+. Sources differ on city (Brooklyn Park vs. Brooklyn Center)."
+ },
+ {
+  "name": "Milah's Royal Bistro",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park (7648 N. Humboldt Ave.)",
+  "whatItIs": "Liberian and West African food; founder Milah Kai, a native of Liberia, per a menu directory.",
+  "link": "https://www.roostcafeandbistro.com/milahs-royal-bistro-55444/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Named as a Liberian-owned restaurant in CCX Media's July 2025 Independence Day business story and as part of Brooklyn Park's African food cluster in Hoodline, June 2026. No own website found; hours not confirmed."
+ },
+ {
+  "name": "Christina's Child Care Center",
+  "type": "child care",
+  "neighborhoodOrCity": "Crystal",
+  "whatItIs": "Child care center for ages 6 weeks to 13 years, started by Liberian immigrant Ophelia Zeogar in her basement; assistant director Christina Fraser.",
+  "link": "https://ccxmedia.org/news/liberian-independence-day-celebrated-through-local-business-impact/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "CCX Media, July 2025, filmed the center operating and said it had been in the family for 19 years. No own website found."
+ },
+ {
+  "name": "Prestigious Care Homes",
+  "type": "home health care",
+  "neighborhoodOrCity": "Twin Cities northwest suburbs",
+  "whatItIs": "Home health care business run by Marie Dweh, co-founder of We Are Liberian.",
+  "link": "https://ccxmedia.org/news/liberian-independence-day-celebrated-through-local-business-impact/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Named in CCX Media, July 2025, as Dweh's home healthcare service; no own page with current operation was opened."
+ },
+ {
+  "name": "Cavalla Travel & Tours",
+  "type": "travel agency",
+  "neighborhoodOrCity": "Brooklyn Center (Shingle Creek Center, 6044 Shingle Creek Pkwy.)",
+  "whatItIs": "Travel agency specializing in Africa, with luggage and travel accessories; owner Jannie Seibure, a native of Liberia.",
+  "link": "https://ccxmedia.org/news/brooklyn-center-travel-business-expands-in-shingle-creek/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "CCX Media, June 27, 2024, reported the new storefront opening; St. Paul Area Chamber directory lists the business, undated. No 2025-2026 sign of operation was opened."
+ },
+ {
+  "name": "Shingle Creek Center (Ignite Business Women Investment Group)",
+  "type": "strip mall / cooperative",
+  "neighborhoodOrCity": "Brooklyn Center",
+  "whatItIs": "18-storefront strip mall bought in October 2023 by a cooperative of Black immigrant businesswomen, mostly from Liberia, Nigeria and Somalia.",
+  "link": "https://nextcity.org/features/black-immigrant-women-bought-minneapolis-strip-mall-shingle-creek-cent",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Next City, Feb. 20, 2024, describes the purchase. ACER's site (checked Oct. 2026) lists Shingle Creek Center items but undated. Current tenants not confirmed."
+ },
+ {
+  "name": "Jambo Africa",
+  "type": "restaurant and nightclub",
+  "neighborhoodOrCity": "Brooklyn Center (1601 Freeway Blvd.)",
+  "whatItIs": "Restaurant and nightclub serving Nigerian, Kenyan and Liberian food; hosts Liberian Independence Day and IgboFest events. Owned by AWC Holdings LLC; ownership origin not stated.",
+  "link": "https://ccxmedia.org/news/jambo-africa-restaurant-approved-for-new-brooklyn-center-location/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "CCX Media, Aug. 11, 2026, reports the current location operating and city approval (July 27, 2026) to build a larger site at 6500 Camden Ave. N."
+ },
+ {
+  "name": "Value Foods Corp. (Value Foods African Market)",
+  "type": "grocery / restaurant",
+  "neighborhoodOrCity": "Brooklyn Park (7609 Welcome Ave. N.)",
+  "whatItIs": "African market and restaurant; Liberian ownership not confirmed.",
+  "link": "https://valuefoodsmn.com/about.php",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site carries a 2026 copyright and hiring form; Hoodline, June 2026, names Value Foods African Market among Brooklyn Park's African food businesses. Hours not shown."
+ },
+ {
+  "name": "Waterside Market",
+  "type": "grocery",
+  "neighborhoodOrCity": "Brooklyn Park (7500 Brooklyn Blvd.)",
+  "whatItIs": "African market selling cooked and uncooked West African food; Liberian ownership not confirmed.",
+  "link": "https://www.atly.com/location/WatersideMarket1.md",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only an aggregated listing was opened; no dated sign of operation."
+ },
+ {
+  "name": "African Foods & Gifts",
+  "type": "deli / grocery",
+  "neighborhoodOrCity": "Crystal (Crystal Shopping Center)",
+  "whatItIs": "Deli and store serving West African dishes such as pepper soup, collard greens and cassava leaf; owner Marlene Nah.",
+  "link": "https://ccxmedia.org/news/crystals-african-foods-gifts-goes-beyond-the-cassava-leaf/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "CCX Media, Feb. 15, 2022; no 2025-2026 sign found. The article links the food to Liberia but does not state the owner's origin."
+ },
+ {
+  "name": "3D's African Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Crystal (117 Willow Bend)",
+  "whatItIs": "Restaurant specializing in Nigerian and Liberian dishes; owner Kafayat Abodunrin came from Nigeria.",
+  "link": "https://ccxmedia.org/news/3ds-african-kitchen-brings-nigerian-liberian-cuisine-to-crystal/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "CCX Media, April 25, 2024, reported its opening; no later sign found. Not Liberian-owned; listed for its Liberian menu."
+ },
+ {
+  "name": "Mama Ti's",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park",
+  "whatItIs": "Restaurant serving Liberian home cooking from proprietor Kellita Whisnant's mother's recipes.",
+  "link": "https://www.foodrepublic.com/2014/10/16/its-hard-out-there-for-a-liberian-restaurant/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Food Republic, 2014 (updated 2015), described business falling during the Ebola scare; no current sign found."
+ },
+ {
+  "name": "African International Market and Grill",
+  "type": "market and restaurant",
+  "neighborhoodOrCity": "Brooklyn Park / Brooklyn Center (Zane Avenue corridor)",
+  "whatItIs": "African market and grill where chef Waquina Blay said many Liberians worked.",
+  "link": "https://ccxmedia.org/news/hundreds-local-liberians-worry-deportation/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "CCX Media, March 12, 2018; no current sign found."
+ },
+ {
+  "name": "Organization of Liberians in Minnesota (OLM) / Liberian Community Center",
+  "type": "community center",
+  "neighborhoodOrCity": "Brooklyn Park (7001 78th Ave. N.)",
+  "whatItIs": "Nonprofit community center with senior, youth and community programs; rental hall income noted in 2021.",
+  "link": "https://www.olmbp.org/about",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists weekday hours (10 a.m. to 5 p.m.) and July 2026 events; CCX Media, July 2, 2026. Site gives Suite 400 in its footer and Suite 200 on its About page."
+ },
+ {
+  "name": "Liberian Business Association (LIBA / LIBA-Diaspora)",
+  "type": "business association",
+  "neighborhoodOrCity": "Brooklyn Park / Brooklyn Center",
+  "whatItIs": "Business association founded 2016 offering technical assistance, QuickBooks training and micro-loans to small, mostly minority-owned businesses; executive director Jackson George (2020).",
+  "link": "https://www.lrl.mn.gov/archive/minutes/senate/2023/jobs/20230320/Jobs_20230320_Handout-LIBA-Work-in-the-Community.pdf",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Latest opened evidence is a March 2023 Senate handout; CCX Media, Oct. 8, 2020. No 2025-2026 page opened."
+ },
+ {
+  "name": "ACER (African Career, Education & Resource, Inc.)",
+  "type": "nonprofit business and civic services",
+  "neighborhoodOrCity": "Brooklyn Center (6096 Shingle Creek Pkwy.)",
+  "whatItIs": "Nonprofit founded by Wynfred Russell offering small business technical assistance, Main Street grants, housing and civic programs.",
+  "link": "https://acerinc.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows 2026 copyright and an October 2026 event."
+ },
+ {
+  "name": "The AfricaPaper",
+  "type": "media (newspaper)",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Minnesota community newspaper on African immigrant life; associate editor James Kokulo Fasuekoi is a native of Liberia.",
+  "link": "https://theafricapaper.com/about-us/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site loads, but the newest dated stories seen on the home page are from 2020-2021."
+ },
+ {
+  "name": "CCX Media",
+  "type": "media (community TV and online news)",
+  "neighborhoodOrCity": "Brooklyn Park / Brooklyn Center and northwest suburbs (6900 Winnetka Ave. N.)",
+  "whatItIs": "Community station that regularly covers Liberian organizations, businesses and events. Not Liberian-owned.",
+  "link": "https://ccxmedia.org/?s=Liberian",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Stories dated through Oct. 15, 2026, opened."
+ }
+]
