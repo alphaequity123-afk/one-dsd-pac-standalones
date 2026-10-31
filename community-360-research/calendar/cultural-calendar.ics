@@ -1228,6 +1228,23 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:twin-cities-walk4hearing-2026-05-16@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Twin Cities Walk4Hearing
+DESCRIPTION:Public education about hearing health and fundraising for loc
+ al hearing loss programs\; held nationally since 2001. Date: Set each yea
+ r by the Hearing Loss Association of America\; the 2026 Twin Cities walk 
+ opened the national series on May 16. Source: Hearing Loss Association of
+  America press release https://digital-release.wowktv.com/business/press-
+ releases/cision/20260507PH52754/people-nationwide-lace-up-to-go-the-dista
+ nce-for-hearing-health-at-walk4hearing-events Communities: Deaf\, DeafBli
+ nd and Hard of Hearing Minnesotans
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hmong-american-day-festival-2026-05-16@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260516
@@ -2699,6 +2716,22 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:international-week-of-deaf-people-2026-09-21@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260928
+SUMMARY:International Week of Deaf People
+DESCRIPTION:First celebrated in September 1958\; a global week of Deaf un
+ ity and advocacy\, with daily sub-themes. Date: A week in late September 
+ set each year by the World Federation of the Deaf\; in 2026 it ran Monday
+  Sept. 21 to Sunday Sept. 27. Later years are projected as the last full 
+ Monday-to-Sunday week of September and must be confirmed. Source: United 
+ Nations https://www.un.org/en/observances/sign-languages-day Communities:
+  Deaf\, DeafBlind and Hard of Hearing Minnesotans
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:twin-cities-arab-film-festival-2026-09-23@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260923
@@ -2717,10 +2750,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:International Day of Sign Languages
-DESCRIPTION:United Nations day for sign languages. Date: September 23. So
- urce: United Nations\, International Day of Sign Languages https://www.un
- .org/en/observances/sign-languages-day Communities: Deaf\, DeafBlind and 
- Hard of Hearing Minnesotans
+DESCRIPTION:Proclaimed by the UN General Assembly\; marks the 1951 foundi
+ ng of the World Federation of the Deaf. The 2026 theme was "Declaring Dea
+ f People's Human Rights\," in the federation's 75th anniversary year. Dat
+ e: September 23 every year\, the founding date of the World Federation of
+  the Deaf (1951). Source: United Nations https://www.un.org/en/observance
+ s/sign-languages-day Communities: Deaf\, DeafBlind and Hard of Hearing Mi
+ nnesotans
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3233,6 +3269,23 @@ DESCRIPTION:Diwali for Jains\, called Nirvan on the schedule. Date: Propo
  sota\, proposed schedule https://jaincentermn.org/2026-events Communities
  : Indian (Asian Indian) Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:charles-thompson-memorial-hall-110th-anniversary-celebration-2026-11-13@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+SUMMARY:Charles Thompson Memorial Hall 110th Anniversary Celebration
+DESCRIPTION:The 1916 opening of the clubhouse Margaret Brooks Thompson bu
+ ilt in memory of her husband Charles\, designed by Deaf architect Olof Ha
+ nson\, described by MNopedia as the first U.S. social club designed exclu
+ sively for deaf people. Date: Organizer-announced. The hall was dedicated
+  Nov. 5\, 1916\; anniversary celebrations are scheduled by the hall (the 
+ 100th was in November 2016). Source: Charles Thompson Memorial Hall https
+ ://charlesthompsonhall.org/event/110th/ Communities: Deaf\, DeafBlind and
+  Hard of Hearing Minnesotans
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4893,10 +4946,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
 SUMMARY:International Day of Sign Languages
-DESCRIPTION:United Nations day for sign languages. Date: September 23. So
- urce: United Nations\, International Day of Sign Languages https://www.un
- .org/en/observances/sign-languages-day Communities: Deaf\, DeafBlind and 
- Hard of Hearing Minnesotans
+DESCRIPTION:Proclaimed by the UN General Assembly\; marks the 1951 foundi
+ ng of the World Federation of the Deaf. The 2026 theme was "Declaring Dea
+ f People's Human Rights\," in the federation's 75th anniversary year. Dat
+ e: September 23 every year\, the founding date of the World Federation of
+  the Deaf (1951). Source: United Nations (fixed date) https://www.un.org/
+ en/observances/sign-languages-day Communities: Deaf\, DeafBlind and Hard 
+ of Hearing Minnesotans
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6382,10 +6438,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280923
 DTEND;VALUE=DATE:20280924
 SUMMARY:International Day of Sign Languages
-DESCRIPTION:United Nations day for sign languages. Date: September 23. So
- urce: United Nations\, International Day of Sign Languages https://www.un
- .org/en/observances/sign-languages-day Communities: Deaf\, DeafBlind and 
- Hard of Hearing Minnesotans
+DESCRIPTION:Proclaimed by the UN General Assembly\; marks the 1951 foundi
+ ng of the World Federation of the Deaf. The 2026 theme was "Declaring Dea
+ f People's Human Rights\," in the federation's 75th anniversary year. Dat
+ e: September 23 every year\, the founding date of the World Federation of
+  the Deaf (1951). Source: United Nations (fixed date) https://www.un.org/
+ en/observances/sign-languages-day Communities: Deaf\, DeafBlind and Hard 
+ of Hearing Minnesotans
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT

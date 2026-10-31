@@ -1,0 +1,499 @@
+{
+ "community": "deaf-deafblind-hard-of-hearing",
+ "entries": [
+  {
+   "seedId": "international-day-of-sign-languages",
+   "name": "International Day of Sign Languages",
+   "alsoKnownAs": [],
+   "kind": "heritage",
+   "capsule": "United Nations day on Sept. 23 recognizing sign languages and deaf people's human rights.",
+   "dateRule": "September 23 every year, the founding date of the World Federation of the Deaf (1951).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-23",
+     "endDate": null,
+     "source": "United Nations",
+     "sourceUrl": "https://www.un.org/en/observances/sign-languages-day",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-23",
+     "endDate": null,
+     "source": "United Nations (fixed date)",
+     "sourceUrl": "https://www.un.org/en/observances/sign-languages-day",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-23",
+     "endDate": null,
+     "source": "United Nations (fixed date)",
+     "sourceUrl": "https://www.un.org/en/observances/sign-languages-day",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Proclaimed by the UN General Assembly; marks the 1951 founding of the World Federation of the Deaf. The 2026 theme was \"Declaring Deaf People's Human Rights,\" in the federation's 75th anniversary year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "International Day of Sign Languages",
+     "url": "https://www.un.org/en/observances/sign-languages-day",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "International Week of Deaf People",
+   "alsoKnownAs": [
+    "International Week of the Deaf"
+   ],
+   "kind": "heritage",
+   "capsule": "Week of Deaf unity and advocacy each September, first held in 1958, framing the Sept. 23 sign languages day.",
+   "dateRule": "A week in late September set each year by the World Federation of the Deaf; in 2026 it ran Monday Sept. 21 to Sunday Sept. 27. Later years are projected as the last full Monday-to-Sunday week of September and must be confirmed.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-21",
+     "endDate": "2026-09-27",
+     "source": "United Nations",
+     "sourceUrl": "https://www.un.org/en/observances/sign-languages-day",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-20",
+     "endDate": "2027-09-26",
+     "source": "Projected from 2026 pattern",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-18",
+     "endDate": "2028-09-24",
+     "source": "Projected from 2026 pattern",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "First celebrated in September 1958; a global week of Deaf unity and advocacy, with daily sub-themes.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "International Day of Sign Languages (includes International Week of Deaf People)",
+     "url": "https://www.un.org/en/observances/sign-languages-day",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Deaf History Month (Minnesota)",
+   "alsoKnownAs": [
+    "National Deaf History Month"
+   ],
+   "kind": "heritage",
+   "capsule": "April month honoring Deaf history; Minnesota's governor proclaimed it in 2024, naming Faribault, Thompson Hall and Metro Deaf School.",
+   "dateRule": "Minnesota's 2024 governor's proclamation used the full month of April. Some national sources use March 13 to April 15. Each year depends on proclamations; no 2026 state proclamation was opened.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-01",
+     "endDate": "2026-04-30",
+     "source": "Pattern of 2024 Minnesota proclamation; 2026 state proclamation not found",
+     "sourceUrl": "https://mn.gov/governor/assets/04.01.24%20Deaf%20History%20Month_SIgned_tcm1055-620392.pdf",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-04-01",
+     "endDate": "2027-04-30",
+     "source": "Projected",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-01",
+     "endDate": "2028-04-30",
+     "source": "Projected",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Deaf history and contributions. Minnesota's 2024 proclamation names Olof Hanson, Agatha Tiegel Hanson, Cadwallader Washburn, Gerald \"Bummy\" Burstein, Doug Bahl and Blanche Wilkins Williams, Charles Thompson Memorial Hall, the Minnesota State Academy for the Deaf and Metro Deaf School.",
+   "howCelebratedInMinnesota": "Gov. Tim Walz proclaimed April 2024 Deaf History Month, pointing Minnesotans to the Minnesota Digital Library's Deaf history collection and the Commission's oral-visual history interviews. The Minnesota Council on Disability marked the month in 2022 with a Deaf history essay by its executive director.",
+   "minnesotaEvents": [
+    {
+     "name": "Governor's proclamation of Deaf History Month",
+     "place": "Statewide",
+     "link": "https://mn.gov/governor/assets/04.01.24%20Deaf%20History%20Month_SIgned_tcm1055-620392.pdf",
+     "organizerDates": "April 2024, signed April 3, 2024",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Deaf History Month proclamation, 2024",
+     "url": "https://mn.gov/governor/assets/04.01.24%20Deaf%20History%20Month_SIgned_tcm1055-620392.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "A Perspective on Deaf History in Minnesota",
+     "url": "https://www.disability.state.mn.us/2022/04/14/a-perspective-on-deaf-history-in-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "DeafBlind Awareness Week",
+   "alsoKnownAs": [
+    "Helen Keller Deaf-Blind Awareness Week"
+   ],
+   "kind": "heritage",
+   "capsule": "Last week of June, around Helen Keller's June 27 birthday, raising awareness of people with combined hearing and vision loss.",
+   "dateRule": "The last week of June, coinciding with Helen Keller's June 27 birthday; in 2023 Helen Keller Services set it as Sunday June 25 to Saturday July 1. Later years are projected as the Sunday-to-Saturday week containing June 27.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-21",
+     "endDate": "2026-06-27",
+     "source": "Projected from Helen Keller Services rule",
+     "sourceUrl": "https://www.helenkeller.org/hknc/deafblind-awareness-week/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-27",
+     "endDate": "2027-07-03",
+     "source": "Projected",
+     "sourceUrl": "https://www.helenkeller.org/hknc/deafblind-awareness-week/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-25",
+     "endDate": "2028-07-01",
+     "source": "Projected",
+     "sourceUrl": "https://www.helenkeller.org/hknc/deafblind-awareness-week/",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Held each year since a 1984 presidential proclamation to raise awareness of DeafBlind people.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": "Helen Keller Services suggests telling employers about the week to start conversations on workplace inclusion.",
+   "sources": [
+    {
+     "title": "DeafBlind Awareness Week",
+     "url": "https://www.helenkeller.org/hknc/deafblind-awareness-week/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "MADC Deaf Awareness Day and Conference",
+   "alsoKnownAs": [
+    "Minnesota Association of Deaf Citizens conference"
+   ],
+   "kind": "community festival",
+   "capsule": "Annual Minnesota Association of Deaf Citizens gathering with resource tables; the 2025 day doubled as MADC's 66th conference.",
+   "dateRule": "Set by the Minnesota Association of Deaf Citizens; 2025 was a Saturday in early November. No 2026 date was found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Community awareness and the association's business: board elections and awards.",
+   "howCelebratedInMinnesota": "On Saturday, Nov. 1, 2025, at the Crystal Community Center, with organizations such as the Minnesota Disability Law Center tabling; MADC elected its 2025-2027 board and gave awards at its 66th conference that day.",
+   "minnesotaEvents": [
+    {
+     "name": "MADC Deaf Awareness Day",
+     "place": "Crystal Community Center, 4800 Douglas Dr. N., Crystal",
+     "link": "https://mylegalaid.org/events/location/4800-douglas-dr-n-crystal-mn-55429/",
+     "organizerDates": "Saturday, Nov. 1, 2025 (as listed by Mid-Minnesota Legal Aid)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "66th MADC Conference",
+     "place": "Not stated",
+     "link": "https://www.minndeaf.org/",
+     "organizerDates": "Nov. 1, 2025",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MADC Deaf Awareness Day event listing",
+     "url": "https://mylegalaid.org/events/location/4800-douglas-dr-n-crystal-mn-55429/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Association of Deaf Citizens home page",
+     "url": "https://www.minndeaf.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Charles Thompson Memorial Hall 110th Anniversary Celebration",
+   "alsoKnownAs": [
+    "Thompson Hall anniversary"
+   ],
+   "kind": "community festival",
+   "capsule": "St. Paul's historic Deaf club marks 110 years with tours, a dinner and a gala, Nov. 13-14, 2026.",
+   "dateRule": "Organizer-announced. The hall was dedicated Nov. 5, 1916; anniversary celebrations are scheduled by the hall (the 100th was in November 2016).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-13",
+     "endDate": "2026-11-14",
+     "source": "Charles Thompson Memorial Hall",
+     "sourceUrl": "https://charlesthompsonhall.org/event/110th/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The 1916 opening of the clubhouse Margaret Brooks Thompson built in memory of her husband Charles, designed by Deaf architect Olof Hanson, described by MNopedia as the first U.S. social club designed exclusively for deaf people.",
+   "howCelebratedInMinnesota": "Friday, Nov. 13: two-hour historical tours ($25) and an Italian dinner ($20) at the hall; Saturday, Nov. 14: semi-formal banquet and gala ($70) at TST Creative Catering's Ideal Hall; an $85 combo ticket was sold until Oct. 21, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "110th Anniversary Celebration",
+     "place": "Charles Thompson Memorial Hall, 1824 Marshall Ave., St. Paul; gala at TST Creative Catering - Ideal Hall",
+     "link": "https://charlesthompsonhall.org/event/110th/",
+     "organizerDates": "Nov. 13-14, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Charles Thompson Memorial Hall 110th Anniversary Celebration",
+     "url": "https://charlesthompsonhall.org/event/110th/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Charles Thompson Memorial Hall, St. Paul (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/structure/charles-thompson-memorial-hall-st-paul",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Twin Cities Walk4Hearing",
+   "alsoKnownAs": [
+    "HLAA Walk4Hearing"
+   ],
+   "kind": "community festival",
+   "capsule": "Hearing Loss Association of America walk in the Twin Cities each spring, celebrating living well with hearing loss.",
+   "dateRule": "Set each year by the Hearing Loss Association of America; the 2026 Twin Cities walk opened the national series on May 16.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-16",
+     "endDate": null,
+     "source": "Hearing Loss Association of America press release",
+     "sourceUrl": "https://digital-release.wowktv.com/business/press-releases/cision/20260507PH52754/people-nationwide-lace-up-to-go-the-distance-for-hearing-health-at-walk4hearing-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Public education about hearing health and fundraising for local hearing loss programs; held nationally since 2001.",
+   "howCelebratedInMinnesota": "HLAA's 2026 release placed the Twin Cities walk in St. Paul on May 16, first of 18 cities. Eden Prairie-based Starkey brought more than 100 employees, friends and family to the 2025 Twin Cities walk.",
+   "minnesotaEvents": [
+    {
+     "name": "Twin Cities Walk4Hearing",
+     "place": "St. Paul (per HLAA release)",
+     "link": "https://digital-release.wowktv.com/business/press-releases/cision/20260507PH52754/people-nationwide-lace-up-to-go-the-distance-for-hearing-health-at-walk4hearing-events",
+     "organizerDates": "May 16, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "People Nationwide Lace Up ... Walk4Hearing Events (HLAA press release)",
+     "url": "https://digital-release.wowktv.com/business/press-releases/cision/20260507PH52754/people-nationwide-lace-up-to-go-the-distance-for-hearing-health-at-walk4hearing-events",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Starkey Cares Teams Up with HLAA at Walk4Hearing",
+     "url": "https://www.hearingtracker.com/press-releases/starkey-cares-teams-up-with-hlaa-to-advocate-for-hearing-health-at-hlaa-s-walk4hearing",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Nic Zapko Day",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Minnesota day declared March 9, 2021, honoring Deaf interpreter Nic Zapko's pandemic briefings in ASL.",
+   "dateRule": "Declared by Gov. Tim Walz for March 9, 2021 (her birthday). No later renewal was found, so later years are uncertain.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-09",
+     "endDate": null,
+     "source": "Only the 2021 declaration was found",
+     "sourceUrl": "https://www.cbsnews.com/minnesota/news/gov-tim-walz-announces-nic-zapko-day-in-minnesota/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-09",
+     "endDate": null,
+     "source": "Not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Recognition of Deaf interpreter Nic Zapko, who interpreted the governor's COVID-19 briefings into ASL; the governor said her work gave Minnesotans who are deaf, deafblind or hard of hearing real-time health and safety information.",
+   "howCelebratedInMinnesota": "Announced by the governor on March 9, 2021; no observance events were found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Gov. Tim Walz Announces 'Nic Zapko Day' in Minnesota",
+     "url": "https://www.cbsnews.com/minnesota/news/gov-tim-walz-announces-nic-zapko-day-in-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Deaf Iftar Celebration",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Ramadan fast-breaking meal hosted in ASL by the Minnesota Deaf Muslim Community, with prayer and a talk on Islam.",
+   "dateRule": "Held during Ramadan, whose dates depend on the sighting of the moon; the organizer sets the day. Only the 2024 event was found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Iftar, the evening meal that breaks the daily Ramadan fast, held in an accessible Deaf setting.",
+   "howCelebratedInMinnesota": "On Saturday, March 30, 2024, at the Wilder Foundation in St. Paul: an iftar meal, a keynote on the tenets of Islam, a presentation on culturally and linguistically appropriate services, and Tarawih prayer, with interpreters present.",
+   "minnesotaEvents": [
+    {
+     "name": "Deaf Iftar Celebration",
+     "place": "Wilder Foundation, St. Paul",
+     "link": "https://www.mprnews.org/story/2024/03/31/photos-deaf-community-celebrates-ramadans-end-with-iftar",
+     "organizerDates": "March 30, 2024 (as reported by MPR News)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Photos: Deaf community celebrates Ramadan with iftar meal",
+     "url": "https://www.mprnews.org/story/2024/03/31/photos-deaf-community-celebrates-ramadans-end-with-iftar",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}
