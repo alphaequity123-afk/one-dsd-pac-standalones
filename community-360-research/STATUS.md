@@ -17,6 +17,12 @@
 
 - In the cloud session (started October 31, 2026): the 28 communities listed under Not started, a few at a time.
 
+## Next, after the 28 communities
+
+Gary asked for a second pass on the 10 communities that web search left thin: karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian. Each profile's "What could not be established" section names what is thin. Add to the existing files rather than starting over, follow the same brief and checks, and commit and push after each one.
+
+ethiopian, oromo, vietnamese, indian and rural are finished, and nothing is still running on Gary's computer. The Railway `cultural-calendar` service is connected to this branch, so do not change anything on Railway.
+
 ## Not started
 
 amharic, american, arabic-speaking, bosnian, burmese, chinese, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, european-american, filipino, french, guatemalan, japanese, kenyan, khmer, korean, lao, lebanese, liberian, minnesota, nigerian, puerto-rican, russian-speaking, salvadoran, thai, ukrainian.
