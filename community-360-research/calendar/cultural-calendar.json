@@ -1879,7 +1879,8 @@
    "name": "Enkutatash",
    "alsoKnownAs": [
     "Ethiopian New Year",
-    "Meskerem 1"
+    "Meskerem 1",
+    "እንቁጣጣሽ"
    ],
    "communities": [
     "amharic"
@@ -1891,10 +1892,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/amharic/profile.md",
    "kind": "cultural",
-   "capsule": "Start of the Ethiopian year.",
-   "dateRule": "Meskerem 1 on the Ethiopian calendar: September 11, or September 12 in the Gregorian year before a Gregorian leap year.",
+   "capsule": "Ethiopian New Year, Meskerem 1, marked in Minnesota with a public community celebration, music, food and traditional dress.",
+   "dateRule": "Meskerem 1 on the Ethiopian calendar: September 11, or September 12 in the Gregorian year before a Gregorian leap year. Minnesota community celebrations are often held on a nearby weekend.",
    "dates": [
     {
      "year": 2026,
@@ -1908,25 +1909,61 @@
      "year": 2027,
      "date": "2027-09-12",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-12",
-     "sourceUrl": null,
+     "source": "Office Holidays, Ethiopia 2027 (a commercial calendar site; date not confirmed by an official source); CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-12",
+     "sourceUrl": "https://www.officeholidays.com/countries/ethiopia/2027",
      "verified": false
     },
     {
      "year": 2028,
      "date": "2028-09-11",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-11",
+     "source": "Calculated (seed calendar), not confirmed on an opened page; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-11",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Start of the Ethiopian year.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The start of the Ethiopian year.",
+   "howCelebratedInMinnesota": "The Ethiopian Community in Minnesota held a free public celebration at Highland Park Pavilion, St. Paul, on Sunday, Sept. 13, 2026, 2 to 7 p.m., with food, music, dance and traditional dress. In 2022, the fourth annual Ethiopian Fest of Minnesota (Sept. 4, Eden Prairie High School stadium, with concerts in West St. Paul) was tied to the coming New Year; no later edition was confirmed.",
+   "minnesotaEvents": [
+    {
+     "name": "Ethiopian Community in Minnesota Enkutatash celebration",
+     "place": "Highland Park Pavilion, 1200 Montreal Ave., St. Paul",
+     "link": "https://mefthe.com/events/celebrate-ethiopian-new-year-in-minnesota/",
+     "organizerDates": "Sunday, Sept. 13, 2026, 2-7 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "4th annual Ethiopian Fest of Minnesota",
+     "place": "Eden Prairie High School Aerie Stadium; concerts in West St. Paul",
+     "link": "https://www.eplocalnews.org/2022/09/07/photo-gallery-ethiopian-fest-of-minnesota/",
+     "organizerDates": "Sept. 4, 2022 (held); no 2025 or 2026 edition found",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "National Holidays in Ethiopia in 2026",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "National Holidays in Ethiopia in 2027",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2027",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrate Ethiopian New Year in Minnesota!",
+     "url": "https://mefthe.com/events/celebrate-ethiopian-new-year-in-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Photo gallery: Ethiopian Fest of Minnesota",
+     "url": "https://www.eplocalnews.org/2022/09/07/photo-gallery-ethiopian-fest-of-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "amharic--meskel",
@@ -1946,10 +1983,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/amharic/profile.md",
    "kind": "religious",
-   "capsule": "Ethiopian Orthodox feast of the finding of the True Cross.",
-   "dateRule": "Meskerem 17 on the Ethiopian calendar: September 27, or September 28 in leap-adjacent years.",
+   "capsule": "Orthodox feast of the Finding of the True Cross, marked with a bonfire (Demera) the evening before or on a nearby Sunday.",
+   "dateRule": "Meskerem 17 on the Ethiopian calendar: September 27, or September 28 when Enkutatash falls on September 12. Office Holidays lists Sept. 27 for 2027; the calendar rule gives Sept. 28.",
    "dates": [
     {
      "year": 2026,
@@ -1963,15 +2000,15 @@
      "year": 2027,
      "date": "2027-09-28",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-28",
-     "sourceUrl": null,
+     "source": "Calculated (seed calendar), not confirmed on an opened page; Office Holidays lists 2027-09-27; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-28",
+     "sourceUrl": "https://www.officeholidays.com/countries/ethiopia/2027",
      "verified": false
     },
     {
      "year": 2028,
      "date": "2028-09-27",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-27",
+     "source": "Calculated (seed calendar), not confirmed on an opened page; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-27",
      "sourceUrl": null,
      "verified": false
     }
@@ -1981,7 +2018,18 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "National Holidays in Ethiopia in 2026",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "National Holidays in Ethiopia in 2027",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2027",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "amharic--genna",
@@ -2001,9 +2049,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/amharic/profile.md",
    "kind": "religious",
-   "capsule": "Christmas in the Ethiopian Orthodox Tewahedo Church.",
+   "capsule": "Ethiopian Orthodox Christmas, usually January 7, after the Advent fast; services in Ge'ez and Amharic.",
    "dateRule": "Tahsas 29 on the Ethiopian calendar, usually January 7.",
    "dates": [
     {
@@ -2018,15 +2066,15 @@
      "year": 2027,
      "date": "2027-01-07",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-07",
-     "sourceUrl": null,
+     "source": "Office Holidays, Ethiopia 2027 (a commercial calendar site; date not confirmed by an official source); CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-07",
+     "sourceUrl": "https://www.officeholidays.com/countries/ethiopia/2027",
      "verified": false
     },
     {
      "year": 2028,
      "date": "2028-01-07",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-07",
+     "source": "Calculated (seed calendar), not confirmed on an opened page; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-07",
      "sourceUrl": null,
      "verified": false
     }
@@ -2036,7 +2084,18 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "National Holidays in Ethiopia in 2026",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "National Holidays in Ethiopia in 2027",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2027",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "amharic--timkat",
@@ -2056,9 +2115,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/amharic/profile.md",
    "kind": "religious",
-   "capsule": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
+   "capsule": "Orthodox Epiphany, marking the baptism of Jesus, usually January 19; a major church gathering.",
    "dateRule": "Tir 11 on the Ethiopian calendar, usually January 19 (January 20 in some years).",
    "dates": [
     {
@@ -2073,25 +2132,41 @@
      "year": 2027,
      "date": "2027-01-19",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-19",
-     "sourceUrl": null,
+     "source": "Office Holidays, Ethiopia 2027 (a commercial calendar site; date not confirmed by an official source); CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-19",
+     "sourceUrl": "https://www.officeholidays.com/countries/ethiopia/2027",
      "verified": false
     },
     {
      "year": 2028,
      "date": "2028-01-20",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-19; Calendarific (commercial, no official source found), Ethiopia holidays 2028 lists 2028-01-20",
+     "source": "Calculated (seed calendar), not confirmed on an opened page; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-19; Calendarific (commercial, no official source found), Ethiopia holidays 2028 lists 2028-01-20",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The baptism of Jesus in the Ethiopian Orthodox tradition.",
+   "howCelebratedInMinnesota": "Endalkachew Chala wrote that on Timket, Jan. 19, 2026, during the federal immigration enforcement operation, many families watched for agents on WhatsApp instead of walking to church (MinnPost, June 2026). No 2026 church event listing was opened.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "National Holidays in Ethiopia in 2026",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "National Holidays in Ethiopia in 2027",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2027",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "amharic--fasika",
@@ -2110,47 +2185,197 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/amharic/profile.md",
    "kind": "religious",
-   "capsule": "Easter in the Ethiopian Orthodox tradition.",
-   "dateRule": "Same date as Eastern Orthodox Easter.",
+   "capsule": "Ethiopian Orthodox Easter, ending a long fast without meat or dairy; date follows the Orthodox calculation.",
+   "dateRule": "Orthodox Easter calculation, after the Lenten fast; Siklet (Good Friday) falls two days before (Office Holidays lists Siklet on April 10, 2026).",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-12",
      "endDate": null,
-     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026 lists 2026-04-12",
-     "sourceUrl": null,
+     "source": "Office Holidays, Ethiopia 2026 (a commercial calendar site; date not confirmed by an official source); CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026 lists 2026-04-12",
+     "sourceUrl": "https://www.officeholidays.com/countries/ethiopia/2026",
      "verified": false
     },
     {
      "year": 2027,
      "date": "2027-05-02",
      "endDate": null,
-     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027 lists 2027-05-02",
-     "sourceUrl": null,
+     "source": "Office Holidays, Ethiopia 2027 (a commercial calendar site; date not confirmed by an official source); Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027 lists 2027-05-02",
+     "sourceUrl": "https://www.officeholidays.com/countries/ethiopia/2027",
      "verified": false
     },
     {
      "year": 2028,
      "date": "2028-04-16",
      "endDate": null,
-     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-04-16",
+     "source": "Calculated (seed calendar), not confirmed on an opened page; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-04-16",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Easter in the Ethiopian Orthodox tradition.",
+   "whatItMarks": "The resurrection of Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "National Holidays in Ethiopia in 2026",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "National Holidays in Ethiopia in 2027",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2027",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "amharic--adwa-victory-day",
    "observanceKey": "adwa-victory-day",
    "name": "Adwa Victory Day",
+   "alsoKnownAs": [
+    "Victory of Adwa"
+   ],
+   "communities": [
+    "amharic"
+   ],
+   "briefLinks": [
+    {
+     "community": "amharic",
+     "title": "Amharic-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/amharic/profile.md",
+   "kind": "national",
+   "capsule": "Marks Ethiopia's 1896 victory over Italy at Adwa, which secured its sovereignty; March 2.",
+   "dateRule": "Fixed: March 2 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-02",
+     "endDate": null,
+     "source": "Office Holidays, Ethiopia 2026 (a commercial calendar site; date not confirmed by an official source); CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2026-03-02",
+     "sourceUrl": "https://www.officeholidays.com/countries/ethiopia/2026",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-02",
+     "endDate": null,
+     "source": "Office Holidays, Ethiopia 2027 (a commercial calendar site; date not confirmed by an official source); CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2027-03-02",
+     "sourceUrl": "https://www.officeholidays.com/countries/ethiopia/2027",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-02",
+     "endDate": null,
+     "source": "Fixed date; 2028 listing not opened; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-03-02",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Ethiopia's victory over Italy in 1896.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "National Holidays in Ethiopia in 2026",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "National Holidays in Ethiopia in 2027",
+     "url": "https://www.officeholidays.com/countries/ethiopia/2027",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "amharic--ethiopian-sports-federation-in-north-america-tournament-minnesota-2026",
+   "observanceKey": "ethiopian-sports-federation-in-north-america-tournament-minnesota-2026",
+   "name": "Ethiopian Sports Federation in North America tournament (Minnesota, 2026)",
+   "alsoKnownAs": [
+    "ESFNA",
+    "Ethiopian Day (July 3, 2026, Minnesota)"
+   ],
+   "communities": [
+    "amharic"
+   ],
+   "briefLinks": [
+    {
+     "community": "amharic",
+     "title": "Amharic-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/amharic/profile.md",
+   "kind": "community festival",
+   "capsule": "Week-long Ethiopian soccer tournament and cultural festival, held in the Twin Cities in 2026, with music in Amharic, Oromo and Tigrigna.",
+   "dateRule": "Announced each year by the federation; host city rotates. Minnesota hosted in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-27",
+     "endDate": "2026-07-04",
+     "source": "MPR News; MinnPost (Chala)",
+     "sourceUrl": "https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Annual diaspora gathering begun in Houston in 1984.",
+   "howCelebratedInMinnesota": "In 2026, 32 teams and more than 20,000 expected visitors; vendors, coffee ceremonies and live music. Gov. Tim Walz declared July 3, 2026 Ethiopian Day.",
+   "minnesotaEvents": [
+    {
+     "name": "43rd ESFNA tournament",
+     "place": "Twin Cities",
+     "link": "https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears",
+     "organizerDates": "June 27 to July 4, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Despite immigration fears, Ethiopian soccer tournament brings thousands to Minnesota",
+     "url": "https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "amharic--annual-arts-night-yafet-art-center",
+   "observanceKey": "annual-arts-night-yafet-art-center",
+   "name": "Annual Arts Night (Yafet Art Center)",
    "alsoKnownAs": [],
    "communities": [
     "amharic"
@@ -2162,42 +2387,56 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
     }
    ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "The 1896 Ethiopian victory at Adwa.",
-   "dateRule": "March 2 (Yekatit 23).",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/amharic/profile.md",
+   "kind": "community festival",
+   "capsule": "Evening of Ethiopian performances, spoken word, theater and food at the University of Minnesota's Coffman Union.",
+   "dateRule": "Announced each year by the organizer.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-03-02",
+     "date": "2026-10-31",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2026-03-02",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Mefthe event listing",
+     "sourceUrl": "https://mefthe.com/events/celebrate-culture-art-annual-arts-night-at-the-university-of-minnesota/?mefthe_occurrence=2026-10-31",
+     "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-03-02",
+     "date": null,
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2027-03-02",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-03-02",
+     "date": null,
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-03-02",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     }
    ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1896 Ethiopian victory at Adwa.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Community arts and culture.",
+   "howCelebratedInMinnesota": "Listed for Saturday, Oct. 31, 2026, from 5 p.m., Coffman Memorial Union Theater, Minneapolis; $20 admission.",
+   "minnesotaEvents": [
+    {
+     "name": "Annual Arts Night",
+     "place": "Coffman Memorial Union Theater, University of Minnesota, Minneapolis",
+     "link": "https://mefthe.com/events/celebrate-culture-art-annual-arts-night-at-the-university-of-minnesota/?mefthe_occurrence=2026-10-31",
+     "organizerDates": "Oct. 31, 2026, 5-8 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebrate Culture & Art: Annual Arts Night at the University of Minnesota",
+     "url": "https://mefthe.com/events/celebrate-culture-art-annual-arts-night-at-the-university-of-minnesota/?mefthe_occurrence=2026-10-31",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "arabic-speaking--start-of-ramadan",

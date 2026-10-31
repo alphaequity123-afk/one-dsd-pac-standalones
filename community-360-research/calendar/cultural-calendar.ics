@@ -235,11 +235,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 SUMMARY:Timkat
-DESCRIPTION:Baptism of Jesus in the Ethiopian Orthodox tradition. Date: T
- ir 11 on the Ethiopian calendar\, usually January 19 (January 20 in some 
- years). Source: Royal Norwegian Embassy in Addis Ababa\, Embassy Closing 
- Days 2026 https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy
- /2026/ Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota
+DESCRIPTION:The baptism of Jesus in the Ethiopian Orthodox tradition. Dat
+ e: Tir 11 on the Ethiopian calendar\, usually January 19 (January 20 in s
+ ome years). Source: Royal Norwegian Embassy in Addis Ababa\, Embassy Clos
+ ing Days 2026 https://www.norway.no/en/ethiopia/norway-ethiopia/about-emb
+ assy/2026/ Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1426,6 +1426,21 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ethiopian-sports-federation-in-north-america-tournament-minnesota-2026-2026-06-27@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260705
+SUMMARY:Ethiopian Sports Federation in North America tournament (Minnesot
+ a\, 2026)
+DESCRIPTION:Annual diaspora gathering begun in Houston in 1984. Date: Ann
+ ounced each year by the federation\; host city rotates. Minnesota hosted 
+ in 2026. Source: MPR News\; MinnPost (Chala) https://www.mprnews.org/stor
+ y/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigrat
+ ion-fears Communities: Amharic-speaking Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ethiopian-sports-federation-in-north-america-tournament-2026-06-27@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260627
@@ -2245,9 +2260,10 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Enkutatash
-DESCRIPTION:Start of the Ethiopian year. Date: Meskerem 1 on the Ethiopia
- n calendar: September 11\, or September 12 in the Gregorian year before a
-  Gregorian leap year. Source: Royal Norwegian Embassy in Addis Ababa\, Em
+DESCRIPTION:The start of the Ethiopian year. Date: Meskerem 1 on the Ethi
+ opian calendar: September 11\, or September 12 in the Gregorian year befo
+ re a Gregorian leap year. Minnesota community celebrations are often held
+  on a nearby weekend. Source: Royal Norwegian Embassy in Addis Ababa\, Em
  bassy Closing Days 2026 https://www.norway.no/en/ethiopia/norway-ethiopia
  /about-embassy/2026/ Communities: Amharic-speaking Minnesota\, Ethiopian 
  Minnesota
@@ -2584,9 +2600,11 @@ DTEND;VALUE=DATE:20260928
 SUMMARY:Meskel
 DESCRIPTION:Ethiopian Orthodox feast of the finding of the True Cross. Da
  te: Meskerem 17 on the Ethiopian calendar: September 27\, or September 28
-  in leap-adjacent years. Source: German Embassy Addis Ababa\, Public holi
- days (2026) https://addis-abeba.diplo.de/et-en/about-us/public-holidays-2
- 629598 Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota
+  when Enkutatash falls on September 12. Office Holidays lists Sept. 27 fo
+ r 2027\; the calendar rule gives Sept. 28. Source: German Embassy Addis A
+ baba\, Public holidays (2026) https://addis-abeba.diplo.de/et-en/about-us
+ /public-holidays-2629598 Communities: Amharic-speaking Minnesota\, Ethiop
+ ian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2811,6 +2829,19 @@ DESCRIPTION:The end of the monks' rains retreat (Buddhist Lent)\, after w
  ps://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/buddhist-lent
  -ends-with-colourful-river-traditions-in-laos Communities: Lao Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:annual-arts-night-yafet-art-center-2026-10-31@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Annual Arts Night (Yafet Art Center)
+DESCRIPTION:Community arts and culture. Date: Announced each year by the 
+ organizer. Source: Mefthe event listing https://mefthe.com/events/celebra
+ te-culture-art-annual-arts-night-at-the-university-of-minnesota/?mefthe_o
+ ccurrence=2026-10-31 Communities: Amharic-speaking Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
