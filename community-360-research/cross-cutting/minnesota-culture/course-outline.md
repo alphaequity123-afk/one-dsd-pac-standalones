@@ -1,5 +1,5 @@
-# The Water We Swim In: course outline (draft for review)
-Draft: October 31, 2026
+# The Water We Swim In: course outline
+Draft: October 31, 2026. Gary approved all six modules on October 31, 2026.
 
 A voluntary e-learning course for staff of the Disability Services Division and the wider Department of Human Services, to be hosted on the Railway site. It is built from the essay `essay.md` in this folder, and every fact it shows comes from a source cited there. Six modules of about 20 minutes each, about two hours in all. Staff can take them in order or one at a time.
 
