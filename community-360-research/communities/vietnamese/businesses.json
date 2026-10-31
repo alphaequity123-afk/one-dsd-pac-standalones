@@ -1,0 +1,482 @@
+[
+ {
+  "name": "Quang",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Family-owned Vietnamese restaurant since 1989, 2719 Nicollet Ave.",
+  "link": "https://quang-restaurant.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows weekly hours and ordering; photos uploaded October 2025; named in March 2026 magazine tour."
+ },
+ {
+  "name": "Pho 79",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Family-owned Vietnamese and Chinese restaurant.",
+  "link": "https://pho79caravellemlps.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site lists ordering and notices; named in Mpls.St.Paul Magazine tour, March 1, 2026."
+ },
+ {
+  "name": "Jasmine 26 Hot Pot Restaurant and Bar",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Hot pot restaurant at 8 E 26th St., sibling to Jasmine Deli.",
+  "link": "https://jasmine26hotpot.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows hours and weekly specials; named in March 2026 tour. Its FAQ has stray text about Honolulu."
+ },
+ {
+  "name": "Jasmine Deli",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Described by Mpls.St.Paul Magazine as one of the historic first banh mi shops; shares space with Kung Fu Tea.",
+  "link": "https://mspmag.com/eat-and-drink/dining-tour-eat-street/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Named as operating in March 1, 2026 magazine tour."
+ },
+ {
+  "name": "Caravelle",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Family-owned Vietnamese restaurant named with Pho 79.",
+  "link": "https://mspmag.com/eat-and-drink/dining-tour-eat-street/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Named in March 1, 2026 magazine tour."
+ },
+ {
+  "name": "Pho Tau Bay",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Vietnamese pho restaurant.",
+  "link": "https://mspmag.com/eat-and-drink/dining-tour-eat-street/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Named in March 1, 2026 magazine tour."
+ },
+ {
+  "name": "Pho Hoa",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Location of an international pho chain, listed by VCM.",
+  "link": "https://mspmag.com/eat-and-drink/dining-tour-eat-street/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Named in March 1, 2026 magazine tour."
+ },
+ {
+  "name": "Lu's Sandwiches",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Vietnamese sandwich shop.",
+  "link": "https://mspmag.com/eat-and-drink/dining-tour-eat-street/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Named in March 1, 2026 magazine tour."
+ },
+ {
+  "name": "My Huong Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Rice dishes, bubble tea and banh mi, run by Tracy Wong and her husband.",
+  "link": "https://mspmag.com/eat-and-drink/dining-tour-eat-street/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Named in March 1, 2026 magazine tour."
+ },
+ {
+  "name": "TT Market (formerly Truong Thanh)",
+  "type": "grocery",
+  "neighborhoodOrCity": "Eat Street, Minneapolis",
+  "whatItIs": "Asian grocery with tropical fruit, herbs and supplements, 2520 Nicollet Ave.",
+  "link": "https://ttmarket.biz",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows hours and open status; footer copyright is 2022, so confirm by phone."
+ },
+ {
+  "name": "Hai Hai",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Northeast Minneapolis",
+  "whatItIs": "Chef Christina Nguyen's Southeast Asian restaurant, 2121 University Ave. NE.",
+  "link": "https://www.haihaimpls.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows current hours, and awards through 2024."
+ },
+ {
+  "name": "Lotus Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis and Maple Grove",
+  "whatItIs": "Long-running family Vietnamese restaurant.",
+  "link": "https://sahanjournal.com/news-partners/mariah-nguyen-minnesota-aurora-gophers-soccer/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Star Tribune via Sahan Journal, July 9, 2025, reports Minneapolis and Maple Grove locations."
+ },
+ {
+  "name": "Que Viet",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Northeast Minneapolis",
+  "whatItIs": "Family-owned, serving Vietnamese food since 1980; State Fair egg roll; 2211 Johnson St. NE.",
+  "link": "https://quevietmn.com",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Own site shows hours, but its only date is a 2020 copyright."
+ },
+ {
+  "name": "Vo's Vietnamese Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Restaurant at 3450 Lyndale Ave., listed for sale in 2023.",
+  "link": "https://racketmn.com/wanna-buy-vos-vietnamese-restaurant-minneapolis",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Racket, April 26, 2023; nothing newer was found."
+ },
+ {
+  "name": "Cali Nails",
+  "type": "salon",
+  "neighborhoodOrCity": "Lake Street, Minneapolis",
+  "whatItIs": "Salon owned by Ngan Hoang, switched to safer products.",
+  "link": "https://sahanjournal.com/health/non-toxic-nail-hair-salons-vietnamese-east-african-minnesota-epa-grant/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Sahan Journal, Feb. 6, 2024; nothing newer was found."
+ },
+ {
+  "name": "Hoa Bien",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Avenue, St. Paul",
+  "whatItIs": "Vietnamese restaurant at 1105 University Ave. W.",
+  "link": "https://hoa-bien.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site posts temporary hours from \"Monday, April 20th\"; April 20 fell on a Monday in 2026, but no year is shown, and the page has a Wednesday closure note."
+ },
+ {
+  "name": "Trung Nam French Bakery",
+  "type": "bakery",
+  "neighborhoodOrCity": "Frogtown, St. Paul",
+  "whatItIs": "Family-owned bakery, 739 University Ave. W., said to be first in Minnesota for banh mi thit.",
+  "link": "https://www.visitsaintpaul.com/directory/trung-nam-french-bakery/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Visitor listing shows hours and a 2026 footer, but no dated update or own page."
+ },
+ {
+  "name": "iPho by Saigon",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Avenue, St. Paul",
+  "whatItIs": "Vietnamese restaurant, 704 University Ave. W.",
+  "link": "https://www.exploreminnesota.com/profile/ipho-saigon/33060",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "State tourism listing with no update date."
+ },
+ {
+  "name": "Mai Village",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Little Mekong, St. Paul",
+  "whatItIs": "Large Vietnamese restaurant, 394 University Ave. W., opened 1990.",
+  "link": "https://minnlawyer.com/2016/09/01/bill-of-fare-a-taste-of-vietnam-on-university-avenue/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only source is from 2016."
+ },
+ {
+  "name": "Trieu Chau",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Little Mekong, St. Paul",
+  "whatItIs": "Vietnamese cafe known for pho, 500 University Ave. W.",
+  "link": "https://minnlawyer.com/2016/09/01/bill-of-fare-a-taste-of-vietnam-on-university-avenue/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only source is from 2016."
+ },
+ {
+  "name": "Tay Ho",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Avenue, St. Paul",
+  "whatItIs": "Family Vietnamese restaurant opened in 2005.",
+  "link": "https://sahanjournal.com/business-work/tay-ho-vietnamese-restaurant-closes-st-paul-university-avenue/",
+  "dateChecked": "2026-10-30",
+  "status": "closed",
+  "evidence": "Sahan Journal, June 5, 2026: closed May 28, 2026."
+ },
+ {
+  "name": "Phê Coffee",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "Lowertown, St. Paul",
+  "whatItIs": "Vietnamese coffee, 289 5th St. E., opened March 2025.",
+  "link": "https://sahanjournal.com/business-work/minneapolis-st-paul-vietnamese-coffee-phe-caphin-giot/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Aug. 8, 2025, gives daily hours."
+ },
+ {
+  "name": "Càphin Minneapolis",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "France Avenue, Minneapolis",
+  "whatItIs": "Vietnamese coffee, 4503 France Ave. S., shop opened February 2024.",
+  "link": "https://sahanjournal.com/business-work/minneapolis-st-paul-vietnamese-coffee-phe-caphin-giot/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Aug. 8, 2025, gives hours."
+ },
+ {
+  "name": "Giọt Cream Coffee",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "Dinkytown pop-up; Richfield planned",
+  "whatItIs": "Egg-cream coffee from Simon and Mimi Nguyen.",
+  "link": "https://sahanjournal.com/business-work/minneapolis-st-paul-vietnamese-coffee-phe-caphin-giot/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Aug. 8, 2025, reports a weekend pop-up and a planned Richfield shop; that opening was not confirmed."
+ },
+ {
+  "name": "Sunday's Cà Phê",
+  "type": "coffee pop-up",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Seasonal Vietnamese coffee pop-up from Erica Dao, since June 2024.",
+  "link": "https://sahanjournal.com/business-work/minneapolis-st-paul-vietnamese-coffee-phe-caphin-giot/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Aug. 8, 2025, lists a pop-up that month."
+ },
+ {
+  "name": "Thanh Vi",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park",
+  "whatItIs": "Pho and Vietnamese dishes, 3023 85th Ave. N.; owner Sam Nguyen also owns the strip mall.",
+  "link": "https://thanhvitogo.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows weekly hours and online ordering."
+ },
+ {
+  "name": "Sōke BBQ & Hotpot",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park",
+  "whatItIs": "Hot pot and barbecue, 8586 Edinburgh Centre Dr.",
+  "link": "https://sokemn.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows hours and reservation and party offers."
+ },
+ {
+  "name": "Kim Anh Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park",
+  "whatItIs": "Vietnamese restaurant at 8586 Edinburgh Centre Dr., per a 2017 article.",
+  "link": "https://sokemn.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Banner on the Sōke site advertises a Kim Anh pho deal starting Nov. 5, 2026; the relation between the two businesses was not stated."
+ },
+ {
+  "name": "Stone Pho",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park and Roseville",
+  "whatItIs": "Pho restaurant with two locations.",
+  "link": "https://stonepho.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows hours at both locations."
+ },
+ {
+  "name": "Phuong Trang",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park",
+  "whatItIs": "Vietnamese restaurant, 8072 Brooklyn Blvd.",
+  "link": "https://heavytable.com/brooklyn-parks-vietnamese-food-scene/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only source is from 2017."
+ },
+ {
+  "name": "MT Noodles",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park",
+  "whatItIs": "Vietnamese restaurant, 8459 W. Broadway.",
+  "link": "https://heavytable.com/brooklyn-parks-vietnamese-food-scene/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only source opened is from 2017; ordering page refused access."
+ },
+ {
+  "name": "Cheap Charlie's",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rochester",
+  "whatItIs": "Diner bought in 1997 by Vietnamese refugee David Tran, 11 5th St. NW.",
+  "link": "https://blog.resy.com/2021/02/the-minnesota-restaurant-that-became-a-refugees-american-story/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Resy, February 2021; nothing newer was found."
+ },
+ {
+  "name": "Pho Viet 126",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Blaine",
+  "whatItIs": "Listed by the Vietnamese Community of Minnesota.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; no date for the listing."
+ },
+ {
+  "name": "pho 400",
+  "type": "restaurant",
+  "neighborhoodOrCity": "New Brighton",
+  "whatItIs": "Listed by the Vietnamese Community of Minnesota.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; no date for the listing."
+ },
+ {
+  "name": "Best Taste of Pho Saigon",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Blaine",
+  "whatItIs": "Listed by the Vietnamese Community of Minnesota.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; own site had an expired security certificate."
+ },
+ {
+  "name": "Bee Nails & Spa",
+  "type": "salon",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Nail salon listed by VCM.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; no date for the listing."
+ },
+ {
+  "name": "Signature Nails",
+  "type": "salon",
+  "neighborhoodOrCity": "Lino Lakes",
+  "whatItIs": "Nail salon, 709 Apollo Dr., listed by VCM.",
+  "link": "https://signaturenail-salon.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows weekly hours."
+ },
+ {
+  "name": "J&J Accounting, PA",
+  "type": "accounting firm",
+  "neighborhoodOrCity": "Eden Prairie",
+  "whatItIs": "Full-service firm listed by VCM, 15830 Venture Lane.",
+  "link": "https://jnjaccounting.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site with a 2026 footer and tax center. It does not state Vietnamese-language service."
+ },
+ {
+  "name": "Tri Tang Agency, Farmers Insurance",
+  "type": "insurance",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Insurance agency listed by VCM.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; no own page opened."
+ },
+ {
+  "name": "Annie Nguyen, Farmers Insurance",
+  "type": "insurance",
+  "neighborhoodOrCity": "Blaine",
+  "whatItIs": "Insurance agency listed by VCM.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; no own page opened."
+ },
+ {
+  "name": "Trinh's Auto Repair",
+  "type": "auto repair",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Listed by VCM.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; no date for the listing."
+ },
+ {
+  "name": "A&J Auto Body & Motors",
+  "type": "auto repair",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Listed by VCM.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; no date for the listing."
+ },
+ {
+  "name": "Garfield Auto Repair",
+  "type": "auto repair",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Listed by VCM.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; no date for the listing."
+ },
+ {
+  "name": "H&M Auto Body & Towing",
+  "type": "auto repair",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Listed by VCM.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Listed in VCM directory; no date for the listing."
+ },
+ {
+  "name": "Wholesale Transmission Services",
+  "type": "auto repair",
+  "neighborhoodOrCity": "Blaine",
+  "whatItIs": "Transmission shop listed by VCM, 2161 108th Ln. NE.",
+  "link": "https://www.wholesaletransmissionservices.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows weekly hours."
+ },
+ {
+  "name": "Little Mekong / Asian Economic Development Association",
+  "type": "business district and association",
+  "neighborhoodOrCity": "University Avenue, St. Paul",
+  "whatItIs": "Pan-Asian business and cultural corridor and night market organizer, 422 University Ave. W.; not Vietnamese alone.",
+  "link": "https://www.littlemekong.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site with 2025 night market recap and vendor list."
+ },
+ {
+  "name": "Vietnamese Community of Minnesota business directory",
+  "type": "community directory",
+  "neighborhoodOrCity": "Brooklyn Park",
+  "whatItIs": "Shared business listing, 22 entries; attorney and real estate tabs empty.",
+  "link": "https://vietnam-minnesota.org/business-directory/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Page live with 2026 footer."
+ },
+ {
+  "name": "Vietnam MN Radio on KFAI",
+  "type": "media",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Vietnamese radio program named on the earlier page.",
+  "link": "https://vietnam-minnesota.org",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "No current program page could be reached."
+ }
+]

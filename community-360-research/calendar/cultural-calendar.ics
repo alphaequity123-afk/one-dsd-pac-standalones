@@ -4,6 +4,44 @@ PRODID:-//community-360-research//cultural-calendar//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Minnesota cultural calendar
 BEGIN:VEVENT
+UID:black-april-commemoration-at-the-minnesota-state-capitol-2024-04-27@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20240427
+DTEND;VALUE=DATE:20240428
+SUMMARY:Black April Commemoration at the Minnesota State Capitol
+DESCRIPTION:The anniversary of April 30\, 1975. Date: Announced each year
+  by the organizer\, on a date near April 30. Source: Vietnamese Community
+  of Minnesota https://vietnam-minnesota.org/past-events/ Communities: Vie
+ tnamese Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:vietnamese-student-association-of-minnesota-tết-show-2025-02-08@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20250208
+DTEND;VALUE=DATE:20250209
+SUMMARY:Vietnamese Student Association of Minnesota Tết Show
+DESCRIPTION:Tết\, through student performance. Date: Announced each yea
+ r by the student group. Source: Northrop https://www.northrop.umn.edu/eve
+ nts/vsam-tet-show-2025-colors-homeland Communities: Vietnamese Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:little-mekong-night-market-2025-06-28@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20250628
+DTEND;VALUE=DATE:20250630
+SUMMARY:Little Mekong Night Market
+DESCRIPTION:A shared Southeast Asian street market\; it is not specifical
+ ly Vietnamese. Date: Announced each year by the Asian Economic Developmen
+ t Association. Source: Little Mekong https://www.littlemekong.com/night-m
+ arket Communities: Vietnamese Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cuban-revolution-exile-anniversary-2026-01-01@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260101
@@ -174,6 +212,20 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:vietnamese-community-of-minnesota-tết-festival-2026-01-24@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260126
+SUMMARY:Vietnamese Community of Minnesota Tết Festival
+DESCRIPTION:The community's welcome of the Lunar New Year\; the 2026 fair
+  was billed as "50 Years of Journey." Date: Announced each year by the or
+ ganizer\, usually a January or February weekend near Tết\, sometimes we
+ eks earlier. Source: Vietnamese Community of Minnesota https://vietnam-mi
+ nnesota.org Communities: Vietnamese Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:feast-of-san-pablo-2026-01-25@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260125
@@ -256,6 +308,18 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:giao-thừa-and-tết-at-chùa-phật-ân-2026-02-16@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260220
+SUMMARY:Giao Thừa and Tết at Chùa Phật Ân
+DESCRIPTION:Closing the old year and beginning the new one in Buddhist pr
+ actice. Date: Announced each year by the temple around Tết. Source: Ch
+ ùa Phật Ân https://phatan.org Communities: Vietnamese Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:lunar-new-year-2026-02-17@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260217
@@ -290,12 +354,10 @@ DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
 SUMMARY:Tết Nguyên Đán
 DESCRIPTION:Start of the lunisolar year. Date: First day of the first mon
- th of the Vietnamese lunisolar calendar (usually the same day as Chinese 
- New Year\; rare one-day differences come from the time zone used). Source
- : Vietnam National Authority of Tourism site\, Public holidays and closur
- es in Vietnam https://www.vietnamtourism.com/en/public-holidays-and-closu
- res-in-vietnam-a-year-round-planning-guide Communities: Vietnamese Minnes
- ota
+ th of the Vietnamese lunisolar calendar\; usually the same day as Chinese
+  New Year\, with rare one-day differences. Source: Chùa Phật Ân calen
+ dar shows Tết days 1 to 3 on Feb. 17 to 19\, 2026 https://phatan.org Co
+ mmunities: Vietnamese Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -618,11 +680,10 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260501
 SUMMARY:Black April
-DESCRIPTION:April 30\, 1975\, the end of the Republic of Vietnam\; grief 
- and politics for many Vietnamese Americans. Date: April 30. Source: U.S. 
- Department of State\, Office of the Historian\, Ending the Vietnam War\, 
- 1969-1973 https://history.state.gov/milestones/1969-1976/ending-vietnam C
- ommunities: Vietnamese Minnesota
+DESCRIPTION:The end of the Republic of Vietnam\; loss\, exile and remembr
+ ance of those who served. Date: April 30. Source: WCCO states April 30 as
+  the date https://www.cbsnews.com/minnesota/news/vietnam-war-50-years-lat
+ er-vietnamese-veterans-black-april Communities: Vietnamese Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -797,6 +858,18 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:đại-lễ-phật-đản-at-chùa-phật-ân-2026-05-24@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Đại Lễ Phật Đản at Chùa Phật Ân
+DESCRIPTION:The Buddha's birth\; the temple labels 2026 as Buddhist Era 2
+ 570. Date: Announced each year by the temple. Source: Chùa Phật Ân ht
+ tps://phatan.org Communities: Vietnamese Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:george-floyd-remembrance-2026-05-25@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260525
@@ -838,6 +911,20 @@ DESCRIPTION:Self-rule in 1963. Date: June 1. Source: Kenya Law Reform Com
  two-the-republic/175-9-national-symbols-and-national-days Communities: Ke
  nyan Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:weaving-culture-the-vietnamese-story-in-minnesota-2026-06-06@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260721
+SUMMARY:Weaving Culture: The Vietnamese Story in Minnesota
+DESCRIPTION:Vietnamese refugee journeys and success in Minnesota through 
+ art\, photographs\, writing and household objects. Date: One-time exhibit
+ . Source: Hennepin County Library\; Sahan Journal gives a July 31 close h
+ ttps://www.hclib.org/about/news/2026/june/weaving-culture Communities: Vi
+ etnamese Minnesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1214,6 +1301,19 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:vietnamese-community-of-minnesota-summer-festival-2026-08-22@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+SUMMARY:Vietnamese Community of Minnesota Summer Festival
+DESCRIPTION:Summer gathering\; VCM's list shows such fairs at least since
+  2007. Date: Announced each year by the organizer. Source: City of Bloomi
+ ngton event listing\; event not presented by the city https://www.bloomin
+ gtonmn.gov/node/19135 Communities: Vietnamese Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ukrainian-independence-day-2026-08-24@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260824
@@ -1237,6 +1337,18 @@ DESCRIPTION:The August 28\, 1963 March on Washington. Date: August 28. So
  .gov/articles/march-on-washington.htm Communities: African American Minne
  sota
 CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:đại-lễ-vu-lan-at-chùa-phật-ân-2026-08-30@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Đại Lễ Vu Lan at Chùa Phật Ân
+DESCRIPTION:Gratitude to parents\, as the temple calls it Báo Hiếu. Da
+ te: Announced each year by the temple. Source: Chùa Phật Ân https://p
+ hatan.org Communities: Vietnamese Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1351,6 +1463,20 @@ SUMMARY:Fiesta Latina
 DESCRIPTION:A public celebration of Latino culture and community during H
  eritage Month. Date: Set each year by CLUES. Source: CLUES https://clues.
  org/fiesta-latina/ Communities: Latino Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:midautumn-moon-festival-at-landmark-center-2026-09-20@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Mid-Autumn Moon Festival at Landmark Center
+DESCRIPTION:Tết Trung Thu\, billed in 2026 as the 20th annual. Date: An
+ nounced each year by Landmark Center and the Vietnamese Community of Minn
+ esota\; a September Sunday in years listed. Source: Landmark Center https
+ ://www.landmarkcenter.org/event/sundays-at-landmark-mid-autumn-moon-festi
+ val-8/ Communities: Vietnamese Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2264,11 +2390,10 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Black April
-DESCRIPTION:April 30\, 1975\, the end of the Republic of Vietnam\; grief 
- and politics for many Vietnamese Americans. Date: April 30. Source: U.S. 
- Department of State\, Office of the Historian\, Ending the Vietnam War\, 
- 1969-1973 https://history.state.gov/milestones/1969-1976/ending-vietnam C
- ommunities: Vietnamese Minnesota
+DESCRIPTION:The end of the Republic of Vietnam\; loss\, exile and remembr
+ ance of those who served. Date: April 30. Source: Fixed date\; WCCO https
+ ://www.cbsnews.com/minnesota/news/vietnam-war-50-years-later-vietnamese-v
+ eterans-black-april Communities: Vietnamese Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3561,11 +3686,10 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280430
 DTEND;VALUE=DATE:20280501
 SUMMARY:Black April
-DESCRIPTION:April 30\, 1975\, the end of the Republic of Vietnam\; grief 
- and politics for many Vietnamese Americans. Date: April 30. Source: U.S. 
- Department of State\, Office of the Historian\, Ending the Vietnam War\, 
- 1969-1973 https://history.state.gov/milestones/1969-1976/ending-vietnam C
- ommunities: Vietnamese Minnesota
+DESCRIPTION:The end of the Republic of Vietnam\; loss\, exile and remembr
+ ance of those who served. Date: April 30. Source: Fixed date\; WCCO https
+ ://www.cbsnews.com/minnesota/news/vietnam-war-50-years-later-vietnamese-v
+ eterans-black-april Communities: Vietnamese Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT

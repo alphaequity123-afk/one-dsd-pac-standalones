@@ -4,18 +4,19 @@
 
 ## Where things stand
 
-6 of 39 communities are finished. Karen, Somali, African American, Latino and Mexican have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+7 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican and Vietnamese have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- None.
+- On Gary's computer: ethiopian, oromo, indian, rural.
+- In the cloud session: the communities listed under Not started.
 
 ## Not started
 
@@ -39,6 +40,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Vietnamese:** web search ran out partway. Not established: a Minnesota deportation count, effects of Operation Metro Surge, disability, health and clinic evidence beyond Compass and state counts, elected officials, Protestant, Cao Đài and Hòa Hảo groups, town-level population, and 2026 dates for Black April and Little Mekong Night Market. 21 of 48 businesses could not be confirmed open. Compass really does publish the same median income for Hmong and Vietnamese households ($92,644), with different margins.
 - **Mexican:** web search ran out, so sections 2, 3, 4, 5, 8, 9, 10, 11 and 13 are thinner than the brief asked, along with law, accounting, insurance, tax, salon, travel, bakery and Greater Minnesota businesses. 29 of 57 businesses could not be confirmed open. Not established: current Mexican-only counts by town, Mexican nationals among those arrested in Operation Metro Surge, any Mexican-specific Minnesota disability study, and public Posadas, Via Crucis, Reyes or 2026 Guadalupe schedules.
 - **African American:** web search ran out, so law and accounting firms, charter schools, arts organizations, Black professionals and current school data are thin. Not established: a count separating descendants of U.S. slavery from other U.S.-born Black people, current county and city counts, Black wealth or faith shares, and any Black-led disability or Black Deaf organization (absence not proven). 44 of the 72 businesses listed as open rest only on the Spokesman-Recorder's July 2026 finalist list. The Rondo Days 2026 date comes from MPR's "Saturday" in a July 15 story.
 - **Latino:** web search ran out, so recent reporting from Worthington, Willmar and Austin is missing and no professional firms were confirmed. 23 of 42 businesses could not be confirmed open. Not established: Latino wealth, undocumented counts, union membership, a dated firm count, Indigenous-language speakers, religious affiliation, waiver use and special education by ethnicity.
