@@ -15,7 +15,7 @@
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): all 28 communities are finished. Second pass done on karen, somali, latino and african-american; running on mexican, vietnamese, oromo, ethiopian and rural. The Minnesota culture essay (cross-cutting/minnesota-culture/) is being written.
+- In the cloud session (started October 31, 2026): all 28 communities are finished. Second pass done on karen, somali, latino and african-american; running on mexican, vietnamese, oromo, ethiopian, rural and indian. The Minnesota culture essay (cross-cutting/minnesota-culture/) is being written.
 
 ## Next, after the 28 communities
 
