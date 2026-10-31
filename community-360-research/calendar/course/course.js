@@ -14,12 +14,13 @@
     t.value = get(k) || '';
     t.addEventListener('input', function () { set(k, t.value || null); });
   });
-  document.querySelectorAll('input[data-done]').forEach(function (c) {
-    var k = 'done-' + c.getAttribute('data-done');
-    c.checked = get(k) === '1';
-    c.addEventListener('change', function () { set(k, c.checked ? '1' : null); });
+  document.querySelectorAll('.done-btn').forEach(function (b) {
+    var k = 'done-' + b.getAttribute('data-done');
+    function show(on) { b.setAttribute('aria-pressed', on ? 'true' : 'false'); b.textContent = on ? 'Finished. Select again to undo.' : 'Mark this module finished'; }
+    show(get(k) === '1');
+    b.addEventListener('click', function () { var on = b.getAttribute('aria-pressed') !== 'true'; set(k, on ? '1' : null); show(on); });
   });
   document.querySelectorAll('[data-status]').forEach(function (s) {
-    if (get('done-' + s.getAttribute('data-status')) === '1') { s.classList.add('is-done'); s.setAttribute('aria-label', 'Finished'); }
+    if (get('done-' + s.getAttribute('data-status')) === '1') { s.classList.add('is-done'); s.textContent = 'Finished'; }
   });
 })();

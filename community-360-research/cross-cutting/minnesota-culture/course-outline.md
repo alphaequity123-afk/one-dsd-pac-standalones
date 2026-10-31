@@ -11,6 +11,7 @@ A voluntary e-learning course for staff of the Disability Services Division and 
 - **Frameworks.** Hall's high- and low-context communication, Hofstede's and Meyer's dimensions, Elazar's political cultures, Rentfrow's regional personality study, Harrington and Gelfand's tightness rankings, and Bennett's Developmental Model of Intercultural Sensitivity. Each is presented as a mirror for self-reflection, never as a score or label for anyone. The course does not use or mention the Intercultural Development Inventory, which is covered elsewhere in the app.
 - **Reflection is private.** Prompts invite notes the learner keeps to themselves. Nothing is collected or graded.
 - **Scenarios are labeled as examples.** Practice scenarios are composites written for teaching, clearly marked as examples, and never presented as real cases or real people.
+- **No icons.** Gary's rule: the course pages use no icons, emoji, symbols or pictograms of any kind. Progress and navigation are shown in words.
 - **Content notes.** Modules 4 and 5 carry content notes before the passages that describe racial violence, deaths and abuse in state institutions, following the rule in `RESEARCH-BRIEF.md`.
 
 ## Module structure (each about 20 minutes)
