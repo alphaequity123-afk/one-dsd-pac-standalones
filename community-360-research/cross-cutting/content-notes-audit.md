@@ -131,7 +131,7 @@ This list records every content note in the community profiles and the Minnesota
 - Not added (borderline): section 13: deportations and agents forcing the door of a citizen's home. Reason: enforcement, no death or injury described.
 
 ### indian
-- Review pending.
+- No notes needed: no passage describes violence, abuse or deaths; caste is discussed only as policy and reporting.
 
 ### japanese
 - Added: section 11 (Health and wellbeing, broadly), before "Memory and wellbeing": "This passage describes suicides in a wartime incarceration camp. Readers may pause or skip to the next paragraph." Reason: quotes a survivor that older people in Minidoka "took their own life out of despair."

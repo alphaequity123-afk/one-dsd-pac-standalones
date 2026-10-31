@@ -42,10 +42,16 @@ Checked: October 30, 2026. Each item gives the claim, what the opened source say
    **Links:** https://mn.electionarchives.lib.umn.edu/candidate/ashwin-madia/ ; https://www.mnhs.org/mnopedia/search/index/ganges-ten-thousand-lakes-immigration-india-minnesota . Checked Oct. 30, 2026.
 
 ## Missing and worth adding
+- Kerala Christian congregations: St. Alphonsa Syro-Malabar Catholic Church, now in its own building at 651 Virginia St, St. Paul, rededicated July 27, 2024 (https://www.archspm.org/location/st-alphonsa-syro-malabar-catholic-church-eastern-rite); St. Gregorios Malankara Orthodox Church, 1010 E 58th St, Minneapolis, a parish since June 29, 2020 (https://www.sgocminnesota.org/about); a Minneapolis Mar Thoma congregation (https://marthomana.org/clergy-and-parishes/). Checked Oct. 31, 2026.
+- Sikh Society of Minnesota 2026 dates: Gurpurab Nov. 24, celebration Dec. 4 to 6, Bandi Chor Divas Nov. 8 (https://www.mnsikhs.com/events.html). Checked Oct. 31, 2026.
+- Twin Cities Tamil Association Deepavali is Sunday, Nov. 22, 2026, per the organizer, not Nov. 21 as a community listing says (https://tctamn.org/upcoming-events/). Checked Oct. 31, 2026.
+- PG Narayanan, former India Association president, serving on the Eden Prairie City Council through 2028 (https://www.eplocalnews.org/2025/01/08/narayanan-toomey-sworn-in-for-new-terms-on-the-eden-prairie-city-council). Checked Oct. 31, 2026.
+- Indian American motel families and the 2025 to 2026 federal immigration operation, as described in Sachin Patel's column (https://www.carleton.edu/news/stories/sachin-patel-00-publishes-opinion-piece-in-star-tribune/). Checked Oct. 31, 2026.
+- University of Minnesota caste policy (https://policy.umn.edu/opportunity/discrimination-faq07). Checked Oct. 31, 2026.
 
 - India Chamber of Commerce MN, Plymouth: https://www.icocmn.org/
 - 2026 Diwali events by organizer, and Durga Puja venue: see calendar-entries.json; https://mnbangali.org/events/durga-puja-2026/
-- Syro-Malabar mission, St. Paul: https://gcatholic.org/churches/usa-08/16973
+- Syro-Malabar mission, St. Paul: https://gcatholic.org/churches/usa-08/16973 (this directory still shows it at the Church of St. Mary; the archdiocese now lists its own church at 651 Virginia St, see above).
 - Disability figures from the state chartbook: about 1,300 of 31,700 ages 18 to 64.
 - Sahan Journal's H-1B report, Oct. 23, 2025, including Fridley's special education teachers: https://sahanjournal.com/?p=76030
 - October 2026 green card suspension: https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers

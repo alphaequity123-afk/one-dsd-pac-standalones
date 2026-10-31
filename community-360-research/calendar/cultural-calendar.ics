@@ -337,6 +337,20 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:thamizhar-thiruvizha-tcta-pongal-festival-2026-01-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Thamizhar Thiruvizha (TCTA Pongal festival)
+DESCRIPTION:Pongal\, the Tamil harvest festival\, which the association's
+  notice calls the Tamil people's festival day. Date: Set each year by the
+  Twin Cities Tamil Association\, usually a January weekend after Pongal. 
+ Source: Twin Cities Tamil Association past events page https://tctamn.org
+ /past-events/ Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:vietnamese-community-of-minnesota-tết-festival-2026-01-24@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260124
@@ -775,8 +789,10 @@ DTEND;VALUE=DATE:20260305
 SUMMARY:Holi
 DESCRIPTION:Spring\, rebirth and releasing negative energy\, per MPR News
  . Date: Day after the full moon of the Hindu month Phalguna\, usually Mar
- ch. Source: HinduTone guide https://hindutone.com/festivals/ganesh-chatur
- thi-2026-usa-state-by-state/ Communities: Indian (Asian Indian) Minnesota
+ ch. Source: Government of India\, DoP&T O.M. F.No.12/2/2023-JCA dated 03.
+ 07.2025\, holidays for 2026 (Annexure I\, as reproduced by StaffNews) htt
+ ps://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html 
+ Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -808,19 +824,6 @@ DESCRIPTION:The feast of St. Patrick\, patron saint of Ireland\, now a br
  -in-60th-st-patricks-day-parade Communities: American culture\, European 
  American Minnesota
 CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ugadi-and-gudi-padwa-2026-03-19@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-SUMMARY:Ugadi and Gudi Padwa
-DESCRIPTION:New year. Date: New year on the Hindu lunar calendar. Source:
-  HinduTone https://hindutone.com/global-hindu-presence/usa/ugadi-celebrat
- ions-usa-state-wise-city-wise-guide/ Communities: Indian (Asian Indian) M
- innesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2673,19 +2676,6 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:onam-2026-08-26@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Onam
-DESCRIPTION:A Kerala festival. Date: Thiruvonam star. Dates vary by place
-  and source. Source: Drik Panchang\, New Delhi reckoning https://www.drik
- panchang.com/festivals/onam/onam-calendar.html?year=2026 Communities: Ind
- ian (Asian Indian) Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:minnesota-state-fair-2026-08-27@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260827
@@ -3472,21 +3462,6 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:navaratri-and-dussehra-2026-10-11@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261021
-SUMMARY:Navaratri and Dussehra
-DESCRIPTION:Nine nights\, then the victory of good over evil. Date: Dusse
- hra is the tenth day of the bright half of the Hindu month Ashvin\, usual
- ly October\; the nine nights of Navaratri come before it. Source: HinduTo
- ne\, Minneapolis reckoning: Navaratri begins Oct. 11\, Dussehra Oct. 20 h
- ttps://hindutone.com/festivals/dussehra-2026-minneapolis/ Communities: In
- dian (Asian Indian) Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:durga-puja-bengali-association-of-minnesota-2026-10-16@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261016
@@ -3514,6 +3489,22 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:navaratri-and-dussehra-2026-10-20@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Navaratri and Dussehra
+DESCRIPTION:Nine nights\, then the victory of good over evil. Date: Dusse
+ hra is the tenth day of the bright half of the Hindu month Ashvin\, usual
+ ly October\; the nine nights of Navaratri come before it. Source: Governm
+ ent of India\, DoP&T O.M. F.No.12/2/2023-JCA dated 03.07.2025\, holidays 
+ for 2026 (Annexure I\, as reproduced by StaffNews) https://www.staffnews.
+ in/2025/07/list-of-holidays-2026-closed-holidays.html Communities: Indian
+  (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mashujaa-day-2026-10-20@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261020
@@ -3537,19 +3528,6 @@ DESCRIPTION:Hmong arts and culture\, for older and younger generations to
  rent https://www.minnesotaparent.com/event/hmong-arts-celebration-at-the-
  mall-of-america-2026/ Communities: Hmong Minnesota
 CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:geeta-ashram-diwali-celebration-2026-10-24@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Geeta Ashram Diwali Celebration
-DESCRIPTION:Diwali. Date: Set each year by Geeta Ashram MN. Source: Sulek
- ha listing\, Geeta Ashram MN https://events.sulekha.com/geeta-ashram-diwa
- li-celebration-2026_event-in_eden-prairie-mn_402138 Communities: Indian (
- Asian Indian) Minnesota
-CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3606,19 +3584,6 @@ DESCRIPTION:Community arts and culture. Date: Announced each year by the
  te-culture-art-annual-arts-night-at-the-university-of-minnesota/?mefthe_o
  ccurrence=2026-10-31 Communities: Amharic-speaking Minnesota
 CATEGORIES:community festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:sri-radha-kalyanam-2026-10-31@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-SUMMARY:Sri Radha Kalyanam
-DESCRIPTION:A Hindu temple ceremony. Date: Listed by a community director
- y. Source: LocalFiles listing http://www.localfiles.com/indian/minneapoli
- s/classifieds/events/list_1.htm Communities: Indian (Asian Indian) Minnes
- ota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3800,6 +3765,20 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:perunal-of-st-gregorios-malankara-orthodox-church-2026-11-07@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Perunal of St. Gregorios Malankara Orthodox Church
+DESCRIPTION:The parish's patronal feast\, named for St. Gregorios\, whose
+  life the parish's about page recounts. Date: Set each year by the parish
+ \, in early November. Source: St. Gregorios Malankara Orthodox Church\, M
+ innesota\, home page events https://www.sgocminnesota.org/ Communities: I
+ ndian (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:firearms-deer-season-opener-2026-11-07@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -3833,22 +3812,10 @@ SUMMARY:Diwali
 DESCRIPTION:A five-day festival of lights\; Sahan Journal describes lamps
   and rangoli said to guide Lakshmi into homes. Date: New moon (Amavasya) 
  of the Hindu lunar month Kartika (Ashvin in the amanta reckoning)\, usual
- ly October or November. Source: HinduTone\, Minneapolis timing\, updated 
- Oct. 21\, 2026 https://hindutone.com/festivals/diwali-2026-usa-celebratio
- ns/ Communities: Indian (Asian Indian) Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:diwali-puja-at-milan-mandir-2026-11-08@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Diwali Puja at Milan Mandir
-DESCRIPTION:Diwali. Date: Listed by Jai Mata. The listing also mentions a
-  Nov. 14 fundraiser. Source: LocalFiles listing http://www.localfiles.com
- /indian/minneapolis/classifieds/events/list_1.htm Communities: Indian (As
- ian Indian) Minnesota
+ ly October or November. Source: Government of India\, DoP&T O.M. F.No.12/
+ 2/2023-JCA dated 03.07.2025\, holidays for 2026 (Annexure I\, as reproduc
+ ed by StaffNews) https://www.staffnews.in/2025/07/list-of-holidays-2026-c
+ losed-holidays.html Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3863,6 +3830,19 @@ DESCRIPTION:Diwali for Jains\, called Nirvan on the schedule. Date: Propo
  y beside Nov. 8\, which is a Sunday in 2026. Source: Jain Center of Minne
  sota\, proposed schedule https://jaincentermn.org/2026-events Communities
  : Indian (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bandi-chor-divas-2026-11-08@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Bandi Chor Divas
+DESCRIPTION:A Sikh observance kept on Diwali day\; no Minnesota source op
+ ened describes its meaning. Date: Kept on the day of Diwali. Source: Sikh
+  Society of Minnesota events calendar https://www.mnsikhs.com/events.html
+  Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3931,18 +3911,6 @@ SUMMARY:ICAM Diwali Cultural Program
 DESCRIPTION:Diwali. Date: Set each year by the Indian Cultural Associatio
  n of Minnesota. Source: ICAM https://icamn.org/ Communities: Indian (Asia
  n Indian) Minnesota
-CATEGORIES:community festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:diwali-dinner-and-cultural-entertainment-farmington-2026-11-14@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Diwali Dinner and Cultural Entertainment\, Farmington
-DESCRIPTION:Diwali. Date: From a community listing. Source: LocalFiles li
- sting http://www.localfiles.com/indian/minneapolis/classifieds/events/lis
- t_1.htm Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4024,19 +3992,6 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tcta-deepavali-tamil-live-orchestra-2026-11-21@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:TCTA Deepavali Tamil Live Orchestra
-DESCRIPTION:Deepavali. Date: Set each year by the association. The listin
- g garbles the venue address. Source: LocalFiles listing http://www.localf
- iles.com/indian/minneapolis/classifieds/events/list_1.htm Communities: In
- dian (Asian Indian) Minnesota
-CATEGORIES:community festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:lebanese-independence-day-2026-11-22@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261122
@@ -4050,17 +4005,29 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tcta-deepavali-2026-2026-11-22@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:TCTA Deepavali 2026
+DESCRIPTION:Deepavali. Date: Set each year by the Twin Cities Tamil Assoc
+ iation. Source: Twin Cities Tamil Association upcoming events page https:
+ //tctamn.org/upcoming-events/ Communities: Indian (Asian Indian) Minnesot
+ a
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:guru-nanak-gurpurab-2026-11-24@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Guru Nanak Gurpurab
 DESCRIPTION:Birth of Guru Nanak\, founder of Sikhism. Date: Full moon of 
- the Hindu month Kartika\, usually November. Source: Government of India\,
-  DoP&T O.M. F.No.12/2/2023-JCA dated 03.07.2025\, holidays for 2026 (Anne
- xure I\, as reproduced by StaffNews) https://www.staffnews.in/2025/07/lis
- t-of-holidays-2026-closed-holidays.html Communities: Indian (Asian Indian
- ) Minnesota
+ the Hindu month Kartika\, usually November. Source: Sikh Society of Minne
+ sota events calendar lists Guru Nanak Dev ji Gurpurab on Nov. 24\, 2026\,
+  6:30 to 8:30 p.m. https://www.mnsikhs.com/events.html Communities: India
+ n (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4135,6 +4102,19 @@ DESCRIPTION:Christmas told through music of the African diaspora. Date: A
  imes list (the event text says Dec. 3 through 24) https://penumbracenter.
  org/event/black-nativity-8/ Communities: African American Minnesota
 CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:guru-nanak-gurpurab-celebration-sikh-society-of-minnesota-2026-12-04@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:Guru Nanak Gurpurab Celebration\, Sikh Society of Minnesota
+DESCRIPTION:The birth of Guru Nanak\, the first Sikh Guru. Date: Set each
+  year by the Sikh Society of Minnesota\, usually on a weekend near the Gu
+ rpurab. Source: Sikh Society of Minnesota events calendar https://www.mns
+ ikhs.com/events.html Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
