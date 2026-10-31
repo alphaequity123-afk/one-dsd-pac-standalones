@@ -152,10 +152,9 @@ DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 SUMMARY:Martin Luther King Jr. Day
 DESCRIPTION:Life and work of Dr. Martin Luther King Jr. Date: Third Monda
- y in January. Source: U.S. Office of Personnel Management\, Federal Holid
- ays https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/
-  Communities: African American Minnesota\, American culture\, Minnesota c
- ulture
+ y in January. Source: Clayton Jackson McGhie Memorial lists Monday\, Jan.
+  19\, 2026 https://claytonjacksonmcghie.org/news Communities: African Ame
+ rican Minnesota\, American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -171,6 +170,20 @@ DESCRIPTION:Baptism of Jesus in the Ethiopian Orthodox tradition. Date: T
  Days 2026 https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy
  /2026/ Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota\, Or
  omo Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feast-of-san-pablo-2026-01-25@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:Feast of San Pablo
+DESCRIPTION:The conversion of St. Paul\, patron saint of Axochiapan. Date
+ : January 25\, with Minneapolis festivities around that date. Local dates
+  are set each year. Source: Diario Las Américas gives Jan. 25 as the fea
+ st https://www.diariolasamericas.com/eeuu/mexicanos-minneapolis-mantienen
+ -vivas-sus-tradiciones-n4192355 Communities: Mexican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -409,6 +422,21 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:farmworkers-day-2026-03-31@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Farmworkers Day
+DESCRIPTION:The contributions of farmworkers and the sacrifices of immigr
+ ants and their families. Date: Proclaimed for March 31\, 2026. No yearly 
+ law sets it\, and no later proclamation was found. Source: FOX 9\, March 
+ 31\, 2026 https://fox9.com/news/minnesota-recognizes-farmworkers-day-foll
+ owing-cesar-chavez-fallout-march-2026 Communities: Latino Minnesota\, Mex
+ ican Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:good-friday-2026-04-03@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260403
@@ -459,15 +487,15 @@ DTEND;VALUE=DATE:20260406
 SUMMARY:Easter
 DESCRIPTION:Resurrection of Jesus in Western Christian tradition. Date: F
  irst Sunday after the first ecclesiastical full moon on or after March 21
-  (Gregorian). Source: United States Conference of Catholic Bishops\, Litu
- rgical Calendar for the Dioceses of the USA 2026 https://www.usccb.org/re
- sources/2026cal.pdf Communities: African American Minnesota\, American cu
- lture\, Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota\, Eu
- ropean American Minnesota\, Filipino Minnesota\, French-speaking Minnesot
- a\, Guatemalan Minnesota\, Karen Minnesota\, Kenyan Minnesota\, Korean Mi
- nnesota\, Latino Minnesota\, Lebanese Minnesota\, Liberian Minnesota\, Me
- xican Minnesota\, Minnesota culture\, Nigerian Minnesota\, Puerto Rican M
- innesota\, Salvadoran Minnesota\, Ukrainian Minnesota
+ . Source: United States Conference of Catholic Bishops\, Liturgical Calen
+ dar for the Dioceses of the USA 2026 https://www.usccb.org/resources/2026
+ cal.pdf Communities: African American Minnesota\, American culture\, Colo
+ mbian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota\, European Ameri
+ can Minnesota\, Filipino Minnesota\, French-speaking Minnesota\, Guatemal
+ an Minnesota\, Karen Minnesota\, Kenyan Minnesota\, Korean Minnesota\, La
+ tino Minnesota\, Lebanese Minnesota\, Liberian Minnesota\, Mexican Minnes
+ ota\, Minnesota culture\, Nigerian Minnesota\, Puerto Rican Minnesota\, S
+ alvadoran Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -596,6 +624,36 @@ DESCRIPTION:April 30\, 1975\, the end of the Republic of Vietnam\; grief
  1969-1973 https://history.state.gov/milestones/1969-1976/ending-vietnam C
  ommunities: Vietnamese Minnesota
 CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cinco-de-mayo-on-the-west-side-2026-05-01@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260503
+SUMMARY:Cinco de Mayo on the West Side
+DESCRIPTION:On the West Side\, a yearly celebration of Mexican heritage a
+ nd of the neighborhood\, and in 2026 a hoped-for boost for businesses rec
+ overing from the enforcement surge. Date: Set each year by organizers\, a
+ round May 5. Source: Sahan Journal\, April 29\, 2026 https://sahanjournal
+ .com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recove
+ ry/ Communities: Latino Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cinco-de-mayo-2026-05-05@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:Cinco de Mayo
+DESCRIPTION:A Mexican military victory in 1862. Sahan Journal notes it ca
+ rries little significance in Mexico itself. Date: May 5. The West Side ce
+ lebration is held on a nearby weekend announced each year by organizers. 
+ Source: Sahan Journal describes the fifth of May holiday https://sahanjou
+ rnal.com/arts-culture/cinco-de-mayo-saint-paul-west-side-parade/ Communit
+ ies: Mexican Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -745,10 +803,10 @@ DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:George Floyd remembrance
 DESCRIPTION:The May 25\, 2020 murder of George Floyd in Minneapolis. Date
- : May 25. Source: U.S. Department of Justice\, Office of the Inspector Ge
- neral\, Report 24-085\, review of the response to protest activity https:
- //oig.justice.gov/sites/default/files/reports/24-085.pdf Communities: Afr
- ican American Minnesota\, Minnesota culture
+ : May 25\; related events are announced each year. Source: FOX 9 states M
+ ay 25\, 2020\; fixed anniversary https://www.fox9.com/news/george-floyd-d
+ ay-remembrance-events-may-2026 Communities: African American Minnesota\, 
+ Minnesota culture
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -796,16 +854,29 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:duluth-day-of-remembrance-2026-06-14@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260616
+SUMMARY:Duluth Day of Remembrance
+DESCRIPTION:The 1920 lynchings in Duluth. Date: June 15\, with events set
+  each year by the memorial group. Source: Clayton Jackson McGhie Memorial
+  https://claytonjacksonmcghie.org/news Communities: African American Minn
+ esota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:juneteenth-2026-06-19@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260619
 DTEND;VALUE=DATE:20260620
 SUMMARY:Juneteenth
-DESCRIPTION:June 19\, 1865\, when enslaved people in Galveston\, Texas\, 
- were told of their freedom. Date: June 19. Source: Minnesota Revisor of S
- tatutes\, Minn. Stat. 645.44 subd. 5 (Holiday definition) https://www.rev
- isor.mn.gov/statutes/cite/645.44 Communities: African American Minnesota\
- , American culture\, Minnesota culture
+DESCRIPTION:June 19\, 1865\, when the last enslaved people in Texas were 
+ told they were free\, as the county states it. Date: June 19. Source: Ram
+ sey County press release\; Spokesman-Recorder guide https://www.ramseycou
+ ntymn.gov/news/celebrating-juneteenth-ramsey-county Communities: African 
+ American Minnesota\, American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -905,6 +976,19 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:worthington-international-festival-2026-07-09@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260712
+SUMMARY:Worthington International Festival
+DESCRIPTION:Worthington's many cultures\, begun in 1994 as a soccer tourn
+ ament. Date: Set each year by organizers\, in July. Source: International
+  Festival https://www.worthingtoninternationalfestival.org/ Communities: 
+ Latino Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:srebrenica-genocide-memorial-day-2026-07-11@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260711
@@ -915,6 +999,22 @@ DESCRIPTION:The July 1995 genocide at Srebrenica. Date: July 11. Source:
   1995 Genocide in Srebrenica https://www.un.org/en/observances/srebrenica
  -genocide-commemoration-day Communities: Bosnian Minnesota
 CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondo-days-2026-07-18@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Rondo Days
+DESCRIPTION:The Rondo neighborhood and its families\, displaced by I-94 c
+ onstruction from 1956 to 1968. First held in July 1983. Date: Usually the
+  third Saturday of July in St. Paul\, as organizers set it each year. Sou
+ rce: MPR News\, July 15\, 2026\, says 'Saturday' that weekend\, which is 
+ July 18 https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-
+ celebrate-the-history-of-st-pauls-iconic-neighborhood Communities: Africa
+ n American Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -939,7 +1039,7 @@ DESCRIPTION:The 1810 declaration in Bogotá. Date: July 20. Source: El Ti
  empo (Colombia)\, Por qué el festivo del 20 de julio no se mueve al lune
  s https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-
  mueve-al-lunes-y-que-es-la-ley-emiliani-3364069 Communities: Colombian Mi
- nnesota\, Latino Minnesota
+ nnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -967,6 +1067,19 @@ DESCRIPTION:Independence in 1847. Date: July 26. Source: Embassy of the R
  essage (July 26\, 2012) https://www.liberianembassyus.org/view/announceme
  nts?page=19 Communities: Liberian Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:black-business-week-2026-07-27@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260803
+SUMMARY:Black Business Week
+DESCRIPTION:Black-owned businesses and economic recovery. Date: Announced
+  each year by the City of Minneapolis. Source: City of Minneapolis https:
+ //www.minneapolismn.gov/things-to-do/events/2026-events/july/black-busine
+ ss-week/ Communities: African American Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -998,6 +1111,19 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:minnesota-black-chamber-of-commerce-gala-2026-08-08@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Minnesota Black Chamber of Commerce Gala
+DESCRIPTION:Black business achievement. Date: Announced each year by the 
+ chamber. Source: Spokesman-Recorder https://spokesman-recorder.com/2026/0
+ 8/13/minnesota-black-business-hall-of-fame-inaugural-class/ Communities: 
+ African American Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ecuadorian-independence-day-2026-08-10@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260810
@@ -1007,7 +1133,7 @@ DESCRIPTION:The 1809 Quito uprising. Date: August 10. Source: Superintend
  encia de Bancos del Ecuador\, Circular SB-IG-2026-0023-C\, Feriado Nacion
  al del 10 de agosto https://asobanca.org.ec/wp-content/uploads/2026/08/SB
  -IG-2026-0023-C-Feriado-10-de-agosto.pdf Communities: Ecuadorian Minnesot
- a\, Latino Minnesota
+ a
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1145,6 +1271,19 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:selby-avenue-jazzfest-2026-09-12@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Selby Avenue JazzFest
+DESCRIPTION:Music and Rondo's cultural life. Date: Announced each year. S
+ ource: Spokesman-Recorder https://spokesman-recorder.com/2026/09/30/saint
+ -paul-restores-street-co-naming-to-honor-elder-mahmoud-el-kati/ Communiti
+ es: African American Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hispanic-heritage-month-begins-2026-09-15@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260915
@@ -1155,8 +1294,8 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
  Communities: Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota
- \, Guatemalan Minnesota\, Latino Minnesota\, Mexican Minnesota\, Puerto R
- ican Minnesota\, Salvadoran Minnesota
+ \, Guatemalan Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\, Sal
+ vadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1175,17 +1314,44 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:hispanic-heritage-month-begins-2026-09-15@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20261016
+SUMMARY:Hispanic Heritage Month
+DESCRIPTION:U.S. heritage month\, tied to Central American and Mexican in
+ dependence days. Date: September 15 to October 15. Source: U.S. Census Bu
+ reau\, National Hispanic Heritage Month: 2026 https://www.census.gov/news
+ room/facts-for-features/2026/hispanic-heritage-month.html Communities: Me
+ xican Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mexican-independence-day-2026-09-16@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Mexican Independence Day
-DESCRIPTION:Start of the 1810 war of independence. Date: September 16. So
- urce: Gobierno de México\, PROFEDET\, Días de Descanso Obligatorio 2026
-  (Ley Federal del Trabajo art. 74) https://www.gob.mx/profedet/articulos/
- sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026 Communit
- ies: Latino Minnesota\, Mexican Minnesota
+DESCRIPTION:Start of the 1810 war of independence. Date: September 16. Co
+ mmunity events may fall on nearby days. Source: Gobierno de México\, PRO
+ FEDET\, Días de Descanso Obligatorio 2026 (Ley Federal del Trabajo art. 
+ 74) https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-de
+ scanso-obligatorio-para-este-2026 Communities: Latino Minnesota\, Mexican
+  Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fiesta-latina-2026-09-19@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Fiesta Latina
+DESCRIPTION:A public celebration of Latino culture and community during H
+ eritage Month. Date: Set each year by CLUES. Source: CLUES https://clues.
+ org/fiesta-latina/ Communities: Latino Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1255,6 +1421,20 @@ DESCRIPTION:Independence in 1960. Date: October 1. Source: Federal Republ
  ng/fg-declares-thursday-october-1st-2026-public-holiday-to-mark-nigerias-
  66th-independence-anniversary/ Communities: Nigerian Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:latino-business-week-2026-10-05@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+SUMMARY:Latino Business Week
+DESCRIPTION:Support for Latino-owned businesses\, in 2026 during recovery
+  from the enforcement surge. Date: Set each year by the City of Minneapol
+ is. Source: MPR News\, Oct. 6\, 2026 https://www.mprnews.org/story/2026/1
+ 0/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice
+ -surge Communities: Latino Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1352,8 +1532,36 @@ DESCRIPTION:Remembrance of the dead (observed November 1 and 2). Date: No
  vember 2. Source: Gobierno de México\, INAFED\, Día de Muertos\, tradic
  ión mexicana que trasciende en el tiempo https://www.gob.mx/inafed/artic
  ulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo Commun
- ities: Guatemalan Minnesota\, Latino Minnesota\, Mexican Minnesota
+ ities: Guatemalan Minnesota\, Latino Minnesota
 CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:día-de-los-muertos-2026-11-02@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Día de los Muertos
+DESCRIPTION:Remembrance of the dead. Date: November 1 and 2 by custom\; U
+ NESCO gives only the end of October to the beginning of November. Minneso
+ ta events fall on nearby days announced by organizers. Source: Gobierno d
+ e México\, INAFED\, Día de Muertos\, tradición mexicana que trasciende
+  en el tiempo https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicio
+ n-mexicana-que-trasciende-en-el-tiempo Communities: Mexican Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-of-black-business-awards-2026-11-07@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Best of Black Business Awards
+DESCRIPTION:Black-owned businesses\, in the awards' second year. Date: An
+ nounced each year by the Spokesman-Recorder. Source: Spokesman-Recorder h
+ ttps://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-fina
+ lists/ Communities: African American Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1519,10 +1727,12 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:Día de la Virgen de Guadalupe
-DESCRIPTION:Feast of Our Lady of Guadalupe. Date: December 12. Source: Un
- ited States Conference of Catholic Bishops\, Liturgical Calendar for the 
- Dioceses of the USA 2027 https://www.usccb.org/resources/2027cal.pdf Comm
- unities: Latino Minnesota\, Mexican Minnesota
+DESCRIPTION:Feast of Our Lady of Guadalupe\, tied to the reported appeara
+ nce of the Virgin Mary to a Mexican peasant nearly five centuries ago. Da
+ te: December 12. Some parishes begin the evening before. Source: The Cath
+ olic Spirit: decree read on the feast day\, December 12 https://thecathol
+ icspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-
+ lady-of-guadalupe/ Communities: Latino Minnesota\, Mexican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1549,7 +1759,21 @@ DESCRIPTION:Nine nights (December 16 to 24) re-enacting Mary and Joseph's
   search for shelter. Date: December 16. Source: Secretaría de Cultura de
   México\, Sistema de Información Cultural\, Fiesta de Posadas https://s
  ic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Communities: Gu
- atemalan Minnesota\, Latino Minnesota\, Mexican Minnesota
+ atemalan Minnesota\, Latino Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:las-posadas-first-night-2026-12-16@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261225
+SUMMARY:Las Posadas (first night)
+DESCRIPTION:Mary and Joseph's search for shelter. Date: December 16 to 24
+ \; the existing page says mid-December in some communities. Source: Secre
+ taría de Cultura de México\, Sistema de Información Cultural\, Fiesta 
+ de Posadas https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id
+ =115 Communities: Mexican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1559,15 +1783,15 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Christmas
-DESCRIPTION:Birth of Jesus (Gregorian calendar). Date: December 25. Sourc
- e: Minnesota Revisor of Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday de
- finition) https://www.revisor.mn.gov/statutes/cite/645.44 Communities: Af
- rican American Minnesota\, American culture\, Colombian Minnesota\, Cuban
-  Minnesota\, Ecuadorian Minnesota\, European American Minnesota\, Filipin
- o Minnesota\, French-speaking Minnesota\, Guatemalan Minnesota\, Karen Mi
- nnesota\, Kenyan Minnesota\, Korean Minnesota\, Latino Minnesota\, Lebane
- se Minnesota\, Liberian Minnesota\, Mexican Minnesota\, Minnesota culture
- \, Nigerian Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+DESCRIPTION:Birth of Jesus. Date: December 25. Source: Minnesota Revisor 
+ of Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday definition) https://www
+ .revisor.mn.gov/statutes/cite/645.44 Communities: African American Minnes
+ ota\, American culture\, Colombian Minnesota\, Cuban Minnesota\, Ecuadori
+ an Minnesota\, European American Minnesota\, Filipino Minnesota\, French-
+ speaking Minnesota\, Guatemalan Minnesota\, Karen Minnesota\, Kenyan Minn
+ esota\, Korean Minnesota\, Latino Minnesota\, Lebanese Minnesota\, Liberi
+ an Minnesota\, Mexican Minnesota\, Minnesota culture\, Nigerian Minnesota
+ \, Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1577,11 +1801,10 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:Kwanzaa (first day)
-DESCRIPTION:First of seven days (December 26 to January 1) honoring Afric
- an heritage\, created in 1966. Date: December 26. Source: California Stat
- e University\, Long Beach\, Everything You Need to Know About Kwanzaa htt
- ps://www.csulb.edu/news/the-media/article/everything-you-need-to-know-abo
- ut-kwanzaa Communities: African American Minnesota
+DESCRIPTION:First of seven days honoring African heritage\, each with a p
+ rinciple such as Umoja\, unity. Date: December 26. Source: Fixed date\; C
+ ultural Wellness Center's 2025 observance began Dec. 26 https://www.cultu
+ ralwellnesscenter.org/ Communities: African American Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1591,11 +1814,11 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Watch Night
-DESCRIPTION:New Year's Eve church vigil\, remembering the 1862 vigil befo
- re the Emancipation Proclamation took effect. Date: December 31. Source: 
- National Park Service\, Freedom's Eve: Awaiting the Passage of the Emanci
- pation Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Co
- mmunities: African American Minnesota\, Liberian Minnesota
+DESCRIPTION:New Year's Eve vigil\, remembering the 1862 vigil before the 
+ Emancipation Proclamation took effect. Date: December 31. Source: Nationa
+ l Park Service\, Freedom's Eve: Awaiting the Passage of the Emancipation 
+ Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Communiti
+ es: African American Minnesota\, Liberian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1739,6 +1962,20 @@ DESCRIPTION:Life and work of Dr. Martin Luther King Jr. Date: Third Monda
   Communities: African American Minnesota\, American culture\, Minnesota c
  ulture
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feast-of-san-pablo-2027-01-25@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Feast of San Pablo
+DESCRIPTION:The conversion of St. Paul\, patron saint of Axochiapan. Date
+ : January 25\, with Minneapolis festivities around that date. Local dates
+  are set each year. Source: Diario Las Américas gives Jan. 25 as the fea
+ st https://www.diariolasamericas.com/eeuu/mexicanos-minneapolis-mantienen
+ -vivas-sus-tradiciones-n4192355 Communities: Mexican Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1955,15 +2192,15 @@ DTEND;VALUE=DATE:20270329
 SUMMARY:Easter
 DESCRIPTION:Resurrection of Jesus in Western Christian tradition. Date: F
  irst Sunday after the first ecclesiastical full moon on or after March 21
-  (Gregorian). Source: United States Conference of Catholic Bishops\, Litu
- rgical Calendar for the Dioceses of the USA 2027 https://www.usccb.org/re
- sources/2027cal.pdf Communities: African American Minnesota\, American cu
- lture\, Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota\, Eu
- ropean American Minnesota\, Filipino Minnesota\, French-speaking Minnesot
- a\, Guatemalan Minnesota\, Karen Minnesota\, Kenyan Minnesota\, Korean Mi
- nnesota\, Latino Minnesota\, Lebanese Minnesota\, Liberian Minnesota\, Me
- xican Minnesota\, Minnesota culture\, Nigerian Minnesota\, Puerto Rican M
- innesota\, Salvadoran Minnesota\, Ukrainian Minnesota
+ . Source: United States Conference of Catholic Bishops\, Liturgical Calen
+ dar for the Dioceses of the USA 2027 https://www.usccb.org/resources/2027
+ cal.pdf Communities: African American Minnesota\, American culture\, Colo
+ mbian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota\, European Ameri
+ can Minnesota\, Filipino Minnesota\, French-speaking Minnesota\, Guatemal
+ an Minnesota\, Karen Minnesota\, Kenyan Minnesota\, Korean Minnesota\, La
+ tino Minnesota\, Lebanese Minnesota\, Liberian Minnesota\, Mexican Minnes
+ ota\, Minnesota culture\, Nigerian Minnesota\, Puerto Rican Minnesota\, S
+ alvadoran Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2049,6 +2286,21 @@ DESCRIPTION:Resurrection of Jesus in Eastern Christian tradition. Date: F
  ing Minnesota\, Bosnian Minnesota\, Lebanese Minnesota\, Russian-speaking
   Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cinco-de-mayo-2027-05-05@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Cinco de Mayo
+DESCRIPTION:A Mexican military victory in 1862. Sahan Journal notes it ca
+ rries little significance in Mexico itself. Date: May 5. The West Side ce
+ lebration is held on a nearby weekend announced each year by organizers. 
+ Source: Sahan Journal describes the fifth of May holiday https://sahanjou
+ rnal.com/arts-culture/cinco-de-mayo-saint-paul-west-side-parade/ Communit
+ ies: Mexican Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2172,10 +2424,10 @@ DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
 SUMMARY:George Floyd remembrance
 DESCRIPTION:The May 25\, 2020 murder of George Floyd in Minneapolis. Date
- : May 25. Source: U.S. Department of Justice\, Office of the Inspector Ge
- neral\, Report 24-085\, review of the response to protest activity https:
- //oig.justice.gov/sites/default/files/reports/24-085.pdf Communities: Afr
- ican American Minnesota\, Minnesota culture
+ : May 25\; related events are announced each year. Source: FOX 9 states M
+ ay 25\, 2020\; fixed anniversary https://www.fox9.com/news/george-floyd-d
+ ay-remembrance-events-may-2026 Communities: African American Minnesota\, 
+ Minnesota culture
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2220,16 +2472,29 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:duluth-day-of-remembrance-2027-06-15@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Duluth Day of Remembrance
+DESCRIPTION:The 1920 lynchings in Duluth. Date: June 15\, with events set
+  each year by the memorial group. Source: Fixed anniversary\, MNopedia ht
+ tps://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings Communiti
+ es: African American Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:juneteenth-2027-06-19@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
 SUMMARY:Juneteenth
-DESCRIPTION:June 19\, 1865\, when enslaved people in Galveston\, Texas\, 
- were told of their freedom. Date: June 19. Source: Minnesota Revisor of S
- tatutes\, Minn. Stat. 645.44 subd. 5 (Holiday definition) https://www.rev
- isor.mn.gov/statutes/cite/645.44 Communities: African American Minnesota\
- , American culture\, Minnesota culture
+DESCRIPTION:June 19\, 1865\, when the last enslaved people in Texas were 
+ told they were free\, as the county states it. Date: June 19. Source: Fix
+ ed date\; Ramsey County states the June 19\, 1865 anniversary https://www
+ .ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county Communities
+ : African American Minnesota\, American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2314,7 +2579,7 @@ DESCRIPTION:The 1810 declaration in Bogotá. Date: July 20. Source: El Ti
  empo (Colombia)\, Por qué el festivo del 20 de julio no se mueve al lune
  s https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-
  mueve-al-lunes-y-que-es-la-ley-emiliani-3364069 Communities: Colombian Mi
- nnesota\, Latino Minnesota
+ nnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2354,7 +2619,7 @@ DESCRIPTION:The 1809 Quito uprising. Date: August 10. Source: Superintend
  encia de Bancos del Ecuador\, Circular SB-IG-2026-0023-C\, Feriado Nacion
  al del 10 de agosto https://asobanca.org.ec/wp-content/uploads/2026/08/SB
  -IG-2026-0023-C-Feriado-10-de-agosto.pdf Communities: Ecuadorian Minnesot
- a\, Latino Minnesota
+ a
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2465,8 +2730,8 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
  Communities: Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota
- \, Guatemalan Minnesota\, Latino Minnesota\, Mexican Minnesota\, Puerto R
- ican Minnesota\, Salvadoran Minnesota
+ \, Guatemalan Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\, Sal
+ vadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2499,16 +2764,31 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:hispanic-heritage-month-begins-2027-09-15@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20271016
+SUMMARY:Hispanic Heritage Month
+DESCRIPTION:U.S. heritage month\, tied to Central American and Mexican in
+ dependence days. Date: September 15 to October 15. Source: U.S. Census Bu
+ reau\, National Hispanic Heritage Month: 2026 https://www.census.gov/news
+ room/facts-for-features/2026/hispanic-heritage-month.html Communities: Me
+ xican Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mexican-independence-day-2027-09-16@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 SUMMARY:Mexican Independence Day
-DESCRIPTION:Start of the 1810 war of independence. Date: September 16. So
- urce: Gobierno de México\, PROFEDET\, Días de Descanso Obligatorio 2026
-  (Ley Federal del Trabajo art. 74) https://www.gob.mx/profedet/articulos/
- sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026 Communit
- ies: Latino Minnesota\, Mexican Minnesota
+DESCRIPTION:Start of the 1810 war of independence. Date: September 16. Co
+ mmunity events may fall on nearby days. Source: Gobierno de México\, PRO
+ FEDET\, Días de Descanso Obligatorio 2026 (Ley Federal del Trabajo art. 
+ 74) https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-de
+ scanso-obligatorio-para-este-2026 Communities: Latino Minnesota\, Mexican
+  Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2622,7 +2902,22 @@ DESCRIPTION:Remembrance of the dead (observed November 1 and 2). Date: No
  vember 2. Source: Gobierno de México\, INAFED\, Día de Muertos\, tradic
  ión mexicana que trasciende en el tiempo https://www.gob.mx/inafed/artic
  ulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo Commun
- ities: Guatemalan Minnesota\, Latino Minnesota\, Mexican Minnesota
+ ities: Guatemalan Minnesota\, Latino Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:día-de-los-muertos-2027-11-02@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:Día de los Muertos
+DESCRIPTION:Remembrance of the dead. Date: November 1 and 2 by custom\; U
+ NESCO gives only the end of October to the beginning of November. Minneso
+ ta events fall on nearby days announced by organizers. Source: Gobierno d
+ e México\, INAFED\, Día de Muertos\, tradición mexicana que trasciende
+  en el tiempo https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicio
+ n-mexicana-que-trasciende-en-el-tiempo Communities: Mexican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2742,10 +3037,12 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271212
 DTEND;VALUE=DATE:20271213
 SUMMARY:Día de la Virgen de Guadalupe
-DESCRIPTION:Feast of Our Lady of Guadalupe. Date: December 12. Source: Un
- ited States Conference of Catholic Bishops\, Liturgical Calendar for the 
- Dioceses of the USA 2027 https://www.usccb.org/resources/2027cal.pdf Comm
- unities: Latino Minnesota\, Mexican Minnesota
+DESCRIPTION:Feast of Our Lady of Guadalupe\, tied to the reported appeara
+ nce of the Virgin Mary to a Mexican peasant nearly five centuries ago. Da
+ te: December 12. Some parishes begin the evening before. Source: The Cath
+ olic Spirit: decree read on the feast day\, December 12 https://thecathol
+ icspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-
+ lady-of-guadalupe/ Communities: Latino Minnesota\, Mexican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2772,7 +3069,21 @@ DESCRIPTION:Nine nights (December 16 to 24) re-enacting Mary and Joseph's
   search for shelter. Date: December 16. Source: Secretaría de Cultura de
   México\, Sistema de Información Cultural\, Fiesta de Posadas https://s
  ic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Communities: Gu
- atemalan Minnesota\, Latino Minnesota\, Mexican Minnesota
+ atemalan Minnesota\, Latino Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:las-posadas-first-night-2027-12-16@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271225
+SUMMARY:Las Posadas (first night)
+DESCRIPTION:Mary and Joseph's search for shelter. Date: December 16 to 24
+ \; the existing page says mid-December in some communities. Source: Secre
+ taría de Cultura de México\, Sistema de Información Cultural\, Fiesta 
+ de Posadas https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id
+ =115 Communities: Mexican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2782,15 +3093,15 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 SUMMARY:Christmas
-DESCRIPTION:Birth of Jesus (Gregorian calendar). Date: December 25. Sourc
- e: Minnesota Revisor of Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday de
- finition) https://www.revisor.mn.gov/statutes/cite/645.44 Communities: Af
- rican American Minnesota\, American culture\, Colombian Minnesota\, Cuban
-  Minnesota\, Ecuadorian Minnesota\, European American Minnesota\, Filipin
- o Minnesota\, French-speaking Minnesota\, Guatemalan Minnesota\, Karen Mi
- nnesota\, Kenyan Minnesota\, Korean Minnesota\, Latino Minnesota\, Lebane
- se Minnesota\, Liberian Minnesota\, Mexican Minnesota\, Minnesota culture
- \, Nigerian Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+DESCRIPTION:Birth of Jesus. Date: December 25. Source: Minnesota Revisor 
+ of Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday definition) https://www
+ .revisor.mn.gov/statutes/cite/645.44 Communities: African American Minnes
+ ota\, American culture\, Colombian Minnesota\, Cuban Minnesota\, Ecuadori
+ an Minnesota\, European American Minnesota\, Filipino Minnesota\, French-
+ speaking Minnesota\, Guatemalan Minnesota\, Karen Minnesota\, Kenyan Minn
+ esota\, Korean Minnesota\, Latino Minnesota\, Lebanese Minnesota\, Liberi
+ an Minnesota\, Mexican Minnesota\, Minnesota culture\, Nigerian Minnesota
+ \, Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2800,11 +3111,10 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271226
 DTEND;VALUE=DATE:20271227
 SUMMARY:Kwanzaa (first day)
-DESCRIPTION:First of seven days (December 26 to January 1) honoring Afric
- an heritage\, created in 1966. Date: December 26. Source: California Stat
- e University\, Long Beach\, Everything You Need to Know About Kwanzaa htt
- ps://www.csulb.edu/news/the-media/article/everything-you-need-to-know-abo
- ut-kwanzaa Communities: African American Minnesota
+DESCRIPTION:First of seven days honoring African heritage\, each with a p
+ rinciple such as Umoja\, unity. Date: December 26. Source: Fixed date\; C
+ ultural Wellness Center's 2025 observance began Dec. 26 https://www.cultu
+ ralwellnesscenter.org/ Communities: African American Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2814,11 +3124,11 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 SUMMARY:Watch Night
-DESCRIPTION:New Year's Eve church vigil\, remembering the 1862 vigil befo
- re the Emancipation Proclamation took effect. Date: December 31. Source: 
- National Park Service\, Freedom's Eve: Awaiting the Passage of the Emanci
- pation Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Co
- mmunities: African American Minnesota\, Liberian Minnesota
+DESCRIPTION:New Year's Eve vigil\, remembering the 1862 vigil before the 
+ Emancipation Proclamation took effect. Date: December 31. Source: Nationa
+ l Park Service\, Freedom's Eve: Awaiting the Passage of the Emancipation 
+ Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Communiti
+ es: African American Minnesota\, Liberian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2946,6 +3256,20 @@ DESCRIPTION:Life and work of Dr. Martin Luther King Jr. Date: Third Monda
   Communities: African American Minnesota\, American culture\, Minnesota c
  ulture
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feast-of-san-pablo-2028-01-25@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:Feast of San Pablo
+DESCRIPTION:The conversion of St. Paul\, patron saint of Axochiapan. Date
+ : January 25\, with Minneapolis festivities around that date. Local dates
+  are set each year. Source: Diario Las Américas gives Jan. 25 as the fea
+ st https://www.diariolasamericas.com/eeuu/mexicanos-minneapolis-mantienen
+ -vivas-sus-tradiciones-n4192355 Communities: Mexican Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3190,16 +3514,15 @@ DTEND;VALUE=DATE:20280417
 SUMMARY:Easter
 DESCRIPTION:Resurrection of Jesus in Western Christian tradition. Date: F
  irst Sunday after the first ecclesiastical full moon on or after March 21
-  (Gregorian). Source: Diocese of Rapid City\, Liturgical Calendar 2026 to
-  2028 https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgi
- cal-Calendar-2026-to-2028_1540859795023570813.pdf Communities: African Am
- erican Minnesota\, American culture\, Colombian Minnesota\, Cuban Minneso
- ta\, Ecuadorian Minnesota\, European American Minnesota\, Filipino Minnes
- ota\, French-speaking Minnesota\, Guatemalan Minnesota\, Karen Minnesota\
- , Kenyan Minnesota\, Korean Minnesota\, Latino Minnesota\, Lebanese Minne
- sota\, Liberian Minnesota\, Mexican Minnesota\, Minnesota culture\, Niger
- ian Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota\, Ukrainian
-  Minnesota
+ . Source: Diocese of Rapid City\, Liturgical Calendar 2026 to 2028 https:
+ //www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar
+ -2026-to-2028_1540859795023570813.pdf Communities: African American Minne
+ sota\, American culture\, Colombian Minnesota\, Cuban Minnesota\, Ecuador
+ ian Minnesota\, European American Minnesota\, Filipino Minnesota\, French
+ -speaking Minnesota\, Guatemalan Minnesota\, Karen Minnesota\, Kenyan Min
+ nesota\, Korean Minnesota\, Latino Minnesota\, Lebanese Minnesota\, Liber
+ ian Minnesota\, Mexican Minnesota\, Minnesota culture\, Nigerian Minnesot
+ a\, Puerto Rican Minnesota\, Salvadoran Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3244,6 +3567,21 @@ DESCRIPTION:April 30\, 1975\, the end of the Republic of Vietnam\; grief
  1969-1973 https://history.state.gov/milestones/1969-1976/ending-vietnam C
  ommunities: Vietnamese Minnesota
 CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cinco-de-mayo-2028-05-05@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:Cinco de Mayo
+DESCRIPTION:A Mexican military victory in 1862. Sahan Journal notes it ca
+ rries little significance in Mexico itself. Date: May 5. The West Side ce
+ lebration is held on a nearby weekend announced each year by organizers. 
+ Source: Sahan Journal describes the fifth of May holiday https://sahanjou
+ rnal.com/arts-culture/cinco-de-mayo-saint-paul-west-side-parade/ Communit
+ ies: Mexican Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3351,10 +3689,10 @@ DTSTART;VALUE=DATE:20280525
 DTEND;VALUE=DATE:20280526
 SUMMARY:George Floyd remembrance
 DESCRIPTION:The May 25\, 2020 murder of George Floyd in Minneapolis. Date
- : May 25. Source: U.S. Department of Justice\, Office of the Inspector Ge
- neral\, Report 24-085\, review of the response to protest activity https:
- //oig.justice.gov/sites/default/files/reports/24-085.pdf Communities: Afr
- ican American Minnesota\, Minnesota culture
+ : May 25\; related events are announced each year. Source: FOX 9 states M
+ ay 25\, 2020\; fixed anniversary https://www.fox9.com/news/george-floyd-d
+ ay-remembrance-events-may-2026 Communities: African American Minnesota\, 
+ Minnesota culture
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3399,16 +3737,29 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:duluth-day-of-remembrance-2028-06-15@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Duluth Day of Remembrance
+DESCRIPTION:The 1920 lynchings in Duluth. Date: June 15\, with events set
+  each year by the memorial group. Source: Fixed anniversary\, MNopedia ht
+ tps://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings Communiti
+ es: African American Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:juneteenth-2028-06-19@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280619
 DTEND;VALUE=DATE:20280620
 SUMMARY:Juneteenth
-DESCRIPTION:June 19\, 1865\, when enslaved people in Galveston\, Texas\, 
- were told of their freedom. Date: June 19. Source: Minnesota Revisor of S
- tatutes\, Minn. Stat. 645.44 subd. 5 (Holiday definition) https://www.rev
- isor.mn.gov/statutes/cite/645.44 Communities: African American Minnesota\
- , American culture\, Minnesota culture
+DESCRIPTION:June 19\, 1865\, when the last enslaved people in Texas were 
+ told they were free\, as the county states it. Date: June 19. Source: Fix
+ ed date\; Ramsey County states the June 19\, 1865 anniversary https://www
+ .ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county Communities
+ : African American Minnesota\, American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3477,7 +3828,7 @@ DESCRIPTION:The 1810 declaration in Bogotá. Date: July 20. Source: El Ti
  empo (Colombia)\, Por qué el festivo del 20 de julio no se mueve al lune
  s https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-
  mueve-al-lunes-y-que-es-la-ley-emiliani-3364069 Communities: Colombian Mi
- nnesota\, Latino Minnesota
+ nnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3517,7 +3868,7 @@ DESCRIPTION:The 1809 Quito uprising. Date: August 10. Source: Superintend
  encia de Bancos del Ecuador\, Circular SB-IG-2026-0023-C\, Feriado Nacion
  al del 10 de agosto https://asobanca.org.ec/wp-content/uploads/2026/08/SB
  -IG-2026-0023-C-Feriado-10-de-agosto.pdf Communities: Ecuadorian Minnesot
- a\, Latino Minnesota
+ a
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3614,8 +3965,8 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
  Communities: Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota
- \, Guatemalan Minnesota\, Latino Minnesota\, Mexican Minnesota\, Puerto R
- ican Minnesota\, Salvadoran Minnesota
+ \, Guatemalan Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\, Sal
+ vadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3634,16 +3985,31 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:hispanic-heritage-month-begins-2028-09-15@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20281016
+SUMMARY:Hispanic Heritage Month
+DESCRIPTION:U.S. heritage month\, tied to Central American and Mexican in
+ dependence days. Date: September 15 to October 15. Source: U.S. Census Bu
+ reau\, National Hispanic Heritage Month: 2026 https://www.census.gov/news
+ room/facts-for-features/2026/hispanic-heritage-month.html Communities: Me
+ xican Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mexican-independence-day-2028-09-16@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280916
 DTEND;VALUE=DATE:20280917
 SUMMARY:Mexican Independence Day
-DESCRIPTION:Start of the 1810 war of independence. Date: September 16. So
- urce: Gobierno de México\, PROFEDET\, Días de Descanso Obligatorio 2026
-  (Ley Federal del Trabajo art. 74) https://www.gob.mx/profedet/articulos/
- sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026 Communit
- ies: Latino Minnesota\, Mexican Minnesota
+DESCRIPTION:Start of the 1810 war of independence. Date: September 16. Co
+ mmunity events may fall on nearby days. Source: Gobierno de México\, PRO
+ FEDET\, Días de Descanso Obligatorio 2026 (Ley Federal del Trabajo art. 
+ 74) https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-de
+ scanso-obligatorio-para-este-2026 Communities: Latino Minnesota\, Mexican
+  Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3769,7 +4135,22 @@ DESCRIPTION:Remembrance of the dead (observed November 1 and 2). Date: No
  vember 2. Source: Gobierno de México\, INAFED\, Día de Muertos\, tradic
  ión mexicana que trasciende en el tiempo https://www.gob.mx/inafed/artic
  ulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo Commun
- ities: Guatemalan Minnesota\, Latino Minnesota\, Mexican Minnesota
+ ities: Guatemalan Minnesota\, Latino Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:día-de-los-muertos-2028-11-02@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+SUMMARY:Día de los Muertos
+DESCRIPTION:Remembrance of the dead. Date: November 1 and 2 by custom\; U
+ NESCO gives only the end of October to the beginning of November. Minneso
+ ta events fall on nearby days announced by organizers. Source: Gobierno d
+ e México\, INAFED\, Día de Muertos\, tradición mexicana que trasciende
+  en el tiempo https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicio
+ n-mexicana-que-trasciende-en-el-tiempo Communities: Mexican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3874,10 +4255,12 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20281212
 DTEND;VALUE=DATE:20281213
 SUMMARY:Día de la Virgen de Guadalupe
-DESCRIPTION:Feast of Our Lady of Guadalupe. Date: December 12. Source: Un
- ited States Conference of Catholic Bishops\, Liturgical Calendar for the 
- Dioceses of the USA 2027 https://www.usccb.org/resources/2027cal.pdf Comm
- unities: Latino Minnesota\, Mexican Minnesota
+DESCRIPTION:Feast of Our Lady of Guadalupe\, tied to the reported appeara
+ nce of the Virgin Mary to a Mexican peasant nearly five centuries ago. Da
+ te: December 12. Some parishes begin the evening before. Source: The Cath
+ olic Spirit: decree read on the feast day\, December 12 https://thecathol
+ icspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-
+ lady-of-guadalupe/ Communities: Latino Minnesota\, Mexican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3904,7 +4287,21 @@ DESCRIPTION:Nine nights (December 16 to 24) re-enacting Mary and Joseph's
   search for shelter. Date: December 16. Source: Secretaría de Cultura de
   México\, Sistema de Información Cultural\, Fiesta de Posadas https://s
  ic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Communities: Gu
- atemalan Minnesota\, Latino Minnesota\, Mexican Minnesota
+ atemalan Minnesota\, Latino Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:las-posadas-first-night-2028-12-16@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20281216
+DTEND;VALUE=DATE:20281225
+SUMMARY:Las Posadas (first night)
+DESCRIPTION:Mary and Joseph's search for shelter. Date: December 16 to 24
+ \; the existing page says mid-December in some communities. Source: Secre
+ taría de Cultura de México\, Sistema de Información Cultural\, Fiesta 
+ de Posadas https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id
+ =115 Communities: Mexican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3914,15 +4311,15 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20281225
 DTEND;VALUE=DATE:20281226
 SUMMARY:Christmas
-DESCRIPTION:Birth of Jesus (Gregorian calendar). Date: December 25. Sourc
- e: Minnesota Revisor of Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday de
- finition) https://www.revisor.mn.gov/statutes/cite/645.44 Communities: Af
- rican American Minnesota\, American culture\, Colombian Minnesota\, Cuban
-  Minnesota\, Ecuadorian Minnesota\, European American Minnesota\, Filipin
- o Minnesota\, French-speaking Minnesota\, Guatemalan Minnesota\, Karen Mi
- nnesota\, Kenyan Minnesota\, Korean Minnesota\, Latino Minnesota\, Lebane
- se Minnesota\, Liberian Minnesota\, Mexican Minnesota\, Minnesota culture
- \, Nigerian Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+DESCRIPTION:Birth of Jesus. Date: December 25. Source: Minnesota Revisor 
+ of Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday definition) https://www
+ .revisor.mn.gov/statutes/cite/645.44 Communities: African American Minnes
+ ota\, American culture\, Colombian Minnesota\, Cuban Minnesota\, Ecuadori
+ an Minnesota\, European American Minnesota\, Filipino Minnesota\, French-
+ speaking Minnesota\, Guatemalan Minnesota\, Karen Minnesota\, Kenyan Minn
+ esota\, Korean Minnesota\, Latino Minnesota\, Lebanese Minnesota\, Liberi
+ an Minnesota\, Mexican Minnesota\, Minnesota culture\, Nigerian Minnesota
+ \, Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3932,11 +4329,10 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20281226
 DTEND;VALUE=DATE:20281227
 SUMMARY:Kwanzaa (first day)
-DESCRIPTION:First of seven days (December 26 to January 1) honoring Afric
- an heritage\, created in 1966. Date: December 26. Source: California Stat
- e University\, Long Beach\, Everything You Need to Know About Kwanzaa htt
- ps://www.csulb.edu/news/the-media/article/everything-you-need-to-know-abo
- ut-kwanzaa Communities: African American Minnesota
+DESCRIPTION:First of seven days honoring African heritage\, each with a p
+ rinciple such as Umoja\, unity. Date: December 26. Source: Fixed date\; C
+ ultural Wellness Center's 2025 observance began Dec. 26 https://www.cultu
+ ralwellnesscenter.org/ Communities: African American Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3946,11 +4342,11 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20281231
 DTEND;VALUE=DATE:20290101
 SUMMARY:Watch Night
-DESCRIPTION:New Year's Eve church vigil\, remembering the 1862 vigil befo
- re the Emancipation Proclamation took effect. Date: December 31. Source: 
- National Park Service\, Freedom's Eve: Awaiting the Passage of the Emanci
- pation Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Co
- mmunities: African American Minnesota\, Liberian Minnesota
+DESCRIPTION:New Year's Eve vigil\, remembering the 1862 vigil before the 
+ Emancipation Proclamation took effect. Date: December 31. Source: Nationa
+ l Park Service\, Freedom's Eve: Awaiting the Passage of the Emancipation 
+ Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Communiti
+ es: African American Minnesota\, Liberian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT

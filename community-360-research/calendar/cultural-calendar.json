@@ -3,13 +3,11 @@
  "note": "One entry per observance per community. A date marked verified has an opened source stating it; other dates are projections.",
  "entries": [
   {
-   "id": "african-american--start-of-ramadan",
-   "observanceKey": "start-of-ramadan",
-   "name": "Start of Ramadan",
+   "id": "african-american--juneteenth",
+   "observanceKey": "juneteenth",
+   "name": "Juneteenth",
    "alsoKnownAs": [
-    "Ramadan",
-    "Ramazan",
-    "Soomaan"
+    "Juneteenth National Independence Day"
    ],
    "communities": [
     "african-american"
@@ -22,51 +20,134 @@
     }
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
-   "kind": "religious",
-   "capsule": "Start of the month of daytime fasting.",
-   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+   "kind": "national",
+   "capsule": "Marks news of freedom reaching enslaved people in Texas, now a week of events across Minnesota.",
+   "dateRule": "June 19.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-02-18",
+     "date": "2026-06-19",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Ramsey County press release; Spokesman-Recorder guide",
+     "sourceUrl": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-02-08",
+     "date": "2027-06-19",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Fixed date; Ramsey County states the June 19, 1865 anniversary",
+     "sourceUrl": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-01-28",
+     "date": "2028-06-19",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Fixed date; Ramsey County states the June 19, 1865 anniversary",
+     "sourceUrl": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "verified": true
     }
    ],
-   "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Start of the month of daytime fasting.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "dateCertainty": "fixed",
+   "whatItMarks": "June 19, 1865, when the last enslaved people in Texas were told they were free, as the county states it.",
+   "howCelebratedInMinnesota": "Statewide in 2026: about 40 events listed, including Northside and Southside festivals in Minneapolis, Rondo and Capitol celebrations in St. Paul, and events in St. Cloud, Winona, Marshall, Mankato, Virginia, Moorhead and Rochester.",
+   "minnesotaEvents": [
+    {
+     "name": "Soul of the Southside Festival",
+     "place": "Lake St. and Minnehaha Ave., Minneapolis",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026, noon to 8 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Juneteenth Jamboree",
+     "place": "West Broadway Ave. N., Minneapolis",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026, 11 a.m. to 7 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Northside Juneteenth BBQ, Family Swim and Block Party",
+     "place": "Webber Natural Pool, Minneapolis",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 14, 2026, 11 a.m. to 3 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Rondo's Sixth Annual Juneteenth Celebration",
+     "place": "315 Fisk St., St. Paul",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Juneteenth 2026: The Reckoning",
+     "place": "Minnesota State Capitol, St. Paul",
+     "link": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "organizerDates": "June 19, 2026, noon to 6 p.m., The Anika Foundation",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Kumbayah: The Juneteenth Story",
+     "place": "The O'Shaughnessy, St. Catherine University",
+     "link": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "organizerDates": "June 26, 2026, 2 to 4:30 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "St. Cloud's Annual Juneteenth Celebration",
+     "place": "Lake George Park, St. Cloud",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026, noon to 7 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Iron Range Juneteenth Celebration",
+     "place": "500 Block Chestnut St., Virginia",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026, 11 a.m. to 3 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Juneteenth Jubilee Breakfast",
+     "place": "Empire Event Center, Rochester",
+     "link": "https://www.fox9.com/news/minnesota-juneteenth-2026-celebrations-commemorate-161st-anniversary",
+     "organizerDates": "2026; date not given",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Black Lives Matter Minnesota Juneteenth brunch",
+     "place": "Venue not named",
+     "link": "https://spokesman-recorder.com/2026/06/22/blm-minnesota-juneteenth-brunch-2026/",
+     "organizerDates": "June 19, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Your Guide to Juneteenth 2026 Events Across Minnesota, Spokesman-Recorder",
+     "url": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Celebrating Juneteenth in Ramsey County",
+     "url": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "FOX 9, Juneteenth 2026",
+     "url": "https://www.fox9.com/news/minnesota-juneteenth-2026-celebrations-commemorate-161st-anniversary",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
-   "id": "african-american--eid-alfitr",
-   "observanceKey": "eid-alfitr",
-   "name": "Eid al-Fitr",
-   "alsoKnownAs": [
-    "Ciid Yare",
-    "Ramazanski Bajram",
-    "Id el Fitr"
-   ],
+   "id": "african-american--rondo-days",
+   "observanceKey": "rondo-days",
+   "name": "Rondo Days",
+   "alsoKnownAs": [],
    "communities": [
     "african-american"
    ],
@@ -78,50 +159,148 @@
     }
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
-   "kind": "religious",
-   "capsule": "End of Ramadan.",
-   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+   "kind": "community festival",
+   "capsule": "St. Paul festival honoring Rondo, the Black neighborhood cut in half by Interstate 94.",
+   "dateRule": "Usually the third Saturday of July in St. Paul, as organizers set it each year.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-03-20",
+     "date": "2026-07-18",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
-     "sourceUrl": null,
-     "verified": false
+     "source": "MPR News, July 15, 2026, says 'Saturday' that weekend, which is July 18",
+     "sourceUrl": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+     "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-03-09",
+     "date": "2027-07-17",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Calculated from the usual pattern; organizers confirm each year",
      "sourceUrl": null,
      "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-02-26",
+     "date": "2028-07-15",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Calculated from the usual pattern; organizers confirm each year",
      "sourceUrl": null,
      "verified": false
     }
    ],
-   "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "End of Ramadan.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The Rondo neighborhood and its families, displaced by I-94 construction from 1956 to 1968. First held in July 1983.",
+   "howCelebratedInMinnesota": "In 2026: Martin Luther King Jr. Recreation Center, St. Paul, noon to 7 p.m., with live music, more than 18 food trucks, 30-plus vendors, a youth zone and a morning seniors brunch. The festival was not held from 2020 through 2023 and later returned after a five-year gap.",
+   "minnesotaEvents": [
+    {
+     "name": "Rondo Days 2026",
+     "place": "Martin Luther King Jr. Recreation Center, St. Paul",
+     "link": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+     "organizerDates": "Saturday, July 18, 2026, noon to 7 p.m.; organizers Merina Neal and Gayle Smaller",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "MPR News, Rondo Days returns",
+     "url": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MNopedia, Rondo Neighborhood",
+     "url": "https://www.mnhs.org/mnopedia/search/index/place/rondo-neighborhood-st-paul",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "WCCO, June 1, 2023",
+     "url": "https://www.cbsnews.com/minnesota/news/st-pauls-rondo-days-canceled-for-fourth-straight-year",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "KSTP, undated",
+     "url": "https://kstp.com/?p=3282241",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
-   "id": "african-american--eid-aladha",
-   "observanceKey": "eid-aladha",
-   "name": "Eid al-Adha",
+   "id": "african-american--martin-luther-king-jr-day",
+   "observanceKey": "martin-luther-king-jr-day",
+   "name": "Martin Luther King Jr. Day",
+   "alsoKnownAs": [],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "national",
+   "capsule": "Federal holiday for Dr. King's life and work, marked with marches and elder gatherings in Minnesota.",
+   "dateRule": "Third Monday in January.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-19",
+     "endDate": null,
+     "source": "Clayton Jackson McGhie Memorial lists Monday, Jan. 19, 2026",
+     "sourceUrl": "https://claytonjacksonmcghie.org/news",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-18",
+     "endDate": null,
+     "source": "U.S. Office of Personnel Management, Federal Holidays",
+     "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-17",
+     "endDate": null,
+     "source": "U.S. Office of Personnel Management, Federal Holidays",
+     "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Life and work of Dr. Martin Luther King Jr.",
+   "howCelebratedInMinnesota": "Duluth held a gathering, march and rally on Jan. 19, 2026. Hallie Q. Brown in St. Paul has held an MLK weekend Elder's Brunch (2025). I could not open a current page for a Twin Cities holiday breakfast.",
+   "minnesotaEvents": [
+    {
+     "name": "Duluth MLK gathering, march and rally",
+     "place": "Duluth",
+     "link": "https://claytonjacksonmcghie.org/news",
+     "organizerDates": "Jan. 19, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Clayton Jackson McGhie Memorial news",
+     "url": "https://claytonjacksonmcghie.org/news",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Hallie Q. Brown Community Center",
+     "url": "https://www.hallieqbrown.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--george-floyd-remembrance",
+   "observanceKey": "george-floyd-remembrance",
+   "name": "George Floyd remembrance",
    "alsoKnownAs": [
-    "Ciid Weyn",
-    "Kurban Bajram",
-    "Id el Kabir"
+    "Rise and Remember Festival"
    ],
    "communities": [
     "african-american"
@@ -134,37 +313,331 @@
     }
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
-   "kind": "religious",
-   "capsule": "Festival of sacrifice, during the Hajj season.",
-   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+   "kind": "remembrance",
+   "capsule": "Remembers George Floyd, killed May 25, 2020, at 38th Street and Chicago Avenue in Minneapolis.",
+   "dateRule": "May 25; related events are announced each year.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-05-27",
+     "date": "2026-05-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
-     "sourceUrl": null,
-     "verified": false
+     "source": "FOX 9 states May 25, 2020; fixed anniversary",
+     "sourceUrl": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-05-16",
+     "date": "2027-05-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-     "sourceUrl": null,
-     "verified": false
+     "source": "FOX 9 states May 25, 2020; fixed anniversary",
+     "sourceUrl": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-05-05",
+     "date": "2028-05-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-     "sourceUrl": null,
-     "verified": false
+     "source": "FOX 9 states May 25, 2020; fixed anniversary",
+     "sourceUrl": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "verified": true
     }
    ],
-   "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+   "dateCertainty": "fixed",
+   "whatItMarks": "The May 25, 2020 murder of George Floyd in Minneapolis.",
+   "howCelebratedInMinnesota": "At George Floyd Square, 38th and Chicago. In 2026 this included the sixth Rise and Remember Festival and a brunch and yellow flower ceremony led by Win Back.",
+   "minnesotaEvents": [
+    {
+     "name": "Rise and Remember Festival",
+     "place": "George Floyd Square, Minneapolis",
+     "link": "https://www.georgefloydglobalmemorial.org/news/",
+     "organizerDates": "May 23 to 25, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Day of Remembrance Brunch and yellow flower ceremony",
+     "place": "Downtown Minneapolis and George Floyd Square",
+     "link": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "organizerDates": "May 22, 2026, Win Back",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "George Floyd Global Memorial news",
+     "url": "https://www.georgefloydglobalmemorial.org/news/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "FOX 9, May 2026",
+     "url": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--duluth-day-of-remembrance",
+   "observanceKey": "duluth-day-of-remembrance",
+   "name": "Duluth Day of Remembrance",
+   "alsoKnownAs": [
+    "Clayton Jackson McGhie remembrance"
+   ],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "remembrance",
+   "capsule": "Honors Elias Clayton, Elmer Jackson and Isaac McGhie, lynched in Duluth on June 15, 1920.",
+   "dateRule": "June 15, with events set each year by the memorial group.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-14",
+     "endDate": "2026-06-15",
+     "source": "Clayton Jackson McGhie Memorial",
+     "sourceUrl": "https://claytonjacksonmcghie.org/news",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-15",
+     "endDate": null,
+     "source": "Fixed anniversary, MNopedia",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-15",
+     "endDate": null,
+     "source": "Fixed anniversary, MNopedia",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The 1920 lynchings in Duluth.",
+   "howCelebratedInMinnesota": "Gravesite memorial at Park Hill Cemetery in 2026, along with programs by the Clayton Jackson McGhie Memorial, including a Gospel Brunch and Elders' Luncheon posted that June.",
+   "minnesotaEvents": [
+    {
+     "name": "Gravesite Memorial",
+     "place": "Park Hill Cemetery, 2500 Vermilion Rd., Duluth",
+     "link": "https://claytonjacksonmcghie.org/news",
+     "organizerDates": "June 14, 2026, 5:30 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Juneteenth in Duluth",
+     "place": "Duluth",
+     "link": "https://claytonjacksonmcghie.org/news",
+     "organizerDates": "Posted June 18, 2026; date and place not shown",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Clayton Jackson McGhie Memorial news",
+     "url": "https://claytonjacksonmcghie.org/news",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MNopedia, Duluth Lynchings",
+     "url": "https://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--kwanzaa-first-day",
+   "observanceKey": "kwanzaa-first-day",
+   "name": "Kwanzaa (first day)",
+   "alsoKnownAs": [
+    "Kwanzaa"
+   ],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "heritage",
+   "capsule": "First of seven days, December 26 to January 1, honoring African heritage and community.",
+   "dateRule": "December 26.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-26",
+     "endDate": null,
+     "source": "Fixed date; Cultural Wellness Center's 2025 observance began Dec. 26",
+     "sourceUrl": "https://www.culturalwellnesscenter.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-26",
+     "endDate": null,
+     "source": "Fixed date; Cultural Wellness Center's 2025 observance began Dec. 26",
+     "sourceUrl": "https://www.culturalwellnesscenter.org/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-26",
+     "endDate": null,
+     "source": "Fixed date; Cultural Wellness Center's 2025 observance began Dec. 26",
+     "sourceUrl": "https://www.culturalwellnesscenter.org/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "First of seven days honoring African heritage, each with a principle such as Umoja, unity.",
+   "howCelebratedInMinnesota": "The Cultural Wellness Center has held free daytime gatherings at Midtown Global Market with drumming, dance, stories and food, including in 2022, 2023 and 2025.",
+   "minnesotaEvents": [
+    {
+     "name": "Pan-African Kwanzaa Remembering",
+     "place": "Midtown Global Market, Minneapolis",
+     "link": "https://www.culturalwellnesscenter.org/",
+     "organizerDates": "Dec. 26 to 31, 2025, noon to 3 p.m.; 2026 dates not found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cultural Wellness Center",
+     "url": "https://www.culturalwellnesscenter.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR News, Dec. 28, 2023",
+     "url": "https://www.mprnews.org/story/2023/12/29/unity-and-heritage-kwanzaa-in-minnesota",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "FOX 9, Dec. 27, 2022",
+     "url": "https://www.fox9.com/news/kwanzaa-celebrations-continue-in-minneapolis",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--black-history-month-begins",
+   "observanceKey": "black-history-month-begins",
+   "name": "Black History Month (begins)",
+   "alsoKnownAs": [],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "heritage",
+   "capsule": "A month of Black history programs across Twin Cities museums, theaters, libraries and community centers.",
+   "dateRule": "February 1.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-01",
+     "endDate": null,
+     "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
+     "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-01",
+     "endDate": null,
+     "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
+     "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-01",
+     "endDate": null,
+     "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
+     "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Month of Black history, February.",
+   "howCelebratedInMinnesota": "The Spokesman-Recorder has published weekly event lists. Its February 2024 list included events at Sabathani, the Minnesota African American museum, the Capri Theater and North Regional Library. I did not open a 2026 list.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Spokesman-Recorder, Feb. 16, 2024",
+     "url": "https://spokesman-recorder.com/2024/02/16/black-history-month-events-in-the-twin-cities-feb-17-22/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--watch-night",
+   "observanceKey": "watch-night",
+   "name": "Watch Night",
+   "alsoKnownAs": [],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "religious",
+   "capsule": "New Year's Eve church vigil, recalling the 1862 wait for the Emancipation Proclamation.",
+   "dateRule": "December 31.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-31",
+     "endDate": null,
+     "source": "National Park Service, Freedom's Eve: Awaiting the Passage of the Emancipation Proclamation",
+     "sourceUrl": "https://home.nps.gov/articles/000/freedoms-eve.htm",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-31",
+     "endDate": null,
+     "source": "National Park Service, Freedom's Eve: Awaiting the Passage of the Emancipation Proclamation",
+     "sourceUrl": "https://home.nps.gov/articles/000/freedoms-eve.htm",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-31",
+     "endDate": null,
+     "source": "National Park Service, Freedom's Eve: Awaiting the Passage of the Emancipation Proclamation",
+     "sourceUrl": "https://home.nps.gov/articles/000/freedoms-eve.htm",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "New Year's Eve vigil, remembering the 1862 vigil before the Emancipation Proclamation took effect.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -175,9 +648,7 @@
    "observanceKey": "easter",
    "name": "Easter",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "Pascua"
    ],
    "communities": [
     "african-american"
@@ -191,8 +662,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
-   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "capsule": "Resurrection of Jesus, central to the Black church year.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21.",
    "dates": [
     {
      "year": 2026,
@@ -224,17 +695,19 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Pilgrim Baptist history, Spokesman-Recorder (Feb. 22, 2026)",
+     "url": "https://spokesman-recorder.com/2026/02/22/pilgrim-baptist-church-minnesota-history/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "african-american--christmas",
    "observanceKey": "christmas",
    "name": "Christmas",
-   "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
-   ],
+   "alsoKnownAs": [],
    "communities": [
     "african-american"
    ],
@@ -247,7 +720,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
+   "capsule": "Birth of Jesus, marked in Black churches and at Penumbra's Black Nativity.",
    "dateRule": "December 25.",
    "dates": [
     {
@@ -276,122 +749,32 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+   "whatItMarks": "Birth of Jesus.",
    "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "minnesotaEvents": [
+    {
+     "name": "Black Nativity",
+     "place": "Penumbra, 270 N. Kent St., St. Paul",
+     "link": "https://penumbracenter.org/",
+     "organizerDates": "December 1 to 24; page does not state the year",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Penumbra",
+     "url": "https://penumbracenter.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
-   "id": "african-american--kwanzaa-first-day",
-   "observanceKey": "kwanzaa-first-day",
-   "name": "Kwanzaa (first day)",
-   "alsoKnownAs": [],
-   "communities": [
-    "african-american"
-   ],
-   "briefLinks": [
-    {
-     "community": "african-american",
-     "title": "African American Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
-   "kind": "heritage",
-   "capsule": "First of seven days (December 26 to January 1) honoring African heritage, created in 1966.",
-   "dateRule": "December 26.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-12-26",
-     "endDate": null,
-     "source": "California State University, Long Beach, Everything You Need to Know About Kwanzaa",
-     "sourceUrl": "https://www.csulb.edu/news/the-media/article/everything-you-need-to-know-about-kwanzaa",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-12-26",
-     "endDate": null,
-     "source": "California State University, Long Beach, Everything You Need to Know About Kwanzaa",
-     "sourceUrl": "https://www.csulb.edu/news/the-media/article/everything-you-need-to-know-about-kwanzaa",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-12-26",
-     "endDate": null,
-     "source": "California State University, Long Beach, Everything You Need to Know About Kwanzaa",
-     "sourceUrl": "https://www.csulb.edu/news/the-media/article/everything-you-need-to-know-about-kwanzaa",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "First of seven days (December 26 to January 1) honoring African heritage, created in 1966.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "african-american--martin-luther-king-jr-day",
-   "observanceKey": "martin-luther-king-jr-day",
-   "name": "Martin Luther King Jr. Day",
-   "alsoKnownAs": [],
-   "communities": [
-    "african-american"
-   ],
-   "briefLinks": [
-    {
-     "community": "african-american",
-     "title": "African American Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
-   "kind": "national",
-   "capsule": "Life and work of Dr. Martin Luther King Jr.",
-   "dateRule": "Third Monday in January.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-01-19",
-     "endDate": null,
-     "source": "U.S. Office of Personnel Management, Federal Holidays",
-     "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-01-18",
-     "endDate": null,
-     "source": "U.S. Office of Personnel Management, Federal Holidays",
-     "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-01-17",
-     "endDate": null,
-     "source": "U.S. Office of Personnel Management, Federal Holidays",
-     "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Life and work of Dr. Martin Luther King Jr.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "african-american--juneteenth",
-   "observanceKey": "juneteenth",
-   "name": "Juneteenth",
+   "id": "african-american--start-of-ramadan",
+   "observanceKey": "start-of-ramadan",
+   "name": "Start of Ramadan",
    "alsoKnownAs": [
-    "Juneteenth National Independence Day"
+    "Ramadan"
    ],
    "communities": [
     "african-american"
@@ -404,46 +787,57 @@
     }
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
-   "kind": "national",
-   "capsule": "June 19, 1865, when enslaved people in Galveston, Texas, were told of their freedom.",
-   "dateRule": "June 19.",
+   "kind": "religious",
+   "capsule": "Month of daytime fasting, observed by African American Muslims and many other Minnesotans.",
+   "dateRule": "First day of the ninth Islamic month; decided by moon sighting or an adopted calculation.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-06-19",
+     "date": "2026-02-18",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
-     "date": "2027-06-19",
+     "date": "2027-02-08",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-06-19",
+     "date": "2028-01-28",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "June 19, 1865, when enslaved people in Galveston, Texas, were told of their freedom.",
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the month of daytime fasting.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Mpls.St.Paul Magazine, Imam Makram El-Amin profile (Nov. 1, 2021)",
+     "url": "https://mspmag.com/arts-and-culture/imam-makram-el-amin-community-public-safety/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Minneapolis faith traditions summary, City of Minneapolis (Aug. 19, 2025)",
+     "url": "https://www.minneapolismn.gov/media/-www-content-assets/documents/Religion-Houses-of-Worship.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
-   "id": "african-american--watch-night",
-   "observanceKey": "watch-night",
-   "name": "Watch Night",
+   "id": "african-american--eid-alfitr",
+   "observanceKey": "eid-alfitr",
+   "name": "Eid al-Fitr",
    "alsoKnownAs": [],
    "communities": [
     "african-american"
@@ -457,40 +851,114 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
    "kind": "religious",
-   "capsule": "New Year's Eve church vigil, remembering the 1862 vigil before the Emancipation Proclamation took effect.",
-   "dateRule": "December 31.",
+   "capsule": "End of the Ramadan fast, kept by African American Muslims and many other Minnesotans.",
+   "dateRule": "First day of Shawwal; decided by moon sighting or an adopted calculation.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-12-31",
+     "date": "2026-03-20",
      "endDate": null,
-     "source": "National Park Service, Freedom's Eve: Awaiting the Passage of the Emancipation Proclamation",
-     "sourceUrl": "https://home.nps.gov/articles/000/freedoms-eve.htm",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
-     "date": "2027-12-31",
+     "date": "2027-03-09",
      "endDate": null,
-     "source": "National Park Service, Freedom's Eve: Awaiting the Passage of the Emancipation Proclamation",
-     "sourceUrl": "https://home.nps.gov/articles/000/freedoms-eve.htm",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-12-31",
+     "date": "2028-02-26",
      "endDate": null,
-     "source": "National Park Service, Freedom's Eve: Awaiting the Passage of the Emancipation Proclamation",
-     "sourceUrl": "https://home.nps.gov/articles/000/freedoms-eve.htm",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "New Year's Eve church vigil, remembering the 1862 vigil before the Emancipation Proclamation took effect.",
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "End of Ramadan.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Mpls.St.Paul Magazine, Imam Makram El-Amin profile (Nov. 1, 2021)",
+     "url": "https://mspmag.com/arts-and-culture/imam-makram-el-amin-community-public-safety/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Minneapolis faith traditions summary, City of Minneapolis (Aug. 19, 2025)",
+     "url": "https://www.minneapolismn.gov/media/-www-content-assets/documents/Religion-Houses-of-Worship.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--eid-aladha",
+   "observanceKey": "eid-aladha",
+   "name": "Eid al-Adha",
+   "alsoKnownAs": [],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "religious",
+   "capsule": "Festival of sacrifice during Hajj season, kept by African American Muslims and others here.",
+   "dateRule": "Tenth day of Dhu al-Hijjah; decided by moon sighting or an adopted calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Mpls.St.Paul Magazine, Imam Makram El-Amin profile (Nov. 1, 2021)",
+     "url": "https://mspmag.com/arts-and-culture/imam-makram-el-amin-community-public-safety/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Minneapolis faith traditions summary, City of Minneapolis (Aug. 19, 2025)",
+     "url": "https://www.minneapolismn.gov/media/-www-content-assets/documents/Religion-Houses-of-Worship.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "african-american--malcolm-xs-birthday",
@@ -509,7 +977,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
    "kind": "remembrance",
-   "capsule": "Birth of Malcolm X in 1925.",
+   "capsule": "Birthday of Malcolm X, born in 1925.",
    "dateRule": "May 19.",
    "dates": [
     {
@@ -561,7 +1029,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
    "kind": "remembrance",
-   "capsule": "April 4, 1968.",
+   "capsule": "Anniversary of the killing of Dr. King on April 4, 1968.",
    "dateRule": "April 4.",
    "dates": [
     {
@@ -597,58 +1065,6 @@
    "sources": []
   },
   {
-   "id": "african-american--george-floyd-remembrance",
-   "observanceKey": "george-floyd-remembrance",
-   "name": "George Floyd remembrance",
-   "alsoKnownAs": [],
-   "communities": [
-    "african-american"
-   ],
-   "briefLinks": [
-    {
-     "community": "african-american",
-     "title": "African American Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
-   "kind": "remembrance",
-   "capsule": "The May 25, 2020 murder of George Floyd in Minneapolis.",
-   "dateRule": "May 25.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-05-25",
-     "endDate": null,
-     "source": "U.S. Department of Justice, Office of the Inspector General, Report 24-085, review of the response to protest activity",
-     "sourceUrl": "https://oig.justice.gov/sites/default/files/reports/24-085.pdf",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-05-25",
-     "endDate": null,
-     "source": "U.S. Department of Justice, Office of the Inspector General, Report 24-085, review of the response to protest activity",
-     "sourceUrl": "https://oig.justice.gov/sites/default/files/reports/24-085.pdf",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-05-25",
-     "endDate": null,
-     "source": "U.S. Department of Justice, Office of the Inspector General, Report 24-085, review of the response to protest activity",
-     "sourceUrl": "https://oig.justice.gov/sites/default/files/reports/24-085.pdf",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The May 25, 2020 murder of George Floyd in Minneapolis.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
    "id": "african-american--march-on-washington-anniversary",
    "observanceKey": "march-on-washington-anniversary",
    "name": "March on Washington anniversary",
@@ -665,7 +1081,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
    "kind": "remembrance",
-   "capsule": "The August 28, 1963 March on Washington.",
+   "capsule": "Anniversary of the August 28, 1963 March on Washington.",
    "dateRule": "August 28.",
    "dates": [
     {
@@ -701,61 +1117,9 @@
    "sources": []
   },
   {
-   "id": "african-american--black-history-month-begins",
-   "observanceKey": "black-history-month-begins",
-   "name": "Black History Month (begins)",
-   "alsoKnownAs": [],
-   "communities": [
-    "african-american"
-   ],
-   "briefLinks": [
-    {
-     "community": "african-american",
-     "title": "African American Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
-   "kind": "heritage",
-   "capsule": "Month of Black history, February.",
-   "dateRule": "February 1.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-02-01",
-     "endDate": null,
-     "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
-     "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-02-01",
-     "endDate": null,
-     "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
-     "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-02-01",
-     "endDate": null,
-     "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
-     "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Month of Black history, February.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "african-american--rondo-days",
-   "observanceKey": "rondo-days",
-   "name": "Rondo Days",
+   "id": "african-american--black-business-week",
+   "observanceKey": "black-business-week",
+   "name": "Black Business Week",
    "alsoKnownAs": [],
    "communities": [
     "african-american"
@@ -769,40 +1133,317 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
    "kind": "community festival",
-   "capsule": "The Black St. Paul neighborhood of Rondo, divided by Interstate 94.",
-   "dateRule": "Third Saturday of July in St. Paul, as set by the organizers.",
+   "capsule": "Minneapolis week celebrating Black-owned businesses, leading into August's Black Business Month.",
+   "dateRule": "Announced each year by the City of Minneapolis.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-07-18",
-     "endDate": null,
-     "source": "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year",
-     "sourceUrl": null,
-     "verified": false
+     "date": "2026-07-27",
+     "endDate": "2026-08-02",
+     "source": "City of Minneapolis",
+     "sourceUrl": "https://www.minneapolismn.gov/things-to-do/events/2026-events/july/black-business-week/",
+     "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-07-17",
+     "date": null,
      "endDate": null,
-     "source": "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year",
+     "source": "Not announced",
      "sourceUrl": null,
      "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-07-15",
+     "date": null,
      "endDate": null,
-     "source": "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year",
+     "source": "Not announced",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "announced each year",
-   "whatItMarks": "The Black St. Paul neighborhood of Rondo, divided by Interstate 94.",
+   "whatItMarks": "Black-owned businesses and economic recovery.",
+   "howCelebratedInMinnesota": "Summit, workshops and markets across North and South Minneapolis, with a preceding street mall at Capri Plaza on July 25, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Black Business Summit and Market",
+     "place": "The Northside Epicenter, 705 42nd Ave. N.",
+     "link": "https://spokesman-recorder.com/2026/07/23/minneapolis-black-business-week-2026-guide/",
+     "organizerDates": "Aug. 1, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "City of Minneapolis",
+     "url": "https://www.minneapolismn.gov/things-to-do/events/2026-events/july/black-business-week/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "City of Minneapolis news",
+     "url": "https://www.minneapolismn.gov/news/2026/july/bbw-2026/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--best-of-black-business-awards",
+   "observanceKey": "best-of-black-business-awards",
+   "name": "Best of Black Business Awards",
+   "alsoKnownAs": [],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "community festival",
+   "capsule": "Spokesman-Recorder awards celebrating Black-owned businesses chosen by community voting.",
+   "dateRule": "Announced each year by the Spokesman-Recorder.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-07",
+     "endDate": null,
+     "source": "Spokesman-Recorder",
+     "sourceUrl": "https://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-finalists/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Black-owned businesses, in the awards' second year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Second Annual Best of Black Business Awards",
+     "place": "Venue not named",
+     "link": "https://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-finalists/",
+     "organizerDates": "Nov. 7, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Spokesman-Recorder",
+     "url": "https://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-finalists/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--minnesota-black-chamber-of-commerce-gala",
+   "observanceKey": "minnesota-black-chamber-of-commerce-gala",
+   "name": "Minnesota Black Chamber of Commerce Gala",
+   "alsoKnownAs": [],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "community festival",
+   "capsule": "Annual gala of Minnesota's Black chamber, which inducted its first Hall of Fame class in 2026.",
+   "dateRule": "Announced each year by the chamber.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-08",
+     "endDate": null,
+     "source": "Spokesman-Recorder",
+     "sourceUrl": "https://spokesman-recorder.com/2026/08/13/minnesota-black-business-hall-of-fame-inaugural-class/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Black business achievement.",
+   "howCelebratedInMinnesota": "Held at the Saint Paul InterContinental Riverfront in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Gala and Hall of Fame induction",
+     "place": "Saint Paul InterContinental Riverfront",
+     "link": "https://spokesman-recorder.com/2026/08/13/minnesota-black-business-hall-of-fame-inaugural-class/",
+     "organizerDates": "Aug. 8, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Spokesman-Recorder, Aug. 13, 2026",
+     "url": "https://spokesman-recorder.com/2026/08/13/minnesota-black-business-hall-of-fame-inaugural-class/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--selby-avenue-jazzfest",
+   "observanceKey": "selby-avenue-jazzfest",
+   "name": "Selby Avenue JazzFest",
+   "alsoKnownAs": [],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "community festival",
+   "capsule": "Jazz festival on Selby Avenue in the heart of historic Rondo.",
+   "dateRule": "Announced each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-12",
+     "endDate": null,
+     "source": "Spokesman-Recorder",
+     "sourceUrl": "https://spokesman-recorder.com/2026/09/30/saint-paul-restores-street-co-naming-to-honor-elder-mahmoud-el-kati/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Music and Rondo's cultural life.",
+   "howCelebratedInMinnesota": "In 2026 the street co-naming honor for Mahmoud El-Kati was announced during a performance there.",
+   "minnesotaEvents": [
+    {
+     "name": "Selby Avenue JazzFest",
+     "place": "Selby Avenue, St. Paul",
+     "link": "https://spokesman-recorder.com/2026/09/30/saint-paul-restores-street-co-naming-to-honor-elder-mahmoud-el-kati/",
+     "organizerDates": "Sept. 12, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Spokesman-Recorder, Sept. 30, 2026",
+     "url": "https://spokesman-recorder.com/2026/09/30/saint-paul-restores-street-co-naming-to-honor-elder-mahmoud-el-kati/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "african-american--hallie-q-brown-day",
+   "observanceKey": "hallie-q-brown-day",
+   "name": "Hallie Q. Brown Day",
+   "alsoKnownAs": [
+    "HQB Day"
+   ],
+   "communities": [
+    "african-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "african-american",
+     "title": "African American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/african-american/profile.md",
+   "kind": "heritage",
+   "capsule": "Marks the first program at St. Paul's Hallie Q. Brown Community Center on April 1, 1929.",
+   "dateRule": "Around April 1; the center's page describes it in 2025.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The center's founding program in 1929.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Hallie Q. Brown Community Center",
+     "url": "https://www.hallieqbrown.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "american--easter",
@@ -9873,9 +10514,7 @@
    "observanceKey": "easter",
    "name": "Easter",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "Pascua"
    ],
    "communities": [
     "latino"
@@ -9889,7 +10528,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
+   "capsule": "Christian feast of the resurrection, with Spanish-language Masses at Minnesota parishes that serve Latino Catholics.",
    "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
    "dates": [
     {
@@ -9919,18 +10558,28 @@
    ],
    "dateCertainty": "calculated",
    "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "No Minnesota Latino Easter event could be confirmed by date. Parishes such as Our Lady of Guadalupe in St. Paul and Incarnation-Sagrado Corazón de Jesús in Minneapolis hold regular Spanish Masses.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Our Lady of Guadalupe, Archdiocese listing",
+     "url": "https://www.archspm.org/location/our-lady-of-guadalupe-catholic-church",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Incarnation",
+     "url": "https://www.incarnationmpls.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "latino--good-friday",
    "observanceKey": "good-friday",
    "name": "Good Friday",
    "alsoKnownAs": [
-    "Viernes Santo",
-    "Biyernes Santo"
+    "Viernes Santo"
    ],
    "communities": [
     "latino"
@@ -9944,7 +10593,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "religious",
-   "capsule": "The crucifixion of Jesus.",
+   "capsule": "Christian day marking the crucifixion of Jesus, kept during Holy Week.",
    "dateRule": "The Friday before Western Easter.",
    "dates": [
     {
@@ -9998,7 +10647,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "religious",
-   "capsule": "Start of Lent.",
+   "capsule": "The start of Lent for Western Christians.",
    "dateRule": "46 days before Western Easter.",
    "dates": [
     {
@@ -10039,7 +10688,7 @@
    "name": "Mexican Independence Day",
    "alsoKnownAs": [
     "Grito de Dolores",
-    "Día de la Independencia"
+    "Fiestas Patrias"
    ],
    "communities": [
     "latino"
@@ -10053,8 +10702,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "national",
-   "capsule": "Start of the 1810 war of independence.",
-   "dateRule": "September 16.",
+   "capsule": "Marks the 1810 start of Mexico's war of independence; St. Paul's first Fiestas Patrias came in 1939.",
+   "dateRule": "September 16. Community events may fall on nearby days.",
    "dates": [
     {
      "year": 2026,
@@ -10083,10 +10732,16 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Start of the 1810 war of independence.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "St. Paul held its first Fiestas Patrias in 1939, with a parade from the West Side to downtown (MNopedia). A current dated celebration could not be confirmed. See also the Mexican page.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Minnesotanos: Latino journeys in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/minnesotanos-latino-journeys-minnesota",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "latino--central-american-independence-day",
@@ -10107,7 +10762,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "national",
-   "capsule": "Independence of Central America from Spain in 1821.",
+   "capsule": "Several Central American nations mark independence from Spain on this date, at the start of Heritage Month.",
    "dateRule": "September 15.",
    "dates": [
     {
@@ -10143,114 +10798,6 @@
    "sources": []
   },
   {
-   "id": "latino--colombian-independence-day",
-   "observanceKey": "colombian-independence-day",
-   "name": "Colombian Independence Day",
-   "alsoKnownAs": [
-    "Día de la Independencia"
-   ],
-   "communities": [
-    "latino"
-   ],
-   "briefLinks": [
-    {
-     "community": "latino",
-     "title": "Latino Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
-   "kind": "national",
-   "capsule": "The 1810 declaration in Bogotá.",
-   "dateRule": "July 20.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-07-20",
-     "endDate": null,
-     "source": "El Tiempo (Colombia), Por qué el festivo del 20 de julio no se mueve al lunes",
-     "sourceUrl": "https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-mueve-al-lunes-y-que-es-la-ley-emiliani-3364069",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-07-20",
-     "endDate": null,
-     "source": "El Tiempo (Colombia), Por qué el festivo del 20 de julio no se mueve al lunes",
-     "sourceUrl": "https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-mueve-al-lunes-y-que-es-la-ley-emiliani-3364069",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-07-20",
-     "endDate": null,
-     "source": "El Tiempo (Colombia), Por qué el festivo del 20 de julio no se mueve al lunes",
-     "sourceUrl": "https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-mueve-al-lunes-y-que-es-la-ley-emiliani-3364069",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1810 declaration in Bogotá.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "latino--ecuadorian-independence-day",
-   "observanceKey": "ecuadorian-independence-day",
-   "name": "Ecuadorian Independence Day",
-   "alsoKnownAs": [
-    "Primer Grito de Independencia"
-   ],
-   "communities": [
-    "latino"
-   ],
-   "briefLinks": [
-    {
-     "community": "latino",
-     "title": "Latino Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
-   "kind": "national",
-   "capsule": "The 1809 Quito uprising.",
-   "dateRule": "August 10.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-08-10",
-     "endDate": null,
-     "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
-     "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-08-10",
-     "endDate": null,
-     "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
-     "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-08-10",
-     "endDate": null,
-     "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
-     "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1809 Quito uprising.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
    "id": "latino--día-de-la-virgen-de-guadalupe",
    "observanceKey": "día-de-la-virgen-de-guadalupe",
    "name": "Día de la Virgen de Guadalupe",
@@ -10269,40 +10816,56 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "religious",
-   "capsule": "Feast of Our Lady of Guadalupe.",
-   "dateRule": "December 12.",
+   "capsule": "Feast honoring Our Lady of Guadalupe, kept in Minnesota with processions, Masses, mariachi and dance.",
+   "dateRule": "December 12. Some parishes begin the evening before.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-12-12",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "source": "The Catholic Spirit: decree read on the feast day, December 12",
+     "sourceUrl": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-12-12",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "source": "The Catholic Spirit: decree read on the feast day, December 12",
+     "sourceUrl": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-12-12",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "source": "The Catholic Spirit: decree read on the feast day, December 12",
+     "sourceUrl": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Feast of Our Lady of Guadalupe.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "Feast of Our Lady of Guadalupe, tied to the reported appearance of the Virgin Mary to a Mexican peasant nearly five centuries ago.",
+   "howCelebratedInMinnesota": "At the diocesan shrine in St. Paul, an annual one-mile procession, Mass and reception, with about 700 people at the anticipatory Mass in 2019. At Queen of Angels in Austin in 2019, Mass followed by a night of mariachi and chinelos dancers. In 2003 about 300 attended a midnight Mass at Misión El Santo Niño Jesús in St. Paul.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "St. Paul parish named diocesan shrine, The Catholic Spirit",
+     "url": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Austin community marks the feast, MPR News",
+     "url": "https://www.mprnews.org/story/2019/12/16/photos-austin-community-marks-the-feast-of-our-lady-of-guadalupe",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Mexican Minnesotans celebrate, MPR",
+     "url": "https://archive.mpr.org/stories/2003/12/12/mexican-minnesotans-celebrate-our-lady-of-guadalupe",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "latino--día-de-los-muertos",
@@ -10323,8 +10886,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "heritage",
-   "capsule": "Remembrance of the dead (observed November 1 and 2).",
-   "dateRule": "November 2.",
+   "capsule": "Remembrance of the dead, honored in Minnesota with public celebrations, altars and art.",
+   "dateRule": "November 1 and 2. Public events may fall on nearby days.",
    "dates": [
     {
      "year": 2026,
@@ -10353,10 +10916,39 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Remembrance of the dead (observed November 1 and 2).",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "howCelebratedInMinnesota": "CLUES holds a public celebration at Midtown Global Market. Centro Tyrone Guzmán also promotes a 2026 celebration. The state council and Governor's Office recognized the day in 2025.",
+   "minnesotaEvents": [
+    {
+     "name": "CLUES Día de los Muertos Celebration",
+     "place": "Central Court, Midtown Global Market, 920 E. Lake St., Minneapolis",
+     "link": "https://clues.org/",
+     "organizerDates": "Sunday, Nov. 1, 2026, 11:30 a.m. to 3:30 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "CLUES home",
+     "url": "https://clues.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Midtown Global Market events",
+     "url": "https://www.midtownglobalmarket.org/events",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Centro Tyrone Guzmán",
+     "url": "https://www.centromn.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MCLA Annual Legislative Report 2025",
+     "url": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "latino--christmas",
@@ -10364,8 +10956,7 @@
    "name": "Christmas",
    "alsoKnownAs": [
     "Navidad",
-    "Noël",
-    "Pasko"
+    "Nochebuena"
    ],
    "communities": [
     "latino"
@@ -10379,7 +10970,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
+   "capsule": "Christian feast of the birth of Jesus.",
    "dateRule": "December 25.",
    "dates": [
     {
@@ -10409,10 +11000,16 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Birth of Jesus (Gregorian calendar).",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "At St. Paul's-San Pablo Lutheran in Minneapolis, members made paper flowers for pre-Christmas processions in the winter of 2025 to 2026 (Associated Press). No other Minnesota detail could be confirmed.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "A Minneapolis church holds a service of Lament and Hope, AP",
+     "url": "https://rapidcitypost.com/a-minneapolis-church-holds-a-service-of-lament-and-hope-amid-fears-over-immigration-crackdown/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "latino--día-de-los-reyes",
@@ -10434,7 +11031,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "religious",
-   "capsule": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
+   "capsule": "The visit of the Magi, a gift day in many Latin American and Caribbean families.",
    "dateRule": "January 6.",
    "dates": [
     {
@@ -10463,7 +11060,7 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
+   "whatItMarks": "The visit of the Magi. Practice differs by family and by country of origin.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -10486,8 +11083,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "religious",
-   "capsule": "Nine nights (December 16 to 24) re-enacting Mary and Joseph's search for shelter.",
-   "dateRule": "December 16.",
+   "capsule": "Nine nights re-enacting Mary and Joseph's search for shelter, kept in some Latino Christian traditions.",
+   "dateRule": "December 16, for nine nights through December 24. Parish dates may vary.",
    "dates": [
     {
      "year": 2026,
@@ -10516,16 +11113,25 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Nine nights (December 16 to 24) re-enacting Mary and Joseph's search for shelter.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "No dated Minnesota Las Posadas could be confirmed. Pre-Christmas processions at St. Paul's-San Pablo Lutheran in Minneapolis were noted by the Associated Press in January 2026, without using that name.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "A Minneapolis church holds a service of Lament and Hope, AP",
+     "url": "https://rapidcitypost.com/a-minneapolis-church-holds-a-service-of-lament-and-hope-amid-fears-over-immigration-crackdown/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "latino--hispanic-heritage-month-begins",
    "observanceKey": "hispanic-heritage-month-begins",
    "name": "Hispanic Heritage Month (begins)",
-   "alsoKnownAs": [],
+   "alsoKnownAs": [
+    "Latine Heritage Month",
+    "Mes de la Herencia"
+   ],
    "communities": [
     "latino"
    ],
@@ -10538,8 +11144,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
    "kind": "heritage",
-   "capsule": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
-   "dateRule": "September 15.",
+   "capsule": "U.S. month, September 15 to October 15, marked in Minnesota with festivals, art and business events.",
+   "dateRule": "Begins September 15 and ends October 15.",
    "dates": [
     {
      "year": 2026,
@@ -10568,10 +11174,439 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "In 2026: CLUES's group exhibition and Fiesta Latina, and Minneapolis's Latino Business Week. The state council and Governor's Office recognized the month in 2025. The University of Minnesota's Chicano & Latino Studies department also marks it, as Latinx Heritage Month.",
+   "minnesotaEvents": [
+    {
+     "name": "To Be Minnesotane: Ser y Estar, group exhibition",
+     "place": "CLUES St. Paul Art Gallery, 797 E. 7th St.",
+     "link": "https://clues.org/event-calendar/",
+     "organizerDates": "Sept. 12 to Nov. 6, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CLUES calendar",
+     "url": "https://clues.org/event-calendar/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MCLA Annual Legislative Report 2025",
+     "url": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "UMN Chicano & Latino Studies",
+     "url": "https://cla.umn.edu/chicano-latino",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "latino--fiesta-latina",
+   "observanceKey": "fiesta-latina",
+   "name": "Fiesta Latina",
+   "alsoKnownAs": [],
+   "communities": [
+    "latino"
+   ],
+   "briefLinks": [
+    {
+     "community": "latino",
+     "title": "Latino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
+   "kind": "community festival",
+   "capsule": "CLUES's free family festival, held at CHS Field in St. Paul in 2026.",
+   "dateRule": "Set each year by CLUES.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": null,
+     "source": "CLUES",
+     "sourceUrl": "https://clues.org/fiesta-latina/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A public celebration of Latino culture and community during Heritage Month.",
+   "howCelebratedInMinnesota": "Free and family-friendly, 11:30 a.m. to 4:30 p.m. at CHS Field in 2026, the first year there. CLUES mentions plans for 2027.",
+   "minnesotaEvents": [
+    {
+     "name": "Fiesta Latina 2026",
+     "place": "CHS Field, 360 N. Broadway St., St. Paul",
+     "link": "https://clues.org/fiesta-latina/",
+     "organizerDates": "Saturday, Sept. 19, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Fiesta Latina, CLUES",
+     "url": "https://clues.org/fiesta-latina/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "latino--cinco-de-mayo-on-the-west-side",
+   "observanceKey": "cinco-de-mayo-on-the-west-side",
+   "name": "Cinco de Mayo on the West Side",
+   "alsoKnownAs": [
+    "Cinco de Mayo Fiesta"
+   ],
+   "communities": [
+    "latino"
+   ],
+   "briefLinks": [
+    {
+     "community": "latino",
+     "title": "Latino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
+   "kind": "community festival",
+   "capsule": "Two-day St. Paul street festival with a parade, music and food on the West Side.",
+   "dateRule": "Set each year by organizers, around May 5.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-01",
+     "endDate": "2026-05-02",
+     "source": "Sahan Journal, April 29, 2026",
+     "sourceUrl": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "On the West Side, a yearly celebration of Mexican heritage and of the neighborhood, and in 2026 a hoped-for boost for businesses recovering from the enforcement surge.",
+   "howCelebratedInMinnesota": "Organized by the West Side Boosters Club and West Side Fiesta Committee, with car shows, more than 40 food vendors, 80 craft and service vendors, two stages, a kids zone and a parade. Attendance was roughly 30,000 the year before, per Sahan Journal.",
+   "minnesotaEvents": [
+    {
+     "name": "Cinco de Mayo 2026",
+     "place": "Cesar Chavez Street, West Side, St. Paul",
+     "link": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
+     "organizerDates": "May 1 to 2, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Latino businesses hope for Cinco de Mayo boost, Sahan Journal",
+     "url": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "latino--latino-business-week",
+   "observanceKey": "latino-business-week",
+   "name": "Latino Business Week",
+   "alsoKnownAs": [],
+   "communities": [
+    "latino"
+   ],
+   "briefLinks": [
+    {
+     "community": "latino",
+     "title": "Latino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
+   "kind": "community festival",
+   "capsule": "Minneapolis week celebrating and supporting Latino-owned businesses, held for the third time in 2026.",
+   "dateRule": "Set each year by the City of Minneapolis.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-05",
+     "endDate": "2026-10-11",
+     "source": "MPR News, Oct. 6, 2026",
+     "sourceUrl": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Support for Latino-owned businesses, in 2026 during recovery from the enforcement surge.",
+   "howCelebratedInMinnesota": "Kickoff with Mayor Frey, a pop-up market on Historic Main Street and a celebration at Mercado Central, partly funded by city relief money.",
+   "minnesotaEvents": [
+    {
+     "name": "Latino Business Week 2026",
+     "place": "Minneapolis, including Mercado Central",
+     "link": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+     "organizerDates": "Oct. 5 to 11, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minneapolis shops invite customers for Latino Business Week, MPR News",
+     "url": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "latino--farmworkers-day",
+   "observanceKey": "farmworkers-day",
+   "name": "Farmworkers Day",
+   "alsoKnownAs": [],
+   "communities": [
+    "latino"
+   ],
+   "briefLinks": [
+    {
+     "community": "latino",
+     "title": "Latino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
+   "kind": "remembrance",
+   "capsule": "Minnesota's governor proclaimed March 31, 2026, as Farmworkers Day after lawmakers repealed Cesar Chavez Day.",
+   "dateRule": "Proclaimed for March 31, 2026. No yearly law sets it, and no later proclamation was found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-31",
+     "endDate": null,
+     "source": "FOX 9, March 31, 2026",
+     "sourceUrl": "https://fox9.com/news/minnesota-recognizes-farmworkers-day-following-cesar-chavez-fallout-march-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The contributions of farmworkers and the sacrifices of immigrants and their families.",
+   "howCelebratedInMinnesota": "The governor's 2026 proclamation. West Side and school leaders spoke publicly that day, per FOX 9.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Minnesota recognizes Farmworkers Day, FOX 9",
+     "url": "https://fox9.com/news/minnesota-recognizes-farmworkers-day-following-cesar-chavez-fallout-march-2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Laws of Minnesota 2026, Chapter 42",
+     "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/42",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "latino--latine-day-at-the-capitol",
+   "observanceKey": "latine-day-at-the-capitol",
+   "name": "Latine Day at the Capitol",
+   "alsoKnownAs": [],
+   "communities": [
+    "latino"
+   ],
+   "briefLinks": [
+    {
+     "community": "latino",
+     "title": "Latino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
+   "kind": "community festival",
+   "capsule": "State council's annual gathering at the Capitol for Latino Minnesotans to meet lawmakers.",
+   "dateRule": "Set each year by the Minnesota Council on Latino Affairs during session.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Latino civic voice in state policy.",
+   "howCelebratedInMinnesota": "On April 24, 2025, under the theme Hope, Unity, and Action for a Better Future. A 2026 date could not be confirmed.",
+   "minnesotaEvents": [
+    {
+     "name": "Latine Day at the Capitol 2025",
+     "place": "Minnesota State Capitol, St. Paul",
+     "link": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+     "organizerDates": "April 24, 2025",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MCLA Annual Legislative Report 2025",
+     "url": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "latino--worthington-international-festival",
+   "observanceKey": "worthington-international-festival",
+   "name": "Worthington International Festival",
+   "alsoKnownAs": [],
+   "communities": [
+    "latino"
+   ],
+   "briefLinks": [
+    {
+     "community": "latino",
+     "title": "Latino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/latino/profile.md",
+   "kind": "community festival",
+   "capsule": "Downtown Worthington festival with mariachi, Mexican dance, Afro-Peruvian and Ecuadorian acts alongside many other communities.",
+   "dateRule": "Set each year by organizers, in July.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-09",
+     "endDate": "2026-07-11",
+     "source": "International Festival",
+     "sourceUrl": "https://www.worthingtoninternationalfestival.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Worthington's many cultures, begun in 1994 as a soccer tournament.",
+   "howCelebratedInMinnesota": "The 2026 schedule included Son de mi Tierra, Enlazados and Ecuador Manta. Earlier years featured Nuevo Guachinango, Los Vandettas, Salsa del Soul and Aztec dancers. It is a shared festival, not a Latino one alone.",
+   "minnesotaEvents": [
+    {
+     "name": "International Festival 2026",
+     "place": "Nobles County Government Center and downtown Worthington",
+     "link": "https://www.worthingtoninternationalfestival.org/",
+     "organizerDates": "July 9 to 11, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "International Festival",
+     "url": "https://www.worthingtoninternationalfestival.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Schedule",
+     "url": "https://www.worthingtoninternationalfestival.org/schedule",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "International Festival celebrates 30 years, The Globe",
+     "url": "https://www.dglobe.com/news/local/international-festival-celebrates-30-years",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "lebanese--start-of-ramadan",
@@ -11340,13 +12375,184 @@
    "sources": []
   },
   {
-   "id": "mexican--easter",
-   "observanceKey": "easter",
-   "name": "Easter",
+   "id": "mexican--cinco-de-mayo",
+   "observanceKey": "cinco-de-mayo",
+   "name": "Cinco de Mayo",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "West Side Cinco de Mayo"
+   ],
+   "communities": [
+    "mexican"
+   ],
+   "briefLinks": [
+    {
+     "community": "mexican",
+     "title": "Mexican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
+   "kind": "cultural",
+   "capsule": "A 1862 Mexican military victory, celebrated on St. Paul's West Side with a large parade, car show, music and food.",
+   "dateRule": "May 5. The West Side celebration is held on a nearby weekend announced each year by organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-05",
+     "endDate": null,
+     "source": "Sahan Journal describes the fifth of May holiday",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/cinco-de-mayo-saint-paul-west-side-parade/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-05",
+     "endDate": null,
+     "source": "Sahan Journal describes the fifth of May holiday",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/cinco-de-mayo-saint-paul-west-side-parade/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Sahan Journal describes the fifth of May holiday",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/cinco-de-mayo-saint-paul-west-side-parade/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "A Mexican military victory in 1862. Sahan Journal notes it carries little significance in Mexico itself.",
+   "howCelebratedInMinnesota": "On St. Paul's West Side since 1985, hosted by West Side Boosters and the West Side Fiestas Committee, with a parade on Cesar Chavez Street from Wabasha to Ada, a car show and music. About 30,000 attended in 2025. In 2026 organizers debated holding it during the federal enforcement surge and went ahead on a smaller footprint.",
+   "minnesotaEvents": [
+    {
+     "name": "West Side Cinco de Mayo Parade & Festival",
+     "place": "Cesar Chavez Street, St. Paul",
+     "link": "https://westsidefiestas.com/",
+     "organizerDates": "Parade and festival Sat., May 2, 2026, 10 a.m. to 6 p.m.; car show Fri., May 1, 2026, at Harriet Island. No 2027 date announced.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "West Side Fiestas",
+     "url": "https://westsidefiestas.com/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Explore Minnesota listing",
+     "url": "https://www.exploreminnesota.com/event/cinco-de-mayo-west-side-st-paul/2682",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Sahan Journal, 2025",
+     "url": "https://sahanjournal.com/arts-culture/cinco-de-mayo-saint-paul-west-side-parade/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Sahan Journal, April 29, 2026",
+     "url": "https://sahanjournal.com/?p=83245",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR News, May 2, 2026",
+     "url": "https://www.mprnews.org/story/2026/05/02/st-pauls-cinco-de-mayo-parade-draws-crowds-after-winter-of-fear",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "mexican--mexican-independence-day",
+   "observanceKey": "mexican-independence-day",
+   "name": "Mexican Independence Day",
+   "alsoKnownAs": [
+    "Grito de Dolores",
+    "Día de la Independencia",
+    "Fiestas Patrias"
+   ],
+   "communities": [
+    "mexican"
+   ],
+   "briefLinks": [
+    {
+     "community": "mexican",
+     "title": "Mexican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
+   "kind": "national",
+   "capsule": "Mexico's independence, begun in 1810, marked in St. Paul with a West Side celebration since at least 1939.",
+   "dateRule": "September 16. West Side Fiestas holds its celebration on a date it announces each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-16",
+     "endDate": null,
+     "source": "MPR News names Sept. 16 as Mexican Independence Day",
+     "sourceUrl": "https://www.mprnews.org/story/2026/07/28/cesar-chavez-street-st-paul-renaming-feedback-deadline",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-16",
+     "endDate": null,
+     "source": "MPR News names Sept. 16 as Mexican Independence Day",
+     "sourceUrl": "https://www.mprnews.org/story/2026/07/28/cesar-chavez-street-st-paul-renaming-feedback-deadline",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-16",
+     "endDate": null,
+     "source": "MPR News names Sept. 16 as Mexican Independence Day",
+     "sourceUrl": "https://www.mprnews.org/story/2026/07/28/cesar-chavez-street-st-paul-renaming-feedback-deadline",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Start of the 1810 war of independence.",
+   "howCelebratedInMinnesota": "St. Paul's first Fiestas Patrias in 1939 paraded from the West Side downtown. In 1886 a visiting Mexican military band led an Independence Day parade in Minneapolis. West Side Fiestas held a 2026 celebration with car show, music, vendors, crafts, a kids' zone and a community march.",
+   "minnesotaEvents": [
+    {
+     "name": "Mexican Independence Day Celebration",
+     "place": "Historic West Side, St. Paul",
+     "link": "https://westsidefiestas.com/",
+     "organizerDates": "Sat., Sept. 12, 2026, as announced. No 2027 date announced.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "West Side Fiestas",
+     "url": "https://westsidefiestas.com/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/minnesotanos-latino-journeys-minnesota",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR News, Aug. 21, 2026",
+     "url": "https://www.mprnews.org/story/2026/08/21/mn-shortlist-aug-21-aug-27",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR News, July 28, 2026",
+     "url": "https://www.mprnews.org/story/2026/07/28/cesar-chavez-street-st-paul-renaming-feedback-deadline",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "mexican--día-de-la-virgen-de-guadalupe",
+   "observanceKey": "día-de-la-virgen-de-guadalupe",
+   "name": "Día de la Virgen de Guadalupe",
+   "alsoKnownAs": [
+    "Our Lady of Guadalupe"
    ],
    "communities": [
     "mexican"
@@ -11360,48 +12566,566 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
-   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "capsule": "Feast of Mexico's patron, with a one-mile procession and Masses at St. Paul's diocesan shrine.",
+   "dateRule": "December 12, often beginning the evening before.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-04-05",
+     "date": "2026-12-12",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
-     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "source": "The Catholic Spirit states the Dec. 12 feast day",
+     "sourceUrl": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-03-28",
+     "date": "2027-12-12",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "source": "The Catholic Spirit states the Dec. 12 feast day",
+     "sourceUrl": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-04-16",
+     "date": "2028-12-12",
      "endDate": null,
-     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
-     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "source": "The Catholic Spirit states the Dec. 12 feast day",
+     "sourceUrl": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
      "verified": true
     }
    ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "dateCertainty": "fixed",
+   "whatItMarks": "The 1531 appearance of the Virgin Mary reported by Juan Diego.",
+   "howCelebratedInMinnesota": "Our Lady of Guadalupe in St. Paul, a diocesan shrine since 2019, holds an annual one-mile procession; about 700 attended the eve Mass in 2019. Past celebrations include Church of the Risen Savior in Burnsville in 2014 and Misión El Santo Niño Jesús, an Episcopal church in St. Paul, in 2003. No 2026 schedule was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Annual procession and feast Masses",
+     "place": "Our Lady of Guadalupe, 401 Concord St., St. Paul",
+     "link": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
+     "organizerDates": "2019 held Dec. 11 and 12; 2026 schedule not found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "The Catholic Spirit, Dec. 13, 2019",
+     "url": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR, Dec. 12, 2003",
+     "url": "https://archive.mpr.org/stories/2003/12/12/mexican-minnesotans-celebrate-our-lady-of-guadalupe",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR News, Dec. 17, 2014",
+     "url": "https://www.mprnews.org/story/2014/12/17/photos-our-lady-guadalupe",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "mexican--día-de-los-muertos",
+   "observanceKey": "día-de-los-muertos",
+   "name": "Día de los Muertos",
+   "alsoKnownAs": [
+    "Day of the Dead"
+   ],
+   "communities": [
+    "mexican"
+   ],
+   "briefLinks": [
+    {
+     "community": "mexican",
+     "title": "Mexican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
+   "kind": "heritage",
+   "capsule": "Families remember those who have died with altars, flowers and gatherings; Twin Cities events cluster around Nov. 1.",
+   "dateRule": "November 1 and 2 by custom; UNESCO gives only the end of October to the beginning of November. Minnesota events fall on nearby days announced by organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-02",
+     "endDate": "2026-11-02",
+     "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
+     "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-02",
+     "endDate": "2027-11-02",
+     "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
+     "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-02",
+     "endDate": "2028-11-02",
+     "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
+     "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Remembrance of the dead.",
+   "howCelebratedInMinnesota": "Public events include the Festival de las Calaveras in Minneapolis, CLUES's free day at Midtown Global Market, El Colegio High School's event and ofrendas at Hennepin History Museum. The Weisman Art Museum and Centro Tyrone Guzman held a community ofrenda in 2024.",
+   "minnesotaEvents": [
+    {
+     "name": "14th Festival de las Calaveras",
+     "place": "Hook and Ladder, 3010 Minnehaha Ave., Minneapolis",
+     "link": "https://app.opendate.io/e/festival-de-las-calaveras-2026-october-31-2026-718151",
+     "organizerDates": "Oct. 31, 2026; 3 to 11 p.m. on the ticket page, 3 to 10 p.m. on Meet Minneapolis",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "CLUES Día de Muertos",
+     "place": "Midtown Global Market, Minneapolis",
+     "link": "https://midtownglobalmarket.org/new-events/2026/10/31/dia-de-muertos",
+     "organizerDates": "Sun., Nov. 1, 2026, 11:30 a.m. to 3:30 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Día de los Muertos 2026",
+     "place": "El Colegio High School, Minneapolis",
+     "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+     "organizerDates": "Nov. 1, 2026, 3 to 6 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Ofrenda Viewing",
+     "place": "Hennepin History Museum with the Minnesota Latino Museum",
+     "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+     "organizerDates": "Oct. 29 to 31, 2026, 10 a.m. to 3 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Ofrendas and Offerings for the Whole Family",
+     "place": "Various Twin Cities sites, with Mercado Central, Pangea World Theater and others",
+     "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+     "organizerDates": "Oct. 30 to Nov. 1, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Día de los Muertos Pop-up",
+     "place": "Monarca Thrift Club",
+     "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+     "organizerDates": "Nov. 1, 2026, 11 a.m. to 3 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Dia de los Muertos at Nico's",
+     "place": "Nico's Taco and Tequila Bar",
+     "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+     "organizerDates": "Nov. 1, 2026, 5 to 8 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Latin Luminos",
+     "place": "Mall of America",
+     "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+     "organizerDates": "Oct. 30 to Nov. 1, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Dia De Los Muertos at Rosedale",
+     "place": "Rosedale Center",
+     "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+     "organizerDates": "Oct. 30 and Nov. 1, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Meet Minneapolis",
+     "url": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Midtown Global Market",
+     "url": "https://midtownglobalmarket.org/new-events/2026/10/31/dia-de-muertos",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Opendate listing",
+     "url": "https://app.opendate.io/e/festival-de-las-calaveras-2026-october-31-2026-718151",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Weisman Art Museum",
+     "url": "https://wam.umn.edu/dia-de-los-muertos-community-ofrenda",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Existing Mexican Minnesota page",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Indigenous festivity dedicated to the dead, UNESCO",
+     "url": "https://ich.unesco.org/en/RL/indigenous-festivity-dedicated-to-the-dead-00054",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "mexican--feast-of-san-pablo",
+   "observanceKey": "feast-of-san-pablo",
+   "name": "Feast of San Pablo",
+   "alsoKnownAs": [
+    "Fiesta de San Pablo",
+    "Conversion of St. Paul"
+   ],
+   "communities": [
+    "mexican"
+   ],
+   "briefLinks": [
+    {
+     "community": "mexican",
+     "title": "Mexican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
+   "kind": "religious",
+   "capsule": "Families from Axochiapan, Morelos, honor their patron saint in Minneapolis with Masses, a street procession, dance and food.",
+   "dateRule": "January 25, with Minneapolis festivities around that date. Local dates are set each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-25",
+     "endDate": null,
+     "source": "Diario Las Américas gives Jan. 25 as the feast",
+     "sourceUrl": "https://www.diariolasamericas.com/eeuu/mexicanos-minneapolis-mantienen-vivas-sus-tradiciones-n4192355",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-25",
+     "endDate": null,
+     "source": "Diario Las Américas gives Jan. 25 as the feast",
+     "sourceUrl": "https://www.diariolasamericas.com/eeuu/mexicanos-minneapolis-mantienen-vivas-sus-tradiciones-n4192355",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-25",
+     "endDate": null,
+     "source": "Diario Las Américas gives Jan. 25 as the feast",
+     "sourceUrl": "https://www.diariolasamericas.com/eeuu/mexicanos-minneapolis-mantienen-vivas-sus-tradiciones-n4192355",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The conversion of St. Paul, patron saint of Axochiapan.",
+   "howCelebratedInMinnesota": "Reported in 2020 as two days of Masses, a street procession, dance and tamales with mole at Incarnation/Sagrado Corazón in south Minneapolis, with about 1,200 taking part. No 2026 report was found.",
+   "minnesotaEvents": [
+    {
+     "name": "San Pablo feast",
+     "place": "Incarnation/Sagrado Corazón, Minneapolis",
+     "link": "https://www.diariolasamericas.com/eeuu/mexicanos-minneapolis-mantienen-vivas-sus-tradiciones-n4192355",
+     "organizerDates": "Photos dated Jan. 24, 2020; no 2026 date found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Diario Las Américas, Feb. 4, 2020",
+     "url": "https://www.diariolasamericas.com/eeuu/mexicanos-minneapolis-mantienen-vivas-sus-tradiciones-n4192355",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "mexican--farmworkers-day",
+   "observanceKey": "farmworkers-day",
+   "name": "Farmworkers Day",
+   "alsoKnownAs": [],
+   "communities": [
+    "mexican"
+   ],
+   "briefLinks": [
+    {
+     "community": "mexican",
+     "title": "Mexican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
+   "kind": "remembrance",
+   "capsule": "Minnesota's 2026 proclaimed day honoring farm labor, replacing Cesar Chavez Day after allegations against Chávez.",
+   "dateRule": "March 31 in 2026 by governor's proclamation. Whether it recurs depends on future proclamations.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-31",
+     "endDate": null,
+     "source": "FOX 9 reports the proclamation",
+     "sourceUrl": "https://fox9.com/news/minnesota-recognizes-farmworkers-day-following-cesar-chavez-fallout-march-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No proclamation found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No proclamation found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Farmworkers and the farm labor movement.",
+   "howCelebratedInMinnesota": "The governor proclaimed it for March 31, 2026, after lawmakers repealed Cesar Chavez Day. West Side and school leaders spoke in support of the change. No public celebration was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "FOX 9, March 31, 2026",
+     "url": "https://fox9.com/news/minnesota-recognizes-farmworkers-day-following-cesar-chavez-fallout-march-2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR News, July 28, 2026",
+     "url": "https://www.mprnews.org/story/2026/07/28/cesar-chavez-street-st-paul-renaming-feedback-deadline",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "mexican--hispanic-heritage-month",
+   "observanceKey": "hispanic-heritage-month-begins",
+   "name": "Hispanic Heritage Month",
+   "alsoKnownAs": [],
+   "communities": [
+    "mexican"
+   ],
+   "briefLinks": [
+    {
+     "community": "mexican",
+     "title": "Mexican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
+   "kind": "heritage",
+   "capsule": "A U.S. heritage month, Sept. 15 to Oct. 15, marked in Minnesota with festivals in St. Paul and Rochester.",
+   "dateRule": "September 15 to October 15.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-15",
+     "endDate": "2026-10-15",
+     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-15",
+     "endDate": "2027-10-15",
+     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-15",
+     "endDate": "2028-10-15",
+     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "U.S. heritage month, tied to Central American and Mexican independence days.",
+   "howCelebratedInMinnesota": "In 2026, CLUES set Fiesta Latina at CHS Field, Rochester's Alliance of Chicanos, Hispano, Latino Americans held Latino Fest in the rain, and Minneapolis ran its third Latino Business Week through Oct. 11.",
+   "minnesotaEvents": [
+    {
+     "name": "Fiesta Latina",
+     "place": "CHS Field, St. Paul",
+     "link": "https://www.clues.org/",
+     "organizerDates": "Sat., Sept. 19, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Latino Fest",
+     "place": "Chateau Theatre and Peace Plaza, Rochester",
+     "link": "https://www.kttc.com/2026/09/19/hundreds-celebrate-latino-fest-2026-downtown-rochester/",
+     "organizerDates": "Sat., Sept. 19, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Latino Business Week",
+     "place": "Mercado Central and other Minneapolis sites",
+     "link": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+     "organizerDates": "Through Oct. 11, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CLUES",
+     "url": "https://www.clues.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "KTTC, Sept. 19, 2026",
+     "url": "https://www.kttc.com/2026/09/19/hundreds-celebrate-latino-fest-2026-downtown-rochester/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR News, Oct. 6, 2026",
+     "url": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Existing Mexican Minnesota page",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "mexican--día-de-los-reyes",
+   "observanceKey": "día-de-los-reyes",
+   "name": "Día de los Reyes",
+   "alsoKnownAs": [
+    "Three Kings Day",
+    "Epiphany"
+   ],
+   "communities": [
+    "mexican"
+   ],
+   "briefLinks": [
+    {
+     "community": "mexican",
+     "title": "Mexican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
+   "kind": "religious",
+   "capsule": "The visit of the Magi, a Christian feast with gift-giving in many Mexican families.",
+   "dateRule": "January 6.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-06",
+     "endDate": null,
+     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
+     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-06",
+     "endDate": null,
+     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
+     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-06",
+     "endDate": null,
+     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
+     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The visit of the Magi.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Existing Mexican Minnesota page",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
-   "id": "mexican--good-friday",
-   "observanceKey": "good-friday",
-   "name": "Good Friday",
+   "id": "mexican--las-posadas-first-night",
+   "observanceKey": "las-posadas-first-night",
+   "name": "Las Posadas (first night)",
+   "alsoKnownAs": [],
+   "communities": [
+    "mexican"
+   ],
+   "briefLinks": [
+    {
+     "community": "mexican",
+     "title": "Mexican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
+   "kind": "religious",
+   "capsule": "Nine nights re-enacting Mary and Joseph's search for shelter, beginning Dec. 16.",
+   "dateRule": "December 16 to 24; the existing page says mid-December in some communities.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-16",
+     "endDate": "2026-12-24",
+     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
+     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-16",
+     "endDate": "2027-12-24",
+     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
+     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-16",
+     "endDate": "2028-12-24",
+     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
+     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Mary and Joseph's search for shelter.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Existing Mexican Minnesota page",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "mexican--christmas",
+   "observanceKey": "christmas",
+   "name": "Christmas",
    "alsoKnownAs": [
-    "Viernes Santo",
-    "Biyernes Santo"
+    "Navidad"
    ],
    "communities": [
     "mexican"
@@ -11415,36 +13139,36 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
    "kind": "religious",
-   "capsule": "The crucifixion of Jesus.",
-   "dateRule": "The Friday before Western Easter.",
+   "capsule": "The birth of Jesus, a major family and church feast.",
+   "dateRule": "December 25.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-04-03",
+     "date": "2026-12-25",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
-     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-03-26",
+     "date": "2027-12-25",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-04-14",
+     "date": "2028-12-25",
      "endDate": null,
-     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
-     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     }
    ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "The crucifixion of Jesus.",
+   "dateCertainty": "fixed",
+   "whatItMarks": "Birth of Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -11469,7 +13193,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
    "kind": "religious",
-   "capsule": "Start of Lent.",
+   "capsule": "The start of Lent for Catholic families.",
    "dateRule": "46 days before Western Easter.",
    "dates": [
     {
@@ -11505,66 +13229,11 @@
    "sources": []
   },
   {
-   "id": "mexican--mexican-independence-day",
-   "observanceKey": "mexican-independence-day",
-   "name": "Mexican Independence Day",
+   "id": "mexican--good-friday",
+   "observanceKey": "good-friday",
+   "name": "Good Friday",
    "alsoKnownAs": [
-    "Grito de Dolores",
-    "Día de la Independencia"
-   ],
-   "communities": [
-    "mexican"
-   ],
-   "briefLinks": [
-    {
-     "community": "mexican",
-     "title": "Mexican Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
-   "kind": "national",
-   "capsule": "Start of the 1810 war of independence.",
-   "dateRule": "September 16.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-09-16",
-     "endDate": null,
-     "source": "Gobierno de México, PROFEDET, Días de Descanso Obligatorio 2026 (Ley Federal del Trabajo art. 74)",
-     "sourceUrl": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-09-16",
-     "endDate": null,
-     "source": "Gobierno de México, PROFEDET, Días de Descanso Obligatorio 2026 (Ley Federal del Trabajo art. 74)",
-     "sourceUrl": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-09-16",
-     "endDate": null,
-     "source": "Gobierno de México, PROFEDET, Días de Descanso Obligatorio 2026 (Ley Federal del Trabajo art. 74)",
-     "sourceUrl": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Start of the 1810 war of independence.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "mexican--día-de-la-virgen-de-guadalupe",
-   "observanceKey": "día-de-la-virgen-de-guadalupe",
-   "name": "Día de la Virgen de Guadalupe",
-   "alsoKnownAs": [
-    "Our Lady of Guadalupe"
+    "Viernes Santo"
    ],
    "communities": [
     "mexican"
@@ -11578,20 +13247,20 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
    "kind": "religious",
-   "capsule": "Feast of Our Lady of Guadalupe.",
-   "dateRule": "December 12.",
+   "capsule": "The crucifixion of Jesus, observed by Catholic and other Christian families.",
+   "dateRule": "The Friday before Western Easter.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-12-12",
+     "date": "2026-04-03",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
+     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-12-12",
+     "date": "2027-03-26",
      "endDate": null,
      "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
      "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
@@ -11599,284 +13268,69 @@
     },
     {
      "year": 2028,
-     "date": "2028-12-12",
+     "date": "2028-04-14",
+     "endDate": null,
+     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
+     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The crucifixion of Jesus.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "id": "mexican--easter",
+   "observanceKey": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "Pascua"
+   ],
+   "communities": [
+    "mexican"
+   ],
+   "briefLinks": [
+    {
+     "community": "mexican",
+     "title": "Mexican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
+   "kind": "religious",
+   "capsule": "The resurrection of Jesus, the high point of the Christian year.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
+     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
      "endDate": null,
      "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
      "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
      "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Feast of Our Lady of Guadalupe.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "mexican--día-de-los-muertos",
-   "observanceKey": "día-de-los-muertos",
-   "name": "Día de los Muertos",
-   "alsoKnownAs": [
-    "Day of the Dead"
-   ],
-   "communities": [
-    "mexican"
-   ],
-   "briefLinks": [
-    {
-     "community": "mexican",
-     "title": "Mexican Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
-   "kind": "heritage",
-   "capsule": "Remembrance of the dead (observed November 1 and 2).",
-   "dateRule": "November 2.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-11-02",
-     "endDate": null,
-     "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
-     "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-11-02",
-     "endDate": null,
-     "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
-     "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
-     "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-11-02",
+     "date": "2028-04-16",
      "endDate": null,
-     "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
-     "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
+     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
+     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
      "verified": true
     }
    ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Remembrance of the dead (observed November 1 and 2).",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "mexican--christmas",
-   "observanceKey": "christmas",
-   "name": "Christmas",
-   "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
-   ],
-   "communities": [
-    "mexican"
-   ],
-   "briefLinks": [
-    {
-     "community": "mexican",
-     "title": "Mexican Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
-   "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
-   "dateRule": "December 25.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-12-25",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-12-25",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-12-25",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "mexican--día-de-los-reyes",
-   "observanceKey": "día-de-los-reyes",
-   "name": "Día de los Reyes",
-   "alsoKnownAs": [
-    "Three Kings Day",
-    "Epiphany"
-   ],
-   "communities": [
-    "mexican"
-   ],
-   "briefLinks": [
-    {
-     "community": "mexican",
-     "title": "Mexican Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
-   "kind": "religious",
-   "capsule": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
-   "dateRule": "January 6.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-01-06",
-     "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-01-06",
-     "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-01-06",
-     "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "mexican--las-posadas-first-night",
-   "observanceKey": "las-posadas-first-night",
-   "name": "Las Posadas (first night)",
-   "alsoKnownAs": [],
-   "communities": [
-    "mexican"
-   ],
-   "briefLinks": [
-    {
-     "community": "mexican",
-     "title": "Mexican Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
-   "kind": "religious",
-   "capsule": "Nine nights (December 16 to 24) re-enacting Mary and Joseph's search for shelter.",
-   "dateRule": "December 16.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-12-16",
-     "endDate": null,
-     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
-     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-12-16",
-     "endDate": null,
-     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
-     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-12-16",
-     "endDate": null,
-     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
-     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Nine nights (December 16 to 24) re-enacting Mary and Joseph's search for shelter.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "mexican--hispanic-heritage-month-begins",
-   "observanceKey": "hispanic-heritage-month-begins",
-   "name": "Hispanic Heritage Month (begins)",
-   "alsoKnownAs": [],
-   "communities": [
-    "mexican"
-   ],
-   "briefLinks": [
-    {
-     "community": "mexican",
-     "title": "Mexican Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/mexican/profile.md",
-   "kind": "heritage",
-   "capsule": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
-   "dateRule": "September 15.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
+   "dateCertainty": "calculated",
+   "whatItMarks": "Resurrection of Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,

@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-3 of 39 communities are finished. Karen and Somali have gaps listed below. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+5 of 39 communities are finished. Karen, Somali, African American and Latino have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali.
+- **Communities:** hmong, karen, somali, african-american, latino.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- african-american, latino, mexican.
+- mexican.
 
 ## Not started
 
@@ -39,6 +39,8 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **African American:** web search ran out, so law and accounting firms, charter schools, arts organizations, Black professionals and current school data are thin. Not established: a count separating descendants of U.S. slavery from other U.S.-born Black people, current county and city counts, Black wealth or faith shares, and any Black-led disability or Black Deaf organization (absence not proven). 44 of the 72 businesses listed as open rest only on the Spokesman-Recorder's July 2026 finalist list. The Rondo Days 2026 date comes from MPR's "Saturday" in a July 15 story.
+- **Latino:** web search ran out, so recent reporting from Worthington, Willmar and Austin is missing and no professional firms were confirmed. 23 of 42 businesses could not be confirmed open. Not established: Latino wealth, undocumented counts, union membership, a dated firm count, Indigenous-language speakers, religious affiliation, waiver use and special education by ethnicity.
 - **Somali:** web search ran out partway, so sections 5, 7, 8 and 10 and the Greater Minnesota businesses are thinner than the rest and need another pass. Not established: household wealth, a current Somali chamber of commerce, theological differences, Somali Christians and people of no faith, dress, marriage and elder-care customs, adult and non-autism disability evidence, Somali-specific Eid al-Adha events, and statewide Somali graduation rates. 19 of 56 businesses could not be confirmed open, and many Lake Street guide entries do not state Somali ownership.
 - **Karen:** a real Karen count or Karen-only economic data (only Burmese figures and estimates), any Minnesota disability count or study, and Karen elected officials. Web search ran out before these were reached: state refugee arrival tables, Karen roles in the 1947 Panglong agreement, PACER's Karen materials, lead screening, and whether several shops are still open. 14 of 20 businesses could not be confirmed open. Union Day was dropped because no Minnesota observance was found, not because Karen views of it were checked.
 - **Hmong:** household wealth, use of waivers or personal care assistance, a total for deportations to Laos, religious shares, occupations, a Hmong Deaf community, and any 2027 New Year dates. The profile lists the rest.

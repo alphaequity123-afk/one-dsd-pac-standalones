@@ -1,0 +1,821 @@
+[
+ {
+  "title": "African American population",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/african-american",
+  "dateChecked": "2026-10-30",
+  "usedFor": "numbers throughout"
+ },
+ {
+  "title": "Cultural communities methodology",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/methodology",
+  "dateChecked": "2026-10-30",
+  "usedFor": "who is counted"
+ },
+ {
+  "title": "Cultural communities list",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities",
+  "dateChecked": "2026-10-30",
+  "usedFor": "comparison groups"
+ },
+ {
+  "title": "Somali population",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/somali",
+  "dateChecked": "2026-10-30",
+  "usedFor": "comparison"
+ },
+ {
+  "title": "Nigerian population",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/nigerian",
+  "dateChecked": "2026-10-30",
+  "usedFor": "comparison"
+ },
+ {
+  "title": "Importance of data disaggregation: Minnesota's Black communities",
+  "publisher": "Minnesota Compass",
+  "url": "https://mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-black-communities",
+  "dateChecked": "2026-10-30",
+  "usedFor": "total Black population"
+ },
+ {
+  "title": "Compass quiz: Minnesota's Black population",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/data-insights/quizzes/compass-quiz-minnesotas-black-population",
+  "dateChecked": "2026-10-30",
+  "usedFor": "census shares"
+ },
+ {
+  "title": "African Americans in Minnesota",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/african-americans-minnesota",
+  "dateChecked": "2026-10-30",
+  "usedFor": "history, labor, firsts"
+ },
+ {
+  "title": "Rondo Neighborhood, St. Paul",
+  "publisher": "MNopedia",
+  "url": "https://www.mnhs.org/mnopedia/search/index/place/rondo-neighborhood-st-paul",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rondo"
+ },
+ {
+  "title": "Near North African American Community",
+  "publisher": "MNopedia",
+  "url": "https://www.mnhs.org/mnopedia/search/index/place/near-north-african-american-community-minneapolis",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Northside"
+ },
+ {
+  "title": "Southside African American Community",
+  "publisher": "MNopedia",
+  "url": "https://www.mnhs.org/mnopedia/search/index/place/southside-african-american-community-minneapolis",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Southside"
+ },
+ {
+  "title": "Duluth Lynchings",
+  "publisher": "MNopedia",
+  "url": "https://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Duluth"
+ },
+ {
+  "title": "Duluth lynchings additional resources",
+  "publisher": "Minnesota Historical Society",
+  "url": "https://www.mnhs.org/duluthlynchings/additional-resources",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Duluth records"
+ },
+ {
+  "title": "Council on Black Minnesotans report",
+  "publisher": "Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2014/mandated/140004.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "birthplace"
+ },
+ {
+  "title": "Faith traditions summary",
+  "publisher": "City of Minneapolis",
+  "url": "https://www.minneapolismn.gov/media/-www-content-assets/documents/Religion-Houses-of-Worship.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "religion"
+ },
+ {
+  "title": "African American family history: church records",
+  "publisher": "MNHS library guide",
+  "url": "https://libguides.mnhs.org/aafh/church",
+  "dateChecked": "2026-10-30",
+  "usedFor": "congregations"
+ },
+ {
+  "title": "Comparison of Racial and Ethnic Groups in Level of Care Screenings and Use of HCBS",
+  "publisher": "University of Minnesota and Purdue for Minnesota DHS",
+  "url": "https://developtoolmn.org/dhs/assets/racial-and-ethnic-comparison-report-quantatitive_tcm1053-663962.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "disability services"
+ },
+ {
+  "title": "MN-ADDM eight-year findings",
+  "publisher": "University of Minnesota",
+  "url": "https://addm.umn.edu/detailed-findings/eight-year",
+  "dateChecked": "2026-10-30",
+  "usedFor": "autism"
+ },
+ {
+  "title": "MN-ADDM four-year findings",
+  "publisher": "University of Minnesota",
+  "url": "https://addm.umn.edu/detailed-findings/four-year",
+  "dateChecked": "2026-10-30",
+  "usedFor": "autism"
+ },
+ {
+  "title": "MN-ADDM press briefing",
+  "publisher": "University of Minnesota",
+  "url": "https://addm.umn.edu/detailed-findings/press-briefing-2025-09-26",
+  "dateChecked": "2026-10-30",
+  "usedFor": "autism"
+ },
+ {
+  "title": "Special Education Equity Communities of Practice Project",
+  "publisher": "Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2020/Other/200711.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "special education"
+ },
+ {
+  "title": "One Minnesota Baseline Quantitative Survey",
+  "publisher": "Minnesota Governor's Council on Developmental Disabilities",
+  "url": "https://www.mn.gov/web/prod/static/mnddc/live/extra/customer-research/2023-GCDD-Intersectionality-Study-Research-Report.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "perceptions of treatment"
+ },
+ {
+  "title": "African American Family Preservation Act overview",
+  "publisher": "Minnesota DCYF",
+  "url": "https://dcyf.mn.gov/sites/default/files/2025-12/MAAFPCWDA%20one-pager_FINAL.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "child welfare"
+ },
+ {
+  "title": "House passes family preservation act",
+  "publisher": "Minnesota House Session Daily",
+  "url": "https://www.house.mn.gov/sessiondaily/Story/18392",
+  "dateChecked": "2026-10-30",
+  "usedFor": "child welfare"
+ },
+ {
+  "title": "Legislature funds family preservation act",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/?p=83857",
+  "dateChecked": "2026-10-30",
+  "usedFor": "child welfare"
+ },
+ {
+  "title": "ReConnect Rondo bill",
+  "publisher": "Minnesota House Session Daily",
+  "url": "https://www.house.mn.gov/sessiondaily/Story/18544",
+  "dateChecked": "2026-10-30",
+  "usedFor": "land bridge"
+ },
+ {
+  "title": "Maternal mortality report release",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/news/pressrel/2026/maternal011226.html",
+  "dateChecked": "2026-10-30",
+  "usedFor": "health"
+ },
+ {
+  "title": "Maternal Health Initiative",
+  "publisher": "Hennepin County",
+  "url": "https://www.hennepincounty.gov/government/projects-initiatives/health/maternal-health-initiative",
+  "dateChecked": "2026-10-30",
+  "usedFor": "health"
+ },
+ {
+  "title": "Report aims to close gap for U.S.-born Black Minnesotans",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2022/02/18/report-aims-to-close-gap-in-health-disparities-for-u-s-born-blacks-minnesotans/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "health"
+ },
+ {
+  "title": "Black unemployment in Minnesota",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/10/20/black-unemployment-minnesota-2026/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "jobs"
+ },
+ {
+  "title": "Employment disparities",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2024/12/12/employment-disparities-minnesota/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "jobs"
+ },
+ {
+  "title": "Black homeownership gap",
+  "publisher": "WCCO",
+  "url": "https://www.cbsnews.com/minnesota/news/black-homeownership-twin-cities-gap-minneapolis-federal-reserve/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "housing"
+ },
+ {
+  "title": "Black homeownership gap rooted in racial covenants",
+  "publisher": "KTTC",
+  "url": "https://kttc.com/2026/06/17/minnesota-black-homeownership-gap-rooted-racial-covenants/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "housing"
+ },
+ {
+  "title": "Homeownership and Black wealth",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2024/11/01/minneapolis-homeownership-black-wealth/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "housing"
+ },
+ {
+  "title": "Support Black homeownership handout",
+  "publisher": "Council for Minnesotans of African Heritage",
+  "url": "https://www.lrl.mn.gov/archive/minutes/senate/2025/jobs/20250324/Jobs_20250324_SF2423-CMAH-Black-Homeownership-Factsheet-handout.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "housing"
+ },
+ {
+  "title": "Fraud scrutiny tests trusted Black institutions",
+  "publisher": "Insight News via The Hub",
+  "url": "https://thehub.news/fraud-scrutiny-tests-trusted-black-institutions/?amp=1",
+  "dateChecked": "2026-10-30",
+  "usedFor": "debates"
+ },
+ {
+  "title": "Former Council on Black Minnesotans: new name",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2016/01/13/former-council-black-minnesotans-new-name-new-director/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "debates"
+ },
+ {
+  "title": "People's Way redevelopment",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/10/08/peoples-way-george-floyd-square-redevelopment/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "George Floyd Square"
+ },
+ {
+  "title": "Twin Cities Black nonprofits form collaborative",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/episode/2026/07/06/twin-cities-black-nonprofits-come-together-to-form-new-collaborative",
+  "dateChecked": "2026-10-30",
+  "usedFor": "organizations"
+ },
+ {
+  "title": "Northside Forward",
+  "publisher": "Gensler",
+  "url": "https://www.gensler.com/projects/northside-forward",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Northside plan"
+ },
+ {
+  "title": "West Broadway's future",
+  "publisher": "BuyBlack.org",
+  "url": "https://www.buyblack.org/articles/west-broadway-s-future-empowering-north-minneapolis-black-community",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Best of Black Business 2026 finalists",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-finalists/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Black-owned business stories",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/tag/black-owned-business/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Black Business Week 2026",
+  "publisher": "City of Minneapolis",
+  "url": "https://www.minneapolismn.gov/news/2026/july/bbw-2026/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Black Business Week event page",
+  "publisher": "City of Minneapolis",
+  "url": "https://www.minneapolismn.gov/things-to-do/events/2026-events/july/black-business-week/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Minneapolis Black Business Week guide",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/07/23/minneapolis-black-business-week-2026-guide/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Black Business Hall of Fame",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/08/13/minnesota-black-business-hall-of-fame-inaugural-class/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "First Independence Bank opens St. Paul location",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/06/29/first-independence-bank-st-paul-university-avenue/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "banking"
+ },
+ {
+  "title": "Dreamland on 38th groundbreaking",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/10/16/dreamland-on-38th-groundbreaking/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Southside"
+ },
+ {
+  "title": "Black Business Village in Brooklyn Center",
+  "publisher": "Hoodline",
+  "url": "https://hoodline.com/2026/07/brooklyn-center-s-8-acre-lot-poised-to-become-black-business-village-hub/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Breaking Bread closure",
+  "publisher": "Appetite for Change",
+  "url": "https://www.afcmn.org/breaking-bread",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Golden Thyme returns to Rondo",
+  "publisher": "Yahoo News",
+  "url": "https://www.yahoo.com/news/golden-thyme-returns-st-pauls-160220131.html",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Black-owned restaurants",
+  "publisher": "Meet Minneapolis",
+  "url": "https://www.minneapolis.org/food-drink/restaurants/black-owned/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "What's New in Minneapolis' Black Restaurant Scene",
+  "publisher": "Meet Minneapolis",
+  "url": "http://www.minneapolis.org/media/news-releases/whats-new-in-minneapolis-black-restaurant-scene/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Black-owned businesses",
+  "publisher": "Visit Saint Paul",
+  "url": "http://www.visitsaintpaul.com/things-to-do/shopping/black-owned-businesses/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Soul Bowl",
+  "publisher": "Soul Bowl",
+  "url": "https://www.soulbowlmn.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Soul Bowl at the V3 Center",
+  "publisher": "MyNorthNews",
+  "url": "https://mynorthnews.org/stories/2024/12/20/care-for-a-swim-and-some-soul-bowl-dine-in-at-the-v3-center",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Estes Funeral Chapel",
+  "publisher": "Estes Funeral Chapel",
+  "url": "https://www.estesfuneralchapel.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "business"
+ },
+ {
+  "title": "Insight News",
+  "publisher": "Insight News",
+  "url": "https://www.insightnews.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "media"
+ },
+ {
+  "title": "KMOJ feature",
+  "publisher": "Ampers",
+  "url": "https://ampers.org/news/the-peoples-station-kmoj-fm-broadcasts-for-the-minnesota-african-american-community-and-beyond/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "media"
+ },
+ {
+  "title": "MSR's 92nd anniversary",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/08/04/msr-92nd-anniversary-cecil-newman-legacy-2/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "media"
+ },
+ {
+  "title": "Tracey Williams-Dillard profile",
+  "publisher": "Mpls.St.Paul Magazine",
+  "url": "https://mspmag.com/arts-and-culture/tracey-williams-dillard-on-the-living-legacy-of-the-minnesot",
+  "dateChecked": "2026-10-30",
+  "usedFor": "media"
+ },
+ {
+  "title": "MSR 90th anniversary",
+  "publisher": "WCCO",
+  "url": "https://www.cbsnews.com/amp/minnesota/news/minnesota-spokesman-recorder-90th-anniversary",
+  "dateChecked": "2026-10-30",
+  "usedFor": "media"
+ },
+ {
+  "title": "MSR headquarters National Register",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/10/16/msr-headquarters-national-register-historic-places/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "media"
+ },
+ {
+  "title": "Minnesota Spokesman-Recorder landmark",
+  "publisher": "City of Minneapolis",
+  "url": "https://www.minneapolismn.gov/resident-services/property-housing/preservation/landmarks-districts/landmarks/minnesota-spokesman-recorder",
+  "dateChecked": "2026-10-30",
+  "usedFor": "media"
+ },
+ {
+  "title": "Cecil E. Newman",
+  "publisher": "National Endowment for the Humanities",
+  "url": "https://www.neh.gov/blog/cecil-e-newman-newspaper-publisher-and-advocate-minnesotas-black-community",
+  "dateChecked": "2026-10-30",
+  "usedFor": "media and labor"
+ },
+ {
+  "title": "Before the highway: Marvin Anderson",
+  "publisher": "AARP",
+  "url": "https://www.aarp.org/livable-communities/getting-around/info-2023/before-the-highway-rondo-saint-paul-minnesota-marvin-anderson.html",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rondo"
+ },
+ {
+  "title": "Rondo Commemorative Plaza",
+  "publisher": "Minnesota Legacy Amendment",
+  "url": "https://www.legacy.mn.gov/node/37713",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rondo"
+ },
+ {
+  "title": "Rondo Days returns",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rondo Days"
+ },
+ {
+  "title": "Rondo Days canceled for fourth year",
+  "publisher": "WCCO",
+  "url": "https://www.cbsnews.com/minnesota/news/st-pauls-rondo-days-canceled-for-fourth-straight-year",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rondo Days"
+ },
+ {
+  "title": "Rondo Days returns after five years",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/?p=3282241",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rondo Days"
+ },
+ {
+  "title": "Rondo stories",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/tag/rondo/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rondo news"
+ },
+ {
+  "title": "Local and state news",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/category/news-2/local/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "recent news"
+ },
+ {
+  "title": "Local and state news, page 2",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/category/news-2/local/page/2/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "recent news"
+ },
+ {
+  "title": "Long hot summer of 1967",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2020/06/06/minneapolis-long-hot-summer-of-67-and-parallels-to-todays-protests-over-police-brutality/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Northside"
+ },
+ {
+  "title": "History of 35th and 36th Streets",
+  "publisher": "Streets.mn",
+  "url": "https://streets.mn/2025/09/29/community-and-connection-a-history-of-35th-and-36th-streets/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Southside"
+ },
+ {
+  "title": "Pilgrim Baptist history",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/02/22/pilgrim-baptist-church-minnesota-history/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "religion"
+ },
+ {
+  "title": "160 years of sanctuary at Pilgrim Baptist",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2023/06/23/160-years-of-sanctuary-at-pilgrim-baptist-church",
+  "dateChecked": "2026-10-30",
+  "usedFor": "religion"
+ },
+ {
+  "title": "Imam Makram El-Amin profile",
+  "publisher": "Mpls.St.Paul Magazine",
+  "url": "https://mspmag.com/arts-and-culture/imam-makram-el-amin-community-public-safety/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "religion"
+ },
+ {
+  "title": "Black Minnesotans health care rally",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/10/26/black-minnesotans-health-care-rally-faith-in-minnesotav/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "religion and politics"
+ },
+ {
+  "title": "Your Guide to Juneteenth 2026",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Juneteenth 2026 stories",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/tag/juneteenth-2026/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Juneteenth elders' brunch",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/06/22/blm-minnesota-juneteenth-brunch-2026/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Celebrating Juneteenth in Ramsey County",
+  "publisher": "Ramsey County",
+  "url": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Juneteenth 2026 celebrations",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/news/minnesota-juneteenth-2026-celebrations-commemorate-161st-anniversary",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Clayton Jackson McGhie Memorial news",
+  "publisher": "Clayton Jackson McGhie Memorial",
+  "url": "https://claytonjacksonmcghie.org/news",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar and Duluth"
+ },
+ {
+  "title": "Clayton Jackson McGhie Memorial home",
+  "publisher": "Clayton Jackson McGhie Memorial",
+  "url": "https://claytonjacksonmcghie.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Duluth"
+ },
+ {
+  "title": "Duluth memorial speaks to past and present",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2021/10/22/duluth-memorial-speaks-to-minnesotas-past-and-present/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Duluth"
+ },
+ {
+  "title": "Founder pushes for memorial preservation",
+  "publisher": "FOX 21",
+  "url": "https://www.fox21online.com/news/founder-of-clayton-jackson-mcghie-memorial-pushes-for-its-preservation/article_3fd91920-e76a-57a4-ac32-a83285443c1e.html",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Duluth"
+ },
+ {
+  "title": "Learning from Place: Duluth",
+  "publisher": "Minnesota Humanities Center",
+  "url": "https://www.mnhum.org/event/duluth-learning-from-place-african-american-history-and-the-duluth-lynchings-of-1920/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Duluth"
+ },
+ {
+  "title": "George Floyd Global Memorial news",
+  "publisher": "George Floyd Global Memorial",
+  "url": "https://www.georgefloydglobalmemorial.org/news/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "George Floyd Day of Remembrance",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Kwanzaa and Cultural Wellness Center",
+  "publisher": "Cultural Wellness Center",
+  "url": "https://www.culturalwellnesscenter.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar and health"
+ },
+ {
+  "title": "Unity and heritage: Kwanzaa in Minnesota",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2023/12/29/unity-and-heritage-kwanzaa-in-minnesota",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Kwanzaa celebrations continue",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/news/kwanzaa-celebrations-continue-in-minneapolis",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Black History Month events",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2024/02/16/black-history-month-events-in-the-twin-cities-feb-17-22/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Hallie Q. Brown Community Center",
+  "publisher": "Hallie Q. Brown Community Center",
+  "url": "https://www.hallieqbrown.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "organizations"
+ },
+ {
+  "title": "Sabathani Community Center",
+  "publisher": "Sabathani Community Center",
+  "url": "https://www.sabathani.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "organizations"
+ },
+ {
+  "title": "NorthPoint Health and Wellness",
+  "publisher": "NorthPoint Health and Wellness",
+  "url": "https://www.northpointhealth.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "health"
+ },
+ {
+  "title": "Roots Community Birth Center",
+  "publisher": "Roots Community Birth Center",
+  "url": "https://www.rootsbirthcenter.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "health"
+ },
+ {
+  "title": "Roots birth center feature",
+  "publisher": "Minnesota Daily",
+  "url": "https://mndaily.com/210611/city/stbirth",
+  "dateChecked": "2026-10-30",
+  "usedFor": "health"
+ },
+ {
+  "title": "Penumbra",
+  "publisher": "Penumbra",
+  "url": "https://penumbracenter.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "arts"
+ },
+ {
+  "title": "Northside Achievement Zone",
+  "publisher": "Northside Achievement Zone",
+  "url": "https://northsideachievement.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "education"
+ },
+ {
+  "title": "Department of African American and African Studies",
+  "publisher": "University of Minnesota",
+  "url": "https://cla.umn.edu/aaas",
+  "dateChecked": "2026-10-30",
+  "usedFor": "education"
+ },
+ {
+  "title": "Givens Collection",
+  "publisher": "University of Minnesota Libraries",
+  "url": "https://www.lib.umn.edu/collections/special/givens",
+  "dateChecked": "2026-10-30",
+  "usedFor": "arts and scholarship"
+ },
+ {
+  "title": "Benjamin E. Mays Afrocentric program",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/04/04/st-paul-benjamin-e-mays-afrocentric-program/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "education"
+ },
+ {
+  "title": "Street co-naming for Mahmoud El-Kati",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/09/30/saint-paul-restores-street-co-naming-to-honor-elder-mahmoud-el-kati/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "scholars"
+ },
+ {
+  "title": "Yusef Mgeni tribute",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/04/13/yusef-mgeni-obituary-black-minnesota-historian/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "scholars"
+ },
+ {
+  "title": "Dave Winfield statue",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/06/01/david-winfield-statue-st-paul/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "sports"
+ },
+ {
+  "title": "Chief Justice Hudson to retire",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/news/minnesota-supreme-court-chief-justice-natalie-hudson-retire-september",
+  "dateChecked": "2026-10-30",
+  "usedFor": "politics"
+ },
+ {
+  "title": "Natalie Hudson named chief justice",
+  "publisher": "WCCO",
+  "url": "https://www.cbsnews.com/amp/minnesota/news/natalie-hudson-is-named-the-first-black-chief-justice-of-minnesota-supreme-court",
+  "dateChecked": "2026-10-30",
+  "usedFor": "politics"
+ },
+ {
+  "title": "How St. Paul's mayor lost a safe re-election bid",
+  "publisher": "Governing",
+  "url": "https://www.governing.com/politics/how-st-pauls-mayor-lost-a-safe-re-election-bid",
+  "dateChecked": "2026-10-30",
+  "usedFor": "politics"
+ },
+ {
+  "title": "Kaohly Her to lead St. Paul",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2026/01/02/first-woman-hmong-american-kaohly-her-to-lead-st-paul-as-new-mayor",
+  "dateChecked": "2026-10-30",
+  "usedFor": "politics"
+ },
+ {
+  "title": "St. Paul mayor election results",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/election/st-paul-election-results-mayor-2025",
+  "dateChecked": "2026-10-30",
+  "usedFor": "politics"
+ },
+ {
+  "title": "Hennepin County Attorney debate",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/10/19/hennepin-county-attorney-debate-frazier-folk/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "politics"
+ },
+ {
+  "title": "New Minneapolis NAACP president",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/kstp-news/top-news/new-minneapolis-naacp-president-honored-to-lead-civil-rights-group/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "history, older"
+ },
+ {
+  "title": "African American community page",
+  "publisher": "One DSD People, Access and Culture",
+  "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american",
+  "dateChecked": "2026-10-30",
+  "usedFor": "starting point; claims checked"
+ }
+]

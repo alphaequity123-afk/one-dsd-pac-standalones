@@ -1,0 +1,910 @@
+{
+ "community": "latino",
+ "entries": [
+  {
+   "seedId": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "Pascua"
+   ],
+   "kind": "religious",
+   "capsule": "Christian feast of the resurrection, with Spanish-language Masses at Minnesota parishes that serve Latino Catholics.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "howCelebratedInMinnesota": "No Minnesota Latino Easter event could be confirmed by date. Parishes such as Our Lady of Guadalupe in St. Paul and Incarnation-Sagrado Corazón de Jesús in Minneapolis hold regular Spanish Masses.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Our Lady of Guadalupe, Archdiocese listing",
+     "url": "https://www.archspm.org/location/our-lady-of-guadalupe-catholic-church",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Incarnation",
+     "url": "https://www.incarnationmpls.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "good-friday",
+   "name": "Good Friday",
+   "alsoKnownAs": [
+    "Viernes Santo"
+   ],
+   "kind": "religious",
+   "capsule": "Christian day marking the crucifixion of Jesus, kept during Holy Week.",
+   "dateRule": "The Friday before Western Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-03",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-26",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-14",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The crucifixion of Jesus.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "ash-wednesday",
+   "name": "Ash Wednesday",
+   "alsoKnownAs": [
+    "Miércoles de Ceniza"
+   ],
+   "kind": "religious",
+   "capsule": "The start of Lent for Western Christians.",
+   "dateRule": "46 days before Western Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Ash Wednesday",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-10",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Ash Wednesday",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-01",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Ash Wednesday",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Start of Lent.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "mexican-independence-day",
+   "name": "Mexican Independence Day",
+   "alsoKnownAs": [
+    "Grito de Dolores",
+    "Fiestas Patrias"
+   ],
+   "kind": "national",
+   "capsule": "Marks the 1810 start of Mexico's war of independence; St. Paul's first Fiestas Patrias came in 1939.",
+   "dateRule": "September 16. Community events may fall on nearby days.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-16",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-16",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-16",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Start of the 1810 war of independence.",
+   "howCelebratedInMinnesota": "St. Paul held its first Fiestas Patrias in 1939, with a parade from the West Side to downtown (MNopedia). A current dated celebration could not be confirmed. See also the Mexican page.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesotanos: Latino journeys in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/minnesotanos-latino-journeys-minnesota",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "central-american-independence-day",
+   "name": "Central American Independence Day",
+   "alsoKnownAs": [
+    "Día de la Independencia"
+   ],
+   "kind": "national",
+   "capsule": "Several Central American nations mark independence from Spain on this date, at the start of Heritage Month.",
+   "dateRule": "September 15.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-15",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-15",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-15",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Independence of Central America from Spain in 1821.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "día-de-la-virgen-de-guadalupe",
+   "name": "Día de la Virgen de Guadalupe",
+   "alsoKnownAs": [
+    "Our Lady of Guadalupe"
+   ],
+   "kind": "religious",
+   "capsule": "Feast honoring Our Lady of Guadalupe, kept in Minnesota with processions, Masses, mariachi and dance.",
+   "dateRule": "December 12. Some parishes begin the evening before.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-12",
+     "endDate": null,
+     "source": "The Catholic Spirit: decree read on the feast day, December 12",
+     "sourceUrl": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-12",
+     "endDate": null,
+     "source": "The Catholic Spirit: decree read on the feast day, December 12",
+     "sourceUrl": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-12",
+     "endDate": null,
+     "source": "The Catholic Spirit: decree read on the feast day, December 12",
+     "sourceUrl": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Feast of Our Lady of Guadalupe, tied to the reported appearance of the Virgin Mary to a Mexican peasant nearly five centuries ago.",
+   "howCelebratedInMinnesota": "At the diocesan shrine in St. Paul, an annual one-mile procession, Mass and reception, with about 700 people at the anticipatory Mass in 2019. At Queen of Angels in Austin in 2019, Mass followed by a night of mariachi and chinelos dancers. In 2003 about 300 attended a midnight Mass at Misión El Santo Niño Jesús in St. Paul.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "St. Paul parish named diocesan shrine, The Catholic Spirit",
+     "url": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Austin community marks the feast, MPR News",
+     "url": "https://www.mprnews.org/story/2019/12/16/photos-austin-community-marks-the-feast-of-our-lady-of-guadalupe",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Mexican Minnesotans celebrate, MPR",
+     "url": "https://archive.mpr.org/stories/2003/12/12/mexican-minnesotans-celebrate-our-lady-of-guadalupe",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "día-de-los-muertos",
+   "name": "Día de los Muertos",
+   "alsoKnownAs": [
+    "Day of the Dead"
+   ],
+   "kind": "heritage",
+   "capsule": "Remembrance of the dead, honored in Minnesota with public celebrations, altars and art.",
+   "dateRule": "November 1 and 2. Public events may fall on nearby days.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-02",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-02",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-02",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Remembrance of the dead (observed November 1 and 2).",
+   "howCelebratedInMinnesota": "CLUES holds a public celebration at Midtown Global Market. Centro Tyrone Guzmán also promotes a 2026 celebration. The state council and Governor's Office recognized the day in 2025.",
+   "minnesotaEvents": [
+    {
+     "name": "CLUES Día de los Muertos Celebration",
+     "place": "Central Court, Midtown Global Market, 920 E. Lake St., Minneapolis",
+     "link": "https://clues.org/",
+     "organizerDates": "Sunday, Nov. 1, 2026, 11:30 a.m. to 3:30 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CLUES home",
+     "url": "https://clues.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Midtown Global Market events",
+     "url": "https://www.midtownglobalmarket.org/events",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Centro Tyrone Guzmán",
+     "url": "https://www.centromn.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MCLA Annual Legislative Report 2025",
+     "url": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "christmas",
+   "name": "Christmas",
+   "alsoKnownAs": [
+    "Navidad",
+    "Nochebuena"
+   ],
+   "kind": "religious",
+   "capsule": "Christian feast of the birth of Jesus.",
+   "dateRule": "December 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+   "howCelebratedInMinnesota": "At St. Paul's-San Pablo Lutheran in Minneapolis, members made paper flowers for pre-Christmas processions in the winter of 2025 to 2026 (Associated Press). No other Minnesota detail could be confirmed.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "A Minneapolis church holds a service of Lament and Hope, AP",
+     "url": "https://rapidcitypost.com/a-minneapolis-church-holds-a-service-of-lament-and-hope-amid-fears-over-immigration-crackdown/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "día-de-los-reyes",
+   "name": "Día de los Reyes",
+   "alsoKnownAs": [
+    "Three Kings Day",
+    "Epiphany"
+   ],
+   "kind": "religious",
+   "capsule": "The visit of the Magi, a gift day in many Latin American and Caribbean families.",
+   "dateRule": "January 6.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-06",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-06",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-06",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The visit of the Magi. Practice differs by family and by country of origin.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "las-posadas-first-night",
+   "name": "Las Posadas (first night)",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Nine nights re-enacting Mary and Joseph's search for shelter, kept in some Latino Christian traditions.",
+   "dateRule": "December 16, for nine nights through December 24. Parish dates may vary.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-16",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-16",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-16",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Nine nights (December 16 to 24) re-enacting Mary and Joseph's search for shelter.",
+   "howCelebratedInMinnesota": "No dated Minnesota Las Posadas could be confirmed. Pre-Christmas processions at St. Paul's-San Pablo Lutheran in Minneapolis were noted by the Associated Press in January 2026, without using that name.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "A Minneapolis church holds a service of Lament and Hope, AP",
+     "url": "https://rapidcitypost.com/a-minneapolis-church-holds-a-service-of-lament-and-hope-amid-fears-over-immigration-crackdown/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "hispanic-heritage-month-begins",
+   "name": "Hispanic Heritage Month (begins)",
+   "alsoKnownAs": [
+    "Latine Heritage Month",
+    "Mes de la Herencia"
+   ],
+   "kind": "heritage",
+   "capsule": "U.S. month, September 15 to October 15, marked in Minnesota with festivals, art and business events.",
+   "dateRule": "Begins September 15 and ends October 15.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-15",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-15",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-15",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
+   "howCelebratedInMinnesota": "In 2026: CLUES's group exhibition and Fiesta Latina, and Minneapolis's Latino Business Week. The state council and Governor's Office recognized the month in 2025. The University of Minnesota's Chicano & Latino Studies department also marks it, as Latinx Heritage Month.",
+   "minnesotaEvents": [
+    {
+     "name": "To Be Minnesotane: Ser y Estar, group exhibition",
+     "place": "CLUES St. Paul Art Gallery, 797 E. 7th St.",
+     "link": "https://clues.org/event-calendar/",
+     "organizerDates": "Sept. 12 to Nov. 6, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CLUES calendar",
+     "url": "https://clues.org/event-calendar/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MCLA Annual Legislative Report 2025",
+     "url": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "UMN Chicano & Latino Studies",
+     "url": "https://cla.umn.edu/chicano-latino",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Fiesta Latina",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "CLUES's free family festival, held at CHS Field in St. Paul in 2026.",
+   "dateRule": "Set each year by CLUES.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": null,
+     "source": "CLUES",
+     "sourceUrl": "https://clues.org/fiesta-latina/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A public celebration of Latino culture and community during Heritage Month.",
+   "howCelebratedInMinnesota": "Free and family-friendly, 11:30 a.m. to 4:30 p.m. at CHS Field in 2026, the first year there. CLUES mentions plans for 2027.",
+   "minnesotaEvents": [
+    {
+     "name": "Fiesta Latina 2026",
+     "place": "CHS Field, 360 N. Broadway St., St. Paul",
+     "link": "https://clues.org/fiesta-latina/",
+     "organizerDates": "Saturday, Sept. 19, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Fiesta Latina, CLUES",
+     "url": "https://clues.org/fiesta-latina/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Cinco de Mayo on the West Side",
+   "alsoKnownAs": [
+    "Cinco de Mayo Fiesta"
+   ],
+   "kind": "community festival",
+   "capsule": "Two-day St. Paul street festival with a parade, music and food on the West Side.",
+   "dateRule": "Set each year by organizers, around May 5.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-01",
+     "endDate": "2026-05-02",
+     "source": "Sahan Journal, April 29, 2026",
+     "sourceUrl": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "On the West Side, a yearly celebration of Mexican heritage and of the neighborhood, and in 2026 a hoped-for boost for businesses recovering from the enforcement surge.",
+   "howCelebratedInMinnesota": "Organized by the West Side Boosters Club and West Side Fiesta Committee, with car shows, more than 40 food vendors, 80 craft and service vendors, two stages, a kids zone and a parade. Attendance was roughly 30,000 the year before, per Sahan Journal.",
+   "minnesotaEvents": [
+    {
+     "name": "Cinco de Mayo 2026",
+     "place": "Cesar Chavez Street, West Side, St. Paul",
+     "link": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
+     "organizerDates": "May 1 to 2, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Latino businesses hope for Cinco de Mayo boost, Sahan Journal",
+     "url": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Latino Business Week",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Minneapolis week celebrating and supporting Latino-owned businesses, held for the third time in 2026.",
+   "dateRule": "Set each year by the City of Minneapolis.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-05",
+     "endDate": "2026-10-11",
+     "source": "MPR News, Oct. 6, 2026",
+     "sourceUrl": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Support for Latino-owned businesses, in 2026 during recovery from the enforcement surge.",
+   "howCelebratedInMinnesota": "Kickoff with Mayor Frey, a pop-up market on Historic Main Street and a celebration at Mercado Central, partly funded by city relief money.",
+   "minnesotaEvents": [
+    {
+     "name": "Latino Business Week 2026",
+     "place": "Minneapolis, including Mercado Central",
+     "link": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+     "organizerDates": "Oct. 5 to 11, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minneapolis shops invite customers for Latino Business Week, MPR News",
+     "url": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Farmworkers Day",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Minnesota's governor proclaimed March 31, 2026, as Farmworkers Day after lawmakers repealed Cesar Chavez Day.",
+   "dateRule": "Proclaimed for March 31, 2026. No yearly law sets it, and no later proclamation was found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-31",
+     "endDate": null,
+     "source": "FOX 9, March 31, 2026",
+     "sourceUrl": "https://fox9.com/news/minnesota-recognizes-farmworkers-day-following-cesar-chavez-fallout-march-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The contributions of farmworkers and the sacrifices of immigrants and their families.",
+   "howCelebratedInMinnesota": "The governor's 2026 proclamation. West Side and school leaders spoke publicly that day, per FOX 9.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota recognizes Farmworkers Day, FOX 9",
+     "url": "https://fox9.com/news/minnesota-recognizes-farmworkers-day-following-cesar-chavez-fallout-march-2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Laws of Minnesota 2026, Chapter 42",
+     "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/42",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Latine Day at the Capitol",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "State council's annual gathering at the Capitol for Latino Minnesotans to meet lawmakers.",
+   "dateRule": "Set each year by the Minnesota Council on Latino Affairs during session.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Latino civic voice in state policy.",
+   "howCelebratedInMinnesota": "On April 24, 2025, under the theme Hope, Unity, and Action for a Better Future. A 2026 date could not be confirmed.",
+   "minnesotaEvents": [
+    {
+     "name": "Latine Day at the Capitol 2025",
+     "place": "Minnesota State Capitol, St. Paul",
+     "link": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+     "organizerDates": "April 24, 2025",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MCLA Annual Legislative Report 2025",
+     "url": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Worthington International Festival",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Downtown Worthington festival with mariachi, Mexican dance, Afro-Peruvian and Ecuadorian acts alongside many other communities.",
+   "dateRule": "Set each year by organizers, in July.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-09",
+     "endDate": "2026-07-11",
+     "source": "International Festival",
+     "sourceUrl": "https://www.worthingtoninternationalfestival.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Worthington's many cultures, begun in 1994 as a soccer tournament.",
+   "howCelebratedInMinnesota": "The 2026 schedule included Son de mi Tierra, Enlazados and Ecuador Manta. Earlier years featured Nuevo Guachinango, Los Vandettas, Salsa del Soul and Aztec dancers. It is a shared festival, not a Latino one alone.",
+   "minnesotaEvents": [
+    {
+     "name": "International Festival 2026",
+     "place": "Nobles County Government Center and downtown Worthington",
+     "link": "https://www.worthingtoninternationalfestival.org/",
+     "organizerDates": "July 9 to 11, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "International Festival",
+     "url": "https://www.worthingtoninternationalfestival.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Schedule",
+     "url": "https://www.worthingtoninternationalfestival.org/schedule",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "International Festival celebrates 30 years, The Globe",
+     "url": "https://www.dglobe.com/news/local/international-festival-celebrates-30-years",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": [
+  {
+   "id": "colombian-independence-day",
+   "reason": "A single-origin national day with no Latino-wide Minnesota observance found. It belongs on the Colombian page."
+  },
+  {
+   "id": "ecuadorian-independence-day",
+   "reason": "A single-origin national day with no Latino-wide Minnesota observance found. It belongs on the Ecuadorian page."
+  }
+ ]
+}

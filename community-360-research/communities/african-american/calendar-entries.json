@@ -1,0 +1,1197 @@
+{
+ "community": "african-american",
+ "entries": [
+  {
+   "seedId": "juneteenth",
+   "name": "Juneteenth",
+   "alsoKnownAs": [
+    "Juneteenth National Independence Day"
+   ],
+   "kind": "national",
+   "capsule": "Marks news of freedom reaching enslaved people in Texas, now a week of events across Minnesota.",
+   "dateRule": "June 19.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-19",
+     "endDate": null,
+     "source": "Ramsey County press release; Spokesman-Recorder guide",
+     "sourceUrl": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-19",
+     "endDate": null,
+     "source": "Fixed date; Ramsey County states the June 19, 1865 anniversary",
+     "sourceUrl": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-19",
+     "endDate": null,
+     "source": "Fixed date; Ramsey County states the June 19, 1865 anniversary",
+     "sourceUrl": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "June 19, 1865, when the last enslaved people in Texas were told they were free, as the county states it.",
+   "howCelebratedInMinnesota": "Statewide in 2026: about 40 events listed, including Northside and Southside festivals in Minneapolis, Rondo and Capitol celebrations in St. Paul, and events in St. Cloud, Winona, Marshall, Mankato, Virginia, Moorhead and Rochester.",
+   "minnesotaEvents": [
+    {
+     "name": "Soul of the Southside Festival",
+     "place": "Lake St. and Minnehaha Ave., Minneapolis",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026, noon to 8 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Juneteenth Jamboree",
+     "place": "West Broadway Ave. N., Minneapolis",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026, 11 a.m. to 7 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Northside Juneteenth BBQ, Family Swim and Block Party",
+     "place": "Webber Natural Pool, Minneapolis",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 14, 2026, 11 a.m. to 3 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Rondo's Sixth Annual Juneteenth Celebration",
+     "place": "315 Fisk St., St. Paul",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Juneteenth 2026: The Reckoning",
+     "place": "Minnesota State Capitol, St. Paul",
+     "link": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "organizerDates": "June 19, 2026, noon to 6 p.m., The Anika Foundation",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Kumbayah: The Juneteenth Story",
+     "place": "The O'Shaughnessy, St. Catherine University",
+     "link": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "organizerDates": "June 26, 2026, 2 to 4:30 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "St. Cloud's Annual Juneteenth Celebration",
+     "place": "Lake George Park, St. Cloud",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026, noon to 7 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Iron Range Juneteenth Celebration",
+     "place": "500 Block Chestnut St., Virginia",
+     "link": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "organizerDates": "June 19, 2026, 11 a.m. to 3 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Juneteenth Jubilee Breakfast",
+     "place": "Empire Event Center, Rochester",
+     "link": "https://www.fox9.com/news/minnesota-juneteenth-2026-celebrations-commemorate-161st-anniversary",
+     "organizerDates": "2026; date not given",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Black Lives Matter Minnesota Juneteenth brunch",
+     "place": "Venue not named",
+     "link": "https://spokesman-recorder.com/2026/06/22/blm-minnesota-juneteenth-brunch-2026/",
+     "organizerDates": "June 19, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Your Guide to Juneteenth 2026 Events Across Minnesota, Spokesman-Recorder",
+     "url": "https://spokesman-recorder.com/2026/06/13/juneteenth-2026-events-minnesota/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Celebrating Juneteenth in Ramsey County",
+     "url": "https://www.ramseycountymn.gov/news/celebrating-juneteenth-ramsey-county",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "FOX 9, Juneteenth 2026",
+     "url": "https://www.fox9.com/news/minnesota-juneteenth-2026-celebrations-commemorate-161st-anniversary",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "rondo-days",
+   "name": "Rondo Days",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "St. Paul festival honoring Rondo, the Black neighborhood cut in half by Interstate 94.",
+   "dateRule": "Usually the third Saturday of July in St. Paul, as organizers set it each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-18",
+     "endDate": null,
+     "source": "MPR News, July 15, 2026, says 'Saturday' that weekend, which is July 18",
+     "sourceUrl": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-17",
+     "endDate": null,
+     "source": "Calculated from the usual pattern; organizers confirm each year",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-15",
+     "endDate": null,
+     "source": "Calculated from the usual pattern; organizers confirm each year",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The Rondo neighborhood and its families, displaced by I-94 construction from 1956 to 1968. First held in July 1983.",
+   "howCelebratedInMinnesota": "In 2026: Martin Luther King Jr. Recreation Center, St. Paul, noon to 7 p.m., with live music, more than 18 food trucks, 30-plus vendors, a youth zone and a morning seniors brunch. The festival was not held from 2020 through 2023 and later returned after a five-year gap.",
+   "minnesotaEvents": [
+    {
+     "name": "Rondo Days 2026",
+     "place": "Martin Luther King Jr. Recreation Center, St. Paul",
+     "link": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+     "organizerDates": "Saturday, July 18, 2026, noon to 7 p.m.; organizers Merina Neal and Gayle Smaller",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MPR News, Rondo Days returns",
+     "url": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MNopedia, Rondo Neighborhood",
+     "url": "https://www.mnhs.org/mnopedia/search/index/place/rondo-neighborhood-st-paul",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "WCCO, June 1, 2023",
+     "url": "https://www.cbsnews.com/minnesota/news/st-pauls-rondo-days-canceled-for-fourth-straight-year",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "KSTP, undated",
+     "url": "https://kstp.com/?p=3282241",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "martin-luther-king-jr-day",
+   "name": "Martin Luther King Jr. Day",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "Federal holiday for Dr. King's life and work, marked with marches and elder gatherings in Minnesota.",
+   "dateRule": "Third Monday in January.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-19",
+     "endDate": null,
+     "source": "Clayton Jackson McGhie Memorial lists Monday, Jan. 19, 2026",
+     "sourceUrl": "https://claytonjacksonmcghie.org/news",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-18",
+     "endDate": null,
+     "source": "Calculated: third Monday in January",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-17",
+     "endDate": null,
+     "source": "Calculated: third Monday in January",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Life and work of Dr. Martin Luther King Jr.",
+   "howCelebratedInMinnesota": "Duluth held a gathering, march and rally on Jan. 19, 2026. Hallie Q. Brown in St. Paul has held an MLK weekend Elder's Brunch (2025). I could not open a current page for a Twin Cities holiday breakfast.",
+   "minnesotaEvents": [
+    {
+     "name": "Duluth MLK gathering, march and rally",
+     "place": "Duluth",
+     "link": "https://claytonjacksonmcghie.org/news",
+     "organizerDates": "Jan. 19, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Clayton Jackson McGhie Memorial news",
+     "url": "https://claytonjacksonmcghie.org/news",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Hallie Q. Brown Community Center",
+     "url": "https://www.hallieqbrown.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "george-floyd-remembrance",
+   "name": "George Floyd remembrance",
+   "alsoKnownAs": [
+    "Rise and Remember Festival"
+   ],
+   "kind": "remembrance",
+   "capsule": "Remembers George Floyd, killed May 25, 2020, at 38th Street and Chicago Avenue in Minneapolis.",
+   "dateRule": "May 25; related events are announced each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-25",
+     "endDate": null,
+     "source": "FOX 9 states May 25, 2020; fixed anniversary",
+     "sourceUrl": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-25",
+     "endDate": null,
+     "source": "FOX 9 states May 25, 2020; fixed anniversary",
+     "sourceUrl": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-25",
+     "endDate": null,
+     "source": "FOX 9 states May 25, 2020; fixed anniversary",
+     "sourceUrl": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The May 25, 2020 murder of George Floyd in Minneapolis.",
+   "howCelebratedInMinnesota": "At George Floyd Square, 38th and Chicago. In 2026 this included the sixth Rise and Remember Festival and a brunch and yellow flower ceremony led by Win Back.",
+   "minnesotaEvents": [
+    {
+     "name": "Rise and Remember Festival",
+     "place": "George Floyd Square, Minneapolis",
+     "link": "https://www.georgefloydglobalmemorial.org/news/",
+     "organizerDates": "May 23 to 25, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Day of Remembrance Brunch and yellow flower ceremony",
+     "place": "Downtown Minneapolis and George Floyd Square",
+     "link": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "organizerDates": "May 22, 2026, Win Back",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "George Floyd Global Memorial news",
+     "url": "https://www.georgefloydglobalmemorial.org/news/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "FOX 9, May 2026",
+     "url": "https://www.fox9.com/news/george-floyd-day-remembrance-events-may-2026",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Duluth Day of Remembrance",
+   "alsoKnownAs": [
+    "Clayton Jackson McGhie remembrance"
+   ],
+   "kind": "remembrance",
+   "capsule": "Honors Elias Clayton, Elmer Jackson and Isaac McGhie, lynched in Duluth on June 15, 1920.",
+   "dateRule": "June 15, with events set each year by the memorial group.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-14",
+     "endDate": "2026-06-15",
+     "source": "Clayton Jackson McGhie Memorial",
+     "sourceUrl": "https://claytonjacksonmcghie.org/news",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-15",
+     "endDate": null,
+     "source": "Fixed anniversary, MNopedia",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-15",
+     "endDate": null,
+     "source": "Fixed anniversary, MNopedia",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The 1920 lynchings in Duluth.",
+   "howCelebratedInMinnesota": "Gravesite memorial at Park Hill Cemetery in 2026, along with programs by the Clayton Jackson McGhie Memorial, including a Gospel Brunch and Elders' Luncheon posted that June.",
+   "minnesotaEvents": [
+    {
+     "name": "Gravesite Memorial",
+     "place": "Park Hill Cemetery, 2500 Vermilion Rd., Duluth",
+     "link": "https://claytonjacksonmcghie.org/news",
+     "organizerDates": "June 14, 2026, 5:30 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Juneteenth in Duluth",
+     "place": "Duluth",
+     "link": "https://claytonjacksonmcghie.org/news",
+     "organizerDates": "Posted June 18, 2026; date and place not shown",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Clayton Jackson McGhie Memorial news",
+     "url": "https://claytonjacksonmcghie.org/news",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MNopedia, Duluth Lynchings",
+     "url": "https://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "kwanzaa-first-day",
+   "name": "Kwanzaa (first day)",
+   "alsoKnownAs": [
+    "Kwanzaa"
+   ],
+   "kind": "heritage",
+   "capsule": "First of seven days, December 26 to January 1, honoring African heritage and community.",
+   "dateRule": "December 26.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-26",
+     "endDate": null,
+     "source": "Fixed date; Cultural Wellness Center's 2025 observance began Dec. 26",
+     "sourceUrl": "https://www.culturalwellnesscenter.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-26",
+     "endDate": null,
+     "source": "Fixed date; Cultural Wellness Center's 2025 observance began Dec. 26",
+     "sourceUrl": "https://www.culturalwellnesscenter.org/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-26",
+     "endDate": null,
+     "source": "Fixed date; Cultural Wellness Center's 2025 observance began Dec. 26",
+     "sourceUrl": "https://www.culturalwellnesscenter.org/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "First of seven days honoring African heritage, each with a principle such as Umoja, unity.",
+   "howCelebratedInMinnesota": "The Cultural Wellness Center has held free daytime gatherings at Midtown Global Market with drumming, dance, stories and food, including in 2022, 2023 and 2025.",
+   "minnesotaEvents": [
+    {
+     "name": "Pan-African Kwanzaa Remembering",
+     "place": "Midtown Global Market, Minneapolis",
+     "link": "https://www.culturalwellnesscenter.org/",
+     "organizerDates": "Dec. 26 to 31, 2025, noon to 3 p.m.; 2026 dates not found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cultural Wellness Center",
+     "url": "https://www.culturalwellnesscenter.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR News, Dec. 28, 2023",
+     "url": "https://www.mprnews.org/story/2023/12/29/unity-and-heritage-kwanzaa-in-minnesota",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "FOX 9, Dec. 27, 2022",
+     "url": "https://www.fox9.com/news/kwanzaa-celebrations-continue-in-minneapolis",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "black-history-month-begins",
+   "name": "Black History Month (begins)",
+   "alsoKnownAs": [],
+   "kind": "heritage",
+   "capsule": "A month of Black history programs across Twin Cities museums, theaters, libraries and community centers.",
+   "dateRule": "February 1.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-01",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-01",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-01",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Month of Black history, February.",
+   "howCelebratedInMinnesota": "The Spokesman-Recorder has published weekly event lists. Its February 2024 list included events at Sabathani, the Minnesota African American museum, the Capri Theater and North Regional Library. I did not open a 2026 list.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Spokesman-Recorder, Feb. 16, 2024",
+     "url": "https://spokesman-recorder.com/2024/02/16/black-history-month-events-in-the-twin-cities-feb-17-22/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "watch-night",
+   "name": "Watch Night",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "New Year's Eve church vigil, recalling the 1862 wait for the Emancipation Proclamation.",
+   "dateRule": "December 31.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-31",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened Minnesota page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-31",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened Minnesota page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-31",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened Minnesota page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "New Year's Eve vigil, remembering the 1862 vigil before the Emancipation Proclamation took effect.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "Pascua"
+   ],
+   "kind": "religious",
+   "capsule": "Resurrection of Jesus, central to the Black church year.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Pilgrim Baptist history, Spokesman-Recorder (Feb. 22, 2026)",
+     "url": "https://spokesman-recorder.com/2026/02/22/pilgrim-baptist-church-minnesota-history/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "christmas",
+   "name": "Christmas",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Birth of Jesus, marked in Black churches and at Penumbra's Black Nativity.",
+   "dateRule": "December 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Birth of Jesus.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Black Nativity",
+     "place": "Penumbra, 270 N. Kent St., St. Paul",
+     "link": "https://penumbracenter.org/",
+     "organizerDates": "December 1 to 24; page does not state the year",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Penumbra",
+     "url": "https://penumbracenter.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "start-of-ramadan",
+   "name": "Start of Ramadan",
+   "alsoKnownAs": [
+    "Ramadan"
+   ],
+   "kind": "religious",
+   "capsule": "Month of daytime fasting, observed by African American Muslims and many other Minnesotans.",
+   "dateRule": "First day of the ninth Islamic month; decided by moon sighting or an adopted calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-28",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the month of daytime fasting.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Mpls.St.Paul Magazine, Imam Makram El-Amin profile (Nov. 1, 2021)",
+     "url": "https://mspmag.com/arts-and-culture/imam-makram-el-amin-community-public-safety/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Minneapolis faith traditions summary, City of Minneapolis (Aug. 19, 2025)",
+     "url": "https://www.minneapolismn.gov/media/-www-content-assets/documents/Religion-Houses-of-Worship.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-alfitr",
+   "name": "Eid al-Fitr",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "End of the Ramadan fast, kept by African American Muslims and many other Minnesotans.",
+   "dateRule": "First day of Shawwal; decided by moon sighting or an adopted calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-20",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-26",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "End of Ramadan.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Mpls.St.Paul Magazine, Imam Makram El-Amin profile (Nov. 1, 2021)",
+     "url": "https://mspmag.com/arts-and-culture/imam-makram-el-amin-community-public-safety/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Minneapolis faith traditions summary, City of Minneapolis (Aug. 19, 2025)",
+     "url": "https://www.minneapolismn.gov/media/-www-content-assets/documents/Religion-Houses-of-Worship.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-aladha",
+   "name": "Eid al-Adha",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Festival of sacrifice during Hajj season, kept by African American Muslims and others here.",
+   "dateRule": "Tenth day of Dhu al-Hijjah; decided by moon sighting or an adopted calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Mpls.St.Paul Magazine, Imam Makram El-Amin profile (Nov. 1, 2021)",
+     "url": "https://mspmag.com/arts-and-culture/imam-makram-el-amin-community-public-safety/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Minneapolis faith traditions summary, City of Minneapolis (Aug. 19, 2025)",
+     "url": "https://www.minneapolismn.gov/media/-www-content-assets/documents/Religion-Houses-of-Worship.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "malcolm-xs-birthday",
+   "name": "Malcolm X's birthday",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Birthday of Malcolm X, born in 1925.",
+   "dateRule": "May 19.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-19",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-19",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-19",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Birth of Malcolm X in 1925.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "anniversary-of-dr-kings-assassination",
+   "name": "Anniversary of Dr. King's assassination",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Anniversary of the killing of Dr. King on April 4, 1968.",
+   "dateRule": "April 4.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-04",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-04-04",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-04",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "April 4, 1968.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "march-on-washington-anniversary",
+   "name": "March on Washington anniversary",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Anniversary of the August 28, 1963 March on Washington.",
+   "dateRule": "August 28.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-28",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-28",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-28",
+     "endDate": null,
+     "source": "Fixed Gregorian date; not stated by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The August 28, 1963 March on Washington.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": null,
+   "name": "Black Business Week",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Minneapolis week celebrating Black-owned businesses, leading into August's Black Business Month.",
+   "dateRule": "Announced each year by the City of Minneapolis.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-27",
+     "endDate": "2026-08-02",
+     "source": "City of Minneapolis",
+     "sourceUrl": "https://www.minneapolismn.gov/things-to-do/events/2026-events/july/black-business-week/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Black-owned businesses and economic recovery.",
+   "howCelebratedInMinnesota": "Summit, workshops and markets across North and South Minneapolis, with a preceding street mall at Capri Plaza on July 25, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Black Business Summit and Market",
+     "place": "The Northside Epicenter, 705 42nd Ave. N.",
+     "link": "https://spokesman-recorder.com/2026/07/23/minneapolis-black-business-week-2026-guide/",
+     "organizerDates": "Aug. 1, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "City of Minneapolis",
+     "url": "https://www.minneapolismn.gov/things-to-do/events/2026-events/july/black-business-week/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "City of Minneapolis news",
+     "url": "https://www.minneapolismn.gov/news/2026/july/bbw-2026/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Best of Black Business Awards",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Spokesman-Recorder awards celebrating Black-owned businesses chosen by community voting.",
+   "dateRule": "Announced each year by the Spokesman-Recorder.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-07",
+     "endDate": null,
+     "source": "Spokesman-Recorder",
+     "sourceUrl": "https://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-finalists/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Black-owned businesses, in the awards' second year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Second Annual Best of Black Business Awards",
+     "place": "Venue not named",
+     "link": "https://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-finalists/",
+     "organizerDates": "Nov. 7, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Spokesman-Recorder",
+     "url": "https://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-finalists/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Minnesota Black Chamber of Commerce Gala",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Annual gala of Minnesota's Black chamber, which inducted its first Hall of Fame class in 2026.",
+   "dateRule": "Announced each year by the chamber.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-08",
+     "endDate": null,
+     "source": "Spokesman-Recorder",
+     "sourceUrl": "https://spokesman-recorder.com/2026/08/13/minnesota-black-business-hall-of-fame-inaugural-class/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Black business achievement.",
+   "howCelebratedInMinnesota": "Held at the Saint Paul InterContinental Riverfront in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Gala and Hall of Fame induction",
+     "place": "Saint Paul InterContinental Riverfront",
+     "link": "https://spokesman-recorder.com/2026/08/13/minnesota-black-business-hall-of-fame-inaugural-class/",
+     "organizerDates": "Aug. 8, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Spokesman-Recorder, Aug. 13, 2026",
+     "url": "https://spokesman-recorder.com/2026/08/13/minnesota-black-business-hall-of-fame-inaugural-class/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Selby Avenue JazzFest",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Jazz festival on Selby Avenue in the heart of historic Rondo.",
+   "dateRule": "Announced each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-12",
+     "endDate": null,
+     "source": "Spokesman-Recorder",
+     "sourceUrl": "https://spokesman-recorder.com/2026/09/30/saint-paul-restores-street-co-naming-to-honor-elder-mahmoud-el-kati/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Music and Rondo's cultural life.",
+   "howCelebratedInMinnesota": "In 2026 the street co-naming honor for Mahmoud El-Kati was announced during a performance there.",
+   "minnesotaEvents": [
+    {
+     "name": "Selby Avenue JazzFest",
+     "place": "Selby Avenue, St. Paul",
+     "link": "https://spokesman-recorder.com/2026/09/30/saint-paul-restores-street-co-naming-to-honor-elder-mahmoud-el-kati/",
+     "organizerDates": "Sept. 12, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Spokesman-Recorder, Sept. 30, 2026",
+     "url": "https://spokesman-recorder.com/2026/09/30/saint-paul-restores-street-co-naming-to-honor-elder-mahmoud-el-kati/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Hallie Q. Brown Day",
+   "alsoKnownAs": [
+    "HQB Day"
+   ],
+   "kind": "heritage",
+   "capsule": "Marks the first program at St. Paul's Hallie Q. Brown Community Center on April 1, 1929.",
+   "dateRule": "Around April 1; the center's page describes it in 2025.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The center's founding program in 1929.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Hallie Q. Brown Community Center",
+     "url": "https://www.hallieqbrown.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}

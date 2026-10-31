@@ -1,0 +1,422 @@
+[
+ {
+  "name": "El Burrito Mercado",
+  "type": "grocery and restaurant",
+  "neighborhoodOrCity": "West Side, St. Paul (175 Cesar Chavez St.)",
+  "whatItIs": "Mexican grocery, deli, restaurant, cantina, catering and food truck, serving since 1979.",
+  "link": "https://www.elburritomercado.com/location/el-burrito-mercado/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site lists current hours by department. Sahan Journal, April 29, 2026, reports reduced staff of 70 and sales losses, still operating."
+ },
+ {
+  "name": "Boca Chica Restaurante y Cantina",
+  "type": "restaurant",
+  "neighborhoodOrCity": "West Side, St. Paul (11 Cesar Chavez St.)",
+  "whatItIs": "Mexican and Tex-Mex restaurant since 1964, with mariachis on fourth Saturdays.",
+  "link": "https://www.bocachicarestaurant.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows hours and menus labeled July and September 2026."
+ },
+ {
+  "name": "Mercado Central",
+  "type": "market",
+  "neighborhoodOrCity": "Lake Street, Minneapolis (1515 E. Lake St.)",
+  "whatItIs": "Vendor-owned cooperative market opened in July 1999.",
+  "link": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "MPR News, Oct. 6, 2026, reports a Latino Business Week celebration there and vendors at work."
+ },
+ {
+  "name": "Tortillería La Perla",
+  "type": "tortilla maker and restaurant",
+  "neighborhoodOrCity": "Mercado Central, Minneapolis",
+  "whatItIs": "Restaurant inside Mercado Central.",
+  "link": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "MPR News, Oct. 6, 2026, quotes José Payan of the business about current trade. Its own website could not be reached."
+ },
+ {
+  "name": "Midtown Global Market",
+  "type": "market",
+  "neighborhoodOrCity": "Lake Street, Minneapolis (920 E. Lake St.)",
+  "whatItIs": "Public market that hosts Latino merchants and events.",
+  "link": "https://www.midtownglobalmarket.org/events",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own events page lists a Nov. 1, 2026 Día de los Muertos celebration."
+ },
+ {
+  "name": "Manny's Tortas",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Midtown Global Market, Minneapolis",
+  "whatItIs": "Mexican tortas; began through Mercado Central's incubator, per Sahan Journal.",
+  "link": "https://www.mannystortas.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site and Midtown Global Market page list hours; Sahan Journal, 2025, describes its expansion."
+ },
+ {
+  "name": "Salsa A La Salsa",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Midtown Global Market, Minneapolis",
+  "whatItIs": "Central Mexican family recipes, with vegetarian and vegan options.",
+  "link": "https://www.midtownglobalmarket.org/merchants",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Midtown Global Market merchant page lists current hours and phone."
+ },
+ {
+  "name": "El Taco Toro",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Midtown Global Market, Minneapolis",
+  "whatItIs": "Family-run food stall; the merchant page does not state its cuisine beyond its name.",
+  "link": "https://www.midtownglobalmarket.org/merchants",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Midtown Global Market merchant page lists current hours."
+ },
+ {
+  "name": "Andy's Garage",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Midtown Global Market, Minneapolis",
+  "whatItIs": "American and Mexican comfort food, including tamales to take home. Ownership background not stated.",
+  "link": "https://www.midtownglobalmarket.org/merchants",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Midtown Global Market merchant page lists current hours."
+ },
+ {
+  "name": "Novedades Krystal 2",
+  "type": "apparel shop",
+  "neighborhoodOrCity": "Midtown Global Market, Minneapolis",
+  "whatItIs": "Sells quinceañera dresses and cultural apparel. Ownership background not stated.",
+  "link": "https://www.midtownglobalmarket.org/merchants",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed on Midtown Global Market merchant page, checked Oct. 30, 2026."
+ },
+ {
+  "name": "Marsu Pizzeria and Taqueria",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Lake Street, Minneapolis",
+  "whatItIs": "Pizza and taqueria.",
+  "link": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, April 29, 2026, quotes the owner on returning customers and a staff of four."
+ },
+ {
+  "name": "Los Ocampo",
+  "type": "restaurant group",
+  "neighborhoodOrCity": "St. Paul (1751 Suburban Ave.; 615 University Ave. W.; 2186 Marshall Ave.)",
+  "whatItIs": "Mexican restaurants and a food truck.",
+  "link": "https://www.losocampo.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site lists hours and weekly specials for three locations."
+ },
+ {
+  "name": "Colonial Market",
+  "type": "market",
+  "neighborhoodOrCity": "South Minneapolis",
+  "whatItIs": "Market housing a dozen businesses, owned by Daniel Hernandez.",
+  "link": "https://www.cbsnews.com/minnesota/news/trump-immigration-minneapolis-small-business-impact",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "WCCO, Dec. 16, 2025, reported the owner selling 10 to 15 percent of normal, with businesses inside closed. No later sign found."
+ },
+ {
+  "name": "Milagro's Beauty Salon",
+  "type": "salon",
+  "neighborhoodOrCity": "Minneapolis area",
+  "whatItIs": "Salon owned by Ninfa Ortiz.",
+  "link": "https://sahanjournal.com/business-work/minnesota-latino-businesses-statewide-support/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in Sahan Journal, Feb. 21, 2025. Nothing later found."
+ },
+ {
+  "name": "Floreria Yare",
+  "type": "florist",
+  "neighborhoodOrCity": "Minneapolis area",
+  "whatItIs": "Flower shop owned by Guillermina Figueroa.",
+  "link": "https://sahanjournal.com/business-work/minnesota-latino-businesses-statewide-support/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in Sahan Journal, Feb. 21, 2025. Nothing later found."
+ },
+ {
+  "name": "Plaza Mexico",
+  "type": "market or shopping center",
+  "neighborhoodOrCity": "Minneapolis area",
+  "whatItIs": "Named in coverage of Latino business concerns; details not given.",
+  "link": "https://sahanjournal.com/business-work/minnesota-latino-businesses-statewide-support/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in Sahan Journal, Feb. 21, 2025. Nothing later found."
+ },
+ {
+  "name": "Dulceria La Piñata",
+  "type": "candy shop",
+  "neighborhoodOrCity": "Mercado Central, Minneapolis",
+  "whatItIs": "Candy stall run by Leopoldo Sanchez.",
+  "link": "https://sahanjournal.com/business-work/mercado-central-lake-street-minneapolis-loan-forgiven-immigration/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in Sahan Journal, April 28, 2025. Nothing later found."
+ },
+ {
+  "name": "Luceritos Fashion",
+  "type": "apparel shop",
+  "neighborhoodOrCity": "Mercado Central, Minneapolis",
+  "whatItIs": "Clothing shop run by Marina Lopez.",
+  "link": "https://sahanjournal.com/business-work/mercado-central-lake-street-minneapolis-loan-forgiven-immigration/",
+  "dateChecked": "2026-10-30",
+  "status": "closed",
+  "evidence": "Sahan Journal, April 28, 2025, says it closed in February 2025."
+ },
+ {
+  "name": "Plaza del Sol",
+  "type": "food hall (in development)",
+  "neighborhoodOrCity": "Payne Avenue, St. Paul",
+  "whatItIs": "Latino Economic Development Center building being converted to a food hall, commissary kitchen and event center.",
+  "link": "https://www.ledcmn.org/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "LEDC's site describes the project as a conversion underway; no opening date seen."
+ },
+ {
+  "name": "Long Branch",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington (206 10th St.)",
+  "whatItIs": "Mexican and American cuisine, with a seasonal taco truck.",
+  "link": "https://www.exploreminnesota.com/profile/long-branch/4362",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Explore Minnesota listing, no hours shown."
+ },
+ {
+  "name": "La Michoacana",
+  "type": "shop",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Immigrant-owned shop mentioned in a personal essay.",
+  "link": "https://barnraisingmedia.com/immigrants-find-a-home-rural-minnesota-worthington/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Barn Raiser essay, July 4, 2024, only; no address or later sign."
+ },
+ {
+  "name": "Alicia Bakery & Restaurant",
+  "type": "bakery and restaurant",
+  "neighborhoodOrCity": "Austin (1017 2nd Ave. NE)",
+  "whatItIs": "Bakery and restaurant; its back room held a Guadalupe altar in a 2019 MPR story.",
+  "link": "https://austinmn.com/ethnic",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Discover Austin listing; last dated mention read was MPR, December 2019."
+ },
+ {
+  "name": "Tienda y Taqueria Guerrero",
+  "type": "grocery and taqueria",
+  "neighborhoodOrCity": "Austin (301 4th Ave. NE)",
+  "whatItIs": "Store and taqueria.",
+  "link": "https://austinmn.com/ethnic",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Discover Austin listing."
+ },
+ {
+  "name": "Los Landeros",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Austin (501 Oakland Ave. W.)",
+  "whatItIs": "Listed among Austin's restaurants; the listing's layout makes the address less certain.",
+  "link": "https://austinmn.com/ethnic",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Discover Austin listing."
+ },
+ {
+  "name": "El Mariachi",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Austin (227 N. Main St.)",
+  "whatItIs": "Mexican restaurant.",
+  "link": "https://austinmn.com/ethnic",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Discover Austin listing."
+ },
+ {
+  "name": "El Patron Mexican Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Austin (1906 8th St. NW)",
+  "whatItIs": "Mexican restaurant.",
+  "link": "https://austinmn.com/ethnic",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Discover Austin listing."
+ },
+ {
+  "name": "1910 Fresh Mexican Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Austin (507 1st St. NW)",
+  "whatItIs": "Mexican restaurant. Ownership background not stated.",
+  "link": "https://austinmn.com/ethnic",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Discover Austin listing."
+ },
+ {
+  "name": "Rincón Catracho",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Name refers to Honduras; a page image suggests a market. Cuisine not stated in the text.",
+  "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Willmar Lakes Area listing with no street address."
+ },
+ {
+  "name": "El Tapatío",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Likely Mexican, judged from the name; the listing does not label cuisine.",
+  "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Willmar Lakes Area listing."
+ },
+ {
+  "name": "El Coqui Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Listed under international cuisine; cuisine not stated.",
+  "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Willmar Lakes Area listing."
+ },
+ {
+  "name": "El Meson Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Listed under international cuisine; cuisine not stated.",
+  "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Willmar Lakes Area listing."
+ },
+ {
+  "name": "El Viejon Mariscos Y Tacos",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Seafood and tacos, from the name.",
+  "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Willmar Lakes Area listing."
+ },
+ {
+  "name": "Giliberto's Mexican Taco Shop",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Mexican taco shop.",
+  "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Willmar Lakes Area listing."
+ },
+ {
+  "name": "Azteca",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Listed under international cuisine; cuisine not stated.",
+  "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Undated Willmar Lakes Area listing."
+ },
+ {
+  "name": "Latino Chamber of Commerce of Minnesota",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "Downtown Minneapolis (81 S. 9th St., Suite 200)",
+  "whatItIs": "Chamber supporting Latino entrepreneurs, with a business directory and mixers.",
+  "link": "https://latinochambermn.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site lists weekday hours, events and partners; its calendar shows no year."
+ },
+ {
+  "name": "Latino Economic Development Center",
+  "type": "business lender and adviser",
+  "neighborhoodOrCity": "East Side, St. Paul (990 Payne Ave.)",
+  "whatItIs": "Community development lender for Latino entrepreneurs, with farm programs and a scholarship fund.",
+  "link": "https://www.ledcmn.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site shows a November news post and 2026 recognition."
+ },
+ {
+  "name": "La Prensa de Minnesota",
+  "type": "newspaper and news site",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Spanish-language news from LCN Media.",
+  "link": "https://www.laprensademn.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Stories dated through Oct. 30, 2026."
+ },
+ {
+  "name": "Vida y Sabor",
+  "type": "entertainment publication",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Spanish-language entertainment site from LCN Media.",
+  "link": "https://vidaysabor.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Stories dated Oct. 30, 2026."
+ },
+ {
+  "name": "El Minnesota de Hoy",
+  "type": "news site",
+  "neighborhoodOrCity": "Minnesota",
+  "whatItIs": "Spanish-language news from MLatino Media.",
+  "link": "https://www.elminnesotadehoy.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Stories dated Oct. 30, 2026; 2026 footer."
+ },
+ {
+  "name": "Radio Rey (El Rey 94.9 FM)",
+  "type": "radio",
+  "neighborhoodOrCity": "West St. Paul (149 Thompson Ave. E., #201)",
+  "whatItIs": "Spanish-language radio reporting more than 45 years of service.",
+  "link": "https://elrey949fm.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Site image dated September 2026 in its file path. Footer is older."
+ },
+ {
+  "name": "Univision Minnesota (WUMN)",
+  "type": "television",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Spanish-language station.",
+  "link": "https://latinochambermn.com/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named as a partner by the Latino Chamber. The station's own site turned the request away."
+ },
+ {
+  "name": "Minnesota Hispanic Bar Association",
+  "type": "professional association",
+  "neighborhoodOrCity": "Minnesota",
+  "whatItIs": "Association of Hispanic lawyers.",
+  "link": "https://latinochambermn.com/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named as a partner by the Latino Chamber. Its own site returned no content."
+ }
+]

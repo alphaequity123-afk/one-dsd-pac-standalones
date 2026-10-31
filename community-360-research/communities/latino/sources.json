@@ -1,0 +1,856 @@
+[
+ {
+  "title": "Latino Minnesota (current page)",
+  "publisher": "One DSD",
+  "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Page checked for corrections"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B03001, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Origins"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B03003, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03003&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Total"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B01002I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B01002I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Median age"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B05003I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05003I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Nativity and citizenship"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B11001I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B11001I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Household type"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B16006, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B16006&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Language"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B17001H, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B17001H&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Poverty, white non-Latino"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B17001I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B17001I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Poverty"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B18101H, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B18101H&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Disability, white non-Latino"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B18101I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B18101I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Disability"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B19001I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B19001I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Income brackets"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B19013, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B19013&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Median income, state"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B19013H, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B19013H&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Median income, white non-Latino"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B19013I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B19013I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Median income"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B25003H, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B25003H&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Tenure, white non-Latino"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B25003I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B25003I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Tenure"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table B25010I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B25010I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Household size"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table C15002H, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C15002H&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Education, white non-Latino"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table C15002I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C15002I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Education"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table C23002I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C23002I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Employment"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table C24010I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C24010I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Occupation"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, table C27001I, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C27001I&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Health insurance"
+ },
+ {
+  "title": "American Community Survey 2024 one-year, table B03001, Minnesota",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Latest single-year total and origins"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, focus cities",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001,B19013I,B25003I,B17001I,B05003I,C15002I&geo_ids=16000US2771734,16000US2770420,16000US2702908,16000US2769700,16000US2758000,16000US2743000,16000US2754214,16000US2757040",
+  "dateChecked": "2026-10-30",
+  "usedFor": "City origins, income, tenure, poverty, nativity, education"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, B03003, all Minnesota counties",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03003&geo_ids=050|04000US27",
+  "dateChecked": "2026-10-30",
+  "usedFor": "County counts"
+ },
+ {
+  "title": "American Community Survey 2020 to 2024, B03003, St. James, Long Prairie, Madelia",
+  "publisher": "U.S. Census Bureau, through Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03003&geo_ids=16000US2757040,16000US2738060,16000US2739230",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Town shares"
+ },
+ {
+  "title": "Minnesotanos: Latino Journeys in Minnesota",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/minnesotanos-latino-journeys-minnesota",
+  "dateChecked": "2026-10-30",
+  "usedFor": "History, chronology, labor, civic milestones"
+ },
+ {
+  "title": "Honduran profile",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/honduran",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Honduran figures"
+ },
+ {
+  "title": "Cultural communities list",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Which profiles exist"
+ },
+ {
+  "title": "Home",
+  "publisher": "CLUES",
+  "url": "https://clues.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Offices, leadership, events"
+ },
+ {
+  "title": "About",
+  "publisher": "CLUES",
+  "url": "https://www.clues.org/about",
+  "dateChecked": "2026-10-30",
+  "usedFor": "History, staff, people served"
+ },
+ {
+  "title": "Latinos in Minnesota",
+  "publisher": "CLUES",
+  "url": "https://clues.org/about/latinos-in-minnesota/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Census history"
+ },
+ {
+  "title": "Event calendar",
+  "publisher": "CLUES",
+  "url": "https://clues.org/event-calendar/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Exhibition dates"
+ },
+ {
+  "title": "Fiesta Latina",
+  "publisher": "CLUES",
+  "url": "https://clues.org/fiesta-latina/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Festival date"
+ },
+ {
+  "title": "Annual Legislative Report 2025",
+  "publisher": "Minnesota Council on Latino Affairs, through Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Policy, leadership, observances"
+ },
+ {
+  "title": "A Closer Look at Minnesota Latino Workforce and Business Development, 2009",
+  "publisher": "Chicano Latino Affairs Council",
+  "url": "https://mn.gov/mcla/assets/A%20Closer%20Look%20at%20Minnesota%20Latino%20Workforce%20and%20Business%20Development_tcm1099-295204.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Historic business figures"
+ },
+ {
+  "title": "Good Question: What's Minnesota's Latino history?",
+  "publisher": "WCCO",
+  "url": "https://www.cbsnews.com/minnesota/news/good-question-amid-hispanic-heritage-month-whats-minnesotas-latino-history/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "History, identity, 1980 share"
+ },
+ {
+  "title": "Latino organizations look to the future of leadership",
+  "publisher": "Ampers",
+  "url": "https://ampers.org/latino-organizations-look-to-the-future-of-leadership/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Labels and leadership"
+ },
+ {
+  "title": "Immigrants Find a Home in This Rural Minnesota Town",
+  "publisher": "Barn Raiser",
+  "url": "https://barnraisingmedia.com/immigrants-find-a-home-rural-minnesota-worthington/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Worthington life"
+ },
+ {
+  "title": "Building Community, Embracing Difference",
+  "publisher": "Humphrey School and Center for Rural Policy and Development",
+  "url": "https://www.ruralmn.org/wp-content/uploads/2021/06/Building-Community-Embracing-Difference-_-2021-_Gehlen-et-al.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rural arrival dates, Willmar"
+ },
+ {
+  "title": "The Vitality of Latino Communities in Rural Minnesota",
+  "publisher": "Center for Rural Policy and Development and HACER",
+  "url": "https://hacer-mn.org/staging/wp-content/uploads/2019/12/vitalitylatinocommunitiesruralminnesota.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rural history, churches"
+ },
+ {
+  "title": "Little Mogadishu in the All-America City?",
+  "publisher": "Federal Reserve Bank of Minneapolis",
+  "url": "https://www.minneapolisfed.org/article/2011/little-mogadishu-in-the-allamerica-city-somali-entrepreneurship-in-willmar-minnesota",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Willmar Latino history"
+ },
+ {
+  "title": "Austin at a Crossroads",
+  "publisher": "MPR News",
+  "url": "https://minnesota.publicradio.org/projects/2010/08/austin-at-a-crossroads/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Austin history"
+ },
+ {
+  "title": "The Spam Factory's Dirty Secret",
+  "publisher": "Mother Jones",
+  "url": "https://www.motherjones.com/politics/2011/06/hormel-spam-pig-brains-disease/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Austin plant illness"
+ },
+ {
+  "title": "Takeaways from AP's report on how immigration transformed a Minnesota farm town",
+  "publisher": "Associated Press via KESQ",
+  "url": "https://kesq.com/news/ap-national-news/2024/10/31/takeaways-from-aps-report-on-how-immigration-transformed-a-minnesota-farm-town/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Worthington schools"
+ },
+ {
+  "title": "Latino businesses hope for Cinco de Mayo boost after Operation Metro Surge",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Business losses, festival"
+ },
+ {
+  "title": "Minneapolis shops invite customers for Latino Business Week",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Recovery, event"
+ },
+ {
+  "title": "Mercado Central loan forgiven",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/business-work/mercado-central-lake-street-minneapolis-loan-forgiven-immigration/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Mercado history"
+ },
+ {
+  "title": "Minnesota Latino businesses statewide support",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/business-work/minnesota-latino-businesses-statewide-support/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Owner count, businesses"
+ },
+ {
+  "title": "Amid ICE surge, Minnesotans face complex relationship with employers",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/business-work/minnesota-workers-employers-navigate-immigration-enforcement/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Workers, unions"
+ },
+ {
+  "title": "Trump immigration Minneapolis small business impact",
+  "publisher": "WCCO",
+  "url": "https://www.cbsnews.com/minnesota/news/trump-immigration-minneapolis-small-business-impact",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Colonial Market"
+ },
+ {
+  "title": "Minnesota's Latina lawmakers",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/democracy-politics/minnesota-legislature-senate-house-latina-lawmakers/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Officeholders"
+ },
+ {
+  "title": "St. Paul residents brainstorm new names for César Chávez Street",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/democracy-politics/saint-paul-cesar-chavez-street-renaming/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Renaming"
+ },
+ {
+  "title": "St. Paul neighborhood begins process to rename César Chavez Street",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2026/07/16/st-paul-neighborhood-begins-process-to-rename-csar-chavez-street",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Renaming"
+ },
+ {
+  "title": "Renaming Cesar Chavez Street",
+  "publisher": "West St. Paul Reader",
+  "url": "https://weststpaulreader.com/2026/07/06/renaming-cesar-chavez-street/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Street history, Huerta"
+ },
+ {
+  "title": "WSCO Hosts Community Input Sessions",
+  "publisher": "Minnesota Spokesman-Recorder",
+  "url": "https://spokesman-recorder.com/2026/07/12/cesar-chavez-street-renaming-st-paul-input/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Sessions"
+ },
+ {
+  "title": "New West Side brand unveiled",
+  "publisher": "St. Paul Voice",
+  "url": "https://www.stpaulpublishing.com/new-west-side-brand-unveiled-vote-soon-to-rename-cesar-chavez-street/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "District del Sol, ballot"
+ },
+ {
+  "title": "Street Renaming Process, About",
+  "publisher": "West Side Community Organization",
+  "url": "https://www.wsco.org/streetrenaming_about",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Vote date, guidelines"
+ },
+ {
+  "title": "Home",
+  "publisher": "West Side Community Organization",
+  "url": "https://www.wsco.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "West Side facts, work"
+ },
+ {
+  "title": "Laws of Minnesota 2026, Chapter 42",
+  "publisher": "Minnesota Revisor of Statutes",
+  "url": "https://www.revisor.mn.gov/laws/2026/0/Session+Law/Chapter/42",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Repeal of Cesar Chavez Day"
+ },
+ {
+  "title": "Minnesota recognizes Farmworkers Day",
+  "publisher": "FOX 9",
+  "url": "https://fox9.com/news/minnesota-recognizes-farmworkers-day-following-cesar-chavez-fallout-march-2026",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Proclamation"
+ },
+ {
+  "title": "After Cesar Chavez fallout, maybe we just stop naming things after people",
+  "publisher": "Racket",
+  "url": "https://racketmn.com/after-cesar-chavez-fallout-maybe-we-just-stop-naming-things-after-people",
+  "dateChecked": "2026-10-30",
+  "usedFor": "School statement"
+ },
+ {
+  "title": "California civil rights leader Dolores Huerta dies at 96",
+  "publisher": "NBC Los Angeles",
+  "url": "https://www.nbclosangeles.com/news/local/california-civil-rights-leader-dolores-huerta-dies-at-96/3962301/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Huerta death"
+ },
+ {
+  "title": "Home",
+  "publisher": "COPAL",
+  "url": "https://copalmn.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Organizing, statements"
+ },
+ {
+  "title": "Home",
+  "publisher": "Unidos MN",
+  "url": "https://unidos-mn.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Organizing"
+ },
+ {
+  "title": "Home",
+  "publisher": "CTUL",
+  "url": "https://ctul.net/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Labor organizing"
+ },
+ {
+  "title": "Minnesota Latino leaders press lawmakers",
+  "publisher": "Hola America News",
+  "url": "https://holaamericanews.com/minnesota-latino-leaders-press-lawmakers-to-protect-immigrants-after-ice-occupation/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "MiLLA priorities"
+ },
+ {
+  "title": "Member record, María Isa Pérez-Vega",
+  "publisher": "Minnesota Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=15574",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Officeholder"
+ },
+ {
+  "title": "Autism prevalence, MMWR 74(2)",
+  "publisher": "CDC",
+  "url": "https://www.cdc.gov/mmwr/volumes/74/ss/ss7402a1.htm",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Autism rates"
+ },
+ {
+  "title": "New Autism Prevalence Findings in Minnesota",
+  "publisher": "Institute on Community Integration, University of Minnesota",
+  "url": "https://ici.umn.edu/news/new-autism-prevalence-findings-in-minnesota",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Autism, coverage area"
+ },
+ {
+  "title": "Connecting Communities",
+  "publisher": "Institute on Community Integration",
+  "url": "https://ici.umn.edu/news/connecting-communities",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Community connectors"
+ },
+ {
+  "title": "Autism Spectrum Disorder fact sheet",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.mn.gov/docs/communities/titlev/autism.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Family barriers"
+ },
+ {
+  "title": "Olmstead Plan Public Comment Meeting Report, SPAN and HACER",
+  "publisher": "Dendros, for the Olmstead Implementation Office",
+  "url": "https://mn.gov/olmstead/assets/SPAN_HACER%20Public%20Comment%20Report_6-3%20plain%20language%20edit_tcm1143-753621.pdf",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Disability testimony"
+ },
+ {
+  "title": "PACER press release on Latino and Somali families",
+  "publisher": "PACER Center",
+  "url": "https://www.pacer.org/?p=8448",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Disability programs"
+ },
+ {
+  "title": "Home",
+  "publisher": "discapacitados abriéndose caminos",
+  "url": "https://dacfamilycenter.org",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Disability organization status"
+ },
+ {
+  "title": "Undocumented immigrants lose access to MinnesotaCare",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/health/undocumented-immigrants-healthcare-minnesotacare/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Coverage"
+ },
+ {
+  "title": "Home",
+  "publisher": "Centro Tyrone Guzmán",
+  "url": "https://www.centromn.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Programs"
+ },
+ {
+  "title": "Home",
+  "publisher": "HACER",
+  "url": "https://hacer-mn.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Programs"
+ },
+ {
+  "title": "Publications and reports",
+  "publisher": "HACER",
+  "url": "https://hacer-mn.org/publications-reports/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Report list"
+ },
+ {
+  "title": "Addressing the Economic Realities of Latino Older Adults and Caregivers",
+  "publisher": "HACER",
+  "url": "https://hacer-mn.org/addressing-the-economic-realities-of-latino-older-adults-and-caregivers-in-minnesota/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Older adults"
+ },
+ {
+  "title": "Access to the Watonwan County Health System",
+  "publisher": "HACER",
+  "url": "https://hacer-mn.org/access-to-the-watonwan-county-health-system-for-latino-communities/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Rural health"
+ },
+ {
+  "title": "Empowering Latina Entrepreneurs",
+  "publisher": "HACER",
+  "url": "https://hacer-mn.org/empowering-latina-entrepreneurs-in-minnesota/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Entrepreneurs"
+ },
+ {
+  "title": "Latino Access to the Arts",
+  "publisher": "HACER",
+  "url": "https://hacer-mn.org/latino-access-to-the-arts-in-minnesota/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Arts"
+ },
+ {
+  "title": "Our Lady of Guadalupe listing",
+  "publisher": "Archdiocese of St. Paul and Minneapolis",
+  "url": "https://www.archspm.org/location/our-lady-of-guadalupe-catholic-church",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Parish"
+ },
+ {
+  "title": "St. Paul parish named diocesan shrine",
+  "publisher": "The Catholic Spirit",
+  "url": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Feast"
+ },
+ {
+  "title": "Home",
+  "publisher": "Incarnation-Sagrado Corazón de Jesús",
+  "url": "https://www.incarnationmpls.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Parish"
+ },
+ {
+  "title": "Photos: Austin community marks the feast of Our Lady of Guadalupe",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2019/12/16/photos-austin-community-marks-the-feast-of-our-lady-of-guadalupe",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Feast"
+ },
+ {
+  "title": "Mexican Minnesotans celebrate Our Lady of Guadalupe",
+  "publisher": "MPR",
+  "url": "https://archive.mpr.org/stories/2003/12/12/mexican-minnesotans-celebrate-our-lady-of-guadalupe",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Feast"
+ },
+ {
+  "title": "The only Spanish-language Mass in Waite Park got canceled",
+  "publisher": "Minnesota Reformer via St. Cloud Live",
+  "url": "https://www.stcloudlive.com/news/local/the-only-spanish-language-mass-in-waite-park-got-canceled-the-congregation-is-fighting-back",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Religion"
+ },
+ {
+  "title": "A Minneapolis church holds a service of Lament and Hope",
+  "publisher": "Associated Press via Rapid City Post",
+  "url": "https://rapidcitypost.com/a-minneapolis-church-holds-a-service-of-lament-and-hope-amid-fears-over-immigration-crackdown/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Religion, enforcement"
+ },
+ {
+  "title": "On Point: Minneapolis is standing up to ICE",
+  "publisher": "WBUR",
+  "url": "https://www.wbur.org/onpoint/2026/01/28/minneapolis-is-standing-up-to-ice",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Dios Habla Hoy"
+ },
+ {
+  "title": "Minnesota churches roiled by legal battle",
+  "publisher": "Atlanta Journal-Constitution",
+  "url": "https://www.ajc.com/news/2026/09/minnesota-churches-roiled-by-legal-battle-over-ice-surveillance-and-right-to-protest/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Background only"
+ },
+ {
+  "title": "St. Paul schools halt enrollment slide",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/education/st-paul-schools-halt-enrollment-slide-hmong-spanish-east-african-programs/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Spanish programs"
+ },
+ {
+  "title": "Home",
+  "publisher": "Academia In Lak'ech",
+  "url": "https://www.academiainlakech.org",
+  "dateChecked": "2026-10-30",
+  "usedFor": "School"
+ },
+ {
+  "title": "Community partners",
+  "publisher": "UMN Chicano & Latino Studies",
+  "url": "https://cla.umn.edu/chicano-latino/engagement-collaboration/community-partners",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Schools, partners"
+ },
+ {
+  "title": "Home",
+  "publisher": "UMN Chicano & Latino Studies",
+  "url": "https://cla.umn.edu/chicano-latino",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Department"
+ },
+ {
+  "title": "Home",
+  "publisher": "La Oportunidad",
+  "url": "https://oportunidad.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Youth programs"
+ },
+ {
+  "title": "Home",
+  "publisher": "Teatro del Pueblo",
+  "url": "https://www.teatrodelpueblo.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Arts"
+ },
+ {
+  "title": "At 70, artist Jimmy Longoria still paints with ambition",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/episode/2024/10/21/at-70-artist-jimmy-longoria-still-paints-with-ambition",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Arts"
+ },
+ {
+  "title": "Home",
+  "publisher": "Minnesota Latino Museum",
+  "url": "https://www.mnlatinomuseum.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Planned museum"
+ },
+ {
+  "title": "Summer festival spotlight: Worthington International Festival",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/episode/2024/07/10/summer-festival-spotlight-worthington-international-festival",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Festival"
+ },
+ {
+  "title": "International Festival celebrates 30 years",
+  "publisher": "The Globe",
+  "url": "https://www.dglobe.com/news/local/international-festival-celebrates-30-years",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Festival history"
+ },
+ {
+  "title": "31st annual International Festival schedule",
+  "publisher": "The Globe",
+  "url": "https://www.dglobe.com/news/local/31st-annual-international-festival-schedule-of-events",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Festival 2025"
+ },
+ {
+  "title": "International Festival",
+  "publisher": "International Festival",
+  "url": "https://www.worthingtoninternationalfestival.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "2026 dates"
+ },
+ {
+  "title": "Schedule",
+  "publisher": "International Festival",
+  "url": "https://www.worthingtoninternationalfestival.org/schedule",
+  "dateChecked": "2026-10-30",
+  "usedFor": "2026 performers"
+ },
+ {
+  "title": "Midtown Global Market events",
+  "publisher": "Midtown Global Market",
+  "url": "https://www.midtownglobalmarket.org/events",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Event"
+ },
+ {
+  "title": "Merchants",
+  "publisher": "Midtown Global Market",
+  "url": "https://www.midtownglobalmarket.org/merchants",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Businesses"
+ },
+ {
+  "title": "Home",
+  "publisher": "Manny's Tortas",
+  "url": "https://www.mannystortas.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Business"
+ },
+ {
+  "title": "Home and hours",
+  "publisher": "El Burrito Mercado",
+  "url": "https://www.elburritomercado.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Business"
+ },
+ {
+  "title": "Hours and location",
+  "publisher": "El Burrito Mercado",
+  "url": "https://www.elburritomercado.com/location/el-burrito-mercado/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Business hours"
+ },
+ {
+  "title": "Home",
+  "publisher": "Boca Chica",
+  "url": "https://www.bocachicarestaurant.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Business"
+ },
+ {
+  "title": "Home",
+  "publisher": "Los Ocampo",
+  "url": "https://www.losocampo.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Business"
+ },
+ {
+  "title": "Latino Chamber of Commerce of Minnesota",
+  "publisher": "Latino Chamber of Commerce of Minnesota",
+  "url": "https://latinochambermn.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Chamber"
+ },
+ {
+  "title": "Latino Economic Development Center",
+  "publisher": "Latino Economic Development Center",
+  "url": "https://www.ledcmn.org/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Lender"
+ },
+ {
+  "title": "Discover Austin, ethnic dining",
+  "publisher": "Discover Austin",
+  "url": "https://austinmn.com/ethnic",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Business listing"
+ },
+ {
+  "title": "International cuisine",
+  "publisher": "Willmar Lakes Area",
+  "url": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Business listing"
+ },
+ {
+  "title": "Long Branch listing",
+  "publisher": "Explore Minnesota",
+  "url": "https://www.exploreminnesota.com/profile/long-branch/4362",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Business listing"
+ },
+ {
+  "title": "Home",
+  "publisher": "La Prensa de Minnesota",
+  "url": "https://www.laprensademn.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Media"
+ },
+ {
+  "title": "Home",
+  "publisher": "Vida y Sabor",
+  "url": "https://vidaysabor.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Media"
+ },
+ {
+  "title": "Home",
+  "publisher": "El Minnesota de Hoy",
+  "url": "https://www.elminnesotadehoy.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Media, sports"
+ },
+ {
+  "title": "Home",
+  "publisher": "El Rey 94.9 FM",
+  "url": "https://elrey949fm.com/",
+  "dateChecked": "2026-10-30",
+  "usedFor": "Media"
+ }
+]
