@@ -1,0 +1,646 @@
+[
+ {
+  "title": "Arabic-speaking Minnesota (current page)",
+  "publisher": "One DSD",
+  "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Page checked for corrections"
+ },
+ {
+  "title": "Ancestry, ACS 2020-2024 5-year, table B04006, Minnesota",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B04006&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arab ancestry counts"
+ },
+ {
+  "title": "Ancestry by county, ACS 2020-2024, B04006",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B04006&geo_ids=050|04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arab ancestry by county"
+ },
+ {
+  "title": "Ancestry, ACS 2024 1-year, B04006, Minnesota",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "One-year comparison"
+ },
+ {
+  "title": "Language spoken at home, detailed, ACS 2020-2024, B16001",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B16001&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arabic speakers and English ability"
+ },
+ {
+  "title": "Language spoken at home by county, ACS 2020-2024, C16001",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C16001&geo_ids=050|04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arabic speakers by county"
+ },
+ {
+  "title": "Language spoken at home by place, ACS 2020-2024, C16001",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C16001&geo_ids=160|04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arabic speakers by city"
+ },
+ {
+  "title": "Place of birth for foreign-born, ACS 2020-2024, B05006",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Birthplace counts"
+ },
+ {
+  "title": "Lebanese population",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/lebanese",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Lebanese profile 2020-2024"
+ },
+ {
+  "title": "Cultural communities",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Which groups have profiles"
+ },
+ {
+  "title": "From Iraq to Minnesota, a new life (Sept. 8, 2008)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2008/09/08/from-iraq-to-minnesota-a-new-life",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Early Iraqi refugee arrivals"
+ },
+ {
+  "title": "A Minnesota Iraqi connection (Jan. 18, 2012)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2012/01/18/a-minnesota-iraqi-connection",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Kurdish Iraqi translators, Fargo-Moorhead"
+ },
+ {
+  "title": "Iraqi refugees dream of reuniting family in Minnesota (Dec. 1, 2014)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2014/12/01/iraqi-refugees-dream-of-reuniting-family-in-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Iraqi refugees in Fridley; IARP films"
+ },
+ {
+  "title": "Intimate portraits of Iraqi Minnesotans confronting the idea of home (Jan. 27, 2022)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/episode/2022/01/27/intimate-portraits-of-iraqi-minnesotans-confronting-the-idea-of-home",
+  "dateChecked": "2026-10-31",
+  "usedFor": "About 2,000 Iraqi refugees; Iraqi Voices exhibit"
+ },
+ {
+  "title": "Iraqi Minnesotan Jamal Ali helping refugees tell their stories (2019)",
+  "publisher": "WCCO / CBS Minnesota",
+  "url": "https://www.cbsnews.com/minnesota/news/what-i-did-was-worth-doing-iraqi-minnesotan-jamal-ali-helping-refugees-tell-their-stories/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Iraqi Voices; DHS Outstanding Refugee"
+ },
+ {
+  "title": "About",
+  "publisher": "Mizna",
+  "url": "https://mizna.org/about/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mizna history, founders, film festival, honors"
+ },
+ {
+  "title": "2026 Twin Cities Arab Film Festival",
+  "publisher": "Mizna",
+  "url": "https://mizna.org/event/2026-tcaff/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Festival dates Sept. 23-27, 2026"
+ },
+ {
+  "title": "Events",
+  "publisher": "Mizna",
+  "url": "https://mizna.org/events/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Upcoming Mizna events"
+ },
+ {
+  "title": "Our Story",
+  "publisher": "Iraqi and American Reconciliation Project",
+  "url": "https://www.reconciliationproject.org/our-story",
+  "dateChecked": "2026-10-31",
+  "usedFor": "IARP history, Najaf sister city, Iraqi Voices"
+ },
+ {
+  "title": "Home",
+  "publisher": "Iraqi and American Reconciliation Project",
+  "url": "https://www.reconciliationproject.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "IARP mission; Kleicha program"
+ },
+ {
+  "title": "Palestine Cinema Days 2026: Return to Haifa",
+  "publisher": "Mizna",
+  "url": "https://mizna.org/event/palestine-cinema-days-2026-return-to-haifa/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Nov. 2, 2026 screening"
+ },
+ {
+  "title": "St. Mary's Coptic Orthodox Church (home)",
+  "publisher": "St. Mary's Coptic Orthodox Church of Minnesota",
+  "url": "https://stmarymn.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Address, service times"
+ },
+ {
+  "title": "Fr. Youannes Tawfik",
+  "publisher": "St. Mary's Coptic Orthodox Church of Minnesota",
+  "url": "https://stmarymn.org/about-us/fr-youannes/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Priest since 1999"
+ },
+ {
+  "title": "Overview of Coptic Orthodox Church",
+  "publisher": "St. Mary's Coptic Orthodox Church of Minnesota",
+  "url": "https://stmarymn.org/about-us/coptic-overview/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Coptic identity"
+ },
+ {
+  "title": "St. Simon the Elder Ministry",
+  "publisher": "St. Mary's Coptic Orthodox Church of Minnesota",
+  "url": "https://stmarymn.org/services/senior-ministry/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Senior ministry"
+ },
+ {
+  "title": "St. Mark's Festival (Mahragan El-Keraza)",
+  "publisher": "St. Mary's Coptic Orthodox Church of Minnesota",
+  "url": "https://stmarymn.org/services/sunday-school/mahragan/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Youth festival"
+ },
+ {
+  "title": "First outpost of Yemeni coffee chain draws crowd in Little Canada (2024)",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/business-work/qamaria-yemeni-coffee-little-canada-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Qamaria Yemeni coffee; Muslim youth spaces"
+ },
+ {
+  "title": "'Untapped market': Yemeni coffee chains set sights on Twin Cities (June 12, 2024)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/episode/2024/06/12/rapidly-growing-yemeni-coffee-chains-set-sights-on-twin-cities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Qamaria, Qahwah House"
+ },
+ {
+  "title": "Palestinian Bakeries, Oh Crepe!, and Central Avenue on a Roll (Aug. 9, 2024)",
+  "publisher": "The Heavy Table",
+  "url": "https://heavytable.substack.com/p/palestinian-bakeries-and-central",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Palestinian bakeries, Central Avenue businesses"
+ },
+ {
+  "title": "Central Avenue Checklist: Al Amir Bakery to Fair State Brewing Cooperative (Aug. 5, 2015)",
+  "publisher": "The Heavy Table",
+  "url": "https://heavytable.com/central-avenue-checklist-al-amir-bakery-to-fair-state-brewing-cooperative/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Al Amir Bakery, Iraqi bread"
+ },
+ {
+  "title": "Meet the family behind Holy Land, the hummus mecca of Minneapolis",
+  "publisher": "WCCO / CBS Minnesota",
+  "url": "https://www.cbsnews.com/minnesota/news/meet-the-family-behind-holy-land-the-hummus-mecca-of-minneapolis/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Holy Land history, Wadi family"
+ },
+ {
+  "title": "Hummus for the Masses (2009)",
+  "publisher": "Twin Cities Business",
+  "url": "https://tcbmag.com/hummus-for-the-masses/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Holy Land history, 9/11, Central Ave revitalization"
+ },
+ {
+  "title": "Baba's Cafe",
+  "publisher": "Baba's",
+  "url": "https://lovebabas.com/pages/babas-cafe",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Address, hours, Palestinian heritage"
+ },
+ {
+  "title": "Pangea Market",
+  "publisher": "Pangea Market",
+  "url": "https://pangeamarket.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Coon Rapids halal market, hours"
+ },
+ {
+  "title": "The Golden Nuts",
+  "publisher": "The Golden Nuts MN",
+  "url": "https://thegoldennutsmn.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Business site"
+ },
+ {
+  "title": "Moroccan Flavors spotlight",
+  "publisher": "Neighborhood Development Center",
+  "url": "https://www.ndc-mn.org/spotlight/moroccan-flavors/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hassan Ziadi, Moroccan Flavors"
+ },
+ {
+  "title": "Islamic Center of Minnesota",
+  "publisher": "GiveMN",
+  "url": "https://www.givemn.org/organization/Islamic-Center-Of-Minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "ICM history 1969, Fridley, Al-Amal School, clinic"
+ },
+ {
+  "title": "Holy Land (deli partners)",
+  "publisher": "Kowalski's Markets",
+  "url": "https://www.kowalskis.com/about-us/our-local-partners/deli-partners/holy-land",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Holy Land history; products sold 2026"
+ },
+ {
+  "title": "Merchants",
+  "publisher": "Midtown Global Market",
+  "url": "https://midtownglobalmarket.org/merchants",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Dar Medina Moroccan goods; current merchants"
+ },
+ {
+  "title": "Saffron Returns, Bauhaus Is Back, and Tom's Thai Opens in Uptown (Sept. 1, 2026)",
+  "publisher": "Racket",
+  "url": "https://racketmn.com/saffron-returns-bauhaus-is-back-and-toms-thai-opens-in-uptown",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Saffron reopened in Northeast"
+ },
+ {
+  "title": "After long detour, Chef Sameh Wadi revives Saffron (May 17, 2024)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2024/05/17/chef-sameh-wadi-saffron",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Saffron, Palestinian cuisine"
+ },
+ {
+  "title": "Refugee Health Statistics (updated Nov. 7, 2025)",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/rih/stats/index.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Primary refugee arrival data description"
+ },
+ {
+  "title": "Primary refugee arrivals by country of origin and county, 1999-2024 (CSV)",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/rih/stats/country.csv",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Iraqi primary refugee arrivals by year and county"
+ },
+ {
+  "title": "Palestinian Minnesotan talks about family in Gaza (July 31, 2025)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2025/07/31/palestinian-minnesotan-talks-about-family-in-gaza",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Gaza family experience"
+ },
+ {
+  "title": "Maple Grove family says 30 members killed in Gaza Strip (Oct. 20, 2023)",
+  "publisher": "WCCO / CBS Minnesota",
+  "url": "https://www.cbsnews.com/minnesota/news/family-with-minnesota-ties-killed-in-gaza/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Gaza losses; Brooklyn Park Islamic Center vigil"
+ },
+ {
+  "title": "Duluth Palestinian restaurateur reflects on year marked by violence in Gaza (Oct. 8, 2024)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/episode/2024/10/08/duluth-palestinian-restauranteur-reflects-on-year-marked-by-violence-in-gaza",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hundreds of Palestinian families; Falastin; graffiti"
+ },
+ {
+  "title": "Duluth's Falastin deli announces closure after 1 year (May 6, 2025)",
+  "publisher": "Northern News Now",
+  "url": "https://www.northernnewsnow.com/2025/05/06/duluths-falastin-deli-announces-closure-after-1-year/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Falastin closed May 3, 2025"
+ },
+ {
+  "title": "English Learners in Minnesota Report 2024-25",
+  "publisher": "Minnesota Department of Education (via Legislative Reference Library)",
+  "url": "https://www.lrl.mn.gov/docs/2026/other/261381.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arabic EL and all-student counts, by county"
+ },
+ {
+  "title": "Iraqi Refugee Health Profile",
+  "publisher": "Minnesota Department of Health, Center of Excellence in Newcomer Health",
+  "url": "https://www.health.mn.gov/communities/rih/coe/profiles/iraqi.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Background on Iraqi languages, religion, health priorities"
+ },
+ {
+  "title": "CVT's Projects in Minnesota",
+  "publisher": "Center for Victims of Torture",
+  "url": "https://www.cvt.org/what-we-do/communities-we-serve/americas/united-states/minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Torture survivors in Minnesota; clinics"
+ },
+ {
+  "title": "Lebanese came to Northeast in waves",
+  "publisher": "Northeaster (MyNortheaster.com)",
+  "url": "https://www.mynortheaster.com/news/lebanese-came-to-northeast-in-waves/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Early Lebanese history, St. Maron, peddlers, Emily's, Zakia's"
+ },
+ {
+  "title": "In Minnesota, 'uncommitted' got 19% of the Democratic presidential primary votes (March 6, 2024)",
+  "publisher": "NPR",
+  "url": "https://www.npr.org/2024/03/06/1236396078/in-minnesota-uncommitted-got-19-of-the-democratic-presidential-primary-votes",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Uncommitted Minnesota"
+ },
+ {
+  "title": "Anti-Muslim bias reports skyrocket after Oct. 7 (April 2, 2024)",
+  "publisher": "KAXE / NPR",
+  "url": "https://www.kaxe.org/news/2024-04-02/anti-muslim-bias-reports-skyrocket-after-oct-7-hamas-attack-on-israel",
+  "dateChecked": "2026-10-31",
+  "usedFor": "National CAIR bias data; Minneapolis call to prayer"
+ },
+ {
+  "title": "Tens of thousands of Muslims celebrate Eid al-Adha at Minneapolis Convention Center (June 28, 2023)",
+  "publisher": "WCCO / CBS Minnesota",
+  "url": "https://www.cbsnews.com/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Eid prayer at convention center"
+ },
+ {
+  "title": "Imam Husain Islamic Center listing",
+  "publisher": "Zabihah",
+  "url": "https://www.zabihah.com/mosques/133e2ba9-776a-11ef-95ae-6045bdeb9f57/imam-husain-islamic-center-minneapolis-mn",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Shia (Jafari) center on Brooklyn Blvd"
+ },
+ {
+  "title": "International Festival of Minnesota",
+  "publisher": "International Festival of Minnesota",
+  "url": "https://www.ifestmn.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Former Festival of Nations"
+ },
+ {
+  "title": "Arabic: Opportunities",
+  "publisher": "University of Minnesota, Department of Asian and Middle Eastern Studies",
+  "url": "https://cla.umn.edu/asian-middle-eastern-studies/languages/arabic/opportunities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arabic summer program, UALCC, TandemPlus"
+ },
+ {
+  "title": "Arab Student Association to connect UMN Arab students (Jan. 25, 2021)",
+  "publisher": "Minnesota Daily",
+  "url": "https://mndaily.com/city/arab-student-association-to-connect-umn-arab-students/01/25/2021/snoadmin/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "UMN Arab Student Association founding"
+ },
+ {
+  "title": "Metropolitan Tikhon presides at Pan-Orthodox Lenten Vespers",
+  "publisher": "Orthodox Church in America",
+  "url": "https://www.oca.org/media/photos/metropolitan-tikhon-presides-and-preaches-at-pan-orthodox-lenten-vespers",
+  "dateChecked": "2026-10-31",
+  "usedFor": "St. George Antiochian Orthodox Church, West St. Paul"
+ },
+ {
+  "title": "End to 'Muslim ban' promises family reunions for immigrants (2021)",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/immigration/muslim-travel-ban-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Yemeni-raised family separation; 2020 expansion to Sudan"
+ },
+ {
+  "title": "Minnesota immigrants face uncertainty amid Trump travel ban (June 5, 2025)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2025/06/05/minnesota-immigrants-face-uncertainty-amid-trump-travel-ban",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 travel ban, 12 countries full ban"
+ },
+ {
+  "title": "US cancels temporary protected status for Syrians (Sept. 20, 2025)",
+  "publisher": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2025/9/20/us-cancels-temporary-protected-status-for-syrians",
+  "dateChecked": "2026-10-31",
+  "usedFor": "National background: Syria TPS termination"
+ },
+ {
+  "title": "St. Maron Lebanese Festival 2026 listing",
+  "publisher": "Northeaster (MyNortheaster.com)",
+  "url": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/2026-09-18/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Festival dates Sept. 18-20, 2026"
+ },
+ {
+  "title": "This Weekend's Lebanese Festival Brings Flavorful... Food to Northeast Minneapolis (2022)",
+  "publisher": "Racket",
+  "url": "https://racketmn.com/st-marons-lebanese-festival-northeast-minneapolis",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Festival history since 1990; participants from Syria, Jordan, Iraq, Palestine"
+ },
+ {
+  "title": "How Minnesota-based Mizna elevates Arab and Arab-American voices (2019)",
+  "publisher": "Local News Lab",
+  "url": "https://localnewslab.org/2019/07/30/arabamericanvoices-mizna-stpaul/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mizna case study"
+ },
+ {
+  "title": "Best Palestinian-owned restaurants in the Twin Cities (Feb. 27, 2024)",
+  "publisher": "Minnesota Daily",
+  "url": "https://mndaily.com/uncategorized/best-palestinian-owned-restaurants-in-the-twin-cities/02/27/2024/snoadmin/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Wally's, Mim's, Shish, Holy Land, Zait & Zaatar; owners' histories"
+ },
+ {
+  "title": "Almadina Restaurant",
+  "publisher": "Downtown Rochester MN",
+  "url": "https://www.downtownrochestermn.com/go/almadina-restaurant",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Rochester Middle Eastern restaurant"
+ },
+ {
+  "title": "Saffron (home)",
+  "publisher": "Saffron",
+  "url": "https://www.saffronmpls.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Address and hours"
+ },
+ {
+  "title": "Wally's Falafel, Hummus and Bakery (hours, 2026 menus)",
+  "publisher": "Wally's Falafel, Hummus and Bakery",
+  "url": "https://www.wallysfalafelandhummus.com/hours/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Current hours; 2026 menus"
+ },
+ {
+  "title": "Shawarma Cart",
+  "publisher": "University of Minnesota Office for Supplier Diversity",
+  "url": "https://osd.umn.edu/business/shawarma-cart",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Egyptian American-owned Edina business"
+ },
+ {
+  "title": "Rep. Ilhan Omar defeats Dalia al-Aqidi in Minnesota's 5th District race (Nov. 2024)",
+  "publisher": "WCCO / CBS Minnesota",
+  "url": "https://www.cbsnews.com/minnesota/news/ilhan-omar-dalia-al-aqidi-district-5-results/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Iraqi-born Republican candidate"
+ },
+ {
+  "title": "Sudanese Student Union raises awareness about Sudanese flooding crisis (Sept. 29, 2020)",
+  "publisher": "Minnesota Daily",
+  "url": "https://mndaily.com/city/sudanese-student-union-raises-awareness-about-sudanese-flooding-crisis/09/29/2020/snoadmin/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sudanese students; North-South divisions"
+ },
+ {
+  "title": "Demographics",
+  "publisher": "Arab American Institute",
+  "url": "https://www.aaiusa.org/demographics",
+  "dateChecked": "2026-10-31",
+  "usedFor": "National estimate; Minnesota among top 12 states; Minneapolis among top six metros"
+ },
+ {
+  "title": "New Arab American Theater Works (home)",
+  "publisher": "New Arab American Theater Works",
+  "url": "https://www.newarabamericantheaterworks.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Theater, Arabic percussion ensemble"
+ },
+ {
+  "title": "News",
+  "publisher": "New Arab American Theater Works",
+  "url": "https://www.newarabamericantheaterworks.org/news",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Yalla Drum Winona Sept. 2026; Rosette"
+ },
+ {
+  "title": "Quiet currents, cultural shifts: Arab and North African artists find a hub in Minnesota (April 27, 2024)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2024/04/27/arab-north-african-artists-minnesota-hub",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Kathryn Haddad; SWANA arts in Minnesota"
+ },
+ {
+  "title": "The rhythm of resistance (Sept. 2026)",
+  "publisher": "The Winonan (Winona State University)",
+  "url": "https://winonan.org/16972/featured-stories/the-rhythm-of-resistance/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Yalla Drum, 90 students; Winona performance"
+ },
+ {
+  "title": "The Lebanese who came to Minnesota a century ago (Nov. 19, 2018)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2018/11/19/theater-director-sets-out-to-gather-tell-stories-of-the-labanese-who-came-to-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Early Lebanese settlement West Side St. Paul and Northeast"
+ },
+ {
+  "title": "Ramadan 2026: Iftar events, fundraisers in Minnesota",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/arts-culture/ramadan-2026-events-iftar-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Ramadan 2026 began evening Feb. 17; iftars incl. Baba's x Mizna; ICE climate"
+ },
+ {
+  "title": "Ramadan Guide",
+  "publisher": "Lake Street Council (Visit Lake Street)",
+  "url": "https://www.visitlakestreet.com/ramadan-guide",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Ramadan/Eid 2026 expected dates; enforcement disruption"
+ },
+ {
+  "title": "When Will Muslims in the US Start Ramadan 2026? (Feb. 2026)",
+  "publisher": "Morocco World News",
+  "url": "https://www.moroccoworldnews.com/2026/02/278546/when-will-muslims-in-the-us-start-ramadan-2026/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Ramadan start Feb. 18; Minnesota markets; fear of immigration agents"
+ },
+ {
+  "title": "Heritage months",
+  "publisher": "University of Minnesota Office for Equity and Diversity",
+  "url": "https://diversity.umn.edu/news-events/heritage-months",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arab-American Heritage Month April 2026"
+ },
+ {
+  "title": "The Sudanese Student Union speaks out against the war in Sudan (Nov. 13, 2025)",
+  "publisher": "Minnesota Daily",
+  "url": "https://mndaily.com/campus/the-sudanese-student-union-speaks-out-against-the-war-in-sudan/11/13/2025/eicmndaily-com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sudanese students protest Nov. 9, 2025"
+ },
+ {
+  "title": "Schaffler typescript, \"Community Integration of the Lebanese in Mankato, Minnesota,\" 1958",
+  "publisher": "Southern Minnesota Historical Center, Minnesota State University, Mankato",
+  "url": "https://archivesspace.lib.mnsu.edu/public/repositories/4/resources/618",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Archival record of Mankato Lebanese community"
+ },
+ {
+  "title": "Arab American Collection item (Frank Maria papers)",
+  "publisher": "University of Minnesota Libraries, Immigration History Research Center Archives (UMedia)",
+  "url": "https://lib-umedia-prd-app-01.oit.umn.edu/item/p16022coll152:8.json",
+  "dateChecked": "2026-10-31",
+  "usedFor": "IHRCA Arab American Collection exists"
+ },
+ {
+  "title": "Detroit's Yemeni community faces separation from families as new travel ban takes effect on 12 countries (June 2025)",
+  "publisher": "WXYZ Detroit",
+  "url": "https://www.wxyz.com/news/detroits-yemeni-community-faces-separation-from-families-as-new-travel-ban-takes-effect-on-12-countries",
+  "dateChecked": "2026-10-31",
+  "usedFor": "List of 12 fully banned countries incl. Libya, Sudan, Yemen (national background)"
+ },
+ {
+  "title": "Yemeni coffee chain Haraz takes over Lyn-Lake's buzziest corner (July 2026)",
+  "publisher": "Hoodline",
+  "url": "https://hoodline.com/2026/07/yemeni-coffee-chain-haraz-takes-over-lyn-lake-s-buzziest-corner/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Haraz opening, franchisee, hours"
+ },
+ {
+  "title": "Haraz Coffee listing",
+  "publisher": "Zabihah",
+  "url": "https://www.zabihah.com/restaurants/62560193-1f76-4ed8-abbb-0a15fed346d5/haraz-coffee-minneapolis-mn",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Address 3005 Lyndale Ave S; hours"
+ },
+ {
+  "title": "Who are Minnesota's refugees? (Feb. 1, 2017)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2017/02/01/who-are-the-minnesota-refugees-explainer",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2016 refugee arrivals: Iraq 167, Syria 20, Sudan 12, none from Yemen or Libya"
+ },
+ {
+  "title": "Minneapolis church hosts annual Lebanese Festival amid tension in Middle East (Sept. 2024)",
+  "publisher": "WCCO / CBS Minnesota",
+  "url": "https://www.cbsnews.com/minnesota/news/minneapolis-church-lebanese-festival/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "33rd festival; more than half of parishioners immigrated from Lebanon"
+ },
+ {
+  "title": "Minnesota communities come together in the wake of global tragedy (Oct. 2023)",
+  "publisher": "The Oracle (Hamline University)",
+  "url": "https://hamlineoracle.com/11719/news/minnesota-communities-come-together-in-the-wake-of-global-tragedy/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Gaza protests at Capitol Oct. 18, 2023; local solidarity groups"
+ },
+ {
+  "title": "Syrian man in Minnesota feels cautiously optimistic about Syria's future (Dec. 2024)",
+  "publisher": "WCCO / CBS Minnesota",
+  "url": "https://www.cbsnews.com/minnesota/video/syrian-family-in-minnesota-feels-cautiously-optimistic-about-syrias-future/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Syrian Minnesotan reaction to fall of Assad"
+ }
+]

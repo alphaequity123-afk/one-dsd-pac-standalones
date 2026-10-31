@@ -2205,8 +2205,7 @@
    "name": "Start of Ramadan",
    "alsoKnownAs": [
     "Ramadan",
-    "Ramazan",
-    "Soomaan"
+    "Ramadhan"
    ],
    "communities": [
     "arabic-speaking"
@@ -2218,24 +2217,24 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
    "kind": "religious",
-   "capsule": "Start of the month of daytime fasting.",
-   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+   "capsule": "First day of the month of dawn-to-sunset fasting observed by Muslim Minnesotans, including many Arabic speakers.",
+   "dateRule": "First day of the ninth month of the Islamic lunar calendar; set by moon sighting or by the calculation a mosque follows, so the day can differ by one day between mosques.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
-     "sourceUrl": null,
+     "source": "Sahan Journal: Ramadan begins the evening of Tuesday, Feb. 17, 2026, in North America (first fast Feb. 18); Morocco World News gives Feb. 18 as the first day of fasting. Moon-sighted, so some mosques may differ.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/ramadan-2026-events-iftar-minnesota/",
      "verified": false
     },
     {
      "year": 2027,
      "date": "2027-02-08",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -2243,26 +2242,42 @@
      "year": 2028,
      "date": "2028-01-28",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Start of the month of daytime fasting.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The start of the month in which Muslims believe the Quran was revealed, observed by fasting, prayer, Quran reading and charity.",
+   "howCelebratedInMinnesota": "In 2026 Sahan Journal reported Ramadan began the evening of Feb. 17 and listed public iftars and fundraisers at mosques, community centers and businesses across the Twin Cities. The Lake Street Council said the month 'feels different' in 2026 because of federal immigration enforcement. Observance is shared across Somali, Arab, South Asian and other Muslim Minnesotans.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Ramadan 2026: Iftar events, fundraisers in Minnesota, Sahan Journal",
+     "url": "https://sahanjournal.com/arts-culture/ramadan-2026-events-iftar-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "When Will Muslims in the US Start Ramadan 2026?, Morocco World News",
+     "url": "https://www.moroccoworldnews.com/2026/02/278546/when-will-muslims-in-the-us-start-ramadan-2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Ramadan Guide, Lake Street Council",
+     "url": "https://www.visitlakestreet.com/ramadan-guide",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "arabic-speaking--eid-alfitr",
    "observanceKey": "eid-alfitr",
    "name": "Eid al-Fitr",
    "alsoKnownAs": [
-    "Ciid Yare",
-    "Ramazanski Bajram",
-    "Id el Fitr"
+    "Eid",
+    "Id al-Fitr",
+    "Festival of Breaking the Fast"
    ],
    "communities": [
     "arabic-speaking"
@@ -2274,24 +2289,24 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
    "kind": "religious",
-   "capsule": "End of Ramadan.",
-   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+   "capsule": "Festival ending Ramadan, with morning prayers, new clothes, family visits and gifts for children.",
+   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends; set by moon sighting or calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
-     "sourceUrl": null,
+     "source": "Sahan Journal says Ramadan 2026 runs through March 19 or 20; Lake Street Council says Eid al-Fitr was expected to begin Thursday, March 19, 2026. Projected March 20; moon-sighted.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/ramadan-2026-events-iftar-minnesota/",
      "verified": false
     },
     {
      "year": 2027,
      "date": "2027-03-09",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -2299,26 +2314,36 @@
      "year": 2028,
      "date": "2028-02-26",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "End of Ramadan.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The end of the Ramadan fast.",
+   "howCelebratedInMinnesota": "Large Eid prayers have been held at the Minneapolis Convention Center and at mosques; these are shared across Muslim communities. No Eid event organized specifically by Arab Minnesotans was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Ramadan 2026: Iftar events, fundraisers in Minnesota, Sahan Journal",
+     "url": "https://sahanjournal.com/arts-culture/ramadan-2026-events-iftar-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Ramadan Guide, Lake Street Council",
+     "url": "https://www.visitlakestreet.com/ramadan-guide",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "arabic-speaking--eid-aladha",
    "observanceKey": "eid-aladha",
    "name": "Eid al-Adha",
    "alsoKnownAs": [
-    "Ciid Weyn",
-    "Kurban Bajram",
-    "Id el Kabir"
+    "Feast of Sacrifice",
+    "Eid al-Kabir"
    ],
    "communities": [
     "arabic-speaking"
@@ -2330,16 +2355,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
    "kind": "religious",
-   "capsule": "Festival of sacrifice, during the Hajj season.",
-   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+   "capsule": "Feast of Sacrifice during the Hajj season, marked with prayer, shared meat and family gatherings.",
+   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah); set by moon sighting or calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -2347,7 +2372,7 @@
      "year": 2027,
      "date": "2027-05-16",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -2355,17 +2380,23 @@
      "year": 2028,
      "date": "2028-05-05",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The festival of sacrifice at the end of the Hajj pilgrimage.",
+   "howCelebratedInMinnesota": "In 2023 'tens of thousands' prayed at the Minneapolis Convention Center for Eid al-Adha, followed by family gatherings and community meals (WCCO). These gatherings are shared across Muslim Minnesotans.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Tens of thousands of Muslims celebrate Eid al-Adha at Minneapolis Convention Center, WCCO (June 28, 2023)",
+     "url": "https://www.cbsnews.com/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "arabic-speaking--islamic-new-year",
@@ -2373,7 +2404,7 @@
    "name": "Islamic New Year",
    "alsoKnownAs": [
     "Hijri New Year",
-    "Muharram"
+    "Ras as-Sana al-Hijriya"
    ],
    "communities": [
     "arabic-speaking"
@@ -2385,16 +2416,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
    "kind": "religious",
-   "capsule": "Start of the Hijri year.",
-   "dateRule": "First day of the first Islamic month (Muharram).",
+   "capsule": "Start of the Islamic lunar year; a quiet observance for many families.",
+   "dateRule": "First day of Muharram, the first Islamic month; set by moon sighting or calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.; Fiqh Council of North America, Calendar lists 2026-06-16",
      "sourceUrl": null,
      "verified": false
     },
@@ -2402,7 +2433,7 @@
      "year": 2027,
      "date": "2027-06-06",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -2410,13 +2441,13 @@
      "year": 2028,
      "date": "2028-05-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Start of the Hijri year.",
+   "whatItMarks": "The start of the Hijri year, counted from the Prophet Muhammad's migration to Medina.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -2426,7 +2457,9 @@
    "id": "arabic-speaking--ashura",
    "observanceKey": "ashura",
    "name": "Ashura",
-   "alsoKnownAs": [],
+   "alsoKnownAs": [
+    "Ashoura"
+   ],
    "communities": [
     "arabic-speaking"
    ],
@@ -2437,16 +2470,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
    "kind": "religious",
-   "capsule": "A day observed differently in Sunni and Shia practice.",
-   "dateRule": "Tenth day of Muharram.",
+   "capsule": "Tenth of Muharram: a day of mourning for Imam Husayn among Shia Muslims and a voluntary fast day for many Sunnis.",
+   "dateRule": "Tenth day of Muharram; set by moon sighting or calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-06-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -2454,7 +2487,7 @@
      "year": 2027,
      "date": "2027-06-15",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -2462,17 +2495,23 @@
      "year": 2028,
      "date": "2028-06-03",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "A day observed differently in Sunni and Shia practice.",
+   "whatItMarks": "For Shia Muslims, the martyrdom of Imam Husayn at Karbala; for many Sunni Muslims, a day of fasting.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Imam Husain Islamic Center listing, Zabihah",
+     "url": "https://www.zabihah.com/mosques/133e2ba9-776a-11ef-95ae-6045bdeb9f57/imam-husain-islamic-center-minneapolis-mn",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "arabic-speaking--mawlid-annabi",
@@ -2480,7 +2519,7 @@
    "name": "Mawlid an-Nabi",
    "alsoKnownAs": [
     "Mawlid",
-    "Mawliid"
+    "Prophet's Birthday"
    ],
    "communities": [
     "arabic-speaking"
@@ -2492,16 +2531,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
    "kind": "religious",
-   "capsule": "Birthday of the Prophet Muhammad.",
-   "dateRule": "Twelfth day of the third Islamic month (Rabi al-Awwal); not observed by all Muslims.",
+   "capsule": "Birthday of the Prophet Muhammad, marked by some Muslims and not observed by others.",
+   "dateRule": "Twelfth day of Rabi al-Awwal (some Shia observe the 17th); not observed by all Muslims.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-08-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -2509,7 +2548,7 @@
      "year": 2027,
      "date": "2027-08-14",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -2517,26 +2556,24 @@
      "year": 2028,
      "date": "2028-08-03",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6); Minnesota mosques decide by local or global moon sighting or by calculation, so the observed day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Birthday of the Prophet Muhammad.",
+   "whatItMarks": "The birthday of the Prophet Muhammad.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
    "sources": []
   },
   {
-   "id": "arabic-speaking--orthodox-easter",
+   "id": "arabic-speaking--orthodox-and-coptic-easter",
    "observanceKey": "orthodox-easter",
-   "name": "Orthodox Easter",
+   "name": "Orthodox and Coptic Easter",
    "alsoKnownAs": [
-    "Pascha",
-    "Velykden",
-    "Paskha"
+    "Pascha"
    ],
    "communities": [
     "arabic-speaking"
@@ -2548,10 +2585,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Eastern Christian tradition.",
-   "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar.",
+   "capsule": "Easter on the Eastern calendar, kept by Coptic and Antiochian Orthodox Christians in Minnesota.",
+   "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar; Coptic and Eastern Orthodox churches share this date.",
    "dates": [
     {
      "year": 2026,
@@ -2579,17 +2616,30 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Eastern Christian tradition.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The resurrection of Jesus in Eastern Christian tradition, after a long Lenten fast.",
+   "howCelebratedInMinnesota": "Kept in parish services at St. Mary's Coptic Orthodox Church (South St. Paul) and St. George Antiochian Orthodox Church (West St. Paul); no public Minnesota event or description of local observance was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "St. Mary's Coptic Orthodox Church of Minnesota",
+     "url": "https://stmarymn.org/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Metropolitan Tikhon presides at Pan-Orthodox Lenten Vespers, OCA",
+     "url": "https://www.oca.org/media/photos/metropolitan-tikhon-presides-and-preaches-at-pan-orthodox-lenten-vespers",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "arabic-speaking--lebanese-independence-day",
    "observanceKey": "lebanese-independence-day",
    "name": "Lebanese Independence Day",
-   "alsoKnownAs": [],
+   "alsoKnownAs": [
+    "Eid al-Istiqlal"
+   ],
    "communities": [
     "arabic-speaking"
    ],
@@ -2600,10 +2650,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
    "kind": "national",
-   "capsule": "Independence in 1943.",
-   "dateRule": "November 22.",
+   "capsule": "November 22: Lebanon's independence from French mandate rule in 1943.",
+   "dateRule": "November 22 each year.",
    "dates": [
     {
      "year": 2026,
@@ -2631,7 +2681,7 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Independence in 1943.",
+   "whatItMarks": "Lebanese independence in 1943.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -2641,7 +2691,10 @@
    "id": "arabic-speaking--ramadan-night-prayers-and-community-iftars",
    "observanceKey": "ramadan-night-prayers-and-community-iftars",
    "name": "Ramadan night prayers and community iftars",
-   "alsoKnownAs": [],
+   "alsoKnownAs": [
+    "Iftar",
+    "Taraweeh"
+   ],
    "communities": [
     "arabic-speaking"
    ],
@@ -2652,24 +2705,24 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
    "kind": "community festival",
-   "capsule": "Shared fast-breaking meals and evening prayers during Ramadan.",
-   "dateRule": "Announced by each mosque and community group during Ramadan.",
+   "capsule": "Evening fast-breaking meals and night prayers hosted by mosques, churches, nonprofits and businesses during Ramadan.",
+   "dateRule": "Announced by each host during Ramadan.",
    "dates": [
     {
      "year": 2026,
-     "date": null,
-     "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
-     "sourceUrl": null,
+     "date": "2026-02-18",
+     "endDate": "2026-03-19",
+     "source": "Sahan Journal list of 2026 iftar events (Ramadan from evening of Feb. 17 through March 19 or 20)",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/ramadan-2026-events-iftar-minnesota/",
      "verified": false
     },
     {
      "year": 2027,
      "date": null,
      "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     },
@@ -2677,17 +2730,306 @@
      "year": 2028,
      "date": null,
      "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Shared fast-breaking meals and evening prayers during Ramadan.",
+   "howCelebratedInMinnesota": "In 2026 Sahan Journal listed Minnesota Council of Churches 'Taking Heart' iftars co-hosted with mosques in Blaine, Bloomington, Plymouth and Coon Rapids, Muslim American Society fundraisers, and a Baba's x Mizna literary reading and iftar in Minneapolis.",
+   "minnesotaEvents": [
+    {
+     "name": "Baba's x Mizna Lit Series + Iftar",
+     "place": "Baba's Hummus House & Mana'eesh Bakery, 2220 Lyndale Ave. S., Minneapolis",
+     "link": "https://sahanjournal.com/arts-culture/ramadan-2026-events-iftar-minnesota/",
+     "organizerDates": "Thursday, Feb. 26, 2026, 6 p.m., as listed by Sahan Journal",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ramadan 2026: Iftar events, fundraisers in Minnesota, Sahan Journal",
+     "url": "https://sahanjournal.com/arts-culture/ramadan-2026-events-iftar-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "arabic-speaking--twin-cities-arab-film-festival",
+   "observanceKey": "twin-cities-arab-film-festival",
+   "name": "Twin Cities Arab Film Festival",
+   "alsoKnownAs": [
+    "Arab Film Fest",
+    "TCAFF"
+   ],
+   "communities": [
+    "arabic-speaking"
+   ],
+   "briefLinks": [
+    {
+     "community": "arabic-speaking",
+     "title": "Arabic-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
+   "kind": "cultural",
+   "capsule": "Mizna's annual festival of films by Arab and SWANA filmmakers, the Midwest's longest-running, held each fall in Minneapolis.",
+   "dateRule": "Set each year by Mizna; recent editions in late September.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-23",
+     "endDate": "2026-09-27",
+     "source": "Mizna",
+     "sourceUrl": "https://mizna.org/event/2026-tcaff/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Independent film from the SWANA region and its diaspora; founded by Mizna in 2003.",
+   "howCelebratedInMinnesota": "The 20th edition, themed 'Looking Forward, Looking Back,' ran at The Main Cinema in Minneapolis with a closing day at the Walker Art Center, supported by the Minnesota Humanities Center with Legacy Amendment funds.",
+   "minnesotaEvents": [
+    {
+     "name": "2026 Twin Cities Arab Film Festival (20th edition)",
+     "place": "The Main Cinema, Minneapolis; closing day at the Walker Art Center",
+     "link": "https://mizna.org/event/2026-tcaff/",
+     "organizerDates": "Sept. 23-27, 2026, Mizna",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "2026 Twin Cities Arab Film Festival, Mizna",
+     "url": "https://mizna.org/event/2026-tcaff/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "About, Mizna",
+     "url": "https://mizna.org/about/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "arabic-speaking--palestine-cinema-days-screening-balfour-declaration-anniversary",
+   "observanceKey": "palestine-cinema-days-screening-balfour-declaration-anniversary",
+   "name": "Palestine Cinema Days screening (Balfour Declaration anniversary)",
+   "alsoKnownAs": [
+    "Palestine Cinema Days"
+   ],
+   "communities": [
+    "arabic-speaking"
+   ],
+   "briefLinks": [
+    {
+     "community": "arabic-speaking",
+     "title": "Arabic-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
+   "kind": "remembrance",
+   "capsule": "Mizna screens a Palestinian film on Nov. 2, the Balfour Declaration anniversary, as part of a global initiative.",
+   "dateRule": "Mizna screening on November 2 in 2026; future years not announced.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-02",
+     "endDate": null,
+     "source": "Mizna",
+     "sourceUrl": "https://mizna.org/event/palestine-cinema-days-2026-return-to-haifa/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The anniversary of the 1917 Balfour Declaration, marked through Palestinian cinema in collaboration with Filmlab Palestine.",
+   "howCelebratedInMinnesota": "In 2026 Mizna is screening Return to Haifa at 7 p.m. at The Main Cinema, 115 SE Main St., Minneapolis, with donations going to a relief group.",
+   "minnesotaEvents": [
+    {
+     "name": "Palestine Cinema Days 2026: Return to Haifa",
+     "place": "The Main Cinema, 115 SE Main St., Minneapolis",
+     "link": "https://mizna.org/event/palestine-cinema-days-2026-return-to-haifa/",
+     "organizerDates": "Nov. 2, 2026, 7 p.m., Mizna",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Palestine Cinema Days 2026: Return to Haifa, Mizna",
+     "url": "https://mizna.org/event/palestine-cinema-days-2026-return-to-haifa/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "arabic-speaking--st-maron-lebanese-festival",
+   "observanceKey": "st-maron-lebanese-festival",
+   "name": "St. Maron Lebanese Festival",
+   "alsoKnownAs": [
+    "Lebanese Fall Festival"
+   ],
+   "communities": [
+    "arabic-speaking"
+   ],
+   "briefLinks": [
+    {
+     "community": "arabic-speaking",
+     "title": "Arabic-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
+   "kind": "community festival",
+   "capsule": "Annual Lebanese food, dabke and music festival at St. Maron Maronite Catholic Church in Northeast Minneapolis, held since 1990.",
+   "dateRule": "Set each year by St. Maron parish; recent years in mid-September.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-18",
+     "endDate": "2026-09-20",
+     "source": "Northeaster event listing",
+     "sourceUrl": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/2026-09-18/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Lebanese and wider Levantine heritage; started in 1990 to show Minnesotans Lebanese culture beyond war.",
+   "howCelebratedInMinnesota": "Friday bingo, then Saturday and Sunday food (mana'eesh, kafta, falafel, baklava), live music, youth and adult dabke at 2 and 4 p.m., a Lebanese store and church tours. Volunteers include people with roots in Syria, Jordan, Turkey, Iraq and Palestine (Racket, 2022).",
+   "minnesotaEvents": [
+    {
+     "name": "St. Maron Lebanese Fall Festival",
+     "place": "St. Maron Catholic Church, 602 University Ave. NE, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/2026-09-18/",
+     "organizerDates": "Sept. 18 (6-9 p.m.), 19 (noon-8 p.m.) and 20 (11 a.m.-6 p.m.), 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "St. Maron Lebanese Festival 2026 listing, Northeaster",
+     "url": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/2026-09-18/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "This Weekend's Lebanese Festival..., Racket (2022)",
+     "url": "https://racketmn.com/st-marons-lebanese-festival-northeast-minneapolis",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "arabic-speaking--arabamerican-heritage-month",
+   "observanceKey": "arabamerican-heritage-month",
+   "name": "Arab-American Heritage Month",
+   "alsoKnownAs": [
+    "National Arab American Heritage Month"
+   ],
+   "communities": [
+    "arabic-speaking"
+   ],
+   "briefLinks": [
+    {
+     "community": "arabic-speaking",
+     "title": "Arabic-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/arabic-speaking/profile.md",
+   "kind": "heritage",
+   "capsule": "April: a month recognizing Arab American history and contributions, listed on the University of Minnesota calendar.",
+   "dateRule": "The month of April.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-01",
+     "endDate": "2026-04-30",
+     "source": "University of Minnesota heritage months calendar lists April 2026",
+     "sourceUrl": "https://diversity.umn.edu/news-events/heritage-months",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-04-01",
+     "endDate": "2027-04-30",
+     "source": "Month of April by custom; not confirmed for 2027 on an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-01",
+     "endDate": "2028-04-30",
+     "source": "Month of April by custom; not confirmed for 2028 on an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Arab American heritage and contributions.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Heritage months, University of Minnesota Office for Equity and Diversity",
+     "url": "https://diversity.umn.edu/news-events/heritage-months",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "bosnian--start-of-ramadan",

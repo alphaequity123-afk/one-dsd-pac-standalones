@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-23 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+24 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): arabic-speaking, liberian, nigerian, colombian, ecuadorian, kenyan, amharic, guatemalan, salvadoran now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): liberian, nigerian, colombian, ecuadorian, kenyan, amharic, guatemalan, salvadoran now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -43,6 +43,8 @@ american, cuban, deaf-deafblind-hard-of-hearing, european-american, french, minn
 
 Hmong and the methods note could not open these: Star Tribune, Christian Century, the state charter school directory, Carleton's Religions in Minnesota, mn.gov pages (State Demographic Center, Department of Veterans Affairs), the University of Minnesota Conservancy, state courts, the Senate roster, Department of Education pages, and ICPSR.
 
+- Arabic-speaking could not open: mn.gov, Star Tribune, Minnesota Reformer, Axios, Explore Minnesota and PubMed; Sahan Journal, the Spokesman-Recorder and MinnPost refused requests for long stretches, so Sahan's Sudan, Lebanon and Syria stories and the Spokesman's Sudan story were not read.
+
 - Lebanese could not open: Sahan Journal and the West St. Paul Reader (too many requests), MDH Minnesota Student Survey pages, Macalester's thesis archive, the Texas A&M catalog, USCIS, federalregister.gov and Minnesota Lawyer.
 
 - Ukrainian could not open: the DHS Ukrainians in Minnesota page (mn.gov), Sahan Journal and MinnPost (too many requests), KARE 11, Baptist Press, Festival of Nations and the Minnesota Orchestra.
@@ -69,6 +71,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Arabic-speaking:** 92 opened sources; web search worked throughout. Not established: Minnesota income, health or disability data for any Arab group except Lebanese, any Minnesota organization focused on disability among Arabic-speaking families, arrival histories for Egyptian, Sudanese, Syrian or Yemeni Minnesotans, and any non-food business (chamber, law or accounting firm, clinic). 13 of 22 businesses could not be confirmed open; nearly all businesses found are food businesses.
 - **Lebanese:** 69 opened sources; web search worked throughout. Not established: any Minnesota mosque or Druze group identified as Lebanese or any religious breakdown, Lebanese or Middle Eastern and North African disability, school or health data beyond one Compass disability rate, any 2026 Minnesota coverage of the community's reaction to the new war, and who will lead St. Maron after its pastor was named archbishop of Damascus (Aug. 28, 2026). 9 of 20 businesses could not be confirmed open; 3 have closed.
 - **Ukrainian:** 82 opened sources; web search worked throughout. Only 7 businesses were found (5 open, 2 could not be confirmed open); no Ukrainian business district, chamber or directory turned up. Not established: how many people who arrived from Ukraine since 2022 still live in Minnesota and what parole or protected status they now hold, a breakdown of Ukrainian workers by industry, disability-service data, and which Christmas date each Orthodox parish now keeps. The Ukrainian Festival is postponed in 2026 and announced for Sept. 17-18, 2027.
 - **Russian-speaking:** 83 opened sources; web search worked throughout. Not established: current income, poverty and home-ownership figures for Russian speakers (the newest found are from 2018), any Minnesota disability data or Russian-speaking disability organization, a full list of Slavic evangelical churches, and any dated public Novy God (New Year), Orthodox Christmas or Victory Day event. Census counts (about 13,900 to 15,500 Russian speakers) and community estimates (45,000 to 60,000) remain far apart. No clinic, law office, accounting firm or insurance agency serving Russian speakers could be confirmed; 6 of 14 businesses could not be confirmed open.

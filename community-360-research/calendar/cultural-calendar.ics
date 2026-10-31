@@ -714,6 +714,19 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:arabamerican-heritage-month-2026-04-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260501
+SUMMARY:Arab-American Heritage Month
+DESCRIPTION:Arab American heritage and contributions. Date: The month of 
+ April. Source: University of Minnesota heritage months calendar lists Apr
+ il 2026 https://diversity.umn.edu/news-events/heritage-months Communities
+ : Arabic-speaking Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:good-friday-2026-04-03@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260403
@@ -794,14 +807,15 @@ UID:orthodox-easter-2026-04-12@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260413
-SUMMARY:Orthodox Easter
-DESCRIPTION:Resurrection of Jesus in Eastern Christian tradition. Date: F
- irst Sunday after the first full moon on or after the spring equinox\, ca
- lculated on the Julian calendar. Source: American Carpatho-Russian Orthod
- ox Diocese of North America\, Listing of Movable Feasts (Old Calendar) ht
- tps://www.acrod.org/prayercorner/movablefeasts/ Communities: Arabic-speak
- ing Minnesota\, Bosnian Minnesota\, Lebanese Minnesota\, Russian-speaking
-  Minnesota\, Ukrainian Minnesota
+SUMMARY:Orthodox and Coptic Easter
+DESCRIPTION:The resurrection of Jesus in Eastern Christian tradition\, af
+ ter a long Lenten fast. Date: First Sunday after the first full moon on o
+ r after the spring equinox\, calculated on the Julian calendar\; Coptic a
+ nd Eastern Orthodox churches share this date. Source: American Carpatho-R
+ ussian Orthodox Diocese of North America\, Listing of Movable Feasts (Old
+  Calendar) https://www.acrod.org/prayercorner/movablefeasts/ Communities:
+  Arabic-speaking Minnesota\, Bosnian Minnesota\, Lebanese Minnesota\, Rus
+ sian-speaking Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2306,12 +2320,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
 SUMMARY:St. Maron Lebanese Festival
-DESCRIPTION:Lebanese culture and the parish community\; Racket reports it
-  began in 1990 to change how people saw Lebanon during wartime. Date: Set
-  each year by St. Maron parish\; recent years fell on a mid- to late-Sept
- ember weekend. Source: Northeaster event listing https://www.mynortheaste
- r.com/event/st-maron-lebanese-festival-6/2026-09-19/ Communities: Lebanes
- e Minnesota
+DESCRIPTION:Lebanese and wider Levantine heritage\; started in 1990 to sh
+ ow Minnesotans Lebanese culture beyond war. Date: Set each year by St. Ma
+ ron parish\; recent years in mid-September. Source: Northeaster event lis
+ ting https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/202
+ 6-09-18/ Communities: Arabic-speaking Minnesota\, Lebanese Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2405,6 +2418,19 @@ DESCRIPTION:Tết Trung Thu\, billed in 2026 as the 20th annual. Date: An
  ://www.landmarkcenter.org/event/sundays-at-landmark-mid-autumn-moon-festi
  val-8/ Communities: Vietnamese Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:twin-cities-arab-film-festival-2026-09-23@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260928
+SUMMARY:Twin Cities Arab Film Festival
+DESCRIPTION:Independent film from the SWANA region and its diaspora\; fou
+ nded by Mizna in 2003. Date: Set each year by Mizna\; recent editions in 
+ late September. Source: Mizna https://mizna.org/event/2026-tcaff/ Communi
+ ties: Arabic-speaking Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2749,6 +2775,20 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:palestine-cinema-days-screening-balfour-declaration-anniversary-2026-11-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Palestine Cinema Days screening (Balfour Declaration anniversary)
+DESCRIPTION:The anniversary of the 1917 Balfour Declaration\, marked thro
+ ugh Palestinian cinema in collaboration with Filmlab Palestine. Date: Miz
+ na screening on November 2 in 2026\; future years not announced. Source: 
+ Mizna https://mizna.org/event/palestine-cinema-days-2026-return-to-haifa/
+  Communities: Arabic-speaking Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:día-de-los-muertos-2026-11-02@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -2976,10 +3016,10 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Lebanese Independence Day
-DESCRIPTION:Independence in 1943. Date: November 22. Source: Republic of 
- Liberia\, Ministry of Foreign Affairs\, President Weah Applauds Lebanon o
- n 77th Independence observance https://mofa.gov.lr/node/6223 Communities:
-  Arabic-speaking Minnesota\, Lebanese Minnesota
+DESCRIPTION:Lebanese independence in 1943. Date: November 22 each year. S
+ ource: Republic of Liberia\, Ministry of Foreign Affairs\, President Weah
+  Applauds Lebanon on 77th Independence observance https://mofa.gov.lr/nod
+ e/6223 Communities: Arabic-speaking Minnesota\, Lebanese Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3785,14 +3825,15 @@ UID:orthodox-easter-2027-05-02@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
-SUMMARY:Orthodox Easter
-DESCRIPTION:Resurrection of Jesus in Eastern Christian tradition. Date: F
- irst Sunday after the first full moon on or after the spring equinox\, ca
- lculated on the Julian calendar. Source: American Carpatho-Russian Orthod
- ox Diocese of North America\, Listing of Movable Feasts (Old Calendar) ht
- tps://www.acrod.org/prayercorner/movablefeasts/ Communities: Arabic-speak
- ing Minnesota\, Bosnian Minnesota\, Lebanese Minnesota\, Russian-speaking
-  Minnesota\, Ukrainian Minnesota
+SUMMARY:Orthodox and Coptic Easter
+DESCRIPTION:The resurrection of Jesus in Eastern Christian tradition\, af
+ ter a long Lenten fast. Date: First Sunday after the first full moon on o
+ r after the spring equinox\, calculated on the Julian calendar\; Coptic a
+ nd Eastern Orthodox churches share this date. Source: American Carpatho-R
+ ussian Orthodox Diocese of North America\, Listing of Movable Feasts (Old
+  Calendar) https://www.acrod.org/prayercorner/movablefeasts/ Communities:
+  Arabic-speaking Minnesota\, Bosnian Minnesota\, Lebanese Minnesota\, Rus
+ sian-speaking Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4633,10 +4674,10 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271122
 DTEND;VALUE=DATE:20271123
 SUMMARY:Lebanese Independence Day
-DESCRIPTION:Independence in 1943. Date: November 22. Source: Republic of 
- Liberia\, Ministry of Foreign Affairs\, President Weah Applauds Lebanon o
- n 77th Independence observance https://mofa.gov.lr/node/6223 Communities:
-  Arabic-speaking Minnesota\, Lebanese Minnesota
+DESCRIPTION:Lebanese independence in 1943. Date: November 22 each year. S
+ ource: Republic of Liberia\, Ministry of Foreign Affairs\, President Weah
+  Applauds Lebanon on 77th Independence observance https://mofa.gov.lr/nod
+ e/6223 Communities: Arabic-speaking Minnesota\, Lebanese Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5331,14 +5372,15 @@ UID:orthodox-easter-2028-04-16@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280416
 DTEND;VALUE=DATE:20280417
-SUMMARY:Orthodox Easter
-DESCRIPTION:Resurrection of Jesus in Eastern Christian tradition. Date: F
- irst Sunday after the first full moon on or after the spring equinox\, ca
- lculated on the Julian calendar. Source: American Carpatho-Russian Orthod
- ox Diocese of North America\, Listing of Movable Feasts (Old Calendar) ht
- tps://www.acrod.org/prayercorner/movablefeasts/ Communities: Arabic-speak
- ing Minnesota\, Bosnian Minnesota\, Lebanese Minnesota\, Russian-speaking
-  Minnesota\, Ukrainian Minnesota
+SUMMARY:Orthodox and Coptic Easter
+DESCRIPTION:The resurrection of Jesus in Eastern Christian tradition\, af
+ ter a long Lenten fast. Date: First Sunday after the first full moon on o
+ r after the spring equinox\, calculated on the Julian calendar\; Coptic a
+ nd Eastern Orthodox churches share this date. Source: American Carpatho-R
+ ussian Orthodox Diocese of North America\, Listing of Movable Feasts (Old
+  Calendar) https://www.acrod.org/prayercorner/movablefeasts/ Communities:
+  Arabic-speaking Minnesota\, Bosnian Minnesota\, Lebanese Minnesota\, Rus
+ sian-speaking Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6053,10 +6095,10 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281122
 DTEND;VALUE=DATE:20281123
 SUMMARY:Lebanese Independence Day
-DESCRIPTION:Independence in 1943. Date: November 22. Source: Republic of 
- Liberia\, Ministry of Foreign Affairs\, President Weah Applauds Lebanon o
- n 77th Independence observance https://mofa.gov.lr/node/6223 Communities:
-  Arabic-speaking Minnesota\, Lebanese Minnesota
+DESCRIPTION:Lebanese independence in 1943. Date: November 22 each year. S
+ ource: Republic of Liberia\, Ministry of Foreign Affairs\, President Weah
+  Applauds Lebanon on 77th Independence observance https://mofa.gov.lr/nod
+ e/6223 Communities: Arabic-speaking Minnesota\, Lebanese Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
