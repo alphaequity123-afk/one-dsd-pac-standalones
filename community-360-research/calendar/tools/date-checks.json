@@ -1,0 +1,2575 @@
+{
+ "checked": "2026-10-30",
+ "checks": [
+  {
+   "seedId": "martin-luther-king-jr-day",
+   "year": 2026,
+   "date": "2026-01-19",
+   "source": "U.S. Office of Personnel Management, Federal Holidays",
+   "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+  },
+  {
+   "seedId": "martin-luther-king-jr-day",
+   "year": 2027,
+   "date": "2027-01-18",
+   "source": "U.S. Office of Personnel Management, Federal Holidays",
+   "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+  },
+  {
+   "seedId": "martin-luther-king-jr-day",
+   "year": 2028,
+   "date": "2028-01-17",
+   "source": "U.S. Office of Personnel Management, Federal Holidays",
+   "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+  },
+  {
+   "seedId": "thanksgiving",
+   "year": 2026,
+   "date": "2026-11-26",
+   "source": "U.S. Office of Personnel Management, Federal Holidays",
+   "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+  },
+  {
+   "seedId": "thanksgiving",
+   "year": 2027,
+   "date": "2027-11-25",
+   "source": "U.S. Office of Personnel Management, Federal Holidays",
+   "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+  },
+  {
+   "seedId": "thanksgiving",
+   "year": 2028,
+   "date": "2028-11-23",
+   "source": "U.S. Office of Personnel Management, Federal Holidays",
+   "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+  },
+  {
+   "seedId": "juneteenth",
+   "year": 2026,
+   "date": "2026-06-19",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states Juneteenth, June 19. OPM federal observed days: Fri June 18 in 2027 (June 19 is a Saturday)."
+  },
+  {
+   "seedId": "juneteenth",
+   "year": 2027,
+   "date": "2027-06-19",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states Juneteenth, June 19. OPM federal observed days: Fri June 18 in 2027 (June 19 is a Saturday)."
+  },
+  {
+   "seedId": "juneteenth",
+   "year": 2028,
+   "date": "2028-06-19",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states Juneteenth, June 19. OPM federal observed days: Fri June 18 in 2027 (June 19 is a Saturday)."
+  },
+  {
+   "seedId": "independence-day-united-states",
+   "year": 2026,
+   "date": "2026-07-04",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states Independence Day, July 4. OPM federal observed days: Fri July 3 in 2026, Mon July 5 in 2027."
+  },
+  {
+   "seedId": "independence-day-united-states",
+   "year": 2027,
+   "date": "2027-07-04",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states Independence Day, July 4. OPM federal observed days: Fri July 3 in 2026, Mon July 5 in 2027."
+  },
+  {
+   "seedId": "independence-day-united-states",
+   "year": 2028,
+   "date": "2028-07-04",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states Independence Day, July 4. OPM federal observed days: Fri July 3 in 2026, Mon July 5 in 2027."
+  },
+  {
+   "seedId": "christmas",
+   "year": 2026,
+   "date": "2026-12-25",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states Christmas Day, December 25. OPM federal observed day: Fri Dec 24 in 2027."
+  },
+  {
+   "seedId": "christmas",
+   "year": 2027,
+   "date": "2027-12-25",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states Christmas Day, December 25. OPM federal observed day: Fri Dec 24 in 2027."
+  },
+  {
+   "seedId": "christmas",
+   "year": 2028,
+   "date": "2028-12-25",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states Christmas Day, December 25. OPM federal observed day: Fri Dec 24 in 2027."
+  },
+  {
+   "seedId": "lunar-new-year",
+   "year": 2026,
+   "date": "2026-02-17",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2026",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2026e.txt",
+   "note": "Table row: 1st Lunar Month"
+  },
+  {
+   "seedId": "lunar-new-year",
+   "year": 2027,
+   "date": "2027-02-06",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2027",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2027e.txt",
+   "note": "Table row: 1st Lunar Month"
+  },
+  {
+   "seedId": "lunar-new-year",
+   "year": 2028,
+   "date": "2028-01-26",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2028",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2028e.txt",
+   "note": "Table row: 1st Lunar Month"
+  },
+  {
+   "seedId": "dragon-boat-festival",
+   "year": 2026,
+   "date": "2026-06-19",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2026",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2026e.txt",
+   "note": "5th lunar month, day 5"
+  },
+  {
+   "seedId": "dragon-boat-festival",
+   "year": 2027,
+   "date": "2027-06-09",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2027",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2027e.txt",
+   "note": "5th lunar month, day 5"
+  },
+  {
+   "seedId": "dragon-boat-festival",
+   "year": 2028,
+   "date": "2028-05-28",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2028",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2028e.txt",
+   "note": "5th lunar month, day 5"
+  },
+  {
+   "seedId": "midautumn-festival",
+   "year": 2026,
+   "date": "2026-09-25",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2026",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2026e.txt",
+   "note": "8th lunar month, day 15"
+  },
+  {
+   "seedId": "midautumn-festival",
+   "year": 2027,
+   "date": "2027-09-15",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2027",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2027e.txt",
+   "note": "8th lunar month, day 15"
+  },
+  {
+   "seedId": "midautumn-festival",
+   "year": 2028,
+   "date": "2028-10-03",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2028",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2028e.txt",
+   "note": "8th lunar month, day 15"
+  },
+  {
+   "seedId": "qingming",
+   "year": 2026,
+   "date": "2026-04-05",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2026",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2026e.txt",
+   "note": "Solar term Bright and Clear"
+  },
+  {
+   "seedId": "qingming",
+   "year": 2027,
+   "date": "2027-04-05",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2027",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2027e.txt",
+   "note": "Solar term Bright and Clear"
+  },
+  {
+   "seedId": "qingming",
+   "year": 2028,
+   "date": "2028-04-04",
+   "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2028",
+   "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2028e.txt",
+   "note": "Solar term Bright and Clear"
+  },
+  {
+   "seedId": "ash-wednesday",
+   "year": 2026,
+   "date": "2026-02-18",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
+   "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf"
+  },
+  {
+   "seedId": "ash-wednesday",
+   "year": 2027,
+   "date": "2027-02-10",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf"
+  },
+  {
+   "seedId": "ash-wednesday",
+   "year": 2028,
+   "date": "2028-03-01",
+   "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
+   "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf"
+  },
+  {
+   "seedId": "good-friday",
+   "year": 2026,
+   "date": "2026-04-03",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
+   "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf"
+  },
+  {
+   "seedId": "good-friday",
+   "year": 2027,
+   "date": "2027-03-26",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf"
+  },
+  {
+   "seedId": "good-friday",
+   "year": 2028,
+   "date": "2028-04-14",
+   "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
+   "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf"
+  },
+  {
+   "seedId": "easter",
+   "year": 2026,
+   "date": "2026-04-05",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
+   "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf"
+  },
+  {
+   "seedId": "easter",
+   "year": 2027,
+   "date": "2027-03-28",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf"
+  },
+  {
+   "seedId": "easter",
+   "year": 2028,
+   "date": "2028-04-16",
+   "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
+   "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf"
+  },
+  {
+   "seedId": "orthodox-easter",
+   "year": 2026,
+   "date": "2026-04-12",
+   "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
+   "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/"
+  },
+  {
+   "seedId": "orthodox-easter",
+   "year": 2027,
+   "date": "2027-05-02",
+   "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
+   "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/"
+  },
+  {
+   "seedId": "orthodox-easter",
+   "year": 2028,
+   "date": "2028-04-16",
+   "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
+   "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/"
+  },
+  {
+   "seedId": "genna",
+   "year": 2026,
+   "date": "2026-01-07",
+   "source": "Royal Norwegian Embassy in Addis Ababa, Embassy Closing Days 2026",
+   "sourceUrl": "https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy/2026/"
+  },
+  {
+   "seedId": "genna",
+   "year": 2027,
+   "date": "2027-01-07",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027"
+  },
+  {
+   "seedId": "genna",
+   "year": 2028,
+   "date": "2028-01-07",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
+   "note": "Page label: Orthodox Christmas Day"
+  },
+  {
+   "seedId": "timkat",
+   "year": 2026,
+   "date": "2026-01-19",
+   "source": "Royal Norwegian Embassy in Addis Ababa, Embassy Closing Days 2026",
+   "sourceUrl": "https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy/2026/"
+  },
+  {
+   "seedId": "timkat",
+   "year": 2027,
+   "date": "2027-01-19",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027"
+  },
+  {
+   "seedId": "adwa-victory-day",
+   "year": 2026,
+   "date": "2026-03-02",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
+   "note": "Fixed Gregorian March 2 in CalendarLabs lists for 2026-2028; Norwegian Embassy states March 2, 2026."
+  },
+  {
+   "seedId": "adwa-victory-day",
+   "year": 2027,
+   "date": "2027-03-02",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
+   "note": "Fixed Gregorian March 2 in CalendarLabs lists for 2026-2028; Norwegian Embassy states March 2, 2026."
+  },
+  {
+   "seedId": "adwa-victory-day",
+   "year": 2028,
+   "date": "2028-03-02",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
+   "note": "Fixed Gregorian March 2 in CalendarLabs lists for 2026-2028; Norwegian Embassy states March 2, 2026."
+  },
+  {
+   "seedId": "fasika",
+   "year": 2026,
+   "date": "2026-04-12",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2026",
+   "note": "Page label: Easter Sunday in Ethiopia list; Norwegian Embassy gives Ethiopian Good Friday April 10, 2026"
+  },
+  {
+   "seedId": "fasika",
+   "year": 2027,
+   "date": "2027-05-02",
+   "source": "Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027",
+   "sourceUrl": "https://www.qppstudio.net/publicholidays2027/ethiopia.htm",
+   "note": "Page label: Fasika (Ethiopian Easter)"
+  },
+  {
+   "seedId": "fasika",
+   "year": 2028,
+   "date": "2028-04-16",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
+   "note": "Page label: Easter Sunday in Ethiopia list"
+  },
+  {
+   "seedId": "enkutatash",
+   "year": 2026,
+   "date": "2026-09-11",
+   "source": "Royal Norwegian Embassy in Addis Ababa, Embassy Closing Days 2026",
+   "sourceUrl": "https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy/2026/"
+  },
+  {
+   "seedId": "enkutatash",
+   "year": 2027,
+   "date": "2027-09-12",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027"
+  },
+  {
+   "seedId": "enkutatash",
+   "year": 2028,
+   "date": "2028-09-11",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028"
+  },
+  {
+   "seedId": "meskel",
+   "year": 2026,
+   "date": "2026-09-27",
+   "source": "German Embassy Addis Ababa, Public holidays (2026)",
+   "sourceUrl": "https://addis-abeba.diplo.de/et-en/about-us/public-holidays-2629598"
+  },
+  {
+   "seedId": "meskel",
+   "year": 2027,
+   "date": "2027-09-28",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027"
+  },
+  {
+   "seedId": "meskel",
+   "year": 2028,
+   "date": "2028-09-27",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028"
+  },
+  {
+   "seedId": "holi",
+   "year": 2026,
+   "date": "2026-03-04",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 03.07.2025, holidays for 2026 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html"
+  },
+  {
+   "seedId": "diwali",
+   "year": 2026,
+   "date": "2026-11-08",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 03.07.2025, holidays for 2026 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html"
+  },
+  {
+   "seedId": "diwali",
+   "year": 2027,
+   "date": "2027-10-29",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html"
+  },
+  {
+   "seedId": "navaratri-and-dussehra",
+   "year": 2026,
+   "date": "2026-10-20",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 03.07.2025, holidays for 2026 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html",
+   "note": "Dussehra"
+  },
+  {
+   "seedId": "navaratri-and-dussehra",
+   "year": 2027,
+   "date": "2027-10-09",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "note": "Dussehra"
+  },
+  {
+   "seedId": "guru-nanak-gurpurab",
+   "year": 2026,
+   "date": "2026-11-24",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 03.07.2025, holidays for 2026 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html"
+  },
+  {
+   "seedId": "guru-nanak-gurpurab",
+   "year": 2027,
+   "date": "2027-11-14",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html"
+  },
+  {
+   "seedId": "republic-day-india",
+   "year": 2026,
+   "date": "2026-01-26",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "note": "Annexure lists January 26 in both the 2026 and 2027 memoranda"
+  },
+  {
+   "seedId": "republic-day-india",
+   "year": 2027,
+   "date": "2027-01-26",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "note": "Annexure lists January 26 in both the 2026 and 2027 memoranda"
+  },
+  {
+   "seedId": "republic-day-india",
+   "year": 2028,
+   "date": "2028-01-26",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "note": "Annexure lists January 26 in both the 2026 and 2027 memoranda"
+  },
+  {
+   "seedId": "independence-day-india",
+   "year": 2026,
+   "date": "2026-08-15",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "note": "Annexure lists August 15 in both the 2026 and 2027 memoranda"
+  },
+  {
+   "seedId": "independence-day-india",
+   "year": 2027,
+   "date": "2027-08-15",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "note": "Annexure lists August 15 in both the 2026 and 2027 memoranda"
+  },
+  {
+   "seedId": "independence-day-india",
+   "year": 2028,
+   "date": "2028-08-15",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "note": "Annexure lists August 15 in both the 2026 and 2027 memoranda"
+  },
+  {
+   "seedId": "makha-bucha",
+   "year": 2027,
+   "date": "2027-02-21",
+   "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+   "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf",
+   "note": "Bank holiday Feb 22 substitutes for Sunday Feb 21"
+  },
+  {
+   "seedId": "visakha-bucha",
+   "year": 2027,
+   "date": "2027-05-20",
+   "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+   "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf"
+  },
+  {
+   "seedId": "asanha-bucha-and-start-of-buddhist-lent",
+   "year": 2027,
+   "date": "2027-07-18",
+   "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+   "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf",
+   "note": "Asarnha Bucha Sunday July 18; bank holiday Monday July 19"
+  },
+  {
+   "seedId": "songkran",
+   "year": 2027,
+   "date": "2027-04-13",
+   "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+   "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf",
+   "note": "Songkran Festival April 13 to 15"
+  },
+  {
+   "seedId": "thai-mothers-day",
+   "year": 2027,
+   "date": "2027-08-12",
+   "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+   "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf"
+  },
+  {
+   "seedId": "thai-fathers-day",
+   "year": 2027,
+   "date": "2027-12-05",
+   "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+   "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf",
+   "note": "Bank holiday Monday Dec 6 substitutes for Sunday Dec 5"
+  },
+  {
+   "seedId": "choul-chnam-thmey",
+   "year": 2026,
+   "date": "2026-04-14",
+   "source": "Andersen in Cambodia, Cambodia Sets Official 2026 Public Holiday Schedule (Sub-Decree No. 167)",
+   "sourceUrl": "https://kh.andersen.com/publications/cambodia-sets-official-2026-public-holiday-schedule/",
+   "note": "April 14, 15, 16 (Sub-Decree 167)"
+  },
+  {
+   "seedId": "pchum-ben",
+   "year": 2026,
+   "date": "2026-10-10",
+   "source": "Andersen in Cambodia, Cambodia Sets Official 2026 Public Holiday Schedule (Sub-Decree No. 167)",
+   "sourceUrl": "https://kh.andersen.com/publications/cambodia-sets-official-2026-public-holiday-schedule/",
+   "note": "First day of the official three-day holiday, October 10 to 12 (Sub-Decree 167)"
+  },
+  {
+   "seedId": "pchum-ben",
+   "year": 2027,
+   "date": "2027-09-29",
+   "source": "Cambodianess, report on the sub-decree signed by Prime Minister Hun Manet setting 22 public holidays for 2027",
+   "sourceUrl": "https://cambodianess.com/article/cambodia-has-22-public-holidays-in-2027",
+   "note": "First day of the official three-day holiday, September 29 to October 1"
+  },
+  {
+   "seedId": "thingyan",
+   "year": 2026,
+   "date": "2026-04-13",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2026",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2026",
+   "note": "Water festival Day 1"
+  },
+  {
+   "seedId": "thingyan",
+   "year": 2027,
+   "date": "2027-04-13",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2027",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2027",
+   "note": "Water festival Day 1"
+  },
+  {
+   "seedId": "thingyan",
+   "year": 2028,
+   "date": "2028-04-13",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2028",
+   "note": "Water festival Day 1"
+  },
+  {
+   "seedId": "karen-new-year",
+   "year": 2027,
+   "date": "2027-01-08",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2027",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2027",
+   "note": "Page also lists a second Kayin New Year on December 28, 2027"
+  },
+  {
+   "seedId": "union-day-myanmar",
+   "year": 2026,
+   "date": "2026-02-12",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2028",
+   "note": "Listed as February 12 in the CalendarLabs lists for 2026, 2027, 2028"
+  },
+  {
+   "seedId": "union-day-myanmar",
+   "year": 2027,
+   "date": "2027-02-12",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2028",
+   "note": "Listed as February 12 in the CalendarLabs lists for 2026, 2027, 2028"
+  },
+  {
+   "seedId": "union-day-myanmar",
+   "year": 2028,
+   "date": "2028-02-12",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2028",
+   "note": "Listed as February 12 in the CalendarLabs lists for 2026, 2027, 2028"
+  },
+  {
+   "seedId": "thingyan",
+   "year": 2026,
+   "date": "2026-04-13",
+   "source": "Myanmar Department of Civil Aviation, AIC A 03/2026, Myanmar Public Holidays for Year 2026",
+   "sourceUrl": "https://ais.gov.mm/wp-content/uploads/2025/12/AIC-03-2026.pdf",
+   "note": "Water Festival 13 to 16 April 2026"
+  },
+  {
+   "seedId": "union-day-myanmar",
+   "year": 2026,
+   "date": "2026-02-12",
+   "source": "Myanmar Department of Civil Aviation, AIC A 03/2026, Myanmar Public Holidays for Year 2026",
+   "sourceUrl": "https://ais.gov.mm/wp-content/uploads/2025/12/AIC-03-2026.pdf",
+   "note": "Union Day 12 to 13 February 2026"
+  },
+  {
+   "seedId": "holi",
+   "year": 2028,
+   "date": "2028-03-11",
+   "source": "Drik Panchang (almanac site, not a government source), 2028 Holi, Rangwali Holi, Dhulandi date for New Delhi",
+   "sourceUrl": "https://www.drikpanchang.com/festivals/holi/festivals-holi-rangwali.html?year=2028"
+  },
+  {
+   "seedId": "diwali",
+   "year": 2028,
+   "date": "2028-10-17",
+   "source": "Drik Panchang (almanac site, not a government source), 2028 Diwali Puja Calendar for New Delhi",
+   "sourceUrl": "https://www.drikpanchang.com/diwali/diwali-puja-calendar.html?year=2028"
+  },
+  {
+   "seedId": "navaratri-and-dussehra",
+   "year": 2028,
+   "date": "2028-09-27",
+   "source": "Drik Panchang (almanac site, not a government source), 2028 Hindu Festivals Calendar for New Delhi",
+   "sourceUrl": "https://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2028",
+   "note": "Dussehra / Vijayadashami; Navratri begins September 19, 2028"
+  },
+  {
+   "seedId": "guru-nanak-gurpurab",
+   "year": 2028,
+   "date": "2028-11-02",
+   "source": "CalendarLabs (commercial calendar site, no official source found), India holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/india/2028",
+   "note": "Drik Panchang lists Kartika Purnima November 2, 2028"
+  },
+  {
+   "seedId": "makha-bucha",
+   "year": 2026,
+   "date": "2026-03-03",
+   "source": "Human Resources Online, Full list of Thailand's 2026 public holidays (reports the Bank of Thailand list)",
+   "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays"
+  },
+  {
+   "seedId": "visakha-bucha",
+   "year": 2026,
+   "date": "2026-05-31",
+   "source": "Human Resources Online, Full list of Thailand's 2026 public holidays (reports the Bank of Thailand list)",
+   "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+   "note": "Bank holiday June 1 substitutes for Sunday May 31"
+  },
+  {
+   "seedId": "asanha-bucha-and-start-of-buddhist-lent",
+   "year": 2026,
+   "date": "2026-07-29",
+   "source": "Human Resources Online, Full list of Thailand's 2026 public holidays (reports the Bank of Thailand list)",
+   "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays"
+  },
+  {
+   "seedId": "songkran",
+   "year": 2026,
+   "date": "2026-04-13",
+   "source": "Human Resources Online, Full list of Thailand's 2026 public holidays (reports the Bank of Thailand list)",
+   "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+   "note": "13 to 15 April"
+  },
+  {
+   "seedId": "thai-mothers-day",
+   "year": 2026,
+   "date": "2026-08-12",
+   "source": "Human Resources Online, Full list of Thailand's 2026 public holidays (reports the Bank of Thailand list)",
+   "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays"
+  },
+  {
+   "seedId": "thai-fathers-day",
+   "year": 2026,
+   "date": "2026-12-05",
+   "source": "Human Resources Online, Full list of Thailand's 2026 public holidays (reports the Bank of Thailand list)",
+   "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+   "note": "Bank holiday Dec 7 substitutes for Saturday Dec 5"
+  },
+  {
+   "seedId": "makha-bucha",
+   "year": 2028,
+   "date": "2028-02-10",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028"
+  },
+  {
+   "seedId": "visakha-bucha",
+   "year": 2028,
+   "date": "2028-05-08",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028"
+  },
+  {
+   "seedId": "songkran",
+   "year": 2028,
+   "date": "2028-04-13",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
+   "note": "Songkran Festival April 13 to 15"
+  },
+  {
+   "seedId": "international-day-of-sign-languages",
+   "year": 2026,
+   "date": "2026-09-23",
+   "source": "United Nations, International Day of Sign Languages",
+   "sourceUrl": "https://www.un.org/en/observances/sign-languages-day"
+  },
+  {
+   "seedId": "international-day-of-sign-languages",
+   "year": 2027,
+   "date": "2027-09-23",
+   "source": "United Nations, International Day of Sign Languages",
+   "sourceUrl": "https://www.un.org/en/observances/sign-languages-day"
+  },
+  {
+   "seedId": "international-day-of-sign-languages",
+   "year": 2028,
+   "date": "2028-09-23",
+   "source": "United Nations, International Day of Sign Languages",
+   "sourceUrl": "https://www.un.org/en/observances/sign-languages-day"
+  },
+  {
+   "seedId": "saint-óscar-romero-remembrance",
+   "year": 2026,
+   "date": "2026-03-24",
+   "source": "United Nations, International Day for the Right to the Truth (24 March, Romero)",
+   "sourceUrl": "https://www.un.org/en/observances/right-to-truth-day"
+  },
+  {
+   "seedId": "saint-óscar-romero-remembrance",
+   "year": 2027,
+   "date": "2027-03-24",
+   "source": "United Nations, International Day for the Right to the Truth (24 March, Romero)",
+   "sourceUrl": "https://www.un.org/en/observances/right-to-truth-day"
+  },
+  {
+   "seedId": "saint-óscar-romero-remembrance",
+   "year": 2028,
+   "date": "2028-03-24",
+   "source": "United Nations, International Day for the Right to the Truth (24 March, Romero)",
+   "sourceUrl": "https://www.un.org/en/observances/right-to-truth-day"
+  },
+  {
+   "seedId": "day-of-remembrance-executive-order-9066",
+   "year": 2026,
+   "date": "2026-02-19",
+   "source": "U.S. National Archives, Executive Order 9066 milestone document",
+   "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+   "note": "Order issued February 19, 1942"
+  },
+  {
+   "seedId": "day-of-remembrance-executive-order-9066",
+   "year": 2027,
+   "date": "2027-02-19",
+   "source": "U.S. National Archives, Executive Order 9066 milestone document",
+   "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+   "note": "Order issued February 19, 1942"
+  },
+  {
+   "seedId": "day-of-remembrance-executive-order-9066",
+   "year": 2028,
+   "date": "2028-02-19",
+   "source": "U.S. National Archives, Executive Order 9066 milestone document",
+   "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+   "note": "Order issued February 19, 1942"
+  },
+  {
+   "seedId": "shōgatsu",
+   "year": 2026,
+   "date": "2026-01-01",
+   "source": "Cabinet Office of Japan, National Holidays",
+   "sourceUrl": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+   "note": "元日 January 1"
+  },
+  {
+   "seedId": "shōgatsu",
+   "year": 2027,
+   "date": "2027-01-01",
+   "source": "Cabinet Office of Japan, National Holidays",
+   "sourceUrl": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+   "note": "元日 January 1"
+  },
+  {
+   "seedId": "shōgatsu",
+   "year": 2028,
+   "date": "2028-01-01",
+   "source": "Cabinet Office of Japan, National Holidays",
+   "sourceUrl": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+   "note": "元日 January 1"
+  },
+  {
+   "seedId": "march-on-washington-anniversary",
+   "year": 2026,
+   "date": "2026-08-28",
+   "source": "National Park Service, March on Washington article",
+   "sourceUrl": "https://www.nps.gov/articles/march-on-washington.htm",
+   "note": "Held August 28, 1963"
+  },
+  {
+   "seedId": "march-on-washington-anniversary",
+   "year": 2027,
+   "date": "2027-08-28",
+   "source": "National Park Service, March on Washington article",
+   "sourceUrl": "https://www.nps.gov/articles/march-on-washington.htm",
+   "note": "Held August 28, 1963"
+  },
+  {
+   "seedId": "march-on-washington-anniversary",
+   "year": 2028,
+   "date": "2028-08-28",
+   "source": "National Park Service, March on Washington article",
+   "sourceUrl": "https://www.nps.gov/articles/march-on-washington.htm",
+   "note": "Held August 28, 1963"
+  },
+  {
+   "seedId": "anniversary-of-dr-kings-assassination",
+   "year": 2026,
+   "date": "2026-04-04",
+   "source": "Martin Luther King, Jr. Research and Education Institute, Stanford University, Assassination of Martin Luther King, Jr.",
+   "sourceUrl": "https://kinginstitute.stanford.edu/encyclopedia/assassination-martin-luther-king-jr",
+   "note": "4 April 1968"
+  },
+  {
+   "seedId": "anniversary-of-dr-kings-assassination",
+   "year": 2027,
+   "date": "2027-04-04",
+   "source": "Martin Luther King, Jr. Research and Education Institute, Stanford University, Assassination of Martin Luther King, Jr.",
+   "sourceUrl": "https://kinginstitute.stanford.edu/encyclopedia/assassination-martin-luther-king-jr",
+   "note": "4 April 1968"
+  },
+  {
+   "seedId": "anniversary-of-dr-kings-assassination",
+   "year": 2028,
+   "date": "2028-04-04",
+   "source": "Martin Luther King, Jr. Research and Education Institute, Stanford University, Assassination of Martin Luther King, Jr.",
+   "sourceUrl": "https://kinginstitute.stanford.edu/encyclopedia/assassination-martin-luther-king-jr",
+   "note": "4 April 1968"
+  },
+  {
+   "seedId": "new-year-novy-god",
+   "year": 2026,
+   "date": "2026-01-01",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states New Year's Day, January 1. OPM federal observed day for 2028 is Friday December 31, 2027."
+  },
+  {
+   "seedId": "new-year-novy-god",
+   "year": 2027,
+   "date": "2027-01-01",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states New Year's Day, January 1. OPM federal observed day for 2028 is Friday December 31, 2027."
+  },
+  {
+   "seedId": "new-year-novy-god",
+   "year": 2028,
+   "date": "2028-01-01",
+   "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+   "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+   "note": "Statute states New Year's Day, January 1. OPM federal observed day for 2028 is Friday December 31, 2027."
+  },
+  {
+   "seedId": "grito-de-yara-october-10",
+   "year": 2026,
+   "date": "2026-10-10",
+   "source": "Library of Congress, World of 1898, Chronology of Cuba in the Spanish-American War",
+   "sourceUrl": "https://guides.loc.gov/world-of-1898/cuba-chronology",
+   "note": "October 10, 1868"
+  },
+  {
+   "seedId": "grito-de-yara-october-10",
+   "year": 2027,
+   "date": "2027-10-10",
+   "source": "Library of Congress, World of 1898, Chronology of Cuba in the Spanish-American War",
+   "sourceUrl": "https://guides.loc.gov/world-of-1898/cuba-chronology",
+   "note": "October 10, 1868"
+  },
+  {
+   "seedId": "grito-de-yara-october-10",
+   "year": 2028,
+   "date": "2028-10-10",
+   "source": "Library of Congress, World of 1898, Chronology of Cuba in the Spanish-American War",
+   "sourceUrl": "https://guides.loc.gov/world-of-1898/cuba-chronology",
+   "note": "October 10, 1868"
+  },
+  {
+   "seedId": "haiti-earthquake-remembrance",
+   "year": 2026,
+   "date": "2026-01-12",
+   "source": "U.S. Geological Survey, The Mw 7.0 Haiti Earthquake of January 12, 2010, USGS/EERI Advance Reconnaissance Team Report",
+   "sourceUrl": "https://www.usgs.gov/publications/mw-70-haiti-earthquake-january-12-2010-usgseeri-advance-reconnaissance-team-report",
+   "note": "January 12, 2010"
+  },
+  {
+   "seedId": "haiti-earthquake-remembrance",
+   "year": 2027,
+   "date": "2027-01-12",
+   "source": "U.S. Geological Survey, The Mw 7.0 Haiti Earthquake of January 12, 2010, USGS/EERI Advance Reconnaissance Team Report",
+   "sourceUrl": "https://www.usgs.gov/publications/mw-70-haiti-earthquake-january-12-2010-usgseeri-advance-reconnaissance-team-report",
+   "note": "January 12, 2010"
+  },
+  {
+   "seedId": "haiti-earthquake-remembrance",
+   "year": 2028,
+   "date": "2028-01-12",
+   "source": "U.S. Geological Survey, The Mw 7.0 Haiti Earthquake of January 12, 2010, USGS/EERI Advance Reconnaissance Team Report",
+   "sourceUrl": "https://www.usgs.gov/publications/mw-70-haiti-earthquake-january-12-2010-usgseeri-advance-reconnaissance-team-report",
+   "note": "January 12, 2010"
+  },
+  {
+   "seedId": "hispanic-heritage-month-begins",
+   "year": 2026,
+   "date": "2026-09-15",
+   "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+   "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html"
+  },
+  {
+   "seedId": "hispanic-heritage-month-begins",
+   "year": 2027,
+   "date": "2027-09-15",
+   "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+   "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html"
+  },
+  {
+   "seedId": "hispanic-heritage-month-begins",
+   "year": 2028,
+   "date": "2028-09-15",
+   "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+   "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html"
+  },
+  {
+   "seedId": "central-american-independence-day",
+   "year": 2026,
+   "date": "2026-09-15",
+   "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+   "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+   "note": "Census states September 15 is the independence anniversary of Costa Rica, El Salvador, Guatemala, Honduras and Nicaragua"
+  },
+  {
+   "seedId": "central-american-independence-day",
+   "year": 2027,
+   "date": "2027-09-15",
+   "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+   "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+   "note": "Census states September 15 is the independence anniversary of Costa Rica, El Salvador, Guatemala, Honduras and Nicaragua"
+  },
+  {
+   "seedId": "central-american-independence-day",
+   "year": 2028,
+   "date": "2028-09-15",
+   "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+   "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+   "note": "Census states September 15 is the independence anniversary of Costa Rica, El Salvador, Guatemala, Honduras and Nicaragua"
+  },
+  {
+   "seedId": "black-history-month-begins",
+   "year": 2026,
+   "date": "2026-02-01",
+   "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
+   "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
+   "note": "Proclamations name the month of February; the first of the month is the seed's start marker, not a separately stated date"
+  },
+  {
+   "seedId": "black-history-month-begins",
+   "year": 2027,
+   "date": "2027-02-01",
+   "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
+   "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
+   "note": "Proclamations name the month of February; the first of the month is the seed's start marker, not a separately stated date"
+  },
+  {
+   "seedId": "black-history-month-begins",
+   "year": 2028,
+   "date": "2028-02-01",
+   "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
+   "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
+   "note": "Proclamations name the month of February; the first of the month is the seed's start marker, not a separately stated date"
+  },
+  {
+   "seedId": "malcolm-xs-birthday",
+   "year": 2026,
+   "date": "2026-05-19",
+   "source": "U.S. National Archives, Malcolm X (May 19, 1925 - February 21, 1965)",
+   "sourceUrl": "https://www.archives.gov/research/african-americans/individuals/malcolm-x"
+  },
+  {
+   "seedId": "malcolm-xs-birthday",
+   "year": 2027,
+   "date": "2027-05-19",
+   "source": "U.S. National Archives, Malcolm X (May 19, 1925 - February 21, 1965)",
+   "sourceUrl": "https://www.archives.gov/research/african-americans/individuals/malcolm-x"
+  },
+  {
+   "seedId": "malcolm-xs-birthday",
+   "year": 2028,
+   "date": "2028-05-19",
+   "source": "U.S. National Archives, Malcolm X (May 19, 1925 - February 21, 1965)",
+   "sourceUrl": "https://www.archives.gov/research/african-americans/individuals/malcolm-x"
+  },
+  {
+   "seedId": "madaraka-day",
+   "year": 2026,
+   "date": "2026-06-01",
+   "source": "Kenya Law Reform Commission, Constitution of Kenya, Article 9 National symbols and national days",
+   "sourceUrl": "https://www.klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/175-9-national-symbols-and-national-days"
+  },
+  {
+   "seedId": "madaraka-day",
+   "year": 2027,
+   "date": "2027-06-01",
+   "source": "Kenya Law Reform Commission, Constitution of Kenya, Article 9 National symbols and national days",
+   "sourceUrl": "https://www.klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/175-9-national-symbols-and-national-days"
+  },
+  {
+   "seedId": "madaraka-day",
+   "year": 2028,
+   "date": "2028-06-01",
+   "source": "Kenya Law Reform Commission, Constitution of Kenya, Article 9 National symbols and national days",
+   "sourceUrl": "https://www.klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/175-9-national-symbols-and-national-days"
+  },
+  {
+   "seedId": "mashujaa-day",
+   "year": 2026,
+   "date": "2026-10-20",
+   "source": "Kenya Law Reform Commission, Constitution of Kenya, Article 9 National symbols and national days",
+   "sourceUrl": "https://www.klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/175-9-national-symbols-and-national-days"
+  },
+  {
+   "seedId": "mashujaa-day",
+   "year": 2027,
+   "date": "2027-10-20",
+   "source": "Kenya Law Reform Commission, Constitution of Kenya, Article 9 National symbols and national days",
+   "sourceUrl": "https://www.klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/175-9-national-symbols-and-national-days"
+  },
+  {
+   "seedId": "mashujaa-day",
+   "year": 2028,
+   "date": "2028-10-20",
+   "source": "Kenya Law Reform Commission, Constitution of Kenya, Article 9 National symbols and national days",
+   "sourceUrl": "https://www.klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/175-9-national-symbols-and-national-days"
+  },
+  {
+   "seedId": "jamhuri-day",
+   "year": 2026,
+   "date": "2026-12-12",
+   "source": "Kenya Law Reform Commission, Constitution of Kenya, Article 9 National symbols and national days",
+   "sourceUrl": "https://www.klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/175-9-national-symbols-and-national-days"
+  },
+  {
+   "seedId": "jamhuri-day",
+   "year": 2027,
+   "date": "2027-12-12",
+   "source": "Kenya Law Reform Commission, Constitution of Kenya, Article 9 National symbols and national days",
+   "sourceUrl": "https://www.klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/175-9-national-symbols-and-national-days"
+  },
+  {
+   "seedId": "jamhuri-day",
+   "year": 2028,
+   "date": "2028-12-12",
+   "source": "Kenya Law Reform Commission, Constitution of Kenya, Article 9 National symbols and national days",
+   "sourceUrl": "https://www.klrc.go.ke/index.php/constitution-of-kenya/108-chapter-two-the-republic/175-9-national-symbols-and-national-days"
+  },
+  {
+   "seedId": "minnesota-statehood-day",
+   "year": 2026,
+   "date": "2026-05-11",
+   "source": "Office of Governor Mark Dayton, Minnesota Statehood Day proclamation (May 11, 2017), hosted by the Minnesota Legislative Reference Library",
+   "sourceUrl": "https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2017_05_11_minnesota_statehood_day_tcm1055-294318.pdf",
+   "note": "Admitted May 11, 1858"
+  },
+  {
+   "seedId": "minnesota-statehood-day",
+   "year": 2027,
+   "date": "2027-05-11",
+   "source": "Office of Governor Mark Dayton, Minnesota Statehood Day proclamation (May 11, 2017), hosted by the Minnesota Legislative Reference Library",
+   "sourceUrl": "https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2017_05_11_minnesota_statehood_day_tcm1055-294318.pdf",
+   "note": "Admitted May 11, 1858"
+  },
+  {
+   "seedId": "minnesota-statehood-day",
+   "year": 2028,
+   "date": "2028-05-11",
+   "source": "Office of Governor Mark Dayton, Minnesota Statehood Day proclamation (May 11, 2017), hosted by the Minnesota Legislative Reference Library",
+   "sourceUrl": "https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2017_05_11_minnesota_statehood_day_tcm1055-294318.pdf",
+   "note": "Admitted May 11, 1858"
+  },
+  {
+   "seedId": "mexican-independence-day",
+   "year": 2026,
+   "date": "2026-09-16",
+   "source": "Gobierno de México, PROFEDET, Días de Descanso Obligatorio 2026 (Ley Federal del Trabajo art. 74)",
+   "sourceUrl": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026",
+   "note": "Article 74: El 16 de septiembre"
+  },
+  {
+   "seedId": "mexican-independence-day",
+   "year": 2027,
+   "date": "2027-09-16",
+   "source": "Gobierno de México, PROFEDET, Días de Descanso Obligatorio 2026 (Ley Federal del Trabajo art. 74)",
+   "sourceUrl": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026",
+   "note": "Article 74: El 16 de septiembre"
+  },
+  {
+   "seedId": "mexican-independence-day",
+   "year": 2028,
+   "date": "2028-09-16",
+   "source": "Gobierno de México, PROFEDET, Días de Descanso Obligatorio 2026 (Ley Federal del Trabajo art. 74)",
+   "sourceUrl": "https://www.gob.mx/profedet/articulos/sabes-cuales-son-los-dias-de-descanso-obligatorio-para-este-2026",
+   "note": "Article 74: El 16 de septiembre"
+  },
+  {
+   "seedId": "philippine-independence-day",
+   "year": 2026,
+   "date": "2026-06-12",
+   "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+   "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+   "note": "Regular holiday 12 June"
+  },
+  {
+   "seedId": "philippine-independence-day",
+   "year": 2027,
+   "date": "2027-06-12",
+   "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+   "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+   "note": "Regular holiday 12 June"
+  },
+  {
+   "seedId": "philippine-independence-day",
+   "year": 2028,
+   "date": "2028-06-12",
+   "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+   "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+   "note": "Regular holiday 12 June"
+  },
+  {
+   "seedId": "edsa-people-power-anniversary",
+   "year": 2026,
+   "date": "2026-02-25",
+   "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+   "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+   "note": "Special working day, February 25"
+  },
+  {
+   "seedId": "edsa-people-power-anniversary",
+   "year": 2027,
+   "date": "2027-02-25",
+   "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+   "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+   "note": "Special working day, February 25"
+  },
+  {
+   "seedId": "edsa-people-power-anniversary",
+   "year": 2028,
+   "date": "2028-02-25",
+   "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+   "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+   "note": "Special working day, February 25"
+  },
+  {
+   "seedId": "kwanzaa-first-day",
+   "year": 2026,
+   "date": "2026-12-26",
+   "source": "California State University, Long Beach, Everything You Need to Know About Kwanzaa",
+   "sourceUrl": "https://www.csulb.edu/news/the-media/article/everything-you-need-to-know-about-kwanzaa",
+   "note": "Dec. 26 to Jan. 1"
+  },
+  {
+   "seedId": "kwanzaa-first-day",
+   "year": 2027,
+   "date": "2027-12-26",
+   "source": "California State University, Long Beach, Everything You Need to Know About Kwanzaa",
+   "sourceUrl": "https://www.csulb.edu/news/the-media/article/everything-you-need-to-know-about-kwanzaa",
+   "note": "Dec. 26 to Jan. 1"
+  },
+  {
+   "seedId": "kwanzaa-first-day",
+   "year": 2028,
+   "date": "2028-12-26",
+   "source": "California State University, Long Beach, Everything You Need to Know About Kwanzaa",
+   "sourceUrl": "https://www.csulb.edu/news/the-media/article/everything-you-need-to-know-about-kwanzaa",
+   "note": "Dec. 26 to Jan. 1"
+  },
+  {
+   "seedId": "cuban-independence-may-20",
+   "year": 2026,
+   "date": "2026-05-20",
+   "source": "U.S. Department of State, Office of the Historian, Cuba country page",
+   "sourceUrl": "https://history.state.gov/countries/cuba",
+   "note": "May 20, 1902"
+  },
+  {
+   "seedId": "cuban-independence-may-20",
+   "year": 2027,
+   "date": "2027-05-20",
+   "source": "U.S. Department of State, Office of the Historian, Cuba country page",
+   "sourceUrl": "https://history.state.gov/countries/cuba",
+   "note": "May 20, 1902"
+  },
+  {
+   "seedId": "cuban-independence-may-20",
+   "year": 2028,
+   "date": "2028-05-20",
+   "source": "U.S. Department of State, Office of the Historian, Cuba country page",
+   "sourceUrl": "https://history.state.gov/countries/cuba",
+   "note": "May 20, 1902"
+  },
+  {
+   "seedId": "cuban-revolution-exile-anniversary",
+   "year": 2026,
+   "date": "2026-01-01",
+   "source": "U.S. Department of State, Office of the Historian, FRUS 1958-1960 vol. VI document 217",
+   "sourceUrl": "https://history.state.gov/historicaldocuments/frus1958-60v06/d217",
+   "note": "January 1, 1959"
+  },
+  {
+   "seedId": "cuban-revolution-exile-anniversary",
+   "year": 2027,
+   "date": "2027-01-01",
+   "source": "U.S. Department of State, Office of the Historian, FRUS 1958-1960 vol. VI document 217",
+   "sourceUrl": "https://history.state.gov/historicaldocuments/frus1958-60v06/d217",
+   "note": "January 1, 1959"
+  },
+  {
+   "seedId": "cuban-revolution-exile-anniversary",
+   "year": 2028,
+   "date": "2028-01-01",
+   "source": "U.S. Department of State, Office of the Historian, FRUS 1958-1960 vol. VI document 217",
+   "sourceUrl": "https://history.state.gov/historicaldocuments/frus1958-60v06/d217",
+   "note": "January 1, 1959"
+  },
+  {
+   "seedId": "día-de-los-muertos",
+   "year": 2026,
+   "date": "2026-11-02",
+   "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
+   "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
+   "note": "Dates stated: November 1 and 2; seed marks November 2"
+  },
+  {
+   "seedId": "día-de-los-muertos",
+   "year": 2027,
+   "date": "2027-11-02",
+   "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
+   "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
+   "note": "Dates stated: November 1 and 2; seed marks November 2"
+  },
+  {
+   "seedId": "día-de-los-muertos",
+   "year": 2028,
+   "date": "2028-11-02",
+   "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
+   "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
+   "note": "Dates stated: November 1 and 2; seed marks November 2"
+  },
+  {
+   "seedId": "las-posadas-first-night",
+   "year": 2026,
+   "date": "2026-12-16",
+   "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
+   "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
+   "note": "Las posadas se llevan a cabo del 16 al 24 de diciembre"
+  },
+  {
+   "seedId": "las-posadas-first-night",
+   "year": 2027,
+   "date": "2027-12-16",
+   "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
+   "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
+   "note": "Las posadas se llevan a cabo del 16 al 24 de diciembre"
+  },
+  {
+   "seedId": "las-posadas-first-night",
+   "year": 2028,
+   "date": "2028-12-16",
+   "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
+   "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
+   "note": "Las posadas se llevan a cabo del 16 al 24 de diciembre"
+  },
+  {
+   "seedId": "día-de-la-virgen-de-guadalupe",
+   "year": 2026,
+   "date": "2026-12-12",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+   "note": "December 12 Our Lady of Guadalupe, Feast. USCCB notes that in 2027 December 12 falls on a Sunday and the feast is omitted liturgically that year."
+  },
+  {
+   "seedId": "día-de-la-virgen-de-guadalupe",
+   "year": 2027,
+   "date": "2027-12-12",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+   "note": "December 12 Our Lady of Guadalupe, Feast. USCCB notes that in 2027 December 12 falls on a Sunday and the feast is omitted liturgically that year."
+  },
+  {
+   "seedId": "día-de-la-virgen-de-guadalupe",
+   "year": 2028,
+   "date": "2028-12-12",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+   "note": "December 12 Our Lady of Guadalupe, Feast. USCCB notes that in 2027 December 12 falls on a Sunday and the feast is omitted liturgically that year."
+  },
+  {
+   "seedId": "st-lucia-day",
+   "year": 2026,
+   "date": "2026-12-13",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+   "note": "Saint Lucy, Virgin and Martyr, December 13"
+  },
+  {
+   "seedId": "st-lucia-day",
+   "year": 2027,
+   "date": "2027-12-13",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+   "note": "Saint Lucy, Virgin and Martyr, December 13"
+  },
+  {
+   "seedId": "st-lucia-day",
+   "year": 2028,
+   "date": "2028-12-13",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+   "note": "Saint Lucy, Virgin and Martyr, December 13"
+  },
+  {
+   "seedId": "st-patricks-day",
+   "year": 2026,
+   "date": "2026-03-17",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+   "note": "Saint Patrick, Bishop, March 17"
+  },
+  {
+   "seedId": "st-patricks-day",
+   "year": 2027,
+   "date": "2027-03-17",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+   "note": "Saint Patrick, Bishop, March 17"
+  },
+  {
+   "seedId": "st-patricks-day",
+   "year": 2028,
+   "date": "2028-03-17",
+   "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+   "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+   "note": "Saint Patrick, Bishop, March 17"
+  },
+  {
+   "seedId": "cambodian-genocide-remembrance-april-17",
+   "year": 2026,
+   "date": "2026-04-17",
+   "source": "United States Holocaust Memorial Museum, Day One: April 17, 1975",
+   "sourceUrl": "https://www.ushmm.org/genocide-prevention/countries/cambodia/day-one",
+   "note": "April 17, 1975"
+  },
+  {
+   "seedId": "cambodian-genocide-remembrance-april-17",
+   "year": 2027,
+   "date": "2027-04-17",
+   "source": "United States Holocaust Memorial Museum, Day One: April 17, 1975",
+   "sourceUrl": "https://www.ushmm.org/genocide-prevention/countries/cambodia/day-one",
+   "note": "April 17, 1975"
+  },
+  {
+   "seedId": "cambodian-genocide-remembrance-april-17",
+   "year": 2028,
+   "date": "2028-04-17",
+   "source": "United States Holocaust Memorial Museum, Day One: April 17, 1975",
+   "sourceUrl": "https://www.ushmm.org/genocide-prevention/countries/cambodia/day-one",
+   "note": "April 17, 1975"
+  },
+  {
+   "seedId": "black-april",
+   "year": 2026,
+   "date": "2026-04-30",
+   "source": "U.S. Department of State, Office of the Historian, Ending the Vietnam War, 1969-1973",
+   "sourceUrl": "https://history.state.gov/milestones/1969-1976/ending-vietnam",
+   "note": "April 30, 1975 is the date of the fall of Saigon"
+  },
+  {
+   "seedId": "black-april",
+   "year": 2027,
+   "date": "2027-04-30",
+   "source": "U.S. Department of State, Office of the Historian, Ending the Vietnam War, 1969-1973",
+   "sourceUrl": "https://history.state.gov/milestones/1969-1976/ending-vietnam",
+   "note": "April 30, 1975 is the date of the fall of Saigon"
+  },
+  {
+   "seedId": "black-april",
+   "year": 2028,
+   "date": "2028-04-30",
+   "source": "U.S. Department of State, Office of the Historian, Ending the Vietnam War, 1969-1973",
+   "sourceUrl": "https://history.state.gov/milestones/1969-1976/ending-vietnam",
+   "note": "April 30, 1975 is the date of the fall of Saigon"
+  },
+  {
+   "seedId": "korean-independence-movement-day",
+   "year": 2026,
+   "date": "2026-03-01",
+   "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+   "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
+   "note": "Independence Movement Day (March 1). Substitute holiday rules can add an observed day."
+  },
+  {
+   "seedId": "korean-independence-movement-day",
+   "year": 2027,
+   "date": "2027-03-01",
+   "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+   "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
+   "note": "Independence Movement Day (March 1). Substitute holiday rules can add an observed day."
+  },
+  {
+   "seedId": "korean-independence-movement-day",
+   "year": 2028,
+   "date": "2028-03-01",
+   "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+   "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
+   "note": "Independence Movement Day (March 1). Substitute holiday rules can add an observed day."
+  },
+  {
+   "seedId": "korean-liberation-day",
+   "year": 2026,
+   "date": "2026-08-15",
+   "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+   "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
+   "note": "National Liberation Day (August 15). Substitute holiday rules can add an observed day."
+  },
+  {
+   "seedId": "korean-liberation-day",
+   "year": 2027,
+   "date": "2027-08-15",
+   "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+   "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
+   "note": "National Liberation Day (August 15). Substitute holiday rules can add an observed day."
+  },
+  {
+   "seedId": "korean-liberation-day",
+   "year": 2028,
+   "date": "2028-08-15",
+   "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+   "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
+   "note": "National Liberation Day (August 15). Substitute holiday rules can add an observed day."
+  },
+  {
+   "seedId": "somali-independence-day",
+   "year": 2026,
+   "date": "2026-07-01",
+   "source": "Federal Republic of Somalia, Ministry of Foreign Affairs, Independence day",
+   "sourceUrl": "https://web.mfa.gov.so/independence-day-2/",
+   "note": "July 1, 1960"
+  },
+  {
+   "seedId": "somali-independence-day",
+   "year": 2027,
+   "date": "2027-07-01",
+   "source": "Federal Republic of Somalia, Ministry of Foreign Affairs, Independence day",
+   "sourceUrl": "https://web.mfa.gov.so/independence-day-2/",
+   "note": "July 1, 1960"
+  },
+  {
+   "seedId": "somali-independence-day",
+   "year": 2028,
+   "date": "2028-07-01",
+   "source": "Federal Republic of Somalia, Ministry of Foreign Affairs, Independence day",
+   "sourceUrl": "https://web.mfa.gov.so/independence-day-2/",
+   "note": "July 1, 1960"
+  },
+  {
+   "seedId": "somaliland-independence-june-26",
+   "year": 2026,
+   "date": "2026-06-26",
+   "source": "Federal Republic of Somalia, Ministry of Foreign Affairs, June 26 Northern Regions Gain Independence",
+   "sourceUrl": "https://web.mfa.gov.so/june-26-northern-regions-gain-independence/",
+   "note": "Somali federal ministry page heading states June 26; Somaliland authorities were not opened"
+  },
+  {
+   "seedId": "somaliland-independence-june-26",
+   "year": 2027,
+   "date": "2027-06-26",
+   "source": "Federal Republic of Somalia, Ministry of Foreign Affairs, June 26 Northern Regions Gain Independence",
+   "sourceUrl": "https://web.mfa.gov.so/june-26-northern-regions-gain-independence/",
+   "note": "Somali federal ministry page heading states June 26; Somaliland authorities were not opened"
+  },
+  {
+   "seedId": "somaliland-independence-june-26",
+   "year": 2028,
+   "date": "2028-06-26",
+   "source": "Federal Republic of Somalia, Ministry of Foreign Affairs, June 26 Northern Regions Gain Independence",
+   "sourceUrl": "https://web.mfa.gov.so/june-26-northern-regions-gain-independence/",
+   "note": "Somali federal ministry page heading states June 26; Somaliland authorities were not opened"
+  },
+  {
+   "seedId": "karen-martyrs-day",
+   "year": 2026,
+   "date": "2026-08-12",
+   "source": "Karen News, Martyrs' Day Commemorated",
+   "sourceUrl": "https://karennews.org/2013/08/martyrs-day-commemorated/",
+   "note": "Observed annually on August 12"
+  },
+  {
+   "seedId": "karen-martyrs-day",
+   "year": 2027,
+   "date": "2027-08-12",
+   "source": "Karen News, Martyrs' Day Commemorated",
+   "sourceUrl": "https://karennews.org/2013/08/martyrs-day-commemorated/",
+   "note": "Observed annually on August 12"
+  },
+  {
+   "seedId": "karen-martyrs-day",
+   "year": 2028,
+   "date": "2028-08-12",
+   "source": "Karen News, Martyrs' Day Commemorated",
+   "sourceUrl": "https://karennews.org/2013/08/martyrs-day-commemorated/",
+   "note": "Observed annually on August 12"
+  },
+  {
+   "seedId": "lebanese-independence-day",
+   "year": 2026,
+   "date": "2026-11-22",
+   "source": "Republic of Liberia, Ministry of Foreign Affairs, President Weah Applauds Lebanon on 77th Independence observance",
+   "sourceUrl": "https://mofa.gov.lr/node/6223",
+   "note": "November 22, 1943"
+  },
+  {
+   "seedId": "lebanese-independence-day",
+   "year": 2027,
+   "date": "2027-11-22",
+   "source": "Republic of Liberia, Ministry of Foreign Affairs, President Weah Applauds Lebanon on 77th Independence observance",
+   "sourceUrl": "https://mofa.gov.lr/node/6223",
+   "note": "November 22, 1943"
+  },
+  {
+   "seedId": "lebanese-independence-day",
+   "year": 2028,
+   "date": "2028-11-22",
+   "source": "Republic of Liberia, Ministry of Foreign Affairs, President Weah Applauds Lebanon on 77th Independence observance",
+   "sourceUrl": "https://mofa.gov.lr/node/6223",
+   "note": "November 22, 1943"
+  },
+  {
+   "seedId": "liberian-independence-day",
+   "year": 2026,
+   "date": "2026-07-26",
+   "source": "Embassy of the Republic of Liberia in Washington, President Sirleaf's Independence Day Message (July 26, 2012)",
+   "sourceUrl": "https://www.liberianembassyus.org/view/announcements?page=19",
+   "note": "July 26"
+  },
+  {
+   "seedId": "liberian-independence-day",
+   "year": 2027,
+   "date": "2027-07-26",
+   "source": "Embassy of the Republic of Liberia in Washington, President Sirleaf's Independence Day Message (July 26, 2012)",
+   "sourceUrl": "https://www.liberianembassyus.org/view/announcements?page=19",
+   "note": "July 26"
+  },
+  {
+   "seedId": "liberian-independence-day",
+   "year": 2028,
+   "date": "2028-07-26",
+   "source": "Embassy of the Republic of Liberia in Washington, President Sirleaf's Independence Day Message (July 26, 2012)",
+   "sourceUrl": "https://www.liberianembassyus.org/view/announcements?page=19",
+   "note": "July 26"
+  },
+  {
+   "seedId": "lao-national-day",
+   "year": 2026,
+   "date": "2026-12-02",
+   "source": "Vientiane Times, report on the Prime Minister's Office list of 2026 public holidays",
+   "sourceUrl": "https://www.vientianetimes.org.la/freefreenews/freecontent_251_Dates_y25.php"
+  },
+  {
+   "seedId": "lao-national-day",
+   "year": 2027,
+   "date": "2027-12-02",
+   "source": "Vientiane Times, report on the Prime Minister's Office list of 2026 public holidays",
+   "sourceUrl": "https://www.vientianetimes.org.la/freefreenews/freecontent_251_Dates_y25.php",
+   "note": "Fixed date; opened page states December 2, 2026 for the 2026 list"
+  },
+  {
+   "seedId": "lao-national-day",
+   "year": 2028,
+   "date": "2028-12-02",
+   "source": "Vientiane Times, report on the Prime Minister's Office list of 2026 public holidays",
+   "sourceUrl": "https://www.vientianetimes.org.la/freefreenews/freecontent_251_Dates_y25.php",
+   "note": "Fixed date; opened page states December 2, 2026 for the 2026 list"
+  },
+  {
+   "seedId": "pi-mai-lao",
+   "year": 2026,
+   "date": "2026-04-14",
+   "source": "Vientiane Times, report on the Prime Minister's Office list of 2026 public holidays",
+   "sourceUrl": "https://www.vientianetimes.org.la/freefreenews/freecontent_251_Dates_y25.php",
+   "note": "April 14 to 16, 2026"
+  },
+  {
+   "seedId": "ecuadorian-independence-day",
+   "year": 2026,
+   "date": "2026-08-10",
+   "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
+   "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
+   "note": "Primer Grito de Independencia, August 10"
+  },
+  {
+   "seedId": "ecuadorian-independence-day",
+   "year": 2027,
+   "date": "2027-08-10",
+   "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
+   "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
+   "note": "Primer Grito de Independencia, August 10"
+  },
+  {
+   "seedId": "ecuadorian-independence-day",
+   "year": 2028,
+   "date": "2028-08-10",
+   "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
+   "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
+   "note": "Primer Grito de Independencia, August 10"
+  },
+  {
+   "seedId": "srebrenica-genocide-memorial-day",
+   "year": 2026,
+   "date": "2026-07-11",
+   "source": "United Nations, International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica",
+   "sourceUrl": "https://www.un.org/en/observances/srebrenica-genocide-commemoration-day"
+  },
+  {
+   "seedId": "srebrenica-genocide-memorial-day",
+   "year": 2027,
+   "date": "2027-07-11",
+   "source": "United Nations, International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica",
+   "sourceUrl": "https://www.un.org/en/observances/srebrenica-genocide-commemoration-day"
+  },
+  {
+   "seedId": "srebrenica-genocide-memorial-day",
+   "year": 2028,
+   "date": "2028-07-11",
+   "source": "United Nations, International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica",
+   "sourceUrl": "https://www.un.org/en/observances/srebrenica-genocide-commemoration-day"
+  },
+  {
+   "seedId": "salvadoran-peace-accords-anniversary",
+   "year": 2026,
+   "date": "2026-01-16",
+   "source": "United Nations Peacekeeping, ONUSAL Background",
+   "sourceUrl": "https://peacekeeping.un.org/mission/past/onusalbackgr2.html",
+   "note": "16 January 1992"
+  },
+  {
+   "seedId": "salvadoran-peace-accords-anniversary",
+   "year": 2027,
+   "date": "2027-01-16",
+   "source": "United Nations Peacekeeping, ONUSAL Background",
+   "sourceUrl": "https://peacekeeping.un.org/mission/past/onusalbackgr2.html",
+   "note": "16 January 1992"
+  },
+  {
+   "seedId": "salvadoran-peace-accords-anniversary",
+   "year": 2028,
+   "date": "2028-01-16",
+   "source": "United Nations Peacekeeping, ONUSAL Background",
+   "sourceUrl": "https://peacekeeping.un.org/mission/past/onusalbackgr2.html",
+   "note": "16 January 1992"
+  },
+  {
+   "seedId": "haitian-independence-day",
+   "year": 2026,
+   "date": "2026-01-01",
+   "source": "Embassy of the Republic of Haiti in Washington, Key Dates",
+   "sourceUrl": "https://www.haiti.org/key-dates/",
+   "note": "January 1, 1804"
+  },
+  {
+   "seedId": "haitian-independence-day",
+   "year": 2027,
+   "date": "2027-01-01",
+   "source": "Embassy of the Republic of Haiti in Washington, Key Dates",
+   "sourceUrl": "https://www.haiti.org/key-dates/",
+   "note": "January 1, 1804"
+  },
+  {
+   "seedId": "haitian-independence-day",
+   "year": 2028,
+   "date": "2028-01-01",
+   "source": "Embassy of the Republic of Haiti in Washington, Key Dates",
+   "sourceUrl": "https://www.haiti.org/key-dates/",
+   "note": "January 1, 1804"
+  },
+  {
+   "seedId": "nigerian-independence-day",
+   "year": 2026,
+   "date": "2026-10-01",
+   "source": "Federal Republic of Nigeria, Federal Ministry of Information and National Orientation, FG declares Thursday October 1st 2026 public holiday",
+   "sourceUrl": "https://fmino.gov.ng/fg-declares-thursday-october-1st-2026-public-holiday-to-mark-nigerias-66th-independence-anniversary/",
+   "note": "Federal Government declared October 1, 2026; Independence Anniversary October 1"
+  },
+  {
+   "seedId": "nigerian-independence-day",
+   "year": 2027,
+   "date": "2027-10-01",
+   "source": "Federal Republic of Nigeria, Federal Ministry of Information and National Orientation, FG declares Thursday October 1st 2026 public holiday",
+   "sourceUrl": "https://fmino.gov.ng/fg-declares-thursday-october-1st-2026-public-holiday-to-mark-nigerias-66th-independence-anniversary/",
+   "note": "Federal Government declared October 1, 2026; Independence Anniversary October 1"
+  },
+  {
+   "seedId": "nigerian-independence-day",
+   "year": 2028,
+   "date": "2028-10-01",
+   "source": "Federal Republic of Nigeria, Federal Ministry of Information and National Orientation, FG declares Thursday October 1st 2026 public holiday",
+   "sourceUrl": "https://fmino.gov.ng/fg-declares-thursday-october-1st-2026-public-holiday-to-mark-nigerias-66th-independence-anniversary/",
+   "note": "Federal Government declared October 1, 2026; Independence Anniversary October 1"
+  },
+  {
+   "seedId": "may-14-hmong-veterans-and-general-vang-pao-remembrance",
+   "year": 2026,
+   "date": "2026-05-14",
+   "source": "Minnesota Senate, S.R. No. 44 (2025-2026), 50th anniversary of the Hmong exodus from Laos",
+   "sourceUrl": "https://www.mnsenate.gov/resolutions/pdf/ls94/2025_2026/SR0044_O0.pdf",
+   "note": "May 14, 1975"
+  },
+  {
+   "seedId": "may-14-hmong-veterans-and-general-vang-pao-remembrance",
+   "year": 2027,
+   "date": "2027-05-14",
+   "source": "Minnesota Senate, S.R. No. 44 (2025-2026), 50th anniversary of the Hmong exodus from Laos",
+   "sourceUrl": "https://www.mnsenate.gov/resolutions/pdf/ls94/2025_2026/SR0044_O0.pdf",
+   "note": "May 14, 1975"
+  },
+  {
+   "seedId": "may-14-hmong-veterans-and-general-vang-pao-remembrance",
+   "year": 2028,
+   "date": "2028-05-14",
+   "source": "Minnesota Senate, S.R. No. 44 (2025-2026), 50th anniversary of the Hmong exodus from Laos",
+   "sourceUrl": "https://www.mnsenate.gov/resolutions/pdf/ls94/2025_2026/SR0044_O0.pdf",
+   "note": "May 14, 1975"
+  },
+  {
+   "seedId": "victory-day-may-9",
+   "year": 2026,
+   "date": "2026-05-09",
+   "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
+   "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+   "note": "9 мая День Победы. Ukraine moved its observance to May 8 by law in 2023 (Pravda report opened separately, see methods file); the seed's May 9 is the Russian and Soviet tradition date."
+  },
+  {
+   "seedId": "victory-day-may-9",
+   "year": 2027,
+   "date": "2027-05-09",
+   "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
+   "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+   "note": "9 мая День Победы. Ukraine moved its observance to May 8 by law in 2023 (Pravda report opened separately, see methods file); the seed's May 9 is the Russian and Soviet tradition date."
+  },
+  {
+   "seedId": "victory-day-may-9",
+   "year": 2028,
+   "date": "2028-05-09",
+   "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
+   "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+   "note": "9 мая День Победы. Ukraine moved its observance to May 8 by law in 2023 (Pravda report opened separately, see methods file); the seed's May 9 is the Russian and Soviet tradition date."
+  },
+  {
+   "seedId": "orthodox-christmas-julian-calendar",
+   "year": 2026,
+   "date": "2026-01-07",
+   "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
+   "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+   "note": "7 января Рождество Христово"
+  },
+  {
+   "seedId": "orthodox-christmas-julian-calendar",
+   "year": 2027,
+   "date": "2027-01-07",
+   "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
+   "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+   "note": "7 января Рождество Христово"
+  },
+  {
+   "seedId": "orthodox-christmas-julian-calendar",
+   "year": 2028,
+   "date": "2028-01-07",
+   "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
+   "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+   "note": "7 января Рождество Христово"
+  },
+  {
+   "seedId": "seollal",
+   "year": 2027,
+   "date": "2027-02-07",
+   "source": "Financial News (Korea), report on the 2027 월력요항 published by the Korea AeroSpace Administration on June 29, 2026",
+   "sourceUrl": "https://www.fnnews.com/news/202606290904291637"
+  },
+  {
+   "seedId": "chuseok",
+   "year": 2027,
+   "date": "2027-09-15",
+   "source": "Financial News (Korea), report on the 2027 월력요항 published by the Korea AeroSpace Administration on June 29, 2026",
+   "sourceUrl": "https://www.fnnews.com/news/202606290904291637"
+  },
+  {
+   "seedId": "seollal",
+   "year": 2028,
+   "date": "2028-01-27",
+   "source": "Korea Astronomy and Space Science Institute, Calendar data 2028 (page states it is not the official 월력요항)",
+   "sourceUrl": "https://astro.kasi.re.kr/life/post/calendarData?year=2028",
+   "note": "Lunar 1/1 is January 27, 2028 in the KASI table"
+  },
+  {
+   "seedId": "chuseok",
+   "year": 2028,
+   "date": "2028-10-03",
+   "source": "Korea Astronomy and Space Science Institute, Calendar data 2028 (page states it is not the official 월력요항)",
+   "sourceUrl": "https://astro.kasi.re.kr/life/post/calendarData?year=2028",
+   "note": "Chuseok holiday October 2 to 4; lunar 8/1 is September 19 so 8/15 is October 3. KHolidayz states 10월 3일 추석."
+  },
+  {
+   "seedId": "tết-nguyên-đán",
+   "year": 2028,
+   "date": "2028-01-26",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Vietnam holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/vietnam/2028",
+   "note": "First Tet holiday row on the page"
+  },
+  {
+   "seedId": "hùng-kings-commemoration",
+   "year": 2028,
+   "date": "2028-04-04",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Vietnam holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/vietnam/2028",
+   "note": "Page label: Vietnamese Kings' Commemoration Day"
+  },
+  {
+   "seedId": "seollal",
+   "year": 2026,
+   "date": "2026-02-17",
+   "source": "Korea Astronomy and Space Science Institute, Calendar data 2026 (page states it is not the official 월력요항)",
+   "sourceUrl": "https://astro.kasi.re.kr/life/post/calendarData?year=2026",
+   "note": "Lunar 1/1 is February 17, 2026"
+  },
+  {
+   "seedId": "chuseok",
+   "year": 2026,
+   "date": "2026-09-25",
+   "source": "Korea Astronomy and Space Science Institute, Calendar data 2026 (page states it is not the official 월력요항)",
+   "sourceUrl": "https://astro.kasi.re.kr/life/post/calendarData?year=2026",
+   "note": "Chuseok holiday September 24 to 26; lunar 8/1 is September 11 so 8/15 is September 25"
+  },
+  {
+   "seedId": "tết-nguyên-đán",
+   "year": 2026,
+   "date": "2026-02-17",
+   "source": "Vietnam National Authority of Tourism site, Public holidays and closures in Vietnam",
+   "sourceUrl": "https://www.vietnamtourism.com/en/public-holidays-and-closures-in-vietnam-a-year-round-planning-guide"
+  },
+  {
+   "seedId": "hùng-kings-commemoration",
+   "year": 2026,
+   "date": "2026-04-26",
+   "source": "Vietnam National Authority of Tourism site, Public holidays and closures in Vietnam",
+   "sourceUrl": "https://www.vietnamtourism.com/en/public-holidays-and-closures-in-vietnam-a-year-round-planning-guide"
+  },
+  {
+   "seedId": "start-of-ramadan",
+   "year": 2026,
+   "date": "2026-02-18",
+   "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
+   "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
+   "note": "FCNA declared February 18 as first day for North America; FCNA calendar lists Ramadan 1 1447 = February 18, 2026"
+  },
+  {
+   "seedId": "eid-alfitr",
+   "year": 2026,
+   "date": "2026-03-20",
+   "source": "Fiqh Council of North America, Calendar",
+   "sourceUrl": "https://fiqhcouncil.org/calendar/",
+   "note": "FCNA published North American calendar, Shawwal 1 1447. Saudi Supreme Court announced the same date (Bol News report via search, not opened as a check). No post-event Minnesota report found."
+  },
+  {
+   "seedId": "islamic-new-year",
+   "year": 2026,
+   "date": "2026-06-16",
+   "source": "Fiqh Council of North America, Calendar",
+   "sourceUrl": "https://fiqhcouncil.org/calendar/",
+   "note": "FCNA published North American calendar, Muharram 1 1448 = June 16, 2026. No post-event report found; some communities start a day later."
+  },
+  {
+   "seedId": "tết-nguyên-đán",
+   "year": 2027,
+   "date": "2027-02-06",
+   "source": "OfficeHolidays (commercial, no official source opened that states these dates), National Holidays in Vietnam in 2027",
+   "sourceUrl": "https://www.officeholidays.com/countries/vietnam/2027",
+   "note": "Tet Nguyen Dan; Vietnam News confirms the approved seven-day break February 4 to 10, 2027"
+  },
+  {
+   "seedId": "hùng-kings-commemoration",
+   "year": 2027,
+   "date": "2027-04-16",
+   "source": "OfficeHolidays (commercial, no official source opened that states these dates), National Holidays in Vietnam in 2027",
+   "sourceUrl": "https://www.officeholidays.com/countries/vietnam/2027",
+   "note": "10th day of the 3rd lunar month"
+  },
+  {
+   "seedId": "choul-chnam-thmey",
+   "year": 2027,
+   "date": "2027-04-14",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2027",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/cambodia/2027",
+   "note": "April 14 to 16"
+  },
+  {
+   "seedId": "pi-mai-lao",
+   "year": 2027,
+   "date": "2027-04-14",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Laos holidays 2027",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/laos/2027",
+   "note": "Page lists Lao New Year April 14 to 18, 2027"
+  },
+  {
+   "seedId": "ukrainian-independence-day",
+   "year": 2026,
+   "date": "2026-08-24",
+   "source": "Donetsk Regional State Administration (Ukraine), The birth of the holiday: Independence Day 1991",
+   "sourceUrl": "https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dnia-nezalezhnosti-ukrainy-u-1991-rotsi"
+  },
+  {
+   "seedId": "ukrainian-independence-day",
+   "year": 2027,
+   "date": "2027-08-24",
+   "source": "Donetsk Regional State Administration (Ukraine), The birth of the holiday: Independence Day 1991",
+   "sourceUrl": "https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dnia-nezalezhnosti-ukrainy-u-1991-rotsi"
+  },
+  {
+   "seedId": "ukrainian-independence-day",
+   "year": 2028,
+   "date": "2028-08-24",
+   "source": "Donetsk Regional State Administration (Ukraine), The birth of the holiday: Independence Day 1991",
+   "sourceUrl": "https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dnia-nezalezhnosti-ukrainy-u-1991-rotsi"
+  },
+  {
+   "seedId": "bosnia-and-herzegovina-independence-day",
+   "year": 2026,
+   "date": "2026-03-01",
+   "source": "University of Sarajevo School of Economics and Business, Notice on March 1 Independence Day of Bosnia and Herzegovina (2026)",
+   "sourceUrl": "https://www.efsa.unsa.ba/ef/en/node/6034",
+   "note": "Fixed March 1. Observed in the Federation; in 2026 the non-working day moved to March 2. Republika Srpska does not mark it."
+  },
+  {
+   "seedId": "bosnia-and-herzegovina-independence-day",
+   "year": 2027,
+   "date": "2027-03-01",
+   "source": "University of Sarajevo School of Economics and Business, Notice on March 1 Independence Day of Bosnia and Herzegovina (2026)",
+   "sourceUrl": "https://www.efsa.unsa.ba/ef/en/node/6034",
+   "note": "Fixed March 1. Observed in the Federation; in 2026 the non-working day moved to March 2. Republika Srpska does not mark it."
+  },
+  {
+   "seedId": "bosnia-and-herzegovina-independence-day",
+   "year": 2028,
+   "date": "2028-03-01",
+   "source": "University of Sarajevo School of Economics and Business, Notice on March 1 Independence Day of Bosnia and Herzegovina (2026)",
+   "sourceUrl": "https://www.efsa.unsa.ba/ef/en/node/6034",
+   "note": "Fixed March 1. Observed in the Federation; in 2026 the non-working day moved to March 2. Republika Srpska does not mark it."
+  },
+  {
+   "seedId": "colombian-independence-day",
+   "year": 2026,
+   "date": "2026-07-20",
+   "source": "El Tiempo (Colombia), Por qué el festivo del 20 de julio no se mueve al lunes",
+   "sourceUrl": "https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-mueve-al-lunes-y-que-es-la-ley-emiliani-3364069",
+   "note": "20 de julio, Día de la Independencia; newspaper, official statute page could not be opened"
+  },
+  {
+   "seedId": "colombian-independence-day",
+   "year": 2027,
+   "date": "2027-07-20",
+   "source": "El Tiempo (Colombia), Por qué el festivo del 20 de julio no se mueve al lunes",
+   "sourceUrl": "https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-mueve-al-lunes-y-que-es-la-ley-emiliani-3364069",
+   "note": "20 de julio, Día de la Independencia; newspaper, official statute page could not be opened"
+  },
+  {
+   "seedId": "colombian-independence-day",
+   "year": 2028,
+   "date": "2028-07-20",
+   "source": "El Tiempo (Colombia), Por qué el festivo del 20 de julio no se mueve al lunes",
+   "sourceUrl": "https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-mueve-al-lunes-y-que-es-la-ley-emiliani-3364069",
+   "note": "20 de julio, Día de la Independencia; newspaper, official statute page could not be opened"
+  },
+  {
+   "seedId": "syttende-mai",
+   "year": 2026,
+   "date": "2026-05-17",
+   "source": "Lovdata (Norway), Lov om 1. og 17. mai som høgtidsdager",
+   "sourceUrl": "https://lovdata.no/dokument/NL/lov/1947-04-26-1"
+  },
+  {
+   "seedId": "syttende-mai",
+   "year": 2027,
+   "date": "2027-05-17",
+   "source": "Lovdata (Norway), Lov om 1. og 17. mai som høgtidsdager",
+   "sourceUrl": "https://lovdata.no/dokument/NL/lov/1947-04-26-1"
+  },
+  {
+   "seedId": "syttende-mai",
+   "year": 2028,
+   "date": "2028-05-17",
+   "source": "Lovdata (Norway), Lov om 1. og 17. mai som høgtidsdager",
+   "sourceUrl": "https://lovdata.no/dokument/NL/lov/1947-04-26-1"
+  },
+  {
+   "seedId": "hmong-new-year-minnesota",
+   "year": 2026,
+   "date": "2026-11-28",
+   "source": "Northern Star Council, 2026 Outreach Cultural Events calendar (third-party; organizer announcement not opened)",
+   "sourceUrl": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf",
+   "note": "Calendar lists 11/28-11/29/26 at Saint Paul RiverCentre; seed had no date"
+  },
+  {
+   "seedId": "asanha-bucha-and-start-of-buddhist-lent",
+   "year": 2028,
+   "date": "2028-07-07",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
+   "note": "CalendarLabs lists Asarnha Bucha July 7, 2028; Calendarific lists July 6"
+  },
+  {
+   "seedId": "asanha-bucha-and-start-of-buddhist-lent",
+   "year": 2028,
+   "date": "2028-07-06",
+   "source": "Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028",
+   "sourceUrl": "https://calendarific.com/holidays/2028/TH",
+   "note": "Marked provisional; Buddhist Lent July 7, 2028"
+  },
+  {
+   "seedId": "timkat",
+   "year": 2028,
+   "date": "2028-01-19",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
+   "note": "CalendarLabs lists January 19, 2028; Calendarific lists January 20, which fits Tir 11 after the Ethiopian leap year"
+  },
+  {
+   "seedId": "timkat",
+   "year": 2028,
+   "date": "2028-01-20",
+   "source": "Calendarific (commercial, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://calendarific.com/holidays/2028/ET"
+  },
+  {
+   "seedId": "pchum-ben",
+   "year": 2028,
+   "date": "2028-10-07",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/cambodia/2028",
+   "note": "CalendarLabs lists Oct 7 to 9, 2028, which does not fall at a new moon; Calendarific lists Sep 17 to 19"
+  },
+  {
+   "seedId": "pchum-ben",
+   "year": 2028,
+   "date": "2028-09-17",
+   "source": "Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028",
+   "sourceUrl": "https://calendarific.com/holidays/2028/KH",
+   "note": "Provisional forecast; first day of three"
+  },
+  {
+   "seedId": "pi-mai-lao",
+   "year": 2028,
+   "date": "2028-04-13",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Laos holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/laos/2028",
+   "note": "CalendarLabs lists April 13 to 16, 2028; Calendarific lists April 14 to 16"
+  },
+  {
+   "seedId": "pi-mai-lao",
+   "year": 2028,
+   "date": "2028-04-14",
+   "source": "Calendarific (commercial, no official source found; dates marked provisional), Laos holidays 2028",
+   "sourceUrl": "https://calendarific.com/holidays/2028/la",
+   "note": "Marked provisional"
+  },
+  {
+   "seedId": "choul-chnam-thmey",
+   "year": 2028,
+   "date": "2028-04-14",
+   "source": "Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028",
+   "sourceUrl": "https://calendarific.com/holidays/2028/KH",
+   "note": "Marked provisional; CalendarLabs agrees April 14 to 16, 2028. No sub-decree yet; both are projections"
+  },
+  {
+   "seedId": "karen-new-year",
+   "year": 2028,
+   "date": "2028-12-19",
+   "source": "Calendarific (commercial, no official source found; marked provisional forecast), Myanmar holidays 2028",
+   "sourceUrl": "https://calendarific.com/holidays/2028/MM",
+   "note": "Provisional forecast; CalendarLabs also lists December 19, 2028. Hong Kong Observatory table has a new lunar month on December 16, 2028, closer to the seed. Review before use."
+  },
+  {
+   "seedId": "holi",
+   "year": 2027,
+   "date": "2027-03-22",
+   "source": "Drik Panchang (almanac site, not a government source), 2027 Holi, Rangwali Holi, Dhulandi date for New Delhi",
+   "sourceUrl": "https://www.drikpanchang.com/festivals/holi/festivals-holi-rangwali.html?year=2027",
+   "note": "Drik Panchang for New Delhi: Holi Monday March 22, 2027, Purnima ends 4:13 PM March 22"
+  },
+  {
+   "seedId": "holi",
+   "year": 2027,
+   "date": "2027-03-23",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+   "note": "Government of India gazetted Holi is March 23, 2027. Drik Panchang (New Delhi) states Monday March 22, 2027. Almanacs and gazetted lists differ."
+  },
+  {
+   "seedId": "día-de-los-reyes",
+   "year": 2026,
+   "date": "2026-01-06",
+   "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
+   "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+   "note": "Puerto Rico law: día de fiesta oficial el 6 de enero. Mexican government page could not be opened."
+  },
+  {
+   "seedId": "día-de-los-reyes",
+   "year": 2027,
+   "date": "2027-01-06",
+   "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
+   "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+   "note": "Puerto Rico law: día de fiesta oficial el 6 de enero. Mexican government page could not be opened."
+  },
+  {
+   "seedId": "día-de-los-reyes",
+   "year": 2028,
+   "date": "2028-01-06",
+   "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
+   "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+   "note": "Puerto Rico law: día de fiesta oficial el 6 de enero. Mexican government page could not be opened."
+  },
+  {
+   "seedId": "puerto-rico-constitution-day",
+   "year": 2026,
+   "date": "2026-07-25",
+   "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
+   "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+   "note": "Puerto Rico law: día de fiesta oficial el 25 de julio"
+  },
+  {
+   "seedId": "puerto-rico-constitution-day",
+   "year": 2027,
+   "date": "2027-07-25",
+   "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
+   "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+   "note": "Puerto Rico law: día de fiesta oficial el 25 de julio"
+  },
+  {
+   "seedId": "puerto-rico-constitution-day",
+   "year": 2028,
+   "date": "2028-07-25",
+   "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
+   "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+   "note": "Puerto Rico law: día de fiesta oficial el 25 de julio"
+  },
+  {
+   "seedId": "discovery-of-puerto-rico-day",
+   "year": 2026,
+   "date": "2026-11-19",
+   "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley Núm. 91 de 1938, Día de la Puertorriqueñidad, Día del Descubrimiento de Puerto Rico",
+   "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/91-1938.pdf",
+   "note": "Declarar feriado en Puerto Rico el día 19 de noviembre"
+  },
+  {
+   "seedId": "discovery-of-puerto-rico-day",
+   "year": 2027,
+   "date": "2027-11-19",
+   "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley Núm. 91 de 1938, Día de la Puertorriqueñidad, Día del Descubrimiento de Puerto Rico",
+   "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/91-1938.pdf",
+   "note": "Declarar feriado en Puerto Rico el día 19 de noviembre"
+  },
+  {
+   "seedId": "discovery-of-puerto-rico-day",
+   "year": 2028,
+   "date": "2028-11-19",
+   "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley Núm. 91 de 1938, Día de la Puertorriqueñidad, Día del Descubrimiento de Puerto Rico",
+   "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/91-1938.pdf",
+   "note": "Declarar feriado en Puerto Rico el día 19 de noviembre"
+  },
+  {
+   "seedId": "george-floyd-remembrance",
+   "year": 2026,
+   "date": "2026-05-25",
+   "source": "U.S. Department of Justice, Office of the Inspector General, Report 24-085, review of the response to protest activity",
+   "sourceUrl": "https://oig.justice.gov/sites/default/files/reports/24-085.pdf",
+   "note": "On Monday, May 25, 2020"
+  },
+  {
+   "seedId": "george-floyd-remembrance",
+   "year": 2027,
+   "date": "2027-05-25",
+   "source": "U.S. Department of Justice, Office of the Inspector General, Report 24-085, review of the response to protest activity",
+   "sourceUrl": "https://oig.justice.gov/sites/default/files/reports/24-085.pdf",
+   "note": "On Monday, May 25, 2020"
+  },
+  {
+   "seedId": "george-floyd-remembrance",
+   "year": 2028,
+   "date": "2028-05-25",
+   "source": "U.S. Department of Justice, Office of the Inspector General, Report 24-085, review of the response to protest activity",
+   "sourceUrl": "https://oig.justice.gov/sites/default/files/reports/24-085.pdf",
+   "note": "On Monday, May 25, 2020"
+  },
+  {
+   "seedId": "watch-night",
+   "year": 2026,
+   "date": "2026-12-31",
+   "source": "National Park Service, Freedom's Eve: Awaiting the Passage of the Emancipation Proclamation",
+   "sourceUrl": "https://home.nps.gov/articles/000/freedoms-eve.htm",
+   "note": "December 31, 1862; services still held on New Year's Eve"
+  },
+  {
+   "seedId": "watch-night",
+   "year": 2027,
+   "date": "2027-12-31",
+   "source": "National Park Service, Freedom's Eve: Awaiting the Passage of the Emancipation Proclamation",
+   "sourceUrl": "https://home.nps.gov/articles/000/freedoms-eve.htm",
+   "note": "December 31, 1862; services still held on New Year's Eve"
+  },
+  {
+   "seedId": "watch-night",
+   "year": 2028,
+   "date": "2028-12-31",
+   "source": "National Park Service, Freedom's Eve: Awaiting the Passage of the Emancipation Proclamation",
+   "sourceUrl": "https://home.nps.gov/articles/000/freedoms-eve.htm",
+   "note": "December 31, 1862; services still held on New Year's Eve"
+  },
+  {
+   "seedId": "loy-krathong",
+   "year": 2026,
+   "date": "2026-11-24",
+   "source": "Sanook Campus, วันลอยกระทง 2569 (Thai news site; no government list covers this non-holiday)",
+   "sourceUrl": "https://www.sanook.com/campus/910912/",
+   "note": "Seed had no date; 15th waxing day of month 12"
+  },
+  {
+   "seedId": "vyshyvanka-day",
+   "year": 2026,
+   "date": "2026-05-21",
+   "source": "Novyny.LIVE (Ukrainian news site; no government page could be opened), День вишиванки 2026",
+   "sourceUrl": "https://novyny.live/svyata/den-vishivanki-2026-koli-ta-iak-sviatkuiut-v-ukrayini-322903.html",
+   "note": "Third Thursday of May"
+  }
+ ],
+ "disagreements": [
+  {
+   "seedId": "holi",
+   "year": 2027,
+   "seedDate": "2027-03-22",
+   "sourceDate": "2027-03-23",
+   "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
+   "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html"
+  },
+  {
+   "seedId": "orthodox-christmas-julian-calendar",
+   "year": 2026,
+   "seedDate": "2027-01-07",
+   "sourceDate": "2026-01-07",
+   "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
+   "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/"
+  },
+  {
+   "seedId": "orthodox-christmas-julian-calendar",
+   "year": 2027,
+   "seedDate": "2028-01-07",
+   "sourceDate": "2027-01-07",
+   "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
+   "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/"
+  },
+  {
+   "seedId": "orthodox-christmas-julian-calendar",
+   "year": 2028,
+   "seedDate": "2029-01-07",
+   "sourceDate": "2028-01-07",
+   "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
+   "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/"
+  },
+  {
+   "seedId": "asanha-bucha-and-start-of-buddhist-lent",
+   "year": 2028,
+   "seedDate": "2028-07-06",
+   "sourceDate": "2028-07-07",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028"
+  },
+  {
+   "seedId": "timkat",
+   "year": 2028,
+   "seedDate": "2028-01-20",
+   "sourceDate": "2028-01-19",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028"
+  },
+  {
+   "seedId": "pchum-ben",
+   "year": 2028,
+   "seedDate": "2028-09-17",
+   "sourceDate": "2028-10-07",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/cambodia/2028"
+  },
+  {
+   "seedId": "pi-mai-lao",
+   "year": 2028,
+   "seedDate": "2028-04-14",
+   "sourceDate": "2028-04-13",
+   "source": "CalendarLabs (commercial calendar site, no official source found), Laos holidays 2028",
+   "sourceUrl": "https://www.calendarlabs.com/holidays/laos/2028"
+  },
+  {
+   "seedId": "choul-chnam-thmey",
+   "year": 2028,
+   "seedDate": "2028-04-13",
+   "sourceDate": "2028-04-14",
+   "source": "Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028",
+   "sourceUrl": "https://calendarific.com/holidays/2028/KH"
+  },
+  {
+   "seedId": "karen-new-year",
+   "year": 2028,
+   "seedDate": "2028-12-16",
+   "sourceDate": "2028-12-19",
+   "source": "Calendarific (commercial, no official source found; marked provisional forecast), Myanmar holidays 2028",
+   "sourceUrl": "https://calendarific.com/holidays/2028/MM"
+  }
+ ],
+ "couldNotCheck": [
+  {
+   "seedId": "karen-new-year",
+   "year": 2026,
+   "why": "Seed has no 2026 date. The official Myanmar 2026 holiday list (Department of Civil Aviation AIC A 03/2026) lists no Karen New Year in 2026, which fits; the observance moves from December 2025 to January 8, 2027."
+  },
+  {
+   "seedId": "eid-aladha",
+   "year": 2027,
+   "why": "Moon-sighted date stays unconfirmed. Decided by moon sighting by mosque, by Fiqh Council of North America calculated calendar, or by following Saudi Supreme Court and the day of Arafah. Opened source: fiqhcouncil.org/calendar. Umm al-Qura lists the tabular date."
+  },
+  {
+   "seedId": "eid-aladha",
+   "year": 2028,
+   "why": "Moon-sighted date stays unconfirmed. Decided by moon sighting by mosque, by Fiqh Council of North America calculated calendar, or by following Saudi Supreme Court and the day of Arafah. Opened source: fiqhcouncil.org/calendar. Umm al-Qura lists the tabular date."
+  },
+  {
+   "seedId": "start-of-ramadan",
+   "year": 2027,
+   "why": "Moon-sighted date stays unconfirmed. FCNA calendar calculates February 8, 2027, but mosques may follow local or global moon sighting or the Saudi Supreme Court, and Umm al-Qura lists a tabular date. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "start-of-ramadan",
+   "year": 2028,
+   "why": "Moon-sighted date stays unconfirmed. FCNA calendar calculates January 28, 2028, but mosques may follow local or global moon sighting or the Saudi Supreme Court, and Umm al-Qura lists a tabular date. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "eid-alfitr",
+   "year": 2027,
+   "why": "Moon-sighted date stays unconfirmed. FCNA calendar calculates March 9, 2027; moon sighting or Saudi Supreme Court can differ by a day; Umm al-Qura is tabular. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "eid-alfitr",
+   "year": 2028,
+   "why": "Moon-sighted date stays unconfirmed. FCNA calendar calculates February 26, 2028; moon sighting or Saudi Supreme Court can differ by a day; Umm al-Qura is tabular. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "islamic-new-year",
+   "year": 2027,
+   "why": "Moon-sighted date stays unconfirmed. FCNA calendar calculates June 6, 2027; moon sighting or Saudi announcement can differ; Umm al-Qura is tabular. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "islamic-new-year",
+   "year": 2028,
+   "why": "Moon-sighted date stays unconfirmed. Decided by FCNA calculation, moon sighting, or Saudi and Umm al-Qura calendars. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "ashura",
+   "year": 2026,
+   "why": "No opened post-event statement of the day observed in North America. FCNA's calendar lists Muharram 1 as June 16, 2026, which implies June 25, but the page does not state Ashura itself, and calendar sites show June 25 or 26 by moon sighting."
+  },
+  {
+   "seedId": "ashura",
+   "year": 2027,
+   "why": "Moon-sighted date stays unconfirmed. Tenth of Muharram follows however each community sets Muharram 1: FCNA calculation, moon sighting, Saudi announcement or Umm al-Qura; Shia communities follow their marja's office. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "ashura",
+   "year": 2028,
+   "why": "Moon-sighted date stays unconfirmed. Tenth of Muharram follows however each community sets Muharram 1: FCNA calculation, moon sighting, Saudi announcement or Umm al-Qura; Shia communities follow their marja's office. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "mawlid-annabi",
+   "year": 2026,
+   "why": "No opened post-event statement of the day observed in North America. FCNA lists Rabi al-Awwal 1 as August 14, 2026, which implies August 25; Sunni and Shia dates differ and calendars also show August 26 or 30 to 31."
+  },
+  {
+   "seedId": "mawlid-annabi",
+   "year": 2027,
+   "why": "Moon-sighted date stays unconfirmed. Depends on how Rabi al-Awwal is set: FCNA calculation, moon sighting, Saudi or Umm al-Qura; not observed by all Muslims. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "mawlid-annabi",
+   "year": 2028,
+   "why": "Moon-sighted date stays unconfirmed. Depends on how Rabi al-Awwal is set: FCNA calculation, moon sighting, Saudi or Umm al-Qura; not observed by all Muslims. Opened source: fiqhcouncil.org/calendar."
+  },
+  {
+   "seedId": "ramadan-night-prayers-and-community-iftars",
+   "year": 2026,
+   "why": "Announced by each mosque; seed holds no date and there is no single date to check."
+  },
+  {
+   "seedId": "ramadan-night-prayers-and-community-iftars",
+   "year": 2027,
+   "why": "Announced by each mosque; seed holds no date and there is no single date to check."
+  },
+  {
+   "seedId": "ramadan-night-prayers-and-community-iftars",
+   "year": 2028,
+   "why": "Announced by each mosque; seed holds no date and there is no single date to check."
+  },
+  {
+   "seedId": "obon",
+   "year": 2026,
+   "why": "Seed has no date; mid-July or mid-August by region and temple, set by each organizer. No single date to check."
+  },
+  {
+   "seedId": "obon",
+   "year": 2027,
+   "why": "Seed has no date; mid-July or mid-August by region and temple, set by each organizer. No single date to check."
+  },
+  {
+   "seedId": "obon",
+   "year": 2028,
+   "why": "Seed has no date; mid-July or mid-August by region and temple, set by each organizer. No single date to check."
+  },
+  {
+   "seedId": "irreecha",
+   "year": 2027,
+   "why": "Seed has no date; announced each year by organizers; not yet announced."
+  },
+  {
+   "seedId": "irreecha",
+   "year": 2028,
+   "why": "Seed has no date; announced each year by organizers; not yet announced."
+  },
+  {
+   "seedId": "hmong-new-year-minnesota",
+   "year": 2027,
+   "why": "Seed has no date; set each year by organizers (United Hmong Family); weekend after Thanksgiving by Visit Saint Paul; 2027 not announced."
+  },
+  {
+   "seedId": "hmong-new-year-minnesota",
+   "year": 2028,
+   "why": "Seed has no date; set each year by organizers (United Hmong Family); 2028 not announced."
+  },
+  {
+   "seedId": "loy-krathong",
+   "year": 2027,
+   "why": "Seed has no date; full moon of twelfth Thai lunar month. No Thai official list states 2027 yet."
+  },
+  {
+   "seedId": "loy-krathong",
+   "year": 2028,
+   "why": "Seed has no date; full moon of twelfth Thai lunar month. No Thai official list states 2028 yet."
+  },
+  {
+   "seedId": "irreecha",
+   "year": 2026,
+   "why": "Seed has no date; announced each year by organizers. Not in the fixed, calculated or moon-sighted scope, and no opened announcement."
+  },
+  {
+   "seedId": "holodomor-remembrance-day",
+   "year": 2026,
+   "why": "Opened sources state the rule, fourth Saturday of November (V. N. Karazin Kharkiv National University; Holodomor Museum), but none states November 28, 2026. Calendar computation only, so no check."
+  },
+  {
+   "seedId": "holodomor-remembrance-day",
+   "year": 2027,
+   "why": "Opened sources state the rule, fourth Saturday of November, but none states November 27, 2027. Calendar computation only, so no check."
+  },
+  {
+   "seedId": "holodomor-remembrance-day",
+   "year": 2028,
+   "why": "Opened sources state the rule, fourth Saturday of November, but none states November 25, 2028. Calendar computation only, so no check."
+  },
+  {
+   "seedId": "vyshyvanka-day",
+   "year": 2027,
+   "why": "Opened source states the rule, third Thursday of May (Obozrevatel, April 2024), but none states May 20, 2027. Calendar computation only."
+  },
+  {
+   "seedId": "vyshyvanka-day",
+   "year": 2028,
+   "why": "Opened source states the rule, third Thursday of May (Obozrevatel, April 2024), but none states May 18, 2028. Calendar computation only."
+  },
+  {
+   "seedId": "rondo-days",
+   "year": 2027,
+   "why": "Organizers set the date each year; usual third Saturday of July. No announcement for 2027."
+  },
+  {
+   "seedId": "rondo-days",
+   "year": 2028,
+   "why": "Organizers set the date each year; usual third Saturday of July. No announcement for 2028."
+  },
+  {
+   "seedId": "rondo-days",
+   "year": 2026,
+   "why": "MPR News (July 15, 2026) says the event is this Saturday, noon to 7, which implies July 18, 2026, but no page that opened states the date. Visit Saint Paul listing would not open."
+  }
+ ]
+}
