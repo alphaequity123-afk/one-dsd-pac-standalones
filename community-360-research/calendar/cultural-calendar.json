@@ -10190,8 +10190,7 @@
    "name": "Easter",
    "alsoKnownAs": [
     "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "Domingo de Resurrección"
    ],
    "communities": [
     "guatemalan"
@@ -10203,17 +10202,17 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
+   "capsule": "Resurrection of Jesus; Worthington's St. Mary's holds Easter Masses in English and Spanish.",
    "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-05",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
-     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "source": "St. Mary's Catholic Church, Worthington, events page",
+     "sourceUrl": "https://www.stmarysworthington.org/events",
      "verified": true
     },
     {
@@ -10234,19 +10233,33 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The resurrection of Jesus, the high point of Holy Week (Semana Santa) for Catholic and evangelical Guatemalans.",
+   "howCelebratedInMinnesota": "In 2026 St. Mary's Catholic Church in Worthington, a parish with many Guatemalan members, held Easter Sunday Masses at 9 a.m. (English) and 11 a.m. (Spanish) on April 5, plus an Easter lunch and party. No Minnesota source describes Guatemalan-style processions or sawdust carpets.",
+   "minnesotaEvents": [
+    {
+     "name": "Easter Sunday Masses and Easter Lunch & Party",
+     "place": "St. Mary's Catholic Church, Worthington",
+     "link": "https://www.stmarysworthington.org/events",
+     "organizerDates": "April 5, 2026: Mass 9 a.m. English, 11 a.m. Spanish",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Upcoming Events, St. Mary's Catholic Church Worthington",
+     "url": "https://www.stmarysworthington.org/events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "guatemalan--good-friday",
-   "observanceKey": "good-friday",
-   "name": "Good Friday",
+   "id": "guatemalan--holy-thursday",
+   "observanceKey": "holy-thursday",
+   "name": "Holy Thursday",
    "alsoKnownAs": [
-    "Viernes Santo",
-    "Biyernes Santo"
+    "Jueves Santo",
+    "Maundy Thursday"
    ],
    "communities": [
     "guatemalan"
@@ -10258,9 +10271,87 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
    "kind": "religious",
-   "capsule": "The crucifixion of Jesus.",
+   "capsule": "Last Supper remembrance opening the Easter Triduum; a public holiday in Guatemala; bilingual services in Worthington.",
+   "dateRule": "Thursday before Western Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-02",
+     "endDate": null,
+     "source": "St. Mary's Catholic Church events page; Office Holidays Guatemala 2026",
+     "sourceUrl": "https://www.stmarysworthington.org/events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-25",
+     "endDate": null,
+     "source": "Office Holidays, Public Holidays in Guatemala 2027 (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.officeholidays.com/countries/guatemala/2027",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-13",
+     "endDate": null,
+     "source": "Calculated from Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Jesus' Last Supper; in Guatemala it begins the public Holy Week holidays (Holy Thursday, Good Friday, Holy Saturday).",
+   "howCelebratedInMinnesota": "St. Mary's Catholic Church in Worthington held Holy Thursday services in English at 3 p.m. and Spanish at 5 p.m. on April 2, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Holy Thursday services",
+     "place": "St. Mary's Catholic Church, Worthington",
+     "link": "https://www.stmarysworthington.org/events",
+     "organizerDates": "April 2, 2026: English 3 p.m., Spanish 5 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Upcoming Events, St. Mary's Catholic Church Worthington",
+     "url": "https://www.stmarysworthington.org/events",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Public Holidays in Guatemala in 2026",
+     "url": "https://www.officeholidays.com/countries/guatemala/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Public Holidays in Guatemala in 2027",
+     "url": "https://www.officeholidays.com/countries/guatemala/2027",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "guatemalan--good-friday",
+   "observanceKey": "good-friday",
+   "name": "Good Friday",
+   "alsoKnownAs": [
+    "Viernes Santo"
+   ],
+   "communities": [
+    "guatemalan"
+   ],
+   "briefLinks": [
+    {
+     "community": "guatemalan",
+     "title": "Guatemalan Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
+   "kind": "religious",
+   "capsule": "Crucifixion of Jesus; Guatemala's largest Holy Week procession day and a public holiday there.",
    "dateRule": "The Friday before Western Easter.",
    "dates": [
     {
@@ -10289,11 +10380,22 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "The crucifixion of Jesus.",
+   "whatItMarks": "The crucifixion and death of Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Public Holidays in Guatemala in 2026",
+     "url": "https://www.officeholidays.com/countries/guatemala/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Public Holidays in Guatemala in 2027",
+     "url": "https://www.officeholidays.com/countries/guatemala/2027",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "guatemalan--ash-wednesday",
@@ -10312,9 +10414,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
    "kind": "religious",
-   "capsule": "Start of Lent.",
+   "capsule": "Start of Lent for Catholic Guatemalans; ashes marked on the forehead.",
    "dateRule": "46 days before Western Easter.",
    "dates": [
     {
@@ -10343,18 +10445,19 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Start of Lent.",
+   "whatItMarks": "The beginning of Lent, the season of preparation for Easter.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
    "sources": []
   },
   {
-   "id": "guatemalan--central-american-independence-day",
-   "observanceKey": "central-american-independence-day",
-   "name": "Central American Independence Day",
+   "id": "guatemalan--feast-of-the-black-christ-of-esquipulas",
+   "observanceKey": "feast-of-the-black-christ-of-esquipulas",
+   "name": "Feast of the Black Christ of Esquipulas",
    "alsoKnownAs": [
-    "Día de la Independencia"
+    "El Señor de Esquipulas",
+    "Cristo Negro de Esquipulas"
    ],
    "communities": [
     "guatemalan"
@@ -10366,10 +10469,80 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
+   "kind": "religious",
+   "capsule": "Feast of Guatemala's most venerated crucifix; Worthington parishioners celebrate with Mass, marimba, dance and a procession.",
+   "dateRule": "January 15 each year; Minnesota parish celebrations may be held on a nearby Sunday.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-15",
+     "endDate": null,
+     "source": "Associated Press (feast day on January 15)",
+     "sourceUrl": "https://www.ksat.com/news/national/2025/01/17/in-guatemala-and-minnesota-holy-feast-brings-migrant-families-hope-and-pride-amid-crackdown-fears/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-15",
+     "endDate": null,
+     "source": "Associated Press (feast day on January 15)",
+     "sourceUrl": "https://www.ksat.com/news/national/2025/01/17/in-guatemala-and-minnesota-holy-feast-brings-migrant-families-hope-and-pride-amid-crackdown-fears/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-15",
+     "endDate": null,
+     "source": "Associated Press (feast day on January 15)",
+     "sourceUrl": "https://www.ksat.com/news/national/2025/01/17/in-guatemala-and-minnesota-holy-feast-brings-migrant-families-hope-and-pride-amid-crackdown-fears/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Veneration of a late 16th-century crucifix at the basilica in Esquipulas, Guatemala, darkened by centuries of candle smoke; it is a source of communal identity across Central America.",
+   "howCelebratedInMinnesota": "At St. Mary's Catholic Church in Worthington, families from San Marcos held what AP called their biggest celebration yet on Sunday, Jan. 12, 2025: a Mass with a barefoot offering dance in traje, a procession with a replica statue commissioned in Esquipulas, two marimbas brought from Guatemala, a free taco lunch in the parish school cafeteria and an hours-long prayer service. The community raised nearly $40,000 for the statue and marimbas. No 2026 or later date was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Black Christ of Esquipulas feast celebration",
+     "place": "St. Mary's Catholic Church, Worthington",
+     "link": "https://www.ksat.com/news/national/2025/01/17/in-guatemala-and-minnesota-holy-feast-brings-migrant-families-hope-and-pride-amid-crackdown-fears/",
+     "organizerDates": "Held Sunday, Jan. 12, 2025 (preparations Jan. 11); no 2026 date found",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "In Guatemala and Minnesota, holy feast brings migrant families hope and pride amid crackdown fears (AP)",
+     "url": "https://www.ksat.com/news/national/2025/01/17/in-guatemala-and-minnesota-holy-feast-brings-migrant-families-hope-and-pride-amid-crackdown-fears/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "guatemalan--guatemalan-independence-day",
+   "observanceKey": "central-american-independence-day",
+   "name": "Guatemalan Independence Day",
+   "alsoKnownAs": [
+    "Día de la Independencia",
+    "Central American Independence Day",
+    "15 de septiembre"
+   ],
+   "communities": [
+    "guatemalan"
+   ],
+   "briefLinks": [
+    {
+     "community": "guatemalan",
+     "title": "Guatemalan Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
    "kind": "national",
-   "capsule": "Independence of Central America from Spain in 1821.",
-   "dateRule": "September 15.",
+   "capsule": "Guatemala's national day, marking the 1821 Act of Independence of Central America from Spain.",
+   "dateRule": "September 15 each year (fixed).",
    "dates": [
     {
      "year": 2026,
@@ -10397,18 +10570,29 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Independence of Central America from Spain in 1821.",
+   "whatItMarks": "The declaration of independence of the Central American provinces from Spanish rule on September 15, 1821, shared with Costa Rica, El Salvador, Honduras and Nicaragua.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Independence Day in Guatemala",
+     "url": "https://www.officeholidays.com/holidays/guatemala/guatemala-independence-day",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Public Holidays in Guatemala in 2026",
+     "url": "https://www.officeholidays.com/countries/guatemala/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "guatemalan--día-de-los-muertos",
-   "observanceKey": "día-de-los-muertos",
-   "name": "Día de los Muertos",
+   "id": "guatemalan--hispanic-heritage-month-begins",
+   "observanceKey": "hispanic-heritage-month-begins",
+   "name": "Hispanic Heritage Month (begins)",
    "alsoKnownAs": [
-    "Day of the Dead"
+    "Latino Heritage Month"
    ],
    "communities": [
     "guatemalan"
@@ -10420,15 +10604,239 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
    "kind": "heritage",
-   "capsule": "Remembrance of the dead (observed November 1 and 2).",
-   "dateRule": "November 2.",
+   "capsule": "U.S. month honoring Hispanic and Latino heritage, starting on Central American independence day; an umbrella observance, not Guatemalan-specific.",
+   "dateRule": "September 15 to October 15 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-15",
+     "endDate": "2026-10-15",
+     "source": "The Globe (celebrated annually Sept. 15 to Oct. 15)",
+     "sourceUrl": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-15",
+     "endDate": "2027-10-15",
+     "source": "The Globe (annual Sept. 15 to Oct. 15)",
+     "sourceUrl": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-15",
+     "endDate": "2028-10-15",
+     "source": "The Globe (annual Sept. 15 to Oct. 15)",
+     "sourceUrl": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The history and contributions of Americans with roots in Spain, Mexico, the Caribbean and Central and South America.",
+   "howCelebratedInMinnesota": "In Worthington, the high school Sueños Club hosted a Hispanic Heritage Community Fiesta on Oct. 2, 2026, at the 10th Street Pavilion with food vendors, crafts, piñatas, a dance band and a DJ, followed by the homecoming soccer game.",
+   "minnesotaEvents": [
+    {
+     "name": "Hispanic Heritage Community Fiesta (HS Sueños Club)",
+     "place": "10th Street Pavilion, downtown Worthington",
+     "link": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "organizerDates": "Friday, Oct. 2, 2026, 4 to 7 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "HS Sueños Club celebrates Hispanic heritage with community fiesta",
+     "url": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Hispanic Heritage Community Fiesta planned in Worthington",
+     "url": "https://www.dglobe.com/news/local/hispanic-heritage-community-fiesta-planned-in-worthington",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "guatemalan--worthington-hispanic-heritage-community-fiesta",
+   "observanceKey": "worthington-hispanic-heritage-community-fiesta",
+   "name": "Worthington Hispanic Heritage Community Fiesta",
+   "alsoKnownAs": [
+    "Sueños Club fiesta"
+   ],
+   "communities": [
+    "guatemalan"
+   ],
+   "briefLinks": [
+    {
+     "community": "guatemalan",
+     "title": "Guatemalan Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
+   "kind": "community festival",
+   "capsule": "Worthington High School Sueños Club's downtown fiesta with food, music, crafts and piñatas during Hispanic Heritage Month.",
+   "dateRule": "Announced each year by the Worthington High School Sueños Club.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-02",
+     "endDate": null,
+     "source": "The Globe",
+     "sourceUrl": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Hispanic and Latino heritage in a town where Indigenous Guatemalans are a large part of the Latino population.",
+   "howCelebratedInMinnesota": "Food vendors, crafts from Creative Healing Space, piñatas, the Son de mi Tierra dance band and DJ Virgilio Cerda at the 10th Street Pavilion, followed by the homecoming soccer game.",
+   "minnesotaEvents": [
+    {
+     "name": "Hispanic Heritage Community Fiesta",
+     "place": "10th Street Pavilion, Worthington",
+     "link": "https://www.dglobe.com/news/local/hispanic-heritage-community-fiesta-planned-in-worthington",
+     "organizerDates": "Friday, Oct. 2, 2026, 4 to 7 p.m. (as announced Sept. 28, 2026)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Hispanic Heritage Community Fiesta planned in Worthington",
+     "url": "https://www.dglobe.com/news/local/hispanic-heritage-community-fiesta-planned-in-worthington",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "HS Sueños Club celebrates Hispanic heritage with community fiesta",
+     "url": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "guatemalan--worthington-international-festival",
+   "observanceKey": "worthington-international-festival",
+   "name": "Worthington International Festival",
+   "alsoKnownAs": [],
+   "communities": [
+    "guatemalan"
+   ],
+   "briefLinks": [
+    {
+     "community": "guatemalan",
+     "title": "Guatemalan Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
+   "kind": "community festival",
+   "capsule": "Worthington's annual July festival of the town's many cultures, with a parade of flags, music and food, including Guatemalan vendors.",
+   "dateRule": "Annual, in July; dates announced each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-10",
+     "endDate": "2026-07-11",
+     "source": "The Globe (held Friday July 10 and Saturday)",
+     "sourceUrl": "https://www.dglobe.com/news/local/international-festival-boasts-music-dance-and-worldly-cultures",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The immigrant communities that make up Worthington, including Guatemalan families.",
+   "howCelebratedInMinnesota": "The 32nd festival in 2026 had a parade of flags, music and dance stages and food vendors on Third Avenue next to the Nobles County Government Center; K & W Innovations sold Guatemalan and Mexican raspados.",
+   "minnesotaEvents": [
+    {
+     "name": "32nd annual International Festival",
+     "place": "Downtown Worthington, Nobles County Government Center lawn",
+     "link": "https://www.dglobe.com/news/local/32nd-annual-worthington-international-festival-is-thursday-saturday",
+     "organizerDates": "Announced as Thursday-Saturday in July 2026; held July 10-11, 2026 per The Globe",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "International Festival boasts music, dance and worldly cultures",
+     "url": "https://www.dglobe.com/news/local/international-festival-boasts-music-dance-and-worldly-cultures",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "32nd annual Worthington International Festival is Thursday-Saturday",
+     "url": "https://www.dglobe.com/news/local/32nd-annual-worthington-international-festival-is-thursday-saturday",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "International Festival food vendors",
+     "url": "https://www.dglobe.com/news/local/international-festival-food-vendors-offer-up-wide-variety-of-treats-to-tempt-your-tastebuds",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "guatemalan--all-saints-day-and-day-of-the-dead",
+   "observanceKey": "día-de-los-muertos",
+   "name": "All Saints' Day and Day of the Dead",
+   "alsoKnownAs": [
+    "Día de Todos los Santos",
+    "Día de los Muertos",
+    "Día de los Difuntos"
+   ],
+   "communities": [
+    "guatemalan"
+   ],
+   "briefLinks": [
+    {
+     "community": "guatemalan",
+     "title": "Guatemalan Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
+   "kind": "religious",
+   "capsule": "Days to honor the dead; November 1, All Saints' Day, is the public holiday in Guatemala.",
+   "dateRule": "November 1 (All Saints' Day, public holiday in Guatemala), followed by November 2 (All Souls' Day).",
    "dates": [
     {
      "year": 2026,
      "date": "2026-11-02",
-     "endDate": null,
+     "endDate": "2026-11-02",
      "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
      "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
      "verified": true
@@ -10436,7 +10844,7 @@
     {
      "year": 2027,
      "date": "2027-11-02",
-     "endDate": null,
+     "endDate": "2027-11-02",
      "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
      "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
      "verified": true
@@ -10444,14 +10852,79 @@
     {
      "year": 2028,
      "date": "2028-11-02",
-     "endDate": null,
+     "endDate": "2028-11-02",
      "source": "Gobierno de México, INAFED, Día de Muertos, tradición mexicana que trasciende en el tiempo",
      "sourceUrl": "https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Remembrance of the dead (observed November 1 and 2).",
+   "whatItMarks": "Remembrance of the dead and of the saints.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Public Holidays in Guatemala in 2026",
+     "url": "https://www.officeholidays.com/countries/guatemala/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Public Holidays in Guatemala in 2027",
+     "url": "https://www.officeholidays.com/countries/guatemala/2027",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "guatemalan--las-posadas-first-night",
+   "observanceKey": "las-posadas-first-night",
+   "name": "Las Posadas (first night)",
+   "alsoKnownAs": [
+    "Posadas"
+   ],
+   "communities": [
+    "guatemalan"
+   ],
+   "briefLinks": [
+    {
+     "community": "guatemalan",
+     "title": "Guatemalan Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
+   "kind": "religious",
+   "capsule": "Nine nights of processions re-enacting Mary and Joseph's search for shelter before Christmas.",
+   "dateRule": "December 16 (first of nine nights through December 24).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-16",
+     "endDate": null,
+     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
+     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-16",
+     "endDate": null,
+     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
+     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-16",
+     "endDate": null,
+     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
+     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Mary and Joseph's search for lodging in Bethlehem.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -10463,8 +10936,7 @@
    "name": "Christmas",
    "alsoKnownAs": [
     "Navidad",
-    "Noël",
-    "Pasko"
+    "Nochebuena (Christmas Eve)"
    ],
    "communities": [
     "guatemalan"
@@ -10476,10 +10948,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
-   "dateRule": "December 25.",
+   "capsule": "Birth of Jesus; Christmas Eve afternoon and Christmas Day are public holidays in Guatemala.",
+   "dateRule": "December 25 (fixed); Christmas Eve, December 24, is also observed.",
    "dates": [
     {
      "year": 2026,
@@ -10507,19 +10979,30 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+   "whatItMarks": "The birth of Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Public Holidays in Guatemala in 2026",
+     "url": "https://www.officeholidays.com/countries/guatemala/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Public Holidays in Guatemala in 2027",
+     "url": "https://www.officeholidays.com/countries/guatemala/2027",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "guatemalan--día-de-los-reyes",
    "observanceKey": "día-de-los-reyes",
    "name": "Día de los Reyes",
    "alsoKnownAs": [
-    "Three Kings Day",
-    "Epiphany"
+    "Epiphany",
+    "Three Kings Day"
    ],
    "communities": [
     "guatemalan"
@@ -10531,9 +11014,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/guatemalan/profile.md",
    "kind": "religious",
-   "capsule": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
+   "capsule": "Epiphany, the visit of the Magi to the infant Jesus.",
    "dateRule": "January 6.",
    "dates": [
     {
@@ -10562,111 +11045,7 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "guatemalan--las-posadas-first-night",
-   "observanceKey": "las-posadas-first-night",
-   "name": "Las Posadas (first night)",
-   "alsoKnownAs": [],
-   "communities": [
-    "guatemalan"
-   ],
-   "briefLinks": [
-    {
-     "community": "guatemalan",
-     "title": "Guatemalan Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
-    }
-   ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Nine nights (December 16 to 24) re-enacting Mary and Joseph's search for shelter.",
-   "dateRule": "December 16.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-12-16",
-     "endDate": null,
-     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
-     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-12-16",
-     "endDate": null,
-     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
-     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-12-16",
-     "endDate": null,
-     "source": "Secretaría de Cultura de México, Sistema de Información Cultural, Fiesta de Posadas",
-     "sourceUrl": "https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Nine nights (December 16 to 24) re-enacting Mary and Joseph's search for shelter.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "guatemalan--hispanic-heritage-month-begins",
-   "observanceKey": "hispanic-heritage-month-begins",
-   "name": "Hispanic Heritage Month (begins)",
-   "alsoKnownAs": [],
-   "communities": [
-    "guatemalan"
-   ],
-   "briefLinks": [
-    {
-     "community": "guatemalan",
-     "title": "Guatemalan Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
-    }
-   ],
-   "profileLink": null,
-   "kind": "heritage",
-   "capsule": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
-   "dateRule": "September 15.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
+   "whatItMarks": "The Magi's visit to Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,

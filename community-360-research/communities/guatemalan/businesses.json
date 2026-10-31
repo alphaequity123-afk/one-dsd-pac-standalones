@@ -1,0 +1,132 @@
+[
+ {
+  "name": "Panaderia Mi Tierra",
+  "type": "bakery and grocery",
+  "neighborhoodOrCity": "Downtown Worthington (424 10th St.)",
+  "whatItIs": "Latin American bakery and convenience grocery owned by Guatemalan-born Ana Cuadros and co-owner Pablo Gonzales; breads, cakes, pastries, groceries, piñatas.",
+  "link": "https://www.dglobe.com/news/local/american-dream-from-factory-worker-to-owner-of-panaderia-mi-tierra",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "The Globe, July 15, 2026, gives the address and says the store is open 6 a.m. to 9:30 p.m. every day."
+ },
+ {
+  "name": "Tortilleria El Maná",
+  "type": "tortilleria and food trailer",
+  "neighborhoodOrCity": "Worthington (1506 Oxford St.)",
+  "whatItIs": "Guatemalan-owned tortilla shop that also sells Guatemalan dishes; food trailer serves Turkey Valley Farms in Marshall and Premium Iowa Pork in Luverne.",
+  "link": "https://www.dglobe.com/news/local/tortilleria-el-mana-goes-mobile-with-food-trailer",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "The Globe, July 22, 2026, lists hours of 8 a.m. to 8 p.m. weekdays and 8 a.m. to 9 p.m. weekends; owners say they hope to expand."
+ },
+ {
+  "name": "La Eterna Primavera",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington (inside Corky's Corner, Oxford and McMillan streets)",
+  "whatItIs": "Small restaurant opened by San Marcos-born former JBS worker Humberto Chavez Perez; tortas, tacos, flautas, made-to-order and grab-and-go.",
+  "link": "https://www.dglobe.com/news/local/la-eterna-primavera-to-open-friday-in-worthington",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "The Globe reported it would open Friday, May 29, 2026, with hours of 11 a.m. to 9 p.m.; no later page confirming it is operating was opened."
+ },
+ {
+  "name": "Tienda Chapin 2",
+  "type": "grocery",
+  "neighborhoodOrCity": "Park Rapids (203 Henrietta Ave.)",
+  "whatItIs": "Guatemalan grocery owned by Vinicio Perez with Central American produce, cheeses, baked goods (pan galleta, milhojas), medicines and snacks.",
+  "link": "https://www.parkrapidsenterprise.com/business/new-guatemalan-grocery-store-sells-freshly-imported-produce",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Park Rapids Enterprise, Oct. 1, 2025, reports it opened Aug. 1, 2025, and describes current stock."
+ },
+ {
+  "name": "Tienda Chapin",
+  "type": "grocery",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Guatemalan grocery, sister store to Tienda Chapin 2; posts deliveries of mangoes, Creole chickens, queso fresco, jocote and epazote.",
+  "link": "https://www.parkrapidsenterprise.com/business/new-guatemalan-grocery-store-sells-freshly-imported-produce",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Park Rapids Enterprise, Oct. 1, 2025, describes the Willmar store as its operating sister store and cites its current Facebook delivery posts. Address not given."
+ },
+ {
+  "name": "Tienda Maya Quiche",
+  "type": "grocery and clothing store",
+  "neighborhoodOrCity": "Faribault (712 Fourth St./Highway 60)",
+  "whatItIs": "Store opened July 1, 2022, by K'iche' Maya siblings Francesca, Martín and Tomás Quila; Latin American groceries and meat counter, handmade K'iche' clothing, shoes and pottery.",
+  "link": "https://www.southernminn.com/faribault_daily_news/news/siblings-open-guatemalan-grocery-clothing-store/article_b7c65650-fc9a-11ec-91f6-0beede47c292.html",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only the 2022 opening article was found; no 2025 or 2026 page showing operation was found."
+ },
+ {
+  "name": "Tienda Guatemala",
+  "type": "grocery",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Store described in 2010 as carrying specifically Guatemalan goods plus household items, spices, music and clothing.",
+  "link": "https://www.dglobe.com/business/shoppers-grab-your-carts-local-food-offerings-range-from-exotic-to-down-home",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only a 2010 Globe shopping guide mentions it; no current page found."
+ },
+ {
+  "name": "Tienda Telvis II",
+  "type": "variety store and services",
+  "neighborhoodOrCity": "Downtown Worthington (423 10th St.)",
+  "whatItIs": "Mexican-American family store (not Guatemalan-owned) serving the Latino community, including Guatemalan families: religious goods, quinceañera and wedding items, food, drinks, money transfers; earlier sold airline tickets with Guatemala and Mexico the top destinations.",
+  "link": "https://www.dglobe.com/news/local/the-american-dream-family-business-telvis-open-for-over-two-decades",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "The Globe, June 15, 2026, says it is open 9 a.m. to 9 p.m. seven days a week."
+ },
+ {
+  "name": "K & W Innovations",
+  "type": "festival food vendor",
+  "neighborhoodOrCity": "Worthington International Festival",
+  "whatItIs": "Vendor selling Guatemalan/Mexican raspados (shaved ice) and fresas con crema at the 2026 International Festival.",
+  "link": "https://www.dglobe.com/news/local/international-festival-food-vendors-offer-up-wide-variety-of-treats-to-tempt-your-tastebuds",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed as a vendor for the July 2026 festival; no standing business location or ownership found."
+ },
+ {
+  "name": "Our Lady of Guadalupe Free Clinic (OLGFC)",
+  "type": "free clinic (nonprofit)",
+  "neighborhoodOrCity": "Worthington (616 11th St.)",
+  "whatItIs": "Free clinic for uninsured residents founded in 2011 by the Rev. Jim Callahan and Dr. David Plevak; Sanford Health Cooperative nurses, pharmacist and interpreter on Wednesdays, periodic Saturday specialty clinics. Serves many immigrant groups, not only Guatemalans.",
+  "link": "https://olgfc.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site is live with current mission content; Star Tribune report of Dec. 2024 describes it operating, and The Globe (Dec. 13, 2022) gives the address."
+ },
+ {
+  "name": "St. Mary's Catholic Church",
+  "type": "parish",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Catholic parish with Spanish Masses, about 10 Latino choirs including Guatemalan members, host of the Esquipulas feast and past Guatemalan mobile consulates.",
+  "link": "https://www.stmarysworthington.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current Mass times (Spanish Saturday 7 p.m., Sunday 11 a.m.); The Globe, Oct. 20, 2026, announces its Nov. 8 Fall Festival."
+ },
+ {
+  "name": "CLUES (Comunidades Latinas Unidas En Servicio)",
+  "type": "Latino social service nonprofit",
+  "neighborhoodOrCity": "St. Paul (East Side headquarters), Minneapolis, Willmar, Austin",
+  "whatItIs": "Statewide Latino-serving nonprofit; not specific to Guatemalans but has offices in Willmar and Austin, two cities with Guatemalan populations.",
+  "link": "https://clues.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists weekday hours, 2026 election notices and a 2025 impact report (30,000+ served)."
+ },
+ {
+  "name": "Consulate General of Guatemala in Omaha",
+  "type": "consulate",
+  "neighborhoodOrCity": "Omaha, Nebraska (1010 N 96th St., Suite 200); jurisdiction includes Minnesota",
+  "whatItIs": "Guatemalan government consulate serving Iowa, Nebraska, North Dakota, South Dakota and Minnesota.",
+  "link": "https://livinginguatemala.com/consulates/omaha/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Directory page updated Oct. 26, 2026, lists 2026 Saturday consular service dates; AGN (May 18, 2023) reported Minnesota in its jurisdiction."
+ }
+]

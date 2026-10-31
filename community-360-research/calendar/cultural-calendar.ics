@@ -189,6 +189,23 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:feast-of-the-black-christ-of-esquipulas-2026-01-15@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:Feast of the Black Christ of Esquipulas
+DESCRIPTION:Veneration of a late 16th-century crucifix at the basilica in
+  Esquipulas\, Guatemala\, darkened by centuries of candle smoke\; it is a
+  source of communal identity across Central America. Date: January 15 eac
+ h year\; Minnesota parish celebrations may be held on a nearby Sunday. So
+ urce: Associated Press (feast day on January 15) https://www.ksat.com/new
+ s/national/2025/01/17/in-guatemala-and-minnesota-holy-feast-brings-migran
+ t-families-hope-and-pride-amid-crackdown-fears/ Communities: Guatemalan M
+ innesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:salvadoran-peace-accords-anniversary-2026-01-16@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260116
@@ -726,6 +743,20 @@ DESCRIPTION:Arab American heritage and contributions. Date: The month of
  il 2026 https://diversity.umn.edu/news-events/heritage-months Communities
  : Arabic-speaking Minnesota
 CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:holy-thursday-2026-04-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:Holy Thursday
+DESCRIPTION:Jesus' Last Supper\; in Guatemala it begins the public Holy W
+ eek holidays (Holy Thursday\, Good Friday\, Holy Saturday). Date: Thursda
+ y before Western Easter. Source: St. Mary's Catholic Church events page\;
+  Office Holidays Guatemala 2026 https://www.stmarysworthington.org/events
+  Communities: Guatemalan Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1547,6 +1578,20 @@ DESCRIPTION:Worthington's many cultures\, begun in 1994 as a soccer tourn
  ament. Date: Set each year by organizers\, in July. Source: International
   Festival https://www.worthingtoninternationalfestival.org/ Communities: 
  Latino Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worthington-international-festival-2026-07-10@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260712
+SUMMARY:Worthington International Festival
+DESCRIPTION:The immigrant communities that make up Worthington\, includin
+ g Guatemalan families. Date: Annual\, in July\; dates announced each year
+ . Source: The Globe (held Friday July 10 and Saturday) https://www.dglobe
+ .com/news/local/international-festival-boasts-music-dance-and-worldly-cul
+ tures Communities: Guatemalan Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2374,7 +2419,7 @@ SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov h
  ttps://hispanicheritagemonth.gov/ Communities: Colombian Minnesota\, Ecua
- dorian Minnesota\, Mexican Minnesota
+ dorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2388,8 +2433,8 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, 
- Puerto Rican Minnesota\, Salvadoran Minnesota
+ Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\
+ , Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2398,12 +2443,14 @@ UID:central-american-independence-day-2026-09-15@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:Central American Independence Day
-DESCRIPTION:Independence of Central America from Spain in 1821. Date: Sep
- tember 15. Source: U.S. Census Bureau\, National Hispanic Heritage Month:
-  2026 https://www.census.gov/newsroom/facts-for-features/2026/hispanic-he
- ritage-month.html Communities: Guatemalan Minnesota\, Latino Minnesota\, 
- Salvadoran Minnesota
+SUMMARY:Guatemalan Independence Day
+DESCRIPTION:The declaration of independence of the Central American provi
+ nces from Spanish rule on September 15\, 1821\, shared with Costa Rica\, 
+ El Salvador\, Honduras and Nicaragua. Date: September 15 each year (fixed
+ ). Source: U.S. Census Bureau\, National Hispanic Heritage Month: 2026 ht
+ tps://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-m
+ onth.html Communities: Guatemalan Minnesota\, Latino Minnesota\, Salvador
+ an Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2692,6 +2739,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:worthington-hispanic-heritage-community-fiesta-2026-10-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Worthington Hispanic Heritage Community Fiesta
+DESCRIPTION:Hispanic and Latino heritage in a town where Indigenous Guate
+ malans are a large part of the Latino population. Date: Announced each ye
+ ar by the Worthington High School Sueños Club. Source: The Globe https:/
+ /www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-wi
+ th-community-fiesta Communities: Guatemalan Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:latino-business-week-2026-10-05@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261005
@@ -2970,13 +3031,14 @@ UID:día-de-los-muertos-2026-11-02@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:Día de los Muertos
-DESCRIPTION:Remembrance of the dead (observed November 1 and 2). Date: No
- vember 2. Source: Gobierno de México\, INAFED\, Día de Muertos\, tradic
- ión mexicana que trasciende en el tiempo https://www.gob.mx/inafed/artic
- ulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo Commun
- ities: Guatemalan Minnesota\, Latino Minnesota
-CATEGORIES:heritage
+SUMMARY:All Saints' Day and Day of the Dead
+DESCRIPTION:Remembrance of the dead and of the saints. Date: November 1 (
+ All Saints' Day\, public holiday in Guatemala)\, followed by November 2 (
+ All Souls' Day). Source: Gobierno de México\, INAFED\, Día de Muertos\,
+  tradición mexicana que trasciende en el tiempo https://www.gob.mx/inafe
+ d/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo
+  Communities: Guatemalan Minnesota\, Mexican Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2985,12 +3047,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Día de los Muertos
-DESCRIPTION:Remembrance of the dead. Date: November 1 and 2 by custom\; U
- NESCO gives only the end of October to the beginning of November. Minneso
- ta events fall on nearby days announced by organizers. Source: Gobierno d
+DESCRIPTION:Remembrance of the dead (observed November 1 and 2). Date: No
+ vember 1 and 2. Public events may fall on nearby days. Source: Gobierno d
  e México\, INAFED\, Día de Muertos\, tradición mexicana que trasciende
   en el tiempo https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicio
- n-mexicana-que-trasciende-en-el-tiempo Communities: Mexican Minnesota
+ n-mexicana-que-trasciende-en-el-tiempo Communities: Latino Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3353,11 +3414,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Las Posadas (first night)
-DESCRIPTION:Nine nights (December 16 to 24) re-enacting Mary and Joseph's
-  search for shelter. Date: December 16. Source: Secretaría de Cultura de
-  México\, Sistema de Información Cultural\, Fiesta de Posadas https://s
- ic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Communities: Gu
- atemalan Minnesota\, Latino Minnesota
+DESCRIPTION:Mary and Joseph's search for lodging in Bethlehem. Date: Dece
+ mber 16 (first of nine nights through December 24). Source: Secretaría d
+ e Cultura de México\, Sistema de Información Cultural\, Fiesta de Posad
+ as https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Com
+ munities: Guatemalan Minnesota\, Latino Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3579,6 +3640,23 @@ DESCRIPTION:The anniversary of Korean immigration to the United States an
  1326_Acessible%20Proclamation_Korean%20American%20Day.pdf Communities: Ko
  rean Minnesota
 CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feast-of-the-black-christ-of-esquipulas-2027-01-15@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Feast of the Black Christ of Esquipulas
+DESCRIPTION:Veneration of a late 16th-century crucifix at the basilica in
+  Esquipulas\, Guatemala\, darkened by centuries of candle smoke\; it is a
+  source of communal identity across Central America. Date: January 15 eac
+ h year\; Minnesota parish celebrations may be held on a nearby Sunday. So
+ urce: Associated Press (feast day on January 15) https://www.ksat.com/new
+ s/national/2025/01/17/in-guatemala-and-minnesota-holy-feast-brings-migran
+ t-families-hope-and-pride-amid-crackdown-fears/ Communities: Guatemalan M
+ innesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4579,7 +4657,7 @@ SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
  fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
- nnesota\, Ecuadorian Minnesota\, Mexican Minnesota
+ nnesota\, Ecuadorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4593,8 +4671,8 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, 
- Puerto Rican Minnesota\, Salvadoran Minnesota
+ Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\
+ , Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4603,12 +4681,14 @@ UID:central-american-independence-day-2027-09-15@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
-SUMMARY:Central American Independence Day
-DESCRIPTION:Independence of Central America from Spain in 1821. Date: Sep
- tember 15. Source: U.S. Census Bureau\, National Hispanic Heritage Month:
-  2026 https://www.census.gov/newsroom/facts-for-features/2026/hispanic-he
- ritage-month.html Communities: Guatemalan Minnesota\, Latino Minnesota\, 
- Salvadoran Minnesota
+SUMMARY:Guatemalan Independence Day
+DESCRIPTION:The declaration of independence of the Central American provi
+ nces from Spanish rule on September 15\, 1821\, shared with Costa Rica\, 
+ El Salvador\, Honduras and Nicaragua. Date: September 15 each year (fixed
+ ). Source: U.S. Census Bureau\, National Hispanic Heritage Month: 2026 ht
+ tps://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-m
+ onth.html Communities: Guatemalan Minnesota\, Latino Minnesota\, Salvador
+ an Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4776,13 +4856,14 @@ UID:día-de-los-muertos-2027-11-02@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271102
 DTEND;VALUE=DATE:20271103
-SUMMARY:Día de los Muertos
-DESCRIPTION:Remembrance of the dead (observed November 1 and 2). Date: No
- vember 2. Source: Gobierno de México\, INAFED\, Día de Muertos\, tradic
- ión mexicana que trasciende en el tiempo https://www.gob.mx/inafed/artic
- ulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo Commun
- ities: Guatemalan Minnesota\, Latino Minnesota
-CATEGORIES:heritage
+SUMMARY:All Saints' Day and Day of the Dead
+DESCRIPTION:Remembrance of the dead and of the saints. Date: November 1 (
+ All Saints' Day\, public holiday in Guatemala)\, followed by November 2 (
+ All Souls' Day). Source: Gobierno de México\, INAFED\, Día de Muertos\,
+  tradición mexicana que trasciende en el tiempo https://www.gob.mx/inafe
+ d/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo
+  Communities: Guatemalan Minnesota\, Mexican Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4791,12 +4872,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271102
 DTEND;VALUE=DATE:20271103
 SUMMARY:Día de los Muertos
-DESCRIPTION:Remembrance of the dead. Date: November 1 and 2 by custom\; U
- NESCO gives only the end of October to the beginning of November. Minneso
- ta events fall on nearby days announced by organizers. Source: Gobierno d
+DESCRIPTION:Remembrance of the dead (observed November 1 and 2). Date: No
+ vember 1 and 2. Public events may fall on nearby days. Source: Gobierno d
  e México\, INAFED\, Día de Muertos\, tradición mexicana que trasciende
   en el tiempo https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicio
- n-mexicana-que-trasciende-en-el-tiempo Communities: Mexican Minnesota
+ n-mexicana-que-trasciende-en-el-tiempo Communities: Latino Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4959,11 +5039,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271216
 DTEND;VALUE=DATE:20271217
 SUMMARY:Las Posadas (first night)
-DESCRIPTION:Nine nights (December 16 to 24) re-enacting Mary and Joseph's
-  search for shelter. Date: December 16. Source: Secretaría de Cultura de
-  México\, Sistema de Información Cultural\, Fiesta de Posadas https://s
- ic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Communities: Gu
- atemalan Minnesota\, Latino Minnesota
+DESCRIPTION:Mary and Joseph's search for lodging in Bethlehem. Date: Dece
+ mber 16 (first of nine nights through December 24). Source: Secretaría d
+ e Cultura de México\, Sistema de Información Cultural\, Fiesta de Posad
+ as https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Com
+ munities: Guatemalan Minnesota\, Latino Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5166,6 +5246,23 @@ DESCRIPTION:The anniversary of Korean immigration to the United States an
  1326_Acessible%20Proclamation_Korean%20American%20Day.pdf Communities: Ko
  rean Minnesota
 CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feast-of-the-black-christ-of-esquipulas-2028-01-15@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280116
+SUMMARY:Feast of the Black Christ of Esquipulas
+DESCRIPTION:Veneration of a late 16th-century crucifix at the basilica in
+  Esquipulas\, Guatemala\, darkened by centuries of candle smoke\; it is a
+  source of communal identity across Central America. Date: January 15 eac
+ h year\; Minnesota parish celebrations may be held on a nearby Sunday. So
+ urce: Associated Press (feast day on January 15) https://www.ksat.com/new
+ s/national/2025/01/17/in-guatemala-and-minnesota-holy-feast-brings-migran
+ t-families-hope-and-pride-amid-crackdown-fears/ Communities: Guatemalan M
+ innesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6025,7 +6122,7 @@ SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
  fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
- nnesota\, Ecuadorian Minnesota\, Mexican Minnesota
+ nnesota\, Ecuadorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6039,8 +6136,8 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, 
- Puerto Rican Minnesota\, Salvadoran Minnesota
+ Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\
+ , Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6049,12 +6146,14 @@ UID:central-american-independence-day-2028-09-15@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
-SUMMARY:Central American Independence Day
-DESCRIPTION:Independence of Central America from Spain in 1821. Date: Sep
- tember 15. Source: U.S. Census Bureau\, National Hispanic Heritage Month:
-  2026 https://www.census.gov/newsroom/facts-for-features/2026/hispanic-he
- ritage-month.html Communities: Guatemalan Minnesota\, Latino Minnesota\, 
- Salvadoran Minnesota
+SUMMARY:Guatemalan Independence Day
+DESCRIPTION:The declaration of independence of the Central American provi
+ nces from Spanish rule on September 15\, 1821\, shared with Costa Rica\, 
+ El Salvador\, Honduras and Nicaragua. Date: September 15 each year (fixed
+ ). Source: U.S. Census Bureau\, National Hispanic Heritage Month: 2026 ht
+ tps://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-m
+ onth.html Communities: Guatemalan Minnesota\, Latino Minnesota\, Salvador
+ an Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6205,13 +6304,14 @@ UID:día-de-los-muertos-2028-11-02@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281102
 DTEND;VALUE=DATE:20281103
-SUMMARY:Día de los Muertos
-DESCRIPTION:Remembrance of the dead (observed November 1 and 2). Date: No
- vember 2. Source: Gobierno de México\, INAFED\, Día de Muertos\, tradic
- ión mexicana que trasciende en el tiempo https://www.gob.mx/inafed/artic
- ulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo Commun
- ities: Guatemalan Minnesota\, Latino Minnesota
-CATEGORIES:heritage
+SUMMARY:All Saints' Day and Day of the Dead
+DESCRIPTION:Remembrance of the dead and of the saints. Date: November 1 (
+ All Saints' Day\, public holiday in Guatemala)\, followed by November 2 (
+ All Souls' Day). Source: Gobierno de México\, INAFED\, Día de Muertos\,
+  tradición mexicana que trasciende en el tiempo https://www.gob.mx/inafe
+ d/articulos/dia-de-muertos-tradicion-mexicana-que-trasciende-en-el-tiempo
+  Communities: Guatemalan Minnesota\, Mexican Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6220,12 +6320,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281102
 DTEND;VALUE=DATE:20281103
 SUMMARY:Día de los Muertos
-DESCRIPTION:Remembrance of the dead. Date: November 1 and 2 by custom\; U
- NESCO gives only the end of October to the beginning of November. Minneso
- ta events fall on nearby days announced by organizers. Source: Gobierno d
+DESCRIPTION:Remembrance of the dead (observed November 1 and 2). Date: No
+ vember 1 and 2. Public events may fall on nearby days. Source: Gobierno d
  e México\, INAFED\, Día de Muertos\, tradición mexicana que trasciende
   en el tiempo https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicio
- n-mexicana-que-trasciende-en-el-tiempo Communities: Mexican Minnesota
+ n-mexicana-que-trasciende-en-el-tiempo Communities: Latino Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6361,11 +6460,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281216
 DTEND;VALUE=DATE:20281217
 SUMMARY:Las Posadas (first night)
-DESCRIPTION:Nine nights (December 16 to 24) re-enacting Mary and Joseph's
-  search for shelter. Date: December 16. Source: Secretaría de Cultura de
-  México\, Sistema de Información Cultural\, Fiesta de Posadas https://s
- ic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Communities: Gu
- atemalan Minnesota\, Latino Minnesota
+DESCRIPTION:Mary and Joseph's search for lodging in Bethlehem. Date: Dece
+ mber 16 (first of nine nights through December 24). Source: Secretaría d
+ e Cultura de México\, Sistema de Información Cultural\, Fiesta de Posad
+ as https://sic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Com
+ munities: Guatemalan Minnesota\, Latino Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
