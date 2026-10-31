@@ -324,7 +324,7 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Remembrance of the dead (observed November 1 and 2).",
-   "howCelebratedInMinnesota": "CLUES holds a public celebration at Midtown Global Market. Centro Tyrone Guzmán also promotes a 2026 celebration. The state council and Governor's Office recognized the day in 2025.",
+   "howCelebratedInMinnesota": "CLUES holds a public celebration at Midtown Global Market. Centro Tyrone Guzmán also promotes a 2026 celebration. The state council and Governor's Office recognized the day in 2025. Outside the Twin Cities, Mankato's Old Town festival closes four blocks of Riverfront Drive on the last Saturday of October; AP reported about 12,000 people on Oct. 25, 2025. In Minneapolis, more than 100 people followed Aztec dancers into El Colegio High School to see student altars on Nov. 1, 2025.",
    "minnesotaEvents": [
     {
      "name": "CLUES Día de los Muertos Celebration",
@@ -332,6 +332,13 @@
      "link": "https://clues.org/",
      "organizerDates": "Sunday, Nov. 1, 2026, 11:30 a.m. to 3:30 p.m.",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Old Town Mankato Day of the Dead",
+     "place": "Riverfront Drive, Old Town, Mankato",
+     "link": "https://mankato.mnsu.edu/university-life/diversity-equity-inclusion/dish-events/old-town-mankato-day-of-the-dead/",
+     "organizerDates": "Saturday, Oct. 31, 2026, 9 a.m. to 4 p.m., per a Minnesota State Mankato listing (not the organizer); 2025 festival held Oct. 25, 2025 per KEYC",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -355,6 +362,21 @@
      "title": "MCLA Annual Legislative Report 2025",
      "url": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Old Town Mankato Day of the Dead listing, Minnesota State University, Mankato",
+     "url": "https://mankato.mnsu.edu/university-life/diversity-equity-inclusion/dish-events/old-town-mankato-day-of-the-dead/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "KEYC, Oct. 10, 2025",
+     "url": "https://www.keyc.com/2025/10/10/day-dead-festival-exceeds-fundraising-goals-will-continue/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "AP via KPRC, Nov. 1, 2025",
+     "url": "https://www.click2houston.com/news/national/2025/11/01/joyful-day-of-the-dead-commemorations-rally-us-latino-communities-despite-immigration-raid-fears/",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -534,7 +556,7 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
-   "howCelebratedInMinnesota": "In 2026: CLUES's group exhibition and Fiesta Latina, and Minneapolis's Latino Business Week. The state council and Governor's Office recognized the month in 2025. The University of Minnesota's Chicano & Latino Studies department also marks it, as Latinx Heritage Month.",
+   "howCelebratedInMinnesota": "In 2026: CLUES's group exhibition and Fiesta Latina, and Minneapolis's Latino Business Week. The state council and Governor's Office recognized the month in 2025. The University of Minnesota's Chicano & Latino Studies department also marks it, as Latinx Heritage Month. In 2026 the Hispanic Heritage Foundation held its 39th Hispanic Heritage Awards at Orchestra Hall in Minneapolis on Sept. 10, the first time outside Washington, D.C., honoring 'the people of Minnesota.' Worthington High School's Sueños Club held a community fiesta on Oct. 2, 2026.",
    "minnesotaEvents": [
     {
      "name": "To Be Minnesotane: Ser y Estar, group exhibition",
@@ -542,6 +564,13 @@
      "link": "https://clues.org/event-calendar/",
      "organizerDates": "Sept. 12 to Nov. 6, 2026",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Worthington Hispanic heritage community fiesta (HS Sueños Club)",
+     "place": "10th Street Pavilion, downtown Worthington",
+     "link": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "organizerDates": "Held Friday, Oct. 2, 2026 (as reported)",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -560,6 +589,11 @@
      "title": "UMN Chicano & Latino Studies",
      "url": "https://cla.umn.edu/chicano-latino",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "The Globe, HS Sueños Club fiesta",
+     "url": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -662,6 +696,13 @@
      "link": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
      "organizerDates": "May 1 to 2, 2026",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Willmar Cinco de Mayo celebration (Latino Community Association of Willmar)",
+     "place": "Fourth Street Southwest, downtown Willmar",
+     "link": "https://www.wctrib.com/news/local/cinco-de-mayo-event-in-downtown-willmar-shows-off-cultures",
+     "organizerDates": "Held Saturday, May 16, 2026 (as reported)",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -670,6 +711,11 @@
      "title": "Latino businesses hope for Cinco de Mayo boost, Sahan Journal",
      "url": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "West Central Tribune, Willmar Cinco de Mayo",
+     "url": "https://www.wctrib.com/news/local/cinco-de-mayo-event-in-downtown-willmar-shows-off-cultures",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -683,10 +729,10 @@
    "dates": [
     {
      "year": 2026,
-     "date": "2026-10-05",
+     "date": "2026-10-03",
      "endDate": "2026-10-11",
-     "source": "MPR News, Oct. 6, 2026",
-     "sourceUrl": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+     "source": "City of Minneapolis news page (mayor's proclamation, Oct. 3 to 11); MPR News gave Oct. 5 to 11",
+     "sourceUrl": "https://www.minneapolismn.gov/news/",
      "verified": true
     },
     {
@@ -714,8 +760,8 @@
      "name": "Latino Business Week 2026",
      "place": "Minneapolis, including Mercado Central",
      "link": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
-     "organizerDates": "Oct. 5 to 11, 2026",
-     "dateChecked": "2026-10-30"
+     "organizerDates": "Proclaimed Oct. 3 to 11, 2026 by the city; MPR News reported Oct. 5 to 11",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -724,6 +770,11 @@
      "title": "Minneapolis shops invite customers for Latino Business Week, MPR News",
      "url": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "City of Minneapolis news",
+     "url": "https://www.minneapolismn.gov/news/",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -893,6 +944,248 @@
      "title": "International Festival celebrates 30 years, The Globe",
      "url": "https://www.dglobe.com/news/local/international-festival-celebrates-30-years",
      "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Hispanic Heritage Awards (Minneapolis, 2026)",
+   "alsoKnownAs": [
+    "Hispanic Heritage Foundation awards"
+   ],
+   "kind": "cultural",
+   "capsule": "National Latino awards held in Minneapolis in 2026, honoring Minnesotans' response to the enforcement surge.",
+   "dateRule": "Set by the Hispanic Heritage Foundation; usually opens Hispanic Heritage Month. Held in Minneapolis only in 2026 so far.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-10",
+     "endDate": null,
+     "source": "MPR News, Sept. 9, 2026",
+     "sourceUrl": "https://www.mprnews.org/episode/2026/09/09/hispanic-heritage-awards-come-to-minneapolis-recognize-the-people-of-minnesota",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The 39th Hispanic Heritage Awards; its Humanitarian Award went to 'the people of Minnesota' for their response to Operation Metro Surge.",
+   "howCelebratedInMinnesota": "Ceremony at Orchestra Hall, Minneapolis, taped for a PBS broadcast; local nonprofits accepted the award.",
+   "minnesotaEvents": [
+    {
+     "name": "39th Hispanic Heritage Awards",
+     "place": "Orchestra Hall, Minneapolis",
+     "link": "https://www.mprnews.org/episode/2026/09/09/hispanic-heritage-awards-come-to-minneapolis-recognize-the-people-of-minnesota",
+     "organizerDates": "Thursday, Sept. 10, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MPR News, Sept. 9, 2026",
+     "url": "https://www.mprnews.org/episode/2026/09/09/hispanic-heritage-awards-come-to-minneapolis-recognize-the-people-of-minnesota",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "FOX 9",
+     "url": "https://fox9.com/news/why-hispanic-heritage-awards-left-dc-minneapolis-year",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Old Town Mankato Day of the Dead",
+   "alsoKnownAs": [
+    "Día de los Muertos, Mankato"
+   ],
+   "kind": "community festival",
+   "capsule": "Free daylong Day of the Dead street festival in Mankato's Old Town, among the largest in Minnesota.",
+   "dateRule": "Last Saturday of October, set by organizers each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-31",
+     "endDate": null,
+     "source": "Minnesota State University, Mankato event listing (third party, not the organizer)",
+     "sourceUrl": "https://mankato.mnsu.edu/university-life/diversity-equity-inclusion/dish-events/old-town-mankato-day-of-the-dead/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Day of the Dead remembrance with ofrendas, music, dance and lucha libre; begun by the Ek family at their paint business.",
+   "howCelebratedInMinnesota": "Four blocks of Riverfront Drive close to traffic; about 12,000 people attended on Oct. 25, 2025, per AP and KEYC.",
+   "minnesotaEvents": [
+    {
+     "name": "Old Town Mankato Day of the Dead 2026",
+     "place": "Riverfront Drive, Mankato",
+     "link": "https://www.gofundme.com/f/support-old-town-collaboratives-vital-mission",
+     "organizerDates": "Organizers' 2026 fundraiser names the 2026 festival without a date; a university listing gives Oct. 31, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota State Mankato listing",
+     "url": "https://mankato.mnsu.edu/university-life/diversity-equity-inclusion/dish-events/old-town-mankato-day-of-the-dead/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "2026 Old Town Day of the Dead fundraiser",
+     "url": "https://www.gofundme.com/f/support-old-town-collaboratives-vital-mission",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "KEYC, Oct. 10, 2025",
+     "url": "https://www.keyc.com/2025/10/10/day-dead-festival-exceeds-fundraising-goals-will-continue/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Mankato Free Press",
+     "url": "https://www.mankatofreepress.com/news/local_news/scale-of-mankatos-dia-de-los-muertos-unique-in-minnesota/article_a55dff19-4c28-43e3-ba62-8a7f467a34d2.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Willmar Cinco de Mayo",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Downtown Willmar street festival of Latino cultures hosted by the Latino Community Association of Willmar.",
+   "dateRule": "Set by the Latino Community Association of Willmar; held in mid-May in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-16",
+     "endDate": null,
+     "source": "West Central Tribune (date held)",
+     "sourceUrl": "https://www.wctrib.com/news/local/cinco-de-mayo-event-in-downtown-willmar-shows-off-cultures",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Mexico's 1862 victory at Puebla, used in Willmar to celebrate many Latino cultures.",
+   "howCelebratedInMinnesota": "Games, music and food from Mexican, Guatemalan, Puerto Rican and other vendors on Fourth Street Southwest; more than 100 guests in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Cinco de Mayo celebration",
+     "place": "Fourth Street Southwest, Willmar",
+     "link": "https://www.wctrib.com/news/local/cinco-de-mayo-event-in-downtown-willmar-shows-off-cultures",
+     "organizerDates": "Held Saturday, May 16, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "West Central Tribune",
+     "url": "https://www.wctrib.com/news/local/cinco-de-mayo-event-in-downtown-willmar-shows-off-cultures",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Worthington Hispanic Heritage Community Fiesta",
+   "alsoKnownAs": [
+    "HS Sueños Club fiesta"
+   ],
+   "kind": "community festival",
+   "capsule": "Downtown Worthington fiesta for Hispanic Heritage Month, presented by the high school's Sueños Club.",
+   "dateRule": "Set by the organizers during Hispanic Heritage Month.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-02",
+     "endDate": null,
+     "source": "The Globe (date held)",
+     "sourceUrl": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Hispanic Heritage Month.",
+   "howCelebratedInMinnesota": "Crafts, piñatas, food vendors, the band Son de mi Tierra and a DJ at the 10th Street Pavilion.",
+   "minnesotaEvents": [
+    {
+     "name": "Community fiesta",
+     "place": "10th Street Pavilion, Worthington",
+     "link": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "organizerDates": "Held Friday, Oct. 2, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "The Globe",
+     "url": "https://www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-with-community-fiesta",
+     "dateChecked": "2026-10-31"
     }
    ]
   }

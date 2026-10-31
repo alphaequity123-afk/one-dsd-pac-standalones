@@ -122,12 +122,12 @@
  {
   "name": "Colonial Market",
   "type": "market",
-  "neighborhoodOrCity": "South Minneapolis",
-  "whatItIs": "Market housing a dozen businesses, owned by Daniel Hernandez.",
-  "link": "https://www.cbsnews.com/minnesota/news/trump-immigration-minneapolis-small-business-impact",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "WCCO, Dec. 16, 2025, reported the owner selling 10 to 15 percent of normal, with businesses inside closed. No later sign found."
+  "neighborhoodOrCity": "Minneapolis (Lake Street and Hiawatha area; 3120 Penn Ave. N.)",
+  "whatItIs": "Hispanic supermarket chain with butcher counters, produce and hot food, founded by Daniel Hernandez.",
+  "link": "https://www.fox9.com/news/colonial-market-opening-north-minneapolis",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "FOX 9, June 27, 2025, reports the grand opening of the North Minneapolis store; Twin Cities Business 2025 profile describes three stores and expansion plans."
  },
  {
   "name": "Milagro's Beauty Salon",
@@ -135,9 +135,9 @@
   "neighborhoodOrCity": "Minneapolis area",
   "whatItIs": "Salon owned by Ninfa Ortiz.",
   "link": "https://sahanjournal.com/business-work/minnesota-latino-businesses-statewide-support/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Named in Sahan Journal, Feb. 21, 2025. Nothing later found."
+  "evidence": "Named in Sahan Journal, Feb. 21, 2025. Nothing later found. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Floreria Yare",
@@ -145,9 +145,9 @@
   "neighborhoodOrCity": "Minneapolis area",
   "whatItIs": "Flower shop owned by Guillermina Figueroa.",
   "link": "https://sahanjournal.com/business-work/minnesota-latino-businesses-statewide-support/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Named in Sahan Journal, Feb. 21, 2025. Nothing later found."
+  "evidence": "Named in Sahan Journal, Feb. 21, 2025. Nothing later found. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Plaza Mexico",
@@ -155,9 +155,9 @@
   "neighborhoodOrCity": "Minneapolis area",
   "whatItIs": "Named in coverage of Latino business concerns; details not given.",
   "link": "https://sahanjournal.com/business-work/minnesota-latino-businesses-statewide-support/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Named in Sahan Journal, Feb. 21, 2025. Nothing later found."
+  "evidence": "Named in Sahan Journal, Feb. 21, 2025. Nothing later found. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Dulceria La Piñata",
@@ -165,9 +165,9 @@
   "neighborhoodOrCity": "Mercado Central, Minneapolis",
   "whatItIs": "Candy stall run by Leopoldo Sanchez.",
   "link": "https://sahanjournal.com/business-work/mercado-central-lake-street-minneapolis-loan-forgiven-immigration/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Named in Sahan Journal, April 28, 2025. Nothing later found."
+  "evidence": "Named in Sahan Journal, April 28, 2025. Nothing later found. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Luceritos Fashion",
@@ -184,10 +184,10 @@
   "type": "food hall (in development)",
   "neighborhoodOrCity": "Payne Avenue, St. Paul",
   "whatItIs": "Latino Economic Development Center building being converted to a food hall, commissary kitchen and event center.",
-  "link": "https://www.ledcmn.org/",
-  "dateChecked": "2026-10-30",
+  "link": "https://giving.classy.org/campaign/718536/donate",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "LEDC's site describes the project as a conversion underway; no opening date seen."
+  "evidence": "Bring Me The News, July 3, 2025, reported a planned December 2025 opening and vendor leasing; LEDC's 2026 campaign page still says 'when construction is complete in 2026.' No page shows it open."
  },
  {
   "name": "Long Branch",
@@ -195,9 +195,9 @@
   "neighborhoodOrCity": "Worthington (206 10th St.)",
   "whatItIs": "Mexican and American cuisine, with a seasonal taco truck.",
   "link": "https://www.exploreminnesota.com/profile/long-branch/4362",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Undated Explore Minnesota listing, no hours shown."
+  "evidence": "Undated Explore Minnesota listing, no hours shown. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "La Michoacana",
@@ -205,9 +205,9 @@
   "neighborhoodOrCity": "Worthington",
   "whatItIs": "Immigrant-owned shop mentioned in a personal essay.",
   "link": "https://barnraisingmedia.com/immigrants-find-a-home-rural-minnesota-worthington/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Barn Raiser essay, July 4, 2024, only; no address or later sign."
+  "evidence": "Barn Raiser essay, July 4, 2024, only; no address or later sign. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Alicia Bakery & Restaurant",
@@ -215,19 +215,19 @@
   "neighborhoodOrCity": "Austin (1017 2nd Ave. NE)",
   "whatItIs": "Bakery and restaurant; its back room held a Guadalupe altar in a 2019 MPR story.",
   "link": "https://austinmn.com/ethnic",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Undated Discover Austin listing; last dated mention read was MPR, December 2019."
+  "evidence": "Undated Discover Austin listing; last dated mention read was MPR, December 2019. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Tienda y Taqueria Guerrero",
   "type": "grocery and taqueria",
   "neighborhoodOrCity": "Austin (301 4th Ave. NE)",
   "whatItIs": "Store and taqueria.",
-  "link": "https://austinmn.com/ethnic",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Undated Discover Austin listing."
+  "link": "https://business.austincoc.com/list/member/tienda-y-taqueria-guerrero-12155",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Listed in the Austin Area Chamber of Commerce's current member directory (2026 site) with address and description."
  },
  {
   "name": "Los Landeros",
@@ -235,39 +235,39 @@
   "neighborhoodOrCity": "Austin (501 Oakland Ave. W.)",
   "whatItIs": "Listed among Austin's restaurants; the listing's layout makes the address less certain.",
   "link": "https://austinmn.com/ethnic",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Undated Discover Austin listing."
+  "evidence": "Undated Discover Austin listing. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "El Mariachi",
   "type": "restaurant",
   "neighborhoodOrCity": "Austin (227 N. Main St.)",
   "whatItIs": "Mexican restaurant.",
-  "link": "https://austinmn.com/ethnic",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Undated Discover Austin listing."
+  "link": "https://business.austincoc.com/list/category/restaurants-lounges-1155",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Listed in the Austin Area Chamber of Commerce's current member directory (2026 site) with address and description."
  },
  {
   "name": "El Patron Mexican Grill",
   "type": "restaurant",
   "neighborhoodOrCity": "Austin (1906 8th St. NW)",
   "whatItIs": "Mexican restaurant.",
-  "link": "https://austinmn.com/ethnic",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Undated Discover Austin listing."
+  "link": "https://business.austincoc.com/list/member/el-patron-mexican-grill-12164.htm",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Listed in the Austin Area Chamber of Commerce's current member directory (2026 site) with address and description."
  },
  {
   "name": "1910 Fresh Mexican Kitchen",
   "type": "restaurant",
   "neighborhoodOrCity": "Austin (507 1st St. NW)",
   "whatItIs": "Mexican restaurant. Ownership background not stated.",
-  "link": "https://austinmn.com/ethnic",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Undated Discover Austin listing."
+  "link": "https://business.austincoc.com/list/member/1910-fresh-mexican-kitchen-12459",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Listed in the Austin Area Chamber of Commerce's current member directory (2026 site) with address and description."
  },
  {
   "name": "Rincón Catracho",
@@ -275,29 +275,29 @@
   "neighborhoodOrCity": "Willmar",
   "whatItIs": "Name refers to Honduras; a page image suggests a market. Cuisine not stated in the text.",
   "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Undated Willmar Lakes Area listing with no street address."
+  "evidence": "Its own listing page on the Willmar visitor site returned 'not found' on Oct. 31, 2026; it still appears in the category list. No dated evidence."
  },
  {
   "name": "El Tapatío",
   "type": "restaurant",
-  "neighborhoodOrCity": "Willmar",
+  "neighborhoodOrCity": "Willmar (1111 First St. S.)",
   "whatItIs": "Likely Mexican, judged from the name; the listing does not label cuisine.",
-  "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
-  "dateChecked": "2026-10-30",
+  "link": "https://www.willmarlakesarea.com/listings/el-tapatio/",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Undated Willmar Lakes Area listing."
+  "evidence": "Visitor bureau listing gives address and description but no date."
  },
  {
   "name": "El Coqui Restaurant",
   "type": "restaurant",
   "neighborhoodOrCity": "Willmar",
-  "whatItIs": "Listed under international cuisine; cuisine not stated.",
-  "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Undated Willmar Lakes Area listing."
+  "whatItIs": "Puerto Rican and Honduran restaurant in downtown Willmar.",
+  "link": "https://www.willmarlakesarea.com/listings/el-coqui-restaurant/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Willmar Lakes Area listing (2026 site) says it held its grand opening on March 1, 2025."
  },
  {
   "name": "El Meson Restaurant",
@@ -305,9 +305,9 @@
   "neighborhoodOrCity": "Willmar",
   "whatItIs": "Listed under international cuisine; cuisine not stated.",
   "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Undated Willmar Lakes Area listing."
+  "evidence": "Undated Willmar Lakes Area listing. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "El Viejon Mariscos Y Tacos",
@@ -315,9 +315,9 @@
   "neighborhoodOrCity": "Willmar",
   "whatItIs": "Seafood and tacos, from the name.",
   "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Undated Willmar Lakes Area listing."
+  "evidence": "Undated Willmar Lakes Area listing. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Giliberto's Mexican Taco Shop",
@@ -325,9 +325,9 @@
   "neighborhoodOrCity": "Willmar",
   "whatItIs": "Mexican taco shop.",
   "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Undated Willmar Lakes Area listing."
+  "evidence": "Undated Willmar Lakes Area listing. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Azteca",
@@ -335,9 +335,9 @@
   "neighborhoodOrCity": "Willmar",
   "whatItIs": "Listed under international cuisine; cuisine not stated.",
   "link": "https://www.willmarlakesarea.com/eat-drink/?_dining_type=international-cuisine&_type=dining",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Undated Willmar Lakes Area listing."
+  "evidence": "Undated Willmar Lakes Area listing. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Latino Chamber of Commerce of Minnesota",
@@ -405,18 +405,128 @@
   "neighborhoodOrCity": "Twin Cities",
   "whatItIs": "Spanish-language station.",
   "link": "https://latinochambermn.com/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Named as a partner by the Latino Chamber. The station's own site turned the request away."
+  "evidence": "Named as a partner by the Latino Chamber. The station's own site turned the request away. Re-checked Oct. 31, 2026; no 2025 or 2026 page showing operation was found."
  },
  {
   "name": "Minnesota Hispanic Bar Association",
   "type": "professional association",
   "neighborhoodOrCity": "Minnesota",
-  "whatItIs": "Association of Hispanic lawyers.",
-  "link": "https://latinochambermn.com/",
-  "dateChecked": "2026-10-30",
+  "whatItIs": "Association of Latino lawyers; holds an annual gala and gives Access to Justice Awards.",
+  "link": "https://mylegalaid.org/wp-content/uploads/2026/04/Letter-to-Michelle-Gonzalez-re-Access-to-Justice-Award-3.4.26.pdf",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Association letter dated March 4, 2026, names 2026 officers and announces its 21st annual gala on March 27, 2026."
+ },
+ {
+  "name": "La Doña Cervecería",
+  "type": "brewery and taproom",
+  "neighborhoodOrCity": "North Loop area, Minneapolis (241 Fremont Ave. N.)",
+  "whatItIs": "Latino-focused brewery with a soccer field and weekly Spanish conversation club; co-owner's family roots in Uruguay.",
+  "link": "https://dameladona.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Twin Cities Pride lists a June 7, 2026 event there; own site shows taproom and hours."
+ },
+ {
+  "name": "Ceiba Fôrte Law Firm",
+  "type": "law firm",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Bilingual business, civil, real estate and tenant law firm founded in 2016 by Inti Martínez-Alemán.",
+  "link": "https://www.ceibaforte.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists phone and practice areas with a 2016-2025 copyright; the founder is on the Minnesota Hispanic Bar Association board in a March 2026 letter."
+ },
+ {
+  "name": "Kivu Immigration Law",
+  "type": "law firm",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Low-fee social enterprise immigration law firm serving Worthington and beyond; ownership by ethnicity not stated.",
+  "link": "https://kivulaw.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "The Globe photographed its booth at the Oct. 2, 2026 Hispanic heritage fiesta; own site lists hours and fees."
+ },
+ {
+  "name": "C & C Multi Servicios Hispanos",
+  "type": "tax, notary and translation services",
+  "neighborhoodOrCity": "Worthington (Mick's Office Plaza, Fourth Ave.)",
+  "whatItIs": "Tax preparation, notary and document translation run by Claudia Rodriguez since 2021.",
+  "link": "https://www.dglobe.com/news/local/worthington-business-offers-tax-translation-and-notary-services",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "The Globe, Feb. 11, 2025, profiles it as operating."
+ },
+ {
+  "name": "La Eterna Primavera",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington (inside Corky's Corner, Oxford and McMillan streets)",
+  "whatItIs": "Guatemalan-owned counter serving tortas, tacos and flautas.",
+  "link": "https://www.dglobe.com/news/local/la-eterna-primavera-to-open-friday-in-worthington",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "The Globe reports it opening May 29, 2026."
+ },
+ {
+  "name": "Supermercado La Herradura",
+  "type": "grocery",
+  "neighborhoodOrCity": "Worthington (1317 Ray Dr.)",
+  "whatItIs": "Latin American grocery owned by Kelman and Norma Pineda, from Guatemala.",
+  "link": "https://www.dglobe.com/news/local/supermercado-la-herradura-opens-in-worthington",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Named as a partner by the Latino Chamber. Its own site returned no content."
+  "evidence": "The Globe, Nov. 29, 2024, reports its opening; no later page found."
+ },
+ {
+  "name": "Cabañas",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington (East Ave., former A&W building)",
+  "whatItIs": "Salvadoran restaurant serving pupusas and Mexican dishes.",
+  "link": "https://www.dglobe.com/news/local/new-salvadoran-restaurant-is-answer-to-owners-prayers",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "The Globe, Sept. 15, 2023, reports its opening; no later page found."
+ },
+ {
+  "name": "Lupazo Mexican Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington (10th St.)",
+  "whatItIs": "Mexican restaurant and bar run by the Piceno family, successor to Tacos Lupe.",
+  "link": "https://www.dglobe.com/business/lupazo-mexican-grill-opens-in-worthington",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "The Globe, May 19, 2018, reports its opening; no later page found."
+ },
+ {
+  "name": "Pollo Charro (in La Manzanita Mexican Market)",
+  "type": "restaurant and market",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Mexican food counter inside a Mexican market.",
+  "link": "https://www.willmarlakesarea.com/listings/pollo-charro/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Visitor bureau listing without a date."
+ },
+ {
+  "name": "JLLB Media",
+  "type": "marketing agency",
+  "neighborhoodOrCity": "Waconia",
+  "whatItIs": "Marketing and business consulting agency founded by Juan Llerena, named a 2024 Notable Hispanic Leader.",
+  "link": "https://jllbmedia.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site advertises 2026 offers."
+ },
+ {
+  "name": "Forward Worthington",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "The city's chamber of commerce, led in 2026 by Jaime Salinas; not Latino-specific.",
+  "link": "https://www.mprnews.org/episode/2026/02/23/worthington-chamber-ceo-says-ice-surge-led-to-fear-economic-disruption",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "MPR News interview with its CEO, Feb. 23, 2026."
  }
 ]

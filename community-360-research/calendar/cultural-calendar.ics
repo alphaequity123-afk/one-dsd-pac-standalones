@@ -1368,6 +1368,20 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:willmar-cinco-de-mayo-2026-05-16@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:Willmar Cinco de Mayo
+DESCRIPTION:Mexico's 1862 victory at Puebla\, used in Willmar to celebrat
+ e many Latino cultures. Date: Set by the Latino Community Association of 
+ Willmar\; held in mid-May in 2026. Source: West Central Tribune (date hel
+ d) https://www.wctrib.com/news/local/cinco-de-mayo-event-in-downtown-will
+ mar-shows-off-cultures Communities: Latino Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:syttende-mai-2026-05-17@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260517
@@ -2724,6 +2738,22 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:hispanic-heritage-awards-minneapolis-2026-2026-09-10@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Hispanic Heritage Awards (Minneapolis\, 2026)
+DESCRIPTION:The 39th Hispanic Heritage Awards\; its Humanitarian Award we
+ nt to 'the people of Minnesota' for their response to Operation Metro Sur
+ ge. Date: Set by the Hispanic Heritage Foundation\; usually opens Hispani
+ c Heritage Month. Held in Minneapolis only in 2026 so far. Source: MPR Ne
+ ws\, Sept. 9\, 2026 https://www.mprnews.org/episode/2026/09/09/hispanic-h
+ eritage-awards-come-to-minneapolis-recognize-the-people-of-minnesota Comm
+ unities: Latino Minnesota
+CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:enkutatash-2026-09-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260911
@@ -3205,7 +3235,7 @@ DESCRIPTION:Hispanic and Latino heritage in a town where Indigenous Guate
  malans are a large part of the Latino population. Date: Announced each ye
  ar by the Worthington High School Sueños Club. Source: The Globe https:/
  /www.dglobe.com/news/local/hs-suenos-club-celebrates-hispanic-heritage-wi
- th-community-fiesta Communities: Guatemalan Minnesota
+ th-community-fiesta Communities: Guatemalan Minnesota\, Latino Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3222,16 +3252,16 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:latino-business-week-2026-10-05@community-360-research
+UID:latino-business-week-2026-10-03@community-360-research
 DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261005
+DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261012
 SUMMARY:Latino Business Week
 DESCRIPTION:Support for Latino-owned businesses\, in 2026 during recovery
   from the enforcement surge. Date: Set each year by the City of Minneapol
- is. Source: MPR News\, Oct. 6\, 2026 https://www.mprnews.org/story/2026/1
- 0/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice
- -surge Communities: Latino Minnesota
+ is. Source: City of Minneapolis news page (mayor's proclamation\, Oct. 3 
+ to 11)\; MPR News gave Oct. 5 to 11 https://www.minneapolismn.gov/news/ C
+ ommunities: Latino Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
