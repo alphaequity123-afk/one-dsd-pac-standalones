@@ -126,7 +126,7 @@ DESCRIPTION:The visit of the Magi to the infant Jesus. Date: Feast on Jan
  e fiesta oficiales) https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferenc
  ia/PDF/2/0065-2000.pdf Communities: Colombian Minnesota\, Cuban Minnesota
  \, Ecuadorian Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, Mexic
- an Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+ an Minnesota\, Puerto Rican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -211,10 +211,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260116
 DTEND;VALUE=DATE:20260117
 SUMMARY:Salvadoran Peace Accords anniversary
-DESCRIPTION:The January 16\, 1992 peace accords ending the civil war. Dat
- e: January 16. Source: United Nations Peacekeeping\, ONUSAL Background ht
- tps://peacekeeping.un.org/mission/past/onusalbackgr2.html Communities: Sa
- lvadoran Minnesota
+DESCRIPTION:Signing of the Chapultepec peace agreement between the govern
+ ment and the FMLN on Jan. 16\, 1992. In January 2022 El Salvador's Legisl
+ ative Assembly renamed the date the Day of the Victims of the Armed Confl
+ ict and repealed the earlier peace-day decrees\, a contested change. Date
+ : January 16 each year. Source: Peace Accords Matrix\, Notre Dame (agreem
+ ent signed 16 January 1992) https://peaceaccords.nd.edu/accord/chapultepe
+ c-peace-agreement Communities: Salvadoran Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -710,10 +713,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260325
 SUMMARY:Saint Óscar Romero remembrance
-DESCRIPTION:The assassination of Archbishop Óscar Romero on March 24\, 1
- 980. Date: March 24. Source: United Nations\, International Day for the R
- ight to the Truth (24 March\, Romero) https://www.un.org/en/observances/r
- ight-to-truth-day Communities: Salvadoran Minnesota
+DESCRIPTION:The assassination of Archbishop Óscar Arnulfo Romero on Marc
+ h 24\, 1980\, after he denounced human rights violations\; his canonizati
+ on was in October 2018. Date: March 24 each year\, the anniversary of his
+  assassination\; the United Nations marks the same day. Source: United Na
+ tions\, Right to Truth Day (24 March\; Romero murdered 24 March 1980) htt
+ ps://www.un.org/en/observances/right-to-truth-day Communities: Salvadoran
+  Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1989,6 +1995,22 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:feast-of-the-divino-salvador-del-mundo-2026-08-06@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:Feast of the Divino Salvador del Mundo
+DESCRIPTION:Devotion to the Divine Savior of the World\, patron of El Sal
+ vador and its capital. Date: Feast on August 6 (Transfiguration)\, preced
+ ed by a novena from late July\; the Archdiocese of San Salvador announces
+  the program each year. Source: Diario El Mundo: 2026 program\, novena Ju
+ ly 28-Aug. 4\, main Mass Aug. 6 https://diario.elmundo.sv/nacionales/igle
+ sia-catolica-anuncia-programa-de-fiestas-del-divino-salvador-del-mundo Co
+ mmunities: Salvadoran Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:igbofest-gala-night-2026-08-07@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260807
@@ -2419,7 +2441,8 @@ SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov h
  ttps://hispanicheritagemonth.gov/ Communities: Colombian Minnesota\, Ecua
- dorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota
+ dorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota\, Salvadoran 
+ Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2433,8 +2456,7 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\
- , Salvadoran Minnesota
+ Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3594,7 +3616,7 @@ DESCRIPTION:The visit of the Magi to the infant Jesus. Date: Feast on Jan
  e fiesta oficiales) https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferenc
  ia/PDF/2/0065-2000.pdf Communities: Colombian Minnesota\, Cuban Minnesota
  \, Ecuadorian Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, Mexic
- an Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+ an Minnesota\, Puerto Rican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3665,10 +3687,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:Salvadoran Peace Accords anniversary
-DESCRIPTION:The January 16\, 1992 peace accords ending the civil war. Dat
- e: January 16. Source: United Nations Peacekeeping\, ONUSAL Background ht
- tps://peacekeeping.un.org/mission/past/onusalbackgr2.html Communities: Sa
- lvadoran Minnesota
+DESCRIPTION:Signing of the Chapultepec peace agreement between the govern
+ ment and the FMLN on Jan. 16\, 1992. In January 2022 El Salvador's Legisl
+ ative Assembly renamed the date the Day of the Victims of the Armed Confl
+ ict and repealed the earlier peace-day decrees\, a contested change. Date
+ : January 16 each year. Source: Peace Accords Matrix\, Notre Dame (agreem
+ ent signed 16 January 1992) https://peaceaccords.nd.edu/accord/chapultepe
+ c-peace-agreement Communities: Salvadoran Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3948,10 +3973,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:Saint Óscar Romero remembrance
-DESCRIPTION:The assassination of Archbishop Óscar Romero on March 24\, 1
- 980. Date: March 24. Source: United Nations\, International Day for the R
- ight to the Truth (24 March\, Romero) https://www.un.org/en/observances/r
- ight-to-truth-day Communities: Salvadoran Minnesota
+DESCRIPTION:The assassination of Archbishop Óscar Arnulfo Romero on Marc
+ h 24\, 1980\, after he denounced human rights violations\; his canonizati
+ on was in October 2018. Date: March 24 each year\, the anniversary of his
+  assassination\; the United Nations marks the same day. Source: United Na
+ tions\, Right to Truth Day (24 March\; Romero murdered 24 March 1980) htt
+ ps://www.un.org/en/observances/right-to-truth-day Communities: Salvadoran
+  Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4658,6 +4686,7 @@ DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date:
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
  fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
  nnesota\, Ecuadorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota
+ \, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4671,8 +4700,7 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\
- , Salvadoran Minnesota
+ Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5200,7 +5228,7 @@ DESCRIPTION:The visit of the Magi to the infant Jesus. Date: Feast on Jan
  e fiesta oficiales) https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferenc
  ia/PDF/2/0065-2000.pdf Communities: Colombian Minnesota\, Cuban Minnesota
  \, Ecuadorian Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, Mexic
- an Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+ an Minnesota\, Puerto Rican Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5271,10 +5299,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280116
 DTEND;VALUE=DATE:20280117
 SUMMARY:Salvadoran Peace Accords anniversary
-DESCRIPTION:The January 16\, 1992 peace accords ending the civil war. Dat
- e: January 16. Source: United Nations Peacekeeping\, ONUSAL Background ht
- tps://peacekeeping.un.org/mission/past/onusalbackgr2.html Communities: Sa
- lvadoran Minnesota
+DESCRIPTION:Signing of the Chapultepec peace agreement between the govern
+ ment and the FMLN on Jan. 16\, 1992. In January 2022 El Salvador's Legisl
+ ative Assembly renamed the date the Day of the Victims of the Armed Confl
+ ict and repealed the earlier peace-day decrees\, a contested change. Date
+ : January 16 each year. Source: Peace Accords Matrix\, Notre Dame (agreem
+ ent signed 16 January 1992) https://peaceaccords.nd.edu/accord/chapultepe
+ c-peace-agreement Communities: Salvadoran Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5555,10 +5586,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280324
 DTEND;VALUE=DATE:20280325
 SUMMARY:Saint Óscar Romero remembrance
-DESCRIPTION:The assassination of Archbishop Óscar Romero on March 24\, 1
- 980. Date: March 24. Source: United Nations\, International Day for the R
- ight to the Truth (24 March\, Romero) https://www.un.org/en/observances/r
- ight-to-truth-day Communities: Salvadoran Minnesota
+DESCRIPTION:The assassination of Archbishop Óscar Arnulfo Romero on Marc
+ h 24\, 1980\, after he denounced human rights violations\; his canonizati
+ on was in October 2018. Date: March 24 each year\, the anniversary of his
+  assassination\; the United Nations marks the same day. Source: United Na
+ tions\, Right to Truth Day (24 March\; Romero murdered 24 March 1980) htt
+ ps://www.un.org/en/observances/right-to-truth-day Communities: Salvadoran
+  Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6123,6 +6157,7 @@ DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date:
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
  fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
  nnesota\, Ecuadorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota
+ \, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6136,8 +6171,7 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\
- , Salvadoran Minnesota
+ Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
