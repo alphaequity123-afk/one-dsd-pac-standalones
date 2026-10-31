@@ -1,0 +1,520 @@
+[
+ {
+  "title": "Cambodian Minnesota (current page)",
+  "publisher": "One DSD",
+  "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Page checked for corrections"
+ },
+ {
+  "title": "Cambodian population, cultural communities",
+  "publisher": "Minnesota Compass (Wilder Research)",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/cambodian",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population, age, language, income, housing, education, employment, disability, insurance (ACS 2020-2024)"
+ },
+ {
+  "title": "ACS 2020-2024 table B02015, Minnesota counties",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B02015&geo_ids=050|04000US27,04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Single-race Cambodian count statewide and by county"
+ },
+ {
+  "title": "ACS 2020-2024 table B02015, Minnesota places",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B02015&geo_ids=160|04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cambodian count by city"
+ },
+ {
+  "title": "ACS 2024 table B02018, Minnesota",
+  "publisher": "Census Reporter (U.S. Census Bureau data)",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B02018&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cambodian alone or in combination, 2024"
+ },
+ {
+  "title": "Looking back 50 years: Cambodians fled genocide to build close-knit community in Minnesota",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/immigration/cambodian-americans-fifty-year-anniversary/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arrival stories, generations, temple, CAPMN, occupations"
+ },
+ {
+  "title": "Minnesota Cambodian temple to celebrate $1M 'Great Gate'",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/arts-culture/minnesota-cambodian-buddhist-watt-munisotaram-great-gate/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Great Gate, 37th anniversary Aug. 8-10, 2025"
+ },
+ {
+  "title": "What you need to know about the deportation of Southeast Asian people in Minnesota",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/immigration/deportations-minnesota-mn8-hmong-laos-cambodia-vietnam/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "MN8, deportation pace, 2025"
+ },
+ {
+  "title": "Watt Munisotaram",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/watt-munisotaram",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Temple history, immigration background, observances"
+ },
+ {
+  "title": "Watt Munisotaram home page",
+  "publisher": "Minnesota Cambodian Buddhist Society",
+  "url": "https://www.wattmunisotaram.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Address, hours, founding, 2025 gate videos"
+ },
+ {
+  "title": "Watt Munisotaram events page",
+  "publisher": "Minnesota Cambodian Buddhist Society",
+  "url": "https://www.wattmunisotaram.org/events",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Checked for announced dates (none listed)"
+ },
+ {
+  "title": "A new Cambodian Buddhist temple opens in Hampton, Minnesota",
+  "publisher": "MPR News (2007)",
+  "url": "https://archive.mpr.org/stories/2007/07/09/new-cambodian-buddhist-temple-opens-hampton",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2007 consecration, cost, population estimate"
+ },
+ {
+  "title": "Minnesota Buddhist temple opens up sacred dance troupe",
+  "publisher": "AP via CBS Minnesota (2023)",
+  "url": "https://www.cbsnews.com/minnesota/news/minnesota-buddhist-temple-opens-up-sacred-dance-troupe/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Monks, Magha Puja, Wattanak, youth"
+ },
+ {
+  "title": "Community Needs Assessment of Minnesota's Cambodian Population (report)",
+  "publisher": "Wilder Research for MN8 (June 2022)",
+  "url": "https://www.wilder.org/wp-content/pdf-file/MN8_CommunityNeedsAssessmentReport_6-22.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Language, food, health access, voting, immigration findings"
+ },
+ {
+  "title": "Community Needs Assessment of Minnesota's Cambodian Population (summary page)",
+  "publisher": "Wilder Research",
+  "url": "https://www.wilder.org/wilder_research/community-needs-assessment-of-minnesotas-cambodian-population-a-summary-of-findings-from-key-informant-interviews/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Report link"
+ },
+ {
+  "title": "Blossoming Supports for Khmer (Cambodian) Minnesotans",
+  "publisher": "Center for Urban and Regional Affairs, University of Minnesota",
+  "url": "https://www.cura.umn.edu/project/blossoming-supports-khmer-cambodian-minnesotans-through-data-driven-programming",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Checked existing-page claim about the needs assessment"
+ },
+ {
+  "title": "S.R. No. 72, honoring the Cambodian Minnesotan Story",
+  "publisher": "Minnesota Senate (2017)",
+  "url": "https://www.senate.mn/resolutions/display_resolution.php?ls=90&bill_type=SR&bill_number=0072&ss_number=0&ss_year=2017",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arrival period, settlement, occupations, temple name"
+ },
+ {
+  "title": "S.R. No. 125, honoring Pengsan Ou",
+  "publisher": "Minnesota Senate (2022)",
+  "url": "https://www.senate.mn/resolutions/pdf/ls92/2021_2022/SR0125_O0.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Early work, temple volunteering, civic life"
+ },
+ {
+  "title": "SF 4005, Cambodian American Partnership of Minnesota grant appropriation",
+  "publisher": "Minnesota Legislature (2026)",
+  "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4005",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2026 funding bill"
+ },
+ {
+  "title": "Council on Asian Pacific Minnesotans overview (Jan. 28, 2025)",
+  "publisher": "Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/archive/minutes/senate/2025/finstlocalgov/20250128/finstlocalgov_20250128_CAPM-Overview.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population figure used by the Council; commemoration meetings"
+ },
+ {
+  "title": "Governor Pawlenty appoints three to the Council on Asian-Pacific Minnesotans",
+  "publisher": "Governor's office via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2010/other/101582/www.governor.state.mn.us/mediacenter/pressreleases/printerfriendly/PROD006665.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sokunthea Bentley appointment, translation firm"
+ },
+ {
+  "title": "Families of Cambodians, Lao, Vietnamese affected by 'Secret War' seek wider state recognition",
+  "publisher": "Pioneer Press via Yahoo (March 26, 2025)",
+  "url": "https://www.yahoo.com/news/families-cambodians-lao-vietnamese-affected-230000000.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population estimate, recognition debate"
+ },
+ {
+  "title": "McCollum Honors Cambodian Genocide Victims",
+  "publisher": "Office of U.S. Rep. Betty McCollum (2011)",
+  "url": "https://mccollum.house.gov/press-release/mccollum-honors-cambodian-genocide-victims",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2011 population estimate"
+ },
+ {
+  "title": "H.Res. 338, Cambodian Genocide Remembrance Day",
+  "publisher": "U.S. House of Representatives (2025)",
+  "url": "https://www.congress.gov/119/bills/hres338/BILLS-119hres338ih.htm",
+  "dateChecked": "2026-10-31",
+  "usedFor": "April 17 remembrance date"
+ },
+ {
+  "title": "Cambodian Buddhists mark 25 years of growth",
+  "publisher": "Post Bulletin (May 24, 2004)",
+  "url": "https://www.postbulletin.com/news/history-150th-anniversary-tab-cambodian-buddhists-mark-25-years-of-growth",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Rochester history, faith estimate"
+ },
+ {
+  "title": "For Cambodians living in the U.S., ICE scenes are too familiar",
+  "publisher": "Post Bulletin (Jan. 2026)",
+  "url": "https://www.postbulletin.com/news/local/for-cambodians-living-in-the-u-s-ice-scenes-are-too-familiar",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2026 enforcement, Khmer-language videos"
+ },
+ {
+  "title": "Cambodian New Year celebrations to take place in Rochester this weekend",
+  "publisher": "KTTC (April 24, 2026)",
+  "url": "https://kttc.com/2026/04/24/cambodian-new-year-celebrations-take-place-rochester-this-weekend/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2026 Rochester New Year, temple name"
+ },
+ {
+  "title": "Rochester welcomes Cambodian Sister City during New Year celebration",
+  "publisher": "KIMT (2025)",
+  "url": "https://www.kimt.com/news/local/rochester-welcomes-cambodian-sister-city-during-new-year-celebration/article_35512cb7-d4e7-4e87-8100-79262b34315f.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 Rochester New Year, community size, new worship center"
+ },
+ {
+  "title": "Rochester is entering into new sister city relationship",
+  "publisher": "KROC (2025)",
+  "url": "https://krocnews.com/rochester-is-entering-into-new-sister-city-relationship/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 program and address"
+ },
+ {
+  "title": "Cambodian Heritage Day celebrates 50 years in Minnesota",
+  "publisher": "City of Bloomington (Feb. 4, 2026)",
+  "url": "https://www.bloomingtonmn.gov/node/18736",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 Heritage Day attendance and proclamation"
+ },
+ {
+  "title": "First Annual Cambodian Heritage Day showcases Minnesota's Cambodian community",
+  "publisher": "Asia Matters for America, East-West Center (2023)",
+  "url": "https://asiamattersforamerica.org/articles/first-annual-cambodian-heritage-day-showcases-minnesotas-cambodian-community",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2023 Heritage Day; visa arrivals"
+ },
+ {
+  "title": "Minnesota History Center host Cambodian Heritage Day",
+  "publisher": "KAAL ABC 6 (2023)",
+  "url": "https://www.kaaltv.com/uncategorized/minnesota-history-center-host-cambodian-heritage-day/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2023 Heritage Day"
+ },
+ {
+  "title": "CHD 2025",
+  "publisher": "Cambodian American Partnership of Minnesota",
+  "url": "https://www.capmn.org/chd-2025",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 Heritage Day program, venue"
+ },
+ {
+  "title": "Founders",
+  "publisher": "Cambodian American Partnership of Minnesota",
+  "url": "https://www.capmn.org/founders",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Founders and occupations"
+ },
+ {
+  "title": "Programs",
+  "publisher": "Cambodian American Partnership of Minnesota",
+  "url": "https://www.capmn.org/programs",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Youth dance, language, music, Koun magazine"
+ },
+ {
+  "title": "About",
+  "publisher": "Cambodian American Partnership of Minnesota",
+  "url": "https://capmn.org/about",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Address and nonprofit status"
+ },
+ {
+  "title": "United Cambodian Association of Minnesota",
+  "publisher": "UCAM",
+  "url": "https://www.ucam.info/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "History, leadership, adult day services, waivers"
+ },
+ {
+  "title": "Elder Independent Living Program, UCAM",
+  "publisher": "Greater Twin Cities United Way 211",
+  "url": "https://search.211unitedway.org/search/3619846e-ef7e-5354-b7ed-94a93191dd19",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Elder services"
+ },
+ {
+  "title": "Minnesota8 home page",
+  "publisher": "MN8",
+  "url": "https://minnesota8.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mission and address"
+ },
+ {
+  "title": "Ten years on, Minnesota8's fight is far from over",
+  "publisher": "MPR News (Aug. 28, 2026)",
+  "url": "https://www.mprnews.org/story/2026/08/28/ten-years-on-minnesota8s-fight-is-far-from-over",
+  "dateChecked": "2026-10-31",
+  "usedFor": "MN8 anniversary gala, director"
+ },
+ {
+  "title": "MN8's Heart's Work: Defending the Right to Belong",
+  "publisher": "New Breath Foundation (Sept. 22, 2025)",
+  "url": "https://new-breath.org/?p=6959",
+  "dateChecked": "2026-10-31",
+  "usedFor": "MN8 history, 2025 rally"
+ },
+ {
+  "title": "CEHD's Cambodian connections",
+  "publisher": "University of Minnesota CEHD Connect (2022)",
+  "url": "https://connect.cehd.umn.edu/cehds-cambodian-connections",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Minnesota Eight outcomes, university work in Cambodia"
+ },
+ {
+  "title": "44-year-old Cambodian community advocate dies of cancer",
+  "publisher": "MPR News (2002)",
+  "url": "https://archive.mpr.org/stories/2002/03/12/44-year-old-cambodian-community-advocate",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Checked existing-page claim on Darina Siv"
+ },
+ {
+  "title": "Southeast Asian refugee businesses growing in the Twin Cities",
+  "publisher": "MPR News (1984)",
+  "url": "https://archive.mpr.org/stories/1984/11/16/southeast-asian-refugee-businesses-growing-in-the-twin-cities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Early refugee businesses"
+ },
+ {
+  "title": "Somali immigrants find growing acceptance in Minnesota",
+  "publisher": "Associated Press via Fox News (Aug. 25, 2018)",
+  "url": "https://www.foxnews.com/us/somali-immigrants-find-growing-acceptance-in-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cambodian arrivals in Faribault for Jennie-O jobs"
+ },
+ {
+  "title": "Kolap Restaurant",
+  "publisher": "Kolap Restaurant",
+  "url": "https://www.kolaprestaurant.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hours, history, ownership"
+ },
+ {
+  "title": "Kolap",
+  "publisher": "Frogtown Walking Tour, WFNU",
+  "url": "https://wfnu.org/kolap/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Founding 2003, Sarun's Auto Repair"
+ },
+ {
+  "title": "Kolap 2 (St. Paul, MN)",
+  "publisher": "My Annoying Opinions (Nov. 12, 2024)",
+  "url": "https://myannoyingopinions.com/2024/11/12/kolap-2-st-paul-mn/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Dishes, operation in 2024"
+ },
+ {
+  "title": "Cheng Heng: The Return (St. Paul, MN)",
+  "publisher": "My Annoying Opinions (May 9, 2023)",
+  "url": "https://myannoyingopinions.com/2023/05/09/cheng-heng-the-return-st-paul-mn/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Most recent account of Cheng Heng"
+ },
+ {
+  "title": "Cambodia Cheng Heng",
+  "publisher": "Mpls.St.Paul Magazine",
+  "url": "https://mspmag.com/locations/Cambodia-Cheng-Heng/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Menu description"
+ },
+ {
+  "title": "Kolap Restaurant",
+  "publisher": "Mpls.St.Paul Magazine",
+  "url": "https://mspmag.com/locations/kolap-restaurant/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Listing"
+ },
+ {
+  "title": "Appetites: New dinner series highlights immigrant home chefs",
+  "publisher": "MPR News (April 9, 2025)",
+  "url": "https://www.mprnews.org/story/2025/04/09/appetites-new-dinner-series-highlights-immigrant-home-chefs",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Immigrant Kitchen with Cambodian cooks"
+ },
+ {
+  "title": "Reintroducing Sina War",
+  "publisher": "BIPOC Foodways with Mecca Bos",
+  "url": "https://meccabos.substack.com/p/reintroducing-sina-war",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sina War, Twin Tiger, family food"
+ },
+ {
+  "title": "About",
+  "publisher": "Wattanak Dance Troupe",
+  "url": "https://www.wattanakdancetroupe.org/about",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Founding, teachers"
+ },
+ {
+  "title": "Home page",
+  "publisher": "Wattanak Dance Troupe",
+  "url": "https://www.wattanakdancetroupe.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Current enrollment (over 40 students)"
+ },
+ {
+  "title": "Our Programs",
+  "publisher": "Wattanak Dance Troupe",
+  "url": "https://www.wattanakdancetroupe.org/programs",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Programs"
+ },
+ {
+  "title": "Following The Serpent's Veil: Preah Thong Neang Neak",
+  "publisher": "Southern Theater (2026)",
+  "url": "https://southerntheater.org/shows/following-the-serpents-veil-preah-thong-neang-neak",
+  "dateChecked": "2026-10-31",
+  "usedFor": "July 2026 performance"
+ },
+ {
+  "title": "Selapak: A Celebration of Khmer Artistry",
+  "publisher": "Theater Mu (2022)",
+  "url": "https://theatermu.org/selapak",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Khmer artists, troupe founding date"
+ },
+ {
+  "title": "Wattanak Dance Troupe at opening night of Cambodian Rock Band",
+  "publisher": "Theater Mu (2022)",
+  "url": "https://www.theatermu.org/news/2022/6/10/wattanak-dance-troupe-at-opening-night-of-cambodian-rock-band",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2022 performance"
+ },
+ {
+  "title": "Choreographers' Evening 2021 program notes",
+  "publisher": "Walker Art Center",
+  "url": "https://www.walkerart.org/reader/choreographers-evening-2021-program-notes/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2021 performance; dancers lost under Khmer Rouge"
+ },
+ {
+  "title": "50th Joint Commemoration",
+  "publisher": "Minnesota Humanities Center",
+  "url": "https://www.mnhum.org/program/50th-anniversary-joint-commemoration/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 commemoration"
+ },
+ {
+  "title": "50th Anniversary Joint Commemoration",
+  "publisher": "Union Depot",
+  "url": "https://www.uniondepot.org/event/50th-anniversary-joint-commemoration/2025-11-01/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Nov. 1-2, 2025 festival"
+ },
+ {
+  "title": "Vichet Chhuon",
+  "publisher": "University of Minnesota, Curriculum and Instruction",
+  "url": "https://ci.umn.edu/vichet-chhuon",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Faculty role and research"
+ },
+ {
+  "title": "RIDGS Book Event: A Conversation with Vichet Chhuon and Peuo Tuy",
+  "publisher": "University of Minnesota (Oct. 2025)",
+  "url": "https://ci.umn.edu/events/2025-10-ridgs-book-event-conversation-vichet-chhuon-and-peuo-tuy",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Book; Peuo Tuy as St. Paul teacher"
+ },
+ {
+  "title": "McNair Scholar 2024 - Sophea Om",
+  "publisher": "University of Minnesota CEHD",
+  "url": "https://www.cehd.umn.edu/mcnair-scholar-2024-sophea-om",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Student research on deportation and families"
+ },
+ {
+  "title": "Asian American Studies student organizations",
+  "publisher": "University of Minnesota",
+  "url": "https://cla.umn.edu/asianamerican/undergraduate/organizations",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cambodian Student Association of Minnesota listed"
+ },
+ {
+  "title": "Celebrating Cambodian culture with my Minnesota community",
+  "publisher": "SHE-CAN (2018)",
+  "url": "https://shecan.global/scholar-blogs/celebrating-cambodian-culture-with-my-minnesota-community-a-qa-with-she-can-scholar-sreytom-tim/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Student Khmer New Year event"
+ },
+ {
+  "title": "Alumni Spotlight: Dymanh Chhoun",
+  "publisher": "Hubbard School of Journalism, University of Minnesota (2021)",
+  "url": "https://hubbardschool.umn.edu/news/2021-03-09-alumni-spotlight-dymanh-chhoun",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Journalist's path"
+ },
+ {
+  "title": "Guest 2: Meet Kim Sin and learn about the Cambodian-American Community",
+  "publisher": "Rochester Community and Technical College via LibreTexts",
+  "url": "https://socialsci.libretexts.org/Bookshelves/Communication/Intercultural_Communication/Developing_Intercultural_Communication_Competence_%28Halverson-Wente_and_Halverson-Wente%29/03%3A_Case_Studies%3A_Communicating_with_Co-Cultures/03.2%3A_Guest_2__Meet_Meet_Kim_Sin_and_learn_about_the_Cambodian-American_Community",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cambodian Association of Rochester"
+ },
+ {
+  "title": "Mental health literacy in Hmong and Cambodian elderly refugees",
+  "publisher": "International Journal of Aging and Human Development (2010), research portal record",
+  "url": "https://research-portal.najah.edu/migrant/2859/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Twin Cities study of elders and depression"
+ },
+ {
+  "title": "Cambodian American Parents' Perspectives and Knowledge of Special Education Supports",
+  "publisher": "Journal of Southeast Asian American Education and Advancement (2024)",
+  "url": "https://docs.lib.purdue.edu/jsaaea/vol19/iss1/12",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Parents' views of disability (not Minnesota)"
+ },
+ {
+  "title": "Khmer translated materials",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/translation/khmer.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "State health materials in Khmer"
+ },
+ {
+  "title": "Religious and charity organizations",
+  "publisher": "City of Crystal",
+  "url": "https://www.crystalmn.gov/our_city/religious_and_charity_organizations",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cambodian Church of the Nazarene address"
+ },
+ {
+  "title": "Pchum Ben Day",
+  "publisher": "Tuol Sleng Genocide Museum",
+  "url": "https://tuolsleng.gov.kh/en/?p=602",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Pchum Ben background (Cambodia)"
+ }
+]

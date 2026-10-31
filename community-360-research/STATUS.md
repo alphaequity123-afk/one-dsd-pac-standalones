@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-16 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+17 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): khmer, thai, burmese, bosnian now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): thai, burmese, bosnian now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -43,6 +43,8 @@ amharic, american, arabic-speaking, colombian, cuban, deaf-deafblind-hard-of-hea
 
 Hmong and the methods note could not open these: Star Tribune, Christian Century, the state charter school directory, Carleton's Religions in Minnesota, mn.gov pages (State Demographic Center, Department of Veterans Affairs), the University of Minnesota Conservancy, state courts, the Senate roster, Department of Education pages, and ICPSR.
 
+- Khmer could not open: Carleton's Religions in Minnesota exhibit, KARE 11, the PubMed Central and MDPI copies of a 2024 Cambodian refugee mental health study, the state's aging and disability resource directory, Explore Minnesota, LegiScan, and a Sahan Journal story on Cambodian food trucks (too many requests).
+
 - Lao could not open: most Sahan Journal articles (too many requests), legacy.mn.gov, the UMN Conservancy, GuideStar, Census QuickFacts, mn.gov resource pages, Bush Foundation and pluralism.org.
 
 - Chinese could not open: legacy.mn.gov, Minnesota Lawyer, KARE 11, Explore Minnesota, Minnesota Reformer, and mn.gov pages for aging resources and the Council on Asian Pacific Minnesotans board.
@@ -55,6 +57,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Khmer (Cambodian):** 74 opened sources; web search worked throughout. The business list is thin (6: 3 open, 3 could not be confirmed open) because few Cambodian-owned businesses are named in public sources; no Cambodian grocery, professional firm or chamber was found. Not established: 2026 dates at Watt Munisotaram (its events page was empty), any Minnesota account of Pchum Ben or April 17 remembrance, any Minnesota disability study specific to Cambodians, and any Cambodian elected official.
 - **Lao:** 100 opened sources after a second pass. Still thin on businesses (12: 5 open, 6 could not be confirmed open, 1 closed); no Lao-owned grocery, professional firm or Lao-language media outlet, and no Lao restaurant in Rochester or Worthington was found. Not established: any 2026 Lao New Year event in Minnesota or how Minnesota temples marked the Buddhist holy days (no temple website, calendar or recent news found), any Minnesota study of disability among Lao Minnesotans, and any ethnic Lao elected official. Lao National Day was dropped because no Minnesota observance was found.
 - **Chinese:** 87 opened sources; web search worked throughout. Not established: any Minnesota disability data or services for Chinese families or for adoptees from China, counts of Mandarin, Cantonese or other Chinese-language speakers, religious affiliation, any Chinese Buddhist temple, and any Chinese-owned law, accounting or insurance firm or current Chinese-language media outlet. 13 of 29 businesses could not be confirmed open. The Mid-Autumn Moon Festival at Phalen Park was not held in 2026.
 - **Japanese:** 74 opened sources. Web search ran out partway (the shared limit of 200 searches per round), and the rest was done by opening pages directly. Thin: groceries, bakeries and professional firms (none confirmed open), religion, and Minnesota disability and health evidence. Not established: how many Japanese nationals and company transferees live here, religious makeup, events for Hinamatsuri, Kodomo no Hi, Tanabata or Setsubun, the Cha-Ami Japanese Cultural Center's address, and Judge Susan Burke's current status. 4 of 23 businesses could not be confirmed open.

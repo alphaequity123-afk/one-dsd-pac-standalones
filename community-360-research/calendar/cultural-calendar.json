@@ -13887,11 +13887,12 @@
    "sources": []
   },
   {
-   "id": "khmer--choul-chnam-thmey",
+   "id": "khmer--khmer-new-year-choul-chnam-thmey",
    "observanceKey": "choul-chnam-thmey",
-   "name": "Choul Chnam Thmey",
+   "name": "Khmer New Year (Choul Chnam Thmey)",
    "alsoKnownAs": [
-    "Khmer New Year"
+    "Cambodian New Year",
+    "Chaul Chnam Thmey"
    ],
    "communities": [
     "khmer"
@@ -13905,13 +13906,13 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/khmer/profile.md",
    "kind": "cultural",
-   "capsule": "Traditional Khmer new year.",
-   "dateRule": "Mid-April, usually April 13 or 14 to 16, set each year by the Cambodian government from the traditional astronomical calendar.",
+   "capsule": "Three-day Cambodian New Year in mid-April marking the end of harvest; Minnesota temples celebrate on nearby weekends.",
+   "dateRule": "In Cambodia, usually April 13 or 14 to 16, set each year by the Cambodian government from the traditional astronomical calendar. Minnesota temples hold public celebrations on a weekend near or after these dates.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-14",
-     "endDate": null,
+     "endDate": "2026-04-16",
      "source": "Andersen in Cambodia, Cambodia Sets Official 2026 Public Holiday Schedule (Sub-Decree No. 167)",
      "sourceUrl": "https://kh.andersen.com/publications/cambodia-sets-official-2026-public-holiday-schedule/",
      "verified": true
@@ -13919,33 +13920,155 @@
     {
      "year": 2027,
      "date": "2027-04-14",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2027 lists 2027-04-14",
+     "endDate": "2027-04-16",
+     "source": "Calculated with python-holidays 0.107 (seed calculation); CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2027 lists 2027-04-14",
      "sourceUrl": null,
      "verified": false
     },
     {
      "year": 2028,
      "date": "2028-04-13",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry; Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028 lists 2028-04-14",
+     "endDate": "2028-04-15",
+     "source": "Calculated with python-holidays 0.107 (seed calculation); Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028 lists 2028-04-14",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "announced each year",
-   "whatItMarks": "Traditional Khmer new year.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The traditional Khmer new year at the end of the dry-season harvest; families visit temples, make offerings to ancestors and monks, build sand hills and play traditional games.",
+   "howCelebratedInMinnesota": "At Watt Munisotaram (Empire Township, near Hampton) with processions and decorated halls; MNopedia shows a procession on April 16, 2016, and MPR reported the 40-acre site was bought to have room for big celebrations. In Rochester the Buddhist Support Society holds a separate weekend festival at Watt Dhamma Visudhikaram (see its own entry). University students have held their own New Year evening. No 2026 date for Watt Munisotaram was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Khmer New Year at Watt Munisotaram",
+     "place": "Watt Munisotaram, 2925 220th St. E., Empire Township (Hampton area)",
+     "link": "https://www.mnhs.org/mnopedia/search/index/watt-munisotaram",
+     "organizerDates": "Procession photographed April 16, 2016 (MNopedia); no 2026-2028 date announced on the temple's events page when checked",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Cambodian Student Association of Minnesota Khmer New Year",
+     "place": "St. Paul Student Center, University of Minnesota",
+     "link": "https://shecan.global/scholar-blogs/celebrating-cambodian-culture-with-my-minnesota-community-a-qa-with-she-can-scholar-sreytom-tim/",
+     "organizerDates": "April 7, 2018 (past example); no current date found",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Watt Munisotaram, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/watt-munisotaram",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "A new Cambodian Buddhist temple opens in Hampton, MPR News 2007",
+     "url": "https://archive.mpr.org/stories/2007/07/09/new-cambodian-buddhist-temple-opens-hampton",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cambodian New Year celebrations to take place in Rochester this weekend, KTTC",
+     "url": "https://kttc.com/2026/04/24/cambodian-new-year-celebrations-take-place-rochester-this-weekend/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Watt Munisotaram events page",
+     "url": "https://www.wattmunisotaram.org/events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "khmer--visakha-bucha",
-   "observanceKey": "visakha-bucha",
-   "name": "Visakha Bucha",
+   "id": "khmer--cambodian-new-year-celebration-rochester-buddhist-support-society",
+   "observanceKey": "cambodian-new-year-celebration-rochester-buddhist-support-society",
+   "name": "Cambodian New Year Celebration, Rochester (Buddhist Support Society)",
    "alsoKnownAs": [
-    "Vesak",
+    "Rochester Khmer New Year"
+   ],
+   "communities": [
+    "khmer"
+   ],
+   "briefLinks": [
+    {
+     "community": "khmer",
+     "title": "Cambodian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/khmer/profile.md",
+   "kind": "community festival",
+   "capsule": "Rochester's public Khmer New Year weekend at Watt Dhamma Visudhikaram: monks' blessings, parade, dance, games, food vendors.",
+   "dateRule": "Announced each year by the Buddhist Support Society; recent years fell on the last full weekend of April, after Cambodia's April 14-16 holiday, because, organizers say, farmers finish the harvest first.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-24",
+     "endDate": "2026-04-26",
+     "source": "KTTC, April 24, 2026 (Friday blessing; public Saturday-Sunday 9 a.m.-10 p.m.)",
+     "sourceUrl": "https://kttc.com/2026/04/24/cambodian-new-year-celebrations-take-place-rochester-this-weekend/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Khmer New Year, celebrated by Rochester's Cambodian Buddhist community.",
+   "howCelebratedInMinnesota": "Friday blessing by monks; public days open with a blessing and rice offering, then a parade with a Cambodian dance group, the passing of the New Year angel, live bands, games and more than 20 food and merchandise vendors (2026, KTTC). In 2025 (April 25-27) the program included food offerings to ancestors, sand hills, chanting, lunch for Buddhist followers, games, a blessing dance and the signing of a sister-city pact with Tboung Khmum Province (KIMT; KROC).",
+   "minnesotaEvents": [
+    {
+     "name": "Cambodian New Year Celebration 2026",
+     "place": "Watt Dhamma Visudhikaram, 4462 29th St. SE, Rochester",
+     "link": "https://kttc.com/2026/04/24/cambodian-new-year-celebrations-take-place-rochester-this-weekend/",
+     "organizerDates": "April 24-26, 2026 (public days April 25-26, 9 a.m.-10 p.m.)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Cambodian New Year Celebration 2025",
+     "place": "4462 29th St. SE, Rochester",
+     "link": "https://www.kimt.com/news/local/rochester-welcomes-cambodian-sister-city-during-new-year-celebration/article_35512cb7-d4e7-4e87-8100-79262b34315f.html",
+     "organizerDates": "April 25-27, 2025",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "KTTC, April 24, 2026",
+     "url": "https://kttc.com/2026/04/24/cambodian-new-year-celebrations-take-place-rochester-this-weekend/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "KIMT, Rochester welcomes Cambodian Sister City",
+     "url": "https://www.kimt.com/news/local/rochester-welcomes-cambodian-sister-city-during-new-year-celebration/article_35512cb7-d4e7-4e87-8100-79262b34315f.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "KROC, Rochester is entering into new sister city relationship",
+     "url": "https://krocnews.com/rochester-is-entering-into-new-sister-city-relationship/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "khmer--visakha-bochea-vesak",
+   "observanceKey": "visakha-bucha",
+   "name": "Visakha Bochea (Vesak)",
+   "alsoKnownAs": [
+    "Visakha Bucha",
+    "Visakha Puja",
     "Buddha Day"
    ],
    "communities": [
@@ -13960,8 +14083,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/khmer/profile.md",
    "kind": "religious",
-   "capsule": "Birth, enlightenment and death of the Buddha in Theravada tradition.",
-   "dateRule": "Full moon of the sixth lunar month in the Thai and Cambodian calendars, usually in May; temples may choose a nearby weekend.",
+   "capsule": "Theravada holy day for the Buddha's birth, enlightenment and death, marked with evening processions at Watt Munisotaram.",
+   "dateRule": "Full moon of the sixth lunar month (usually May); the Cambodian and Thai calendars can differ in years with an added lunar month, and temples may choose a nearby weekend. Seed dates follow the Thai calendar.",
    "dates": [
     {
      "year": 2026,
@@ -13983,23 +14106,39 @@
      "year": 2028,
      "date": "2028-05-08",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-05-08",
+     "source": "Calculated with python-holidays 0.107 (seed calculation); CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-05-08",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Birth, enlightenment and death of the Buddha in Theravada tradition.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The birth, enlightenment and death of the Buddha in Theravada tradition.",
+   "howCelebratedInMinnesota": "MNopedia records Visakha Puja at Watt Munisotaram, with a procession and celebration photographed May 20, 2016. No 2026 date was announced on the temple's site.",
+   "minnesotaEvents": [
+    {
+     "name": "Visakha Puja at Watt Munisotaram",
+     "place": "Watt Munisotaram, Empire Township",
+     "link": "https://www.mnhs.org/mnopedia/search/index/watt-munisotaram",
+     "organizerDates": "May 20, 2016 (past example); no current date found",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Watt Munisotaram, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/watt-munisotaram",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "khmer--cambodian-genocide-remembrance-april-17",
+   "id": "khmer--cambodian-genocide-remembrance-day",
    "observanceKey": "cambodian-genocide-remembrance-april-17",
-   "name": "Cambodian Genocide Remembrance (April 17)",
-   "alsoKnownAs": [],
+   "name": "Cambodian Genocide Remembrance Day",
+   "alsoKnownAs": [
+    "April 17"
+   ],
    "communities": [
     "khmer"
    ],
@@ -14012,47 +14151,59 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/khmer/profile.md",
    "kind": "remembrance",
-   "capsule": "The Khmer Rouge takeover of Phnom Penh on April 17, 1975.",
-   "dateRule": "April 17.",
+   "capsule": "April 17 recalls the Khmer Rouge seizure of Phnom Penh in 1975 and the nearly 2 million people killed by 1979.",
+   "dateRule": "April 17 each year.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-17",
      "endDate": null,
-     "source": "United States Holocaust Memorial Museum, Day One: April 17, 1975",
-     "sourceUrl": "https://www.ushmm.org/genocide-prevention/countries/cambodia/day-one",
+     "source": "Fixed date; H.Res. 338 (119th Congress)",
+     "sourceUrl": "https://www.congress.gov/119/bills/hres338/BILLS-119hres338ih.htm",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-04-17",
      "endDate": null,
-     "source": "United States Holocaust Memorial Museum, Day One: April 17, 1975",
-     "sourceUrl": "https://www.ushmm.org/genocide-prevention/countries/cambodia/day-one",
+     "source": "Fixed date; H.Res. 338",
+     "sourceUrl": "https://www.congress.gov/119/bills/hres338/BILLS-119hres338ih.htm",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-04-17",
      "endDate": null,
-     "source": "United States Holocaust Memorial Museum, Day One: April 17, 1975",
-     "sourceUrl": "https://www.ushmm.org/genocide-prevention/countries/cambodia/day-one",
+     "source": "Fixed date; H.Res. 338",
+     "sourceUrl": "https://www.congress.gov/119/bills/hres338/BILLS-119hres338ih.htm",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The Khmer Rouge takeover of Phnom Penh on April 17, 1975.",
+   "whatItMarks": "The Khmer Rouge takeover of Phnom Penh on April 17, 1975, and the genocide that followed until January 1979.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "H.Res. 338, Cambodian Genocide Remembrance Day, U.S. House",
+     "url": "https://www.congress.gov/119/bills/hres338/BILLS-119hres338ih.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Sahan Journal, Nov. 17, 2025",
+     "url": "https://sahanjournal.com/immigration/cambodian-americans-fifty-year-anniversary/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "khmer--pchum-ben",
    "observanceKey": "pchum-ben",
    "name": "Pchum Ben",
    "alsoKnownAs": [
-    "Ancestors' Day"
+    "Ancestors' Day",
+    "Pchum Binda"
    ],
    "communities": [
     "khmer"
@@ -14066,8 +14217,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/khmer/profile.md",
    "kind": "religious",
-   "capsule": "The fortnight when families make offerings for the dead.",
-   "dateRule": "Last of fifteen days at the end of the Khmer lunar month Photrobot, usually September or October.",
+   "capsule": "Two weeks of offerings and prayers for ancestral spirits, ending in the main Pchum Ben day in September or October.",
+   "dateRule": "Last of fifteen days at the end of the Khmer lunar month Photrobot (Bhadrapada), usually September or October; the main day is the 15th day.",
    "dates": [
     {
      "year": 2026,
@@ -14089,23 +14240,30 @@
      "year": 2028,
      "date": "2028-09-17",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2028 lists 2028-10-07; Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028 lists 2028-09-17",
+     "source": "Calculated with python-holidays 0.107 (seed calculation); CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2028 lists 2028-10-07; Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028 lists 2028-09-17",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "The fortnight when families make offerings for the dead.",
+   "whatItMarks": "The end of a two-week period of offerings and prayers to ancestral spirits, following the lunar calendar.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Pchum Ben Day, Tuol Sleng Genocide Museum",
+     "url": "https://tuolsleng.gov.kh/en/?p=602",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "khmer--makha-bucha",
+   "id": "khmer--meak-bochea-magha-puja",
    "observanceKey": "makha-bucha",
-   "name": "Makha Bucha",
+   "name": "Meak Bochea (Magha Puja)",
    "alsoKnownAs": [
+    "Makha Bucha",
     "Magha Puja"
    ],
    "communities": [
@@ -14120,8 +14278,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/khmer/profile.md",
    "kind": "religious",
-   "capsule": "A Theravada Buddhist holy day.",
-   "dateRule": "Full moon of the third lunar month, usually February or March.",
+   "capsule": "Theravada holy day recalling 1,250 disciples gathering before the Buddha; candlelit processions at Watt Munisotaram.",
+   "dateRule": "Full moon of the third lunar month, usually February or March; temples may hold it on the nearest weekend.",
    "dates": [
     {
      "year": 2026,
@@ -14143,24 +14301,40 @@
      "year": 2028,
      "date": "2028-02-10",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-02-10",
+     "source": "Calculated with python-holidays 0.107 (seed calculation); CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-02-10",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "A Theravada Buddhist holy day.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The gathering of 1,250 of the Buddha's first disciples and the setting of rules for the community, as the AP described it.",
+   "howCelebratedInMinnesota": "In early February 2023 (the weekend of Feb. 4), dozens in white joined a candlelit procession led by monks past the altar at Watt Munisotaram, with children carrying U.S., Cambodian and Buddhist flags, followed by two hours of chanting in Khmer (AP).",
+   "minnesotaEvents": [
+    {
+     "name": "Magha Puja at Watt Munisotaram",
+     "place": "Watt Munisotaram, Hampton area",
+     "link": "https://www.cbsnews.com/minnesota/news/minnesota-buddhist-temple-opens-up-sacred-dance-troupe/",
+     "organizerDates": "Early February 2023 (past example); no current date found",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "AP via CBS Minnesota, 2023",
+     "url": "https://www.cbsnews.com/minnesota/news/minnesota-buddhist-temple-opens-up-sacred-dance-troupe/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "khmer--asanha-bucha-and-start-of-buddhist-lent",
+   "id": "khmer--asanha-bochea-and-start-of-buddhist-lent-chol-vassa",
    "observanceKey": "asanha-bucha-and-start-of-buddhist-lent",
-   "name": "Asanha Bucha and start of Buddhist Lent",
+   "name": "Asanha Bochea and start of Buddhist Lent (Chol Vassa)",
    "alsoKnownAs": [
-    "Khao Phansa"
+    "Asanha Bucha",
+    "Khao Phansa",
+    "Vassa"
    ],
    "communities": [
     "khmer"
@@ -14174,8 +14348,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/khmer/profile.md",
    "kind": "religious",
-   "capsule": "The Buddha's first sermon, and the start of the three-month rains retreat.",
-   "dateRule": "Full moon of the eighth lunar month, usually July; the rains retreat starts the next day.",
+   "capsule": "Full-moon holy day for the Buddha's first sermon; the next day begins monks' three-month rains retreat.",
+   "dateRule": "Full moon of the eighth lunar month, usually July; the rains retreat starts the next day. Seed dates follow the Thai calendar.",
    "dates": [
     {
      "year": 2026,
@@ -14197,17 +14371,107 @@
      "year": 2028,
      "date": "2028-07-06",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-07-07; Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028 lists 2028-07-06",
+     "source": "Calculated with python-holidays 0.107 (seed calculation); CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-07-07; Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028 lists 2028-07-06",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "The Buddha's first sermon, and the start of the three-month rains retreat.",
+   "whatItMarks": "The Buddha's first sermon and the start of the three-month rains retreat.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
    "sources": []
+  },
+  {
+   "id": "khmer--cambodian-heritage-day-minnesota",
+   "observanceKey": "cambodian-heritage-day-minnesota",
+   "name": "Cambodian Heritage Day (Minnesota)",
+   "alsoKnownAs": [
+    "CHD"
+   ],
+   "communities": [
+    "khmer"
+   ],
+   "briefLinks": [
+    {
+     "community": "khmer",
+     "title": "Cambodian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/khmer/profile.md",
+   "kind": "community festival",
+   "capsule": "Cambodian American Partnership of Minnesota's day of classical dance, music, exhibits and Khmer food; held in 2023 and 2025.",
+   "dateRule": "Set by the Cambodian American Partnership of Minnesota; held Saturday, Sept. 23, 2023 and Saturday, Sept. 27, 2025. Not necessarily annual.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Cambodian heritage and, in 2025, 50 years of Cambodians in Minnesota.",
+   "howCelebratedInMinnesota": "2023 at the Minnesota History Center, St. Paul, with dance, a fashion show, food and artifacts. 2025 at 1300 W. 106th St., Bloomington (Oak Grove Middle School): more than 900 guests, 41 vendors, 100 volunteers, blessings from Watt Munisotaram monks and a pastor, Wattanak and Romdoul dance troupes, and a proclamation from Gov. Tim Walz.",
+   "minnesotaEvents": [
+    {
+     "name": "Cambodian Heritage Day 2025",
+     "place": "1300 W. 106th St., Bloomington",
+     "link": "https://www.capmn.org/chd-2025",
+     "organizerDates": "Saturday, Sept. 27, 2025, performances from 1 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Cambodian Heritage Day 2023",
+     "place": "Minnesota History Center, St. Paul",
+     "link": "https://asiamattersforamerica.org/articles/first-annual-cambodian-heritage-day-showcases-minnesotas-cambodian-community",
+     "organizerDates": "Sept. 23, 2023",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CHD 2025, CAPMN",
+     "url": "https://www.capmn.org/chd-2025",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "City of Bloomington, Feb. 4, 2026",
+     "url": "https://www.bloomingtonmn.gov/node/18736",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Asia Matters for America, 2023",
+     "url": "https://asiamattersforamerica.org/articles/first-annual-cambodian-heritage-day-showcases-minnesotas-cambodian-community",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "KAAL, 2023",
+     "url": "https://www.kaaltv.com/uncategorized/minnesota-history-center-host-cambodian-heritage-day/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "korean--seollal",
