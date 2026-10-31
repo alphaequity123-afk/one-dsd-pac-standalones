@@ -15,7 +15,7 @@
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): burmese, bosnian, ukrainian, russian-speaking now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): burmese, bosnian, ukrainian, russian-speaking, arabic-speaking, lebanese now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -25,7 +25,7 @@ ethiopian, oromo, vietnamese, indian and rural are finished, and nothing is stil
 
 ## Not started
 
-amharic, american, arabic-speaking, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, european-american, french, guatemalan, kenyan, lebanese, liberian, minnesota, nigerian, puerto-rican, salvadoran.
+amharic, american, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, european-american, french, guatemalan, kenyan, liberian, minnesota, nigerian, puerto-rican, salvadoran.
 
 ## Still to do on the calendar
 
