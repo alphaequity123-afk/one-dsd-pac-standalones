@@ -39,7 +39,7 @@
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "The end of one rice harvest and the start of the next; KOM calls it the largest celebration in the Karen community. Organizers number the years, with 2766 being the January 2027 gathering.",
-   "howCelebratedInMinnesota": "A large free public gathering in St. Paul, with Karen and U.S. flag salutes, speeches, singing and dance, games, prizes and a shared noon meal. Recent gatherings were at Washington Technology Magnet School. In January 2010 more than a thousand people came to Roseville Lutheran Church. No listing was found for Worthington, Austin or Albert Lea.",
+   "howCelebratedInMinnesota": "A large free public gathering in St. Paul, with Karen and U.S. flag salutes, speeches, singing and dance, sports tournaments, a resource fair, games, prizes and a shared meal; recent gatherings were at Washington Technology Magnet School. In January 2010 more than a thousand people came to Roseville Lutheran Church. Greater Minnesota holds its own: Albert Lea at Southwest Middle School (January 2018) and Albert Lea High School (December 2025, several hundred people, with the mayor and superintendent), and Worthington's Karen Community at St. Mary's School on Jan. 1, 2024. No Austin gathering was found.",
    "minnesotaEvents": [
     {
      "name": "Karen New Year Celebration 2766",
@@ -54,9 +54,37 @@
      "link": "https://mnkaren.org/event/karen-new-year-2765/",
      "organizerDates": "Jan. 1, 2026, 10 a.m. to 4 p.m. (held)",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Karen Traditional New Year Celebration 2764",
+     "place": "Washington Technology Magnet School, 1495 Rice St., St. Paul",
+     "link": "https://mnkaren.org/event/karen-new-year-2764/2025-01-04/",
+     "organizerDates": "Jan. 4-5, 2025 (held): sports tournament and concert Saturday, main ceremony and resource fair Sunday. Organizing committee: Karen Culture Organization of Minnesota, Karen Community of Minnesota, Karen Buddhist Association of Minnesota, KOM.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Karen New Year celebration, Albert Lea",
+     "place": "Albert Lea High School, Albert Lea",
+     "link": "https://www.albertleatribune.com/news/karen-new-year-celebration-brings-music-culture-fun-639a96a9",
+     "organizerDates": "A Saturday in December 2025 (held), as reported Dec. 22, 2025; an editorial of Dec. 26, 2025 placed it 'last weekend'. Exact date not stated in the reports.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Karen New Year celebration, Albert Lea",
+     "place": "Southwest Middle School, Albert Lea",
+     "link": "https://www.albertleatribune.com/news/celebrating-a-new-year-686123/",
+     "organizerDates": "A Saturday in January 2018 (held), as reported Jan. 15, 2018.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Karen New Year, Karen Community of Worthington",
+     "place": "St. Mary's School, Worthington",
+     "link": "https://www.dglobe.com/news/local/karen-people-of-southwest-minnesota-celebrate-the-new-year",
+     "organizerDates": "Monday, Jan. 1, 2024 (held).",
+     "dateChecked": "2026-10-31"
     }
    ],
-   "workplaceNote": null,
+   "workplaceNote": "The chairman of the Karen Community of Worthington told The Globe (Jan. 2, 2024) that the holiday belongs on the first moon of January, but the community holds it on Jan. 1 because everyone has to work and that day is a holiday for all.",
    "sources": [
     {
      "title": "Celebrations",
@@ -87,6 +115,31 @@
      "title": "Karen celebrate Year 2749, and a decade in Minnesota",
      "url": "https://www.mprnews.org/story/2010/01/11/karen-myanmar-burma-new-year",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen Traditional New Year Celebration 2764",
+     "url": "https://mnkaren.org/event/karen-new-year-2764/2025-01-04/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Karen New Year celebration brings music, culture, fun",
+     "url": "https://www.albertleatribune.com/news/karen-new-year-celebration-brings-music-culture-fun-639a96a9",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Editorial: Tribune Thumbs",
+     "url": "https://www.albertleatribune.com/opinion/editorial-tribune-thumbs-6c17cfbb",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrating a new year",
+     "url": "https://www.albertleatribune.com/news/celebrating-a-new-year-686123/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Karen people of southwest Minnesota celebrate the new year",
+     "url": "https://www.dglobe.com/news/local/karen-people-of-southwest-minnesota-celebrate-the-new-year",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -128,7 +181,7 @@
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "The end of one rice harvest and the start of the next; KOM calls it the largest celebration in the Karen community. Organizers number the years, with 2766 being the January 2027 gathering.",
-   "howCelebratedInMinnesota": "A large free public gathering in St. Paul, with Karen and U.S. flag salutes, speeches, singing and dance, games, prizes and a shared noon meal. Recent gatherings were at Washington Technology Magnet School. In January 2010 more than a thousand people came to Roseville Lutheran Church. No listing was found for Worthington, Austin or Albert Lea.",
+   "howCelebratedInMinnesota": "A large free public gathering in St. Paul, with Karen and U.S. flag salutes, speeches, singing and dance, sports tournaments, a resource fair, games, prizes and a shared meal. Recent gatherings were at Washington Technology Magnet School. Albert Lea and Worthington hold separate gatherings (see their entries).",
    "minnesotaEvents": [
     {
      "name": "Karen New Year Celebration 2766",
@@ -143,6 +196,13 @@
      "link": "https://mnkaren.org/event/karen-new-year-2765/",
      "organizerDates": "Jan. 1, 2026, 10 a.m. to 4 p.m. (held)",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Karen Traditional New Year Celebration 2764",
+     "place": "Washington Technology Magnet School, 1495 Rice St., St. Paul",
+     "link": "https://mnkaren.org/event/karen-new-year-2764/2025-01-04/",
+     "organizerDates": "Jan. 4-5, 2025 (held): sports tournament and concert Saturday, main ceremony and resource fair Sunday. Organizing committee: Karen Culture Organization of Minnesota, Karen Community of Minnesota, Karen Buddhist Association of Minnesota, KOM.",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -156,6 +216,11 @@
      "title": "Karen New Year 2765",
      "url": "https://mnkaren.org/event/karen-new-year-2765/",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen Traditional New Year Celebration 2764",
+     "url": "https://mnkaren.org/event/karen-new-year-2764/2025-01-04/",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -491,7 +556,7 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Birth of Jesus, for Karen Christians.",
-   "howCelebratedInMinnesota": "Named generally by the state health toolkit. In 2009, Karen members of Indian Lake Baptist Church in Worthington asked to go caroling and sing for other churches. No current dated Minnesota event was found.",
+   "howCelebratedInMinnesota": "Named generally by the state health toolkit. In 2009, Karen members of Indian Lake Baptist Church in Worthington asked to go caroling. In 2026 a youth leader at Zion Karen Baptist Church in Albert Lea said the church goes caroling each December to all of its families. No dated public Minnesota event was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
    "sources": [
@@ -504,6 +569,11 @@
      "title": "Karen find spiritual home at Indian Lake Baptist",
      "url": "https://www.dglobe.com/news/people-of-god-karen-find-spiritual-home-at-indian-lake-baptist",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "'I want to be someone who people can count on'",
+     "url": "https://www.albertleatribune.com/news/i-want-to-be-someone-who-people-can-count-on-woman-aims-to-serve-the-karen-community-in-any-way-she-can-823002de",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -655,6 +725,135 @@
      "title": "Karen Culture Organization of Minnesota events",
      "url": "https://karenculture.org/events",
      "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Karen New Year gathering in Albert Lea",
+   "alsoKnownAs": [
+    "Karen New Year celebration, Albert Lea"
+   ],
+   "kind": "community festival",
+   "capsule": "Albert Lea's own Karen New Year, with dance, church songs, sports and a concert at local schools.",
+   "dateRule": "Held on a weekend chosen locally near the Karen New Year, usually in December or January; dates are reported rather than announced in advance on any page found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "The gathering for this New Year season was held on a Saturday in December 2025 (Albert Lea Tribune, Dec. 22, 2025); exact date not stated.",
+     "sourceUrl": "https://www.albertleatribune.com/news/karen-new-year-celebration-brings-music-culture-fun-639a96a9",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced when checked",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced when checked",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of the Karen year and the end of the harvest; the Albert Lea Tribune described honoring ancestors and giving thanks for the past harvest.",
+   "howCelebratedInMinnesota": "At Albert Lea High School in December 2025: several hundred people, speeches by the mayor and superintendent and a Karen Organization of America speaker, dance by the Karen Culture Organization of Minnesota and local groups, songs by Zion Karen Baptist Church, Karen Christian Revival Church and an elders center, a youth show on clothing and instruments, sports, resource tables and an evening concert. Earlier, in January 2018, at Southwest Middle School.",
+   "minnesotaEvents": [
+    {
+     "name": "Karen New Year celebration, Albert Lea",
+     "place": "Albert Lea High School, Albert Lea",
+     "link": "https://www.albertleatribune.com/news/karen-new-year-celebration-brings-music-culture-fun-639a96a9",
+     "organizerDates": "A Saturday in December 2025 (held), as reported Dec. 22, 2025; an editorial of Dec. 26, 2025 placed it 'last weekend'. Exact date not stated in the reports.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Karen New Year celebration, Albert Lea",
+     "place": "Southwest Middle School, Albert Lea",
+     "link": "https://www.albertleatribune.com/news/celebrating-a-new-year-686123/",
+     "organizerDates": "A Saturday in January 2018 (held), as reported Jan. 15, 2018.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Karen New Year celebration brings music, culture, fun",
+     "url": "https://www.albertleatribune.com/news/karen-new-year-celebration-brings-music-culture-fun-639a96a9",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Editorial: Tribune Thumbs",
+     "url": "https://www.albertleatribune.com/opinion/editorial-tribune-thumbs-6c17cfbb",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrating a new year",
+     "url": "https://www.albertleatribune.com/news/celebrating-a-new-year-686123/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Karen New Year gathering in Worthington",
+   "alsoKnownAs": [
+    "Karen Community of Worthington New Year"
+   ],
+   "kind": "community festival",
+   "capsule": "The Karen Community of Worthington's New Year, held on Jan. 1 so working families can attend.",
+   "dateRule": "In 2024 the Karen Community of Worthington held it on Jan. 1 because that day is a holiday for everyone; future dates were not announced on any page found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced when checked",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced when checked",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The Karen New Year, which the community's chairman said belongs on the first moon of January.",
+   "howCelebratedInMinnesota": "On Jan. 1, 2024 at St. Mary's School: music, dance, storytelling, food, a song on the Karen harp, and a plaque for the mayor. Buddhists and Christians attended together, with people from Brewster, Round Lake, Fulda and former residents now in Austin. Its vice president said the 2023 gathering was the first in several years.",
+   "minnesotaEvents": [
+    {
+     "name": "Karen New Year, Karen Community of Worthington",
+     "place": "St. Mary's School, Worthington",
+     "link": "https://www.dglobe.com/news/local/karen-people-of-southwest-minnesota-celebrate-the-new-year",
+     "organizerDates": "Monday, Jan. 1, 2024 (held).",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": "The chairman of the Karen Community of Worthington told The Globe (Jan. 2, 2024) that the holiday belongs on the first moon of January, but the community holds it on Jan. 1 because everyone has to work and that day is a holiday for all.",
+   "sources": [
+    {
+     "title": "Karen people of southwest Minnesota celebrate the new year",
+     "url": "https://www.dglobe.com/news/local/karen-people-of-southwest-minnesota-celebrate-the-new-year",
+     "dateChecked": "2026-10-31"
     }
    ]
   }

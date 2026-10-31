@@ -578,7 +578,7 @@
   "publisher": "Minnesota Compass, Wilder Research",
   "url": "https://www.mncompass.org/topics/demographics/cultural-communities/burmese",
   "dateChecked": "2026-10-30",
-  "usedFor": "Karen Minnesota profile, business list, calendar or corrections"
+  "usedFor": "Karen Minnesota profile, business list, calendar or corrections; disability figures rechecked Oct. 31, 2026"
  },
  {
   "title": "mn now minnesota licenses first ever karen language teacher",
@@ -635,5 +635,313 @@
   "url": "https://www.wilder.org/wp-content/uploads/2025/08/SBMH_ThayGeMoo_Report_10-23.pdf",
   "dateChecked": "2026-10-30",
   "usedFor": "Karen Minnesota profile, business list, calendar or corrections"
+ },
+ {
+  "title": "Refugee Health Statistics",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/rih/stats/index.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Definition of primary and secondary refugees; data groupings; lead data not by country"
+ },
+ {
+  "title": "Primary Refugee Arrivals by Country of Origin and County (CSV)",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/rih/stats/country.csv",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Yearly primary arrivals from Burma, 1999-2024, and county of first resettlement"
+ },
+ {
+  "title": "Minnesota Refugee Health Report 2025",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/rih/stats/25rhrpt.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "38 arrivals from Burma in 2025; statewide child lead screening results"
+ },
+ {
+  "title": "Refugee and International Health Quarterly, April 2019",
+  "publisher": "Minnesota Department of Health (GovDelivery)",
+  "url": "https://content.govdelivery.com/accounts/MNMDH/bulletins/23d26bd",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Lead project findings on refugees from Burma; Karen domestic violence video"
+ },
+ {
+  "title": "Karen (S'gaw Karen) Translated Materials",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/translation/karen.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Topics of Karen-language health materials, including lead; no disability-specific item"
+ },
+ {
+  "title": "English Learners in Minnesota 2024-25",
+  "publisher": "Minnesota Department of Education, via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2026/other/261381.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Karen home-language and English learner counts statewide and by county; dual EL and special education reported only for all languages"
+ },
+ {
+  "title": "The importance of data disaggregation for Minnesota's Asian communities",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-asian-communities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Census recodes Karen answers as Burmese"
+ },
+ {
+  "title": "Search results for karen",
+  "publisher": "PACER Center",
+  "url": "https://www.pacer.org/?s=karen",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Current site search shows no Karen results; older translation pages not found"
+ },
+ {
+  "title": "Celebrating a new year",
+  "publisher": "Albert Lea Tribune",
+  "url": "https://www.albertleatribune.com/news/celebrating-a-new-year-686123/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Karen New Year at Southwest Middle School, January 2018"
+ },
+ {
+  "title": "Karen New Year celebration brings music, culture, fun",
+  "publisher": "Albert Lea Tribune",
+  "url": "https://www.albertleatribune.com/news/karen-new-year-celebration-brings-music-culture-fun-639a96a9",
+  "dateChecked": "2026-10-31",
+  "usedFor": "December 2025 New Year at Albert Lea High School"
+ },
+ {
+  "title": "Editorial: Tribune Thumbs",
+  "publisher": "Albert Lea Tribune",
+  "url": "https://www.albertleatribune.com/opinion/editorial-tribune-thumbs-6c17cfbb",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Dec. 26, 2025 editorial on the New Year 'last weekend'"
+ },
+ {
+  "title": "'I want to be someone who people can count on'",
+  "publisher": "Albert Lea Tribune",
+  "url": "https://www.albertleatribune.com/news/i-want-to-be-someone-who-people-can-count-on-woman-aims-to-serve-the-karen-community-in-any-way-she-can-823002de",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Zion Karen Baptist Church 250 households; youth and language; success coach career"
+ },
+ {
+  "title": "Karen church gives building same purpose but different congregation",
+  "publisher": "Albert Lea Tribune",
+  "url": "https://www.albertleatribune.com/news/karen-church-gives-building-same-purpose-but-different-congregation-713625/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Zion Karen Baptist Church history, Select Foods jobs, tax help, gardens"
+ },
+ {
+  "title": "Man breaking down barriers for Albert Lea's Karen youth",
+  "publisher": "Albert Lea Tribune",
+  "url": "https://www.albertleatribune.com/news/man-breaking-down-barriers-for-albert-leas-karen-youth-788309/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Karen success coaches; police reserves interpreter"
+ },
+ {
+  "title": "Public Health hires community health worker to assist Karen residents",
+  "publisher": "Albert Lea Tribune",
+  "url": "https://www.albertleatribune.com/news/public-health-hires-community-health-worker-to-assist-karen-residents-786977/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Freeborn County Karen community health worker; arrivals since 2008"
+ },
+ {
+  "title": "'Our hearts are broken'",
+  "publisher": "Albert Lea Tribune",
+  "url": "https://www.albertleatribune.com/news/our-hearts-are-broken-704665/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2018 estimate of about 300 Karen workers at Select Foods"
+ },
+ {
+  "title": "Welcome Center staff: More people needing services as Asian population is booming",
+  "publisher": "Austin Daily Herald",
+  "url": "https://www.austindailyherald.com/news/welcome-center-staff-more-people-needing-services-as-asian-population-is-booming-622101",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Austin Welcome Center counts, 2014"
+ },
+ {
+  "title": "Karen people of southwest Minnesota celebrate the new year",
+  "publisher": "The Globe (Worthington)",
+  "url": "https://www.dglobe.com/news/local/karen-people-of-southwest-minnesota-celebrate-the-new-year",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Worthington Karen New Year Jan. 1, 2024; Karen Community of Worthington"
+ },
+ {
+  "title": "Religious Karen leaders congregate in Worthington",
+  "publisher": "The Globe (Worthington)",
+  "url": "https://www.dglobe.com/news/religious-karen-leaders-congregate-in-worthington",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2012 regional Karen Baptist meeting"
+ },
+ {
+  "title": "New life breathed into Rushmore church by Karen community",
+  "publisher": "The Globe (Worthington)",
+  "url": "https://www.dglobe.com/news/local/new-life-breathed-into-rushmore-church-by-karen-community",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Worthington Karen Baptist Church opening, Nov. 2023"
+ },
+ {
+  "title": "King Turkey Day brings fun and a win to Worthington",
+  "publisher": "The Globe (Worthington)",
+  "url": "https://www.dglobe.com/news/local/king-turkey-day-brings-fun-and-a-win-to-worthington",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Karen community in Sept. 19, 2026 parade"
+ },
+ {
+  "title": "31st annual International Festival schedule of events",
+  "publisher": "The Globe (Worthington)",
+  "url": "https://www.dglobe.com/news/local/31st-annual-international-festival-schedule-of-events",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Karen Community Performers, July 12, 2025"
+ },
+ {
+  "title": "Karen family finds peace, happiness in southwest Minnesota",
+  "publisher": "The Globe (Worthington)",
+  "url": "https://www.dglobe.com/community/karen-family-finds-peace-happiness-in-southwest-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "First Karen families in Worthington 2008; over 35 families in 2014; Karen store"
+ },
+ {
+  "title": "Karen story 'Muyehpen' coming to Memorial Auditorium",
+  "publisher": "The Globe (Worthington)",
+  "url": "https://www.dglobe.com/news/local/karen-story-muyehpen-coming-to-memorial-auditorium",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Muyehpen in Worthington, May 4, 2025"
+ },
+ {
+  "title": "Muyehpen by Ehkhudah Zar Set for Oct. 30",
+  "publisher": "Southwest Minnesota State University",
+  "url": "https://www.smsu.edu/today/articles/2023/10-16-2023_muyehpen-presentation.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Muyehpen scenes in Marshall, Oct. 30, 2023"
+ },
+ {
+  "title": "Muyehpen: A Live Performance",
+  "publisher": "Minnesota Historical Society",
+  "url": "https://www.mnhs.org/events/46004010808",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Muyehpen at Minnesota History Center, April 17, 2026"
+ },
+ {
+  "title": "What does it mean to be Karen?",
+  "publisher": "ThreeSixty Journalism, University of St. Thomas",
+  "url": "https://threesixty.stthomas.edu/what-does-it-mean-to-be-karen-student-shares-her-experience-as-member-of-ethnic-group/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Karen student in Roseville schools; changing roles"
+ },
+ {
+  "title": "The Karen People",
+  "publisher": "Dakota County Technical College News",
+  "url": "https://blogs.dctc.edu/dctc-news/2018/12/19/the-karen-people/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Karen automotive students, 2018"
+ },
+ {
+  "title": "Ed.D. Student Seeks To Advance Refugee Education",
+  "publisher": "Bethel University",
+  "url": "https://www.bethel.edu/news/articles/2017/october/hsajune-dyan",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hsajune Dyan, Karen cultural specialist, KOM board chair, Bush Fellow"
+ },
+ {
+  "title": "Capstone project has Paw Ler Shwe reflecting on his roots",
+  "publisher": "Med City Beat",
+  "url": "https://www.medcitybeat.com/partnered/2021/capstone-project-has-paw-ler-shwe-reflecting-on-his-roots",
+  "dateChecked": "2026-10-31",
+  "usedFor": "University of Minnesota Rochester Karen student tutoring"
+ },
+ {
+  "title": "New Lives in the Midwest",
+  "publisher": "Rootstalk, Grinnell College",
+  "url": "https://rootstalk.grinnell.edu/issues/volume-ix-issue-1/sang-sang/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "St. Paul ESL teacher on Karen students, 2023"
+ },
+ {
+  "title": "Karen History",
+  "publisher": "Karen Organization of Minnesota",
+  "url": "https://mnkaren.org/history-culture/karen-history/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Colonial, war and independence background"
+ },
+ {
+  "title": "Art",
+  "publisher": "Karen Organization of Minnesota",
+  "url": "https://mnkaren.org/history-culture/karen-culture/art/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Flag, don dance, bamboo dance"
+ },
+ {
+  "title": "Communication",
+  "publisher": "Karen Organization of Minnesota",
+  "url": "https://mnkaren.org/history-culture/karen-culture/communication/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Languages, script, manners"
+ },
+ {
+  "title": "Education",
+  "publisher": "Karen Organization of Minnesota",
+  "url": "https://mnkaren.org/history-culture/karen-culture/education/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Schooling in Burma and camps"
+ },
+ {
+  "title": "Food",
+  "publisher": "Karen Organization of Minnesota",
+  "url": "https://mnkaren.org/history-culture/karen-culture/food/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Meals and seasonings"
+ },
+ {
+  "title": "Karen Traditional New Year Celebration 2764",
+  "publisher": "Karen Organization of Minnesota",
+  "url": "https://mnkaren.org/event/karen-new-year-2764/2025-01-04/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Jan. 4-5, 2025 New Year in St. Paul"
+ },
+ {
+  "title": "Events list (upcoming)",
+  "publisher": "Karen Organization of Minnesota",
+  "url": "https://mnkaren.org/events/list/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Upcoming events through January 2027"
+ },
+ {
+  "title": "Peace process needs to be inclusive",
+  "publisher": "Bangkok Post (Nehginpao Kipgen)",
+  "url": "https://www.bangkokpost.com/opinion/opinion/737432/peace-process-needs-to-be-inclusive",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Panglong 1947 signatories; Karen sent observers (background)"
+ },
+ {
+  "title": "Panglong signatories took longer time to go to war: scholar",
+  "publisher": "Burma News International",
+  "url": "https://www.bnionline.net/en/opinion/analysis/item/1978-panglong-signatories-took-longer-time-to-go-to-war-scholar.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "KNU went underground January 1949 (background)"
+ },
+ {
+  "title": "Minnesotans travel to Myanmar region to support persecuted Karen",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/episode/2021/12/08/minnesotans-travel-to-myanmar-region-to-support-persecuted-karen",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Urban Village leaders' 2021 trip"
+ },
+ {
+  "title": "Karen, refugees from Burma are finding refuge in Minnesota",
+  "publisher": "MPR News archive",
+  "url": "https://archive.mpr.org/stories/2004/08/09/karen-refugees-from-burma-are-finding",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Nearly 200 Karen arriving, August 2004"
+ },
+ {
+  "title": "An Asian array",
+  "publisher": "Marshall Independent",
+  "url": "https://www.marshallindependent.com/news/business/2017/03/an-asian-array/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Ton Kao Asian Grocery Store, Marshall, 2017"
+ },
+ {
+  "title": "Perceptions of Health, Mental Health, and Health Care Access among Immigrants and Refugees in the Twin Cities",
+  "publisher": "Wilder Research (copy hosted by National EpiNet)",
+  "url": "https://nationalepinet.org/portal/wp-content/uploads/2021/07/Wilder-Perceptions-of-Health-Mental-Health-and-Health-Care-Access-among-Immigrants-and-Refugees-in-the-Twin-Cities.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Karen respondents' self-rated health, 2015"
  }
 ]

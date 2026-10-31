@@ -872,6 +872,8 @@ A plain date has an opened source stating it. "About" means the day is not yet c
 - **Obon** (Japanese Minnesota): Mid-July or mid-August depending on region and temple in Japan. Minnesota dates are set by each organizer; see the separate Como Park Obon Festival entry.
 - **Buddhist New Year / Water Festival** (Karen Minnesota): Mid-April, per KOM; exact date not stated on any opened page.
 - **Novitiate Ceremony (Harris)** (Karen Minnesota): Announced by organizers; only the 2025 date was found. Whether it happens every year is not established.
+- **Karen New Year gathering in Albert Lea** (Karen Minnesota): Held on a weekend chosen locally near the Karen New Year, usually in December or January; dates are reported rather than announced in advance on any page found.
+- **Karen New Year gathering in Worthington** (Karen Minnesota): In 2024 the Karen Community of Worthington held it on Jan. 1 because that day is a holiday for everyone; future dates were not announced on any page found.
 - **Mwanyagetinge annual family picnic** (Kenyan Minnesota): Set each year by Mwanyagetinge; the 2021 picnic was in late August at Centennial Park, Brooklyn Center.
 - **Cambodian Heritage Day (Minnesota)** (Cambodian Minnesota): Set by the Cambodian American Partnership of Minnesota; held Saturday, Sept. 23, 2023 and Saturday, Sept. 27, 2025. Not necessarily annual.
 - **Boun Pha Vet (King Vessantara festival)** (Lao Minnesota): Set by each organizer; no fixed Minnesota date was found.
