@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-32 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+33 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking, colombian, ecuadorian, liberian, amharic, nigerian, kenyan, guatemalan, salvadoran.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking, colombian, ecuadorian, liberian, amharic, nigerian, kenyan, guatemalan, salvadoran, cuban.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): cuban, puerto-rican, french, deaf-deafblind-hard-of-hearing, minnesota, american, european-american now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): puerto-rican, french, deaf-deafblind-hard-of-hearing, minnesota, american, european-american now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -43,6 +43,8 @@ None of the 28 cloud communities.
 ## Blocked sources
 
 Hmong and the methods note could not open these: Star Tribune, Christian Century, the state charter school directory, Carleton's Religions in Minnesota, mn.gov pages (State Demographic Center, Department of Veterans Affairs), the University of Minnesota Conservancy, state courts, the Senate roster, Department of Education pages, and ICPSR.
+
+- Cuban could not open: Sahan Journal (too many requests), victors1959cafe.com, legacy.mn.gov, uscis.gov, cliniclegal.org, minnesotaorchestra.org, dmc.mn, periodicocubano.com, the Our Lady of Guadalupe site, and any Star Tribune article.
 
 - Salvadoran could not open: Star Tribune, KARE 11, Explore Minnesota, Yelp, Restaurantji, State Department and USCIS pages, the UMN Conservancy and Extension, and the Minneapolis City Council resolution page.
 
@@ -88,6 +90,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Cuban:** 74 opened sources; web search worked throughout. Not established: any Cuban congregation, association or media outlet in Minnesota, a breakdown of jobs or industries, any Minnesota source explaining the high disability estimate (22.7 percent, give or take 9.8), and a count of arrivals since 2017 (state health data report Cuban and Haitian entrants together). 6 of 11 businesses could not be confirmed open.
 - **Salvadoran:** 79 opened sources; web search worked throughout. Not established: any Minnesota group, congregation, festival or chamber that is Salvadoran in its own right, Salvadoran Minnesotans' religious affiliation or occupations, and the number of TPS holders in Minnesota (3,000 to 4,000 is one law professor's estimate). 10 of 15 businesses, mostly restaurants, could not be confirmed open. Día de los Reyes was dropped because nothing tied it to Salvadoran practice in Minnesota.
 - **Guatemalan:** 75 opened sources; web search worked throughout. The Twin Cities half of the community is barely documented; no Twin Cities business could be confirmed as Guatemalan-owned, so the business list (13: 9 open, 4 could not be confirmed open) is mostly Worthington. Not established: any organization founded by Guatemalan or Maya Minnesotans, any Minnesota Guatemalan Independence Day event, a count of Mam, K'iche' or other Mayan-language speakers, evangelical congregations, elders, and disability services reaching Mayan-language families.
 - **Kenyan:** 73 opened sources; web search worked throughout. Only two Kenyan-owned food businesses were found; the other 12 listings are media, congregations and associations (10 of 14 open). Not established: occupations or wealth, how many Kenya-born Minnesotans are Somali or Oromo, any Kenyan-owned professional firm, clinic or home-care agency, any study of disability among Kenyan Minnesotans, and any 2025 or 2026 Minnesota Madaraka, Mashujaa or Jamhuri Day event.

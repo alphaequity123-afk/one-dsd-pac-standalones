@@ -6031,13 +6031,12 @@
    ]
   },
   {
-   "id": "cuban--easter",
-   "observanceKey": "easter",
-   "name": "Easter",
+   "id": "cuban--anniversary-of-the-1959-revolution",
+   "observanceKey": "cuban-revolution-exile-anniversary",
+   "name": "Anniversary of the 1959 Revolution",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "Triunfo de la Revolución",
+    "January 1, 1959"
    ],
    "communities": [
     "cuban"
@@ -6049,9 +6048,517 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/cuban/profile.md",
+   "kind": "remembrance",
+   "capsule": "January 1, 1959: for some Cuban families a day of loss and exile, for others a day of history.",
+   "dateRule": "January 1 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-01",
+     "endDate": null,
+     "source": "Cuba Travel (Cuban tourism ministry site): January 1, Anniversary of the Triumph of the Cuban Revolution",
+     "sourceUrl": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-01",
+     "endDate": null,
+     "source": "Cuba Travel (Cuban tourism ministry site): January 1, Anniversary of the Triumph of the Cuban Revolution",
+     "sourceUrl": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-01",
+     "endDate": null,
+     "source": "Cuba Travel (Cuban tourism ministry site): January 1, Anniversary of the Triumph of the Cuban Revolution",
+     "sourceUrl": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Listed in Cuba as the Anniversary of the Triumph of the Cuban Revolution (1959). For Cuban American families it can mark the start of exile and loss; for others it is history.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Hours and Holidays in Cuba, Cuba Travel",
+     "url": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cubans in Minnesota ready for warmer U.S. relations (MPR News, 2014), on generational differences over Cuba policy",
+     "url": "https://www.mprnews.org/story/2014/12/18/cuba-minnesota",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "cuban--cuban-independence-day-may-20",
+   "observanceKey": "cuban-independence-may-20",
+   "name": "Cuban Independence Day (May 20)",
+   "alsoKnownAs": [
+    "20 de Mayo"
+   ],
+   "communities": [
+    "cuban"
+   ],
+   "briefLinks": [
+    {
+     "community": "cuban",
+     "title": "Cuban Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/cuban/profile.md",
+   "kind": "national",
+   "capsule": "May 20: listed as Cuban Independence Day; not among the holidays on the Cuban government's tourism site.",
+   "dateRule": "May 20 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-20",
+     "endDate": null,
+     "source": "U.S. Department of State, Office of the Historian, Cuba country page",
+     "sourceUrl": "https://history.state.gov/countries/cuba",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-20",
+     "endDate": null,
+     "source": "U.S. Department of State, Office of the Historian, Cuba country page",
+     "sourceUrl": "https://history.state.gov/countries/cuba",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-20",
+     "endDate": null,
+     "source": "U.S. Department of State, Office of the Historian, Cuba country page",
+     "sourceUrl": "https://history.state.gov/countries/cuba",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Cuba's Independence Day as listed by calendar publishers. It does not appear on the holiday list of Cuba's tourism ministry site, which lists January 1 and October 10 instead.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cuba holidays 2026, Calendarific",
+     "url": "https://calendarific.com/holidays/2026/CU",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cuba holidays 2027, Calendarific",
+     "url": "https://calendarific.com/holidays/2027/CU",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cuba holidays 2028, Calendarific",
+     "url": "https://calendarific.com/holidays/2028/CU",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Hours and Holidays in Cuba, Cuba Travel (May 20 is not on its holiday list)",
+     "url": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "cuban--grito-de-yara-october-10",
+   "observanceKey": "grito-de-yara-october-10",
+   "name": "Grito de Yara (October 10)",
+   "alsoKnownAs": [
+    "10 de Octubre"
+   ],
+   "communities": [
+    "cuban"
+   ],
+   "briefLinks": [
+    {
+     "community": "cuban",
+     "title": "Cuban Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/cuban/profile.md",
+   "kind": "national",
+   "capsule": "October 10: anniversary of the start of Cuba's wars of independence from Spain.",
+   "dateRule": "October 10 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-10",
+     "endDate": null,
+     "source": "Cuba Travel: October 10, Anniversary of the beginning of the Wars of Independence",
+     "sourceUrl": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-10",
+     "endDate": null,
+     "source": "Cuba Travel: October 10, Anniversary of the beginning of the Wars of Independence",
+     "sourceUrl": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-10",
+     "endDate": null,
+     "source": "Cuba Travel: October 10, Anniversary of the beginning of the Wars of Independence",
+     "sourceUrl": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The anniversary of the beginning of Cuba's Wars of Independence against Spain, a public holiday in Cuba.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Hours and Holidays in Cuba, Cuba Travel",
+     "url": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "cuban--our-lady-of-charity-of-el-cobre",
+   "observanceKey": "our-lady-of-charity-of-el-cobre",
+   "name": "Our Lady of Charity of El Cobre",
+   "alsoKnownAs": [
+    "La Virgen de la Caridad del Cobre",
+    "Cachita"
+   ],
+   "communities": [
+    "cuban"
+   ],
+   "briefLinks": [
+    {
+     "community": "cuban",
+     "title": "Cuban Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/cuban/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
+   "capsule": "Feast of the patroness of Cuba, honored by Cuban Catholics on September 8.",
+   "dateRule": "September 8 each year; parishes may hold Masses on a nearby weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-08",
+     "endDate": null,
+     "source": "New York Latin Culture (feast on September 8) (not an official source; date not confirmed)",
+     "sourceUrl": "https://www.newyorklatinculture.com/our-lady-of-charity-caridad-del-cobre/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-08",
+     "endDate": null,
+     "source": "New York Latin Culture (feast on September 8) (not an official source; date not confirmed)",
+     "sourceUrl": "https://www.newyorklatinculture.com/our-lady-of-charity-caridad-del-cobre/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-08",
+     "endDate": null,
+     "source": "New York Latin Culture (feast on September 8) (not an official source; date not confirmed)",
+     "sourceUrl": "https://www.newyorklatinculture.com/our-lady-of-charity-caridad-del-cobre/",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Devotion to the Virgin found, by tradition, in 1612 near the Bay of Nipe by three copper-mine workers, one an enslaved African boy; she is the patroness of Cuba.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Our Lady of Charity, Caridad del Cobre",
+     "url": "https://www.newyorklatinculture.com/our-lady-of-charity-caridad-del-cobre/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Virgen of Charity of Cobre, EWTN",
+     "url": "https://www.ewtn.com/catholicism/library/virgen-of-charity-of-cobre--la-virgen-de-la-caridad-del-cobre-8931",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Caridad de Cobre 2025, Mary, Mother of God Parish, Chicago (comparison; not Minnesota)",
+     "url": "https://www.motherofgodchicago.org/parish-news/caridad-de-cobre-2025",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "cuban--minnesota-cuban-film-festival",
+   "observanceKey": "minnesota-cuban-film-festival",
+   "name": "Minnesota Cuban Film Festival",
+   "alsoKnownAs": [
+    "MCFF",
+    "Festival de Cine Cubano de Minnesota"
+   ],
+   "communities": [
+    "cuban"
+   ],
+   "briefLinks": [
+    {
+     "community": "cuban",
+     "title": "Cuban Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/cuban/profile.md",
+   "kind": "community festival",
+   "capsule": "Yearly series of films from Cuba at The Main in Minneapolis, with discussion after each screening, held since 2010.",
+   "dateRule": "Announced each year by the Minnesota Cuba Committee and MSP Film; recent festivals ran weekly in late winter or spring for five to six weeks.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-04",
+     "endDate": "2026-04-01",
+     "source": "MSP Film festival archive (Wednesdays, March 4 to April 1, 2026)",
+     "sourceUrl": "https://mspfilm.org/series/minnesota-cuban-film-festival/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Cuban cinema and culture, and cultural exchange between Minnesota and Cuba.",
+   "howCelebratedInMinnesota": "Weekly evening screenings at The Main Cinema in Minneapolis with discussion afterward. The 17th festival in 2026 closed with a documentary on Cuban music, a performance by singer Gloria 'La Nina' Rivera's trio, and a visit from the head of Cuba's mission in the U.S. Organized by the Minnesota Cuba Committee with MSP Film and Cuba's ICAIC; it reflects one view of Cuba among many.",
+   "minnesotaEvents": [
+    {
+     "name": "17th Minnesota Cuban Film Festival",
+     "place": "The Main Cinema, Minneapolis",
+     "link": "https://mspfilm.org/series/minnesota-cuban-film-festival/",
+     "organizerDates": "Wednesdays, March 4, 11, 18, 25 and April 1, 2026, 7 p.m. (MSP Film)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "16th Minnesota Cuban Film Festival",
+     "place": "The Main Cinema, 115 SE Main St., Minneapolis",
+     "link": "https://www.mynortheaster.com/event/16th-minnesota-cuban-film-festival/2025-04-30/",
+     "organizerDates": "Wednesdays, April 30 to June 4, 2025",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "15th Minnesota Cuban Film Festival",
+     "place": "The Main, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/15th-minnesota-cuban-film-festival/",
+     "organizerDates": "Feb. 28 to April 4, 2024",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Cuban Film Festival archive, MSP Film",
+     "url": "https://mspfilm.org/series/minnesota-cuban-film-festival/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Festival de Cine Cubano de Minnesota tiende puentes, Prensa Latina, April 5, 2026",
+     "url": "https://www.prensa-latina.cu/2026/04/05/festival-de-cine-cubano-de-minnesota-tiende-puentes/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "16th Minnesota Cuban film festival, MyNortheaster",
+     "url": "https://www.mynortheaster.com/event/16th-minnesota-cuban-film-festival/2025-04-30/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "15th Minnesota Cuban Film Festival, MyNortheaster",
+     "url": "https://www.mynortheaster.com/event/15th-minnesota-cuban-film-festival/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "cuban--hispanic-heritage-month-begins",
+   "observanceKey": "hispanic-heritage-month-begins",
+   "name": "Hispanic Heritage Month (begins)",
+   "alsoKnownAs": [
+    "Latino Heritage Month",
+    "National Hispanic Heritage Month"
+   ],
+   "communities": [
+    "cuban"
+   ],
+   "briefLinks": [
+    {
+     "community": "cuban",
+     "title": "Cuban Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/cuban/profile.md",
+   "kind": "heritage",
+   "capsule": "U.S. month, Sept. 15 to Oct. 15, honoring people with roots in Spain, Latin America and the Spanish-speaking Caribbean, including Cuba.",
+   "dateRule": "Begins September 15 and runs to October 15.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-15",
+     "endDate": "2026-10-15",
+     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-15",
+     "endDate": "2027-10-15",
+     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-15",
+     "endDate": "2028-10-15",
+     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "A U.S. observance; September 15 is the independence anniversary of several Central American countries. It is not a Cuban national date.",
+   "howCelebratedInMinnesota": "Minnesota's governor proclaimed Latino Heritage Month in 2022. A visible Cuban event was the Sept. 24, 2022 Ordway concert by pianist Nachito Herrera, introduced by Tony Oliva. No recurring Cuban-specific Minnesota event was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Nachito Herrera and the Havana Jazz All Stars (Ordway season opener)",
+     "place": "Ordway Concert Hall, St. Paul",
+     "link": "https://ordway.org/news/cuban-star-power-to-electrify-the-ordway-on-sept-24/",
+     "organizerDates": "Saturday, Sept. 24, 2022 (past event)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "National Hispanic Heritage Month: 2026, U.S. Census Bureau",
+     "url": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Latino Heritage Month proclamation, Office of the Governor, Sept. 15, 2022",
+     "url": "https://mn.gov/governor/assets/09.15.22%20Latino%20Heritage%20Month%20%28002%29%20Signed_tcm1055-540650.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cuban star power to electrify the Ordway on Sept. 24, Ordway",
+     "url": "https://ordway.org/news/cuban-star-power-to-electrify-the-ordway-on-sept-24/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "cuban--christmas",
+   "observanceKey": "christmas",
+   "name": "Christmas",
+   "alsoKnownAs": [
+    "Navidad"
+   ],
+   "communities": [
+    "cuban"
+   ],
+   "briefLinks": [
+    {
+     "community": "cuban",
+     "title": "Cuban Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/cuban/profile.md",
+   "kind": "religious",
+   "capsule": "Birth of Jesus, celebrated December 25 in the Western Christian calendar.",
+   "dateRule": "December 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Cuba Travel: December 25 declared a holiday in Cuba",
+     "sourceUrl": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Cuba Travel: December 25 declared a holiday in Cuba",
+     "sourceUrl": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Cuba Travel: December 25 declared a holiday in Cuba",
+     "sourceUrl": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Hours and Holidays in Cuba, Cuba Travel",
+     "url": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "cuban--easter",
+   "observanceKey": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "Pascua"
+   ],
+   "communities": [
+    "cuban"
+   ],
+   "briefLinks": [
+    {
+     "community": "cuban",
+     "title": "Cuban Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/cuban/profile.md",
+   "kind": "religious",
+   "capsule": "Resurrection of Jesus in Western Christian tradition; date moves each spring.",
    "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
    "dates": [
     {
@@ -6087,62 +6594,6 @@
    "sources": []
   },
   {
-   "id": "cuban--christmas",
-   "observanceKey": "christmas",
-   "name": "Christmas",
-   "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
-   ],
-   "communities": [
-    "cuban"
-   ],
-   "briefLinks": [
-    {
-     "community": "cuban",
-     "title": "Cuban Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
-    }
-   ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
-   "dateRule": "December 25.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-12-25",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-12-25",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-12-25",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
    "id": "cuban--día-de-los-reyes",
    "observanceKey": "día-de-los-reyes",
    "name": "Día de los Reyes",
@@ -6160,9 +6611,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/cuban/profile.md",
    "kind": "religious",
-   "capsule": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
+   "capsule": "January 6, the visit of the Magi; a gift day in many Latin American Catholic families.",
    "dateRule": "January 6.",
    "dates": [
     {
@@ -6191,215 +6642,7 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "cuban--cuban-revolution-exile-anniversary",
-   "observanceKey": "cuban-revolution-exile-anniversary",
-   "name": "Cuban Revolution / exile anniversary",
-   "alsoKnownAs": [],
-   "communities": [
-    "cuban"
-   ],
-   "briefLinks": [
-    {
-     "community": "cuban",
-     "title": "Cuban Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
-    }
-   ],
-   "profileLink": null,
-   "kind": "remembrance",
-   "capsule": "January 1, 1959; revolution or exile depending on the family, and grief and politics for many.",
-   "dateRule": "January 1.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-01-01",
-     "endDate": null,
-     "source": "U.S. Department of State, Office of the Historian, FRUS 1958-1960 vol. VI document 217",
-     "sourceUrl": "https://history.state.gov/historicaldocuments/frus1958-60v06/d217",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-01-01",
-     "endDate": null,
-     "source": "U.S. Department of State, Office of the Historian, FRUS 1958-1960 vol. VI document 217",
-     "sourceUrl": "https://history.state.gov/historicaldocuments/frus1958-60v06/d217",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-01-01",
-     "endDate": null,
-     "source": "U.S. Department of State, Office of the Historian, FRUS 1958-1960 vol. VI document 217",
-     "sourceUrl": "https://history.state.gov/historicaldocuments/frus1958-60v06/d217",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "January 1, 1959; revolution or exile depending on the family, and grief and politics for many.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "cuban--cuban-independence-may-20",
-   "observanceKey": "cuban-independence-may-20",
-   "name": "Cuban Independence (May 20)",
-   "alsoKnownAs": [],
-   "communities": [
-    "cuban"
-   ],
-   "briefLinks": [
-    {
-     "community": "cuban",
-     "title": "Cuban Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
-    }
-   ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "The 1902 republic; kept in some exile calendars.",
-   "dateRule": "May 20.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-05-20",
-     "endDate": null,
-     "source": "U.S. Department of State, Office of the Historian, Cuba country page",
-     "sourceUrl": "https://history.state.gov/countries/cuba",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-05-20",
-     "endDate": null,
-     "source": "U.S. Department of State, Office of the Historian, Cuba country page",
-     "sourceUrl": "https://history.state.gov/countries/cuba",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-05-20",
-     "endDate": null,
-     "source": "U.S. Department of State, Office of the Historian, Cuba country page",
-     "sourceUrl": "https://history.state.gov/countries/cuba",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1902 republic; kept in some exile calendars.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "cuban--grito-de-yara-october-10",
-   "observanceKey": "grito-de-yara-october-10",
-   "name": "Grito de Yara (October 10)",
-   "alsoKnownAs": [],
-   "communities": [
-    "cuban"
-   ],
-   "briefLinks": [
-    {
-     "community": "cuban",
-     "title": "Cuban Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
-    }
-   ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "The 1868 start of the wars of independence.",
-   "dateRule": "October 10.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-10-10",
-     "endDate": null,
-     "source": "Library of Congress, World of 1898, Chronology of Cuba in the Spanish-American War",
-     "sourceUrl": "https://guides.loc.gov/world-of-1898/cuba-chronology",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-10-10",
-     "endDate": null,
-     "source": "Library of Congress, World of 1898, Chronology of Cuba in the Spanish-American War",
-     "sourceUrl": "https://guides.loc.gov/world-of-1898/cuba-chronology",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-10-10",
-     "endDate": null,
-     "source": "Library of Congress, World of 1898, Chronology of Cuba in the Spanish-American War",
-     "sourceUrl": "https://guides.loc.gov/world-of-1898/cuba-chronology",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1868 start of the wars of independence.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "cuban--hispanic-heritage-month-begins",
-   "observanceKey": "hispanic-heritage-month-begins",
-   "name": "Hispanic Heritage Month (begins)",
-   "alsoKnownAs": [],
-   "communities": [
-    "cuban"
-   ],
-   "briefLinks": [
-    {
-     "community": "cuban",
-     "title": "Cuban Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
-    }
-   ],
-   "profileLink": null,
-   "kind": "heritage",
-   "capsule": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
-   "dateRule": "September 15.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
+   "whatItMarks": "The visit of the Magi to the infant Jesus. No source was found on how widely Cuban Minnesotan families keep it.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,

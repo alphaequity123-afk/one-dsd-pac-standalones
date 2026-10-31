@@ -1,0 +1,520 @@
+[
+ {
+  "title": "Cuban Minnesota (current page)",
+  "publisher": "One DSD",
+  "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Current page checked for corrections"
+ },
+ {
+  "title": "Cuban population",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/cuban",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population, age, place, language, income, poverty, housing, education, employment, disability, insurance"
+ },
+ {
+  "title": "The importance of data disaggregation: Minnesota's Hispanic and Latino communities (Sept. 18, 2024)",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-hispanic-and-latino-communities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cuban education compared with Hispanic Minnesotans; definitions"
+ },
+ {
+  "title": "Updated: Minnesota's Latinos in numbers",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/data-insights/articles/updated-minnesotas-latinos-numbers-overview-minnesota-compass-data",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Relative size of Latino groups"
+ },
+ {
+  "title": "Minnesotans with disabilities",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/disability",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Statewide disability rate and age pattern"
+ },
+ {
+  "title": "Mexican population",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/mexican",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Comparison disability rate and income"
+ },
+ {
+  "title": "ACS 2024 five-year, table B03001, Minnesota, counties and cities",
+  "publisher": "Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2758000,05000US27053,05000US27123,05000US27003,05000US27037,05000US27109,05000US27163",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Census Hispanic-origin Cuban count, state, counties, cities"
+ },
+ {
+  "title": "ACS 2024 five-year, table B03001, all Minnesota counties",
+  "publisher": "Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=050%7C04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "County estimates statewide"
+ },
+ {
+  "title": "ACS 2024 one-year, table B03001, Minnesota",
+  "publisher": "Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Single-year 2024 estimate"
+ },
+ {
+  "title": "ACS 2024 five-year, table B05006 (place of birth), Minnesota",
+  "publisher": "Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Minnesotans born in Cuba"
+ },
+ {
+  "title": "A Portrait of Hispanic/Latine Minnesotans (March 2023)",
+  "publisher": "Minnesota Council on Latino Affairs",
+  "url": "https://mn.gov/mcla/assets/03_31_23%20-%20Demographic%20Report%20-%20MCLA_tcm1099-602196.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2021 Cuban count"
+ },
+ {
+  "title": "10 facts about Cubans in the U.S. (May 7, 2026)",
+  "publisher": "Pew Research Center",
+  "url": "https://www.pewresearch.org/short-reads/2026/05/07/10-facts-about-cubans-in-the-u-s/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "National context: size, immigration waves, wet foot/dry foot, CHNV, politics, education"
+ },
+ {
+  "title": "Cubans in Minnesota ready for warmer U.S. relations (Dec. 18, 2014)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2014/12/18/cuba-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2014 count; voices of Oliva, Nunez, Fonts, Versaguis"
+ },
+ {
+  "title": "Cuban in Minnesota: Engaging Memoir Tells Marisella Veiga's Family Journey",
+  "publisher": "NBC News",
+  "url": "https://www.nbcnews.com/news/latino/cuban-minnesota-engaging-memoir-tells-marisella-veiga-s-family-journey-n583291",
+  "dateChecked": "2026-10-31",
+  "usedFor": "1960s settlement; Veiga family"
+ },
+ {
+  "title": "Positively Gay Cuban Refugee Task Force, MNopedia",
+  "publisher": "Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/group/positively-gay-cuban-refugee-task-force",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mariel 1980 resettlement; Gomez; Valdes"
+ },
+ {
+  "title": "From Mariel to Minnesota: Broken Sponsorships and Queer Cuban Exile in the Upper Midwest (2023)",
+  "publisher": "American Historical Association",
+  "url": "https://studio.m-anage.com/aha/2023/webprogram/Paper34195.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mariel sponsorship research"
+ },
+ {
+  "title": "Cuban refugees in Minnesota (May 23, 1980)",
+  "publisher": "MPR Archive",
+  "url": "https://archive.mpr.org/stories/1980/05/23/cuban-refugees-in-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "1980 MPR report title"
+ },
+ {
+  "title": "Cathy Kennedy - Quie on Cubans (June 10, 1980)",
+  "publisher": "MPR Archive",
+  "url": "https://archive.mpr.org/stories/1980/06/10/cathy-kennedy-quie-on-cubans",
+  "dateChecked": "2026-10-31",
+  "usedFor": "1980 MPR item title"
+ },
+ {
+  "title": "A profile on a Cuban cobbler in downtown St. Paul (Sept. 25, 1993)",
+  "publisher": "MPR Archive",
+  "url": "https://archive.mpr.org/stories/1993/09/25/a-profile-on-a-cuban-cobbler-in-downtown-st-paul",
+  "dateChecked": "2026-10-31",
+  "usedFor": "1993 Cuban business owner in St. Paul"
+ },
+ {
+  "title": "Search results for \"cuban\"",
+  "publisher": "MPR Archive",
+  "url": "https://archive.mpr.org/search?q=cuban",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Archive items: 2003 cattle shipment; 2007 Herrera concert"
+ },
+ {
+  "title": "Consuelo P. Stacy",
+  "publisher": "Minnesota Historical Election Archive",
+  "url": "https://mn.electionarchives.lib.umn.edu/candidate/consuelo-p-stacy",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cuban-born legislative candidate 1992"
+ },
+ {
+  "title": "Jose Luciano",
+  "publisher": "Minnesota Historical Election Archive",
+  "url": "https://mn.electionarchives.lib.umn.edu/candidate/jose-luciano",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cuban-born legislative candidate 1996; 1962 arrival"
+ },
+ {
+  "title": "Tony Oliva, de camada cubana en Mellizos al Salón",
+  "publisher": "MLB.com en Español",
+  "url": "https://www.mlb.com/es/news/tony-oliva-de-camada-cubana-en-mellizos-al-salon",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cuban Twins players; Oliva quotes"
+ },
+ {
+  "title": "Black History Month: Tony Oliva, una leyenda cubana de los Twins",
+  "publisher": "Unanimo Deportes",
+  "url": "https://unanimodeportes.com/black-history-month-herencia/black-history-month-tony-oliva-una-leyenda-cubana-de-los-twins/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Oliva biography, Afro-Latino framing"
+ },
+ {
+  "title": "Twins Announce Plans for 2026 Minnesota State Fair",
+  "publisher": "Minnesota Twins / MLB.com",
+  "url": "https://www.mlb.com/press-release/twins-announce-plans-for-2026-minnesota-state-fair",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Oliva 2026 appearance"
+ },
+ {
+  "title": "Zoilo Versalles",
+  "publisher": "SABR Biography Project",
+  "url": "https://sabr.org/bioproj/person/zoilo-versalles/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Versalles biography and hardship"
+ },
+ {
+  "title": "Camilo Pascual",
+  "publisher": "SABR Biography Project",
+  "url": "https://sabr.org/bioproj/person/camilo-pascual/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Pascual biography"
+ },
+ {
+  "title": "Julio Becquer a member of 1961 Minnesota Twins team passes away (Nov. 6, 2020)",
+  "publisher": "Twins Trivia",
+  "url": "https://twinstrivia.com/2020/11/06/julio-becquer-a-member-of-1961-minnesota-twins-team-passes-away/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Becquer death 2020"
+ },
+ {
+  "title": "The Cuban Senators and the Twinkie Hall of Famers",
+  "publisher": "The View Level",
+  "url": "https://theviewlevel.substack.com/p/the-cuban-senators-and-the-twinkie",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Becquer quote on leaving Cuba"
+ },
+ {
+  "title": "Why Is Minnesota's Congressional Delegation So Focused On Cuba? (July 3, 2015)",
+  "publisher": "Twin Cities Business",
+  "url": "https://tcbmag.com/why-is-minnesotas-congressional-delegation-so-focused-on-cuba/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Minnesota's congressional and trade interest in Cuba"
+ },
+ {
+  "title": "Eating Cuban in the Twin Cities (May 8, 2015)",
+  "publisher": "Minnesota Monthly",
+  "url": "https://www.minnesotamonthly.com/food-drink/eating-cuban-in-the-twin-cities/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Victor's 1959 Cafe founder"
+ },
+ {
+  "title": "Victor's 1959 Cafe review",
+  "publisher": "The Infatuation",
+  "url": "https://www.theinfatuation.com/minneapolis/reviews/victors-1959-cafe",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Victor's 1959 Cafe description"
+ },
+ {
+  "title": "Our first Diners, Drive-ins and Dives in Minneapolis was Victors 1959 Cafe",
+  "publisher": "Flavortown USA",
+  "url": "https://www.flavortownusa.com/posts/4/our-first-diners-drive-ins-and-dives-in-minneapolis-was-victors-1959-cafe-in-2008",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Victor's on Diners, Drive-Ins and Dives"
+ },
+ {
+  "title": "Guava's Cuban Cafe (own site)",
+  "publisher": "",
+  "url": "https://www.guavascubancafe.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Guava's Cuban Cafe"
+ },
+ {
+  "title": "Check out the 3 newest businesses to open in Minneapolis (2018)",
+  "publisher": "Hoodline",
+  "url": "https://hoodline.com/2018/12/check-out-the-3-newest-businesses-to-open-in-minneapolis/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Guava's 2018 address"
+ },
+ {
+  "title": "Cuban restaurants road trip",
+  "publisher": "Family Destinations Guide",
+  "url": "https://familydestinationsguide.com/minnesota-delicious-cuban-restaurants/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "El Cubano description"
+ },
+ {
+  "title": "El Cubano (Shoreline, Wash.)",
+  "publisher": "Intentionalist",
+  "url": "https://intentionalist.com/b/el-cubano/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Shows a different El Cubano in Washington state"
+ },
+ {
+  "title": "Big, authentic tastes from Little Havana (Nov. 11, 2015)",
+  "publisher": "Post Bulletin",
+  "url": "https://www.postbulletin.com/lifestyle/big-authentic-tastes-from-little-havana",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Francisco's Cuban Cafe 2015"
+ },
+ {
+  "title": "Francisco's shares authentic Caribbean dishes with Rochester (Feb. 2, 2023)",
+  "publisher": "Post Bulletin",
+  "url": "https://www.postbulletin.com/business/franciscos-shares-authentic-caribbean-dishes-with-rochester",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Francisco's Restaurant 2023"
+ },
+ {
+  "title": "Yuma Fritas is open and serving up 'Cubanish' fare (Dec. 22, 2025)",
+  "publisher": "Post Bulletin",
+  "url": "https://www.postbulletin.com/business/yuma-fritas-is-open-and-serving-up-cubanish-fare",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Yuma Fritas opening Dec. 2025"
+ },
+ {
+  "title": "Nachito Herrera (own site)",
+  "publisher": "",
+  "url": "https://www.nachitoherrera.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Herrera biography, 2025 concerts, fundraiser"
+ },
+ {
+  "title": "World-renowned Minnesota jazz musician to headline music festival in Cuba (Jan. 13, 2022)",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/news/world-renowned-minnesota-jazz-musician-to-headline-music-festival-in-cuba",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Herrera residence, Havana jazz festival, COVID recovery"
+ },
+ {
+  "title": "Cuban star power to electrify the Ordway on Sept. 24 (Sept. 7, 2022)",
+  "publisher": "Ordway",
+  "url": "https://ordway.org/news/cuban-star-power-to-electrify-the-ordway-on-sept-24/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2022 Ordway concert; Oliva stats; Herrera awards"
+ },
+ {
+  "title": "Caribbean Nights with Charanga Tropical (Sept. 5, 2026 listing)",
+  "publisher": "Happening Next",
+  "url": "https://happeningnext.com/event/caribbean-nights-with-charanga-tropical-eid1ef0l1ta4uta",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Charanga Tropical"
+ },
+ {
+  "title": "Malamanya moves to Cuban son (Sept. 16, 2011)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2011/09/16/malamanya-moves-to-cuban-son",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cuban son band without Cuban members"
+ },
+ {
+  "title": "Yeniel 'Chini' Perez Domenech",
+  "publisher": "McKnight Artist Fellowships for Dancers and Choreographers",
+  "url": "https://www.mcknightdancechoreo.org/fellows//chini-perez",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Chini Perez Domenech"
+ },
+ {
+  "title": "Osnel Delgado, Northrop",
+  "publisher": "University of Minnesota",
+  "url": "https://www.northrop.umn.edu/osnel-delgado",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Osnel Delgado residency; Cuban-born dancers"
+ },
+ {
+  "title": "Daymé Arocena: All Saints' Day",
+  "publisher": "Walker Art Center",
+  "url": "https://www.walkerart.org/reader/dayme-arocena-the-cedar-terrell-lamarr-review/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Santeria and orishas in performance at The Cedar"
+ },
+ {
+  "title": "Minnesota-inspired Cuban American Youth Orchestra launches its first tour (May 18, 2019)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2019/05/18/minnesota-cuban-american-youth-orchestra-first-tour",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cuban American Youth Orchestra"
+ },
+ {
+  "title": "Minnesota Cuban Film Festival archive",
+  "publisher": "MSP Film",
+  "url": "https://mspfilm.org/series/minnesota-cuban-film-festival/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Film festival dates 2025 and 2026"
+ },
+ {
+  "title": "Festival de Cine Cubano de Minnesota tiende puentes (April 5, 2026)",
+  "publisher": "Prensa Latina",
+  "url": "https://www.prensa-latina.cu/2026/04/05/festival-de-cine-cubano-de-minnesota-tiende-puentes/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "17th film festival; committee; closing night"
+ },
+ {
+  "title": "Minnesota Cuban Film Festival: Fostering Cultural Ties Through Cinema",
+  "publisher": "CubaPLUS Magazine",
+  "url": "https://cubaplusmagazine.com/en/news/minnesota-cuban-film-festival-fostering-cultural-ties-through-cinema.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "17th film festival (English version of Prensa Latina report)"
+ },
+ {
+  "title": "16th Minnesota Cuban film festival (2025)",
+  "publisher": "MyNortheaster",
+  "url": "https://www.mynortheaster.com/event/16th-minnesota-cuban-film-festival/2025-04-30/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 festival dates"
+ },
+ {
+  "title": "15th Minnesota Cuban Film Festival (2024)",
+  "publisher": "MyNortheaster",
+  "url": "https://www.mynortheaster.com/event/15th-minnesota-cuban-film-festival/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2024 festival dates"
+ },
+ {
+  "title": "INTERVIEW: Minnesota Cuban Film Festival",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/kstp-news/local-news/interview-minnesota-cuba-film-festival/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Film festival; committee spokesman quote"
+ },
+ {
+  "title": "Protesters gather in Minneapolis in support of Cuban people amid economic crisis (July 15, 2021)",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/video/955881",
+  "dateChecked": "2026-10-31",
+  "usedFor": "July 2021 Minneapolis gathering"
+ },
+ {
+  "title": "Why a Cuban Content Creator Chooses a Small Town Over Big City Life (Sept. 9, 2026)",
+  "publisher": "CubaHeadlines",
+  "url": "https://www.cubaheadlines.com/articles/339930",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2026 social media exchange about small-town life"
+ },
+ {
+  "title": "Minnesota tag page",
+  "publisher": "CubaHeadlines",
+  "url": "https://www.cubaheadlines.com/tags/minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Enforcement reports in Minnesota"
+ },
+ {
+  "title": "Young Cuban YouTuber Departs Island",
+  "publisher": "CubaHeadlines",
+  "url": "https://www.cubaheadlines.com/articles/303415",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Conditions on the island"
+ },
+ {
+  "title": "'Operation Metro Surge' to end in Minnesota (Feb. 12, 2026)",
+  "publisher": "NPR",
+  "url": "https://www.npr.org/2026/02/12/nx-s1-5712552/operation-metro-surge-to-end-in-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Operation Metro Surge ending"
+ },
+ {
+  "title": "Minnesota Refugee Health Report 2024",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/rih/stats/24rhrpt.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cuban/Haitian entrant arrivals 2024"
+ },
+ {
+  "title": "Minnesota Refugee Health Report 2025",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/rih/stats/25rhrpt.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 humanitarian arrivals (no Cuban/Haitian entrants listed in summary)"
+ },
+ {
+  "title": "Cuban Adjustment Act Practice Advisory (2022)",
+  "publisher": "National Immigrant Justice Center",
+  "url": "https://immigrationjustice.us/wp-content/uploads/2022/03/Cuban-Adjustment-Practice-Advisory-FINAL.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cuban Adjustment Act requirements"
+ },
+ {
+  "title": "Cuban Adjustment Act of 1966",
+  "publisher": "Immigration History (University of Texas at Austin)",
+  "url": "https://immigrationhistory.org/item/cuban-adjustment-act-of-1966/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Original 1966 Act text"
+ },
+ {
+  "title": "The Virgen of Charity of Cobre",
+  "publisher": "EWTN",
+  "url": "https://www.ewtn.com/catholicism/library/virgen-of-charity-of-cobre--la-virgen-de-la-caridad-del-cobre-8931",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Our Lady of Charity tradition"
+ },
+ {
+  "title": "Our Lady of Charity, Caridad del Cobre",
+  "publisher": "New York Latin Culture",
+  "url": "https://www.newyorklatinculture.com/our-lady-of-charity-caridad-del-cobre/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Feast date Sept. 8"
+ },
+ {
+  "title": "Caridad de Cobre 2025, Mary",
+  "publisher": "Mother of God Parish (Chicago)",
+  "url": "https://www.motherofgodchicago.org/parish-news/caridad-de-cobre-2025",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Example of a Caridad Mass outside Minnesota"
+ },
+ {
+  "title": "Church of the Incarnation / Iglesia de la Encarnación",
+  "publisher": "",
+  "url": "https://www.incarnationmpls.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Bilingual Minneapolis parish"
+ },
+ {
+  "title": "National Hispanic Heritage Month: 2026",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hispanic Heritage Month dates"
+ },
+ {
+  "title": "Latino Heritage Month proclamation (Sept. 15, 2022)",
+  "publisher": "Office of Governor Tim Walz",
+  "url": "https://mn.gov/governor/assets/09.15.22%20Latino%20Heritage%20Month%20%28002%29%20Signed_tcm1055-540650.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Minnesota Latino Heritage Month proclamation"
+ },
+ {
+  "title": "Hours and Holidays in Cuba",
+  "publisher": "Cuba Travel (Cuban Ministry of Tourism site)",
+  "url": "https://www.cuba.travel/en/useful-information/hours-and-holidays",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cuban holidays: Jan. 1, Oct. 10, Dec. 25"
+ },
+ {
+  "title": "Cuba Public Holidays in 2026",
+  "publisher": "Calendarific",
+  "url": "https://calendarific.com/holidays/2026/CU",
+  "dateChecked": "2026-10-31",
+  "usedFor": "May 20 Independence Day date for 2026"
+ },
+ {
+  "title": "Cuba Public Holidays in 2027",
+  "publisher": "Calendarific",
+  "url": "https://calendarific.com/holidays/2027/CU",
+  "dateChecked": "2026-10-31",
+  "usedFor": "May 20 Independence Day date for 2027"
+ },
+ {
+  "title": "Cuba Public Holidays in 2028",
+  "publisher": "Calendarific",
+  "url": "https://calendarific.com/holidays/2028/CU",
+  "dateChecked": "2026-10-31",
+  "usedFor": "May 20 Independence Day date for 2028"
+ }
+]

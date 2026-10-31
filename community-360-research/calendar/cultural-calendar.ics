@@ -46,12 +46,13 @@ UID:cuban-revolution-exile-anniversary-2026-01-01@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
-SUMMARY:Cuban Revolution / exile anniversary
-DESCRIPTION:January 1\, 1959\; revolution or exile depending on the famil
- y\, and grief and politics for many. Date: January 1. Source: U.S. Depart
- ment of State\, Office of the Historian\, FRUS 1958-1960 vol. VI document
-  217 https://history.state.gov/historicaldocuments/frus1958-60v06/d217 Co
- mmunities: Cuban Minnesota
+SUMMARY:Anniversary of the 1959 Revolution
+DESCRIPTION:Listed in Cuba as the Anniversary of the Triumph of the Cuban
+  Revolution (1959). For Cuban American families it can mark the start of 
+ exile and loss\; for others it is history. Date: January 1 each year. Sou
+ rce: Cuba Travel (Cuban tourism ministry site): January 1\, Anniversary o
+ f the Triumph of the Cuban Revolution https://www.cuba.travel/en/useful-i
+ nformation/hours-and-holidays Communities: Cuban Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -635,6 +636,21 @@ DESCRIPTION:The gathering of 1\,250 of the Buddha's first disciples and t
  -holidays Communities: Cambodian Minnesota\, Lao Minnesota\, Thai Minneso
  ta
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-cuban-film-festival-2026-03-04@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260402
+SUMMARY:Minnesota Cuban Film Festival
+DESCRIPTION:Cuban cinema and culture\, and cultural exchange between Minn
+ esota and Cuba. Date: Announced each year by the Minnesota Cuba Committee
+  and MSP Film\; recent festivals ran weekly in late winter or spring for 
+ five to six weeks. Source: MSP Film festival archive (Wednesdays\, March 
+ 4 to April 1\, 2026) https://mspfilm.org/series/minnesota-cuban-film-fest
+ ival/ Communities: Cuban Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1257,11 +1273,12 @@ UID:cuban-independence-may-20-2026-05-20@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260521
-SUMMARY:Cuban Independence (May 20)
-DESCRIPTION:The 1902 republic\; kept in some exile calendars. Date: May 2
- 0. Source: U.S. Department of State\, Office of the Historian\, Cuba coun
- try page https://history.state.gov/countries/cuba Communities: Cuban Minn
- esota
+SUMMARY:Cuban Independence Day (May 20)
+DESCRIPTION:Cuba's Independence Day as listed by calendar publishers. It 
+ does not appear on the holiday list of Cuba's tourism ministry site\, whi
+ ch lists January 1 and October 10 instead. Date: May 20 each year. Source
+ : U.S. Department of State\, Office of the Historian\, Cuba country page 
+ https://history.state.gov/countries/cuba Communities: Cuban Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2440,23 +2457,9 @@ DTEND;VALUE=DATE:20261016
 SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov h
- ttps://hispanicheritagemonth.gov/ Communities: Colombian Minnesota\, Ecua
- dorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota\, Salvadoran 
- Minnesota
-CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hispanic-heritage-month-begins-2026-09-15@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Hispanic Heritage Month (begins)
-DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
- ntral American and Mexican independence days. Date: September 15. Source:
-  U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
- census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota
+ ttps://hispanicheritagemonth.gov/ Communities: Colombian Minnesota\, Cuba
+ n Minnesota\, Ecuadorian Minnesota\, Guatemalan Minnesota\, Mexican Minne
+ sota\, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2474,6 +2477,21 @@ DESCRIPTION:The declaration of independence of the Central American provi
  onth.html Communities: Guatemalan Minnesota\, Latino Minnesota\, Salvador
  an Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hispanic-heritage-month-begins-2026-09-15@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Hispanic Heritage Month (begins)
+DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
+ ntral American and Mexican independence days. Date: Begins September 15 a
+ nd ends October 15. Source: U.S. Census Bureau\, National Hispanic Herita
+ ge Month: 2026 https://www.census.gov/newsroom/facts-for-features/2026/hi
+ spanic-heritage-month.html Communities: Latino Minnesota\, Puerto Rican M
+ innesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2808,10 +2826,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Grito de Yara (October 10)
-DESCRIPTION:The 1868 start of the wars of independence. Date: October 10.
-  Source: Library of Congress\, World of 1898\, Chronology of Cuba in the 
- Spanish-American War https://guides.loc.gov/world-of-1898/cuba-chronology
-  Communities: Cuban Minnesota
+DESCRIPTION:The anniversary of the beginning of Cuba's Wars of Independen
+ ce against Spain\, a public holiday in Cuba. Date: October 10 each year. 
+ Source: Cuba Travel: October 10\, Anniversary of the beginning of the War
+ s of Independence https://www.cuba.travel/en/useful-information/hours-and
+ -holidays Communities: Cuban Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3536,12 +3555,13 @@ UID:cuban-revolution-exile-anniversary-2027-01-01@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-SUMMARY:Cuban Revolution / exile anniversary
-DESCRIPTION:January 1\, 1959\; revolution or exile depending on the famil
- y\, and grief and politics for many. Date: January 1. Source: U.S. Depart
- ment of State\, Office of the Historian\, FRUS 1958-1960 vol. VI document
-  217 https://history.state.gov/historicaldocuments/frus1958-60v06/d217 Co
- mmunities: Cuban Minnesota
+SUMMARY:Anniversary of the 1959 Revolution
+DESCRIPTION:Listed in Cuba as the Anniversary of the Triumph of the Cuban
+  Revolution (1959). For Cuban American families it can mark the start of 
+ exile and loss\; for others it is history. Date: January 1 each year. Sou
+ rce: Cuba Travel (Cuban tourism ministry site): January 1\, Anniversary o
+ f the Triumph of the Cuban Revolution https://www.cuba.travel/en/useful-i
+ nformation/hours-and-holidays Communities: Cuban Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4270,11 +4290,12 @@ UID:cuban-independence-may-20-2027-05-20@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:Cuban Independence (May 20)
-DESCRIPTION:The 1902 republic\; kept in some exile calendars. Date: May 2
- 0. Source: U.S. Department of State\, Office of the Historian\, Cuba coun
- try page https://history.state.gov/countries/cuba Communities: Cuban Minn
- esota
+SUMMARY:Cuban Independence Day (May 20)
+DESCRIPTION:Cuba's Independence Day as listed by calendar publishers. It 
+ does not appear on the holiday list of Cuba's tourism ministry site\, whi
+ ch lists January 1 and October 10 instead. Date: May 20 each year. Source
+ : U.S. Department of State\, Office of the Historian\, Cuba country page 
+ https://history.state.gov/countries/cuba Communities: Cuban Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4685,22 +4706,8 @@ SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
  fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
- nnesota\, Ecuadorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota
- \, Salvadoran Minnesota
-CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hispanic-heritage-month-begins-2027-09-15@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270916
-SUMMARY:Hispanic Heritage Month (begins)
-DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
- ntral American and Mexican independence days. Date: September 15. Source:
-  U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
- census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota
+ nnesota\, Cuban Minnesota\, Ecuadorian Minnesota\, Guatemalan Minnesota\,
+  Mexican Minnesota\, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4733,6 +4740,21 @@ DESCRIPTION:Autumn harvest and ancestral remembrance\; families gather an
  ed by the Korea AeroSpace Administration on June 29\, 2026 https://www.fn
  news.com/news/202606290904291637 Communities: Korean Minnesota
 CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hispanic-heritage-month-begins-2027-09-15@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:Hispanic Heritage Month (begins)
+DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
+ ntral American and Mexican independence days. Date: Begins September 15 a
+ nd ends October 15. Source: U.S. Census Bureau\, National Hispanic Herita
+ ge Month: 2026 https://www.census.gov/newsroom/facts-for-features/2026/hi
+ spanic-heritage-month.html Communities: Latino Minnesota\, Puerto Rican M
+ innesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4843,10 +4865,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271010
 DTEND;VALUE=DATE:20271011
 SUMMARY:Grito de Yara (October 10)
-DESCRIPTION:The 1868 start of the wars of independence. Date: October 10.
-  Source: Library of Congress\, World of 1898\, Chronology of Cuba in the 
- Spanish-American War https://guides.loc.gov/world-of-1898/cuba-chronology
-  Communities: Cuban Minnesota
+DESCRIPTION:The anniversary of the beginning of Cuba's Wars of Independen
+ ce against Spain\, a public holiday in Cuba. Date: October 10 each year. 
+ Source: Cuba Travel: October 10\, Anniversary of the beginning of the War
+ s of Independence https://www.cuba.travel/en/useful-information/hours-and
+ -holidays Communities: Cuban Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5164,12 +5187,13 @@ UID:cuban-revolution-exile-anniversary-2028-01-01@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280101
 DTEND;VALUE=DATE:20280102
-SUMMARY:Cuban Revolution / exile anniversary
-DESCRIPTION:January 1\, 1959\; revolution or exile depending on the famil
- y\, and grief and politics for many. Date: January 1. Source: U.S. Depart
- ment of State\, Office of the Historian\, FRUS 1958-1960 vol. VI document
-  217 https://history.state.gov/historicaldocuments/frus1958-60v06/d217 Co
- mmunities: Cuban Minnesota
+SUMMARY:Anniversary of the 1959 Revolution
+DESCRIPTION:Listed in Cuba as the Anniversary of the Triumph of the Cuban
+  Revolution (1959). For Cuban American families it can mark the start of 
+ exile and loss\; for others it is history. Date: January 1 each year. Sou
+ rce: Cuba Travel (Cuban tourism ministry site): January 1\, Anniversary o
+ f the Triumph of the Cuban Revolution https://www.cuba.travel/en/useful-i
+ nformation/hours-and-holidays Communities: Cuban Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5835,11 +5859,12 @@ UID:cuban-independence-may-20-2028-05-20@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280520
 DTEND;VALUE=DATE:20280521
-SUMMARY:Cuban Independence (May 20)
-DESCRIPTION:The 1902 republic\; kept in some exile calendars. Date: May 2
- 0. Source: U.S. Department of State\, Office of the Historian\, Cuba coun
- try page https://history.state.gov/countries/cuba Communities: Cuban Minn
- esota
+SUMMARY:Cuban Independence Day (May 20)
+DESCRIPTION:Cuba's Independence Day as listed by calendar publishers. It 
+ does not appear on the holiday list of Cuba's tourism ministry site\, whi
+ ch lists January 1 and October 10 instead. Date: May 20 each year. Source
+ : U.S. Department of State\, Office of the Historian\, Cuba country page 
+ https://history.state.gov/countries/cuba Communities: Cuban Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6156,22 +6181,8 @@ SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
  fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
- nnesota\, Ecuadorian Minnesota\, Guatemalan Minnesota\, Mexican Minnesota
- \, Salvadoran Minnesota
-CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hispanic-heritage-month-begins-2028-09-15@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20280915
-DTEND;VALUE=DATE:20280916
-SUMMARY:Hispanic Heritage Month (begins)
-DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
- ntral American and Mexican independence days. Date: September 15. Source:
-  U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
- census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Latino Minnesota\, Puerto Rican Minnesota
+ nnesota\, Cuban Minnesota\, Ecuadorian Minnesota\, Guatemalan Minnesota\,
+  Mexican Minnesota\, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6189,6 +6200,21 @@ DESCRIPTION:The declaration of independence of the Central American provi
  onth.html Communities: Guatemalan Minnesota\, Latino Minnesota\, Salvador
  an Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hispanic-heritage-month-begins-2028-09-15@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20280916
+SUMMARY:Hispanic Heritage Month (begins)
+DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
+ ntral American and Mexican independence days. Date: Begins September 15 a
+ nd ends October 15. Source: U.S. Census Bureau\, National Hispanic Herita
+ ge Month: 2026 https://www.census.gov/newsroom/facts-for-features/2026/hi
+ spanic-heritage-month.html Communities: Latino Minnesota\, Puerto Rican M
+ innesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6297,10 +6323,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281010
 DTEND;VALUE=DATE:20281011
 SUMMARY:Grito de Yara (October 10)
-DESCRIPTION:The 1868 start of the wars of independence. Date: October 10.
-  Source: Library of Congress\, World of 1898\, Chronology of Cuba in the 
- Spanish-American War https://guides.loc.gov/world-of-1898/cuba-chronology
-  Communities: Cuban Minnesota
+DESCRIPTION:The anniversary of the beginning of Cuba's Wars of Independen
+ ce against Spain\, a public holiday in Cuba. Date: October 10 each year. 
+ Source: Cuba Travel: October 10\, Anniversary of the beginning of the War
+ s of Independence https://www.cuba.travel/en/useful-information/hours-and
+ -holidays Communities: Cuban Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
