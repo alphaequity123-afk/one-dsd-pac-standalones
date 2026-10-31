@@ -1,0 +1,603 @@
+{
+ "community": "kenyan",
+ "entries": [
+  {
+   "seedId": "start-of-ramadan",
+   "name": "Start of Ramadan",
+   "alsoKnownAs": [
+    "Ramadan",
+    "Ramadhani"
+   ],
+   "kind": "religious",
+   "capsule": "First day of the month of daytime fasting, kept by Muslim Kenyan households.",
+   "dateRule": "First day of the ninth Islamic month; set by moon sighting or calculation, announced close to the time.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-28",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the month of daytime fasting.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "eid-alfitr",
+   "name": "Eid al-Fitr",
+   "alsoKnownAs": [
+    "Idd-ul-Fitr",
+    "Sikukuu ya Idd"
+   ],
+   "kind": "religious",
+   "capsule": "Festival ending Ramadan; a public holiday in Kenya, kept by Muslim Kenyan Minnesotans.",
+   "dateRule": "First day of the tenth Islamic month (Shawwal); set by moon sighting or calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-20",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day. Kenya's 2026 public-holiday list on CalendarLabs shows Eid al-Fitr on March 21, 2026 in Kenya.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-26",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "End of Ramadan.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "eid-aladha",
+   "name": "Eid al-Adha",
+   "alsoKnownAs": [
+    "Idd-ul-Azha",
+    "Idd-ul-Adha"
+   ],
+   "kind": "religious",
+   "capsule": "Festival of sacrifice during the Hajj season; a public holiday in Kenya.",
+   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah); set by moon sighting or calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day. Kenya's 2026 public-holiday list on CalendarLabs shows Eid al-Adha on May 27, 2026 in Kenya; the Minnesota date is not confirmed.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "islamic-new-year",
+   "name": "Islamic New Year",
+   "alsoKnownAs": [
+    "Hijri New Year",
+    "Muharram"
+   ],
+   "kind": "religious",
+   "capsule": "Start of the Islamic year; quieter than the two Eids, not a Kenyan public holiday.",
+   "dateRule": "First day of the first Islamic month (Muharram); set by moon sighting or calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-16",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-06",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-25",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques set the day by moon sighting or a calculation they adopt, so it can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the Hijri year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "good-friday",
+   "name": "Good Friday",
+   "alsoKnownAs": [
+    "Ijumaa Kuu"
+   ],
+   "kind": "religious",
+   "capsule": "Christian day marking the crucifixion; a public holiday in Kenya, where most people are Christian.",
+   "dateRule": "Friday before Easter Sunday (Western church calendar).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-03",
+     "endDate": null,
+     "source": "CalendarLabs, Kenya 2026 holidays (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-26",
+     "endDate": null,
+     "source": "Calculated from the Western Easter date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-14",
+     "endDate": null,
+     "source": "Calculated from the Western Easter date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The crucifixion of Jesus.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "2026 Kenya Holidays",
+     "url": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "Pasaka"
+   ],
+   "kind": "religious",
+   "capsule": "Christian feast of the resurrection; Kenya also keeps Easter Monday as a public holiday.",
+   "dateRule": "First Sunday after the first full moon on or after the spring equinox (Western church calendar); Kenya's public holiday is the Monday after.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "Calculated; CalendarLabs lists Easter Monday in Kenya as April 6, 2026",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
+     "endDate": null,
+     "source": "Calculated",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Calculated",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The resurrection of Jesus.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "2026 Kenya Holidays",
+     "url": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "christmas",
+   "name": "Christmas",
+   "alsoKnownAs": [
+    "Krismasi"
+   ],
+   "kind": "religious",
+   "capsule": "Christian feast of Jesus' birth; in Kenya a time when many travel home to family.",
+   "dateRule": "December 25 each year (Western church calendar).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke and CalendarLabs",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke and CalendarLabs",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke and CalendarLabs",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birth of Jesus. Kenyans.co.ke describes it as the one time most Kenyans travel to their rural homes, with church services, carols and gifts.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Kenya Gazette: Official Public Holidays in Kenya",
+     "url": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "2026 Kenya Holidays",
+     "url": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "madaraka-day",
+   "name": "Madaraka Day",
+   "alsoKnownAs": [
+    "Self-Rule Day"
+   ],
+   "kind": "national",
+   "capsule": "Kenya's June 1 holiday for self-rule in 1963; the main Kenyan public gathering in Minnesota in recent years.",
+   "dateRule": "Fixed: June 1 every year. Diaspora gatherings are often held on a nearby weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-01",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-01",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-01",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Kenya's attainment of internal self-rule on June 1, 1963, when Jomo Kenyatta became prime minister. One of three national holidays created by the 2010 constitution.",
+   "howCelebratedInMinnesota": "The existing page reports, from Mshale, a Kenya Fest at Centennial Park in Brooklyn Center on June 1, 2024, organized by George \"Jojo\" Ndege with Kenyan associations. Mshale could not be opened, and no 2025 or 2026 Minnesota event was confirmed from an opened page.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Kenya Gazette: Official Public Holidays in Kenya",
+     "url": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "2026 Kenya Holidays",
+     "url": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "mashujaa-day",
+   "name": "Mashujaa Day",
+   "alsoKnownAs": [
+    "Heroes' Day",
+    "formerly Kenyatta Day"
+   ],
+   "kind": "national",
+   "capsule": "Kenya's October 20 Heroes' Day honoring those who fought for independence.",
+   "dateRule": "Fixed: ('10-20',) every year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-20",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-20",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-20",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Honors the heroes of Kenya's independence struggle; formerly Kenyatta Day.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Kenya Gazette: Official Public Holidays in Kenya",
+     "url": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "2026 Kenya Holidays",
+     "url": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "jamhuri-day",
+   "name": "Jamhuri Day",
+   "alsoKnownAs": [
+    "Republic Day",
+    "Independence Day"
+   ],
+   "kind": "national",
+   "capsule": "Kenya's December 12 national day for independence in 1963; the Kenya Embassy hosts celebrations each year.",
+   "dateRule": "Fixed: ('12-12',) every year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-12",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-12",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-12",
+     "endDate": null,
+     "source": "Fixed date stated by Kenyans.co.ke",
+     "sourceUrl": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Kenya's full independence from Britain on December 12, 1963; jamhuri means republic in Swahili.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Kenya Gazette: Official Public Holidays in Kenya",
+     "url": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "2026 Kenya Holidays",
+     "url": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Kenya Embassy Washington D.C. home page (Jamhuri Day Celebrations 2024 gallery)",
+     "url": "https://www.kenyaembassydc.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Mazingira Day",
+   "alsoKnownAs": [
+    "Environment Day",
+    "replaced Moi Day (Oct. 10)"
+   ],
+   "kind": "national",
+   "capsule": "Kenyan public holiday on October 10, named for the environment (mazingira).",
+   "dateRule": "October 10 each year, per Kenya's public-holiday list.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-10",
+     "endDate": null,
+     "source": "CalendarLabs, Kenya 2026 holidays (a commercial calendar site; date not confirmed by an official source)",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-10",
+     "endDate": null,
+     "source": "Same fixed date, not confirmed for 2027",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-10",
+     "endDate": null,
+     "source": "Same fixed date, not confirmed for 2028",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "A Kenyan national day for the environment, on the date once kept as Moi Day.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "2026 Kenya Holidays",
+     "url": "https://www.calendarlabs.com/holidays/kenya/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Kenya Gazette: Official Public Holidays in Kenya",
+     "url": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Mwanyagetinge annual family picnic",
+   "alsoKnownAs": [
+    "Mwanyagetinge picnic"
+   ],
+   "kind": "community festival",
+   "capsule": "Summer family picnic of Minnesota's largest Kenyan association, with games, food and networking.",
+   "dateRule": "Set each year by Mwanyagetinge; the 2021 picnic was in late August at Centennial Park, Brooklyn Center.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Community gathering of Mwanyagetinge members and families.",
+   "howCelebratedInMinnesota": "Kenyans.co.ke reported in 2023 that the association holds an annual family picnic with games, meals and networking; a photo caption dates one to August 29, 2021 at Centennial Park in Brooklyn Center.",
+   "minnesotaEvents": [
+    {
+     "name": "Mwanyagetinge annual family picnic",
+     "place": "Centennial Park, Brooklyn Center",
+     "link": "https://www.kenyans.co.ke/news/85894-mwanyagetinge-inside-largest-organised-group-kenyans-minnesota",
+     "organizerDates": "Held Aug. 29, 2021, per photo caption; no 2025 or 2026 date found",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Mwanyagetinge: Inside Largest Organised Group of Kenyans in Minnesota",
+     "url": "https://www.kenyans.co.ke/news/85894-mwanyagetinge-inside-largest-organised-group-kenyans-minnesota",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}

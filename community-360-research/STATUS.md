@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-29 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+30 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking, colombian, ecuadorian, liberian, amharic, nigerian.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking, colombian, ecuadorian, liberian, amharic, nigerian, kenyan.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): kenyan, guatemalan, salvadoran, cuban, puerto-rican, french, deaf-deafblind-hard-of-hearing now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): guatemalan, salvadoran, cuban, puerto-rican, french, deaf-deafblind-hard-of-hearing now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -43,6 +43,8 @@ american, european-american, minnesota.
 ## Blocked sources
 
 Hmong and the methods note could not open these: Star Tribune, Christian Century, the state charter school directory, Carleton's Religions in Minnesota, mn.gov pages (State Demographic Center, Department of Veterans Affairs), the University of Minnesota Conservancy, state courts, the Senate roster, Department of Education pages, and ICPSR.
+
+- Kenyan could not open: Mshale (and archived copies), Sahan Journal (too many requests), Star Tribune, KARE 11, Nation Africa, People Daily, The Kenya Times, Secretary of State candidate pages, CDC and Avvo.
 
 - Nigerian could not open: Mshale, Axios, Star Tribune and MinnPost (too many requests), mn.gov DEED pages, CDC, Mayo, Bush Foundation, DoorDash and Candid.
 
@@ -82,6 +84,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Kenyan:** 73 opened sources; web search worked throughout. Only two Kenyan-owned food businesses were found; the other 12 listings are media, congregations and associations (10 of 14 open). Not established: occupations or wealth, how many Kenya-born Minnesotans are Somali or Oromo, any Kenyan-owned professional firm, clinic or home-care agency, any study of disability among Kenyan Minnesotans, and any 2025 or 2026 Minnesota Madaraka, Mashujaa or Jamhuri Day event.
 - **Nigerian:** 86 opened sources. Web search ran out after about 47 searches (the shared limit), and the rest was done by opening pages directly. Thin: businesses (10: 5 open, 5 could not be confirmed open; no Nigerian-owned grocery, law, tax or travel firm found). Not established: Nigerian Muslim congregations or Eid gatherings, any current Nigerian-founded Pentecostal congregation, Minnesota data on disability, autism or special education for Nigerian Minnesotans, and 2026 dates for Yoruba Fest or MIND's October Independence celebration. Islamic New Year and Mawlid were dropped because no Minnesota source tied them to Nigerian Minnesotans.
 - **Amharic-speaking:** 61 opened sources; web search worked throughout. No current count of Amharic speakers exists (the last Amharic-only Census figure is 9,490 for 2009-13; schools reported 2,379 Amharic-home-language students in 2024-25). Not established: whether any court-certified Amharic interpreter exists or how many are on the health roster, any Amhara community organization or Minnesota reporting on reactions to fighting in the Amhara region, any mosque or Muslim group using Amharic, and Amharic-language professional businesses beyond one law firm (unconfirmed). Ethiopian holiday dates listed only on a commercial holiday site are shown as unconfirmed.
 - **Liberian:** 102 opened sources; web search worked throughout. Not established: any Minnesota data on disability, mental health or special education for Liberian residents, a Minnesota count of people affected when Deferred Enforced Departure ended on June 30, 2026, Liberian-owned law, accounting, tax or insurance firms, ethnic or language breakdowns, and Liberian communities in Greater Minnesota. 10 of 18 businesses could not be confirmed open. Liberian national holidays listed only on a commercial holiday site are shown as unconfirmed.
