@@ -745,13 +745,14 @@ BEGIN:VEVENT
 UID:pi-mai-lao-2026-04-14@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-SUMMARY:Pi Mai Lao
-DESCRIPTION:Traditional Lao new year. Date: Mid-April\, usually April 14 
- to 16 as set by the Lao government. Source: Vientiane Times\, report on t
- he Prime Minister's Office list of 2026 public holidays https://www.vient
- ianetimes.org.la/freefreenews/freecontent_251_Dates_y25.php Communities: 
- Lao Minnesota
+DTEND;VALUE=DATE:20260417
+SUMMARY:Lao New Year (Pi Mai Lao)
+DESCRIPTION:The start of the traditional Lao year. Date: Mid-April\, usua
+ lly April 14 to 16\, as set each year by the Lao government. Minnesota ce
+ lebrations are often held on a nearby weekend\, sometimes weeks later. So
+ urce: Vientiane Times\, report on the Prime Minister's Office list of 202
+ 6 public holidays https://www.vientianetimes.org.la/freefreenews/freecont
+ ent_251_Dates_y25.php Communities: Lao Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2721,19 +2722,6 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:lao-national-day-2026-12-02@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:Lao National Day
-DESCRIPTION:Founding of the Lao PDR in 1975. Date: December 2. Source: Vi
- entiane Times\, report on the Prime Minister's Office list of 2026 public
-  holidays https://www.vientianetimes.org.la/freefreenews/freecontent_251_
- Dates_y25.php Communities: Lao Minnesota
-CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:thai-fathers-day-2026-12-05@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261205
@@ -4218,19 +4206,6 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:lao-national-day-2027-12-02@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20271202
-DTEND;VALUE=DATE:20271203
-SUMMARY:Lao National Day
-DESCRIPTION:Founding of the Lao PDR in 1975. Date: December 2. Source: Vi
- entiane Times\, report on the Prime Minister's Office list of 2026 public
-  holidays https://www.vientianetimes.org.la/freefreenews/freecontent_251_
- Dates_y25.php Communities: Lao Minnesota
-CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:thai-fathers-day-2027-12-05@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271205
@@ -5533,19 +5508,6 @@ DESCRIPTION:The start of Christmas celebrations for Karen Christians. Dat
  0 https://mnkaren.org/history-culture/karen-culture/celebrations/ Communi
  ties: Karen Minnesota
 CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:lao-national-day-2028-12-02@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20281202
-DTEND;VALUE=DATE:20281203
-SUMMARY:Lao National Day
-DESCRIPTION:Founding of the Lao PDR in 1975. Date: December 2. Source: Vi
- entiane Times\, report on the Prime Minister's Office list of 2026 public
-  holidays https://www.vientianetimes.org.la/freefreenews/freecontent_251_
- Dates_y25.php Communities: Lao Minnesota
-CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

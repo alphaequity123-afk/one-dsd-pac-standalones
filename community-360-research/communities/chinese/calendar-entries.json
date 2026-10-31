@@ -1,0 +1,571 @@
+{
+ "community": "chinese",
+ "entries": [
+  {
+   "seedId": "lunar-new-year",
+   "name": "Lunar New Year",
+   "alsoKnownAs": [
+    "Spring Festival",
+    "Chunjie",
+    "Chinese New Year"
+   ],
+   "kind": "cultural",
+   "capsule": "Start of the Chinese lunisolar year: family reunions, dumplings and fish, red envelopes, and lion dances across Minnesota.",
+   "dateRule": "First day of the first month of the Chinese lunisolar calendar, between January 21 and February 20. Minnesota public events spread over the following weeks.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-17",
+     "endDate": null,
+     "source": "GovHK general holidays 2026; Minnesota Monthly (Year of the Horse begins Tuesday, Feb. 17)",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-06",
+     "endDate": null,
+     "source": "GovHK general holidays 2027",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-26",
+     "endDate": null,
+     "source": "Calculated from the Chinese lunisolar calendar (seed); not yet confirmed",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The start of the lunisolar year, a time of renewal, family gatherings and wishes for luck and prosperity. Minnesota guides describe foods chosen for meaning: dumplings for wealth, long noodles for long life, whole fish for abundance.",
+   "howCelebratedInMinnesota": "In 2026: CAAM Chinese Dance Theater's production at the O'Shaughnessy (Jan. 17-18); the Chinese Community Center's festival at Asia Mall, Eden Prairie (Feb. 15), described as one of the largest in the state; a Chinese Heritage Foundation celebration at Luce Line Brewing, Plymouth (Feb. 21); the Twin Cities Dumpling Feast at Peking Garden, St. Paul (Feb. 25); a Minnesota Orchestra concert with a pre-concert set by Gao Hong and the Carleton Chinese Music Ensemble (Feb. 26); and restaurant specials. Midtown Global Market and Theater Mu postponed or canceled 2026 events because of a surge of ICE agents in Minneapolis. The holiday is also marked by Vietnamese, Korean, Hmong, Taiwanese and other communities.",
+   "minnesotaEvents": [
+    {
+     "name": "Chinese Community Center Lunar New Year celebration",
+     "place": "Asia Mall, 12160 Technology Dr., Eden Prairie",
+     "link": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "organizerDates": "Feb. 15, 2026, 12-5 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "CAAM Chinese Dance Theater, The Tale of the Peacock",
+     "place": "O'Shaughnessy Auditorium, St. Catherine University, St. Paul",
+     "link": "https://caam.org/caamcdts-2026-lunar-new-year-production-show/",
+     "organizerDates": "Jan. 17, 2026, 7 p.m.; Jan. 18, 2026, 2 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Chinese New Year at Luce Line Brewing with the Chinese Heritage Foundation",
+     "place": "Luce Line Brewing, 12901 16th Ave. N., Plymouth",
+     "link": "https://www.minneapolis.org/calendar/holidays/lunar-new-year/",
+     "organizerDates": "Feb. 21, 2026, 1-5 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Fifth Annual Twin Cities Dumpling Feast",
+     "place": "Peking Garden, St. Paul",
+     "link": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "organizerDates": "Feb. 25, 2026, 5-9 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Lunar New Year with the Minnesota Orchestra",
+     "place": "Orchestra Hall, Minneapolis",
+     "link": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "organizerDates": "Feb. 26, 2026, 7 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Year of the Horse: Hoofbeats through Time (exhibition)",
+     "place": "Minneapolis Institute of Art",
+     "link": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "organizerDates": "Feb. 16 to Aug. 30, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "General holidays for 2026, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "General holidays for 2027, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrate Lunar New Year Across Minnesota, Minnesota Monthly",
+     "url": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Where to Celebrate Lunar New Year Around the Twin Cities, Mpls.St.Paul Magazine",
+     "url": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrate the Lunar New Year in Minneapolis, Meet Minneapolis",
+     "url": "https://www.minneapolis.org/calendar/holidays/lunar-new-year/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "CAAM Chinese Dance Theater Lunar New Year Production",
+   "alsoKnownAs": [
+    "CAAM CDT annual production"
+   ],
+   "kind": "community festival",
+   "capsule": "Annual Lunar New Year dance-drama by the Chinese American Association of Minnesota's Chinese Dance Theater in St. Paul.",
+   "dateRule": "Announced each year by CAAM; held in January or February before or around Lunar New Year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-17",
+     "endDate": "2026-01-18",
+     "source": "CAAM post, Dec. 15, 2025",
+     "sourceUrl": "https://caam.org/caamcdts-2026-lunar-new-year-production-show/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Lunar New Year, through a full-length Chinese dance production; the 2026 show, The Tale of the Peacock, drew on Dai ethnic folklore.",
+   "howCelebratedInMinnesota": "Staged at the O'Shaughnessy at St. Catherine University; Chinese Dance Theater was founded in 1992 and marked its 30th anniversary in 2022-2023.",
+   "minnesotaEvents": [
+    {
+     "name": "The Tale of the Peacock",
+     "place": "O'Shaughnessy Auditorium, St. Paul",
+     "link": "https://caam.org/caamcdts-2026-lunar-new-year-production-show/",
+     "organizerDates": "Jan. 17 and 18, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CAAM CDT's 2026 Lunar New Year Production Show",
+     "url": "https://caam.org/caamcdts-2026-lunar-new-year-production-show/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "CAAM History",
+     "url": "https://caam.org/history/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Chinese Community Center Lunar New Year Festival",
+   "alsoKnownAs": [
+    "Lunar New Year at Asia Mall"
+   ],
+   "kind": "community festival",
+   "capsule": "Large Lunar New Year street-fair style festival at Asia Mall in Eden Prairie with performances, food and market stalls.",
+   "dateRule": "Announced each year by the Chinese Community Center; held on a weekend near Lunar New Year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-15",
+     "endDate": null,
+     "source": "Mpls.St.Paul Magazine, Feb. 10, 2026",
+     "sourceUrl": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Lunar New Year.",
+   "howCelebratedInMinnesota": "Cultural performances, food and market stalls and activities, 12 to 5 p.m. on Feb. 15, 2026; a visitor testimonial on the center's site describes a crowded 2025 festival with business booths and food stations.",
+   "minnesotaEvents": [
+    {
+     "name": "Lunar New Year celebration",
+     "place": "Asia Mall, Eden Prairie",
+     "link": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "organizerDates": "Feb. 15, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Mpls.St.Paul Magazine, Lunar New Year 2026",
+     "url": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Chinese Community Center, About",
+     "url": "https://cccminnesota.org/about/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Twin Cities Dumpling Feast",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Annual Lunar New Year dumpling-making dinner with performances at Peking Garden in St. Paul.",
+   "dateRule": "Announced each year by the Minnesota China Friendship Garden Society and the Association of Sino-American Neocultural Exchange.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-25",
+     "endDate": null,
+     "source": "Minnesota Monthly and Mpls.St.Paul Magazine, Feb. 10, 2026",
+     "sourceUrl": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Garden society lists 'Annual Dumpling Feast – coming in 2027' without a date",
+     "sourceUrl": "https://mnchinagarden.org/upcoming-events/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Lunar New Year; dumplings symbolize prosperity.",
+   "howCelebratedInMinnesota": "Chinese cultural displays, speeches and performances, dumpling wrapping and a dumpling dinner; $45 with registration in 2026. The 2026 event was the fifth.",
+   "minnesotaEvents": [
+    {
+     "name": "5th Annual Twin Cities Dumpling Feast",
+     "place": "Peking Garden, St. Paul",
+     "link": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "organizerDates": "Feb. 25, 2026, 5-9 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Monthly, Lunar New Year 2026",
+     "url": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Mpls.St.Paul Magazine",
+     "url": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Upcoming Events, Minnesota China Friendship Garden Society",
+     "url": "https://mnchinagarden.org/upcoming-events/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "midautumn-festival",
+   "name": "Mid-Autumn Festival",
+   "alsoKnownAs": [
+    "Moon Festival",
+    "Zhongqiu Jie"
+   ],
+   "kind": "cultural",
+   "capsule": "Harvest full-moon festival on the 15th day of the eighth lunar month: mooncakes, lanterns and family reunion.",
+   "dateRule": "Fifteenth day of the eighth month of the Chinese lunisolar calendar.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-25",
+     "endDate": null,
+     "source": "Calculated (seed); GovHK lists the day following the Mid-Autumn Festival as Sept. 26, 2026",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-15",
+     "endDate": null,
+     "source": "Calculated (seed); GovHK lists the day following as Sept. 16, 2027",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-03",
+     "endDate": null,
+     "source": "Calculated (seed)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The harvest moon and family reunion.",
+   "howCelebratedInMinnesota": "The Minnesota China Friendship Garden Society and ASANE have held a Mid-Autumn Moon Festival at the China Friendship Garden in Phalen Regional Park, St. Paul, but announced there would be none in 2026. The Chinese Community Center posted a call for 2026 Mid-Autumn volunteers on Sept. 8, 2026, without event details. The Twin Cities Chinese Language School lists Moon Festival celebrations among its activities.",
+   "minnesotaEvents": [
+    {
+     "name": "Mid-Autumn Moon Festival, China Friendship Garden (not held in 2026)",
+     "place": "Liu Ming Yuan, Phalen Regional Park, St. Paul",
+     "link": "https://mnchinagarden.org/upcoming-events/",
+     "organizerDates": "Organizer: no festival in 2026; 'watch for details in 2027'",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Chinese Community Center 2026 Mid-Autumn volunteer call",
+     "place": "Chinese Community Center, Eden Prairie",
+     "link": "https://cccminnesota.org/2026midautumn-volunteer/",
+     "organizerDates": "Posted Sept. 8, 2026; event date not shown",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "General holidays for 2026, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "General holidays for 2027, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Upcoming Events, Minnesota China Friendship Garden Society",
+     "url": "https://mnchinagarden.org/upcoming-events/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Chinese Community Center, Programs",
+     "url": "https://cccminnesota.org/programs/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Twin Cities Chinese Language School",
+     "url": "https://twincitiescls.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "dragon-boat-festival",
+   "name": "Dragon Boat Festival",
+   "alsoKnownAs": [
+    "Duanwu Jie",
+    "Tuen Ng"
+   ],
+   "kind": "cultural",
+   "capsule": "Early-summer festival on the fifth day of the fifth lunar month, known for dragon boat races and sticky rice dumplings.",
+   "dateRule": "Fifth day of the fifth month of the Chinese lunisolar calendar.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-19",
+     "endDate": null,
+     "source": "GovHK general holidays 2026 (Tuen Ng Festival, 19 June)",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-09",
+     "endDate": null,
+     "source": "GovHK general holidays 2027 (Tuen Ng Festival, 9 June)",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-28",
+     "endDate": null,
+     "source": "Calculated (seed)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A traditional early-summer festival; in China dragon boat races date back more than 2,000 years.",
+   "howCelebratedInMinnesota": "No Chinese-organized Duanwu observance in Minnesota was found. St. Paul's pan-Asian Dragon Festival at Lake Phalen, founded in 2000, features dragon boat races in July rather than on the lunar date; it returned July 13, 2024, after a four-year pause. No 2025 or 2026 date was confirmed.",
+   "minnesotaEvents": [
+    {
+     "name": "Dragon Festival (pan-Asian, dragon boat races)",
+     "place": "Lake Phalen, Phalen Regional Park, St. Paul",
+     "link": "https://sahanjournal.com/arts-culture/dragon-fest-returns-lake-phalen-saint-paul/",
+     "organizerDates": "July 13, 2024 (most recent confirmed); later dates not found",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "General holidays for 2026, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "General holidays for 2027, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Dragon Fest returning to Lake Phalen, Sahan Journal",
+     "url": "https://sahanjournal.com/arts-culture/dragon-fest-returns-lake-phalen-saint-paul/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "qingming",
+   "name": "Qingming",
+   "alsoKnownAs": [
+    "Tomb-Sweeping Day",
+    "Ching Ming"
+   ],
+   "kind": "remembrance",
+   "capsule": "Spring day for tending family graves and honoring ancestors, at the solar term around April 4 or 5.",
+   "dateRule": "Solar term beginning about April 4 or 5.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "Calculated (seed); GovHK says Ching Ming fell on a Sunday in 2026 and lists the following day as April 6",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-04-05",
+     "endDate": null,
+     "source": "GovHK general holidays 2027 (Ching Ming Festival, 5 April)",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-04",
+     "endDate": null,
+     "source": "Calculated (seed)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A day for tending family graves and honoring ancestors.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "General holidays for 2026, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "General holidays for 2027, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Lakewood Cemetery community burial areas stroll (Chinese Community Memorial)",
+     "url": "https://www.lakewoodcemetery.org/wp-content/uploads/2021/08/Desktop-Lakewood-Community-Burial-Cemetery-Stroll-8.12.21.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "CAAM Annual Celebration and Scholarship Awards",
+   "alsoKnownAs": [
+    "CAAM Grand Gala"
+   ],
+   "kind": "community festival",
+   "capsule": "Chinese American Association of Minnesota's yearly gala honoring scholarship winners and volunteers.",
+   "dateRule": "Announced each year by CAAM; held in spring.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-09",
+     "endDate": null,
+     "source": "CAAM post, July 1, 2026",
+     "sourceUrl": "https://caam.org/https-caam-org-legacy-of-honor-cultural-synergy-and-youth-empowerment-caams-2025-2026-grand-gala-concludes-with-historic-success-2/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "CAAM's history (59 years in 2026), its Stanley & Marvel Chong Scholarships and its festival volunteers.",
+   "howCelebratedInMinnesota": "Held in St. Paul on May 9, 2026; 11 Chinese American high school seniors received $2,000 to $5,000 scholarships.",
+   "minnesotaEvents": [
+    {
+     "name": "CAAM 2025-2026 Annual Celebration",
+     "place": "St. Paul",
+     "link": "https://caam.org/https-caam-org-legacy-of-honor-cultural-synergy-and-youth-empowerment-caams-2025-2026-grand-gala-concludes-with-historic-success-2/",
+     "organizerDates": "May 9, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CAAM 2025-2026 Grand Gala",
+     "url": "https://caam.org/https-caam-org-legacy-of-honor-cultural-synergy-and-youth-empowerment-caams-2025-2026-grand-gala-concludes-with-historic-success-2/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}

@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-14 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+15 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): chinese, lao now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): lao, khmer, thai now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -25,7 +25,7 @@ ethiopian, oromo, vietnamese, indian and rural are finished, and nothing is stil
 
 ## Not started
 
-amharic, american, arabic-speaking, bosnian, burmese, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, european-american, french, guatemalan, kenyan, khmer, lebanese, liberian, minnesota, nigerian, puerto-rican, russian-speaking, salvadoran, thai, ukrainian.
+amharic, american, arabic-speaking, bosnian, burmese, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, european-american, french, guatemalan, kenyan, lebanese, liberian, minnesota, nigerian, puerto-rican, russian-speaking, salvadoran, ukrainian.
 
 ## Still to do on the calendar
 
@@ -43,6 +43,8 @@ amharic, american, arabic-speaking, bosnian, burmese, colombian, cuban, deaf-dea
 
 Hmong and the methods note could not open these: Star Tribune, Christian Century, the state charter school directory, Carleton's Religions in Minnesota, mn.gov pages (State Demographic Center, Department of Veterans Affairs), the University of Minnesota Conservancy, state courts, the Senate roster, Department of Education pages, and ICPSR.
 
+- Chinese could not open: legacy.mn.gov, Minnesota Lawyer, KARE 11, Explore Minnesota, Minnesota Reformer, and mn.gov pages for aging resources and the Council on Asian Pacific Minnesotans board.
+
 - Japanese could not open: Consulate-General of Japan in Chicago, Minneapolis Institute of Art collection pages, the Legacy grants site, Minnesota courts, Minnesota Reformer, Densho Encyclopedia, Explore Minnesota, Solstice magazine and Como Zoo's Japanese garden page.
 
 - Filipino could not open: Star Tribune, MinnPost, KARE 11, Axios, Bring Me The News, Minnesota Council on Asian Pacific Minnesotans pages, the MDH resource directory and the Festival of Nations site.
@@ -51,6 +53,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Chinese:** 87 opened sources; web search worked throughout. Not established: any Minnesota disability data or services for Chinese families or for adoptees from China, counts of Mandarin, Cantonese or other Chinese-language speakers, religious affiliation, any Chinese Buddhist temple, and any Chinese-owned law, accounting or insurance firm or current Chinese-language media outlet. 13 of 29 businesses could not be confirmed open. The Mid-Autumn Moon Festival at Phalen Park was not held in 2026.
 - **Japanese:** 74 opened sources. Web search ran out partway (the shared limit of 200 searches per round), and the rest was done by opening pages directly. Thin: groceries, bakeries and professional firms (none confirmed open), religion, and Minnesota disability and health evidence. Not established: how many Japanese nationals and company transferees live here, religious makeup, events for Hinamatsuri, Kodomo no Hi, Tanabata or Setsubun, the Cha-Ami Japanese Cultural Center's address, and Judge Susan Burke's current status. 4 of 23 businesses could not be confirmed open.
 - **Filipino:** 65 opened sources; web search worked throughout but Minnesota material was thin. The business list is short (12: 3 open, 8 could not be confirmed open, 1 closed) and no Filipino law, accounting, insurance, tax, travel or salon business, chamber or media outlet was found. Not established: any 2026 or 2027 date for Philippine Day, Pasko sa Nayon, Simbang Gabi or other Minnesota Filipino events (the organizers post only on social media, which could not be read), Filipino-specific health or disability data (the state table is suppressed), Iglesia ni Cristo, Protestant or Muslim Filipino congregations, occupations, and Philippine language counts.
 - **Korean:** full depth (105 opened sources, web search worked throughout). Not established: a government count separating Korean adoptees from immigrants (estimates run 10,000 to 15,000), any Korean chamber of commerce or Korean-owned professional firm, a Minnesota group for Korean families with disabilities, and Minnesota data on how Korean immigrant families understand disability. 10 of 21 businesses could not be confirmed open, including Sole Cafe, Hoban and Dong Yang; Young Joni and Kim's have closed.

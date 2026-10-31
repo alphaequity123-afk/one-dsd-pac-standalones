@@ -1,0 +1,292 @@
+[
+ {
+  "name": "Asia Mall",
+  "type": "mall / market",
+  "neighborhoodOrCity": "Eden Prairie (12160 Technology Dr.)",
+  "whatItIs": "Two-story, about 116,000-square-foot pan-Asian mall opened late 2022, anchored by an Asian grocery; Chinese, Vietnamese and Korean tenants.",
+  "link": "https://sahanjournal.com/business-work/asia-mall-pan-asian-mall-eden-prairie-soft-opening-minnesota/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Mpls.St.Paul Magazine (Feb. 10, 2026) lists the Chinese Community Center's Lunar New Year celebration at Asia Mall on Feb. 15, 2026; Chinese Community Center's own 2026 site gives its address as Suite 208 in the mall. Ownership is not Chinese-specific (pan-Asian)."
+ },
+ {
+  "name": "Asia Village",
+  "type": "mall (planned)",
+  "neighborhoodOrCity": "Blaine (301 Northtown Dr. N.E.)",
+  "whatItIs": "Second Asian-themed complex planned by Asia Mall's owners in a 100,000-square-foot building connected to Northtown Mall, with a large Asian grocery.",
+  "link": "https://eplocalnews.org/2024/05/02/developers-of-popular-asia-mall-are-launching-a-second-asian-themed-complex-in-blaine/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "May 2024 announcement targeted late 2025 or early 2026 opening; no opened page confirms it has opened."
+ },
+ {
+  "name": "Keefer Court",
+  "type": "bakery",
+  "neighborhoodOrCity": "Eden Prairie (Asia Mall); formerly West Bank, Minneapolis",
+  "whatItIs": "Chinese bakery founded by Sunny and Paulina Kwan in 1983 (began as a fortune cookie business); closed Dec. 2022; reopened March 2024 at Asia Mall under owners Michael Bui, Mai Bui and Peter Do.",
+  "link": "https://www.mprnews.org/story/2024/03/15/popular-keefer-court-reopens-in-eden-prairies-asia-mall",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "MPR News, March 15, 2024, reports the reopening; no 2025 or 2026 page opened confirms it is still operating."
+ },
+ {
+  "name": "United Noodles",
+  "type": "grocery",
+  "neighborhoodOrCity": "Minneapolis and Woodbury",
+  "whatItIs": "Family-owned Asian grocery, 'Minnesota's Asian Market Since 1972,' selling noodles, sauces, produce, hot pot ingredients and kitchenware.",
+  "link": "https://www.unitednoodles.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists store hours for Minneapolis and Woodbury, copyright 2026. Ownership heritage is not stated on the page."
+ },
+ {
+  "name": "Rainbow Chinese Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Whittier / Eat Street, Minneapolis (2739 Nicollet Ave. S.)",
+  "whatItIs": "Chef Tammy Wong's restaurant, opened when she was 23 and run for more than 36 years; Wong was born in the Chinese quarter of Saigon.",
+  "link": "https://rainbowrestaurant.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists hours Wednesday to Sunday; Mpls.St.Paul Magazine (Feb. 10, 2026) lists a free Family Meal there on Feb. 18, 2026."
+ },
+ {
+  "name": "Shuang Cheng Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Dinkytown, Minneapolis (1320 4th St. SE)",
+  "whatItIs": "Cantonese restaurant near the University of Minnesota, known for seafood and Peking duck.",
+  "link": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Named in Mpls.St.Paul Magazine and Meet Minneapolis Lunar New Year guides, February 2026, offering a 2026 Peking duck special. Own site could not be opened."
+ },
+ {
+  "name": "Tea House Chinese Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Stadium Village, Minneapolis",
+  "whatItIs": "Regional Chinese restaurant serving Sichuan and Anhui specialties, including whole fish.",
+  "link": "https://www.minneapolis.org/calendar/holidays/lunar-new-year/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Named in Meet Minneapolis and Mpls.St.Paul Magazine Lunar New Year guides, February 2026."
+ },
+ {
+  "name": "Legendary Spice",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Dinkytown, Minneapolis; also opened at Asia Mall in 2022",
+  "whatItIs": "Chinese restaurant known for spicy dishes such as dry pot prawns and hot and sour beef; offered a $188 Chinese New Year family feast in 2026.",
+  "link": "https://www.minneapolis.org/calendar/holidays/lunar-new-year/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Meet Minneapolis 2026 Lunar New Year page lists its 2026 Chinese New Year special for the Dinkytown location; Sahan Journal (Nov. 2022) listed it among Asia Mall's opening tenants. Asia Mall location not separately confirmed."
+ },
+ {
+  "name": "Yangtze Restaurant",
+  "type": "restaurant (dim sum)",
+  "neighborhoodOrCity": "St. Louis Park",
+  "whatItIs": "Restaurant serving Hunan, Sichuan, Mandarin and Cantonese dishes, with weekend dim sum 10 a.m. to 2 p.m.",
+  "link": "https://www.minneapolis.org/calendar/holidays/lunar-new-year/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Named in Meet Minneapolis and Mpls.St.Paul Magazine Lunar New Year guides, February 2026."
+ },
+ {
+  "name": "JUN Szechuan Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "North Loop, Minneapolis (730 N. Washington Ave., #140)",
+  "whatItIs": "Sichuan restaurant with Shandong-style dumplings, run by Shandong-born chef Jessie Wong and her son Jack, who opened Szechuan in Roseville in 2009.",
+  "link": "https://northloop.org/directory/business/jun/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Mpls.St.Paul Magazine, Feb. 10, 2026, lists its Lunar New Year noodles and dumplings; own site could not be opened."
+ },
+ {
+  "name": "Szechuan (Roseville)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Roseville",
+  "whatItIs": "Sichuan restaurant opened in 2009 by Jessie and Jack Wong, the owners of JUN.",
+  "link": "https://northloop.org/directory/business/jun/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Mentioned only as the owners' earlier restaurant on the North Loop directory page; no current page opened."
+ },
+ {
+  "name": "Peking Garden",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Avenue, St. Paul (Little Mekong area)",
+  "whatItIs": "Cantonese restaurant since 1991, now in its third location in the former Mai Village space; live seafood and hot pot.",
+  "link": "https://www.visitsaintpaul.com/blog/chinese-restaurants-saint-paul/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Hosted the fifth annual Twin Cities Dumpling Feast on Feb. 25, 2026 (Minnesota Monthly and Mpls.St.Paul Magazine, Feb. 10, 2026)."
+ },
+ {
+  "name": "Master Noodle",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Avenue, St. Paul",
+  "whatItIs": "Restaurant known for hand-pulled biang biang noodles and Sichuan dishes.",
+  "link": "https://www.visitsaintpaul.com/blog/chinese-restaurants-saint-paul/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed in Visit Saint Paul's undated Chinese restaurants guide (site copyright 2026); no dated current page opened."
+ },
+ {
+  "name": "Kim's Chow Mein",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Merriam Park, St. Paul",
+  "whatItIs": "Small, long-running neighborhood Chinese-American restaurant.",
+  "link": "https://www.visitsaintpaul.com/blog/chinese-restaurants-saint-paul/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed in Visit Saint Paul's undated guide only."
+ },
+ {
+  "name": "Golden Chow Mein",
+  "type": "restaurant",
+  "neighborhoodOrCity": "West 7th, St. Paul",
+  "whatItIs": "Neighborhood Cantonese takeout restaurant of about three decades.",
+  "link": "https://www.visitsaintpaul.com/blog/chinese-restaurants-saint-paul/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed in Visit Saint Paul's undated guide only."
+ },
+ {
+  "name": "Little Szechuan Hot Pot",
+  "type": "restaurant (hot pot)",
+  "neighborhoodOrCity": "University Avenue, St. Paul",
+  "whatItIs": "Sichuan hot pot restaurant.",
+  "link": "https://www.visitsaintpaul.com/blog/chinese-restaurants-saint-paul/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed in Visit Saint Paul's undated guide only."
+ },
+ {
+  "name": "Grand Szechuan",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Bloomington (10602 France Ave. S.)",
+  "whatItIs": "Sichuan restaurant serving since 2008, led by Chef Luo.",
+  "link": "https://grandszechuanmn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site with current dine-in and take-out menus, address and ordering links."
+ },
+ {
+  "name": "Mandarin Kitchen",
+  "type": "restaurant (dim sum)",
+  "neighborhoodOrCity": "Bloomington (Lyndale Ave. S.)",
+  "whatItIs": "Long-known Twin Cities dim sum restaurant.",
+  "link": "https://www.mandarinkitchenmn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "The domain now shows a page titled 'Welcome to Mr. Ping's Noodles'; city tourism page blocked; no current confirmation."
+ },
+ {
+  "name": "Home Taste",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eden Prairie (Asia Mall)",
+  "whatItIs": "Chinese restaurant listed among Asia Mall's opening tenants.",
+  "link": "https://sahanjournal.com/business-work/asia-mall-pan-asian-mall-eden-prairie-soft-opening-minnesota/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only source is Sahan Journal, Nov. 1, 2022."
+ },
+ {
+  "name": "Leeann Chin",
+  "type": "restaurant chain",
+  "neighborhoodOrCity": "Twin Cities and other locations",
+  "whatItIs": "Chinese-American fast-casual chain founded by Leeann Chin, who opened her first restaurant in Minnetonka in 1980.",
+  "link": "https://www.leeannchin.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site with locations and online ordering, copyright 2026. The founder died in 2010 and the business has been sold more than once."
+ },
+ {
+  "name": "David Fong's",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Bloomington (Lyndale Ave. S. at W. 94th St.)",
+  "whatItIs": "Cantonese-American restaurant opened by David Sr. and Helen Fong in 1958 as Fong's Chow Mein.",
+  "link": "https://www.fox9.com/news/popular-bloomington-restaurant-david-fongs-set-to-close",
+  "dateChecked": "2026-10-31",
+  "status": "closed",
+  "evidence": "FOX 9 reported it would close at the end of August 2022 after 64 years as Edward Fong retired."
+ },
+ {
+  "name": "Fong family restaurants, Prior Lake and Savage",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Prior Lake and Savage",
+  "whatItIs": "Locations owned by other Fong siblings.",
+  "link": "https://www.fox9.com/news/popular-bloomington-restaurant-david-fongs-set-to-close",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "FOX 9 (2022) said they would remain open; no current page opened."
+ },
+ {
+  "name": "Dragon Cafe Chinese Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Shakopee",
+  "whatItIs": "Family restaurant bought by a Guangdong immigrant family in 1986, later run by an older daughter; three generations have worked there.",
+  "link": "https://www.shakopeeheritage.org/historic-articles/people/yu-heng/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Shakopee Heritage Society profile is undated; no current page opened."
+ },
+ {
+  "name": "Chinese Community Center",
+  "type": "community organization",
+  "neighborhoodOrCity": "Eden Prairie (12160 Technology Dr., #208)",
+  "whatItIs": "Nonprofit founded by grassroots organizers; social services, health services, youth programs, Mandarin and Cantonese tutoring, support for minority-owned businesses, and a large Lunar New Year festival.",
+  "link": "https://cccminnesota.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site copyright 2026 with posts dated Sept. and Oct. 2026."
+ },
+ {
+  "name": "Chinese American Association of Minnesota (CAAM)",
+  "type": "community organization",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "State's oldest Chinese American organization (1951; incorporated 1967): Chinese Dance Theater, language school, scholarships, community meals.",
+  "link": "https://caam.org/history/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Posts dated Dec. 2025 and July 1, 2026, report 2025 and 2026 events."
+ },
+ {
+  "name": "Chinese Social Service Center",
+  "type": "social service agency",
+  "neighborhoodOrCity": "Minneapolis (620 W. 58th St.)",
+  "whatItIs": "Community center for Chinese Americans: immigrant counseling, ESL and citizenship classes, benefits applications, translation, home care and PCA services, senior program.",
+  "link": "https://search.211unitedway.org/search/eaecc1f2-c03c-5fc8-8d06-0e1147d36001",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "United Way 211 listing last assured Nov. 20, 2025."
+ },
+ {
+  "name": "Twin Cities Chinese Language School",
+  "type": "school (weekend heritage)",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Nonprofit Chinese school founded in 1976 (CAAM gives January 1975) teaching traditional characters, Zhuyin and Pinyin.",
+  "link": "https://twincitiescls.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site with current programs, staff and registration; CAAM language school page lists principals through 2025."
+ },
+ {
+  "name": "Chinese Chamber of Commerce (Minnesota)",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Business group formed in the early 1970s when merchants split from CAAM.",
+  "link": "https://caam.org/history/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Known only from CAAM's history page; no current organization page found."
+ },
+ {
+  "name": "News & Views (CAAM newsletter)",
+  "type": "media",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "English and Chinese newsletter of CAAM, listed from 1994.",
+  "link": "https://libguides.mnhs.org/chinese-americans/newspapers",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "MNHS library guide lists it as '[1994]-current' but gives no recent issue."
+ }
+]
