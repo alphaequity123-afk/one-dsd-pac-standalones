@@ -328,19 +328,6 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:feast-of-st-maron-2026-02-09@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20260209
-DTEND;VALUE=DATE:20260210
-SUMMARY:Feast of St. Maron
-DESCRIPTION:The fourth-century hermit and priest Maron\, from whom Maroni
- tes take their name. Date: February 9 each year. Source: Fixed date\; Cal
- endarLabs lists Saint Maroun's Day on Feb. 9 https://www.calendarlabs.com
- /holidays/lebanon/2026 Communities: Lebanese Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:karen-national-day-2026-02-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260211
@@ -594,8 +581,9 @@ DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 SUMMARY:Korean Independence Movement Day
 DESCRIPTION:The 1919 March First Movement for independence from Japanese 
- colonial rule. Date: March 1. Source: PublicHolidays.co.kr (2026 table) h
- ttps://publicholidays.co.kr/ Communities: Korean Minnesota
+ colonial rule. Date: March 1. Source: Republic of Korea\, Ministry of Per
+ sonnel Management\, Public Holiday System https://www.mpm.go.kr/english/s
+ ystem/infoService/bizService03/ Communities: Korean Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1031,18 +1019,6 @@ DESCRIPTION:The 1946 founding of the Twin Cities Buddhist Sangha. Date: O
  ddhist-sangha-celebrates-its-80th-anniversary Communities: Japanese Minne
  sota
 CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:childrens-day-2026-05-05@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-SUMMARY:Children's Day
-DESCRIPTION:A day honoring children. Date: May 5 each year (public holida
- y in South Korea). Source: PublicHolidays.co.kr (2026 table) https://publ
- icholidays.co.kr/ Communities: Korean Minnesota
-CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1970,8 +1946,9 @@ DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:Korean Liberation Day
 DESCRIPTION:Liberation from Japanese rule in 1945. Date: August 15. Sourc
- e: PublicHolidays.co.kr (2026 table) https://publicholidays.co.kr/ Commun
- ities: Korean Minnesota
+ e: Republic of Korea\, Ministry of Personnel Management\, Public Holiday 
+ System https://www.mpm.go.kr/english/system/infoService/bizService03/ Com
+ munities: Korean Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2470,8 +2447,9 @@ SUMMARY:Chuseok
 DESCRIPTION:Autumn harvest and ancestral remembrance\; families gather an
  d set a table for ancestors. Date: Fifteenth day of the eighth month of t
  he Korean lunisolar calendar\; the South Korean holiday spans three days.
-  Source: PublicHolidays.co.kr lists Sept. 24-26\, 2026 https://publicholi
- days.co.kr/ Communities: Korean Minnesota
+  Source: Korea Astronomy and Space Science Institute\, Calendar data 2026
+  (page states it is not the official 월력요항) https://astro.kasi.re.
+ kr/life/post/calendarData?year=2026 Communities: Korean Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3521,19 +3499,6 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:feast-of-st-maron-2027-02-09@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
-SUMMARY:Feast of St. Maron
-DESCRIPTION:The fourth-century hermit and priest Maron\, from whom Maroni
- tes take their name. Date: February 9 each year. Source: Fixed date\; Cal
- endarLabs lists Saint Maroun's Day on Feb. 9 https://www.calendarlabs.com
- /holidays/lebanon/2026 Communities: Lebanese Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ash-wednesday-2027-02-10@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270210
@@ -3668,8 +3633,9 @@ DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Korean Independence Movement Day
 DESCRIPTION:The 1919 March First Movement for independence from Japanese 
- colonial rule. Date: March 1. Source: PublicHolidays.co.kr https://public
- holidays.co.kr/ Communities: Korean Minnesota
+ colonial rule. Date: March 1. Source: Republic of Korea\, Ministry of Per
+ sonnel Management\, Public Holiday System https://www.mpm.go.kr/english/s
+ ystem/infoService/bizService03/ Communities: Korean Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3838,18 +3804,6 @@ DESCRIPTION:The resurrection of Jesus in Eastern Christian tradition\, af
   Arabic-speaking Minnesota\, Bosnian Minnesota\, Lebanese Minnesota\, Rus
  sian-speaking Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:childrens-day-2027-05-05@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20270505
-DTEND;VALUE=DATE:20270506
-SUMMARY:Children's Day
-DESCRIPTION:A day honoring children. Date: May 5 each year (public holida
- y in South Korea). Source: PublicHolidays.co.kr (fixed date) https://publ
- icholidays.co.kr/ Communities: Korean Minnesota
-CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4343,8 +4297,9 @@ DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:Korean Liberation Day
 DESCRIPTION:Liberation from Japanese rule in 1945. Date: August 15. Sourc
- e: PublicHolidays.co.kr https://publicholidays.co.kr/ Communities: Korean
-  Minnesota
+ e: Republic of Korea\, Ministry of Personnel Management\, Public Holiday 
+ System https://www.mpm.go.kr/english/system/infoService/bizService03/ Com
+ munities: Korean Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5128,19 +5083,6 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:feast-of-st-maron-2028-02-09@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20280209
-DTEND;VALUE=DATE:20280210
-SUMMARY:Feast of St. Maron
-DESCRIPTION:The fourth-century hermit and priest Maron\, from whom Maroni
- tes take their name. Date: February 9 each year. Source: Fixed date\; Cal
- endarLabs lists Saint Maroun's Day on Feb. 9 https://www.calendarlabs.com
- /holidays/lebanon/2026 Communities: Lebanese Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:karen-national-day-2028-02-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280211
@@ -5260,8 +5202,9 @@ DTSTART;VALUE=DATE:20280301
 DTEND;VALUE=DATE:20280302
 SUMMARY:Korean Independence Movement Day
 DESCRIPTION:The 1919 March First Movement for independence from Japanese 
- colonial rule. Date: March 1. Source: PublicHolidays.co.kr https://public
- holidays.co.kr/ Communities: Korean Minnesota
+ colonial rule. Date: March 1. Source: Republic of Korea\, Ministry of Per
+ sonnel Management\, Public Holiday System https://www.mpm.go.kr/english/s
+ ystem/infoService/bizService03/ Communities: Korean Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5426,18 +5369,6 @@ DESCRIPTION:Asian American and Pacific Islander heritage\; the May date h
  mn.gov/governor/assets/05.01.25%20AANHPI%20Month_tcm1055-682510.pdf Commu
  nities: Japanese Minnesota
 CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:childrens-day-2028-05-05@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20280505
-DTEND;VALUE=DATE:20280506
-SUMMARY:Children's Day
-DESCRIPTION:A day honoring children. Date: May 5 each year (public holida
- y in South Korea). Source: PublicHolidays.co.kr (fixed date) https://publ
- icholidays.co.kr/ Communities: Korean Minnesota
-CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5822,8 +5753,9 @@ DTSTART;VALUE=DATE:20280815
 DTEND;VALUE=DATE:20280816
 SUMMARY:Korean Liberation Day
 DESCRIPTION:Liberation from Japanese rule in 1945. Date: August 15. Sourc
- e: PublicHolidays.co.kr https://publicholidays.co.kr/ Communities: Korean
-  Minnesota
+ e: Republic of Korea\, Ministry of Personnel Management\, Public Holiday 
+ System https://www.mpm.go.kr/english/system/infoService/bizService03/ Com
+ munities: Korean Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT

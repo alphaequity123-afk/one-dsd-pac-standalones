@@ -15,7 +15,7 @@
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): liberian, nigerian, ecuadorian, kenyan, amharic, guatemalan, salvadoran, cuban, puerto-rican now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): liberian, nigerian, ecuadorian, kenyan, amharic, guatemalan, salvadoran, cuban, puerto-rican, french, deaf-deafblind-hard-of-hearing now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -25,7 +25,7 @@ ethiopian, oromo, vietnamese, indian and rural are finished, and nothing is stil
 
 ## Not started
 
-american, deaf-deafblind-hard-of-hearing, european-american, french, minnesota.
+american, european-american, minnesota.
 
 ## Still to do on the calendar
 
@@ -37,6 +37,7 @@ american, deaf-deafblind-hard-of-hearing, european-american, french, minnesota.
 - Commercial calendar sites do not confirm a date. They only add a note.
 - Official sources that disagree confirm nothing. Holi 2027 stays unconfirmed because the Government of India's holiday list says March 23 and the panchang says March 22.
 - Moon-sighted dates are never shown as confirmed.
+- On October 31, 2026, Korean and Lebanese dates that rested only on commercial holiday sites (publicholidays.co.kr, calendarlabs.com) were changed to unconfirmed. Two dates from Gary's computer still rest on such sources: the Hmong American Day Festival 2026 (a Scouting outreach calendar) and Onam 2026 (drikpanchang.com).
 - The `.ics` file carries confirmed dates only.
 
 ## Blocked sources

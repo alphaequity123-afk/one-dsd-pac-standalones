@@ -179,9 +179,9 @@
      "year": 2026,
      "date": "2026-09-25",
      "endDate": null,
-     "source": "PublicHolidays.co.kr lists Sept. 24-26, 2026",
+     "source": "PublicHolidays.co.kr lists Sept. 24-26, 2026 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
@@ -380,25 +380,25 @@
      "year": 2026,
      "date": "2026-05-05",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (2026 table)",
+     "source": "PublicHolidays.co.kr (2026 table) (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-05-05",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (fixed date)",
+     "source": "PublicHolidays.co.kr (fixed date) (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-05-05",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (fixed date)",
+     "source": "PublicHolidays.co.kr (fixed date) (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -448,25 +448,25 @@
      "year": 2026,
      "date": "2026-03-01",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (2026 table)",
+     "source": "PublicHolidays.co.kr (2026 table) (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-03-01",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
+     "source": "PublicHolidays.co.kr (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-03-01",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
+     "source": "PublicHolidays.co.kr (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -497,25 +497,25 @@
      "year": 2026,
      "date": "2026-08-15",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (2026 table)",
+     "source": "PublicHolidays.co.kr (2026 table) (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-08-15",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
+     "source": "PublicHolidays.co.kr (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-08-15",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
+     "source": "PublicHolidays.co.kr (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -749,25 +749,25 @@
      "year": 2026,
      "date": "2026-12-25",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (2026 table)",
+     "source": "PublicHolidays.co.kr (2026 table) (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-12-25",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
+     "source": "PublicHolidays.co.kr (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-12-25",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
+     "source": "PublicHolidays.co.kr (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",

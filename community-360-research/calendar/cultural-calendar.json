@@ -16091,8 +16091,8 @@
      "year": 2026,
      "date": "2026-09-25",
      "endDate": null,
-     "source": "PublicHolidays.co.kr lists Sept. 24-26, 2026",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Korea Astronomy and Space Science Institute, Calendar data 2026 (page states it is not the official 월력요항)",
+     "sourceUrl": "https://astro.kasi.re.kr/life/post/calendarData?year=2026",
      "verified": true
     },
     {
@@ -16328,25 +16328,25 @@
      "year": 2026,
      "date": "2026-05-05",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (2026 table)",
+     "source": "PublicHolidays.co.kr (2026 table) (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-05-05",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (fixed date)",
+     "source": "PublicHolidays.co.kr (fixed date) (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-05-05",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (fixed date)",
+     "source": "PublicHolidays.co.kr (fixed date) (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://publicholidays.co.kr/",
-     "verified": true
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -16408,24 +16408,24 @@
      "year": 2026,
      "date": "2026-03-01",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (2026 table)",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-03-01",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-03-01",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
      "verified": true
     }
    ],
@@ -16469,24 +16469,24 @@
      "year": 2026,
      "date": "2026-08-15",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (2026 table)",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-08-15",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-08-15",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
+     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
      "verified": true
     }
    ],
@@ -16781,24 +16781,24 @@
      "year": 2026,
      "date": "2026-12-25",
      "endDate": null,
-     "source": "PublicHolidays.co.kr (2026 table)",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-12-25",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-12-25",
      "endDate": null,
-     "source": "PublicHolidays.co.kr",
-     "sourceUrl": "https://publicholidays.co.kr/",
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     }
    ],
@@ -18734,24 +18734,24 @@
      "year": 2026,
      "date": "2026-11-22",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "source": "Republic of Liberia, Ministry of Foreign Affairs, President Weah Applauds Lebanon on 77th Independence observance",
+     "sourceUrl": "https://mofa.gov.lr/node/6223",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-11-22",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "source": "Republic of Liberia, Ministry of Foreign Affairs, President Weah Applauds Lebanon on 77th Independence observance",
+     "sourceUrl": "https://mofa.gov.lr/node/6223",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-11-22",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "source": "Republic of Liberia, Ministry of Foreign Affairs, President Weah Applauds Lebanon on 77th Independence observance",
+     "sourceUrl": "https://mofa.gov.lr/node/6223",
      "verified": true
     }
    ],
@@ -18795,25 +18795,25 @@
      "year": 2026,
      "date": "2026-02-09",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9",
+     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-02-09",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9",
+     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-02-09",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9",
+     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -19041,24 +19041,24 @@
      "year": 2026,
      "date": "2026-12-25",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-12-25",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-12-25",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     }
    ],

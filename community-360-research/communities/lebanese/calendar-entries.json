@@ -212,25 +212,25 @@
      "year": 2026,
      "date": "2026-11-22",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22",
+     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-11-22",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22",
+     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-11-22",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22",
+     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -261,25 +261,25 @@
      "year": 2026,
      "date": "2026-02-09",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9",
+     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-02-09",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9",
+     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-02-09",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9",
+     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -459,25 +459,25 @@
      "year": 2026,
      "date": "2026-12-25",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25",
+     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-12-25",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25",
+     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-12-25",
      "endDate": null,
-     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25",
+     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25 (a commercial calendar site; date not confirmed by an official source)",
      "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
-     "verified": true
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
