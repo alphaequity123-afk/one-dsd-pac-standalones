@@ -14,13 +14,6 @@
   "usedFor": "DMIS stages, questions, criticisms, IDI background"
  },
  {
-  "title": "The Intercultural Development Continuum",
-  "publisher": "Intercultural Development Inventory",
-  "url": "https://idiinventory.com/idc",
-  "dateChecked": "2026-10-31",
-  "usedFor": "Two forms of Minimization; 'go along to get along'"
- },
- {
   "title": "ACS 2024 one-year, table B03002 (Minnesota)",
   "publisher": "U.S. Census Bureau via Census Reporter",
   "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03002&geo_ids=04000US27",
@@ -649,12 +642,5 @@
   "url": "https://www.mnhs.org/mnopedia/search/index/thing/minnesota-amendment-1",
   "dateChecked": "2026-10-31",
   "usedFor": "2012 vote"
- },
- {
-  "title": "Utilizing the Intercultural Development Inventory to develop intercultural competence (Kruse et al., 2014)",
-  "publisher": "SpringerPlus via PubMed Central",
-  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112197/",
-  "dateChecked": "2026-10-31",
-  "usedFor": "IDI aggregate findings"
  }
 ]
