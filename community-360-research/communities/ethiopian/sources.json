@@ -94,7 +94,7 @@
   "title": "English Learners in Minnesota 2023-24",
   "publisher": "Minnesota Department of Education",
   "url": "https://files.eric.ed.gov/fulltext/ED676212.pdf",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "usedFor": "Profile"
  },
  {
@@ -171,7 +171,7 @@
   "title": "Bolé Ethiopian Cuisine",
   "publisher": "own site",
   "url": "https://boleethiopiancuisine.com/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "usedFor": "Profile"
  },
  {
@@ -782,5 +782,201 @@
   "url": "https://sahanjournal.com/topics/news/",
   "dateChecked": "2026-10-30",
   "usedFor": "Related headlines"
+ },
+ {
+  "title": "Ethiopia: Renewed Tigray Fighting Shows Need to Protect Civilians",
+  "publisher": "Human Rights Watch",
+  "url": "https://www.hrw.org/news/2026/09/24/ethiopia-renewed-tigray-fighting-shows-need-to-protect-civilians",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 13: start of fall 2026 fighting"
+ },
+ {
+  "title": "Macalester student raises awareness for the War on Tigray",
+  "publisher": "The Mac Weekly",
+  "url": "https://themacweekly.com/2022/11/macalester-student-raises-awareness-for-the-war-on-tigray/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 9: Tigrayan student voice, 2022"
+ },
+ {
+  "title": "Rep. Ilhan Omar Statement on the Situation in Ethiopia",
+  "publisher": "Office of Rep. Ilhan Omar",
+  "url": "https://omar.house.gov/media/press-releases/rep-ilhan-omar-statement-situation-ethiopia",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sections 1 and 9: 2021 statement naming Tigrayan constituents and Amhara killings"
+ },
+ {
+  "title": "Omar, Garamendi, McGovern Release Statement on Hostilities in Ethiopia",
+  "publisher": "Office of Rep. Ilhan Omar",
+  "url": "https://omar.house.gov/media/press-releases/omar-garamendi-mcgovern-release-statement-hostilities-ethiopia",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 13: Oct. 1, 2026 statement"
+ },
+ {
+  "title": "Minnesota Senators Urge Biden Administration to Aid Ethiopia (KTTC report)",
+  "publisher": "ZeHabesha",
+  "url": "https://zehabesha.com/minnesota-senators-urge-biden-administration-to-aid-ethiopia/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 9: Smith and Klobuchar letter, 2024"
+ },
+ {
+  "title": "The Economic Status of Minnesotans 2026",
+  "publisher": "Minnesota State Demographic Center",
+  "url": "https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sections 1, 2, 3, 12: count, earnings, labor force, disability suppression"
+ },
+ {
+  "title": "2020 Census Detailed DHC-A population group list",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://api.census.gov/data/2020/dec/ddhca/variables/POPGROUP.json",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 1: no Amhara, Tigrayan or Gurage groups tabulated"
+ },
+ {
+  "title": "ACS table B16001 variable list, 2019-2023",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://api.census.gov/data/2023/acs/acs5/groups/B16001.json",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 1: Amharic grouped with Somali and other Afro-Asiatic languages"
+ },
+ {
+  "title": "For Minnesota's Immigrants, Where They Come from Can Have an Influence on What Jobs They Do",
+  "publisher": "Twin Cities Business",
+  "url": "https://tcbmag.com/?p=14831",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 3: Africa-born industries, 2014 data"
+ },
+ {
+  "title": "Free Income Tax Preparation Service Initiative",
+  "publisher": "Debre Selam Medhanealem EOTC",
+  "url": "https://www.debreselam.net/?p=2247",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sections 1 and 4: tax program, interpreters sought"
+ },
+ {
+  "title": "Home page",
+  "publisher": "Debre Selam Medhanealem EOTC",
+  "url": "https://www.debreselam.net/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 5: address and parish groups"
+ },
+ {
+  "title": "Annual DSMA Health Day",
+  "publisher": "Debre Selam Medhanealem EOTC",
+  "url": "https://www.debreselam.net/?page_id=1363",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sections 6 and 11: 5K run and walk"
+ },
+ {
+  "title": "Feasts and fasts calendar 2025-26",
+  "publisher": "Debre Selam Medhanealem EOTC",
+  "url": "https://www.debreselam.net/?p=17205",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sections 5 and 6, calendar: 2026 dates"
+ },
+ {
+  "title": "Identifying Needs of Ethiopian and Eritrean American Parents of Autistic Children (record and abstract)",
+  "publisher": "Europe PMC",
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1007/s10803-023-06102-7&resultType=core&format=json",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 12: national background"
+ },
+ {
+  "title": "How PACER Center Reaches 10,000 Parents of Children with Disabilities Across 8 Languages",
+  "publisher": "Synthesia",
+  "url": "https://www.synthesia.io/case-studies/pacer-center",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 12: PACER multilingual videos"
+ },
+ {
+  "title": "Community Programs - Ethio American Foundation",
+  "publisher": "211 United Way",
+  "url": "https://search.211unitedway.org/search/a933a5c6-0db7-5bc4-b8c0-81514f816d87",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sections 4, 9, 11: services"
+ },
+ {
+  "title": "Home page",
+  "publisher": "Ethio American Foundation",
+  "url": "https://ethioamericanfoundation.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 9"
+ },
+ {
+  "title": "News and Stories",
+  "publisher": "Ethio American Foundation",
+  "url": "https://ethioamericanfoundation.org/news-stories/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 1: population claim"
+ },
+ {
+  "title": "Community Heroes",
+  "publisher": "Ethio American Foundation",
+  "url": "https://ethioamericanfoundation.org/community-heroes/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sections 1 and 9"
+ },
+ {
+  "title": "Gebeta Ethiopian Restaurant Now Open",
+  "publisher": "West St. Paul Reader",
+  "url": "https://weststpaulreader.com/2026/05/15/gebeta-ethiopian-restaurant-now-open/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 4 and businesses"
+ },
+ {
+  "title": "Hamline-Midway Ethiopian restaurant Fasika to close Saturday",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/?p=2780513",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 4 and businesses: Fasika closing"
+ },
+ {
+  "title": "Ethiopian food + vegan donuts in the Twin Cities",
+  "publisher": "Cadry's Kitchen",
+  "url": "https://cadryskitchen.com/ethiopian-vegan-donuts-twin-cities/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 4: Fasika closed June 2023"
+ },
+ {
+  "title": "Little Africa",
+  "publisher": "Visit Saint Paul",
+  "url": "https://www.visitsaintpaul.com/things-to-do/neighborhoods/little-africa/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 4: district and plaza"
+ },
+ {
+  "title": "EDAM on the Road: Opportunities Along the Green Line in Saint Paul",
+  "publisher": "Economic Development Association of Minnesota",
+  "url": "https://www.edam.org/EDAM/Events/2026/Emerging-Professionals/On-the-Road/Home",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 4: Project of the Year"
+ },
+ {
+  "title": "Saint Paul's Vibrant Little Africa",
+  "publisher": "Visit Saint Paul",
+  "url": "https://www.visitsaintpaul.com/blog/saint-pauls-little-taste-of-africa/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 4: Addis Market, Snelling Cafe"
+ },
+ {
+  "title": "In Amharic, Karen and Spanish, worship is like home for migrants in heartland town",
+  "publisher": "Associated Press via WSLS",
+  "url": "https://www.wsls.com/news/national/2024/10/31/in-amharic-karen-and-spanish-worship-is-like-home-for-migrants-in-heartland-town/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sections 1 and 5: Worthington congregation"
+ },
+ {
+  "title": "Al-Ihsan Islamic Center listing",
+  "publisher": "Zabihah",
+  "url": "https://www.zabihah.com/mosques/136d5e85-776a-11ef-95ae-6045bdeb9f57/al-ihsan-islamic-center-st-paul-mn",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 5: mosque check"
+ },
+ {
+  "title": "Masjid Al-Wahyain listing",
+  "publisher": "Zabihah",
+  "url": "https://www.zabihah.com/mosques/137fbbcc-776a-11ef-95ae-6045bdeb9f57/masjid-al-wahyain-saint-paul-mn",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Section 5: mosque check"
  }
 ]

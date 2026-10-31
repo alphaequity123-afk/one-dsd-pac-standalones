@@ -475,6 +475,19 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:abiy-tsom-great-lent-2026-02-16@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260413
+SUMMARY:Abiy Tsom (Great Lent)
+DESCRIPTION:The long fast before Easter. Date: Fifty-five days ending at 
+ Fasika\; start date calculated from Eastern Orthodox Easter. Source: Debr
+ e Selam Medhanealem EOTC\, Minneapolis\, published calendar (Oct. 29\, 20
+ 25) https://www.debreselam.net/?p=17205 Communities: Ethiopian Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:giao-thừa-and-tết-at-chùa-phật-ân-2026-02-16@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260216
@@ -1017,6 +1030,19 @@ DESCRIPTION:The resurrection of Jesus in Eastern Christian tradition\, af
   Calendar) https://www.acrod.org/prayercorner/movablefeasts/ Communities:
   Arabic-speaking Minnesota\, Bosnian Minnesota\, Lebanese Minnesota\, Rus
  sian-speaking Minnesota\, Ukrainian Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fasika-2026-04-12@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Fasika
+DESCRIPTION:Easter in the Ethiopian Orthodox tradition. Date: Same date a
+ s Eastern Orthodox Easter. Source: Debre Selam Medhanealem EOTC\, Minneap
+ olis\, published calendar (Oct. 29\, 2025) https://www.debreselam.net/?p=
+ 17205 Communities: Ethiopian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2394,6 +2420,20 @@ DESCRIPTION:Devotion to the Divine Savior of the World\, patron of El Sal
  ly 28-Aug. 4\, main Mass Aug. 6 https://diario.elmundo.sv/nacionales/igle
  sia-catolica-anuncia-programa-de-fiestas-del-divino-salvador-del-mundo Co
  mmunities: Salvadoran Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:filseta-fast-of-the-assumption-2026-08-07@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260823
+SUMMARY:Filseta (Fast of the Assumption)
+DESCRIPTION:A fast before the feast of the Assumption of the Virgin Mary 
+ (Nehase Kidane Mehret). Date: Nehase 1 to 16 in the Ethiopian calendar\, 
+ which falls on Aug. 7 to 22 in the Gregorian calendar. Source: Debre Sela
+ m Medhanealem EOTC\, Minneapolis\, published calendar https://www.debrese
+ lam.net/?p=17205 Communities: Ethiopian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT

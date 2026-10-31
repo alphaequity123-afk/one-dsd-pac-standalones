@@ -24,8 +24,8 @@ Checked: October 30, 2026. Each item gives the claim, what the opened source say
    **Link:** https://www.longfellownokomismessenger.com/stories/debre-selam-medhanealem-ethiopian-orthodox-tewahedo-churchfinds-new-home-in-seward,161305 . Checked Oct. 30, 2026.
 
 5. **Claim:** Historical events list "2020-2022: War in Tigray, still shaping some households."
-   **Source says:** Fighting has resumed. Al Jazeera reported on Oct. 15, 2026 that Ethiopian and allied forces had entered Aksum and that the TPLF had withdrawn from Mekelle, with Ethiopia and Eritrea accusing each other. The past-tense framing is out of date.
-   **Links:** https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses ; https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war . Checked Oct. 30, 2026.
+   **Source says:** Fighting has resumed. Human Rights Watch reported that fighting erupted on Sept. 22, 2026 in Tigray, Amhara and Afar, after clashes and airstrikes since August. Al Jazeera reported on Oct. 15, 2026 that Ethiopian and allied forces had entered Aksum and that the TPLF had withdrawn from Mekelle, with Ethiopia and Eritrea accusing each other. The past-tense framing is out of date.
+   **Links:** https://www.hrw.org/news/2026/09/24/ethiopia-renewed-tigray-fighting-shows-need-to-protect-civilians (checked Oct. 31, 2026) ; https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses ; https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war . Checked Oct. 30, 2026.
 
 6. **Claim:** Services note mentions "deportation climate" with no specifics.
    **Source says:** Temporary Protected Status for Ethiopia was terminated by notice of Dec. 15, 2025, a court stay was lifted, and Fragomen reports benefits ended Aug. 18, 2026 while a constitutional challenge continues.

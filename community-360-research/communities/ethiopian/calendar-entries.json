@@ -374,9 +374,9 @@
      "year": 2026,
      "date": "2026-01-07",
      "endDate": null,
-     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Debre Selam Medhanealem EOTC, Minneapolis, published calendar (Oct. 29, 2025)",
+     "sourceUrl": "https://www.debreselam.net/?p=17205",
+     "verified": true
     },
     {
      "year": 2027,
@@ -398,13 +398,26 @@
    "dateCertainty": "calculated",
    "whatItMarks": "Christmas in the Ethiopian Orthodox Tewahedo Church.",
    "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "minnesotaEvents": [
+    {
+     "name": "Genna and children's Christmas program, Debre Selam Medhanealem",
+     "place": "Minneapolis",
+     "link": "https://www.debreselam.net/?p=17205",
+     "organizerDates": "Genna Jan. 7, 2026; Beza Kulu Sunday school children's Christmas program Jan. 3, 2026; Advent fast (Tsome Nebiyat) Nov. 24, 2025 to Jan. 7, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
    "sources": [
     {
      "title": "This Minnesota Church Celebrates Christmas in January, YouTube (title only; church not shown)",
      "url": "https://www.youtube.com/shorts/o2AkWDp4Ah4",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Feasts and fasts calendar 2025-26, Debre Selam Medhanealem EOTC",
+     "url": "https://www.debreselam.net/?p=17205",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -421,10 +434,10 @@
     {
      "year": 2026,
      "date": "2026-02-16",
-     "endDate": "2026-04-11",
-     "source": "Calculated: 55 days before Fasika. Stratis Health states the length, not these dates.",
-     "sourceUrl": null,
-     "verified": false
+     "endDate": "2026-04-12",
+     "source": "Debre Selam Medhanealem EOTC, Minneapolis, published calendar (Oct. 29, 2025)",
+     "sourceUrl": "https://www.debreselam.net/?p=17205",
+     "verified": true
     },
     {
      "year": 2027,
@@ -446,7 +459,15 @@
    "dateCertainty": "calculated",
    "whatItMarks": "The long fast before Easter.",
    "howCelebratedInMinnesota": "Stratis Health describes Orthodox Christians avoiding meat, eggs and dairy on Wednesdays, Fridays and for 55 days at Easter. Mpls.St.Paul Magazine reports observant members fast about 180 days a year, and chef Tigist Feyisa saw a market among them for her vegan restaurant.",
-   "minnesotaEvents": [],
+   "minnesotaEvents": [
+    {
+     "name": "Abiy Tsom at Debre Selam Medhanealem",
+     "place": "Minneapolis",
+     "link": "https://www.debreselam.net/?p=17205",
+     "organizerDates": "Feb. 16 to April 12, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": "Stratis Health's Culture Care Connection says fasting may affect how medications are taken.",
    "sources": [
     {
@@ -458,6 +479,11 @@
      "title": "The New Ethiopian Scene, Mpls.St.Paul Magazine",
      "url": "https://mspmag.com/eat-and-drink/the-new-ethiopian-scene/",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Feasts and fasts calendar 2025-26, Debre Selam Medhanealem EOTC",
+     "url": "https://www.debreselam.net/?p=17205",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -476,9 +502,9 @@
      "year": 2026,
      "date": "2026-01-19",
      "endDate": null,
-     "source": "Calculated: Timkat follows the Ethiopian calendar, usually January 19",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Debre Selam Medhanealem EOTC, Minneapolis, published calendar (Oct. 29, 2025)",
+     "sourceUrl": "https://www.debreselam.net/?p=17205",
+     "verified": true
     },
     {
      "year": 2027,
@@ -507,6 +533,13 @@
      "link": "http://minnesotaselassie.org/index.php/announcements/60-timket",
      "organizerDates": "January 17 and 18, year not stated",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Timket, Debre Selam Medhanealem",
+     "place": "Minneapolis",
+     "link": "https://www.debreselam.net/?p=17205",
+     "organizerDates": "Eve of Timket (fast) Jan. 18, 2026; Timket Jan. 19, 2026; Kana Zegelila Jan. 20, 2026",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -525,6 +558,11 @@
      "title": "Timkat in Ethiopia, We Blog The World",
      "url": "https://weblogtheworld.com/countries/africa-africa/timkat-ethiopia-epiphany-sacred-water-festival",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Feasts and fasts calendar 2025-26, Debre Selam Medhanealem EOTC",
+     "url": "https://www.debreselam.net/?p=17205",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -542,9 +580,9 @@
      "year": 2026,
      "date": "2026-04-12",
      "endDate": null,
-     "source": "Calculated with the Julian Easter rule; no opened page states this date.",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Debre Selam Medhanealem EOTC, Minneapolis, published calendar (Oct. 29, 2025)",
+     "sourceUrl": "https://www.debreselam.net/?p=17205",
+     "verified": true
     },
     {
      "year": 2027,
@@ -565,14 +603,27 @@
    ],
    "dateCertainty": "calculated",
    "whatItMarks": "Easter in the Ethiopian Orthodox tradition.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "howCelebratedInMinnesota": "Debre Selam Medhanealem in Minneapolis listed Hosanna on April 5, Maundy Thursday April 9, Good Friday April 10 and Easter (Tinsae) April 12, 2026, ending the Lenten fast that began Feb. 16.",
+   "minnesotaEvents": [
+    {
+     "name": "Holy Week and Fasika, Debre Selam Medhanealem",
+     "place": "Minneapolis",
+     "link": "https://www.debreselam.net/?p=17205",
+     "organizerDates": "Hosanna April 5, 2026; Good Friday April 10, 2026; Fasika April 12, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
    "sources": [
     {
      "title": "Ethiopian, Culture Care Connection",
      "url": "https://culturecareconnection.org/cultural-responsiveness/ethiopians/",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Feasts and fasts calendar 2025-26, Debre Selam Medhanealem EOTC",
+     "url": "https://www.debreselam.net/?p=17205",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -651,7 +702,7 @@
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "The end of the Filseta fast; originally tied to the Assumption of Mary and, Africanews says, now beyond religion.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "No Minnesota Ashenda celebration was found. Debre Selam Medhanealem in Minneapolis listed the Filseta fast, whose end Ashenda marks, as Aug. 7 to 22, 2026.",
    "minnesotaEvents": [],
    "workplaceNote": null,
    "sources": [
@@ -659,6 +710,11 @@
      "title": "Tigrayan women celebrate Ashenda, Africanews",
      "url": "https://www.africanews.com/amp/2026/08/23/ethiopia-tigrayan-women-celebrate-ashenda-amid-fears-of-new-war/",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Feasts and fasts calendar 2025-26, Debre Selam Medhanealem EOTC",
+     "url": "https://www.debreselam.net/?p=17205",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -842,6 +898,119 @@
      "title": "Exiled Anuak meet official, MPR News via AP",
      "url": "https://www.mprnews.org/story/2008/05/31/ethopia",
      "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Filseta (Fast of the Assumption)",
+   "alsoKnownAs": [
+    "Tsome Filseta",
+    "Fast of the Virgin Mary"
+   ],
+   "kind": "religious",
+   "capsule": "A two-week Orthodox fast in August honoring the Virgin Mary, ending with the feast of her Assumption.",
+   "dateRule": "Nehase 1 to 16 in the Ethiopian calendar, which falls on Aug. 7 to 22 in the Gregorian calendar.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-07",
+     "endDate": "2026-08-22",
+     "source": "Debre Selam Medhanealem EOTC, Minneapolis, published calendar",
+     "sourceUrl": "https://www.debreselam.net/?p=17205",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-07",
+     "endDate": "2027-08-22",
+     "source": "Calculated from the Ethiopian calendar; not confirmed by a Minnesota church",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-07",
+     "endDate": "2028-08-22",
+     "source": "Calculated from the Ethiopian calendar; not confirmed by a Minnesota church",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A fast before the feast of the Assumption of the Virgin Mary (Nehase Kidane Mehret).",
+   "howCelebratedInMinnesota": "Debre Selam Medhanealem listed the fast as Aug. 7 to 22, 2026, with Debre Tabor (Transfiguration) on Aug. 19 and the Nehase Kidane Mehret feast on Aug. 22, and a children's Debre Tabor program on Aug. 15.",
+   "minnesotaEvents": [
+    {
+     "name": "Filseta fast and Debre Tabor, Debre Selam Medhanealem",
+     "place": "Minneapolis",
+     "link": "https://www.debreselam.net/?p=17205",
+     "organizerDates": "Fast Aug. 7 to 22, 2026; children's Debre Tabor program Aug. 15, 2026; Debre Tabor Aug. 19, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Feasts and fasts calendar 2025-26, Debre Selam Medhanealem EOTC",
+     "url": "https://www.debreselam.net/?p=17205",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Debre Selam Health Day 5K",
+   "alsoKnownAs": [
+    "DSMA Health Day"
+   ],
+   "kind": "community festival",
+   "capsule": "A Minneapolis Ethiopian Orthodox parish's annual 5K run and walk for health, held in a St. Paul park.",
+   "dateRule": "Announced each year by Debre Selam Medhanealem; held in early June in 2025.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 announcement found on the church's site",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A parish health and fitness day with age-group races.",
+   "howCelebratedInMinnesota": "The 11th annual Health Day was June 7, 2025, at Como Regional Park, St. Paul, 7:30 a.m. to 2 p.m., with medals by age group and T-shirt pickup at Phalen Park.",
+   "minnesotaEvents": [
+    {
+     "name": "11th annual DSMA Health Day (5K run and walk)",
+     "place": "Como Regional Park, St. Paul",
+     "link": "https://www.debreselam.net/?page_id=1363",
+     "organizerDates": "June 7, 2025",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Annual DSMA Health Day, Debre Selam Medhanealem EOTC",
+     "url": "https://www.debreselam.net/?page_id=1363",
+     "dateChecked": "2026-10-31"
     }
    ]
   }
