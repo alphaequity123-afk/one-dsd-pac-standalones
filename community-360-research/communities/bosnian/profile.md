@@ -16,6 +16,8 @@ Community estimates are a different kind of number, and they disagree with one a
 
 **How people came.** The Minnesota Department of Health's record of primary refugee arrivals counts 2,380 refugees from Bosnia between 1979 and 2025. All but one came between 1993 and 2003: 59 in 1993, 102 in 1994, 205 in 1995, 203 in 1996, 374 in 1997, 471 in 1998, 394 in 1999, 290 in 2000, 207 in 2001, 59 in 2002 and 15 in 2003 ([MDH, Primary Refugee Arrivals to Minnesota, 1979-2025, checked Oct. 31, 2026](https://www.health.mn.gov/communities/rih/stats/reftotals.pdf)). These are people first resettled in Minnesota. Families who moved here later from Iowa, Missouri, other states or Europe are not in the table. The same table counts 72 refugees from Croatia (1996 to 2001), 32 from Serbia (1998 to 2000) and 74 from Kosovo (1999) ([MDH](https://www.health.mn.gov/communities/rih/stats/reftotals.pdf)).
 
+> **Content note:** This passage describes the 1995 Srebrenica genocide. Readers may skip to "Where in Minnesota."
+
 Behind the arrivals is the 1992 to 1995 war. Bosnia and Herzegovina voted for independence in a referendum on March 1, 1992, with 63.4 percent turnout and 99.7 percent in favor, and the United States recognized it on April 7, 1992 ([N1 Sarajevo, 2021, homeland background](https://n1info.ba/english/news/bosnia-and-herzegovina-marks-independence-day/)). In July 1995, Bosnian Serb forces overran the U.N. "safe area" of Srebrenica and killed at least 8,000 Bosniak men and boys, the Associated Press reports ([AP via WDIV, May 23, 2024](https://www.clickondetroit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-serbs-vehemently-oppose/)).
 
 **Where in Minnesota.**
@@ -138,6 +140,8 @@ Statewide, the Minnesota Department of Education reported 348 home languages in 
 No Bosnian-language Saturday school, college student association or Minnesota scholar of Bosnian studies was found.
 
 ## 11. Health and wellbeing, broadly
+
+> **Content note:** This passage describes wartime detention camps and survivors of rape and torture. Readers may skip to the next paragraph, "Community workers."
 
 **War trauma and care.** Some adults came straight from camps: the U.N. first resettled released prisoners who had suffered the harshest treatment, according to a Rochester survivor's account ([Post Bulletin, March 26, 2024](https://www.postbulletin.com/community/how-a-magazine-lying-on-a-desk-in-croatia-in-1993-led-100s-of-bosnians-to-rochester)). In January 1993 MPR reported that Bosnian women survivors of rape would be brought to Minnesota for treatment ([MPR archive listing, Jan. 7, 1993](https://archive.mpr.org/search?q=bosnian)). In 1998 NPR described the Minneapolis Center for Victims of Torture treating refugees "from places like Cambodia, Somalia and Bosnia" ([NPR, Nov. 3, 1998](https://www.npr.org/1998/11/03/1024030/treating-torture-victims-part-11)). In Pelican Rapids, the University of Minnesota brought emergency medical and dental clinics to the town after the 1996 arrivals ([Ellison, 2012](https://www.ruralmn.org/wp-content/uploads/2014/02/Ellison.pdf)).
 

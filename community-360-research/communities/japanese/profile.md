@@ -156,6 +156,8 @@ No Minnesota public celebration was found for Hinamatsuri (Girls' Day, March 3),
 
 **Providers.** No Japanese-language clinic, Japanese-speaking provider directory, or Minnesota study of Japanese Minnesotans' health was found. Japanese American physicians are part of the community, such as Dr. Karen Tanaka Lucas ([JASM](https://mn-japan.org/)), but that does not tell us whether Japanese-speaking patients can find care in Japanese.
 
+> **Content note:** This passage describes suicides in a wartime incarceration camp. Readers may pause or skip to the next paragraph.
+
 **Memory and wellbeing.** Sally Sudo told the Pioneer Press that some older people in the Minidoka camp "took their own life out of despair," and that stamping her family's names in the Ireichō felt like being "validated" ([Pioneer Press, Oct. 9, 2026](https://www.twincities.com/2026/10/09/it-ruined-so-many-peoples-lives-book-recognizes-people-of-japanese-descent-incarcerated-during-wwii/)). Densho's 2026 "Living History Project" invited Minnesotans to record how memories of incarceration shape their responses to current events ([Rice Paper, Oct. 2026](https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf)). No Minnesota study of intergenerational effects was found.
 
 **Traditional practice.** No Minnesota source on kampo (Japanese herbal medicine), reiki, shiatsu or similar practice among Japanese Minnesotans was found.

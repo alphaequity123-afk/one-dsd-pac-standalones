@@ -146,6 +146,8 @@ Liberian commercial life centers on the northwest suburbs, especially Brooklyn B
 
 **Community health work.** OLM partnered with Hennepin County and the state health department on COVID-19 outreach, testing and vaccination, and belongs to a West African HIV/AIDS task force ([OLM, Community Enrichment Program](https://www.olmbp.org/cep)). Arthur Biah of Brooklyn Park and his wife started the Liberian Health Initiative, holding health fairs to help Liberians here live with diabetes and hypertension ([CCX Media, Dec. 20, 2018](https://ccxmedia.org/news/brooklyn-park-man-creates-liberian-health-initiative/)). OLM's senior program includes blood pressure checks and diabetes discussions ([OLM, Seniors Enrichment Program](https://www.olmbp.org/sep)).
 
+> **Content note:** This passage describes killings witnessed during Liberia's civil wars. Readers may pause or skip to section 12, Disability.
+
 **War, loss and stress.** Many adults lived through killing, flight and refugee camps. One woman told CCX Media, "They were killing people right in front of me" ([CCX Media, Dec. 18, 2019](https://ccxmedia.org/news/maple-grove-liberian-immigrant-celebrates-u-s-senate-vote/)). A nursing assistant described sleepless nights among coworkers waiting on status decisions ([Pioneer Press via Inforum, 2018](https://www.inforum.com/news/liberian-immigrants-face-uncertain-fate-as-temporary-status-ends)). No Minnesota study of mental health among Liberian residents was found, and no clinic specifically tied to the community was found.
 
 ## 12. Disability
