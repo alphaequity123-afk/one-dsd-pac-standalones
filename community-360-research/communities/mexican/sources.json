@@ -740,5 +740,411 @@
   "url": "https://ich.unesco.org/en/RL/indigenous-festivity-dedicated-to-the-dead-00054",
   "dateChecked": "2026-10-30",
   "usedFor": "calendar"
+ },
+ {
+  "title": "Hispanic or Latino origin by specific origin, table B03001, 2020-2024 five-year estimates, Minnesota",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2024.B03001&g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 1"
+ },
+ {
+  "title": "Table B03001, 2020-2024, Minnesota places",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2024.B03001&g=040XX00US27$1600000",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 1 town table"
+ },
+ {
+  "title": "Table B03001, 2020-2024, Minnesota counties",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2024.B03001&g=040XX00US27$0500000",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 1 counties"
+ },
+ {
+  "title": "Migración y acceso a servicios de salud: el caso de la población mexicana residente en Minnesota (Pardo Montaño and Dávila Cervantes, 2016)",
+  "publisher": "Revista ABRA, Universidad Nacional, via Dialnet",
+  "url": "https://dialnet.unirioja.es/descarga/articulo/7005352.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 1, 11"
+ },
+ {
+  "title": "Annual Legislative Report 2025",
+  "publisher": "Minnesota Council on Latino Affairs, via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2026/mandated/261122.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 2, 3, 6, 9-13"
+ },
+ {
+  "title": "2025 Public Policy Agenda",
+  "publisher": "Minnesota Latino Leadership Alliance, hosted by MCLA",
+  "url": "https://mn.gov/mcla/assets/2025%20Public%20Policy%20Agenda_tcm1099-664914.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 3"
+ },
+ {
+  "title": "Elba Guille Garza",
+  "publisher": "Twin Cities Business",
+  "url": "https://tcbmag.com/notable/elba-guille-garza/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 2, 4"
+ },
+ {
+  "title": "Francisco Ramirez",
+  "publisher": "Twin Cities Business",
+  "url": "https://tcbmag.com/notable/francisco-ramirez/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 2, 11"
+ },
+ {
+  "title": "Roberto Ramirez",
+  "publisher": "Twin Cities Business",
+  "url": "https://tcbmag.com/notable/roberto-ramirez/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 2"
+ },
+ {
+  "title": "Aaron Castillo",
+  "publisher": "Twin Cities Business",
+  "url": "https://tcbmag.com/notable/aaron-castillo/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 2"
+ },
+ {
+  "title": "Lomabonita Market opens international grocery store in Richfield",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2025/11/13/lomabonita-market-opens-international-grocery-store-in-richfield",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 2, 4; businesses"
+ },
+ {
+  "title": "Immigrant-owned businesses bring global flavors to Richfield",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2025/10/06/immigrant-owned-businesses-bring-global-flavors-to-richfield",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "Minneapolis residents donated during the ICE surge, but eviction filings are still rising",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2026/06/22/minneapolis-residents-donated-during-the-ice-surge-but-eviction-filings-are-still-rising",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 2, 5, 13"
+ },
+ {
+  "title": "Celebrating a Minnesota Nochebuena",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2008/12/18/nochebuena",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "Survey provides picture of ethnic businesses in Willmar",
+  "publisher": "West Central Tribune",
+  "url": "https://www.wctrib.com/news/survey-provides-picture-of-ethnic-businesses-in-willmar",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 3"
+ },
+ {
+  "title": "El Tapatio in Willmar closed Friday; ICE arrests reported there Wednesday",
+  "publisher": "West Central Tribune",
+  "url": "https://www.wctrib.com/news/local/el-tapatio-in-willmar-closed-friday-ice-arrests-reported-there-wednesday",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 3, 4, 13; businesses"
+ },
+ {
+  "title": "Cinco de Mayo event in downtown Willmar shows off cultures",
+  "publisher": "West Central Tribune",
+  "url": "https://www.wctrib.com/news/local/cinco-de-mayo-event-in-downtown-willmar-shows-off-cultures",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "After two decades, family realizes dream of restaurant ownership in downtown Willmar",
+  "publisher": "West Central Tribune",
+  "url": "https://www.wctrib.com/news/after-two-decades-family-realizes-dream-of-restaurant-ownership-in-downtown-willmar",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "Let's Eat a Bunch of Sweet Treats From Papá Chuy's Bakery in Whittier",
+  "publisher": "Racket",
+  "url": "https://racketmn.com/papa-chuys-mexican-bakery-minneapolis-now-open",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "Can Lito's Beat the 901 Lake Street Curse?",
+  "publisher": "Racket",
+  "url": "https://racketmn.com/can-litos-beat-the-901-lake-street-curse",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "ICE Cost Lake Street Businesses at Least $46M. These Weekly Cash Mobs Help Them Claw Back Profit.",
+  "publisher": "Racket",
+  "url": "https://racketmn.com/lake-street-minneapolis-cash-mobs-ice",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "Pollo Movil Mexican Grill",
+  "publisher": "Pollo Movil",
+  "url": "https://www.pollomovil.com",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "Hispanic families in Twin Cities scale back Christmas celebrations amid ICE crackdown",
+  "publisher": "CBS Minnesota (WCCO)",
+  "url": "https://www.cbsnews.com/minnesota/news/hispanic-christmas-celebrations-minneapolis-ice/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 4, 6, 7, 13; businesses; calendar"
+ },
+ {
+  "title": "A Minneapolis pastor asked for groceries for his congregation amid the ICE surge",
+  "publisher": "CBS Minnesota (WCCO)",
+  "url": "https://www.cbsnews.com/minnesota/news/sergio-amezcua-ice-volunteers-groceries-bigger-than-belief/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 5, 7, 13"
+ },
+ {
+  "title": "St. Paul's Don Panchos Bakery is bringing its conchas, churros and other sweet treats to Rochester",
+  "publisher": "Post Bulletin",
+  "url": "https://www.postbulletin.com/business/st-pauls-don-panchos-bakery-is-bringing-its-conchas-churros-and-other-sweet-treats-to-rochester",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 4, 14; businesses"
+ },
+ {
+  "title": "Newest Mexican bakery isn't so new to the Rochester community",
+  "publisher": "Post Bulletin",
+  "url": "https://www.postbulletin.com/business/newest-mexican-bakery-isnt-so-new-to-the-rochester-community",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "Authentic Mexican bakery opens downtown",
+  "publisher": "Faribault Daily News (southernminn.com)",
+  "url": "https://www.southernminn.com/faribault_daily_news/news/authentic-mexican-bakery-opens-downtown/article_3b2f0762-fe92-11ee-be08-c7ae5b6dd346.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "Preserving traditional recipes: Alicia Bakery has been serving authentic Mexican dishes since 2003",
+  "publisher": "Austin Daily Herald",
+  "url": "https://www.austindailyherald.com/2019/03/preserving-traditional-recipes-alicia-bakery-has-been-serving-authentic-mexican-dishes-since-2003/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 4, 14; businesses"
+ },
+ {
+  "title": "Keeping Tradition: Alicia Bakery brings sweet tradition to Austin for Día de Los Muertos",
+  "publisher": "Austin Daily Herald",
+  "url": "https://www.austindailyherald.com/news/keeping-tradition-alicia-bakery-brings-sweet-tradition-to-austin-for-da-de-los-muertos-769402/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "In Your Community: Austin Area Minority Business Project highlights immigrant entrepreneurs",
+  "publisher": "Austin Daily Herald",
+  "url": "https://www.austindailyherald.com/2020/09/in-your-community-austin-area-minority-business-project-highlights-immigrant-entrepreneurs/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "A fresh start for Aztecas",
+  "publisher": "The Journal (New Ulm)",
+  "url": "https://www.nujournal.com/news/local-news/2025/10/31/a-fresh-start-for-aztecas/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 4; businesses"
+ },
+ {
+  "title": "Our Lady of Guadalupe Catholic Church listing",
+  "publisher": "Archdiocese of Saint Paul and Minneapolis",
+  "url": "https://www.archspm.org/location/our-lady-of-guadalupe-catholic-church/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 5"
+ },
+ {
+  "title": "Latino Ministry (Ministerio Latino)",
+  "publisher": "Archdiocese of Saint Paul and Minneapolis",
+  "url": "https://www.archspm.org/offices/latino-ministry-ministerio-latino/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 5"
+ },
+ {
+  "title": "Our Lady of Guadalupe Diocesan Shrine home page",
+  "publisher": "Our Lady of Guadalupe, St. Paul",
+  "url": "https://www.olgcatholic.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 5, 6; calendar"
+ },
+ {
+  "title": "Growing by leaps and baptisms",
+  "publisher": "The Catholic Spirit",
+  "url": "https://www.thecatholicspirit.com/news/local-news/growing-by-leaps-and-baptisms/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 5"
+ },
+ {
+  "title": "Archdiocese's Latino Ministry assisting parishes, those in need during immigration enforcement",
+  "publisher": "The Catholic Spirit",
+  "url": "https://www.thecatholicspirit.com/news/local-news/archdioceses-latino-ministry-assisting-parishes-those-in-need-during-immigration-enforcement/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 5"
+ },
+ {
+  "title": "At 75, St. Peter adapting to Richfield's changes",
+  "publisher": "The Catholic Spirit",
+  "url": "https://www.thecatholicspirit.com/news/local-news/at-75-st-peter-adapting-to-richfields-changes/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "Dual-language Risen Christ Catholic School in Minneapolis ascends to new life",
+  "publisher": "The Catholic Spirit",
+  "url": "https://www.thecatholicspirit.com/news/local-news/risen-christ-ascends-to-new-life/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 6, 7, 10; calendar"
+ },
+ {
+  "title": "Mass times / Tiempos de Misa",
+  "publisher": "Church of the Incarnation, Minneapolis",
+  "url": "https://www.incarnationmpls.org/sobre-nosotros",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 5"
+ },
+ {
+  "title": "El Vía Crucis / The Way of the Cross",
+  "publisher": "Church of the Incarnation, Minneapolis",
+  "url": "https://www.incarnationmpls.org/via-cru",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "Celebraciones a La Virgen de Guadalupe",
+  "publisher": "The Central Minnesota Catholic (Diocese of St. Cloud)",
+  "url": "https://thecentralminnesotacatholic.org/celebraciones-a-la-virgen-de-guadalupe/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 5, 6; calendar"
+ },
+ {
+  "title": "Photos: Centered on Christ Our Lady of Guadalupe celebration",
+  "publisher": "The Central Minnesota Catholic",
+  "url": "https://thecentralminnesotacatholic.org/photos-centered-on-christ-our-lady-of-guadalupe-celebration/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "Advent tradition: Las Posadas",
+  "publisher": "The Central Minnesota Catholic",
+  "url": "https://thecentralminnesotacatholic.org/advent-tradition-las-posadas/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "Events list from December 2026",
+  "publisher": "The Central Minnesota Catholic",
+  "url": "https://thecentralminnesotacatholic.org/events/list/?tribe-bar-date=2026-12-01",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "Our Lady of Guadalupe Procession and Mass, Waite Park, Dec. 12, 2017",
+  "publisher": "The Central Minnesota Catholic",
+  "url": "https://thecentralminnesotacatholic.org/event/lady-guadalupe-procession-mass-waite-park-st-joseph-parish/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "calendar"
+ },
+ {
+  "title": "Proclamation, Mexican Independence Day, Sept. 16, 2003",
+  "publisher": "State of Minnesota, Office of the Secretary of State",
+  "url": "https://officialdocuments.sos.mn.gov/Files/GetDocument/57155",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "Proclamation, Cinco de Mayo Celebration Day, May 5, 1981",
+  "publisher": "State of Minnesota, via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/archive/sos/film/pdf/33374.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 6; calendar"
+ },
+ {
+  "title": "Poised to Shine, Latina Artists in Northeast",
+  "publisher": "Northeaster",
+  "url": "https://www.mynortheaster.com/news/poised-to-shine-latina-artists-in-northeast/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 5, 8"
+ },
+ {
+  "title": "Alondra Garza",
+  "publisher": "Minneapolis College of Art and Design",
+  "url": "https://www.mcad.edu/faculty-alumni/alondra-garza",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 8"
+ },
+ {
+  "title": "Erica Schwartz, legislator record",
+  "publisher": "Minnesota Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=15644",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 9"
+ },
+ {
+  "title": "Jon Koznick, legislator record",
+  "publisher": "Minnesota Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=15436",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 9"
+ },
+ {
+  "title": "Bidal Duran, Jr., legislator record",
+  "publisher": "Minnesota Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=15629",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 9"
+ },
+ {
+  "title": "Representatives Koznick, Duran, Schwartz Introduce Minnesota Latino Caucus",
+  "publisher": "Minnesota House of Representatives",
+  "url": "https://www.house.mn.gov/members/profile/news/15436/52046",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile sections 9, 13"
+ },
+ {
+  "title": "Minnesota high school graduation rates hit record high for class of 2025",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/news/minnesota-high-school-graduation-rates-2025",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 10"
+ },
+ {
+  "title": "Correction: Minnesota's Graduation Rates Continue to Rise (class of 2024)",
+  "publisher": "Minnesota Department of Education",
+  "url": "https://content.govdelivery.com/accounts/MNMDE/bulletins/3df53e7",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 10"
+ },
+ {
+  "title": "Abstract: Understanding Latine Families' Experiences in Early Intervention",
+  "publisher": "University of Minnesota Digital Conservancy",
+  "url": "https://conservancy.umn.edu/server/api/core/bitstreams/bbf9ba27-8eef-4c92-9f28-4e8ade73f9cb/content",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 12"
+ },
+ {
+  "title": "More than 3,700 immigrants arrested during Operation Metro Surge, per new data",
+  "publisher": "KAXE, republishing Minnesota Reformer",
+  "url": "https://www.kaxe.org/minnesota-news/2026-03-31/more-than-3-700-immigrants-arrested-during-operation-metro-surge-per-new-data",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 13"
+ },
+ {
+  "title": "Questions raised after DHS releases new Operation Metro Surge arrest data",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/kstp-news/top-news/questions-raised-after-dhs-releases-new-operation-metro-surge-arrest-data/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "profile section 13"
  }
 ]

@@ -315,19 +315,19 @@
   "neighborhoodOrCity": "Minneapolis and St. Paul",
   "whatItIs": "Taqueria group with locations listed from Lake Plaza onward.",
   "link": "https://www.taquerialosocampo.com/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Its site tells the story of locations but does not state current status."
+  "evidence": "Own site describes locations opened 2003 to 2015; footer dated 2024; no 2025 or 2026 sign found."
  },
  {
   "name": "La Michoacana Purépecha",
   "type": "ice cream, snacks",
   "neighborhoodOrCity": "701 E. Lake St., Minneapolis, and about 10 sites",
   "whatItIs": "Paleta and ice cream shops from a family from Michoacán.",
-  "link": "https://www.ndc-mn.org/news-events/spotlighting-ricardo-espinoza-founder-of-la-michoacana/",
-  "dateChecked": "2026-10-30",
+  "link": "https://www.lamichoacanapurepecha.com/",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Own site's latest item is dated 2024; a development center profile mentions a May 2025 location, year not printed."
+  "evidence": "Own site says 'In Minnesota, since 2018' and that its founders are immigrants from Michoacán; latest dated post seen is Nov. 29, 2024, with no current hours. Not confirmed open for 2025-2026."
  },
  {
   "name": "La Michoacana Purépecha (Rochester)",
@@ -364,10 +364,10 @@
   "type": "grocery, taqueria",
   "neighborhoodOrCity": "Minneapolis",
   "whatItIs": "Full-service Latin market with a taqueria.",
-  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
-  "dateChecked": "2026-10-30",
+  "link": "https://www.alboradamarket.com",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+  "evidence": "Own Spanish-language site advertises Mexican products, bread and crafts but shows no date or hours."
  },
  {
   "name": "Homi",
@@ -412,22 +412,22 @@
  {
   "name": "Pollo Movil Mexican Grill",
   "type": "restaurant",
-  "neighborhoodOrCity": "East Lake Street, Minneapolis",
+  "neighborhoodOrCity": "417 E. Lake St., Minneapolis (Lake Street Council directory lists 3008 S. 5th Ave.)",
   "whatItIs": "Charcoal-grilled chicken.",
-  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+  "link": "https://www.pollomovil.com",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Its own site lists 'Open Daily 10 AM – 9 PM' at 417 East Lake Street; the Lake Street Council calls it family owned and operated."
  },
  {
   "name": "Taco Taxi",
   "type": "restaurant, food trucks",
   "neighborhoodOrCity": "1511 E. Lake St., Minneapolis",
-  "whatItIs": "Street tacos; Visit Lake Street traces its origin to Jalisco.",
-  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
-  "dateChecked": "2026-10-30",
+  "whatItIs": "Taqueria opened in 2005 by brothers Carlos and Hector Lopez, originally from Jalisco, per the Lake Street Council.",
+  "link": "https://www.visitlakestreet.com/buy-latinx-on-lake",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+  "evidence": "Lake Street Council directory (undated) describes it; no 2025 or 2026 dated page found."
  },
  {
   "name": "Taqueria La Hacienda",
@@ -534,10 +534,10 @@
   "type": "candy, piñatas",
   "neighborhoodOrCity": "Mercado Central, Minneapolis",
   "whatItIs": "Piñatas and candy, owned by Leopoldo Sanchez.",
-  "link": "https://sahanjournal.com/business-work/mercado-central-lake-street-minneapolis-loan-forgiven-immigration/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Open in an April 2025 article; some Mercado Central businesses closed in the 2026 surge."
+  "link": "https://racketmn.com/papa-chuys-mexican-bakery-minneapolis-now-open",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Racket, March 20, 2025, quotes Leopoldo Sanchez as owner of Dulceria La Piñata in Mercado Central; no 2026 sign found."
  },
  {
   "name": "Luceritos Fashion",
@@ -568,5 +568,155 @@
   "dateChecked": "2026-10-30",
   "status": "could not confirm open",
   "evidence": "Only a 2010 article was opened."
+ },
+ {
+  "name": "Lomabonita Market",
+  "type": "grocery, bakery, restaurant",
+  "neighborhoodOrCity": "Richfield (66th St.), with stores in Crystal, Savage, St. Paul, Columbia Heights and Monticello",
+  "whatItIs": "Supermarket chain of the Castillo brothers that began about 20 years ago as Panaderia Lomabonita in Crystal; the owners' national origin is not stated in the article.",
+  "link": "https://www.mprnews.org/story/2025/11/13/lomabonita-market-opens-international-grocery-store-in-richfield",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "MPR News, Nov. 13, 2025: sixth and largest store, 52,000 square feet, opened in Richfield that month."
+ },
+ {
+  "name": "El Tejaban Mexican Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Nicollet Avenue, Richfield",
+  "whatItIs": "Restaurant of Miguel Hernandez Sr. and Rosa Zambrano, who immigrated from Mexico and opened their first restaurant in 2008.",
+  "link": "https://www.mprnews.org/story/2025/10/06/immigrant-owned-businesses-bring-global-flavors-to-richfield",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "MPR News, Oct. 7, 2025, describes it serving for nearly 20 years."
+ },
+ {
+  "name": "Lito's Burritos",
+  "type": "restaurant",
+  "neighborhoodOrCity": "901 W. Lake St., Minneapolis",
+  "whatItIs": "Chicano burrito shop of Miguel Hernandez Jr., grown from a pop-up inside El Tejaban.",
+  "link": "https://racketmn.com/lake-street-minneapolis-cash-mobs-ice",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Racket, Dec. 5, 2025, says it opened the previous month; Racket, Feb. 18, 2026, lists it as a cash mob host."
+ },
+ {
+  "name": "Papá Chuy's Bakery",
+  "type": "bakery",
+  "neighborhoodOrCity": "2409 Lyndale Ave. S., Whittier, Minneapolis",
+  "whatItIs": "Mexican bakery opened by Jesus Alcocer in February 2025.",
+  "link": "https://racketmn.com/papa-chuys-mexican-bakery-minneapolis-now-open",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Racket, March 20, 2025, reviews it as newly open."
+ },
+ {
+  "name": "Pastelería Gama",
+  "type": "bakery",
+  "neighborhoodOrCity": "Lake Street, Minneapolis",
+  "whatItIs": "Bakery run for 10 years by Candy Gama, originally from Mexico.",
+  "link": "https://www.cbsnews.com/minnesota/news/hispanic-christmas-celebrations-minneapolis-ice/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "CBS Minnesota, Dec. 24, 2025, reports the shop operating on Christmas Eve 2025."
+ },
+ {
+  "name": "Pineda Tacos Plus",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Lake Street, Minneapolis",
+  "whatItIs": "Taqueria; owner's origin not stated.",
+  "link": "https://racketmn.com/lake-street-minneapolis-cash-mobs-ice",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Racket, Feb. 18, 2026: site of the Lake Street Council's first cash mob on Jan. 21, 2026."
+ },
+ {
+  "name": "Don Panchos Bakery",
+  "type": "bakery",
+  "neighborhoodOrCity": "St. Paul; Rochester shop planned at 1610 W. Center St.",
+  "whatItIs": "Family panadería of more than 25 years, from four generations of bakers from Morelos; owner Estevan Perez.",
+  "link": "https://www.postbulletin.com/business/st-pauls-don-panchos-bakery-is-bringing-its-conchas-churros-and-other-sweet-treats-to-rochester",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Post Bulletin, Jan. 6, 2024, announced the Rochester opening; no 2025 or 2026 page found."
+ },
+ {
+  "name": "Panadería Freddy's Bakery & Café",
+  "type": "bakery",
+  "neighborhoodOrCity": "1330 3rd Ave. SE, Rochester",
+  "whatItIs": "Family Mexican bakery of Federico 'Freddy' Gomez; grand opening Sept. 14, 2024.",
+  "link": "https://www.postbulletin.com/business/newest-mexican-bakery-isnt-so-new-to-the-rochester-community",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Post Bulletin, Oct. 6, 2024; no 2025 or 2026 page found."
+ },
+ {
+  "name": "Panadería y Pastelería La Estrella",
+  "type": "bakery",
+  "neighborhoodOrCity": "326 Central Ave. N, Faribault",
+  "whatItIs": "Bakery of Jose Andres Garcia, born and raised in Mexico.",
+  "link": "https://www.southernminn.com/faribault_daily_news/news/authentic-mexican-bakery-opens-downtown/article_3b2f0762-fe92-11ee-be08-c7ae5b6dd346.html",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Faribault Daily News reported its opening in 2024; no 2025 or 2026 page found."
+ },
+ {
+  "name": "Alicia Bakery",
+  "type": "bakery, grocery, restaurant",
+  "neighborhoodOrCity": "1017 Second Ave. NE, Austin",
+  "whatItIs": "Opened March 3, 2003, by José Torres, a native of Morelos, and his wife Alicia.",
+  "link": "https://www.austindailyherald.com/2019/03/preserving-traditional-recipes-alicia-bakery-has-been-serving-authentic-mexican-dishes-since-2003/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Austin Daily Herald profiles from 2019 and an undated Día de los Muertos story; no dated 2025 or 2026 page found."
+ },
+ {
+  "name": "Tienda y Taqueria Guerrero",
+  "type": "grocery, taqueria, food truck",
+  "neighborhoodOrCity": "Austin",
+  "whatItIs": "Owned by Custodio and Georgina Serrano; 2020 immigrant-owned business of the year, Austin Area Minority Business Project.",
+  "link": "https://www.austindailyherald.com/2020/09/in-your-community-austin-area-minority-business-project-highlights-immigrant-entrepreneurs/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Austin Daily Herald, September 2020; no 2025 or 2026 page found."
+ },
+ {
+  "name": "Azteca",
+  "type": "restaurant, catering",
+  "neighborhoodOrCity": "Downtown Willmar",
+  "whatItIs": "Restaurant of Guillermina and Salvador Serrano, in the former Los Primos, next to the Willmar Area Multicultural Business Center.",
+  "link": "https://www.wctrib.com/news/after-two-decades-family-realizes-dream-of-restaurant-ownership-in-downtown-willmar",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Undated West Central Tribune profile; no 2025 or 2026 page found."
+ },
+ {
+  "name": "El Tapatio",
+  "type": "restaurant",
+  "neighborhoodOrCity": "First Street South, Willmar",
+  "whatItIs": "Family-owned Mexican restaurant.",
+  "link": "https://www.wctrib.com/news/local/el-tapatio-in-willmar-closed-friday-ice-arrests-reported-there-wednesday",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "West Central Tribune, Jan. 16, 2026: closed that day after workers were reportedly arrested by immigration agents; no later report of reopening found."
+ },
+ {
+  "name": "Aztecas Mexican Restaurant Bar & Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "400 N. Minnesota St., New Ulm",
+  "whatItIs": "Mexican restaurant co-owned by Álvaro Perdomo and José Silva; opened July 2024, closed May 2025, reopened October 2025.",
+  "link": "https://www.nujournal.com/news/local-news/2025/10/31/a-fresh-start-for-aztecas/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "The Journal, Oct. 31, 2025, reports the reopening and current hours."
+ },
+ {
+  "name": "Garza Legacy Group",
+  "type": "real estate",
+  "neighborhoodOrCity": "Roseville",
+  "whatItIs": "Real estate group under Keller Williams Integrity Realty founded by Elba Guille Garza, born in Mexico.",
+  "link": "https://tcbmag.com/notable/elba-guille-garza/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Twin Cities Business, 2024 notable leaders list; no 2025 or 2026 page found."
  }
 ]

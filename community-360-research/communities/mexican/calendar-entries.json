@@ -38,7 +38,7 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "A Mexican military victory in 1862. Sahan Journal notes it carries little significance in Mexico itself.",
-   "howCelebratedInMinnesota": "On St. Paul's West Side since 1985, hosted by West Side Boosters and the West Side Fiestas Committee, with a parade on Cesar Chavez Street from Wabasha to Ada, a car show and music. About 30,000 attended in 2025. In 2026 organizers debated holding it during the federal enforcement surge and went ahead on a smaller footprint.",
+   "howCelebratedInMinnesota": "On St. Paul's West Side since 1985, hosted by West Side Boosters and the West Side Fiestas Committee, with a parade on Cesar Chavez Street from Wabasha to Ada, a car show and music. About 30,000 attended in 2025. In 2026 organizers debated holding it during the federal enforcement surge and went ahead on a smaller footprint. Willmar's Latino Community Association held its own celebration on May 16, 2026. Gov. Albert Quie proclaimed May 5, 1981, Cinco de Mayo Celebration Day.",
    "minnesotaEvents": [
     {
      "name": "West Side Cinco de Mayo Parade & Festival",
@@ -46,6 +46,13 @@
      "link": "https://westsidefiestas.com/",
      "organizerDates": "Parade and festival Sat., May 2, 2026, 10 a.m. to 6 p.m.; car show Fri., May 1, 2026, at Harriet Island. No 2027 date announced.",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Cinco de Mayo celebration, Latino Community Association of Willmar",
+     "place": "Fourth Street Southwest, downtown Willmar",
+     "link": "https://www.wctrib.com/news/local/cinco-de-mayo-event-in-downtown-willmar-shows-off-cultures",
+     "organizerDates": "Held Saturday, May 16, 2026",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -74,6 +81,16 @@
      "title": "MPR News, May 2, 2026",
      "url": "https://www.mprnews.org/story/2026/05/02/st-pauls-cinco-de-mayo-parade-draws-crowds-after-winter-of-fear",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Cinco de Mayo event in downtown Willmar shows off cultures, West Central Tribune, May 2026",
+     "url": "https://www.wctrib.com/news/local/cinco-de-mayo-event-in-downtown-willmar-shows-off-cultures",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Proclamation, Cinco de Mayo Celebration Day, May 5, 1981",
+     "url": "https://www.lrl.mn.gov/archive/sos/film/pdf/33374.pdf",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -116,7 +133,7 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Start of the 1810 war of independence.",
-   "howCelebratedInMinnesota": "St. Paul's first Fiestas Patrias in 1939 paraded from the West Side downtown. In 1886 a visiting Mexican military band led an Independence Day parade in Minneapolis. West Side Fiestas held a 2026 celebration with car show, music, vendors, crafts, a kids' zone and a community march.",
+   "howCelebratedInMinnesota": "St. Paul's first Fiestas Patrias in 1939 paraded from the West Side downtown. In 1886 a visiting Mexican military band led an Independence Day parade in Minneapolis. West Side Fiestas held a 2026 celebration with car show, music, vendors, crafts, a kids' zone and a community march. West Side Fiestas named Bob Cruz, executive director of the West Side Boosters, grand marshal for its Sept. 12, 2026 celebration. Gov. Tim Pawlenty proclaimed Sept. 16, 2003, Mexican Independence Day in Minnesota.",
    "minnesotaEvents": [
     {
      "name": "Mexican Independence Day Celebration",
@@ -147,6 +164,11 @@
      "title": "MPR News, July 28, 2026",
      "url": "https://www.mprnews.org/story/2026/07/28/cesar-chavez-street-st-paul-renaming-feedback-deadline",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Proclamation, Mexican Independence Day, Sept. 16, 2003",
+     "url": "https://officialdocuments.sos.mn.gov/Files/GetDocument/57155",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -187,7 +209,7 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "The 1531 appearance of the Virgin Mary reported by Juan Diego.",
-   "howCelebratedInMinnesota": "Our Lady of Guadalupe in St. Paul, a diocesan shrine since 2019, holds an annual one-mile procession; about 700 attended the eve Mass in 2019. Past celebrations include Church of the Risen Savior in Burnsville in 2014 and Misión El Santo Niño Jesús, an Episcopal church in St. Paul, in 2003. No 2026 schedule was found.",
+   "howCelebratedInMinnesota": "Our Lady of Guadalupe in St. Paul, a diocesan shrine since 2019, holds an annual one-mile procession; about 700 attended the eve Mass in 2019. The Diocese of St. Cloud listed Spanish Guadalupe Masses, mañanitas and suppers in nine parishes in 2019, and on Dec. 14, 2025, Bishop Patrick Neary celebrated the feast at St. Boniface in Cold Spring with a Twin Cities mariachi band. Past celebrations include Church of the Risen Savior in Burnsville (2014) and an Episcopal church in St. Paul (2003). No 2026 schedule had been posted as of Oct. 31, 2026; Dec. 12 falls on a Saturday in 2026.",
    "minnesotaEvents": [
     {
      "name": "Annual procession and feast Masses",
@@ -195,6 +217,27 @@
      "link": "https://thecatholicspirit.com/news/local-news/st-paul-parish-named-diocesan-shrine-to-our-lady-of-guadalupe/",
      "organizerDates": "2019 held Dec. 11 and 12; 2026 schedule not found",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Feast Mass with mariachi",
+     "place": "St. Boniface, Cold Spring (Centered on Christ Catholic Community)",
+     "link": "https://thecentralminnesotacatholic.org/photos-centered-on-christ-our-lady-of-guadalupe-celebration/",
+     "organizerDates": "Held Dec. 14, 2025",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Guadalupe Masses in nine parishes, Diocese of St. Cloud",
+     "place": "Waite Park, Pelican Rapids, Perham, Meire Grove, Cold Spring, Long Prairie, Elk River, Morris, Belle Prairie",
+     "link": "https://thecentralminnesotacatholic.org/celebraciones-a-la-virgen-de-guadalupe/",
+     "organizerDates": "2019 list, Dec. 8 to 15, 2019 (including 5 a.m. mañanitas Dec. 12 in Elk River); 2026 not yet listed on the diocesan calendar as of Oct. 31, 2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Guadalupe procession and bilingual Mass",
+     "place": "St. Joseph, Waite Park",
+     "link": "https://thecentralminnesotacatholic.org/event/lady-guadalupe-procession-mass-waite-park-st-joseph-parish/",
+     "organizerDates": "Dec. 12, 2017, procession 6 p.m., Mass 6:30 p.m.",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -213,6 +256,21 @@
      "title": "MPR News, Dec. 17, 2014",
      "url": "https://www.mprnews.org/story/2014/12/17/photos-our-lady-guadalupe",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Photos: Centered on Christ Our Lady of Guadalupe celebration, The Central Minnesota Catholic, Dec. 16, 2025",
+     "url": "https://thecentralminnesotacatholic.org/photos-centered-on-christ-our-lady-of-guadalupe-celebration/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebraciones a La Virgen de Guadalupe, The Central Minnesota Catholic, 2019",
+     "url": "https://thecentralminnesotacatholic.org/celebraciones-a-la-virgen-de-guadalupe/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Our Lady of Guadalupe Diocesan Shrine home page",
+     "url": "https://www.olgcatholic.org/",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -317,6 +375,13 @@
      "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
      "organizerDates": "Oct. 30 and Nov. 1, 2026",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Pan de muerto for Austin High School's classroom ofrenda",
+     "place": "Alicia Bakery, Austin",
+     "link": "https://www.austindailyherald.com/news/keeping-tradition-alicia-bakery-brings-sweet-tradition-to-austin-for-da-de-los-muertos-769402/",
+     "organizerDates": "Annual since 2010 per the bakery; article undated",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -350,6 +415,11 @@
      "title": "Indigenous festivity dedicated to the dead, UNESCO",
      "url": "https://ich.unesco.org/en/RL/indigenous-festivity-dedicated-to-the-dead-00054",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Keeping Tradition: Alicia Bakery, Austin Daily Herald",
+     "url": "https://www.austindailyherald.com/news/keeping-tradition-alicia-bakery-brings-sweet-tradition-to-austin-for-da-de-los-muertos-769402/",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -599,43 +669,73 @@
    "alsoKnownAs": [],
    "kind": "religious",
    "capsule": "Nine nights re-enacting Mary and Joseph's search for shelter, beginning Dec. 16.",
-   "dateRule": "December 16 to 24; the existing page says mid-December in some communities.",
+   "dateRule": "Nine nights, December 16 to 24, ending with Nochebuena on Christmas Eve; parishes and families may hold fewer nights.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-12-16",
      "endDate": "2026-12-24",
-     "source": "Fixed Gregorian date from the seed",
-     "sourceUrl": null,
-     "verified": false
+     "source": "The Central Minnesota Catholic (Diocese of St. Cloud) states the ritual typically takes place Dec. 16 to 24",
+     "sourceUrl": "https://thecentralminnesotacatholic.org/advent-tradition-las-posadas/",
+     "verified": true
     },
     {
      "year": 2027,
      "date": "2027-12-16",
      "endDate": "2027-12-24",
-     "source": "Fixed Gregorian date from the seed",
-     "sourceUrl": null,
-     "verified": false
+     "source": "The Central Minnesota Catholic (Diocese of St. Cloud) states the ritual typically takes place Dec. 16 to 24",
+     "sourceUrl": "https://thecentralminnesotacatholic.org/advent-tradition-las-posadas/",
+     "verified": true
     },
     {
      "year": 2028,
      "date": "2028-12-16",
      "endDate": "2028-12-24",
-     "source": "Fixed Gregorian date from the seed",
-     "sourceUrl": null,
-     "verified": false
+     "source": "The Central Minnesota Catholic (Diocese of St. Cloud) states the ritual typically takes place Dec. 16 to 24",
+     "sourceUrl": "https://thecentralminnesotacatholic.org/advent-tradition-las-posadas/",
+     "verified": true
     }
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Mary and Joseph's search for shelter.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "howCelebratedInMinnesota": "In 2008 Our Lady of Guadalupe in St. Paul held nightly posadas inside the church, with about 100 people walking as pilgrims behind children playing Mary and Joseph, ending with a piñata; organizers said the nights end at midnight on Christmas Eve with Nochebuena (MPR News, 2008). St. Peter in Richfield marks Las Posadas in Advent for Latino parishioners (The Catholic Spirit, 2018), and Risen Christ School in Minneapolis celebrates it (The Catholic Spirit, 2022). No 2026 schedule had been posted as of Oct. 31, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Nightly posadas",
+     "place": "Our Lady of Guadalupe, 401 Concord St., St. Paul",
+     "link": "https://www.mprnews.org/story/2008/12/18/nochebuena",
+     "organizerDates": "Held nightly in December 2008 (MPR report, Dec. 18, 2008); 2026 schedule not posted",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Las Posadas in Advent",
+     "place": "St. Peter Catholic Church, Richfield",
+     "link": "https://www.thecatholicspirit.com/news/local-news/at-75-st-peter-adapting-to-richfields-changes/",
+     "organizerDates": "Described as an Advent custom in 2018; no dates given",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
    "sources": [
     {
-     "title": "Existing Mexican Minnesota page",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican",
-     "dateChecked": "2026-10-30"
+     "title": "Advent tradition: Las Posadas, The Central Minnesota Catholic, Dec. 12, 2021",
+     "url": "https://thecentralminnesotacatholic.org/advent-tradition-las-posadas/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrating a Minnesota Nochebuena, MPR News, Dec. 18, 2008",
+     "url": "https://www.mprnews.org/story/2008/12/18/nochebuena",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "At 75, St. Peter adapting to Richfield's changes, The Catholic Spirit, Oct. 8, 2018",
+     "url": "https://www.thecatholicspirit.com/news/local-news/at-75-st-peter-adapting-to-richfields-changes/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Risen Christ ascends to new life, The Catholic Spirit, May 17, 2022",
+     "url": "https://www.thecatholicspirit.com/news/local-news/risen-christ-ascends-to-new-life/",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -676,10 +776,21 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Birth of Jesus.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "For many Mexican families the main event is Nochebuena, Christmas Eve, ending the posadas at midnight (MPR News, 2008). In 2025, during the federal enforcement surge, a Lake Street baker told WCCO her family cut its Nochebuena gathering of 30 to 40 people to a handful.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebrating a Minnesota Nochebuena, MPR News, Dec. 18, 2008",
+     "url": "https://www.mprnews.org/story/2008/12/18/nochebuena",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Hispanic families in Twin Cities scale back Christmas celebrations amid ICE crackdown, CBS Minnesota, Dec. 24, 2025",
+     "url": "https://www.cbsnews.com/minnesota/news/hispanic-christmas-celebrations-minneapolis-ice/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "seedId": "ash-wednesday",
@@ -727,7 +838,8 @@
    "seedId": "good-friday",
    "name": "Good Friday",
    "alsoKnownAs": [
-    "Viernes Santo"
+    "Viernes Santo",
+    "Vía Crucis"
    ],
    "kind": "religious",
    "capsule": "The crucifixion of Jesus, observed by Catholic and other Christian families.",
@@ -760,10 +872,24 @@
    ],
    "dateCertainty": "calculated",
    "whatItMarks": "The crucifixion of Jesus.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "howCelebratedInMinnesota": "Incarnation/Sagrado Corazón in Minneapolis posts a bilingual Spanish and English Way of the Cross used on the Fridays of Lent in 2022 (March 4 to April 8). No public outdoor Vía Crucis in a Mexican community was found for 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Vía Crucis / Way of the Cross (bilingual)",
+     "place": "Church of the Incarnation / Sagrado Corazón de Jesús, 3801 Pleasant Ave., Minneapolis",
+     "link": "https://www.incarnationmpls.org/via-cru",
+     "organizerDates": "Fridays of Lent 2022: March 4, 11, 18, 25, April 1, 8; 2026 dates not posted",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "El Vía Crucis / The Way of the Cross, Church of the Incarnation",
+     "url": "https://www.incarnationmpls.org/via-cru",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "seedId": "easter",
