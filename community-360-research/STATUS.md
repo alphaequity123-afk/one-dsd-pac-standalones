@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-38 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+39 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking, colombian, ecuadorian, liberian, amharic, nigerian, kenyan, guatemalan, salvadoran, cuban, puerto-rican, deaf-deafblind-hard-of-hearing, french, minnesota, american.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking, colombian, ecuadorian, liberian, amharic, nigerian, kenyan, guatemalan, salvadoran, cuban, puerto-rican, deaf-deafblind-hard-of-hearing, french, minnesota, american, european-american.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): european-american now running. Second pass running on karen, somali, african-american and latino (of the 10 thin communities below).
+- In the cloud session (started October 31, 2026): all 28 communities are finished. Second pass running on somali, african-american and latino (of the 10 thin communities below).
 
 ## Next, after the 28 communities
 
@@ -43,6 +43,8 @@ None of the 28 cloud communities.
 ## Blocked sources
 
 Hmong and the methods note could not open these: Star Tribune, Christian Century, the state charter school directory, Carleton's Religions in Minnesota, mn.gov pages (State Demographic Center, Department of Veterans Affairs), the University of Minnesota Conservancy, state courts, the Senate roster, Department of Education pages, and ICPSR.
+
+- European American could not open: mn.gov (State Demographic Center), Explore Minnesota, the American Swedish Institute, Mindekirken and Twin Cities Irish Fest (too many requests), Sokol MN, Celtic Junction, Lutheran Social Service, The Norwegian American, Olsen Fish, Gustavus, and the University of Minnesota autism surveillance site.
 
 - American could not open: census.gov, the State Demographic Center and Secretary of State pages on mn.gov, BLS, Minnesota Reformer, Star Tribune, Explore Minnesota, Minnesota Lawyer, Axios, Perfect Duluth Day and the Spokesman-Recorder.
 
@@ -100,6 +102,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **European American:** 123 opened sources; web search worked throughout. Income, health and disability are not published by ancestry, so the profile uses figures for white non-Hispanic Minnesotans and says so. Not established: any Svenskarnas Dag or Scandinavian Summer Fest after 2018 or Twin Cities Polish Festival after 2019, and organizer-confirmed 2026 dates for Kolacky Days, Dožínky or St. Lucia events. 14 of 37 businesses could not be confirmed open. Independence Day and Thanksgiving were moved off this page because they belong on the American and Minnesota pages.
 - **American (mainstream American culture in Minnesota):** 125 opened sources; web search worked throughout. Not established: a current count of Minnesotans who give their ancestry as "American" (the newest opened figure is from 2012), any Minnesota evidence on workplace habits, weddings or family customs (so the page makes no claims about them), current church membership (the newest decline report found is from 2018), and what replaced the Housing Stabilization Services program after it ended. 8 of 39 businesses and institutions could not be confirmed open.
 - **Minnesota (shared state culture):** 143 opened sources; web search worked throughout. Not established: a measured picture of "Minnesota nice" (no survey was found; it is presented as a claim with supporters and critics), the statewide share with a college degree, household wealth and the union membership rate from an opened source, state agency disparity figures, and 2026-27 dates for the Aquatennial, Festival of Nations, Eelpout Festival and Beargrease. 16 of 40 businesses could not be confirmed open.
 - **French:** 95 opened sources; web search worked throughout. Not established: any current French-language Mass or Haitian or African francophone congregation, any Haitian or francophone African business confirmed open, a data profile for French Canadian, Haitian or francophone African Minnesotans (the Census publishes one only for French ancestry), how many Haitian Minnesotans held TPS and the exact date it ended, and any Minnesota disability study or organization for these groups. 10 of 28 businesses could not be confirmed open.

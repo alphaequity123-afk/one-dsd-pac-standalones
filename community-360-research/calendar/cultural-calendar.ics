@@ -527,11 +527,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260218
 DTEND;VALUE=DATE:20260219
 SUMMARY:Ash Wednesday
-DESCRIPTION:Start of Lent. Date: 46 days before Western Easter. Source: U
- nited States Conference of Catholic Bishops\, Liturgical Calendar for the
-  Dioceses of the USA 2026 https://www.usccb.org/resources/2026cal.pdf Com
- munities: European American Minnesota\, Filipino Minnesota\, Guatemalan M
- innesota\, Latino Minnesota\, Mexican Minnesota\, Salvadoran Minnesota
+DESCRIPTION:The start of Lent. Date: 46 days before Western Easter. Sourc
+ e: United States Conference of Catholic Bishops\, Liturgical Calendar for
+  the Dioceses of the USA 2026 https://www.usccb.org/resources/2026cal.pdf
+  Communities: European American Minnesota\, Filipino Minnesota\, Guatemal
+ an Minnesota\, Latino Minnesota\, Mexican Minnesota\, Salvadoran Minnesot
+ a
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -738,6 +739,21 @@ DESCRIPTION:Spring\, rebirth and releasing negative energy\, per MPR News
  ch. Source: HinduTone guide https://hindutone.com/festivals/ganesh-chatur
  thi-2026-usa-state-by-state/ Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:st-urhos-day-2026-03-16@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:St. Urho's Day
+DESCRIPTION:Finnish American humor and heritage\; the legend dates to the
+  1950s\, and the colors are purple (grapes) and green (grasshoppers). Dat
+ e: March 16 each year\; town celebrations fall on a nearby weekend. Sourc
+ e: Fixed date per Northern News Now and CBS Minnesota https://www.norther
+ nnewsnow.com/2025/03/17/finnish-americans-celebrate-st-urhos-day-duluth/ 
+ Communities: European American Minnesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1343,10 +1359,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260517
 DTEND;VALUE=DATE:20260518
 SUMMARY:Syttende Mai
-DESCRIPTION:The 1814 Norwegian constitution. Date: May 17. Source: Lovdat
- a (Norway)\, Lov om 1. og 17. mai som høgtidsdager https://lovdata.no/do
- kument/NL/lov/1947-04-26-1 Communities: European American Minnesota\, Min
- nesota culture
+DESCRIPTION:The signing of Norway's constitution at Eidsvoll on May 17\, 
+ 1814. Date: May 17 each year\; Minnesota events are often held on the nea
+ rest weekend. Source: Fixed date\; The Alley article on Mindekirken's cel
+ ebration https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/
+  Communities: European American Minnesota\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1776,7 +1793,7 @@ DESCRIPTION:The Declaration of Independence of 1776 and the founding of t
  he United States. Date: July 4. If it falls on a Saturday the Friday befo
  re is the holiday\; if Sunday\, the Monday after. Source: Minn. Stat. 645
  .44 fixes July 4 https://www.revisor.mn.gov/statutes/cite/645.44 Communit
- ies: American culture\, European American Minnesota\, Minnesota culture
+ ies: American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2696,6 +2713,19 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:st-paul-oktoberfest-2026-09-11@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260913
+SUMMARY:St. Paul Oktoberfest
+DESCRIPTION:German heritage\, modeled on Munich's Oktoberfest. Date: A Fr
+ iday and Saturday in September\, announced each year by the Germanic-Amer
+ ican Institute. Source: Germanic-American Institute https://www.gaimn.org
+ /st-paul-oktoberfest Communities: European American Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:selby-avenue-jazzfest-2026-09-12@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260912
@@ -2819,6 +2849,18 @@ DESCRIPTION:Start of the 1810 war of independence. Date: September 16. Co
  scanso-obligatorio-para-este-2026 Communities: Latino Minnesota\, Mexican
   Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:finnfest-usa-2026-09-17@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260921
+SUMMARY:FinnFest USA
+DESCRIPTION:Finnish and Finnish American culture. Date: Announced each ye
+ ar by FinnFest USA\; location varies. Source: FinnFest USA https://finnfe
+ st.us/program-overview/ Communities: European American Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3111,6 +3153,19 @@ DESCRIPTION:Nigeria's independence from Britain in 1960 (the 2014 proclam
  1224/old_original/governor/images/Nigerian_Independence_Day.pdf Communiti
  es: Nigerian Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:new-ulm-oktoberfest-2026-10-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261011
+SUMMARY:New Ulm Oktoberfest
+DESCRIPTION:German heritage and the harvest season. Date: The first two w
+ eekends of October. Source: Visit New Ulm (Oct. 2-3 and Oct. 9-10) https:
+ //www.newulm.com/2026/08/12/new-ulm-oktoberfest-usa-today-10best-2026/ Co
+ mmunities: European American Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3801,8 +3856,7 @@ DESCRIPTION:A national day of thanks\, centered on a family meal. Date: F
  ourth Thursday in November (Minn. Stat. 645.44). The state executive bran
  ch also closes the Friday after. Source: U.S. Office of Personnel Managem
  ent\, Federal Holidays https://www.opm.gov/policy-data-oversight/pay-leav
- e/federal-holidays/ Communities: American culture\, European American Min
- nesota\, Minnesota culture
+ e/federal-holidays/ Communities: American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3888,10 +3942,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:St. Lucia Day
-DESCRIPTION:Feast of Saint Lucy\, kept in Swedish tradition. Date: Decemb
- er 13. Source: United States Conference of Catholic Bishops\, Liturgical 
- Calendar for the Dioceses of the USA 2027 https://www.usccb.org/resources
- /2027cal.pdf Communities: European American Minnesota
+DESCRIPTION:The feast of St. Lucy\, kept in Swedish and other Nordic trad
+ ition as a festival of light. Date: December 13. Source: United States Co
+ nference of Catholic Bishops\, Liturgical Calendar for the Dioceses of th
+ e USA 2027 https://www.usccb.org/resources/2027cal.pdf Communities: Europ
+ ean American Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4330,11 +4385,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Ash Wednesday
-DESCRIPTION:Start of Lent. Date: 46 days before Western Easter. Source: U
- nited States Conference of Catholic Bishops\, Liturgical Calendar for the
-  Dioceses of the USA 2027 https://www.usccb.org/resources/2027cal.pdf Com
- munities: European American Minnesota\, Filipino Minnesota\, Guatemalan M
- innesota\, Latino Minnesota\, Mexican Minnesota\, Salvadoran Minnesota
+DESCRIPTION:The start of Lent. Date: 46 days before Western Easter. Sourc
+ e: United States Conference of Catholic Bishops\, Liturgical Calendar for
+  the Dioceses of the USA 2027 https://www.usccb.org/resources/2027cal.pdf
+  Communities: European American Minnesota\, Filipino Minnesota\, Guatemal
+ an Minnesota\, Latino Minnesota\, Mexican Minnesota\, Salvadoran Minnesot
+ a
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4477,6 +4533,21 @@ DESCRIPTION:The 1917 law granting U.S. citizenship to Puerto Ricans. Date
  lnuevodia.com/dias-feriados-en-puerto-rico/ Communities: Puerto Rican Min
  nesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:st-urhos-day-2027-03-16@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:St. Urho's Day
+DESCRIPTION:Finnish American humor and heritage\; the legend dates to the
+  1950s\, and the colors are purple (grapes) and green (grasshoppers). Dat
+ e: March 16 each year\; town celebrations fall on a nearby weekend. Sourc
+ e: Fixed date (March 16) https://www.northernnewsnow.com/2025/03/17/finni
+ sh-americans-celebrate-st-urhos-day-duluth/ Communities: European America
+ n Minnesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4744,10 +4815,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Syttende Mai
-DESCRIPTION:The 1814 Norwegian constitution. Date: May 17. Source: Lovdat
- a (Norway)\, Lov om 1. og 17. mai som høgtidsdager https://lovdata.no/do
- kument/NL/lov/1947-04-26-1 Communities: European American Minnesota\, Min
- nesota culture
+DESCRIPTION:The signing of Norway's constitution at Eidsvoll on May 17\, 
+ 1814. Date: May 17 each year\; Minnesota events are often held on the nea
+ rest weekend. Source: Fixed date (May 17) https://alleynews.org/2026/05/j
+ oin-mindekirken-for-syttende-mai/ Communities: European American Minnesot
+ a\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4971,7 +5043,7 @@ DESCRIPTION:The Declaration of Independence of 1776 and the founding of t
  he United States. Date: July 4. If it falls on a Saturday the Friday befo
  re is the holiday\; if Sunday\, the Monday after. Source: Minn. Stat. 645
  .44 fixes July 4 https://www.revisor.mn.gov/statutes/cite/645.44 Communit
- ies: American culture\, European American Minnesota\, Minnesota culture
+ ies: American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5608,8 +5680,7 @@ DESCRIPTION:A national day of thanks\, centered on a family meal. Date: F
  ourth Thursday in November (Minn. Stat. 645.44). The state executive bran
  ch also closes the Friday after. Source: U.S. Office of Personnel Managem
  ent\, Federal Holidays https://www.opm.gov/policy-data-oversight/pay-leav
- e/federal-holidays/ Communities: American culture\, European American Min
- nesota\, Minnesota culture
+ e/federal-holidays/ Communities: American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5691,10 +5762,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271213
 DTEND;VALUE=DATE:20271214
 SUMMARY:St. Lucia Day
-DESCRIPTION:Feast of Saint Lucy\, kept in Swedish tradition. Date: Decemb
- er 13. Source: United States Conference of Catholic Bishops\, Liturgical 
- Calendar for the Dioceses of the USA 2027 https://www.usccb.org/resources
- /2027cal.pdf Communities: European American Minnesota
+DESCRIPTION:The feast of St. Lucy\, kept in Swedish and other Nordic trad
+ ition as a festival of light. Date: December 13. Source: United States Co
+ nference of Catholic Bishops\, Liturgical Calendar for the Dioceses of th
+ e USA 2027 https://www.usccb.org/resources/2027cal.pdf Communities: Europ
+ ean American Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6200,12 +6272,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280301
 DTEND;VALUE=DATE:20280302
 SUMMARY:Ash Wednesday
-DESCRIPTION:Start of Lent. Date: 46 days before Western Easter. Source: D
- iocese of Rapid City\, Liturgical Calendar 2026 to 2028 https://www.rapid
- citydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-20
- 28_1540859795023570813.pdf Communities: European American Minnesota\, Fil
- ipino Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, Mexican Minne
- sota\, Salvadoran Minnesota
+DESCRIPTION:The start of Lent. Date: 46 days before Western Easter. Sourc
+ e: Diocese of Rapid City\, Liturgical Calendar 2026 to 2028 https://www.r
+ apidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-t
+ o-2028_1540859795023570813.pdf Communities: European American Minnesota\,
+  Filipino Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, Mexican M
+ innesota\, Salvadoran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6249,6 +6321,21 @@ DESCRIPTION:Spring\, rebirth and releasing negative energy\, per MPR News
  ang.com/festivals/holi/festivals-holi-rangwali.html?year=2028 Communities
  : Indian (Asian Indian) Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:st-urhos-day-2028-03-16@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280316
+DTEND;VALUE=DATE:20280317
+SUMMARY:St. Urho's Day
+DESCRIPTION:Finnish American humor and heritage\; the legend dates to the
+  1950s\, and the colors are purple (grapes) and green (grasshoppers). Dat
+ e: March 16 each year\; town celebrations fall on a nearby weekend. Sourc
+ e: Fixed date (March 16) https://www.northernnewsnow.com/2025/03/17/finni
+ sh-americans-celebrate-st-urhos-day-duluth/ Communities: European America
+ n Minnesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6482,9 +6569,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280517
 DTEND;VALUE=DATE:20280518
 SUMMARY:Syttende Mai
-DESCRIPTION:The 1814 Norwegian constitution. Date: May 17. Source: Lovdat
- a (Norway)\, Lov om 1. og 17. mai som høgtidsdager https://lovdata.no/do
- kument/NL/lov/1947-04-26-1 Communities: European American Minnesota
+DESCRIPTION:The signing of Norway's constitution at Eidsvoll on May 17\, 
+ 1814. Date: May 17 each year\; Minnesota events are often held on the nea
+ rest weekend. Source: Fixed date (May 17) https://alleynews.org/2026/05/j
+ oin-mindekirken-for-syttende-mai/ Communities: European American Minnesot
+ a
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6692,7 +6781,7 @@ DESCRIPTION:The Declaration of Independence of 1776 and the founding of t
  he United States. Date: July 4. If it falls on a Saturday the Friday befo
  re is the holiday\; if Sunday\, the Monday after. Source: Minn. Stat. 645
  .44 fixes July 4 https://www.revisor.mn.gov/statutes/cite/645.44 Communit
- ies: American culture\, European American Minnesota\, Minnesota culture
+ ies: American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7188,8 +7277,7 @@ DESCRIPTION:A national day of thanks\, centered on a family meal. Date: F
  ourth Thursday in November (Minn. Stat. 645.44). The state executive bran
  ch also closes the Friday after. Source: U.S. Office of Personnel Managem
  ent\, Federal Holidays https://www.opm.gov/policy-data-oversight/pay-leav
- e/federal-holidays/ Communities: American culture\, European American Min
- nesota\, Minnesota culture
+ e/federal-holidays/ Communities: American culture\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7271,10 +7359,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281213
 DTEND;VALUE=DATE:20281214
 SUMMARY:St. Lucia Day
-DESCRIPTION:Feast of Saint Lucy\, kept in Swedish tradition. Date: Decemb
- er 13. Source: United States Conference of Catholic Bishops\, Liturgical 
- Calendar for the Dioceses of the USA 2027 https://www.usccb.org/resources
- /2027cal.pdf Communities: European American Minnesota
+DESCRIPTION:The feast of St. Lucy\, kept in Swedish and other Nordic trad
+ ition as a festival of light. Date: December 13. Source: United States Co
+ nference of Catholic Bishops\, Liturgical Calendar for the Dioceses of th
+ e USA 2027 https://www.usccb.org/resources/2027cal.pdf Communities: Europ
+ ean American Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT

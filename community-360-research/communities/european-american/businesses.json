@@ -1,0 +1,372 @@
+[
+ {
+  "name": "Ingebretsen's Nordic Marketplace",
+  "type": "grocery and gift store",
+  "neighborhoodOrCity": "Minneapolis, Lake Street (1601 E. Lake St.)",
+  "whatItIs": "Nordic food, lefse, gifts and home goods from Norway, Sweden, Denmark, Iceland and Finland.",
+  "link": "https://ingebretsens.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site, current in Oct. 2026, gives the Lake Street address and says it has served Scandinavian culture since 1921."
+ },
+ {
+  "name": "Taste of Scandinavia Bakery, Cafe & Catering",
+  "type": "bakery and cafe",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Scandinavian-style bakery, cafe and caterer with online ordering for pickup or delivery.",
+  "link": "https://tasteofscandinavia.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows a 2026 copyright and live online ordering."
+ },
+ {
+  "name": "Norsland Lefse",
+  "type": "food maker and gift shop",
+  "neighborhoodOrCity": "Rushford (210 W. Jessie St.)",
+  "whatItIs": "Lefse maker and Scandinavian gift shop in southeastern Minnesota.",
+  "link": "https://norslandlefse.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loads with address and products, but no dated hours or 2025-2026 post were found."
+ },
+ {
+  "name": "Freddy's Lefse",
+  "type": "food maker",
+  "neighborhoodOrCity": "Minnesota (location not stated on page opened)",
+  "whatItIs": "Hand-rolled lefse producer.",
+  "link": "https://www.freddyslefse.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loads with the slogan 'Hand made. Hand rolled. Always.' but shows no dated information."
+ },
+ {
+  "name": "Gasthof zur Gemütlichkeit",
+  "type": "restaurant and bar",
+  "neighborhoodOrCity": "Northeast Minneapolis (2300 University Ave. NE)",
+  "whatItIs": "German restaurant and beer hall.",
+  "link": "https://gasthofzg.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current weekly hours (closed Mondays; Tuesday 3-10 p.m.; Sunday 11 a.m.-10 p.m.)."
+ },
+ {
+  "name": "Waldmann Brewery & Wurstery",
+  "type": "brewery and restaurant",
+  "neighborhoodOrCity": "St. Paul, West Seventh (445 Smith Ave.)",
+  "whatItIs": "German-style beer and sausages in an 1857 building; the business says the tradition was 're-invigorated in 2017.'",
+  "link": "https://waldmannbrewery.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists regular hours."
+ },
+ {
+  "name": "Bauhaus Brew Labs",
+  "type": "brewery and taproom",
+  "neighborhoodOrCity": "Northeast Minneapolis",
+  "whatItIs": "Brewery with German-inspired styles and taproom.",
+  "link": "https://www.bauhausbrewlabs.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current taproom hours."
+ },
+ {
+  "name": "August Schell Brewing Company",
+  "type": "brewery",
+  "neighborhoodOrCity": "New Ulm",
+  "whatItIs": "Family brewery in New Ulm; hosts Schell's Oktoberfest during New Ulm's Oktoberfest weekends.",
+  "link": "https://www.schellsbrewery.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists events on November 1, 3, 6, 8, 10 and 11, 2026; Visit New Ulm lists Schell's Oktoberfest in its 2026 schedule."
+ },
+ {
+  "name": "Domeier's German Store",
+  "type": "specialty store",
+  "neighborhoodOrCity": "New Ulm",
+  "whatItIs": "German imports store listed in New Ulm's Oktoberfest schedule.",
+  "link": "https://www.newulm.com/2026/08/20/coming-to-new-ulm-for-oktoberfest-5/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Visit New Ulm's 2026 Oktoberfest schedule lists Domeier's hours (9:30 a.m.-4:30 p.m. and 10:30 a.m.-4:30 p.m. on festival days). The store's own site could not be reached."
+ },
+ {
+  "name": "DeGidio's Restaurant & Bar",
+  "type": "restaurant",
+  "neighborhoodOrCity": "St. Paul, West Seventh (425 W. 7th St.)",
+  "whatItIs": "Italian American restaurant established in 1933.",
+  "link": "https://degidios.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site, current, shows menu, address and 'Est. 1933.'"
+ },
+ {
+  "name": "Broders' Cucina Italiana",
+  "type": "deli, grocer and restaurant",
+  "neighborhoodOrCity": "Southwest Minneapolis",
+  "whatItIs": "Italian deli and grocer, open since 1982.",
+  "link": "https://broders.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site says it opens daily at 8 a.m. and posts an October 2026 newsletter."
+ },
+ {
+  "name": "Cossetta Alimentari",
+  "type": "Italian market and restaurant",
+  "neighborhoodOrCity": "St. Paul, West Seventh",
+  "whatItIs": "Italian market and eatery; Heavy Table traces it to Michael Cossetta, an immigrant from Calabria, and says it is still in operation.",
+  "link": "https://cossettas.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loads with 'Hours & Location' but its newest date is a 2025 copyright; no 2026 item seen."
+ },
+ {
+  "name": "Buon Giorno Italian Market",
+  "type": "Italian market",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Italian market; its web address now shows only a 'Coming Soon' page.",
+  "link": "https://www.buongiornomarket.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site displays only 'Coming Soon' when checked."
+ },
+ {
+  "name": "Merlins Rest Irish Pub",
+  "type": "pub",
+  "neighborhoodOrCity": "Minneapolis, Longfellow",
+  "whatItIs": "Irish and British pub known for live Irish music and a large whiskey list.",
+  "link": "https://www.merlinsrest.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loads with menus and music listings but no dated 2025-2026 item was seen."
+ },
+ {
+  "name": "Brit's Pub",
+  "type": "pub",
+  "neighborhoodOrCity": "Downtown Minneapolis",
+  "whatItIs": "British-style pub with rooftop lawn bowling; says it has operated for over thirty years.",
+  "link": "https://britspub.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loads with menus and event booking; no dated item seen."
+ },
+ {
+  "name": "The Dubliner Pub",
+  "type": "pub",
+  "neighborhoodOrCity": "St. Paul, Midway",
+  "whatItIs": "Irish pub that Visit Saint Paul says has been in the neighborhood since 1983.",
+  "link": "https://www.visitsaintpaul.com/blog/irish-bars-restaurants/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed on Visit Saint Paul's current Irish guide; the pub's own site could not be reached (old address points to an empty blog)."
+ },
+ {
+  "name": "Half Time Rec",
+  "type": "bar",
+  "neighborhoodOrCity": "St. Paul, West Seventh",
+  "whatItIs": "Bar that Visit Saint Paul calls a well-known Irish bar, with live bands and basement bocce.",
+  "link": "https://www.halftimerec.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site carries only a 2026 copyright line; Visit Saint Paul's 2026 Irish guide lists it."
+ },
+ {
+  "name": "Claddagh Coffee and Wee Claddagh",
+  "type": "coffee shops",
+  "neighborhoodOrCity": "St. Paul (West Seventh and Selby-Dale)",
+  "whatItIs": "Two Irish-named coffee shops with catering.",
+  "link": "https://www.visitsaintpaul.com/blog/irish-bars-restaurants/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed in Visit Saint Paul's current Irish guide; own sites were not opened."
+ },
+ {
+  "name": "Shamrock's and The Nook",
+  "type": "bar-restaurants",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Irish-themed burger bars listed by Visit Saint Paul.",
+  "link": "https://www.visitsaintpaul.com/blog/irish-bars-restaurants/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed in Visit Saint Paul's Irish guide; own sites were not opened."
+ },
+ {
+  "name": "Irish on Grand",
+  "type": "gift store",
+  "neighborhoodOrCity": "St. Paul (formerly Grand Avenue)",
+  "whatItIs": "Irish gifts, clothing and music; Visit Saint Paul calls it the oldest Irish store in the Twin Cities.",
+  "link": "https://www.irishongrand.com/",
+  "dateChecked": "2026-10-31",
+  "status": "closed",
+  "evidence": "Visit Saint Paul says it closed its brick-and-mortar store on Grand Avenue; its own site says online purchasing is paused and points shoppers to a State Fair booth in 2027."
+ },
+ {
+  "name": "Glockenspiel Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "St. Paul, West Seventh",
+  "whatItIs": "German restaurant named in older guides.",
+  "link": "https://www.glockenspielrestaurant.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Its web address now redirects to a different address (deutschlandmeats.com) that did not load; no current sign of operation found."
+ },
+ {
+  "name": "Norway House",
+  "type": "cultural center with exhibits and events",
+  "neighborhoodOrCity": "Minneapolis, East Franklin Avenue",
+  "whatItIs": "Norwegian cultural center with the Haugo Bibliotek and Saga Center; hosts events and memberships.",
+  "link": "https://www.norwayhouse.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists a November 19, 2026 event and current hours."
+ },
+ {
+  "name": "American Swedish Institute (incl. FIKA cafe and museum store)",
+  "type": "museum, cafe and store",
+  "neighborhoodOrCity": "Minneapolis, Phillips (2600 Park Ave.)",
+  "whatItIs": "Museum and cultural center in the Turnblad mansion with a cafe and shop.",
+  "link": "https://www.yahoo.com/news/articles/american-swedish-institute-reveals-2026-233302470.html",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Its 2026 exhibition season (from Feb. 14, 2026) and 2027 schedule were reported in current coverage; ASI's own site could not be opened when checked."
+ },
+ {
+  "name": "Danish American Center",
+  "type": "membership center",
+  "neighborhoodOrCity": "Minneapolis, West River Parkway",
+  "whatItIs": "Danish social and cultural center.",
+  "link": "https://www.danishamericancenter.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts monthly 'From the President' notes through November 2026."
+ },
+ {
+  "name": "Polish American Cultural Institute of Minnesota (PACIM)",
+  "type": "cultural center and library",
+  "neighborhoodOrCity": "Downtown St. Paul (75 Fifth St. W., Suite 431)",
+  "whatItIs": "Polish heritage center, open Sundays 1-3 p.m.",
+  "link": "https://pacim.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists Nov. 18 and Nov. 22, 2026 events and Sunday hours."
+ },
+ {
+  "name": "Sons of Norway",
+  "type": "fraternal insurance and cultural organization",
+  "neighborhoodOrCity": "Minneapolis headquarters; lodges statewide",
+  "whatItIs": "Fraternal benefit society founded in Minneapolis in 1895; publishes Viking magazine.",
+  "link": "https://www.sofn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows the Sept./Oct. 2026 magazine and posts dated Oct. 20-21, 2026."
+ },
+ {
+  "name": "Minnesota Discovery Center",
+  "type": "museum and research center",
+  "neighborhoodOrCity": "Chisholm, Iron Range",
+  "whatItIs": "Museum and archive of Iron Range history.",
+  "link": "https://www.mndiscoverycenter.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current hours and admission with a 2026 copyright."
+ },
+ {
+  "name": "Historical and Cultural Society of Clay County (Hjemkomst Center)",
+  "type": "museum",
+  "neighborhoodOrCity": "Moorhead (202 First Ave. N.)",
+  "whatItIs": "Museum housing the Hjemkomst Viking ship replica and the Hopperstad Stave Church replica.",
+  "link": "https://www.hcscconline.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists museum hours and location with a 2026 copyright."
+ },
+ {
+  "name": "Giants of the Earth Heritage Center",
+  "type": "heritage center",
+  "neighborhoodOrCity": "Spring Grove",
+  "whatItIs": "Norwegian Ridge heritage center and language camp.",
+  "link": "https://giantsoftheearth.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site, 2026, asks for Syttende Mai honoree photos and lists Tuesday-Saturday hours."
+ },
+ {
+  "name": "Irish Arts Minnesota",
+  "type": "arts nonprofit",
+  "neighborhoodOrCity": "St. Paul (400 Macalester St.)",
+  "whatItIs": "Teaches and presents traditional Irish music and dance; hosts the Landmark Center St. Patrick's Day celebration.",
+  "link": "https://irishartsmn.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts February and March 2026 newsletters."
+ },
+ {
+  "name": "KCHK radio (Ingstad Media New Prague)",
+  "type": "media",
+  "neighborhoodOrCity": "New Prague",
+  "whatItIs": "Local radio in a Czech-heritage town; hosted a radio tent at Montgomery's Czech May Day in 2025.",
+  "link": "https://ingstadmedia.com/new-prague/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Station page shows posts dated Oct. 26-30, 2026."
+ },
+ {
+  "name": "Viking magazine (Sons of Norway)",
+  "type": "media",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Member magazine of Sons of Norway.",
+  "link": "https://www.sofn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Sons of Norway site shows the Sept./Oct. 2026 issue."
+ },
+ {
+  "name": "The Norwegian American",
+  "type": "newspaper",
+  "neighborhoodOrCity": "Minneapolis-based per the existing page; not confirmed",
+  "whatItIs": "Monthly Norwegian American newspaper.",
+  "link": "https://www.norwegianamerican.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site refused access when checked."
+ },
+ {
+  "name": "Olsen Fish Company",
+  "type": "food processor",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Lutefisk and pickled herring processor.",
+  "link": "https://www.olsenfish.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site refused access when checked."
+ },
+ {
+  "name": "Nordic Ware",
+  "type": "manufacturer",
+  "neighborhoodOrCity": "St. Louis Park",
+  "whatItIs": "Cookware maker; site returned an empty page when checked.",
+  "link": "https://www.nordicware.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site returned an empty page when checked; no current confirmation from an opened page."
+ },
+ {
+  "name": "Salolampi Foundation / Concordia Language Villages",
+  "type": "education nonprofit",
+  "neighborhoodOrCity": "Bemidji area (Turtle River Lake); Concordia College, Moorhead",
+  "whatItIs": "Supports the Salolampi Finnish Language Village, a program of Concordia Language Villages (Concordia College, Moorhead), which offers programs in 14 languages.",
+  "link": "https://www.salolampi.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Salolampi site posts its Summer/Fall 2026 newsletter."
+ },
+ {
+  "name": "Twin Cities German Immersion School",
+  "type": "charter school",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Free K-8 public charter school; says it is the largest German immersion school in North America.",
+  "link": "https://www.tcgis.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site is current and describes enrollment open to all Minnesota families."
+ }
+]

@@ -10014,9 +10014,10 @@
    "observanceKey": "easter",
    "name": "Easter",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "Påske",
+    "Ostern",
+    "Wielkanoc",
+    "Pasqua"
    ],
    "communities": [
     "european-american"
@@ -10028,10 +10029,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
-   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "capsule": "The central Christian feast of the resurrection, kept in Lutheran, Catholic and other churches across Minnesota.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Western/Gregorian).",
    "dates": [
     {
      "year": 2026,
@@ -10059,19 +10060,26 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The resurrection of Jesus in Western Christian tradition.",
+   "howCelebratedInMinnesota": "Kept in Lutheran and Catholic congregations, the two largest church families among Minnesota adults (Pew 2023-24: about 23 percent Lutheran, 18 percent Catholic). No opened Minnesota source described heritage-specific Easter customs.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Religious Landscape Study: Minnesota, Pew Research Center",
+     "url": "https://www.pewresearch.org/religious-landscape-study/state/minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "european-american--good-friday",
    "observanceKey": "good-friday",
    "name": "Good Friday",
    "alsoKnownAs": [
-    "Viernes Santo",
-    "Biyernes Santo"
+    "Langfredag",
+    "Karfreitag",
+    "Wielki Piątek"
    ],
    "communities": [
     "european-american"
@@ -10083,9 +10091,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
    "kind": "religious",
-   "capsule": "The crucifixion of Jesus.",
+   "capsule": "Christian day marking the crucifixion of Jesus, two days before Easter.",
    "dateRule": "The Friday before Western Easter.",
    "dates": [
     {
@@ -10115,17 +10123,25 @@
    ],
    "dateCertainty": "calculated",
    "whatItMarks": "The crucifixion of Jesus.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "Observed with services in Lutheran and Catholic parishes; no opened Minnesota source described heritage-specific customs.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Religious Landscape Study: Minnesota, Pew Research Center",
+     "url": "https://www.pewresearch.org/religious-landscape-study/state/minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "european-american--ash-wednesday",
    "observanceKey": "ash-wednesday",
    "name": "Ash Wednesday",
    "alsoKnownAs": [
-    "Miércoles de Ceniza"
+    "Askeonsdag",
+    "Aschermittwoch",
+    "Środa Popielcowa"
    ],
    "communities": [
     "european-american"
@@ -10137,9 +10153,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
    "kind": "religious",
-   "capsule": "Start of Lent.",
+   "capsule": "Start of Lent; many Catholics and some Lutherans receive ashes on the forehead.",
    "dateRule": "46 days before Western Easter.",
    "dates": [
     {
@@ -10168,16 +10184,263 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Start of Lent.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The start of Lent.",
+   "howCelebratedInMinnesota": "Observed in Catholic and Lutheran congregations; no opened Minnesota source gave heritage-specific detail.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Religious Landscape Study: Minnesota, Pew Research Center",
+     "url": "https://www.pewresearch.org/religious-landscape-study/state/minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "european-american--st-patricks-day",
    "observanceKey": "st-patricks-day",
    "name": "St. Patrick's Day",
+   "alsoKnownAs": [
+    "Lá Fhéile Pádraig"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "heritage",
+   "capsule": "Irish feast day; St. Paul holds one of the country's best-known parades, running since 1967.",
+   "dateRule": "March 17 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-17",
+     "endDate": null,
+     "source": "Visit Saint Paul, St. Patrick's Day 2026 page",
+     "sourceUrl": "https://www.visitsaintpaul.com/events-calendar/festivals/st-patricks-day/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-17",
+     "endDate": null,
+     "source": "Fixed date (March 17)",
+     "sourceUrl": "https://www.visitsaintpaul.com/events-calendar/festivals/st-patricks-day/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-17",
+     "endDate": null,
+     "source": "Fixed date (March 17)",
+     "sourceUrl": "https://www.visitsaintpaul.com/events-calendar/festivals/st-patricks-day/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The feast of St. Patrick, patron saint of Ireland; a day of Irish heritage.",
+   "howCelebratedInMinnesota": "St. Paul's parade, begun in 1967, starts at noon in Mears Park and ends near Rice Park; 2026 marked its 60th anniversary. Irish Arts Minnesota has hosted a St. Patrick's Day celebration at Landmark Center for over 40 years. West Seventh Street holds tent parties, and pubs, dance schools and comedy clubs run events through March.",
+   "minnesotaEvents": [
+    {
+     "name": "St. Paul St. Patrick's Day Parade",
+     "place": "Downtown St. Paul, Mears Park to Rice Park",
+     "link": "https://www.visitsaintpaul.com/events-calendar/festivals/st-patricks-day/",
+     "organizerDates": "March 17, 2026, noon (as listed by Visit Saint Paul)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Irish Arts Minnesota St. Patrick's Day Irish Celebration",
+     "place": "Landmark Center, St. Paul",
+     "link": "https://www.visitsaintpaul.com/events-calendar/festivals/st-patricks-day/",
+     "organizerDates": "March 17, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Saint Paul St. Patrick's Day 2026, Visit Saint Paul",
+     "url": "https://www.visitsaintpaul.com/events-calendar/festivals/st-patricks-day/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Irish Bars & Restaurants, Visit Saint Paul",
+     "url": "https://www.visitsaintpaul.com/blog/irish-bars-restaurants/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--syttende-mai",
+   "observanceKey": "syttende-mai",
+   "name": "Syttende Mai",
+   "alsoKnownAs": [
+    "Norwegian Constitution Day",
+    "17. mai"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "national",
+   "capsule": "Norway's Constitution Day, May 17, celebrated with children's parades, flags and bunads in Minneapolis, Spring Grove and elsewhere.",
+   "dateRule": "May 17 each year; Minnesota events are often held on the nearest weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-17",
+     "endDate": null,
+     "source": "Fixed date; The Alley article on Mindekirken's celebration",
+     "sourceUrl": "https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-17",
+     "endDate": null,
+     "source": "Fixed date (May 17)",
+     "sourceUrl": "https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-17",
+     "endDate": null,
+     "source": "Fixed date (May 17)",
+     "sourceUrl": "https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The signing of Norway's constitution at Eidsvoll on May 17, 1814.",
+   "howCelebratedInMinnesota": "Mindekirken in Minneapolis holds a festival service, a folketog (people's parade) led by its band, games and folk dancing. Spring Grove, the state's first Norwegian settlement, holds a multi-day festival with a Grand Parade, except in decennial Homecoming years. St. Olaf alumni held a brunch at Norway House in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Syttende Mai at Mindekirken",
+     "place": "Mindekirken, 924 E. 21st St., Minneapolis",
+     "link": "https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/",
+     "organizerDates": "Sunday, May 17, 2026, prelude 10:30 a.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Syttende Mai Celebration at Norway House (St. Olaf alumni)",
+     "place": "Norway House, Minneapolis",
+     "link": "https://wp.stolaf.edu/calendar/event/syttende-mai-celebration-at-the-norway-house/",
+     "organizerDates": "May 18, 2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Spring Grove Syttende Mai",
+     "place": "Spring Grove",
+     "link": "https://fillmorecountyjournal.com/?p=64544",
+     "organizerDates": "May 15-19, 2024 (most recent dated schedule opened); replaced by Homecoming in June 2027",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Join Mindekirken for Syttende Mai, The Alley",
+     "url": "https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Heritage, City of Spring Grove",
+     "url": "https://www.springgrovemn.com/heritage",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "What's New at Syttende Mai?, Fillmore County Journal",
+     "url": "https://fillmorecountyjournal.com/?p=64544",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--syttende-mai-at-mindekirken-minneapolis",
+   "observanceKey": "syttende-mai-at-mindekirken-minneapolis",
+   "name": "Syttende Mai at Mindekirken (Minneapolis)",
+   "alsoKnownAs": [
+    "Mindekirken 17. mai"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "community festival",
+   "capsule": "Festival service, flag parade led by the church band, and children's games at Minneapolis's Norwegian Memorial Church.",
+   "dateRule": "Held on or near May 17; announced each year by Mindekirken.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-17",
+     "endDate": null,
+     "source": "The Alley (article by a Mindekirken member); Mindekirken's own site could not be opened",
+     "sourceUrl": "https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Norwegian Constitution Day, kept by a bilingual Lutheran congregation.",
+   "howCelebratedInMinnesota": "10:30 a.m. prelude, festival worship, a folketog through the neighborhood, free hot dogs and ice cream for children, Sons of Norway Peer Gynt Dancers, Concordia Language Villages and Daughters of Norway activities.",
+   "minnesotaEvents": [
+    {
+     "name": "Syttende Mai at Mindekirken",
+     "place": "924 E. 21st St., Minneapolis",
+     "link": "https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/",
+     "organizerDates": "May 17, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Join Mindekirken for Syttende Mai, The Alley",
+     "url": "https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--spring-grove-homecoming",
+   "observanceKey": "spring-grove-homecoming",
+   "name": "Spring Grove Homecoming",
    "alsoKnownAs": [],
    "communities": [
     "european-american"
@@ -10189,49 +10452,66 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
     }
    ],
-   "profileLink": null,
-   "kind": "heritage",
-   "capsule": "Feast of Saint Patrick.",
-   "dateRule": "March 17.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "community festival",
+   "capsule": "Spring Grove's once-a-decade, five-day reunion, held in place of Syttende Mai; next in June 2027.",
+   "dateRule": "Every ten years, in June, replacing that year's Syttende Mai.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-03-17",
+     "date": null,
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
-     "verified": true
+     "source": "Not a Homecoming year",
+     "sourceUrl": "https://www.springgrovemn.com/heritage",
+     "verified": false
     },
     {
      "year": 2027,
-     "date": "2027-03-17",
+     "date": null,
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
-     "verified": true
+     "source": "City of Spring Grove: 'Our next Homecoming will be June 2027' (exact days not given)",
+     "sourceUrl": "https://www.springgrovemn.com/heritage",
+     "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-03-17",
+     "date": null,
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
-     "verified": true
+     "source": "Not a Homecoming year",
+     "sourceUrl": "https://www.springgrovemn.com/heritage",
+     "verified": false
     }
    ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Feast of Saint Patrick.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Alumni and friends returning to Minnesota's first Norwegian settlement.",
+   "howCelebratedInMinnesota": "Five days of events including the heritage foods and traditions usually seen at Syttende Mai.",
+   "minnesotaEvents": [
+    {
+     "name": "Spring Grove Homecoming",
+     "place": "Spring Grove",
+     "link": "https://www.springgrovemn.com/heritage",
+     "organizerDates": "June 2027 (days not yet listed)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Heritage, City of Spring Grove",
+     "url": "https://www.springgrovemn.com/heritage",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "european-american--syttende-mai",
-   "observanceKey": "syttende-mai",
-   "name": "Syttende Mai",
+   "id": "european-american--svenskarnas-dag-and-midsummer",
+   "observanceKey": "svenskarnas-dag-and-midsummer",
+   "name": "Svenskarnas Dag and Midsummer",
    "alsoKnownAs": [
-    "Norwegian Constitution Day"
+    "Swedish Day",
+    "Midsommar",
+    "Mid-Solen",
+    "Scandinavian Summer Fest"
    ],
    "communities": [
     "european-american"
@@ -10243,49 +10523,706 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
     }
    ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "The 1814 Norwegian constitution.",
-   "dateRule": "May 17.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "heritage",
+   "capsule": "Swedish midsummer festival with a raised maypole and folk dancing, held at Minnehaha Park since 1934; current status unclear.",
+   "dateRule": "Midsummer in late June; Svenskarnas Dag was held on a Sunday in late June. No current organizer schedule found.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-05-17",
+     "date": null,
      "endDate": null,
-     "source": "Lovdata (Norway), Lov om 1. og 17. mai som høgtidsdager",
-     "sourceUrl": "https://lovdata.no/dokument/NL/lov/1947-04-26-1",
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Midsummer and Swedish heritage.",
+   "howCelebratedInMinnesota": "Begun in 1934 at Minnehaha Park with a midsummer pole, Swedish music and dancing and a Midsummer Queen. Joined with Norway Day in 2015 as the Scandinavian Summer Fest; a third annual fest was announced for 2018. No later edition was confirmed. Sons of Norway members in Windom celebrate Mid-Solen at the solstice.",
+   "minnesotaEvents": [
+    {
+     "name": "First Scandinavian Summer Fest",
+     "place": "Minnehaha Park, Minneapolis",
+     "link": "https://nordstjernan.com/news/midwest/7000",
+     "organizerDates": "Sunday, June 28, 2015 (past)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Swedish Immigration to Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/swedish-immigration-minnesota",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "First Scandinavian Summer Fest, Nordstjernan",
+     "url": "https://nordstjernan.com/news/midwest/7000",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "3rd Annual Scandinavian Summer Fest, Nordstjernan",
+     "url": "https://production.nordstjernan.com/calendar/79-celebration/5094",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--st-paul-oktoberfest",
+   "observanceKey": "st-paul-oktoberfest",
+   "name": "St. Paul Oktoberfest",
+   "alsoKnownAs": [
+    "Germanic-American Institute Oktoberfest"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "community festival",
+   "capsule": "Two-day German festival on the Germanic-American Institute's Summit Avenue grounds; its biggest yearly fundraiser.",
+   "dateRule": "A Friday and Saturday in September, announced each year by the Germanic-American Institute.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-11",
+     "endDate": "2026-09-12",
+     "source": "Germanic-American Institute",
+     "sourceUrl": "https://www.gaimn.org/st-paul-oktoberfest",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-05-17",
+     "date": null,
      "endDate": null,
-     "source": "Lovdata (Norway), Lov om 1. og 17. mai som høgtidsdager",
-     "sourceUrl": "https://lovdata.no/dokument/NL/lov/1947-04-26-1",
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "German heritage, modeled on Munich's Oktoberfest.",
+   "howCelebratedInMinnesota": "Music, food and beer at 301 Summit Ave., St. Paul; Friday 4-10 p.m. and Saturday 10 a.m.-10 p.m. in 2026; proceeds support German language and culture programs.",
+   "minnesotaEvents": [
+    {
+     "name": "St. Paul Oktoberfest",
+     "place": "Germanic-American Institute, 301 Summit Ave., St. Paul",
+     "link": "https://www.gaimn.org/st-paul-oktoberfest",
+     "organizerDates": "Sept. 11-12, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "St. Paul Oktoberfest, Germanic-American Institute",
+     "url": "https://www.gaimn.org/st-paul-oktoberfest",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--new-ulm-oktoberfest",
+   "observanceKey": "new-ulm-oktoberfest",
+   "name": "New Ulm Oktoberfest",
+   "alsoKnownAs": [
+    "German-American Day Parade (New Ulm)"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "community festival",
+   "capsule": "Two weekends of German music, food and parades across New Ulm, 'Minnesota's most German city.'",
+   "dateRule": "The first two weekends of October.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-02",
+     "endDate": "2026-10-10",
+     "source": "Visit New Ulm (Oct. 2-3 and Oct. 9-10)",
+     "sourceUrl": "https://www.newulm.com/2026/08/12/new-ulm-oktoberfest-usa-today-10best-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "German heritage and the harvest season.",
+   "howCelebratedInMinnesota": "Downtown street festival Oct. 2-3, 2026, with a keg tapping and the German-American Day Parade on Minnesota Street on Saturday; events at Schell's brewery, hotels, museums and Domeier's German Store over both weekends; polka and German bands.",
+   "minnesotaEvents": [
+    {
+     "name": "Downtown New Ulm Oktoberfest and German-American Day Parade",
+     "place": "Minnesota Street, New Ulm",
+     "link": "https://www.newulm.com/2026/08/12/new-ulm-oktoberfest-usa-today-10best-2026/",
+     "organizerDates": "Oct. 2-3, 2026; parade Oct. 3, 11 a.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Schell's Oktoberfest",
+     "place": "August Schell Brewing, New Ulm",
+     "link": "https://www.newulm.com/2026/08/20/coming-to-new-ulm-for-oktoberfest-5/",
+     "organizerDates": "October 2026 festival weekends",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "New Ulm Oktoberfest: USA TODAY 10BEST Nominee 2026, Visit New Ulm",
+     "url": "https://www.newulm.com/2026/08/12/new-ulm-oktoberfest-usa-today-10best-2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Coming to New Ulm for Oktoberfest?, Visit New Ulm",
+     "url": "https://www.newulm.com/2026/08/20/coming-to-new-ulm-for-oktoberfest-5/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--finnfest-usa",
+   "observanceKey": "finnfest-usa",
+   "name": "FinnFest USA",
+   "alsoKnownAs": [
+    "FinnFest"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "community festival",
+   "capsule": "National Finnish American festival, held in Minneapolis in September 2026 and planned there again in September 2027.",
+   "dateRule": "Announced each year by FinnFest USA; location varies.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-17",
+     "endDate": "2026-09-20",
+     "source": "FinnFest USA",
+     "sourceUrl": "https://finnfest.us/program-overview/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "FinnFest 2026 program guide says a larger Minneapolis festival is planned for September 2027; days not announced",
+     "sourceUrl": "https://finnfest.us/wp-content/uploads/2026/08/FinnFest_USA_2026_Attendee_Program_Guide-Update-8.9.26.pdf",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Finnish and Finnish American culture.",
+   "howCelebratedInMinnesota": "2026: programs, music, films and the free Tori Nordic fair at the Hilton Minneapolis Downtown, with Sunday at the American Swedish Institute. FinnFest has its national offices in Minneapolis and has met in Duluth and Minneapolis before.",
+   "minnesotaEvents": [
+    {
+     "name": "FinnFest USA 2026",
+     "place": "Hilton Minneapolis Downtown and American Swedish Institute",
+     "link": "https://finnfest.us/program-overview/",
+     "organizerDates": "Sept. 17-20, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "FinnFest 2026 Program Overview",
+     "url": "https://finnfest.us/program-overview/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "FinnFest USA 2026 Attendee Program Guide",
+     "url": "https://finnfest.us/wp-content/uploads/2026/08/FinnFest_USA_2026_Attendee_Program_Guide-Update-8.9.26.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "About FinnFest",
+     "url": "https://finnfest.us/about/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--st-urhos-day",
+   "observanceKey": "st-urhos-day",
+   "name": "St. Urho's Day",
+   "alsoKnownAs": [
+    "Saint Urho's Day"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "heritage",
+   "capsule": "Playful Finnish American holiday, the day before St. Patrick's, honoring a legendary saint who chased grasshoppers from Finland.",
+   "dateRule": "March 16 each year; town celebrations fall on a nearby weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-16",
+     "endDate": null,
+     "source": "Fixed date per Northern News Now and CBS Minnesota",
+     "sourceUrl": "https://www.northernnewsnow.com/2025/03/17/finnish-americans-celebrate-st-urhos-day-duluth/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-16",
+     "endDate": null,
+     "source": "Fixed date (March 16)",
+     "sourceUrl": "https://www.northernnewsnow.com/2025/03/17/finnish-americans-celebrate-st-urhos-day-duluth/",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-05-17",
+     "date": "2028-03-16",
      "endDate": null,
-     "source": "Lovdata (Norway), Lov om 1. og 17. mai som høgtidsdager",
-     "sourceUrl": "https://lovdata.no/dokument/NL/lov/1947-04-26-1",
+     "source": "Fixed date (March 16)",
+     "sourceUrl": "https://www.northernnewsnow.com/2025/03/17/finnish-americans-celebrate-st-urhos-day-duluth/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The 1814 Norwegian constitution.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "Finnish American humor and heritage; the legend dates to the 1950s, and the colors are purple (grapes) and green (grasshoppers).",
+   "howCelebratedInMinnesota": "Finland, Minnesota, has celebrated since 1975 with the Miss Helmi contest (since 1984), a pancake breakfast, a tug-of-war and a parade. Menahga holds a parade, coronation and 'changing of the guard.' A Finnish American historical society chapter met at a Duluth Lutheran church in 2025.",
+   "minnesotaEvents": [
+    {
+     "name": "St. Urho's Day celebration, Finland MN",
+     "place": "Finland, Lake County",
+     "link": "https://northshorejournal.co/community/finland/purple-and-green-to-paint-finland-as-annual-st-urhos-celebration-returns/",
+     "organizerDates": "March 13-15, 2026 (as reported by North Shore Journal)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Purple and Green to Paint Finland, North Shore Journal",
+     "url": "https://northshorejournal.co/community/finland/purple-and-green-to-paint-finland-as-annual-st-urhos-celebration-returns/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Small Minnesota town honors the legend of St. Urho, CBS Minnesota",
+     "url": "https://www.cbsnews.com/minnesota/news/finding-minnesota-st-urho/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Finnish Americans celebrate St. Urho's Day in Duluth, Northern News Now",
+     "url": "https://www.northernnewsnow.com/2025/03/17/finnish-americans-celebrate-st-urhos-day-duluth/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--twin-cities-irish-fest",
+   "observanceKey": "twin-cities-irish-fest",
+   "name": "Twin Cities Irish Fest",
+   "alsoKnownAs": [
+    "Irish Fair of Minnesota"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "community festival",
+   "capsule": "Three-day Irish music, dance and culture festival on St. Paul's Harriet Island, drawing over 30,000 people.",
+   "dateRule": "A Friday-Sunday weekend in early August, announced each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-07",
+     "endDate": "2026-08-09",
+     "source": "Visit Saint Paul guide (organizer's site could not be opened)",
+     "sourceUrl": "https://www.visitsaintpaul.com/blog/guide-to-the-irish-fest/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Irish and Irish American culture.",
+   "howCelebratedInMinnesota": "Six outdoor stages, Irish dance, hurling and camogie demonstrations, a marketplace and children's activities; begun in 1980 and on Harriet Island since 2001; offers a Quiet Space for guests with autism or sensory needs.",
+   "minnesotaEvents": [
+    {
+     "name": "Twin Cities Irish Fest 2026",
+     "place": "Harriet Island Regional Park, St. Paul",
+     "link": "https://www.visitsaintpaul.com/blog/guide-to-the-irish-fest/",
+     "organizerDates": "Aug. 7-9, 2026 (Fri. 3-11 p.m., Sat. 10 a.m.-11 p.m., Sun. 10 a.m.-7 p.m.)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Guide to the Twin Cities Irish Fest, Visit Saint Paul",
+     "url": "https://www.visitsaintpaul.com/blog/guide-to-the-irish-fest/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Saint Paul's Irish History, Visit Saint Paul",
+     "url": "https://www.visitsaintpaul.com/blog/saint-pauls-irish-history/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--kolacky-days",
+   "observanceKey": "kolacky-days",
+   "name": "Kolacky Days",
+   "alsoKnownAs": [
+    "Montgomery Kolacky Days"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "community festival",
+   "capsule": "Montgomery's late-July Czech heritage festival, crowning royalty since 1931 in the self-styled 'Kolacky Capital of the World.'",
+   "dateRule": "Late July each year; announced by local organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No organizer page could be opened",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Czech heritage and the kolacky pastry.",
+   "howCelebratedInMinnesota": "Royalty in kroje (Czech folk dress); the town also holds a Czech May Day with a maypole and a KCHK radio tent (May 2025).",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Montgomery Kolacky Days royalty honor Czech heritage, Minnesota Prairie Roots",
+     "url": "https://mnprairieroots.com/2025/05/08/montgomery-kolacky-days-royalty-honor-czech-heritage-culture/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--dožínky-new-prague",
+   "observanceKey": "dožínky-new-prague",
+   "name": "Dožínky (New Prague)",
+   "alsoKnownAs": [
+    "Dozinky",
+    "Czech harvest festival"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "community festival",
+   "capsule": "New Prague's Czech harvest festival with a Main Street parade, run by the Chamber of Commerce; its 40th year was 2024.",
+   "dateRule": "A September weekend, announced each year by the New Prague Chamber of Commerce.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No organizer page could be opened",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Czech harvest traditions and the town's businesses.",
+   "howCelebratedInMinnesota": "Friday car show and concert; Saturday opening ceremony at the Czech Heritage Village, then a noon parade down Main Street (2024).",
+   "minnesotaEvents": [
+    {
+     "name": "40th Dožínky Festival",
+     "place": "Main Street, New Prague",
+     "link": "https://www.keyc.com/2024/09/20/40th-donky-festival/",
+     "organizerDates": "Weekend of Sept. 20, 2024 (past)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "The 40th Dožínky festival, KEYC",
+     "url": "https://www.keyc.com/2024/09/20/40th-donky-festival/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--burns-night",
+   "observanceKey": "burns-night",
+   "name": "Burns Night",
+   "alsoKnownAs": [
+    "Burns Supper"
+   ],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "heritage",
+   "capsule": "Scottish celebration of poet Robert Burns; Mapleton's Burns event dates to 1857 and reached its 143rd in 2019.",
+   "dateRule": "Around January 25 (Burns's birthday); local dates vary.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-25",
+     "endDate": null,
+     "source": "Traditional date; no Minnesota organizer page opened",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-25",
+     "endDate": null,
+     "source": "Traditional date; not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-25",
+     "endDate": null,
+     "source": "Traditional date; not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The life and work of Robert Burns and Scottish heritage.",
+   "howCelebratedInMinnesota": "Mapleton's Scots first honored Burns in 1857 and have held a Burns event nearly every year since; St. Andrew's and Caledonian societies in St. Paul, Minneapolis and Duluth held Burns suppers in the 1800s.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Scottish Cultural Organizations in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/scottish-cultural-organizations-minnesota",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "european-american--st-olaf-christmas-festival",
+   "observanceKey": "st-olaf-christmas-festival",
+   "name": "St. Olaf Christmas Festival",
+   "alsoKnownAs": [],
+   "communities": [
+    "european-american"
+   ],
+   "briefLinks": [
+    {
+     "community": "european-american",
+     "title": "European American Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
+   "kind": "religious",
+   "capsule": "Century-old choral Christmas festival at St. Olaf College in Northfield, rooted in Norwegian Lutheran music.",
+   "dateRule": "An early-December weekend, announced each year by St. Olaf College.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "2026 dates not shown on the page opened",
+     "sourceUrl": "https://christmas.stolaf.edu/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Advent and Christmas in song.",
+   "howCelebratedInMinnesota": "Five choirs and an orchestra in concerts begun by F. Melius Christiansen; the 2025 festival was held Dec. 5-7 and recorded.",
+   "minnesotaEvents": [
+    {
+     "name": "St. Olaf Christmas Festival 2025",
+     "place": "St. Olaf College, Northfield",
+     "link": "https://christmas.stolaf.edu/",
+     "organizerDates": "Dec. 5-7, 2025 (past)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "St. Olaf Christmas Festival, St. Olaf College",
+     "url": "https://christmas.stolaf.edu/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "european-american--st-lucia-day",
    "observanceKey": "st-lucia-day",
    "name": "St. Lucia Day",
    "alsoKnownAs": [
-    "Luciadagen"
+    "Luciadagen",
+    "Santa Lucia"
    ],
    "communities": [
     "european-american"
@@ -10297,9 +11234,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
    "kind": "heritage",
-   "capsule": "Feast of Saint Lucy, kept in Swedish tradition.",
+   "capsule": "Swedish festival of light on December 13, with a white-robed Lucia wearing a crown of candles.",
    "dateRule": "December 13.",
    "dates": [
     {
@@ -10328,7 +11265,7 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Feast of Saint Lucy, kept in Swedish tradition.",
+   "whatItMarks": "The feast of St. Lucy, kept in Swedish and other Nordic tradition as a festival of light.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -10339,9 +11276,10 @@
    "observanceKey": "christmas",
    "name": "Christmas",
    "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
+    "Jul",
+    "Weihnachten",
+    "Boże Narodzenie",
+    "Natale"
    ],
    "communities": [
     "european-american"
@@ -10353,9 +11291,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/european-american/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
+   "capsule": "Christian feast of the birth of Jesus; for many Minnesota families of European heritage, a season of church music and food traditions.",
    "dateRule": "December 25.",
    "dates": [
     {
@@ -10384,117 +11322,30 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The birth of Jesus.",
+   "howCelebratedInMinnesota": "Church services in Lutheran, Catholic and other congregations; the St. Olaf Christmas Festival opens the season for many families (see its own entry).",
+   "minnesotaEvents": [
+    {
+     "name": "St. Olaf Christmas Festival 2025",
+     "place": "Northfield",
+     "link": "https://christmas.stolaf.edu/",
+     "organizerDates": "Dec. 5-7, 2025 (past)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "european-american--independence-day-united-states",
-   "observanceKey": "independence-day-united-states",
-   "name": "Independence Day (United States)",
-   "alsoKnownAs": [
-    "Fourth of July"
-   ],
-   "communities": [
-    "european-american"
-   ],
-   "briefLinks": [
+   "sources": [
     {
-     "community": "european-american",
-     "title": "European American Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
-    }
-   ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "The 1776 Declaration of Independence.",
-   "dateRule": "July 4.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-07-04",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
+     "title": "St. Olaf Christmas Festival",
+     "url": "https://christmas.stolaf.edu/",
+     "dateChecked": "2026-10-31"
     },
     {
-     "year": 2027,
-     "date": "2027-07-04",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-07-04",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
+     "title": "Religious Landscape Study: Minnesota, Pew Research Center",
+     "url": "https://www.pewresearch.org/religious-landscape-study/state/minnesota/",
+     "dateChecked": "2026-10-31"
     }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1776 Declaration of Independence.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "european-american--thanksgiving",
-   "observanceKey": "thanksgiving",
-   "name": "Thanksgiving",
-   "alsoKnownAs": [],
-   "communities": [
-    "european-american"
-   ],
-   "briefLinks": [
-    {
-     "community": "european-american",
-     "title": "European American Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
-    }
-   ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "United States harvest and thanksgiving holiday.",
-   "dateRule": "Fourth Thursday in November.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-11-26",
-     "endDate": null,
-     "source": "U.S. Office of Personnel Management, Federal Holidays",
-     "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-11-25",
-     "endDate": null,
-     "source": "U.S. Office of Personnel Management, Federal Holidays",
-     "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-11-23",
-     "endDate": null,
-     "source": "U.S. Office of Personnel Management, Federal Holidays",
-     "sourceUrl": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "United States harvest and thanksgiving holiday.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
+   ]
   },
   {
    "id": "filipino--easter",
