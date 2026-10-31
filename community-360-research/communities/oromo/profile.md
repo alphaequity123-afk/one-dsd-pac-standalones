@@ -110,6 +110,8 @@ The Oromo congregations that can be documented in Minnesota are Muslim and Chris
 
 ## 6. Celebrations and observances
 
+> **Content note:** This passage describes killings at the 2016 Irreecha celebration in Ethiopia. Readers may pause or skip to the next paragraph.
+
 **Irreecha (also Irreechaa).** A thanksgiving at the end of the rainy season, with prayers for peace and reconciliation, led by elders or spiritual leaders at water or on high ground ([OPride, 2009](https://www.opride.com/2009/10/03/irreeechaa-in-minnesota-a-tradition-continues/)). Ethiopia banned it for over a century, MNopedia says, and violence at the October 2016 celebration killed 55 people by the government's count and about 700 by other claims ([MNopedia](https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia)). Ampers reported in 2025 that novelist and professor Teferi Tafa calls it "Oromo Thanksgiving," volunteer Talile Gobena calls it a symbol of resilience, and board member Tolcha Gemechu credits young people with making it popular. People wear cultural clothing, sing, dance and share badenna, a sour flatbread ([Ampers, Oct. 16, 2025](https://ampers.org/celebrating-irreechaa-in-minnesota/)).
 
 Two dates in the year, and more than one organizer:
@@ -187,6 +189,8 @@ The most visible Oromo bid for office was Amane Badhasso's 2022 challenge to Rep
 ## 11. Health and wellbeing, broadly
 
 No Minnesota health statistics specific to Oromo people could be found. Compass reports 7.3 percent of the wider Ethiopian group without health insurance, give or take 2.5 points ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/ethiopian)). In the 2016 survey, 75 percent agreed their family could get good care when needed, yet hospitals and clinics ranked second, after their own apartment buildings, among the places they most needed to communicate easily ([Wilder Research](https://www.wilder.org/wp-content/pdf-file/OromoCommunityAssessment_7-16.pdf)).
+
+> **Content note:** This passage describes torture and trauma reported by Somali and Oromo refugees. Readers may pause or skip to the next paragraph.
 
 **What people lived through.** A University of Minnesota team surveyed 1,134 Somali and Oromo refugees in Minnesota, and reported torture rates from 25 to 69 percent, depending on ethnicity and gender, higher than usually reported. The people were not randomly chosen ([Jaranson et al., American Journal of Public Health, 2004](https://experts.umn.edu/en/publications/somali-and-oromo-refugees-correlates-of-torture-and-trauma-histor/)). A follow-up on 458 of the women found more trauma among older women with large families, and urged public health nurses to look past medicine alone ([Robertson et al., Journal of Advanced Nursing, 2006](https://experts.umn.edu/en/publications/somali-and-oromo-refugee-women-trauma-and-associated-factors/)). This data is more than 20 years old and describes those who arrived then, not their children and not any one person.
 
