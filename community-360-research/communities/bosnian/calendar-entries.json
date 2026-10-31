@@ -1,0 +1,602 @@
+{
+ "community": "bosnian",
+ "entries": [
+  {
+   "seedId": "start-of-ramadan",
+   "name": "Start of Ramadan",
+   "alsoKnownAs": [
+    "Ramazan",
+    "Ramadan"
+   ],
+   "kind": "religious",
+   "capsule": "The month of daytime fasting begins; Bosniak Muslims call it Ramazan, ending with Ramazanski bajram.",
+   "dateRule": "First day of the ninth month of the Islamic lunar calendar. Set by moon sighting or by the calculated calendar a mosque follows; the Islamic Community in Bosnia and Herzegovina publishes a calculated calendar.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-28",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the month of daytime fasting.",
+   "howCelebratedInMinnesota": "The Islamic Community of Bosniaks mosque at 668 Broadway St. NE, Minneapolis, is listed by Meet Minneapolis among mosques holding Ramadan prayer. No dated Minnesota announcement for the Bosniak congregation was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Your Guide to Ramadan in Minneapolis, Meet Minneapolis",
+     "url": "https://www.minneapolis.org/calendar/holidays/ramadan/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-alfitr",
+   "name": "Ramazanski bajram (Eid al-Fitr)",
+   "alsoKnownAs": [
+    "Ramazanski Bajram",
+    "Eid al-Fitr",
+    "Bajram"
+   ],
+   "kind": "religious",
+   "capsule": "Bosniak Muslims end the Ramadan fast with morning Bajram prayer; in Bosnia the second day honors the war's martyrs.",
+   "dateRule": "First day of Shawwal, the tenth Islamic month, after Ramadan ends. The Islamic Community in Bosnia and Herzegovina sets the date by its calculated calendar; Minnesota mosques may follow it or moon sighting, and may differ by a day.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-20",
+     "endDate": "2026-03-21",
+     "source": "Islamic Community in Bosnia and Herzegovina calendar, reported by N1 Sarajevo (Bosnia date; Minnesota observance not confirmed)",
+     "sourceUrl": "https://n1info.ba/english/news/bosnias-islamic-community-announces-official-schedule-for-eid-al-fitr-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-26",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "End of the Ramadan fast. In Bosnia the second day is marked as the Day of the Martyrs.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bosnia's Islamic Community announces official schedule for Eid al-Fitr 2026, N1 Sarajevo",
+     "url": "https://n1info.ba/english/news/bosnias-islamic-community-announces-official-schedule-for-eid-al-fitr-2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Neradni dani u Republici Srpskoj za 2026. godinu, Paragraf.ba",
+     "url": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-aladha",
+   "name": "Kurban bajram (Eid al-Adha)",
+   "alsoKnownAs": [
+    "Kurban Bajram",
+    "Hadži-bajram",
+    "Eid al-Adha"
+   ],
+   "kind": "religious",
+   "capsule": "Festival of sacrifice: morning prayer, and a sacrificed sheep shared among home, relatives and the poor.",
+   "dateRule": "Tenth day of Dhu al-Hijjah, the twelfth Islamic month; calculated or moon-sighted, so it can differ by a day.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": "2026-05-28",
+     "source": "2026 public holiday list (Paragraf.ba), Bosnia; notes Islamic dates may differ by one day",
+     "sourceUrl": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Festival of sacrifice during the Hajj season. In Bosnia, N1 reports, families mark it by dividing a sacrificed sheep into three parts: for home, for relatives and for the poor.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Neradni dani u Republici Srpskoj za 2026. godinu, Paragraf.ba",
+     "url": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Bosnia's Muslims celebrate Eid al-Adha, N1 Sarajevo",
+     "url": "https://n1info.ba/english/news/bosnias-muslims-celebrate-eid-al-adha/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "islamic-new-year",
+   "name": "Islamic New Year",
+   "alsoKnownAs": [
+    "Nova hidžretska godina",
+    "Hijri New Year"
+   ],
+   "kind": "religious",
+   "capsule": "First day of the Islamic lunar year; no Minnesota Bosniak observance was found.",
+   "dateRule": "First day of Muharram, the first Islamic month; calculated or moon-sighted.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-16",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-06",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-25",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the Hijri year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "ramadan-night-prayers-and-community-iftars",
+   "name": "Ramadan night prayers and community iftars",
+   "alsoKnownAs": [
+    "Teravija",
+    "Iftar"
+   ],
+   "kind": "community festival",
+   "capsule": "Evening prayers and shared fast-breaking meals at mosques during Ramadan.",
+   "dateRule": "Announced by each mosque during Ramadan.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Shared fast-breaking meals and evening prayers during Ramadan.",
+   "howCelebratedInMinnesota": "The Islamic Community of Bosniaks mosque in Northeast Minneapolis is listed among mosques holding Ramadan prayer. No dated iftar announcement was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Your Guide to Ramadan in Minneapolis, Meet Minneapolis",
+     "url": "https://www.minneapolis.org/calendar/holidays/ramadan/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "orthodox-christmas-julian-calendar",
+   "name": "Orthodox Christmas (Božić)",
+   "alsoKnownAs": [
+    "Božić",
+    "Badnji dan (Christmas Eve, Jan. 6)"
+   ],
+   "kind": "religious",
+   "capsule": "Christmas for Serbian Orthodox Christians, including Bosnian Serbs, on January 7, with Christmas Eve on January 6.",
+   "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar from 1900 to 2099. Each entry below is the January 7 that falls in that calendar year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-07",
+     "endDate": null,
+     "source": "2026 public holiday list (Paragraf.ba): Badnji dan i Božić (za pravoslavce), Jan. 6 and 7",
+     "sourceUrl": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-07",
+     "endDate": null,
+     "source": "Calculated: Julian December 25",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-07",
+     "endDate": null,
+     "source": "Calculated: Julian December 25",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Christmas for churches on the Julian calendar.",
+   "howCelebratedInMinnesota": "Serbian Orthodox parishes in Duluth, Hibbing and Chisholm keep the Orthodox calendar; the Chisholm church was founded by miners including immigrants from Bosnia. No source ties current celebrations to families who came from Bosnia in the 1990s.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Neradni dani u Republici Srpskoj za 2026. godinu, Paragraf.ba",
+     "url": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Bishop Longin of New Gracanica-Midwestern America made canonical visit to parishes in Minnesota, Orthodox Times",
+     "url": "https://orthodoxtimes.com/bishop-longin-of-new-gracanica-midwestern-america-made-canonical-visit-to-parishes-in-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "orthodox-easter",
+   "name": "Orthodox Easter (Vaskrs)",
+   "alsoKnownAs": [
+    "Vaskrs",
+    "Uskrs (pravoslavni)",
+    "Pascha"
+   ],
+   "kind": "religious",
+   "capsule": "Easter for Orthodox Christians, including Bosnian Serbs, often a week or more after Western Easter.",
+   "dateRule": "First Sunday after the first full moon on or after the spring equinox, computed on the Julian calendar.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-12",
+     "endDate": null,
+     "source": "2026 public holiday list (Paragraf.ba): Veliki petak i Vaskrs (za pravoslavce), April 10, 12 and 13",
+     "sourceUrl": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-02",
+     "endDate": null,
+     "source": "Calculated: Julian Easter computus",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Calculated: Julian Easter computus",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Resurrection of Jesus in Eastern Christian tradition.",
+   "howCelebratedInMinnesota": "Serbian Orthodox parishes in Duluth, Hibbing and Chisholm follow the Orthodox calendar. No Minnesota source on Bosnian-born families' Easter observance was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Neradni dani u Republici Srpskoj za 2026. godinu, Paragraf.ba",
+     "url": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Bishop Longin of New Gracanica-Midwestern America made canonical visit to parishes in Minnesota, Orthodox Times",
+     "url": "https://orthodoxtimes.com/bishop-longin-of-new-gracanica-midwestern-america-made-canonical-visit-to-parishes-in-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "bosnia-and-herzegovina-independence-day",
+   "name": "Bosnia and Herzegovina Independence Day",
+   "alsoKnownAs": [
+    "Dan nezavisnosti"
+   ],
+   "kind": "national",
+   "capsule": "Marks the March 1, 1992 referendum for independence; a holiday in the Federation but not in Republika Srpska.",
+   "dateRule": "March 1 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-01",
+     "endDate": null,
+     "source": "N1 Sarajevo: March 1 marks Independence Day",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-marks-independence-day/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-01",
+     "endDate": null,
+     "source": "Fixed date, N1 Sarajevo",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-marks-independence-day/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-01",
+     "endDate": null,
+     "source": "Fixed date, N1 Sarajevo",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-marks-independence-day/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The 1992 independence referendum (63.4 percent turnout, 99.7 percent in favor). Observed in the Federation of Bosnia and Herzegovina; Republika Srpska does not observe it.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bosnia and Herzegovina marks Independence Day, N1 Sarajevo",
+     "url": "https://n1info.ba/english/news/bosnia-and-herzegovina-marks-independence-day/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Bosnia and Herzegovina Statehood Day",
+   "alsoKnownAs": [
+    "Dan državnosti"
+   ],
+   "kind": "national",
+   "capsule": "Marks the November 25, 1943 ZAVNOBiH session that restored Bosnian statehood; not observed in Republika Srpska.",
+   "dateRule": "November 25 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-25",
+     "endDate": null,
+     "source": "N1 Sarajevo and Sarajevo City Hall: November 25 is Statehood Day",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-celebrates-statehood-day/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-celebrates-statehood-day/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-celebrates-statehood-day/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The first session of the State Anti-Fascist Council for the National Liberation of Bosnia and Herzegovina in Mrkonjić Grad, Nov. 25, 1943.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bosnia and Herzegovina celebrates Statehood Day, N1 Sarajevo",
+     "url": "https://n1info.ba/english/news/bosnia-and-herzegovina-celebrates-statehood-day/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Statehood Day exhibit guide, Sarajevo City Hall",
+     "url": "https://www.vijecnica.ba/en/vodic-soba-25nov",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "srebrenica-genocide-memorial-day",
+   "name": "Srebrenica Genocide Remembrance Day",
+   "alsoKnownAs": [
+    "International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica",
+    "11. juli"
+   ],
+   "kind": "remembrance",
+   "capsule": "Remembers more than 8,000 Bosniak men and boys killed at Srebrenica in July 1995; marked in Rochester with a peace march.",
+   "dateRule": "July 11 each year. Designated by the U.N. General Assembly on May 23, 2024.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-11",
+     "endDate": null,
+     "source": "U.N. General Assembly resolution 78/282 designates July 11 annually",
+     "sourceUrl": "https://www.clickondetroit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-serbs-vehemently-oppose/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-11",
+     "endDate": null,
+     "source": "Fixed date, U.N. resolution",
+     "sourceUrl": "https://www.clickondetroit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-serbs-vehemently-oppose/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-11",
+     "endDate": null,
+     "source": "Fixed date, U.N. resolution",
+     "sourceUrl": "https://www.clickondetroit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-serbs-vehemently-oppose/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The July 1995 genocide at Srebrenica, when Bosnian Serb forces overran a U.N. safe area and killed at least 8,000 Bosniak men and boys.",
+   "howCelebratedInMinnesota": "In Rochester in 2025, Bosnian residents held the city's first peace march around Cascade Lake on Friday, July 11, followed by an all-day soccer tournament at the Watson Sports Complex on Saturday. An organizer said many Bosnians in Rochester are survivors or lost loved ones. No Twin Cities observance and no Minnesota proclamation were found; no 2026 Rochester announcement was found.",
+   "minnesotaEvents": [
+    {
+     "name": "30th anniversary Srebrenica peace march and memorial soccer tournament",
+     "place": "Cascade Lake and Watson Sports Complex, Rochester",
+     "link": "https://www.kaaltv.com/news/rochester-remembers-30th-anniversary-of-srebrenica-genocide/",
+     "organizerDates": "Friday and Saturday, July 11-12, 2025, as reported by KAAL-TV",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "UN votes to commemorate Srebrenica genocide annually, AP via WDIV",
+     "url": "https://www.clickondetroit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-serbs-vehemently-oppose/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Resolution 78/282, Global Centre for the Responsibility to Protect",
+     "url": "https://www.globalr2p.org/resources/resolution-78-282/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Rochester remembers 30th anniversary of Srebrenica genocide, KAAL-TV",
+     "url": "https://www.kaaltv.com/news/rochester-remembers-30th-anniversary-of-srebrenica-genocide/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Rochester Bosnian community soccer tournament",
+   "alsoKnownAs": [
+    "United BiH tournament"
+   ],
+   "kind": "community festival",
+   "capsule": "Early-July soccer tournament in Rochester organized by Bosnian residents to give thanks around Independence Day and remember Srebrenica.",
+   "dateRule": "Held in the first week of July by its organizers; dates announced each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Thanks to the United States around the Fourth of July and remembrance of Srebrenica.",
+   "howCelebratedInMinnesota": "Started about 2011 by three Bosnian-born Rochester men. In 2013 six teams played at Watson Soccer Complex, including the Rochester team United BiH and a Bosnian team from Des Moines; a Rochester Somali team won. The director addressed players about July 1995 before the games. In 2025 the tournament was held July 12 as part of the 30th anniversary remembrance.",
+   "minnesotaEvents": [
+    {
+     "name": "Bosnian-led soccer tournament",
+     "place": "Watson Soccer Complex, Rochester",
+     "link": "https://www.postbulletin.com/sports/bosnian-led-soccer-tournament-promotes-peace",
+     "organizerDates": "Saturday before July 10, 2013 (third annual), as reported",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Srebrenica memorial soccer tournament",
+     "place": "Watson Sports Complex, Rochester",
+     "link": "https://www.kaaltv.com/news/rochester-remembers-30th-anniversary-of-srebrenica-genocide/",
+     "organizerDates": "Saturday, July 12, 2025",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bosnian-led soccer tournament promotes peace, Rochester Post Bulletin",
+     "url": "https://www.postbulletin.com/sports/bosnian-led-soccer-tournament-promotes-peace",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Rochester remembers 30th anniversary of Srebrenica genocide, KAAL-TV",
+     "url": "https://www.kaaltv.com/news/rochester-remembers-30th-anniversary-of-srebrenica-genocide/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}
