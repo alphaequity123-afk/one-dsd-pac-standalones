@@ -1,0 +1,57 @@
+name: Rebuild research site
+
+# When anyone edits the research files on the community-360-research branch,
+# rebuild the calendar site and the course pages from them and commit the result.
+# The cultural-calendar service on Railway then publishes the rebuilt pages.
+
+on:
+  push:
+    branches: [community-360-research]
+    paths:
+      - "community-360-research/communities/**"
+      - "community-360-research/calendar/seed-by-community/**"
+      - "community-360-research/calendar/tools/**"
+      - "community-360-research/cross-cutting/minnesota-culture/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-research-site
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: community-360-research
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild calendar and course pages
+        working-directory: community-360-research
+        run: |
+          python calendar/tools/merge_calendar.py
+          python calendar/tools/build_viewer.py
+          python cross-cutting/minnesota-culture/course/build_course.py
+          cmp calendar/index.html calendar/calendar-viewer.html
+
+      - name: Commit the rebuilt pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add community-360-research/calendar
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Rebuild calendar and course pages from edited research files"
+            git pull --rebase origin community-360-research
+            git push origin HEAD:community-360-research
+          fi

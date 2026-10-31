@@ -94,6 +94,6 @@ A voluntary e-learning course for staff of the Disability Services Division and 
 4. Who reviews the example scenarios before they go live.
 5. Whether the course links to the essay and to the community profiles.
 
-## Not yet decided
+## How it is built and hosted
 
-- How the course is built and hosted on Railway. Building it will need its own plan once this outline is approved.
+- The course lives at the calendar site's address plus `/course/`, served by the cultural-calendar Railway service. Each module is a Markdown file in `course/`; `course/build_course.py` turns them, and the essay, into pages under `calendar/course/`. Edits to any of these files on GitHub trigger an automatic rebuild, so no commands are needed.
