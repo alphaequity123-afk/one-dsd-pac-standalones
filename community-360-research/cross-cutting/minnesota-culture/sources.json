@@ -1,0 +1,660 @@
+[
+ {
+  "title": "This is Water by David Foster Wallace (full transcript)",
+  "publisher": "Farnam Street",
+  "url": "https://fs.blog/david-foster-wallace-this-is-water/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Fish-and-water parable, attributed to Wallace's 2005 Kenyon speech"
+ },
+ {
+  "title": "Developmental Model of Intercultural Sensitivity (Bennett, 2017)",
+  "publisher": "Intercultural Development Research Institute",
+  "url": "https://www.idrinstitute.org/wp-content/uploads/2019/02/DMIS-IDRI.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "DMIS stages, questions, criticisms, IDI background"
+ },
+ {
+  "title": "The Intercultural Development Continuum",
+  "publisher": "Intercultural Development Inventory",
+  "url": "https://idiinventory.com/idc",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Two forms of Minimization; 'go along to get along'"
+ },
+ {
+  "title": "ACS 2024 one-year, table B03002 (Minnesota)",
+  "publisher": "U.S. Census Bureau via Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03002&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "White non-Hispanic count and share"
+ },
+ {
+  "title": "ACS 2024 one-year, tables B02001, B02008, B05012, B05002 (Minnesota)",
+  "publisher": "U.S. Census Bureau via Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B02001,B02008,B05012,B05002&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "White alone, white alone or in combination, foreign-born, born in Minnesota"
+ },
+ {
+  "title": "By race & ethnicity",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/race-ethnicity",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Non-Hispanic white share and change since 2010; age gradient"
+ },
+ {
+  "title": "By immigrant group",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/immigration",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Immigrant share 2000, 2024 and late 1800s; children of immigrants"
+ },
+ {
+  "title": "Newcomers say it's 'nice,' but not warm",
+  "publisher": "MPR News (March 12, 2012)",
+  "url": "https://www.mprnews.org/story/2012/03/12/outsiders1-is-minnesota-nice-to-newcomers",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Newcomer experience, homegrown share, chamber focus groups, refugee and professional voices"
+ },
+ {
+  "title": "All Minnesotans profile",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Metro and Greater Minnesota shares"
+ },
+ {
+  "title": "ACS 2024 one-year, tables B19013 and B17001 with race iterations (Minnesota)",
+  "publisher": "U.S. Census Bureau via Census Reporter",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19013,B19013H,B19013B,B17001,B17001H,B17001B&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Median income and poverty by race"
+ },
+ {
+  "title": "Homeownership Rates Dashboard",
+  "publisher": "Minnesota Housing",
+  "url": "https://mnhousing.gov/home/policy-and-research/agency-plans/strategic-plan/address-homeownership-barriers-and-reduce-disparities/homeownership-rates-dashboard",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Homeownership by race, 2024"
+ },
+ {
+  "title": "Land, Labor, the Market, and Politics",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/land-labor-market-and-politics",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Land taking, farm labor, sugar beet workers, women's farm labor"
+ },
+ {
+  "title": "Anti-German Nativism, 1917–1919",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/anti-german-nativism-1917-1919",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Germans as largest group; wartime pressure"
+ },
+ {
+  "title": "Norwegian Immigration to Minnesota",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/norwegian-immigration-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Norwegian settlement patterns"
+ },
+ {
+  "title": "Swedish Immigration to Minnesota",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/swedish-immigration-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Churches as social hubs, English services, Lutheran Social Service roots"
+ },
+ {
+  "title": "Hotdish",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/thing/hotdish-mnopedia",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Church origins of hotdish; contest entries"
+ },
+ {
+  "title": "Tracing the origin of 'Minnesota Nice' (Syl Jones essay)",
+  "publisher": "MPR News (Dec. 14, 2009)",
+  "url": "https://www.mprnews.org/story/2009/12/14/syljones",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Jante law explanation"
+ },
+ {
+  "title": "Ask a 'sotan: Revisiting 'Minnesota Nice'",
+  "publisher": "MPR News (Nov. 21, 2019)",
+  "url": "https://www.mprnews.org/story/2019/11/21/ask-a-sotan-revisiting-minnesota-nice",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Waldner on origins and on race"
+ },
+ {
+  "title": "Lakes, rivers, and wetlands facts",
+  "publisher": "Minnesota Department of Natural Resources",
+  "url": "https://www.dnr.state.mn.us/faq/mnfacts/water.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Lake count"
+ },
+ {
+  "title": "Front Row Seat: Remembering Howard Mohr and 'How To Talk Minnesotan' (Jay Gabler)",
+  "publisher": "Duluth News Tribune via Echo Press (Sept. 6, 2022)",
+  "url": "https://www.echopress.com/lifestyle/arts-and-entertainment/front-row-seat-remembering-howard-mohr-and-how-to-talk-minnesotan",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mohr's humor: phrases, offering, long goodbye, money, limits"
+ },
+ {
+  "title": "Vieth on Navigating Social Isolation as a Newcomer in Minnesota",
+  "publisher": "University of Minnesota Department of Psychology (2023)",
+  "url": "https://cla.umn.edu/psychology/news-events/story/vieth-navigating-social-isolation-newcomer-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Newcomer isolation explanation"
+ },
+ {
+  "title": "Clarks Grove Cooperative Creamery",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/group/clarks-grove-cooperative-creamery",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cooperative creamery history"
+ },
+ {
+  "title": "Minnesota Farmer-Labor Party, 1924–1944",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/minnesota-farmer-labor-party-1924-1944",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Farmer-Labor tradition"
+ },
+ {
+  "title": "Decoding 'Minnesota nice' (transcript)",
+  "publisher": "NPR (Aug. 9, 2024)",
+  "url": "https://www.npr.org/transcripts/nx-s1-5065632",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hutton, Bonnema, Veldof on Minnesota nice"
+ },
+ {
+  "title": "Explore Volunteerism in Minnesota",
+  "publisher": "America's Health Rankings, United Health Foundation",
+  "url": "https://www.americashealthrankings.org/explore/measures/volunteerism_d/MN",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Volunteering rate and rank, 2023"
+ },
+ {
+  "title": "The Minnesota Paradox",
+  "publisher": "Humphrey School of Public Affairs, University of Minnesota",
+  "url": "https://www.hhh.umn.edu/research-centers/roy-wilkins-center-human-relations-and-social-justice/minnesota-paradox",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Myers on the paradox, outside-influence narrative, George Floyd"
+ },
+ {
+  "title": "Minnesotans ranked 2nd in voter turnout, 1st among young voters",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/kstp-news/local-news/minnesotans-ranked-2nd-in-voter-turnout-1st-among-young-voters/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2024 turnout"
+ },
+ {
+  "title": "'How to Talk Minnesotan' author Howard Mohr dies at 83",
+  "publisher": "MPR News (Sept. 6, 2022)",
+  "url": "https://www.mprnews.org/story/2022/09/06/author-howard-mohr-known-for-how-to-talk-minnesotan-dies",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mohr background"
+ },
+ {
+  "title": "How to Talk Minnesotan: A Visitor's Guide (review)",
+  "publisher": "Kirkus Reviews",
+  "url": "https://www.kirkusreviews.com/book-reviews/howard-mohr/how-to-talk-minnesotan-a-visitors-guide/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Offer of help refused three times"
+ },
+ {
+  "title": "Cultural Dimensions – Hall, Verbal and Nonverbal",
+  "publisher": "Kirkwood Community College open textbook (Pressbooks)",
+  "url": "https://kirkwood.pressbooks.pub/emcworthy/chapter/cultural-dimensions/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Summary of Hall's high and low context"
+ },
+ {
+  "title": "The 8 keys for managing multicultural teams by Erin Meyer",
+  "publisher": "Welcome to the Jungle (June 1, 2020)",
+  "url": "https://www.welcometothejungle.com/en-GB/articles/keys-managing-multicultural-teams",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Summary of Meyer's scales"
+ },
+ {
+  "title": "Beyond Culture or Beyond Control? Reviewing the use of Hall's high-/low-context concept (Kittler, Rygl and Mackinnon, 2011)",
+  "publisher": "University of Stirling",
+  "url": "https://www.stir.ac.uk/research/hub/publication/818365",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Critique of Hall country classifications"
+ },
+ {
+  "title": "The Culture Map",
+  "publisher": "Erin Meyer",
+  "url": "https://erinmeyer.com/books/the-culture-map/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Feedback example"
+ },
+ {
+  "title": "Rethinking Minnesota Nice (Danielle Lavin-Loucks)",
+  "publisher": "The Society Pages (July 3, 2020)",
+  "url": "https://thesocietypages.org/specials/rethinking-minnesota-nice/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Avoidance, silence as agreement, colorblindness"
+ },
+ {
+  "title": "Divided We Stand: Three Psychological Regions of the United States (Rentfrow et al., 2013)",
+  "publisher": "American Psychological Association",
+  "url": "https://www.apa.org/pubs/journals/releases/psp-a0034434.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Regional personality profiles and Minnesota scores"
+ },
+ {
+  "title": "Up South: African Americans on Jim Crow in the North",
+  "publisher": "MPR (Feb. 12, 2002)",
+  "url": "https://archive.mpr.org/stories/2002/02/12/african-americans-jim-crow-north",
+  "dateChecked": "2026-10-31",
+  "usedFor": "McWatt and Black Minnesotans' experience"
+ },
+ {
+  "title": "The 'Minnesota Paradox': Why The State Has One Of The Largest Racial Disparities",
+  "publisher": "CBS Minnesota / WCCO (June 23, 2020)",
+  "url": "https://www.cbsnews.com/minnesota/news/the-minnesota-paradox-why-the-land-of-10000-lakes-has-one-of-the-largest-racial-disparities/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Myers on race talk; Orfield disagreement"
+ },
+ {
+  "title": "Exploring the Minnesota Paradox and the reality of racial disparities",
+  "publisher": "Minnesota Spokesman-Recorder (Nov. 14, 2024)",
+  "url": "https://spokesman-recorder.com/2024/11/14/minnesota-paradox-black-disparities/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Essay series on the paradox"
+ },
+ {
+  "title": "The Journey to Belonging in the Twin Cities",
+  "publisher": "City of Saint Paul (2022)",
+  "url": "https://www.stpaul.gov/sites/default/files/2022-04/The%20Journey%20to%20Belonging%20in%20the%20Twin%20Cities%20Report.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "'Over-engagement' frustration"
+ },
+ {
+  "title": "The Cruelty of Nice Folks (review)",
+  "publisher": "Kirkus Reviews",
+  "url": "https://www.kirkusreviews.com/book-reviews/justin-ellis/the-cruelty-of-nice-folks/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Ellis book"
+ },
+ {
+  "title": "Racial Housing Covenants in the Twin Cities",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/thing/racial-housing-covenants-twin-cities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Covenant history"
+ },
+ {
+  "title": "Mapping Prejudice",
+  "publisher": "University of Minnesota",
+  "url": "https://mappingprejudice.umn.edu/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Project description"
+ },
+ {
+  "title": "Discharging racial covenants",
+  "publisher": "Mapping Prejudice, University of Minnesota",
+  "url": "https://mappingprejudice.umn.edu/discharging-racial-covenants",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2019 discharge law"
+ },
+ {
+  "title": "Duluth Lynchings",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/event/duluth-lynchings",
+  "dateChecked": "2026-10-31",
+  "usedFor": "1920 lynchings and aftermath"
+ },
+ {
+  "title": "Rondo Neighborhood, St. Paul",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www3.mnhs.org/mnopedia/search/index/place/rondo-neighborhood-st-paul",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Rondo history, Rondo Days"
+ },
+ {
+  "title": "Neighborhood Resistance to I-94, 1953–1965",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/event/neighborhood-resistance-i-94-1953-1965",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Comparison of neighborhoods' influence"
+ },
+ {
+  "title": "Minnesota graduation rates hit record high in 2025",
+  "publisher": "MPR News (April 3, 2026)",
+  "url": "https://www.mprnews.org/story/2026/04/03/minnesota-graduation-rates-hit-record-high-in-2025",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Graduation rate"
+ },
+ {
+  "title": "State View: Minnesota exceptionalism, it turns out, was a myth (David Schultz)",
+  "publisher": "Duluth News Tribune (June 26, 2025)",
+  "url": "https://www.duluthnewstribune.com/opinion/columns/state-view-minnesota-exceptionalism-it-turns-out-was-a-myth",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Divides, polarization, education gaps"
+ },
+ {
+  "title": "Investigation into the City of Minneapolis and the Minneapolis Police Department",
+  "publisher": "Minnesota Department of Human Rights (April 27, 2022)",
+  "url": "https://mn.gov/mdhr/assets/Investigation%20into%20the%20City%20of%20Minneapolis%20and%20the%20Minneapolis%20Police%20Department_tcm1061-526417.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Findings and organizational culture conclusion"
+ },
+ {
+  "title": "Minnesota: The Epitome of the Moralistic Political Culture (Daniel J. Elazar)",
+  "publisher": "Jerusalem Center for Public Affairs, Daniel Elazar online library",
+  "url": "https://dje.jcpa.org/articles2/minn3.htm",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Elazar's political cultures"
+ },
+ {
+  "title": "NYC aka New Netherland: Mapping the 11 Different Cultural 'Nations' Within the U.S.",
+  "publisher": "6sqft",
+  "url": "https://www.6sqft.com/nyc-aka-new-netherland-mapping-the-11-different-cultural-nations-within-the-u-s/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Popular summary of Woodard's map"
+ },
+ {
+  "title": "Humphrey, Hubert H. (1911–1978)",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/person/humphrey-hubert-h-1911-1978",
+  "dateChecked": "2026-10-31",
+  "usedFor": "1948 speech, fair-employment commission"
+ },
+ {
+  "title": "Minnesota Human Rights Act",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/thing/minnesota-human-rights-act",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Human rights law history"
+ },
+ {
+  "title": "Minnesota Miracle (legislation)",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/thing/minnesota-miracle-legislation",
+  "dateChecked": "2026-10-31",
+  "usedFor": "1971 school finance and process"
+ },
+ {
+  "title": "Minnesota lawmaker shootings",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/crime-law-and-justice/minnesota-lawmaker-shootings-hortman-hoffman",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 shootings and case status"
+ },
+ {
+  "title": "Operation Metro Surge: How many federal agents have left Minnesota?",
+  "publisher": "FOX 9 (Feb. 2026)",
+  "url": "https://www.fox9.com/news/operation-metro-surge-how-many-federal-agents-have-left-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Operation Metro Surge"
+ },
+ {
+  "title": "Minnesota Students Show Resilience as Test Scores Hold Steady in Challenging Year",
+  "publisher": "Minnesota Department of Education (Sept. 2026)",
+  "url": "https://content.govdelivery.com/accounts/MNMDE/bulletins/42d0cae",
+  "dateChecked": "2026-10-31",
+  "usedFor": "School effects of the surge"
+ },
+ {
+  "title": "Walz ends re-election bid amid fraud allegations timeline",
+  "publisher": "Northern News Now (Jan. 5, 2026)",
+  "url": "https://www.northernnewsnow.com/2026/01/05/walz-ends-re-election-bid-amid-fraud-allegations-timeline/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Fraud investigation timeline"
+ },
+ {
+  "title": "Executive Order 23-12",
+  "publisher": "Office of the Governor, via Minnesota Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/archive/execorders/23-12.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "State equity structure"
+ },
+ {
+  "title": "Executive Order 21-13",
+  "publisher": "Office of the Governor, via Minnesota Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/archive/execorders/21-13.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Equity order language"
+ },
+ {
+  "title": "Office of Inclusion 2025 Annual Report",
+  "publisher": "Minnesota Management and Budget, via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2026/other/261275.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Ten years of Chief Inclusion Officer role"
+ },
+ {
+  "title": "Office of Inclusion 2024 Annual Report",
+  "publisher": "Minnesota Management and Budget, via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2026/other/261274.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "DHS listening session and Equity Week"
+ },
+ {
+  "title": "Center for the American Experiment presenters criticize use of critical race theory in Minnesota schools",
+  "publisher": "Post Bulletin (June 8, 2021)",
+  "url": "https://www.postbulletin.com/news/local/center-for-the-american-experiment-presenters-criticize-use-of-critical-race-theory-in-minnesota-schools",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Critics' views of equity"
+ },
+ {
+  "title": "DEI is being banished in government and business, but not in higher education in Minnesota",
+  "publisher": "Post Bulletin (Jan. 25, 2025)",
+  "url": "https://www.postbulletin.com/news/local/dei-is-being-banished-in-government-and-business-but-not-in-higher-education-in-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Defense of equity programs"
+ },
+ {
+  "title": "The 6-D model of national culture",
+  "publisher": "Geert Hofstede",
+  "url": "https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Dimension definitions"
+ },
+ {
+  "title": "6 dimensions for website (data file, 2015)",
+  "publisher": "Geert Hofstede",
+  "url": "https://geerthofstede.com/wp-content/uploads/2016/08/6-dimensions-for-website-2015-08-16.csv",
+  "dateChecked": "2026-10-31",
+  "usedFor": "U.S. and Scandinavian scores"
+ },
+ {
+  "title": "Dimension data matrix",
+  "publisher": "Geert Hofstede",
+  "url": "https://geerthofstede.com/research-and-vsm/dimension-data-matrix/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Data source and cautions"
+ },
+ {
+  "title": "Country comparison tool: United States",
+  "publisher": "The Culture Factor",
+  "url": "https://www.theculturefactor.com/country-comparison-tool?countries=united+states",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Current U.S. scores"
+ },
+ {
+  "title": "Patterns of Individualism and Collectivism Across the United States (Vandello and Cohen, 1999)",
+  "publisher": "University of South Florida Digital Commons",
+  "url": "https://digitalcommons.usf.edu/psy_facpub/2290",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Abstract and findings"
+ },
+ {
+  "title": "Electronic Supplement, Behavioral and Brain Sciences article S0140525X11000021",
+  "publisher": "Cambridge University Press",
+  "url": "https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0140525X11000021/resource/name/S0140525X11000021sup001.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Items and range of the Vandello-Cohen index"
+ },
+ {
+  "title": "Tightness–looseness across the 50 united states (Harrington and Gelfand, 2014)",
+  "publisher": "PubMed Central (PNAS)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4050535/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "State tightness rankings"
+ },
+ {
+  "title": "State of Minnesota Workforce Planning Report FY 2023",
+  "publisher": "Minnesota Management and Budget, via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2024/other/240792.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "State and DHS workforce figures"
+ },
+ {
+  "title": "Statewide Employee Engagement and Inclusion Survey: High-Level Employee Statement Results",
+  "publisher": "Minnesota Management and Budget (August 2025)",
+  "url": "https://mn.gov/mmb-stat/communications/toolkit/2025/employeesurvey/Employee%20Engagement%20and%20Inclusion%20Survey%20Results.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Engagement and inclusion survey results"
+ },
+ {
+  "title": "Department of Human Services Investigations of Alleged Kickbacks in the EIDBI Program",
+  "publisher": "Office of the Legislative Auditor (March 17, 2026)",
+  "url": "https://www.auditor.leg.state.mn.us/sreview/2026/dhs-oig-kickbacks.htm",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Oversight findings"
+ },
+ {
+  "title": "Housing Stabilization Services program ends Oct. 31, 2025",
+  "publisher": "Minnesota Department of Human Services",
+  "url": "https://content.govdelivery.com/accounts/MNDHS/bulletins/3f98793",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Program termination"
+ },
+ {
+  "title": "Institutions for People with Disabilities",
+  "publisher": "Minnesota Historical Society Library",
+  "url": "https://libguides.mnhs.org/institutions/disabilities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Faribault, Cambridge, Gillette"
+ },
+ {
+  "title": "Welsch v. Likins",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/event/welsch-v-likins",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Institutions and the lawsuit"
+ },
+ {
+  "title": "Eugenics in Minnesota",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/thing/eugenics-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Commitment and sterilization laws"
+ },
+ {
+  "title": "History of The Arc in Minnesota",
+  "publisher": "The Arc Minnesota",
+  "url": "https://arcminnesota.org/about/why-the-arc/history-of-the-arc-in-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Parent advocacy history"
+ },
+ {
+  "title": "Remembering With Dignity",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/group/remembering-dignity",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Graves, apology"
+ },
+ {
+  "title": "Minn. Stat. 256B.4905",
+  "publisher": "Minnesota Office of the Revisor of Statutes",
+  "url": "https://www.revisor.mn.gov/statutes/cite/256B.4905",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Informed choice policy"
+ },
+ {
+  "title": "Minn. Stat. 245D.07",
+  "publisher": "Minnesota Office of the Revisor of Statutes",
+  "url": "https://www.revisor.mn.gov/statutes/cite/245D.07",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Person-centered planning requirements"
+ },
+ {
+  "title": "MCIL/ADA Minnesota Submits Comments on Education and Employment to Minnesota Olmstead Plan",
+  "publisher": "Metropolitan Center for Independent Living",
+  "url": "https://mcil-mn.org/mcil-ada-minnesota-submits-comments-on-education-and-employment-to-minnesota-olmstead-plan/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Olmstead Plan description"
+ },
+ {
+  "title": "A Qualitative Study of Families of Children with Autism in the Somali Community: Comparing the Experiences of Immigrant Groups",
+  "publisher": "Minnesota Department of Health (Feb. 15, 2014)",
+  "url": "https://www.leg.mn.gov/docs/2014/mandated/140404.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hmong, Somali and Latino parents' accounts"
+ },
+ {
+  "title": "Somali Mental Health Project",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.mn.gov/communities/equity/reports/mentalhealth.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Somali community conversations on mental health"
+ },
+ {
+  "title": "'Slow-minded' becomes 'unique mind'",
+  "publisher": "Sahan Journal (updated April 7, 2026)",
+  "url": "https://sahanjournal.com/health/autism-somali-new-terminology-community-acceptance-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Somali autism terminology"
+ },
+ {
+  "title": "Comparison of Racial and Ethnic Groups in their Level of Care Screenings and Use of HCBS",
+  "publisher": "Report to Minnesota DHS by Purdue University and University of Minnesota researchers (March 26, 2021)",
+  "url": "https://developtoolmn.org/dhs/assets/racial-and-ethnic-comparison-report-quantatitive_tcm1053-663962.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Service use by race and ethnicity"
+ },
+ {
+  "title": "2017 Minnesota Racial & Ethnic Survey of Attitudes Towards People with Developmental Disabilities",
+  "publisher": "Minnesota Governor's Council on Developmental Disabilities",
+  "url": "https://mn.gov/mnddc/extra/customer-research/MN-Racial-Ethnic-Communities-Survey2017.txt",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Attitudes survey"
+ },
+ {
+  "title": "Looking Back at Minnesota's Refugee History",
+  "publisher": "Mpls.St.Paul Magazine (Dec. 19, 2021)",
+  "url": "https://mspmag.com/arts-and-culture/looking-back-at-minnesotas-refugee-history/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Refugee welcome tradition and tensions"
+ },
+ {
+  "title": "People in Minnesota, Religious Landscape Study",
+  "publisher": "Pew Research Center",
+  "url": "https://www.pewresearch.org/religious-landscape-study/state/minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Religious affiliation"
+ },
+ {
+  "title": "Minnesota Churches Are In Steep Decline: Report",
+  "publisher": "Patch (July 2018)",
+  "url": "https://patch.com/minnesota/southwestminneapolis/minnesota-churches-are-steep-decline-report",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Church decline"
+ },
+ {
+  "title": "Baker v. Nelson",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/event/baker-v-nelson",
+  "dateChecked": "2026-10-31",
+  "usedFor": "1970 marriage license"
+ },
+ {
+  "title": "Minnesota Amendment 1",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/thing/minnesota-amendment-1",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2012 vote"
+ },
+ {
+  "title": "Utilizing the Intercultural Development Inventory to develop intercultural competence (Kruse et al., 2014)",
+  "publisher": "SpringerPlus via PubMed Central",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112197/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "IDI aggregate findings"
+ }
+]

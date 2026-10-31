@@ -10,12 +10,13 @@
 
 - **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean, filipino, japanese, chinese, lao, khmer, thai, burmese, bosnian, russian-speaking, ukrainian, lebanese, arabic-speaking, colombian, ecuadorian, liberian, amharic, nigerian, kenyan, guatemalan, salvadoran, cuban, puerto-rican, deaf-deafblind-hard-of-hearing, french, minnesota, american, european-american.
 - `cross-cutting/small-communities-methods.md`.
+- `cross-cutting/minnesota-culture/essay.md`: a sourced essay on Minnesota's mainstream culture (Minnesota nice, history, race, political culture, institutions, disability history) as the base for a staff course. 94 opened sources. Not established: Minnesota's score on Vandello and Cohen's 1999 state individualism index, any Minnesota or DHS results on the Intercultural Development Inventory, and where state or DHS staff grew up.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): all 28 communities are finished. Second pass done on karen, somali, latino, african-american, vietnamese, oromo, ethiopian, mexican and rural; running on indian. The Minnesota culture essay (cross-cutting/minnesota-culture/) is being written.
+- In the cloud session (started October 31, 2026): all 28 communities are finished. Second pass done on 9 of the 10 thin communities; indian is running. The Minnesota culture essay is finished (cross-cutting/minnesota-culture/essay.md). A content-note review of all profiles is running.
 
 ## Next, after the 28 communities
 
