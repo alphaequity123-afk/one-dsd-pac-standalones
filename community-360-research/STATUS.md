@@ -15,7 +15,7 @@
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): liberian, nigerian, colombian, ecuadorian, kenyan, amharic, guatemalan, salvadoran now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): liberian, nigerian, colombian, ecuadorian, kenyan, amharic, guatemalan, salvadoran, cuban, puerto-rican now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -25,7 +25,7 @@ ethiopian, oromo, vietnamese, indian and rural are finished, and nothing is stil
 
 ## Not started
 
-american, cuban, deaf-deafblind-hard-of-hearing, european-american, french, minnesota, puerto-rican.
+american, deaf-deafblind-hard-of-hearing, european-american, french, minnesota.
 
 ## Still to do on the calendar
 
