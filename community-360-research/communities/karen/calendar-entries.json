@@ -1,0 +1,668 @@
+{
+ "community": "karen",
+ "entries": [
+  {
+   "seedId": "karen-new-year",
+   "name": "Karen New Year",
+   "alsoKnownAs": [
+    "Kaw La Thaw Ni",
+    "First Day of Pyathoe"
+   ],
+   "kind": "cultural",
+   "capsule": "The largest Karen celebration, marking the turn from one rice harvest to the next; Minnesota's date moves.",
+   "dateRule": "First day of the month KOM spells Pyathoe on the lunar calendar, generally late December or early January. Minnesota organizers announce their gathering each year on a nearby date, which may not match the lunar day. Calendar dates below are the calculated lunar day; organizers' dates are under minnesotaEvents.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "Calculation found no lunar first day in calendar 2026. KOM's St. Paul gathering for year 2765 was Jan. 1, 2026 (see minnesotaEvents).",
+     "sourceUrl": "https://mnkaren.org/event/karen-new-year-2765/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-08",
+     "endDate": null,
+     "source": "Calculated by the seed calendar, not confirmed by an opened page. KOM's St. Paul gathering is Jan. 2 to 3, 2027 (see minnesotaEvents).",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-16",
+     "endDate": null,
+     "source": "Calculated by the seed calendar, not confirmed by an opened page.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The end of one rice harvest and the start of the next; KOM calls it the largest celebration in the Karen community. Organizers number the years, with 2766 being the January 2027 gathering.",
+   "howCelebratedInMinnesota": "A large free public gathering in St. Paul, with Karen and U.S. flag salutes, speeches, singing and dance, games, prizes and a shared noon meal. Recent gatherings were at Washington Technology Magnet School. In January 2010 more than a thousand people came to Roseville Lutheran Church. No listing was found for Worthington, Austin or Albert Lea.",
+   "minnesotaEvents": [
+    {
+     "name": "Karen New Year Celebration 2766",
+     "place": "St. Paul; venue not yet posted",
+     "link": "https://mnkaren.org/event/karen-new-year-celebration-2766/",
+     "organizerDates": "Jan. 2, 2027, 10 a.m. to Jan. 3, 2027, 4 p.m., as listed by KOM. Organizers: Karen Culture Organization of Minnesota, Karen Community of Minnesota, KOM, The Urban Village, Karen Buddhist Association of Minnesota, KNYAW Visual Arts.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Karen New Year 2765",
+     "place": "Washington Technology Magnet School, 1495 Rice St., St. Paul",
+     "link": "https://mnkaren.org/event/karen-new-year-2765/",
+     "organizerDates": "Jan. 1, 2026, 10 a.m. to 4 p.m. (held)",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrations",
+     "url": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen New Year Celebration 2766",
+     "url": "https://mnkaren.org/event/karen-new-year-celebration-2766/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen New Year 2765",
+     "url": "https://mnkaren.org/event/karen-new-year-2765/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen community celebrates new year in St. Paul",
+     "url": "https://www.cbsnews.com/minnesota/news/karen-community-celebrates-new-year-in-st-paul/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Celebrating 2761 Karen New Year in St. Paul",
+     "url": "https://mnkaren.org/news/celebrating-2761-karen-new-year-in-st-paul/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen celebrate Year 2749, and a decade in Minnesota",
+     "url": "https://www.mprnews.org/story/2010/01/11/karen-myanmar-burma-new-year",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Karen New Year gathering in St. Paul",
+   "alsoKnownAs": [
+    "Karen New Year Celebration 2766",
+    "Karen New Year 2765"
+   ],
+   "kind": "community festival",
+   "capsule": "Minnesota's public Karen New Year gathering in St. Paul, on the dates its organizers announce.",
+   "dateRule": "Minnesota organizers announce the dates each year, and they may not match the lunar day of Karen New Year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-01",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota, Karen New Year 2765 event page",
+     "sourceUrl": "https://mnkaren.org/event/karen-new-year-2765/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-02",
+     "endDate": "2027-01-03",
+     "source": "Karen Organization of Minnesota, Karen New Year Celebration 2766 event page",
+     "sourceUrl": "https://mnkaren.org/event/karen-new-year-celebration-2766/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced when checked",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The end of one rice harvest and the start of the next; KOM calls it the largest celebration in the Karen community. Organizers number the years, with 2766 being the January 2027 gathering.",
+   "howCelebratedInMinnesota": "A large free public gathering in St. Paul, with Karen and U.S. flag salutes, speeches, singing and dance, games, prizes and a shared noon meal. Recent gatherings were at Washington Technology Magnet School. In January 2010 more than a thousand people came to Roseville Lutheran Church. No listing was found for Worthington, Austin or Albert Lea.",
+   "minnesotaEvents": [
+    {
+     "name": "Karen New Year Celebration 2766",
+     "place": "St. Paul; venue not yet posted",
+     "link": "https://mnkaren.org/event/karen-new-year-celebration-2766/",
+     "organizerDates": "Jan. 2, 2027, 10 a.m. to Jan. 3, 2027, 4 p.m., as listed by KOM. Organizers: Karen Culture Organization of Minnesota, Karen Community of Minnesota, KOM, The Urban Village, Karen Buddhist Association of Minnesota, KNYAW Visual Arts.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Karen New Year 2765",
+     "place": "Washington Technology Magnet School, 1495 Rice St., St. Paul",
+     "link": "https://mnkaren.org/event/karen-new-year-2765/",
+     "organizerDates": "Jan. 1, 2026, 10 a.m. to 4 p.m. (held)",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Karen New Year Celebration 2766",
+     "url": "https://mnkaren.org/event/karen-new-year-celebration-2766/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen New Year 2765",
+     "url": "https://mnkaren.org/event/karen-new-year-2765/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "karen-martyrs-day",
+   "name": "Karen Martyrs' Day",
+   "alsoKnownAs": [
+    "Karen Martyr's Day"
+   ],
+   "kind": "remembrance",
+   "capsule": "Honors Saw Ba U Gyi, killed in 1950, and others who resisted for the Karen people; Minnesota gathers nearby.",
+   "dateRule": "August 12. Minnesota gatherings are often held on a nearby weekend, announced each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-12",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states August 12",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-12",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states August 12",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-12",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states August 12",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The anniversary of the 1950 death of Saw Ba U Gyi, an early Karen National Union leader, and remembrance of others who fought for the Karen people.",
+   "howCelebratedInMinnesota": "The Karen Community of Minnesota holds a ceremony with a shared meal and songs, often with volleyball, soccer and caneball. It has met in Maplewood and Austin, and moved online in 2020 because of the pandemic.",
+   "minnesotaEvents": [
+    {
+     "name": "76th Commemoration of Karen Martyrs' Day",
+     "place": "Ebenezer Karen Baptist Church, 1056 Gervais, Maplewood",
+     "link": "https://mnkaren.org/event/76th-commemoration-of-karen-martyrs-day/",
+     "organizerDates": "Aug. 15, 2026, 9:30 a.m. to 4 p.m. (held)",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "75th Commemoration of Karen Martyrs' Day",
+     "place": "Todd Park, Austin",
+     "link": "https://mnkaren.org/event/75th-commemoration-of-karen-martyrs-day/",
+     "organizerDates": "Aug. 9 to 10, 2025 (held)",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrations",
+     "url": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "76th Commemoration of Karen Martyrs' Day",
+     "url": "https://mnkaren.org/event/76th-commemoration-of-karen-martyrs-day/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "75th Commemoration of Karen Martyrs' Day",
+     "url": "https://mnkaren.org/event/75th-commemoration-of-karen-martyrs-day/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Looking Back on Karen Celebrations in Minnesota",
+     "url": "https://mnkaren.org/news/looking-back-on-karen-celebrations-in-minnesota/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Karen Wrist-Tying Ceremony",
+   "alsoKnownAs": [
+    "Karen Traditional Wrist Tying Ceremony"
+   ],
+   "kind": "cultural",
+   "capsule": "Elders tie string on the wrist so the spirit stays and a person can live free from fear.",
+   "dateRule": "Held in August, traditionally linked to the August full moon (Karen month Lah Khu, Burmese Wagaung). Minnesota's date is announced each year by organizers. The phrase 'Karen National Wrist-tying Day' did not appear on any page opened.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-22",
+     "endDate": "2026-08-23",
+     "source": "Minnesota ceremony as announced by Karen Culture Organization of Minnesota, listed by KOM",
+     "sourceUrl": "https://mnkaren.org/event/karen-traditional-wrist-tying-ceremony-2026/2026-08-22/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Calling back a person's spirit and protecting health and belonging. Sources differ on its nature: a Minnesota House document and Drum Publications call it not religious, while the state health toolkit ties it to traditional spirit belief. KOM says monks and elders both take part.",
+   "howCelebratedInMinnesota": "A weekend in Harris in 2026, with the main ceremony Sunday morning, plus adult soccer, youth volleyball, caneball, a Little Miss Karen pageant, food and booths. People also tie wrists at some weddings, according to KOM.",
+   "minnesotaEvents": [
+    {
+     "name": "Karen Traditional Wrist Tying Ceremony 2026",
+     "place": "43695 Peaceful Valley Rd., Harris",
+     "link": "https://mnkaren.org/event/karen-traditional-wrist-tying-ceremony-2026/2026-08-22/",
+     "organizerDates": "Aug. 22 to 23, 2026 (held)",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrations",
+     "url": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen Traditional Wrist Tying Ceremony 2026",
+     "url": "https://mnkaren.org/event/karen-traditional-wrist-tying-ceremony-2026/2026-08-22/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen Wrist Tying Ceremony",
+     "url": "https://drumpublications.org/wrist.php",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Hope Hpa-an Wrist Tying Ceremony Unites Karen",
+     "url": "https://www.bnionline.net/en/kic/item/16048-hope-hpa-an-wrist-tying-ceremony-unites-karen.html",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen Culture and Foods",
+     "url": "https://www.health.mn.gov/docs/people/wic/localagency/culture/karen.pdf",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Introduction to the Karen",
+     "url": "https://www.house.mn.gov/comm/docs/nLMA_6GxeEezIM-kPX0ExQ.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Karen Revolution Day",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Marks the start of the Karen uprising on January 31, 1949.",
+   "dateRule": "January 31.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-31",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states January 31",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-31",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states January 31",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-31",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states January 31",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The beginning of the Karen uprising on January 31, 1949.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrations",
+     "url": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Karen National Day",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "Recalls a February 11, 1948 demonstration in which Karen people called for their own homeland.",
+   "dateRule": "February 11.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-11",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states February 11",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-11",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states February 11",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-11",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states February 11",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "A February 11, 1948 demonstration in which Karen people called for their own homeland.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrations",
+     "url": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Sweet December",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Opens the Christmas season for Karen Christians, with church games, singing and a midnight rice soup.",
+   "dateRule": "November 30.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-30",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states November 30",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-30",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states November 30",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-30",
+     "endDate": null,
+     "source": "Karen Organization of Minnesota states November 30",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The start of Christmas celebrations for Karen Christians.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrations",
+     "url": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "christmas",
+   "name": "Christmas",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Celebrated by Karen Christians; the state's Karen toolkit lists it among holidays marked according to one's faith.",
+   "dateRule": "December 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date from the seed; no opened Karen page states it",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date from the seed; no opened Karen page states it",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date from the seed; no opened Karen page states it",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Birth of Jesus, for Karen Christians.",
+   "howCelebratedInMinnesota": "Named generally by the state health toolkit. In 2009, Karen members of Indian Lake Baptist Church in Worthington asked to go caroling and sing for other churches. No current dated Minnesota event was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Karen Culture and Foods",
+     "url": "https://www.health.mn.gov/docs/people/wic/localagency/culture/karen.pdf",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen find spiritual home at Indian Lake Baptist",
+     "url": "https://www.dglobe.com/news/people-of-god-karen-find-spiritual-home-at-indian-lake-baptist",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Observed by Karen Christians; the state's Karen toolkit lists it among holidays marked according to one's faith.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "Calculated by the seed calendar",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
+     "endDate": null,
+     "source": "Calculated by the seed calendar",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Calculated by the seed calendar",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Resurrection of Jesus, for Karen Christians.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Karen Culture and Foods",
+     "url": "https://www.health.mn.gov/docs/people/wic/localagency/culture/karen.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Buddhist New Year / Water Festival",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Mid-April festival with water sprinkled on elders as respect and offerings made to spirits.",
+   "dateRule": "Mid-April, per KOM; exact date not stated on any opened page.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "KOM says mid-April only",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "KOM says mid-April only",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "KOM says mid-April only",
+     "sourceUrl": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Buddhist new year. Women and girls wear yellow flowers in their hair and perform a special dance, according to KOM.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrations",
+     "url": "https://mnkaren.org/history-culture/karen-culture/celebrations/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Karen Culture and Foods",
+     "url": "https://www.health.mn.gov/docs/people/wic/localagency/culture/karen.pdf",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Novitiate Ceremony (Harris)",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "A summer evening ceremony listed by Karen Culture Organization of Minnesota at Harris in July 2025.",
+   "dateRule": "Announced by organizers; only the 2025 date was found. Whether it happens every year is not established.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No listing found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No listing found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No listing found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Opened pages do not describe its meaning.",
+   "howCelebratedInMinnesota": "Listed for two evenings, 7:30 to 11 p.m., at 43695 Peaceful Valley Rd., Harris.",
+   "minnesotaEvents": [
+    {
+     "name": "Novitiate Ceremony",
+     "place": "43695 Peaceful Valley Rd., Harris",
+     "link": "https://karenculture.org/events",
+     "organizerDates": "July 26 to 27, 2025 (past)",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Karen Culture Organization of Minnesota events",
+     "url": "https://karenculture.org/events",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": [
+  {
+   "id": "union-day-myanmar",
+   "reason": "No opened Minnesota source shows a Karen observance of Union Day. KOM's list of Karen celebrations does not include it, and lists Karen National Day on February 11 instead. Keep it for the Burmese community page. Karen views of the 1947 agreement were not checked."
+  }
+ ]
+}

@@ -43,6 +43,22 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:karen-new-year-gathering-in-st-paul-2026-01-01@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Karen New Year gathering in St. Paul
+DESCRIPTION:The end of one rice harvest and the start of the next\; KOM c
+ alls it the largest celebration in the Karen community. Organizers number
+  the years\, with 2766 being the January 2027 gathering. Date: Minnesota 
+ organizers announce the dates each year\, and they may not match the luna
+ r day of Karen New Year. Source: Karen Organization of Minnesota\, Karen 
+ New Year 2765 event page https://mnkaren.org/event/karen-new-year-2765/ C
+ ommunities: Karen Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:new-year-novy-god-2026-01-01@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260101
@@ -173,6 +189,19 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:karen-revolution-day-2026-01-31@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:Karen Revolution Day
+DESCRIPTION:The beginning of the Karen uprising on January 31\, 1949. Dat
+ e: January 31. Source: Karen Organization of Minnesota states January 31 
+ https://mnkaren.org/history-culture/karen-culture/celebrations/ Communiti
+ es: Karen Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:black-history-month-begins-2026-02-01@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260201
@@ -188,6 +217,19 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:karen-national-day-2026-02-11@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:Karen National Day
+DESCRIPTION:A February 11\, 1948 demonstration in which Karen people call
+ ed for their own homeland. Date: February 11. Source: Karen Organization 
+ of Minnesota states February 11 https://mnkaren.org/history-culture/karen
+ -culture/celebrations/ Communities: Karen Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:union-day-myanmar-2026-02-12@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260212
@@ -196,7 +238,7 @@ SUMMARY:Union Day (Myanmar)
 DESCRIPTION:The 1947 Panglong Agreement. Date: February 12. Source: Myanm
  ar Department of Civil Aviation\, AIC A 03/2026\, Myanmar Public Holidays
   for Year 2026 https://ais.gov.mm/wp-content/uploads/2025/12/AIC-03-2026.
- pdf Communities: Burmese Minnesota\, Karen Minnesota
+ pdf Communities: Burmese Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -898,9 +940,12 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Karen Martyrs' Day
-DESCRIPTION:The 1950 killing of Saw Ba U Gyi. Date: August 12. Source: Ka
- ren News\, Martyrs' Day Commemorated https://karennews.org/2013/08/martyr
- s-day-commemorated/ Communities: Karen Minnesota
+DESCRIPTION:The anniversary of the 1950 death of Saw Ba U Gyi\, an early 
+ Karen National Union leader\, and remembrance of others who fought for th
+ e Karen people. Date: August 12. Minnesota gatherings are often held on a
+  nearby weekend\, announced each year. Source: Karen Organization of Minn
+ esota states August 12 https://mnkaren.org/history-culture/karen-culture/
+ celebrations/ Communities: Karen Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -943,6 +988,26 @@ DESCRIPTION:Liberation from Japanese rule in 1945. Date: August 15. Sourc
  System https://www.mpm.go.kr/english/system/infoService/bizService03/ Com
  munities: Korean Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:karen-wristtying-ceremony-2026-08-22@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+SUMMARY:Karen Wrist-Tying Ceremony
+DESCRIPTION:Calling back a person's spirit and protecting health and belo
+ nging. Sources differ on its nature: a Minnesota House document and Drum 
+ Publications call it not religious\, while the state health toolkit ties 
+ it to traditional spirit belief. KOM says monks and elders both take part
+ . Date: Held in August\, traditionally linked to the August full moon (Ka
+ ren month Lah Khu\, Burmese Wagaung). Minnesota's date is announced each 
+ year by organizers. The phrase 'Karen National Wrist-tying Day' did not a
+ ppear on any page opened. Source: Minnesota ceremony as announced by Kare
+ n Culture Organization of Minnesota\, listed by KOM https://mnkaren.org/e
+ vent/karen-traditional-wrist-tying-ceremony-2026/2026-08-22/ Communities:
+  Karen Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1318,6 +1383,19 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:sweet-december-2026-11-30@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Sweet December
+DESCRIPTION:The start of Christmas celebrations for Karen Christians. Dat
+ e: November 30. Source: Karen Organization of Minnesota states November 3
+ 0 https://mnkaren.org/history-culture/karen-culture/celebrations/ Communi
+ ties: Karen Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:lao-national-day-2026-12-02@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261202
@@ -1498,6 +1576,22 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:karen-new-year-gathering-in-st-paul-2027-01-02@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270104
+SUMMARY:Karen New Year gathering in St. Paul
+DESCRIPTION:The end of one rice harvest and the start of the next\; KOM c
+ alls it the largest celebration in the Karen community. Organizers number
+  the years\, with 2766 being the January 2027 gathering. Date: Minnesota 
+ organizers announce the dates each year\, and they may not match the luna
+ r day of Karen New Year. Source: Karen Organization of Minnesota\, Karen 
+ New Year Celebration 2766 event page https://mnkaren.org/event/karen-new-
+ year-celebration-2766/ Communities: Karen Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:día-de-los-reyes-2027-01-06@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270106
@@ -1585,6 +1679,19 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:karen-revolution-day-2027-01-31@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Karen Revolution Day
+DESCRIPTION:The beginning of the Karen uprising on January 31\, 1949. Dat
+ e: January 31. Source: Karen Organization of Minnesota states January 31 
+ https://mnkaren.org/history-culture/karen-culture/celebrations/ Communiti
+ es: Karen Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:black-history-month-begins-2027-02-01@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270201
@@ -1639,6 +1746,19 @@ DESCRIPTION:Start of Lent. Date: 46 days before Western Easter. Source: U
  munities: European American Minnesota\, Filipino Minnesota\, Guatemalan M
  innesota\, Latino Minnesota\, Mexican Minnesota\, Salvadoran Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:karen-national-day-2027-02-11@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Karen National Day
+DESCRIPTION:A February 11\, 1948 demonstration in which Karen people call
+ ed for their own homeland. Date: February 11. Source: Karen Organization 
+ of Minnesota states February 11 https://mnkaren.org/history-culture/karen
+ -culture/celebrations/ Communities: Karen Minnesota
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2151,9 +2271,12 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
 SUMMARY:Karen Martyrs' Day
-DESCRIPTION:The 1950 killing of Saw Ba U Gyi. Date: August 12. Source: Ka
- ren News\, Martyrs' Day Commemorated https://karennews.org/2013/08/martyr
- s-day-commemorated/ Communities: Karen Minnesota
+DESCRIPTION:The anniversary of the 1950 death of Saw Ba U Gyi\, an early 
+ Karen National Union leader\, and remembrance of others who fought for th
+ e Karen people. Date: August 12. Minnesota gatherings are often held on a
+  nearby weekend\, announced each year. Source: Karen Organization of Minn
+ esota states August 12 https://mnkaren.org/history-culture/karen-culture/
+ celebrations/ Communities: Karen Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2467,6 +2590,19 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:sweet-december-2027-11-30@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:Sweet December
+DESCRIPTION:The start of Christmas celebrations for Karen Christians. Dat
+ e: November 30. Source: Karen Organization of Minnesota states November 3
+ 0 https://mnkaren.org/history-culture/karen-culture/celebrations/ Communi
+ ties: Karen Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:lao-national-day-2027-12-02@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271202
@@ -2762,6 +2898,19 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:karen-revolution-day-2028-01-31@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20280131
+DTEND;VALUE=DATE:20280201
+SUMMARY:Karen Revolution Day
+DESCRIPTION:The beginning of the Karen uprising on January 31\, 1949. Dat
+ e: January 31. Source: Karen Organization of Minnesota states January 31 
+ https://mnkaren.org/history-culture/karen-culture/celebrations/ Communiti
+ es: Karen Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:black-history-month-begins-2028-02-01@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280201
@@ -2774,6 +2923,19 @@ DESCRIPTION:Month of Black history\, February. Date: February 1. Source:
  n-history-month-2016 Communities: African American Minnesota\, American c
  ulture\, Minnesota culture
 CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:karen-national-day-2028-02-11@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20280211
+DTEND;VALUE=DATE:20280212
+SUMMARY:Karen National Day
+DESCRIPTION:A February 11\, 1948 demonstration in which Karen people call
+ ed for their own homeland. Date: February 11. Source: Karen Organization 
+ of Minnesota states February 11 https://mnkaren.org/history-culture/karen
+ -culture/celebrations/ Communities: Karen Minnesota
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3256,9 +3418,12 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280812
 DTEND;VALUE=DATE:20280813
 SUMMARY:Karen Martyrs' Day
-DESCRIPTION:The 1950 killing of Saw Ba U Gyi. Date: August 12. Source: Ka
- ren News\, Martyrs' Day Commemorated https://karennews.org/2013/08/martyr
- s-day-commemorated/ Communities: Karen Minnesota
+DESCRIPTION:The anniversary of the 1950 death of Saw Ba U Gyi\, an early 
+ Karen National Union leader\, and remembrance of others who fought for th
+ e Karen people. Date: August 12. Minnesota gatherings are often held on a
+  nearby weekend\, announced each year. Source: Karen Organization of Minn
+ esota states August 12 https://mnkaren.org/history-culture/karen-culture/
+ celebrations/ Communities: Karen Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3538,6 +3703,19 @@ DESCRIPTION:United States harvest and thanksgiving holiday. Date: Fourth
  olidays/ Communities: American culture\, European American Minnesota\, Mi
  nnesota culture
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sweet-december-2028-11-30@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:Sweet December
+DESCRIPTION:The start of Christmas celebrations for Karen Christians. Dat
+ e: November 30. Source: Karen Organization of Minnesota states November 3
+ 0 https://mnkaren.org/history-culture/karen-culture/celebrations/ Communi
+ ties: Karen Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
