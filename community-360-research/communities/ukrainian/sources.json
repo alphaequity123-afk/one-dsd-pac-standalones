@@ -1,0 +1,576 @@
+[
+ {
+  "title": "Ukrainian population (cultural community profile, 2020-2024)",
+  "publisher": "Minnesota Compass (Wilder Research)",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/ukrainian",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population, age, language, income, poverty, housing, education, employment, disability, insurance"
+ },
+ {
+  "title": "Minnesota's Ukrainian population (March 9, 2022)",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/data-insights/articles/minnesotas-ukrainian-population",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2022 estimate of about 16,000; earlier comparisons"
+ },
+ {
+  "title": "ACS 2024 1-year, B04006 Ancestry, Minnesota",
+  "publisher": "U.S. Census Bureau via Census Reporter API",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Ukrainian ancestry count"
+ },
+ {
+  "title": "ACS 2024 1-year, B05006 Place of birth, Minnesota",
+  "publisher": "U.S. Census Bureau via Census Reporter API",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Born in Ukraine, 1-year"
+ },
+ {
+  "title": "ACS 2020-2024 5-year, B05006 Place of birth, Minnesota",
+  "publisher": "U.S. Census Bureau via Census Reporter API",
+  "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Born in Ukraine, 5-year"
+ },
+ {
+  "title": "ACS 2024 1-year, B16001 Language spoken at home, Minnesota",
+  "publisher": "U.S. Census Bureau via Census Reporter API",
+  "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B16001&geo_ids=04000US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Ukrainian or other Slavic languages"
+ },
+ {
+  "title": "Refugee arrivals by country of origin and county (CSV, 1999-2024)",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.mn.gov/communities/rih/stats/country.csv",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arrivals from Ukraine by year and county"
+ },
+ {
+  "title": "Refugee Health Statistics",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.mn.gov/communities/rih/stats/index.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Definitions of eligible arrivals; update date"
+ },
+ {
+  "title": "Ukrainian Clinical Guidance",
+  "publisher": "Minnesota Department of Health, Center of Excellence in Newcomer Health",
+  "url": "https://www.health.mn.gov/communities/rih/coe/clinical/ukrainian.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arrival pathways; newcomer health resources"
+ },
+ {
+  "title": "Ukrainian American Community, Northeast Minneapolis",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/group/ukrainian-american-community-northeast-minneapolis",
+  "dateChecked": "2026-10-31",
+  "usedFor": "History, institutions, archives, Holodomor, 2022 response"
+ },
+ {
+  "title": "How Northeast Minneapolis became a center for Ukrainian-Americans (MinnPost, Greta Kaul, March 3, 2022)",
+  "publisher": "Twin Cities Business (reprint)",
+  "url": "https://tcbmag.com/how-northeast-minneapolis-became-a-center-for-ukrainian-americans/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Migration waves, Granovsky recruitment, pysanky, Saturday school"
+ },
+ {
+  "title": "Ukrainians in Minnesota pay it forward one year after fleeing war (Feb. 23, 2023)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2023/02/23/ukrainians-in-minnesota-pay-it-forward-one-year-after-fleeing-war",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Arrival counts, newcomers' work, housing, trauma"
+ },
+ {
+  "title": "For Minnesotans with ties to Ukraine, anger and anxiety (Feb. 24, 2022)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2022/02/24/for-minnesotans-with-ties-to-ukraine-anger-and-anxiety-in-wake-of-russian-attack",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Rally at St. Constantine; Duluth professor; Mayor Frey"
+ },
+ {
+  "title": "Ukrainian Minnesotans celebrate International Vyshyvankas Day (May 20, 2022)",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2022/05/20/ukrainian-minnesotans-celebrate-international-vyshyvankas-day",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Vyshyvanka Day at Boom Island Park"
+ },
+ {
+  "title": "As protections expire, Ukrainians who escaped war face an uncertain future (March 28, 2025)",
+  "publisher": "NPR",
+  "url": "https://www.npr.org/2025/03/28/nx-s1-5318049/as-protections-expire-ukrainians-war-uncertain-future-uniting-for-ukraine",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Parole status, jobs, fish fry, DHS 2,000 figure"
+ },
+ {
+  "title": "Ukrainian community thanks Minnesotans for a year of support (March 18, 2023)",
+  "publisher": "CBS Minnesota (WCCO)",
+  "url": "https://www.cbsnews.com/minnesota/news/ukrainian-community-thanks-minnesotans-for-a-year-of-support/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "15,000 claim; healing zone; volunteer quote"
+ },
+ {
+  "title": "Ukrainian American Center honoring those lost as conflict reaches 3-year milestone (Feb. 2025)",
+  "publisher": "CBS Minnesota (WCCO)",
+  "url": "https://www.cbsnews.com/minnesota/news/the-ukrainian-american-center-honoring-those-three-years-on/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 commemoration, Klobuchar, Frey, Champlin family"
+ },
+ {
+  "title": "Minnesota prosthetics nonprofit helping wounded Ukrainian soldiers (March 6, 2023)",
+  "publisher": "CBS Minnesota (WCCO)",
+  "url": "https://www.cbsnews.com/minnesota/news/wounded-soldiers-from-ukraine-fitted-with-prosthetics-thanks-to-minnesota-nonprofit/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Protez counts, waiting list"
+ },
+ {
+  "title": "Couple that fled from Ukraine opens bakery in Minnesota (May 13, 2024)",
+  "publisher": "CBS Minnesota (WCCO)",
+  "url": "https://www.cbsnews.com/minnesota/video/couple-that-fled-from-ukraine-opens-bakery-in-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Heaven Gluten Free Bakery"
+ },
+ {
+  "title": "Ukrainian soldiers come to Minnesota for prosthetics (Dec. 2, 2022)",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/news/ukrainian-soldiers-come-to-minnesota-for-prosthetics-and-then-return-to-the-fight",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Protez Foundation founding and patients"
+ },
+ {
+  "title": "Minnesotans join Ukraine's Independence Day celebrations (Aug. 24, 2025)",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/news/minnesotans-join-ukraines-independence-day-celebrations-conflict-rages",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 Independence Day gathering"
+ },
+ {
+  "title": "Ukrainian refugees building new life in Minnesota (2022)",
+  "publisher": "FOX 9",
+  "url": "https://www.fox9.com/news/ukrainian-refugees-building-new-life-in-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Alight's first refugee family"
+ },
+ {
+  "title": "Local Ukrainian man urges Minnesotans to not forget refugees still in need (Aug. 2022)",
+  "publisher": "FOX 9",
+  "url": "https://fox9.com/news/local-ukrainian-man-urges-minnesotans-to-not-forget-refugees-still-in-need",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Checked existing page's $750,000 claim"
+ },
+ {
+  "title": "Minnesota has welcomed as many as 300 Ukrainian refugees (July 2022)",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/kstp-news/top-news/minnesota-has-welcomed-as-many-as-300-ukrainian-refugees/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Checked existing page's International Institute claim"
+ },
+ {
+  "title": "Owner of iconic Minneapolis deli remembers Ukrainian roots (Feb. 2022)",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/kstp-news/top-news/standing-with-ukraine/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Kramarczuk family history; Lowry Bridge lighting"
+ },
+ {
+  "title": "Ukrainian Refugees topic page",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/tag/ukrainian-refugees/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Headlines on hockey, wrestling, Brooklyn Park family"
+ },
+ {
+  "title": "A Minnesota nonprofit is ramping up its mission (2023)",
+  "publisher": "KSTP",
+  "url": "https://kstp.com/kstp-news/top-news/a-minnesota-nonprofit-is-ramping-up-its-mission-heading-to-ukraine-next-month/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Protez Foundation background"
+ },
+ {
+  "title": "America's Classic: Kramarczuk's",
+  "publisher": "James Beard Foundation",
+  "url": "https://www.jamesbeard.org/stories/americas-classic-kramarczuks",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Kramarczuk's history, owner, dates of founders' deaths"
+ },
+ {
+  "title": "About Kramarczuk's",
+  "publisher": "Kramarczuk's",
+  "url": "https://kramarczuks.com/about",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Hours, 2026 holiday hours, history"
+ },
+ {
+  "title": "Our Story",
+  "publisher": "Ukrainian Gift Shop",
+  "url": "https://ukrainiangiftshop.com/pages/our-story",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Procai and Perchyshyn family history"
+ },
+ {
+  "title": "Our Location",
+  "publisher": "Ukrainian Gift Shop",
+  "url": "https://ukrainiangiftshop.com/pages/our-location",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Address and pickup"
+ },
+ {
+  "title": "Heaven Gluten Free",
+  "publisher": "Heaven Gluten Free",
+  "url": "https://heavenglutenfree.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Founders, current reviews"
+ },
+ {
+  "title": "Save Heaven Gluten Free Bakery from shutting down",
+  "publisher": "GoFundMe (Volodymyr Lahoda)",
+  "url": "https://www.gofundme.com/f/save-heaven-gluten-free-bakery-from-shutting-its-doors",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Founders' story, co-op sales"
+ },
+ {
+  "title": "Summer at The Cedar #7: Ukrainian Village Band (Aug. 20, 2025)",
+  "publisher": "The Cedar Cultural Center",
+  "url": "https://www.thecedar.org/events/summer-at-the-cedar-ukrainian-village-band",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Band history, Ivana Kupala festival"
+ },
+ {
+  "title": "Ukrainian Village Band",
+  "publisher": "Minnesota State Fair",
+  "url": "https://www.mnstatefair.org/schedule/ukrainian-village-band",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Band listing"
+ },
+ {
+  "title": "Ukrainian culture highlighted in Shoreview this October (2023)",
+  "publisher": "Shoreview Press",
+  "url": "https://www.presspubs.com/shoreview/news/ukrainian-culture-highlighted-in-shoreview-this-october/article_3866c7ea-5cc6-11ee-8b9c-6bcc6b7d78b0.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Shoreview event; Yev Rosso"
+ },
+ {
+  "title": "Ukrainian American Community Center home page",
+  "publisher": "UACCMN",
+  "url": "https://uaccmn.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Programs, partners, counts"
+ },
+ {
+  "title": "About the UACCMN",
+  "publisher": "UACCMN",
+  "url": "https://uaccmn.org/about/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Founding, mission, yearly events"
+ },
+ {
+  "title": "Board of Directors",
+  "publisher": "UACCMN",
+  "url": "https://uaccmn.org/board-of-directors/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Leadership, Stand With Ukraine MN"
+ },
+ {
+  "title": "Long-Term Care Workforce",
+  "publisher": "UACCMN",
+  "url": "https://uaccmn.org/services/long-term-care-workforce/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Workforce program"
+ },
+ {
+  "title": "Family Education Support Program",
+  "publisher": "UACCMN",
+  "url": "https://uaccmn.org/services/family-coaching-and-assistance/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Youth education support"
+ },
+ {
+  "title": "Seminars",
+  "publisher": "UACCMN",
+  "url": "https://uaccmn.org/services/friday-seminars/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Newcomer seminars"
+ },
+ {
+  "title": "Aid for Ukraine",
+  "publisher": "UACCMN",
+  "url": "https://uaccmn.org/aid-for-ukraine/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Humanitarian aid purchases"
+ },
+ {
+  "title": "Ukrainian Festival of Minnesota",
+  "publisher": "UACCMN",
+  "url": "https://uaccmn.org/arts-and-culture/ukrainian-festival-of-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Festival since 2006, third weekend of September"
+ },
+ {
+  "title": "Calendar",
+  "publisher": "UACCMN",
+  "url": "https://uaccmn.org/calendar/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "No events listed Oct. 2026"
+ },
+ {
+  "title": "Letter to the Minnesota Legislature, June 26, 2025",
+  "publisher": "UACCMN via Minnesota House",
+  "url": "https://www.house.mn.gov/comm/docs/DhB1hP9jLk2PakdiFQu2CA.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Population estimate, DHS partnership, divestment law"
+ },
+ {
+  "title": "Holodomor",
+  "publisher": "UACCMN (archived site)",
+  "url": "https://old.uaccmn.org/holodomor/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2022-2023 commemorations, House resolution"
+ },
+ {
+  "title": "Advocate for Ukraine",
+  "publisher": "UACCMN (archived site)",
+  "url": "https://old.uaccmn.org/advocate-for-ukraine/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Advocacy committee, proclamations, curriculum"
+ },
+ {
+  "title": "30 Years of Ukrainian Independence",
+  "publisher": "UACCMN (archived site)",
+  "url": "https://old.uaccmn.org/30-years-of-ukrainian-independence/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2021 proclamation and events"
+ },
+ {
+  "title": "Education guide (Ukrainian)",
+  "publisher": "UACCMN (archived site)",
+  "url": "https://old.uaccmn.org/education-%d0%be%d1%81%d0%b2%d1%96%d1%82%d0%b0/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "School enrollment and special education guide"
+ },
+ {
+  "title": "Medical resources",
+  "publisher": "UACCMN (archived site)",
+  "url": "https://old.uaccmn.org/useful-links/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Refugee health screening, TB clinics, eligibility notes"
+ },
+ {
+  "title": "Ukrainian Festival MN",
+  "publisher": "Ukrainian Festival MN",
+  "url": "https://ukrainianfestivalmn.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2026 postponement; 2027 dates; 2025 schedule"
+ },
+ {
+  "title": "Stand With Ukraine MN: About",
+  "publisher": "Stand With Ukraine MN",
+  "url": "https://www.standwithukrainemn.com/about",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mission and work"
+ },
+ {
+  "title": "Cheremosh Ukrainian Dance Ensemble",
+  "publisher": "Cheremosh",
+  "url": "https://www.cheremoshmn.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Dance groups, dancers, performances"
+ },
+ {
+  "title": "Plast Ukrainian scouting makes a comeback in the Twin Cities (Feb. 28, 2021)",
+  "publisher": "The Ukrainian Weekly (via Plast USA)",
+  "url": "https://plastusa.org/wp-content/uploads/2021/02/The_Ukrainian_Weekly_Plast_Twin_Cities.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Plast history and revival"
+ },
+ {
+  "title": "St. Constantine Ukrainian Catholic Church",
+  "publisher": "St. Constantine",
+  "url": "https://stconstantine.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Programs, welcome statement"
+ },
+ {
+  "title": "History timeline",
+  "publisher": "St. Constantine",
+  "url": "https://stconstantine.org/history.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Parish history, calendar change, 1925 split"
+ },
+ {
+  "title": "St. Michael's and St. George's Ukrainian Orthodox Church",
+  "publisher": "St. Michael's and St. George's",
+  "url": "https://www.stmichaelsandstgeorgesuoc.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Parish description, services"
+ },
+ {
+  "title": "Services",
+  "publisher": "St. Michael's and St. George's",
+  "url": "https://www.stmichaelsandstgeorgesuoc.org/services",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Worship hours, priest, St. Demetrius Saturday"
+ },
+ {
+  "title": "News & Events",
+  "publisher": "St. Michael's and St. George's",
+  "url": "https://www.stmichaelsandstgeorgesuoc.org/events",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025-2026 events"
+ },
+ {
+  "title": "Bulletins",
+  "publisher": "St. Michael's and St. George's",
+  "url": "https://www.stmichaelsandstgeorgesuoc.org/bulletins",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Shows bulletins through Aug. 2026"
+ },
+ {
+  "title": "Holy Archangel Michael feast day in Minneapolis (Nov. 2016)",
+  "publisher": "Ukrainian Orthodox Church of the USA",
+  "url": "https://uocofusa.org/news_161122_1",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Parish school, joint choir, feast date"
+ },
+ {
+  "title": "60th anniversary of St. Katherine (Dec. 2011)",
+  "publisher": "Ukrainian Orthodox Church of the USA",
+  "url": "https://uocofusa.org/news_111219_2",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Origins as St. Volodymyr and Olha; bilingual services"
+ },
+ {
+  "title": "St. Katherine parish celebrates faith, motherhood and pastoral legacy (May 2026)",
+  "publisher": "Ukrainian Orthodox Church of the USA",
+  "url": "https://www.uocofusa.org/news_260511_1",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Pastor change; St. Michael's pastor"
+ },
+ {
+  "title": "First Ukrainian Evangelical Baptist Church",
+  "publisher": "St. Louis Park Historical Society",
+  "url": "https://slphistory.org/firstukrainian/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Congregation history and makeup"
+ },
+ {
+  "title": "Minnesota Ukrainian church prays over injured soldier (Baptist Press, Oct. 14, 2022)",
+  "publisher": "ChurchLeaders (reprint)",
+  "url": "https://churchleaders.com/news/436226-minnesota-ukrainian-church-prays-over-injured-soldier-thanks-god-bp.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Baptist congregation size and support for soldiers"
+ },
+ {
+  "title": "Ukraine officially moves Christmas observance to Dec. 25 (2023)",
+  "publisher": "Catholic Review / OSV News",
+  "url": "https://catholicreview.org/ukraine-officially-moves-christmas-observance-to-dec-25-in-huge-cultural-shift/print/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Calendar changes in Ukraine's churches"
+ },
+ {
+  "title": "National Register nomination: SS. Peter and Paul Eastern Rite Church, Chisholm (1979)",
+  "publisher": "National Park Service",
+  "url": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/80004340_text",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Iron Range Ukrainian community"
+ },
+ {
+  "title": "Minnesota and Wisconsin Rusyn churches",
+  "publisher": "Rusin Association of Minnesota",
+  "url": "https://rusinmn.org/pdf/topics-interest/churches/minnesota-wisconsin-rusyn-churches.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Chisholm church founders and closing"
+ },
+ {
+  "title": "Minnesota commemorated the Holodomor victims (Dec. 9, 2022)",
+  "publisher": "National Museum of the Holodomor",
+  "url": "https://holodomormuseum.org.ua/en/news-museji/minnesota-commemorated-the-holodomor-victims/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Nov. 30, 2022 commemoration"
+ },
+ {
+  "title": "Holodomor: The Ukrainian Genocide resource guide",
+  "publisher": "University of Minnesota Center for Holocaust and Genocide Studies",
+  "url": "https://cla.umn.edu/chgs/holocaust-genocide-education/resource-guides/holodomor",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Holodomor background"
+ },
+ {
+  "title": "Protez Foundation",
+  "publisher": "Protez Foundation",
+  "url": "https://www.protezfoundation.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Services, patients, Protez Academy, 2026 news"
+ },
+ {
+  "title": "Immediate Impact: Article sparks Ukrainian connection (Oct. 2022)",
+  "publisher": "University of Minnesota Institute on Community Integration",
+  "url": "https://ici.umn.edu/news/immediate-impact-article-sparks-ukrainian-connection",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Trauma and school support for a newcomer child"
+ },
+ {
+  "title": "Welcoming a fourth Ukrainian refugee family to MN (July 5, 2024)",
+  "publisher": "First Unitarian Society of Minneapolis",
+  "url": "https://firstunitarian.org/blog/welcoming-a-fourth-ukrainian-refugee-family-to-mn/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Sponsorship"
+ },
+ {
+  "title": "SMRT common questions",
+  "publisher": "Disability Hub MN",
+  "url": "https://disabilityhubmn.org/top-topics/other/state-medical-review-team-smrt/common-questions/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Disability determination for Medical Assistance"
+ },
+ {
+  "title": "English Learners in Minnesota Report 2024-25",
+  "publisher": "Minnesota Department of Education via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2026/other/261381.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Top home languages of English learners"
+ },
+ {
+  "title": "Uniting for Ukraine: A Four-Year Retrospective (May 2026)",
+  "publisher": "Ukraine Immigration Task Force",
+  "url": "https://ukrainetaskforce.org/wp-content/uploads/2026/05/U4U-Four-Year-Retrospective.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "U4U history and suspension"
+ },
+ {
+  "title": "USCIS posts alerts on Ukraine TPS after Oct. 19 expiration (Oct. 2026)",
+  "publisher": "Ukraine Immigration Task Force",
+  "url": "https://ukrainetaskforce.org/ukraine-s-tps-is-theoretically-extended-for-6-months-but-dhs-has-yet-to-publish-updates-or-implement-extension/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "TPS status, Oct. 2026"
+ },
+ {
+  "title": "USCIS: Ukraine TPS continues (for now) (Oct. 2026)",
+  "publisher": "Jackson Lewis Global Immigration Blog",
+  "url": "https://www.globalimmigrationblog.com/2026/10/uscis-ukraine-tps-continues-for-now/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "TPS status, Oct. 2026"
+ },
+ {
+  "title": "Ukraine Refugee Announcement (March 24, 2022)",
+  "publisher": "International Institute of Minnesota",
+  "url": "https://iimn.org/news/ukraine-refugee-announcement/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Institute's early response (background)"
+ },
+ {
+  "title": "St. Stephen (Ukrainian)",
+  "publisher": "Discover Mass",
+  "url": "https://discovermass.com/church/st-stephen-ukrainian-saint-paul-mn/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Undated directory listing for St. Stephen, St. Paul (status unconfirmed)"
+ },
+ {
+  "title": "Ukrainian Minnesota (current page)",
+  "publisher": "One DSD People, Access and Culture",
+  "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Page checked for corrections"
+ }
+]

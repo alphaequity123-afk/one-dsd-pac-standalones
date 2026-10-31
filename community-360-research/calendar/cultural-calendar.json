@@ -27325,13 +27325,13 @@
    ]
   },
   {
-   "id": "ukrainian--orthodox-christmas-julian-calendar",
+   "id": "ukrainian--christmas-on-the-julian-calendar-january-7",
    "observanceKey": "orthodox-christmas-julian-calendar",
-   "name": "Orthodox Christmas (Julian calendar)",
+   "name": "Christmas on the Julian calendar (January 7)",
    "alsoKnownAs": [
     "Rizdvo",
-    "Rozhdestvo",
-    "Božić (Pravoslavni)"
+    "Rizdvo Khrystove",
+    "Nativity"
    ],
    "communities": [
     "ukrainian"
@@ -27343,51 +27343,61 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "religious",
-   "capsule": "Christmas for churches on the Julian calendar.",
-   "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses December 25 on the Revised Julian calendar.",
+   "capsule": "Christmas as kept on January 7 by churches and families that still follow the older Julian church calendar.",
+   "dateRule": "December 25 on the Julian calendar, which is January 7 on the civil calendar from 1900 to 2099. Since 2023 the Orthodox Church of Ukraine, the Ukrainian Greek Catholic Church and Ukraine's government have moved to December 25, so many Ukrainian families now keep Dec. 25; others keep Jan. 7. Ask the family.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-01-07",
      "endDate": null,
-     "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
-     "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+     "source": "Fixed: Julian-calendar Christmas falls on Jan. 7 (Catholic Review/OSV News)",
+     "sourceUrl": "https://catholicreview.org/ukraine-officially-moves-christmas-observance-to-dec-25-in-huge-cultural-shift/print/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-01-07",
      "endDate": null,
-     "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
-     "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+     "source": "Fixed: Julian-calendar Christmas falls on Jan. 7",
+     "sourceUrl": "https://catholicreview.org/ukraine-officially-moves-christmas-observance-to-dec-25-in-huge-cultural-shift/print/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-01-07",
      "endDate": null,
-     "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
-     "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+     "source": "Fixed: Julian-calendar Christmas falls on Jan. 7",
+     "sourceUrl": "https://catholicreview.org/ukraine-officially-moves-christmas-observance-to-dec-25-in-huge-cultural-shift/print/",
      "verified": true
     }
    ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "Christmas for churches on the Julian calendar.",
-   "howCelebratedInMinnesota": null,
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birth of Jesus, with Holy Supper (Sviat Vechir) on Christmas Eve.",
+   "howCelebratedInMinnesota": "No opened Minnesota source describes a Jan. 7 celebration in 2026. St. Constantine Ukrainian Catholic Church in Minneapolis adopted the Gregorian calendar in 1943 and keeps Dec. 25. Which date each Minnesota Ukrainian Orthodox parish now uses could not be confirmed.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Ukraine officially moves Christmas observance to Dec. 25",
+     "url": "https://catholicreview.org/ukraine-officially-moves-christmas-observance-to-dec-25-in-huge-cultural-shift/print/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "St. Constantine history timeline",
+     "url": "https://stconstantine.org/history.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "ukrainian--orthodox-easter",
-   "observanceKey": "orthodox-easter",
-   "name": "Orthodox Easter",
+   "id": "ukrainian--christmas-december-25",
+   "observanceKey": "christmas-december-25",
+   "name": "Christmas (December 25)",
    "alsoKnownAs": [
-    "Pascha",
-    "Velykden",
-    "Paskha"
+    "Rizdvo",
+    "Sviat Vechir (Christmas Eve, Dec. 24)"
    ],
    "communities": [
     "ukrainian"
@@ -27399,51 +27409,61 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Eastern Christian tradition.",
-   "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar.",
+   "capsule": "Christmas on December 25, now the official date in Ukraine and the date St. Constantine in Minneapolis has kept since 1943.",
+   "dateRule": "December 25 (Gregorian or Revised Julian calendar). Christmas Eve Holy Supper on Dec. 24.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-04-12",
+     "date": "2026-12-25",
      "endDate": null,
-     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
-     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "source": "Fixed date; Ukraine moved official Christmas to Dec. 25 in 2023 (Catholic Review/OSV News)",
+     "sourceUrl": "https://catholicreview.org/ukraine-officially-moves-christmas-observance-to-dec-25-in-huge-cultural-shift/print/",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-05-02",
+     "date": "2027-12-25",
      "endDate": null,
-     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
-     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "source": "Fixed date",
+     "sourceUrl": "https://catholicreview.org/ukraine-officially-moves-christmas-observance-to-dec-25-in-huge-cultural-shift/print/",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-04-16",
+     "date": "2028-12-25",
      "endDate": null,
-     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
-     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "source": "Fixed date",
+     "sourceUrl": "https://catholicreview.org/ukraine-officially-moves-christmas-observance-to-dec-25-in-huge-cultural-shift/print/",
      "verified": true
     }
    ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Eastern Christian tradition.",
-   "howCelebratedInMinnesota": null,
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birth of Jesus.",
+   "howCelebratedInMinnesota": "St. Constantine Ukrainian Catholic Church adopted the Gregorian calendar in 1943, so its Christmas falls on Dec. 25. No opened 2026 Minnesota Christmas event listing was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Ukraine officially moves Christmas observance to Dec. 25",
+     "url": "https://catholicreview.org/ukraine-officially-moves-christmas-observance-to-dec-25-in-huge-cultural-shift/print/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "St. Constantine history timeline",
+     "url": "https://stconstantine.org/history.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "ukrainian--easter",
+   "id": "ukrainian--easter-western-date",
    "observanceKey": "easter",
-   "name": "Easter",
+   "name": "Easter (Western date)",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "Velykden",
+    "Pascha"
    ],
    "communities": [
     "ukrainian"
@@ -27455,10 +27475,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
-   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "capsule": "Easter on the Western date, kept by St. Constantine's Ukrainian Catholics, who use the Gregorian calendar; a season of pysanky and blessed baskets.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian). Ukrainian Catholic parishes on the Gregorian calendar use this date.",
    "dates": [
     {
      "year": 2026,
@@ -27486,70 +27506,44 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "ukrainian--ukrainian-independence-day",
-   "observanceKey": "ukrainian-independence-day",
-   "name": "Ukrainian Independence Day",
-   "alsoKnownAs": [],
-   "communities": [
-    "ukrainian"
-   ],
-   "briefLinks": [
+   "whatItMarks": "The Resurrection of Jesus.",
+   "howCelebratedInMinnesota": "St. Constantine holds a Palm Sunday dinner. The community center lists a Ukrainian Pysanka Festival and Easter Bazaar and pysanky classes, and its Lenten fish fry runs every Friday before Easter. St. Michael's and St. George's held its annual Palm Sunday Pysanka Festival on March 29, 2026.",
+   "minnesotaEvents": [
     {
-     "community": "ukrainian",
-     "title": "Ukrainian Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+     "name": "St. Michael's and St. George's Palm Sunday Pysanka Festival",
+     "place": "505 4th St. NE, Minneapolis",
+     "link": "https://www.stmichaelsandstgeorgesuoc.org/events",
+     "organizerDates": "March 29, 2026, as posted by the parish",
+     "dateChecked": "2026-10-31"
     }
    ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "Independence in 1991.",
-   "dateRule": "August 24.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-08-24",
-     "endDate": null,
-     "source": "Donetsk Regional State Administration (Ukraine), The birth of the holiday: Independence Day 1991",
-     "sourceUrl": "https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dnia-nezalezhnosti-ukrainy-u-1991-rotsi",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-08-24",
-     "endDate": null,
-     "source": "Donetsk Regional State Administration (Ukraine), The birth of the holiday: Independence Day 1991",
-     "sourceUrl": "https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dnia-nezalezhnosti-ukrainy-u-1991-rotsi",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-08-24",
-     "endDate": null,
-     "source": "Donetsk Regional State Administration (Ukraine), The birth of the holiday: Independence Day 1991",
-     "sourceUrl": "https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dnia-nezalezhnosti-ukrainy-u-1991-rotsi",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Independence in 1991.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "St. Constantine Ukrainian Catholic Church",
+     "url": "https://stconstantine.org/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "About the UACCMN",
+     "url": "https://uaccmn.org/about/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "St. Michael's and St. George's events",
+     "url": "https://www.stmichaelsandstgeorgesuoc.org/events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "ukrainian--new-year-novy-god",
-   "observanceKey": "new-year-novy-god",
-   "name": "New Year (Novy God)",
+   "id": "ukrainian--orthodox-easter-pascha",
+   "observanceKey": "orthodox-easter",
+   "name": "Orthodox Easter (Pascha)",
    "alsoKnownAs": [
-    "Novy God"
+    "Velykden",
+    "Pascha",
+    "Paskha"
    ],
    "communities": [
     "ukrainian"
@@ -27561,100 +27555,147 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
-   "kind": "cultural",
-   "capsule": "The major secular winter holiday from the Soviet era, still central for some families.",
-   "dateRule": "January 1.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
+   "kind": "religious",
+   "capsule": "Easter on the Orthodox date, often a week or more after Western Easter, with blessing of Easter baskets.",
+   "dateRule": "First Sunday after the first full moon on or after the spring equinox, reckoned on the Julian calendar. Orthodox churches on the Revised Julian calendar still use this Easter date.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-01-01",
+     "date": "2026-04-12",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
+     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-01-01",
+     "date": "2027-05-02",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
+     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-01-01",
+     "date": "2028-04-16",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
+     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
      "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The major secular winter holiday from the Soviet era, still central for some families.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "ukrainian--holodomor-remembrance-day",
-   "observanceKey": "holodomor-remembrance-day",
-   "name": "Holodomor Remembrance Day",
-   "alsoKnownAs": [],
-   "communities": [
-    "ukrainian"
-   ],
-   "briefLinks": [
-    {
-     "community": "ukrainian",
-     "title": "Ukrainian Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
-    }
-   ],
-   "profileLink": null,
-   "kind": "remembrance",
-   "capsule": "The 1932-33 famine in Soviet Ukraine.",
-   "dateRule": "Fourth Saturday of November.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-11-28",
-     "endDate": null,
-     "source": "Calculated: fourth Saturday in November",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2027,
-     "date": "2027-11-27",
-     "endDate": null,
-     "source": "Calculated: fourth Saturday in November",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": "2028-11-25",
-     "endDate": null,
-     "source": "Calculated: fourth Saturday in November",
-     "sourceUrl": null,
-     "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "The 1932-33 famine in Soviet Ukraine.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The Resurrection of Jesus.",
+   "howCelebratedInMinnesota": "Minneapolis's St. Michael's and St. George's and Arden Hills' St. Katherine are Ukrainian Orthodox parishes. In 2026 Archbishop Daniel visited St. Katherine on the Fifth Sunday after Pascha (May 10, 2026), joined by St. Michael's parishioners. No opened source describes their 2026 Pascha services.",
+   "minnesotaEvents": [
+    {
+     "name": "Archiepiscopal Liturgy and tribute to Fr. Petro Siwko, St. Katherine Ukrainian Orthodox Parish",
+     "place": "Arden Hills",
+     "link": "https://www.uocofusa.org/news_260511_1",
+     "organizerDates": "May 10, 2026 (Fifth Sunday after Pascha), per St. Michael's and St. George's events page and UOC of the USA report",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "St. Katherine parish celebrates faith, motherhood and pastoral legacy",
+     "url": "https://www.uocofusa.org/news_260511_1",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "St. Michael's and St. George's events",
+     "url": "https://www.stmichaelsandstgeorgesuoc.org/events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ukrainian--ukrainian-lenten-fish-fry",
+   "observanceKey": "ukrainian-lenten-fish-fry",
+   "name": "Ukrainian Lenten Fish Fry",
+   "alsoKnownAs": [
+    "UACC fish fry"
+   ],
+   "communities": [
+    "ukrainian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ukrainian",
+     "title": "Ukrainian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
+   "kind": "community festival",
+   "capsule": "Friday fish and pierogi dinners at the Ukrainian American Community Center through Lent, raising money for aid and newcomers.",
+   "dateRule": "Every Friday of Lent (Western calendar), announced each year by the Ukrainian American Community Center.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-20",
+     "endDate": null,
+     "source": "St. Michael's and St. George's events page (first fish fry of 2026)",
+     "sourceUrl": "https://www.stmichaelsandstgeorgesuoc.org/events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Lenten meatless Fridays; a community fundraiser.",
+   "howCelebratedInMinnesota": "NPR reported in March 2025 that the line went down the block and that all tips go to humanitarian aid for Ukraine and to newly arrived Ukrainians. St. Michael's and St. George's promoted the 2026 fish fry starting Feb. 20, 2026, as supporting the community center and Cheremosh Dance Company.",
+   "minnesotaEvents": [
+    {
+     "name": "Ukrainian Fish Fry",
+     "place": "Ukrainian American Community Center, 301 Main St. NE, Minneapolis",
+     "link": "https://www.stmichaelsandstgeorgesuoc.org/events",
+     "organizerDates": "Announced for Feb. 20, 2026 (start of the 2026 season)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "As protections expire, Ukrainians who escaped war face an uncertain future",
+     "url": "https://www.npr.org/2025/03/28/nx-s1-5318049/as-protections-expire-ukrainians-war-uncertain-future-uniting-for-ukraine",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "St. Michael's and St. George's events",
+     "url": "https://www.stmichaelsandstgeorgesuoc.org/events",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "UACCMN home page",
+     "url": "https://uaccmn.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "ukrainian--vyshyvanka-day",
    "observanceKey": "vyshyvanka-day",
    "name": "Vyshyvanka Day",
-   "alsoKnownAs": [],
+   "alsoKnownAs": [
+    "International Vyshyvanka Day"
+   ],
    "communities": [
     "ukrainian"
    ],
@@ -27665,9 +27706,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "cultural",
-   "capsule": "A day for wearing embroidered shirts.",
+   "capsule": "A day for wearing embroidered vyshyvanka shirts and blouses; Minnesotans have gathered at Boom Island Park.",
    "dateRule": "Third Thursday of May.",
    "dates": [
     {
@@ -27696,7 +27737,525 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "A day for wearing embroidered shirts.",
+   "whatItMarks": "Ukrainian embroidered dress and identity; MPR described the vyshyvanka as a form of spiritual armor in Ukrainian culture.",
+   "howCelebratedInMinnesota": "On Thursday, May 19, 2022, Ukrainian Minnesotans gathered at Boom Island Park in Minneapolis, where the Ukrainian Village Band played and people danced the arkan. No 2026 listing was found.",
+   "minnesotaEvents": [
+    {
+     "name": "International Vyshyvanka Day gathering",
+     "place": "Boom Island Park, Minneapolis",
+     "link": "https://www.mprnews.org/story/2022/05/20/ukrainian-minnesotans-celebrate-international-vyshyvankas-day",
+     "organizerDates": "May 19, 2022 (past event)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ukrainian Minnesotans celebrate International Vyshyvankas Day",
+     "url": "https://www.mprnews.org/story/2022/05/20/ukrainian-minnesotans-celebrate-international-vyshyvankas-day",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ukrainian--ivana-kupala-midsummer",
+   "observanceKey": "ivana-kupala-midsummer",
+   "name": "Ivana Kupala (midsummer)",
+   "alsoKnownAs": [
+    "Kupala Night"
+   ],
+   "communities": [
+    "ukrainian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ukrainian",
+     "title": "Ukrainian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
+   "kind": "cultural",
+   "capsule": "Midsummer folk festival of wreaths, fire and song; the Ukrainian Village Band organizes a summertime Ivana Kupala ethno-festival.",
+   "dateRule": "Midsummer; the Minnesota event date is set by its organizer. No dated Minnesota listing was found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No dated listing found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Midsummer folk traditions.",
+   "howCelebratedInMinnesota": "The Cedar Cultural Center's 2025 listing says the Ukrainian Village Band organizes a summertime ethno-festival called Ivana Kupala; no date, place or year was given.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Summer at The Cedar: Ukrainian Village Band",
+     "url": "https://www.thecedar.org/events/summer-at-the-cedar-ukrainian-village-band",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ukrainian--ukrainian-independence-day",
+   "observanceKey": "ukrainian-independence-day",
+   "name": "Ukrainian Independence Day",
+   "alsoKnownAs": [
+    "Den Nezalezhnosti"
+   ],
+   "communities": [
+    "ukrainian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ukrainian",
+     "title": "Ukrainian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
+   "kind": "national",
+   "capsule": "August 24 marks Ukraine's 1991 declaration of independence; Minnesotans gather at Boom Island Park in Minneapolis.",
+   "dateRule": "August 24.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-24",
+     "endDate": null,
+     "source": "Fixed date (FOX 9; UACC)",
+     "sourceUrl": "https://www.fox9.com/news/minnesotans-join-ukraines-independence-day-celebrations-conflict-rages",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-24",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://old.uaccmn.org/30-years-of-ukrainian-independence/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-24",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://old.uaccmn.org/30-years-of-ukrainian-independence/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Ukraine's declaration of independence from the Soviet Union in 1991.",
+   "howCelebratedInMinnesota": "On Sunday, Aug. 24, 2025, the Ukrainian Community of Minnesota held a gathering at Boom Island Park with music, food and traditional dress. For the 30th anniversary in 2021, Gov. Walz proclaimed Aug. 24 Ukrainian Independence Commemoration Day, Hennepin County lit the Lowry Avenue Bridge in blue and yellow, and the community unfurled a 280-foot flag. No 2026 event report was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Ukraine Independence Day gathering",
+     "place": "Boom Island Park, Minneapolis",
+     "link": "https://www.fox9.com/news/minnesotans-join-ukraines-independence-day-celebrations-conflict-rages",
+     "organizerDates": "Aug. 24, 2025 (past event), organized on behalf of the Ukrainian Community of Minnesota",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesotans join Ukraine's Independence Day celebrations",
+     "url": "https://www.fox9.com/news/minnesotans-join-ukraines-independence-day-celebrations-conflict-rages",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "30 Years of Ukrainian Independence",
+     "url": "https://old.uaccmn.org/30-years-of-ukrainian-independence/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ukrainian--ukrainian-festival-of-minnesota",
+   "observanceKey": "ukrainian-festival-of-minnesota",
+   "name": "Ukrainian Festival of Minnesota",
+   "alsoKnownAs": [
+    "Ukrainian Festival MN",
+    "Twin Cities Ukrainian Heritage Festival"
+   ],
+   "communities": [
+    "ukrainian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ukrainian",
+     "title": "Ukrainian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
+   "kind": "community festival",
+   "capsule": "Free two-day festival of Ukrainian food, dance and music at the Ukrainian American Community Center; postponed in 2026, planned for Sept. 17-18, 2027.",
+   "dateRule": "Normally the third weekend of September, announced each year by the festival organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "Postponed in 2026 during the community center's renovation (Ukrainian Festival MN)",
+     "sourceUrl": "https://ukrainianfestivalmn.com/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-17",
+     "endDate": "2027-09-18",
+     "source": "Ukrainian Festival MN",
+     "sourceUrl": "https://ukrainianfestivalmn.com/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A celebration and sharing of Ukrainian culture; donations support humanitarian aid for Ukraine.",
+   "howCelebratedInMinnesota": "Held at the Ukrainian American Community Center, 301 Main St. NE, Minneapolis, since 2006, with a Friday evening dance party and a Saturday of food, craft vendors, beer garden, Cheremosh dancers, a varenyky-eating contest and children's activities (2025 schedule: Sept. 19-20). Admission free.",
+   "minnesotaEvents": [
+    {
+     "name": "Ukrainian Festival of Minnesota",
+     "place": "Ukrainian American Community Center, 301 Main St. NE, Minneapolis",
+     "link": "https://ukrainianfestivalmn.com/",
+     "organizerDates": "2026 postponed; next planned Friday-Saturday, Sept. 17-18, 2027",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ukrainian Festival MN",
+     "url": "https://ukrainianfestivalmn.com/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "UACCMN: Ukrainian Festival of Minnesota",
+     "url": "https://uaccmn.org/arts-and-culture/ukrainian-festival-of-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ukrainian--holodomor-remembrance",
+   "observanceKey": "holodomor-remembrance-day",
+   "name": "Holodomor Remembrance",
+   "alsoKnownAs": [
+    "Holodomor Memorial Day",
+    "Ukrainian Famine-Genocide Remembrance"
+   ],
+   "communities": [
+    "ukrainian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ukrainian",
+     "title": "Ukrainian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
+   "kind": "remembrance",
+   "capsule": "Remembers the millions who died in the 1932-33 man-made famine in Soviet Ukraine; Minnesota marks the last week of November.",
+   "dateRule": "Commonly the fourth Saturday of November. A 2023 Minnesota House resolution named the last week of November Holodomor Memorial Week; community pages give the Minnesota memorial day as Nov. 25 or Nov. 28.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-28",
+     "endDate": null,
+     "source": "Calculated: fourth Saturday in November",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-27",
+     "endDate": null,
+     "source": "Calculated: fourth Saturday in November",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-25",
+     "endDate": null,
+     "source": "Calculated: fourth Saturday in November",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The Holodomor (death by hunger), the 1932-33 famine engineered by Stalin's government.",
+   "howCelebratedInMinnesota": "A 2018 commemoration at the community center honored survivors; on Nov. 30, 2022, the community marked the 90th anniversary with a service led by local priests, choirs and a Holodomor Museum exhibit; on Nov. 8, 2023, an event at the State Capitol Rotunda drew First Lady Gwen Walz, and a House resolution was introduced. No 2026 event listing was found.",
+   "minnesotaEvents": [
+    {
+     "name": "90th anniversary Holodomor commemoration",
+     "place": "Minnesota State Capitol Rotunda, St. Paul",
+     "link": "https://old.uaccmn.org/holodomor/",
+     "organizerDates": "Nov. 8, 2023 (past event)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Holodomor 90th anniversary remembrance",
+     "place": "Minnesota (venue not stated)",
+     "link": "https://holodomormuseum.org.ua/en/news-museji/minnesota-commemorated-the-holodomor-victims/",
+     "organizerDates": "Wednesday, Nov. 30, 2022 (past event)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Holodomor (UACC)",
+     "url": "https://old.uaccmn.org/holodomor/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Advocate for Ukraine (UACC)",
+     "url": "https://old.uaccmn.org/advocate-for-ukraine/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota commemorated the Holodomor victims",
+     "url": "https://holodomormuseum.org.ua/en/news-museji/minnesota-commemorated-the-holodomor-victims/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "MNopedia: Ukrainian American Community, Northeast Minneapolis",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/ukrainian-american-community-northeast-minneapolis",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ukrainian--international-holiday-bazaar",
+   "observanceKey": "international-holiday-bazaar",
+   "name": "International Holiday Bazaar",
+   "alsoKnownAs": [
+    "International Holiday Festival"
+   ],
+   "communities": [
+    "ukrainian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ukrainian",
+     "title": "Ukrainian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
+   "kind": "community festival",
+   "capsule": "Holiday market at the Ukrainian American Community Center, held the Sunday after Thanksgiving.",
+   "dateRule": "Sunday after Thanksgiving, per the community center.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-29",
+     "endDate": null,
+     "source": "Calculated from the center's rule: Sunday after Thanksgiving",
+     "sourceUrl": "https://uaccmn.org/about/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-28",
+     "endDate": null,
+     "source": "Calculated from the center's rule",
+     "sourceUrl": "https://uaccmn.org/about/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-26",
+     "endDate": null,
+     "source": "Calculated from the center's rule",
+     "sourceUrl": "https://uaccmn.org/about/",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Start of the holiday season; a community fundraiser.",
+   "howCelebratedInMinnesota": "Listed by the community center as a yearly event; the center's calendar showed no 2026 listing on Oct. 31, 2026, and the building is under renovation, so the 2026 bazaar is unconfirmed.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "About the UACCMN",
+     "url": "https://uaccmn.org/about/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "UACCMN calendar",
+     "url": "https://uaccmn.org/calendar/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ukrainian--anniversary-of-russias-fullscale-invasion",
+   "observanceKey": "anniversary-of-russias-fullscale-invasion",
+   "name": "Anniversary of Russia's full-scale invasion",
+   "alsoKnownAs": [
+    "Day of remembrance, Feb. 24",
+    "Solidarity with Ukraine Day (Minnesota, 2024)"
+   ],
+   "communities": [
+    "ukrainian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ukrainian",
+     "title": "Ukrainian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
+   "kind": "remembrance",
+   "capsule": "February 24 marks the 2022 full-scale invasion; Minnesota's Ukrainian community holds commemorations, not celebrations.",
+   "dateRule": "February 24.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-24",
+     "endDate": null,
+     "source": "Fixed date of the 2022 invasion (MNopedia)",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/group/ukrainian-american-community-northeast-minneapolis",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-24",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/group/ukrainian-american-community-northeast-minneapolis",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-24",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/group/ukrainian-american-community-northeast-minneapolis",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Russia's full-scale invasion of Ukraine on Feb. 24, 2022, and those lost since.",
+   "howCelebratedInMinnesota": "On Feb. 24, 2022, a rally was held outside St. Constantine. Gov. Walz proclaimed Feb. 24, 2024, Solidarity with Ukraine Day, presented at a State Capitol event. In February 2025 the community center held a packed commemoration attended by Sen. Klobuchar and Mayor Frey. No 2026 report was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Three-year commemoration",
+     "place": "Ukrainian American Community Center, Minneapolis",
+     "link": "https://www.cbsnews.com/minnesota/news/the-ukrainian-american-center-honoring-those-three-years-on/",
+     "organizerDates": "A Saturday in late February 2025 (past event)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Ukraine: War & Resistance",
+     "place": "Minnesota State Capitol",
+     "link": "https://old.uaccmn.org/advocate-for-ukraine/",
+     "organizerDates": "Feb. 24, 2024 (past event)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MPR: For Minnesotans with ties to Ukraine, anger and anxiety",
+     "url": "https://www.mprnews.org/story/2022/02/24/for-minnesotans-with-ties-to-ukraine-anger-and-anxiety-in-wake-of-russian-attack",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Advocate for Ukraine (UACC)",
+     "url": "https://old.uaccmn.org/advocate-for-ukraine/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "CBS Minnesota: three-year milestone",
+     "url": "https://www.cbsnews.com/minnesota/news/the-ukrainian-american-center-honoring-those-three-years-on/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ukrainian--new-year-novyi-rik",
+   "observanceKey": "new-year-novy-god",
+   "name": "New Year (Novyi Rik)",
+   "alsoKnownAs": [
+    "Novyi Rik",
+    "Novy God"
+   ],
+   "communities": [
+    "ukrainian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ukrainian",
+     "title": "Ukrainian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
+   "kind": "cultural",
+   "capsule": "January 1, the civil New Year; no Minnesota source was found describing how Ukrainian families here keep it.",
+   "dateRule": "January 1.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-01",
+     "endDate": null,
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-01",
+     "endDate": null,
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-01",
+     "endDate": null,
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The civil New Year. The seed described it as a major secular holiday from the Soviet era; no opened source confirmed this for Minnesota.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,

@@ -472,6 +472,20 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ukrainian-lenten-fish-fry-2026-02-20@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:Ukrainian Lenten Fish Fry
+DESCRIPTION:Lenten meatless Fridays\; a community fundraiser. Date: Every
+  Friday of Lent (Western calendar)\, announced each year by the Ukrainian
+  American Community Center. Source: St. Michael's and St. George's events
+  page (first fish fry of 2026) https://www.stmichaelsandstgeorgesuoc.org/
+ events Communities: Ukrainian Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:seollal-celebration-in-white-bear-lake-korean-cultural-association-and-jangmiarts-2026-02-21@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260221
@@ -498,6 +512,20 @@ DESCRIPTION:The start of the full-scale war in 2022\, which divided some
  xed anniversary date) https://ccxmedia.org/news/plymouth-newspaper-keeps-
  russian-speaking-immigrants-informed-on-ukraine/ Communities: Russian-spe
  aking Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:anniversary-of-russias-fullscale-invasion-2026-02-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:Anniversary of Russia's full-scale invasion
+DESCRIPTION:Russia's full-scale invasion of Ukraine on Feb. 24\, 2022\, a
+ nd those lost since. Date: February 24. Source: Fixed date of the 2022 in
+ vasion (MNopedia) https://www.mnhs.org/mnopedia/search/index/group/ukrain
+ ian-american-community-northeast-minneapolis Communities: Ukrainian Minne
+ sota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1188,11 +1216,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:Vyshyvanka Day
-DESCRIPTION:A day for wearing embroidered shirts. Date: Third Thursday of
-  May. Source: Novyny.LIVE (Ukrainian news site\; no government page could
-  be opened)\, День вишиванки 2026 https://novyny.live/svyata
- /den-vishivanki-2026-koli-ta-iak-sviatkuiut-v-ukrayini-322903.html Commun
- ities: Ukrainian Minnesota
+DESCRIPTION:Ukrainian embroidered dress and identity\; MPR described the 
+ vyshyvanka as a form of spiritual armor in Ukrainian culture. Date: Third
+  Thursday of May. Source: Novyny.LIVE (Ukrainian news site\; no governmen
+ t page could be opened)\, День вишиванки 2026 https://novyny
+ .live/svyata/den-vishivanki-2026-koli-ta-iak-sviatkuiut-v-ukrayini-322903
+ .html Communities: Ukrainian Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1954,10 +1983,10 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:Ukrainian Independence Day
-DESCRIPTION:Independence in 1991. Date: August 24. Source: Donetsk Region
- al State Administration (Ukraine)\, The birth of the holiday: Independenc
- e Day 1991 https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dn
- ia-nezalezhnosti-ukrainy-u-1991-rotsi Communities: Ukrainian Minnesota
+DESCRIPTION:Ukraine's declaration of independence from the Soviet Union i
+ n 1991. Date: August 24. Source: Fixed date (FOX 9\; UACC) https://www.fo
+ x9.com/news/minnesotans-join-ukraines-independence-day-celebrations-confl
+ ict-rages Communities: Ukrainian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3066,6 +3095,21 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:christmas-december-25-2026-12-25@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Christmas (December 25)
+DESCRIPTION:The birth of Jesus. Date: December 25 (Gregorian or Revised J
+ ulian calendar). Christmas Eve Holy Supper on Dec. 24. Source: Fixed date
+ \; Ukraine moved official Christmas to Dec. 25 in 2023 (Catholic Review/O
+ SV News) https://catholicreview.org/ukraine-officially-moves-christmas-ob
+ servance-to-dec-25-in-huge-cultural-shift/print/ Communities: Ukrainian M
+ innesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:kwanzaa-first-day-2026-12-26@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261226
@@ -3451,6 +3495,19 @@ DESCRIPTION:The start of the full-scale war in 2022\, which divided some
  xed anniversary date) https://ccxmedia.org/news/plymouth-newspaper-keeps-
  russian-speaking-immigrants-informed-on-ukraine/ Communities: Russian-spe
  aking Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:anniversary-of-russias-fullscale-invasion-2027-02-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Anniversary of Russia's full-scale invasion
+DESCRIPTION:Russia's full-scale invasion of Ukraine on Feb. 24\, 2022\, a
+ nd those lost since. Date: February 24. Source: Fixed date https://www.mn
+ hs.org/mnopedia/search/index/group/ukrainian-american-community-northeast
+ -minneapolis Communities: Ukrainian Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4157,10 +4214,9 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
 SUMMARY:Ukrainian Independence Day
-DESCRIPTION:Independence in 1991. Date: August 24. Source: Donetsk Region
- al State Administration (Ukraine)\, The birth of the holiday: Independenc
- e Day 1991 https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dn
- ia-nezalezhnosti-ukrainy-u-1991-rotsi Communities: Ukrainian Minnesota
+DESCRIPTION:Ukraine's declaration of independence from the Soviet Union i
+ n 1991. Date: August 24. Source: Fixed date https://old.uaccmn.org/30-yea
+ rs-of-ukrainian-independence/ Communities: Ukrainian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4275,6 +4331,20 @@ DESCRIPTION:Start of the 1810 war of independence. Date: September 16. Co
  scanso-obligatorio-para-este-2026 Communities: Latino Minnesota\, Mexican
   Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ukrainian-festival-of-minnesota-2027-09-17@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270919
+SUMMARY:Ukrainian Festival of Minnesota
+DESCRIPTION:A celebration and sharing of Ukrainian culture\; donations su
+ pport humanitarian aid for Ukraine. Date: Normally the third weekend of S
+ eptember\, announced each year by the festival organizers. Source: Ukrain
+ ian Festival MN https://ukrainianfestivalmn.com/ Communities: Ukrainian M
+ innesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4621,6 +4691,19 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:christmas-december-25-2027-12-25@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Christmas (December 25)
+DESCRIPTION:The birth of Jesus. Date: December 25 (Gregorian or Revised J
+ ulian calendar). Christmas Eve Holy Supper on Dec. 24. Source: Fixed date
+  https://catholicreview.org/ukraine-officially-moves-christmas-observance
+ -to-dec-25-in-huge-cultural-shift/print/ Communities: Ukrainian Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:kwanzaa-first-day-2027-12-26@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271226
@@ -4960,6 +5043,19 @@ DESCRIPTION:The start of the full-scale war in 2022\, which divided some
  xed anniversary date) https://ccxmedia.org/news/plymouth-newspaper-keeps-
  russian-speaking-immigrants-informed-on-ukraine/ Communities: Russian-spe
  aking Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:anniversary-of-russias-fullscale-invasion-2028-02-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280224
+DTEND;VALUE=DATE:20280225
+SUMMARY:Anniversary of Russia's full-scale invasion
+DESCRIPTION:Russia's full-scale invasion of Ukraine on Feb. 24\, 2022\, a
+ nd those lost since. Date: February 24. Source: Fixed date https://www.mn
+ hs.org/mnopedia/search/index/group/ukrainian-american-community-northeast
+ -minneapolis Communities: Ukrainian Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5581,10 +5677,9 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280824
 DTEND;VALUE=DATE:20280825
 SUMMARY:Ukrainian Independence Day
-DESCRIPTION:Independence in 1991. Date: August 24. Source: Donetsk Region
- al State Administration (Ukraine)\, The birth of the holiday: Independenc
- e Day 1991 https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dn
- ia-nezalezhnosti-ukrainy-u-1991-rotsi Communities: Ukrainian Minnesota
+DESCRIPTION:Ukraine's declaration of independence from the Soviet Union i
+ n 1991. Date: August 24. Source: Fixed date https://old.uaccmn.org/30-yea
+ rs-of-ukrainian-independence/ Communities: Ukrainian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5985,6 +6080,19 @@ DESCRIPTION:Birth of Jesus. Date: December 25. Source: Minnesota Revisor
  esota\, Korean Minnesota\, Latino Minnesota\, Lebanese Minnesota\, Liberi
  an Minnesota\, Mexican Minnesota\, Minnesota culture\, Nigerian Minnesota
  \, Puerto Rican Minnesota\, Salvadoran Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:christmas-december-25-2028-12-25@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Christmas (December 25)
+DESCRIPTION:The birth of Jesus. Date: December 25 (Gregorian or Revised J
+ ulian calendar). Christmas Eve Holy Supper on Dec. 24. Source: Fixed date
+  https://catholicreview.org/ukraine-officially-moves-christmas-observance
+ -to-dec-25-in-huge-cultural-shift/print/ Communities: Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
