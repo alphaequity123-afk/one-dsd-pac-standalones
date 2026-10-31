@@ -15,7 +15,7 @@
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): french, minnesota, american, european-american now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): french, minnesota, american, european-american now running. Second pass started on karen (the first of the 10 thin communities below).
 
 ## Next, after the 28 communities
 
