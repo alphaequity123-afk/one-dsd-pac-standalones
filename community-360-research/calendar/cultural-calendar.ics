@@ -104,11 +104,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:New Year (Novy God)
-DESCRIPTION:The major secular winter holiday from the Soviet era\, still 
- central for some families. Date: January 1. Source: Minnesota Revisor of 
- Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday definition) https://www.re
- visor.mn.gov/statutes/cite/645.44 Communities: Russian-speaking Minnesota
- \, Ukrainian Minnesota
+DESCRIPTION:The new year\; in Soviet times it replaced Christmas as the m
+ ain family winter holiday. Date: January 1\, with the main celebration on
+  the night of December 31. Source: Minnesota Revisor of Statutes\, Minn. 
+ Stat. 645.44 subd. 5 (Holiday definition) https://www.revisor.mn.gov/stat
+ utes/cite/645.44 Communities: Russian-speaking Minnesota\, Ukrainian Minn
+ esota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -147,14 +148,14 @@ UID:orthodox-christmas-julian-calendar-2026-01-07@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260108
-SUMMARY:Orthodox Christmas (Julian calendar)
+SUMMARY:Orthodox Christmas (Božić)
 DESCRIPTION:Christmas for churches on the Julian calendar. Date: December
   25 on the Julian calendar\, which is January 7 on the Gregorian calendar
-  in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses Decemb
- er 25 on the Revised Julian calendar. Source: Russian Federation Labour C
- ode Article 112\, via ConsultantPlus https://www.consultant.ru/document/c
- ons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/ Communities: 
- Bosnian Minnesota\, Russian-speaking Minnesota\, Ukrainian Minnesota
+  from 1900 to 2099. Each entry below is the January 7 that falls in that 
+ calendar year. Source: 2026 public holiday list (Paragraf.ba): Badnji dan
+  i Božić (za pravoslavce)\, Jan. 6 and 7 https://www.paragraf.ba/neradn
+ i-dani-republike-srpske.html Communities: Bosnian Minnesota\, Russian-spe
+ aking Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -312,6 +313,20 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:anniversary-of-the-2021-myanmar-military-coup-2026-02-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Anniversary of the 2021 Myanmar military coup
+DESCRIPTION:The military's seizure of power on Feb. 1\, 2021 and the civi
+ l war that followed. Date: February 1 each year. Source: Fixed date\; McC
+ ollum release states the coup anniversary is Feb. 1 https://mccollum.hous
+ e.gov/media/press-releases/mccollum-huizenga-establish-first-ever-congres
+ sional-burma-caucus Communities: Burmese Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:karen-national-day-2026-02-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260211
@@ -330,10 +345,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260212
 DTEND;VALUE=DATE:20260213
 SUMMARY:Union Day (Myanmar)
-DESCRIPTION:The 1947 Panglong Agreement. Date: February 12. Source: Myanm
- ar Department of Civil Aviation\, AIC A 03/2026\, Myanmar Public Holidays
-  for Year 2026 https://ais.gov.mm/wp-content/uploads/2025/12/AIC-03-2026.
- pdf Communities: Burmese Minnesota
+DESCRIPTION:The Panglong Agreement\, signed Feb. 12\, 1947 by Aung San an
+ d leaders of several ethnic groups to bring the nationalities together. D
+ ate: February 12 each year. Source: Fixed date stated by Burma News Inter
+ national https://www.bnionline.net/en/news/71st-union-day-celebrated-thro
+ ughout-myanmar Communities: Burmese Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -398,6 +414,19 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:maslenitsa-at-tmora-2026-event-2026-02-17@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Maslenitsa at TMORA (2026 event)
+DESCRIPTION:Maslenitsa\, the farewell to winter before Lent. Date: Announ
+ ced each year by The Museum of Russian Art. Source: The Museum of Russian
+  Art https://tmora.org/programs/maslenitsa-russian-pancakes-songs/ Commun
+ ities: Russian-speaking Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tết-nguyên-đán-2026-02-17@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260217
@@ -458,6 +487,21 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:anniversary-of-russias-fullscale-invasion-of-ukraine-2026-02-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:Anniversary of Russia's full-scale invasion of Ukraine
+DESCRIPTION:The start of the full-scale war in 2022\, which divided some 
+ families and friendships and brought new arrivals from both Ukraine and R
+ ussia. Date: February 24 each year (2022 invasion). Source: CCX Media (fi
+ xed anniversary date) https://ccxmedia.org/news/plymouth-newspaper-keeps-
+ russian-speaking-immigrants-informed-on-ukraine/ Communities: Russian-spe
+ aking Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:twin-cities-dumpling-feast-2026-02-25@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260225
@@ -492,10 +536,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 SUMMARY:Bosnia and Herzegovina Independence Day
-DESCRIPTION:The 1992 independence referendum. Date: March 1. Source: Univ
- ersity of Sarajevo School of Economics and Business\, Notice on March 1 I
- ndependence Day of Bosnia and Herzegovina (2026) https://www.efsa.unsa.ba
- /ef/en/node/6034 Communities: Bosnian Minnesota
+DESCRIPTION:The 1992 independence referendum (63.4 percent turnout\, 99.7
+  percent in favor). Observed in the Federation of Bosnia and Herzegovina\
+ ; Republika Srpska does not observe it. Date: March 1 each year. Source: 
+ N1 Sarajevo: March 1 marks Independence Day https://n1info.ba/english/new
+ s/bosnia-and-herzegovina-marks-independence-day/ Communities: Bosnian Min
+ nesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -564,6 +610,24 @@ DESCRIPTION:New year. Date: New year on the Hindu lunar calendar. Source:
   HinduTone https://hindutone.com/global-hindu-presence/usa/ugadi-celebrat
  ions-usa-state-wise-city-wise-guide/ Communities: Indian (Asian Indian) M
  innesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:eid-alfitr-2026-03-20@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260322
+SUMMARY:Ramazanski bajram (Eid al-Fitr)
+DESCRIPTION:End of the Ramadan fast. In Bosnia the second day is marked a
+ s the Day of the Martyrs. Date: First day of Shawwal\, the tenth Islamic 
+ month\, after Ramadan ends. The Islamic Community in Bosnia and Herzegovi
+ na sets the date by its calculated calendar\; Minnesota mosques may follo
+ w it or moon sighting\, and may differ by a day. Source: Islamic Communit
+ y in Bosnia and Herzegovina calendar\, reported by N1 Sarajevo (Bosnia da
+ te\; Minnesota observance not confirmed) https://n1info.ba/english/news/b
+ osnias-islamic-community-announces-official-schedule-for-eid-al-fitr-2026
+  Communities: Bosnian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -704,13 +768,16 @@ BEGIN:VEVENT
 UID:thingyan-2026-04-13@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-SUMMARY:Thingyan
-DESCRIPTION:Traditional Burmese new year. Date: Mid-April\, calculated fr
- om the traditional Myanmar calendar. Source: Myanmar Department of Civil 
- Aviation\, AIC A 03/2026\, Myanmar Public Holidays for Year 2026 https://
- ais.gov.mm/wp-content/uploads/2025/12/AIC-03-2026.pdf Communities: Burmes
- e Minnesota
+DTEND;VALUE=DATE:20260417
+SUMMARY:Thingyan (Water Festival and Burmese New Year)
+DESCRIPTION:The passage from the old year to the new in the Myanmar calen
+ dar\; water is thrown to wash away bad luck\, and elders and monks are ho
+ nored. Date: Mid-April\, set each year from the traditional Myanmar lunis
+ olar calendar by Myanmar's calendar board\; usually about four water days
+  before New Year's Day. Minnesota gatherings fall on a nearby weekend in 
+ April or May. Source: Myanmar Department of Civil Aviation\, AIC A 03/202
+ 6\, Myanmar Public Holidays for Year 2026 https://ais.gov.mm/wp-content/u
+ ploads/2025/12/AIC-03-2026.pdf Communities: Burmese Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -981,11 +1048,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:Victory Day (May 9)
-DESCRIPTION:The 1945 end of the Second World War in Europe in Soviet memo
- ry\; meaningful to some elders and contested by others since 2022. Date: 
- May 9. Source: Russian Federation Labour Code Article 112\, via Consultan
- tPlus https://www.consultant.ru/document/cons_doc_LAW_34683/98ef290050776
- 6e70ff29c0b9d8e2353ea80a1cf/ Communities: Russian-speaking Minnesota
+DESCRIPTION:The 1945 end of the Second World War in Europe\, as remembere
+ d in the Soviet Union and its successor states. Date: May 9 each year. So
+ urce: Russian Federation Labour Code Article 112\, via ConsultantPlus htt
+ ps://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c
+ 0b9d8e2353ea80a1cf/ Communities: Russian-speaking Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1156,18 +1223,35 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:eid-aladha-2026-05-27@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260529
+SUMMARY:Kurban bajram (Eid al-Adha)
+DESCRIPTION:Festival of sacrifice during the Hajj season. In Bosnia\, N1 
+ reports\, families mark it by dividing a sacrificed sheep into three part
+ s: for home\, for relatives and for the poor. Date: Tenth day of Dhu al-H
+ ijjah\, the twelfth Islamic month\; calculated or moon-sighted\, so it ca
+ n differ by a day. Source: 2026 public holiday list (Paragraf.ba)\, Bosni
+ a\; notes Islamic dates may differ by one day https://www.paragraf.ba/ner
+ adni-dani-republike-srpske.html Communities: Bosnian Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:visakha-bucha-2026-05-31@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
-SUMMARY:Visakha Bucha
-DESCRIPTION:Birth\, enlightenment and death of the Buddha in Theravada tr
- adition. Date: Full moon of the sixth lunar month in the Thai and Cambodi
- an calendars\, usually in May\; temples may choose a nearby weekend. Sour
- ce: Human Resources Online\, Full list of Thailand's 2026 public holidays
-  (reports the Bank of Thailand list) https://www.humanresourcesonline.net
- /full-list-of-thailand-s-2026-public-holidays Communities: Burmese Minnes
- ota\, Cambodian Minnesota\, Lao Minnesota\, Thai Minnesota
+SUMMARY:Full Moon of Kasone (Buddha Day)
+DESCRIPTION:The birth\, enlightenment and passing of the Buddha in Therav
+ ada tradition. Date: Full moon of the Myanmar month of Kasone\, usually A
+ pril or May. The Myanmar date can differ by a month from the Thai date in
+  some years\; the seed's Thai dates were replaced with Myanmar calculatio
+ ns. Source: Human Resources Online\, Full list of Thailand's 2026 public 
+ holidays (reports the Bank of Thailand list) https://www.humanresourceson
+ line.net/full-list-of-thailand-s-2026-public-holidays Communities: Burmes
+ e Minnesota\, Cambodian Minnesota\, Lao Minnesota\, Thai Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1408,11 +1492,14 @@ UID:srebrenica-genocide-memorial-day-2026-07-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
-SUMMARY:Srebrenica Genocide Memorial Day
-DESCRIPTION:The July 1995 genocide at Srebrenica. Date: July 11. Source: 
- United Nations\, International Day of Reflection and Commemoration of the
-  1995 Genocide in Srebrenica https://www.un.org/en/observances/srebrenica
- -genocide-commemoration-day Communities: Bosnian Minnesota
+SUMMARY:Srebrenica Genocide Remembrance Day
+DESCRIPTION:The July 1995 genocide at Srebrenica\, when Bosnian Serb forc
+ es overran a U.N. safe area and killed at least 8\,000 Bosniak men and bo
+ ys. Date: July 11 each year. Designated by the U.N. General Assembly on M
+ ay 23\, 2024. Source: U.N. General Assembly resolution 78/282 designates 
+ July 11 annually https://www.clickondetroit.com/news/world/2024/05/23/un-
+ will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-se
+ rbs-vehemently-oppose/ Communities: Bosnian Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1574,14 +1661,14 @@ UID:asanha-bucha-and-start-of-buddhist-lent-2026-07-29@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-SUMMARY:Asanha Bucha and start of Buddhist Lent
-DESCRIPTION:The Buddha's first sermon\, and the start of the three-month 
- rains retreat. Date: Full moon of the eighth lunar month\, usually July\;
-  the rains retreat starts the next day. Source: Human Resources Online\, 
- Full list of Thailand's 2026 public holidays (reports the Bank of Thailan
- d list) https://www.humanresourcesonline.net/full-list-of-thailand-s-2026
- -public-holidays Communities: Burmese Minnesota\, Cambodian Minnesota\, L
- ao Minnesota
+SUMMARY:Waso Full Moon and Robe Offering (start of Buddhist Lent)
+DESCRIPTION:The Buddha's first sermon and the start of Vassa\, the three-
+ month retreat for monks. Date: Full moon of the Myanmar month of Waso\, u
+ sually July\; the temple's robe offering follows shortly after. Source: H
+ uman Resources Online\, Full list of Thailand's 2026 public holidays (rep
+ orts the Bank of Thailand list) https://www.humanresourcesonline.net/full
+ -list-of-thailand-s-2026-public-holidays Communities: Burmese Minnesota\,
+  Cambodian Minnesota\, Lao Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1692,6 +1779,22 @@ DESCRIPTION:Black business achievement. Date: Announced each year by the
  8/13/minnesota-black-business-hall-of-fame-inaugural-class/ Communities: 
  African American Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:st-panteleimon-patronal-feast-minneapolis-2026-08-08@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260810
+SUMMARY:St. Panteleimon Patronal Feast (Minneapolis)
+DESCRIPTION:The parish's patron saint\, a healer\; in 2026 also the paris
+ h's 70th anniversary (1956-2026). Date: Feast of St. Panteleimon\, July 2
+ 7 on the Julian calendar (August 9 Gregorian)\, with the vigil the evenin
+ g before. The parish sets its own celebration days. Source: St. Panteleim
+ on Russian Orthodox Church https://spro.church/celebration-of-patronal-fe
+ ast-and-70th-anniversary-of-st-panteleimon-parish/ Communities: Russian-s
+ peaking Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2124,6 +2227,20 @@ SUMMARY:Johnny Appleseed Festival
 DESCRIPTION:Town life and local history. Date: Set by organizers. Source:
   KROC News https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-d
  rive/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:karenni-deeku-festival-2026-09-19@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:Karenni DeeKu Festival
+DESCRIPTION:A Karenni victory over Yuan invaders\, and unity\, symbolized
+  by DeeKu tied in bundles of three. Date: A September weekend chosen each
+  year by the Karenni Community of Minnesota. Source: Karen Organization o
+ f Minnesota listing for the Karenni Community of Minnesota https://mnkare
+ n.org/event/karenni-deeku-festival-2026/ Communities: Burmese Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2785,6 +2902,21 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:bosnia-and-herzegovina-statehood-day-2026-11-25@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Bosnia and Herzegovina Statehood Day
+DESCRIPTION:The first session of the State Anti-Fascist Council for the N
+ ational Liberation of Bosnia and Herzegovina in Mrkonjić Grad\, Nov. 25\
+ , 1943. Date: November 25 each year. Source: N1 Sarajevo and Sarajevo Cit
+ y Hall: November 25 is Statehood Day https://n1info.ba/english/news/bosni
+ a-and-herzegovina-celebrates-statehood-day/ Communities: Bosnian Minnesot
+ a
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:thanksgiving-2026-11-26@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261126
@@ -3020,11 +3152,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:New Year (Novy God)
-DESCRIPTION:The major secular winter holiday from the Soviet era\, still 
- central for some families. Date: January 1. Source: Minnesota Revisor of 
- Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday definition) https://www.re
- visor.mn.gov/statutes/cite/645.44 Communities: Russian-speaking Minnesota
- \, Ukrainian Minnesota
+DESCRIPTION:The new year\; in Soviet times it replaced Christmas as the m
+ ain family winter holiday. Date: January 1\, with the main celebration on
+  the night of December 31. Source: Minnesota Revisor of Statutes\, Minn. 
+ Stat. 645.44 subd. 5 (Holiday definition) https://www.revisor.mn.gov/stat
+ utes/cite/645.44 Communities: Russian-speaking Minnesota\, Ukrainian Minn
+ esota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3065,14 +3198,14 @@ UID:orthodox-christmas-julian-calendar-2027-01-07@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:Orthodox Christmas (Julian calendar)
+SUMMARY:Orthodox Christmas (Božić)
 DESCRIPTION:Christmas for churches on the Julian calendar. Date: December
   25 on the Julian calendar\, which is January 7 on the Gregorian calendar
-  in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses Decemb
- er 25 on the Revised Julian calendar. Source: Russian Federation Labour C
- ode Article 112\, via ConsultantPlus https://www.consultant.ru/document/c
- ons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/ Communities: 
- Bosnian Minnesota\, Russian-speaking Minnesota\, Ukrainian Minnesota
+  from 1900 to 2099. Each entry below is the January 7 that falls in that 
+ calendar year. Source: Russian Federation Labour Code Article 112\, via C
+ onsultantPlus https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2
+ 900507766e70ff29c0b9d8e2353ea80a1cf/ Communities: Bosnian Minnesota\, Rus
+ sian-speaking Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3188,6 +3321,19 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:anniversary-of-the-2021-myanmar-military-coup-2027-02-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Anniversary of the 2021 Myanmar military coup
+DESCRIPTION:The military's seizure of power on Feb. 1\, 2021 and the civi
+ l war that followed. Date: February 1 each year. Source: Fixed date https
+ ://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-fi
+ rst-ever-congressional-burma-caucus Communities: Burmese Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:lunar-new-year-2027-02-06@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270206
@@ -3248,6 +3394,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:union-day-myanmar-2027-02-12@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Union Day (Myanmar)
+DESCRIPTION:The Panglong Agreement\, signed Feb. 12\, 1947 by Aung San an
+ d leaders of several ethnic groups to bring the nationalities together. D
+ ate: February 12 each year. Source: Fixed date stated by Burma News Inter
+ national https://www.bnionline.net/en/news/71st-union-day-celebrated-thro
+ ughout-myanmar Communities: Burmese Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:day-of-remembrance-executive-order-9066-2027-02-19@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270219
@@ -3280,6 +3440,21 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:anniversary-of-russias-fullscale-invasion-of-ukraine-2027-02-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Anniversary of Russia's full-scale invasion of Ukraine
+DESCRIPTION:The start of the full-scale war in 2022\, which divided some 
+ families and friendships and brought new arrivals from both Ukraine and R
+ ussia. Date: February 24 each year (2022 invasion). Source: CCX Media (fi
+ xed anniversary date) https://ccxmedia.org/news/plymouth-newspaper-keeps-
+ russian-speaking-immigrants-informed-on-ukraine/ Communities: Russian-spe
+ aking Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:edsa-people-power-anniversary-2027-02-25@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270225
@@ -3298,10 +3473,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Bosnia and Herzegovina Independence Day
-DESCRIPTION:The 1992 independence referendum. Date: March 1. Source: Univ
- ersity of Sarajevo School of Economics and Business\, Notice on March 1 I
- ndependence Day of Bosnia and Herzegovina (2026) https://www.efsa.unsa.ba
- /ef/en/node/6034 Communities: Bosnian Minnesota
+DESCRIPTION:The 1992 independence referendum (63.4 percent turnout\, 99.7
+  percent in favor). Observed in the Federation of Bosnia and Herzegovina\
+ ; Republika Srpska does not observe it. Date: March 1 each year. Source: 
+ Fixed date\, N1 Sarajevo https://n1info.ba/english/news/bosnia-and-herzeg
+ ovina-marks-independence-day/ Communities: Bosnian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3515,11 +3691,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Victory Day (May 9)
-DESCRIPTION:The 1945 end of the Second World War in Europe in Soviet memo
- ry\; meaningful to some elders and contested by others since 2022. Date: 
- May 9. Source: Russian Federation Labour Code Article 112\, via Consultan
- tPlus https://www.consultant.ru/document/cons_doc_LAW_34683/98ef290050776
- 6e70ff29c0b9d8e2353ea80a1cf/ Communities: Russian-speaking Minnesota
+DESCRIPTION:The 1945 end of the Second World War in Europe\, as remembere
+ d in the Soviet Union and its successor states. Date: May 9 each year. So
+ urce: Russian Federation Labour Code Article 112\, via ConsultantPlus htt
+ ps://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c
+ 0b9d8e2353ea80a1cf/ Communities: Russian-speaking Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3623,14 +3799,15 @@ UID:visakha-bucha-2027-05-20@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:Visakha Bucha
-DESCRIPTION:Birth\, enlightenment and death of the Buddha in Theravada tr
- adition. Date: Full moon of the sixth lunar month in the Thai and Cambodi
- an calendars\, usually in May\; temples may choose a nearby weekend. Sour
- ce: Bank of Thailand\, Notification No. 37/2569\, Financial institutions 
- holidays for B.E. 2570 (2027) https://www.bot.or.th/content/dam/bot/fipcs
- /documents/FPG/2569/EngPDF/25690175.pdf Communities: Burmese Minnesota\, 
- Cambodian Minnesota\, Lao Minnesota\, Thai Minnesota
+SUMMARY:Full Moon of Kasone (Buddha Day)
+DESCRIPTION:The birth\, enlightenment and passing of the Buddha in Therav
+ ada tradition. Date: Full moon of the Myanmar month of Kasone\, usually A
+ pril or May. The Myanmar date can differ by a month from the Thai date in
+  some years\; the seed's Thai dates were replaced with Myanmar calculatio
+ ns. Source: Bank of Thailand\, Notification No. 37/2569\, Financial insti
+ tutions holidays for B.E. 2570 (2027) https://www.bot.or.th/content/dam/b
+ ot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf Communities: Burmese Minn
+ esota\, Cambodian Minnesota\, Lao Minnesota\, Thai Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3788,11 +3965,14 @@ UID:srebrenica-genocide-memorial-day-2027-07-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
-SUMMARY:Srebrenica Genocide Memorial Day
-DESCRIPTION:The July 1995 genocide at Srebrenica. Date: July 11. Source: 
- United Nations\, International Day of Reflection and Commemoration of the
-  1995 Genocide in Srebrenica https://www.un.org/en/observances/srebrenica
- -genocide-commemoration-day Communities: Bosnian Minnesota
+SUMMARY:Srebrenica Genocide Remembrance Day
+DESCRIPTION:The July 1995 genocide at Srebrenica\, when Bosnian Serb forc
+ es overran a U.N. safe area and killed at least 8\,000 Bosniak men and bo
+ ys. Date: July 11 each year. Designated by the U.N. General Assembly on M
+ ay 23\, 2024. Source: Fixed date\, U.N. resolution https://www.clickondet
+ roit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-sre
+ brenica-genocide-annually-which-serbs-vehemently-oppose/ Communities: Bos
+ nian Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3813,14 +3993,14 @@ UID:asanha-bucha-and-start-of-buddhist-lent-2027-07-18@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
-SUMMARY:Asanha Bucha and start of Buddhist Lent
-DESCRIPTION:The Buddha's first sermon\, and the start of the three-month 
- rains retreat. Date: Full moon of the eighth lunar month\, usually July\;
-  the rains retreat starts the next day. Source: Bank of Thailand\, Notifi
- cation No. 37/2569\, Financial institutions holidays for B.E. 2570 (2027)
-  https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25
- 690175.pdf Communities: Burmese Minnesota\, Cambodian Minnesota\, Lao Min
- nesota\, Thai Minnesota
+SUMMARY:Waso Full Moon and Robe Offering (start of Buddhist Lent)
+DESCRIPTION:The Buddha's first sermon and the start of Vassa\, the three-
+ month retreat for monks. Date: Full moon of the Myanmar month of Waso\, u
+ sually July\; the temple's robe offering follows shortly after. Source: B
+ ank of Thailand\, Notification No. 37/2569\, Financial institutions holid
+ ays for B.E. 2570 (2027) https://www.bot.or.th/content/dam/bot/fipcs/docu
+ ments/FPG/2569/EngPDF/25690175.pdf Communities: Burmese Minnesota\, Cambo
+ dian Minnesota\, Lao Minnesota\, Thai Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4310,6 +4490,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:bosnia-and-herzegovina-statehood-day-2027-11-25@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:Bosnia and Herzegovina Statehood Day
+DESCRIPTION:The first session of the State Anti-Fascist Council for the N
+ ational Liberation of Bosnia and Herzegovina in Mrkonjić Grad\, Nov. 25\
+ , 1943. Date: November 25 each year. Source: Fixed date https://n1info.ba
+ /english/news/bosnia-and-herzegovina-celebrates-statehood-day/ Communitie
+ s: Bosnian Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:sweet-december-2027-11-30@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271130
@@ -4512,11 +4706,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280101
 DTEND;VALUE=DATE:20280102
 SUMMARY:New Year (Novy God)
-DESCRIPTION:The major secular winter holiday from the Soviet era\, still 
- central for some families. Date: January 1. Source: Minnesota Revisor of 
- Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday definition) https://www.re
- visor.mn.gov/statutes/cite/645.44 Communities: Russian-speaking Minnesota
- \, Ukrainian Minnesota
+DESCRIPTION:The new year\; in Soviet times it replaced Christmas as the m
+ ain family winter holiday. Date: January 1\, with the main celebration on
+  the night of December 31. Source: Minnesota Revisor of Statutes\, Minn. 
+ Stat. 645.44 subd. 5 (Holiday definition) https://www.revisor.mn.gov/stat
+ utes/cite/645.44 Communities: Russian-speaking Minnesota\, Ukrainian Minn
+ esota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4541,14 +4736,14 @@ UID:orthodox-christmas-julian-calendar-2028-01-07@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280107
 DTEND;VALUE=DATE:20280108
-SUMMARY:Orthodox Christmas (Julian calendar)
+SUMMARY:Orthodox Christmas (Božić)
 DESCRIPTION:Christmas for churches on the Julian calendar. Date: December
   25 on the Julian calendar\, which is January 7 on the Gregorian calendar
-  in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses Decemb
- er 25 on the Revised Julian calendar. Source: Russian Federation Labour C
- ode Article 112\, via ConsultantPlus https://www.consultant.ru/document/c
- ons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/ Communities: 
- Bosnian Minnesota\, Russian-speaking Minnesota\, Ukrainian Minnesota
+  from 1900 to 2099. Each entry below is the January 7 that falls in that 
+ calendar year. Source: Russian Federation Labour Code Article 112\, via C
+ onsultantPlus https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2
+ 900507766e70ff29c0b9d8e2353ea80a1cf/ Communities: Bosnian Minnesota\, Rus
+ sian-speaking Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4698,6 +4893,19 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:anniversary-of-the-2021-myanmar-military-coup-2028-02-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280201
+DTEND;VALUE=DATE:20280202
+SUMMARY:Anniversary of the 2021 Myanmar military coup
+DESCRIPTION:The military's seizure of power on Feb. 1\, 2021 and the civi
+ l war that followed. Date: February 1 each year. Source: Fixed date https
+ ://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-fi
+ rst-ever-congressional-burma-caucus Communities: Burmese Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:karen-national-day-2028-02-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280211
@@ -4707,6 +4915,20 @@ DESCRIPTION:A February 11\, 1948 demonstration in which Karen people call
  ed for their own homeland. Date: February 11. Source: Karen Organization 
  of Minnesota states February 11 https://mnkaren.org/history-culture/karen
  -culture/celebrations/ Communities: Karen Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:union-day-myanmar-2028-02-12@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280212
+DTEND;VALUE=DATE:20280213
+SUMMARY:Union Day (Myanmar)
+DESCRIPTION:The Panglong Agreement\, signed Feb. 12\, 1947 by Aung San an
+ d leaders of several ethnic groups to bring the nationalities together. D
+ ate: February 12 each year. Source: Fixed date stated by Burma News Inter
+ national https://www.bnionline.net/en/news/71st-union-day-celebrated-thro
+ ughout-myanmar Communities: Burmese Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4723,6 +4945,21 @@ DESCRIPTION:The signing of Executive Order 9066 on February 19\, 1942\, w
   date. Source: Fixed date stated by MNopedia https://www.mnhs.org/mnopedi
  a/search/index/person/tanbara-ruth-nomura-1907-2008 Communities: Japanese
   Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:anniversary-of-russias-fullscale-invasion-of-ukraine-2028-02-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280224
+DTEND;VALUE=DATE:20280225
+SUMMARY:Anniversary of Russia's full-scale invasion of Ukraine
+DESCRIPTION:The start of the full-scale war in 2022\, which divided some 
+ families and friendships and brought new arrivals from both Ukraine and R
+ ussia. Date: February 24 each year (2022 invasion). Source: CCX Media (fi
+ xed anniversary date) https://ccxmedia.org/news/plymouth-newspaper-keeps-
+ russian-speaking-immigrants-informed-on-ukraine/ Communities: Russian-spe
+ aking Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4745,10 +4982,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280301
 DTEND;VALUE=DATE:20280302
 SUMMARY:Bosnia and Herzegovina Independence Day
-DESCRIPTION:The 1992 independence referendum. Date: March 1. Source: Univ
- ersity of Sarajevo School of Economics and Business\, Notice on March 1 I
- ndependence Day of Bosnia and Herzegovina (2026) https://www.efsa.unsa.ba
- /ef/en/node/6034 Communities: Bosnian Minnesota
+DESCRIPTION:The 1992 independence referendum (63.4 percent turnout\, 99.7
+  percent in favor). Observed in the Federation of Bosnia and Herzegovina\
+ ; Republika Srpska does not observe it. Date: March 1 each year. Source: 
+ Fixed date\, N1 Sarajevo https://n1info.ba/english/news/bosnia-and-herzeg
+ ovina-marks-independence-day/ Communities: Bosnian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4974,11 +5212,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280509
 DTEND;VALUE=DATE:20280510
 SUMMARY:Victory Day (May 9)
-DESCRIPTION:The 1945 end of the Second World War in Europe in Soviet memo
- ry\; meaningful to some elders and contested by others since 2022. Date: 
- May 9. Source: Russian Federation Labour Code Article 112\, via Consultan
- tPlus https://www.consultant.ru/document/cons_doc_LAW_34683/98ef290050776
- 6e70ff29c0b9d8e2353ea80a1cf/ Communities: Russian-speaking Minnesota
+DESCRIPTION:The 1945 end of the Second World War in Europe\, as remembere
+ d in the Soviet Union and its successor states. Date: May 9 each year. So
+ urce: Russian Federation Labour Code Article 112\, via ConsultantPlus htt
+ ps://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c
+ 0b9d8e2353ea80a1cf/ Communities: Russian-speaking Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5207,11 +5445,14 @@ UID:srebrenica-genocide-memorial-day-2028-07-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280711
 DTEND;VALUE=DATE:20280712
-SUMMARY:Srebrenica Genocide Memorial Day
-DESCRIPTION:The July 1995 genocide at Srebrenica. Date: July 11. Source: 
- United Nations\, International Day of Reflection and Commemoration of the
-  1995 Genocide in Srebrenica https://www.un.org/en/observances/srebrenica
- -genocide-commemoration-day Communities: Bosnian Minnesota
+SUMMARY:Srebrenica Genocide Remembrance Day
+DESCRIPTION:The July 1995 genocide at Srebrenica\, when Bosnian Serb forc
+ es overran a U.N. safe area and killed at least 8\,000 Bosniak men and bo
+ ys. Date: July 11 each year. Designated by the U.N. General Assembly on M
+ ay 23\, 2024. Source: Fixed date\, U.N. resolution https://www.clickondet
+ roit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-sre
+ brenica-genocide-annually-which-serbs-vehemently-oppose/ Communities: Bos
+ nian Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5613,6 +5854,20 @@ DESCRIPTION:United States harvest and thanksgiving holiday. Date: Fourth
  al Holidays https://www.opm.gov/policy-data-oversight/pay-leave/federal-h
  olidays/ Communities: American culture\, European American Minnesota\, Mi
  nnesota culture
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bosnia-and-herzegovina-statehood-day-2028-11-25@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20281125
+DTEND;VALUE=DATE:20281126
+SUMMARY:Bosnia and Herzegovina Statehood Day
+DESCRIPTION:The first session of the State Anti-Fascist Council for the N
+ ational Liberation of Bosnia and Herzegovina in Mrkonjić Grad\, Nov. 25\
+ , 1943. Date: November 25 each year. Source: Fixed date https://n1info.ba
+ /english/news/bosnia-and-herzegovina-celebrates-statehood-day/ Communitie
+ s: Bosnian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT

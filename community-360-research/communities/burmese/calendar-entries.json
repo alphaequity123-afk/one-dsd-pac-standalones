@@ -1,0 +1,589 @@
+{
+ "community": "burmese",
+ "entries": [
+  {
+   "seedId": "thingyan",
+   "name": "Thingyan (Water Festival and Burmese New Year)",
+   "alsoKnownAs": [
+    "Burmese New Year",
+    "Water Festival",
+    "Thin Gyin"
+   ],
+   "kind": "cultural",
+   "capsule": "Burmese New Year water festival in mid-April; the Chisago City temple calls it its biggest festival, with music, dance and food.",
+   "dateRule": "Mid-April, set each year from the traditional Myanmar lunisolar calendar by Myanmar's calendar board; usually about four water days before New Year's Day. Minnesota gatherings fall on a nearby weekend in April or May.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-13",
+     "endDate": "2026-04-16",
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page; New York resolution gives April 13-16 as typical",
+     "sourceUrl": "https://legislation.nysenate.gov/pdf/bills/2025/K1163",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-04-13",
+     "endDate": "2027-04-16",
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-13",
+     "endDate": "2028-04-16",
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The passage from the old year to the new in the Myanmar calendar; water is thrown to wash away bad luck, and elders and monks are honored.",
+   "howCelebratedInMinnesota": "Sitagu Dhamma Vihara in Chisago City describes its Water Festival as generally the biggest Burmese festival of the year, in April or May, with Burmese folk music and dancing rehearsed for weeks, costumes, food, getting wet, and a chance to pay respects to the monks; it says the festival is not religious and sometimes includes Karen folk culture. No dated 2026 Minnesota event was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Assembly Resolution No. 1163, Thingyan",
+     "url": "https://legislation.nysenate.gov/pdf/bills/2025/K1163",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "visakha-bucha",
+   "name": "Full Moon of Kasone (Buddha Day)",
+   "alsoKnownAs": [
+    "Visakha Bucha",
+    "Vesak",
+    "Kasone Full Moon Day",
+    "Buddha Day"
+   ],
+   "kind": "religious",
+   "capsule": "Full moon of Kasone honoring the Buddha's birth, awakening and death; the Minnesota Burmese temple society was founded on it in 2004.",
+   "dateRule": "Full moon of the Myanmar month of Kasone, usually April or May. The Myanmar date can differ by a month from the Thai date in some years; the seed's Thai dates were replaced with Myanmar calculations.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-30",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-20",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-08",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The birth, enlightenment and passing of the Buddha in Theravada tradition.",
+   "howCelebratedInMinnesota": "The society behind Sitagu Dhamma Vihara was founded on May 2, 2004, which its history calls the Kasone full moon Buddha Day. No dated Minnesota observance for 2026 was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "About the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/About/about.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "asanha-bucha-and-start-of-buddhist-lent",
+   "name": "Waso Full Moon and Robe Offering (start of Buddhist Lent)",
+   "alsoKnownAs": [
+    "Asanha Bucha",
+    "Khao Phansa",
+    "Waso"
+   ],
+   "kind": "religious",
+   "capsule": "Start of the monks' three-month rains retreat; the Chisago City temple holds a robe offering shortly after the July full moon.",
+   "dateRule": "Full moon of the Myanmar month of Waso, usually July; the temple's robe offering follows shortly after.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-29",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-18",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-06",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The Buddha's first sermon and the start of Vassa, the three-month retreat for monks.",
+   "howCelebratedInMinnesota": "Sitagu Dhamma Vihara holds a Waso robe offering generally shortly after the full moon of July; robes bought from the temple are offered to the monks, who give most back for resale as a fundraiser. No dated 2026 event was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "union-day-myanmar",
+   "name": "Union Day (Myanmar)",
+   "alsoKnownAs": [
+    "Panglong Day"
+   ],
+   "kind": "national",
+   "capsule": "February 12 marks the 1947 Panglong Agreement between Aung San and ethnic leaders; no Minnesota observance was found.",
+   "dateRule": "February 12 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-12",
+     "endDate": null,
+     "source": "Fixed date stated by Burma News International",
+     "sourceUrl": "https://www.bnionline.net/en/news/71st-union-day-celebrated-throughout-myanmar",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-12",
+     "endDate": null,
+     "source": "Fixed date stated by Burma News International",
+     "sourceUrl": "https://www.bnionline.net/en/news/71st-union-day-celebrated-throughout-myanmar",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-12",
+     "endDate": null,
+     "source": "Fixed date stated by Burma News International",
+     "sourceUrl": "https://www.bnionline.net/en/news/71st-union-day-celebrated-throughout-myanmar",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The Panglong Agreement, signed Feb. 12, 1947 by Aung San and leaders of several ethnic groups to bring the nationalities together.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "71st Union Day celebrated throughout Myanmar",
+     "url": "https://www.bnionline.net/en/news/71st-union-day-celebrated-throughout-myanmar",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Kathina (Kathein) Robe Offering",
+   "alsoKnownAs": [
+    "Kathein",
+    "Kahtein"
+   ],
+   "kind": "religious",
+   "capsule": "After the rains retreat ends in October, lay families offer robes to monks; held at the Chisago City temple.",
+   "dateRule": "Held generally after the October full moon (Thadingyut) that ends the rains retreat, within the following month, on a date the temple chooses.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The end of Vassa, when robes are offered to monks who completed the three-month retreat.",
+   "howCelebratedInMinnesota": "Sitagu Dhamma Vihara holds Kathina generally after the full moon of October, offering robes to attending monks; robes are sold by the temple as a fundraiser. No dated 2026 event was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Thadingyut (end of Buddhist Lent, Festival of Lights)",
+   "alsoKnownAs": [
+    "Thadingyut Full Moon"
+   ],
+   "kind": "religious",
+   "capsule": "October full moon ending the monks' rains retreat; marks the start of the Kathina robe-offering season. No Minnesota event found.",
+   "dateRule": "Full moon of the Myanmar month of Thadingyut, usually October; Myanmar's three-day holiday is centered on it.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-26",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page (holiday Oct. 25-27)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-15",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page (holiday Oct. 14-16)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-03",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page (holiday Oct. 2-4)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The end of Vassa, the three-month rains retreat.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Sticky Rice Festival (Htamane)",
+   "alsoKnownAs": [
+    "Thamane Pwe",
+    "Htamane Pwe"
+   ],
+   "kind": "cultural",
+   "capsule": "A February day and night of making and judging sticky rice, a Burmese festival held at the Chisago City temple.",
+   "dateRule": "Traditionally at the full moon of the Myanmar month of Tabodwe; the Minnesota temple says generally in February, on a date it sets.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A harvest-season tradition of cooking htamane, sticky rice mixed with other ingredients.",
+   "howCelebratedInMinnesota": "Sitagu Dhamma Vihara says community members gather generally in February to practice and compete in making sticky rice from early morning until late at night. No dated event found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Karenni DeeKu Festival",
+   "alsoKnownAs": [
+    "Deeku Festival"
+   ],
+   "kind": "community festival",
+   "capsule": "Karenni festival of freedom and unity named for sticky rice in bamboo leaves; held in St. Paul each September.",
+   "dateRule": "A September weekend chosen each year by the Karenni Community of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": "2026-09-20",
+     "source": "Karen Organization of Minnesota listing for the Karenni Community of Minnesota",
+     "sourceUrl": "https://mnkaren.org/event/karenni-deeku-festival-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Karenni victory over Yuan invaders, and unity, symbolized by DeeKu tied in bundles of three.",
+   "howCelebratedInMinnesota": "Held in St. Paul by the Karenni Community of Minnesota. In 2024 (Sept. 21-22) it included a youth cultural dance, young singers and DeeKu at Community School of Excellence, then volleyball and youth soccer at West Minnehaha Recreation Center and a small fundraiser. 2026 was Sept. 19-20.",
+   "minnesotaEvents": [
+    {
+     "name": "Karenni DeeKu Festival 2026",
+     "place": "St. Paul",
+     "link": "https://mnkaren.org/event/karenni-deeku-festival-2026/",
+     "organizerDates": "Sept. 19-20, 2026, Karenni Community of Minnesota",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Karenni DeeKu Festival 2024",
+     "place": "Community School of Excellence, 270 Larpenteur Ave. W., and West Minnehaha Recreation Center, St. Paul",
+     "link": "https://mnkaren.org/event/karenni-deeku-festival-2/",
+     "organizerDates": "Sept. 21-22, 2024",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Karenni DeeKu Festival 2026",
+     "url": "https://mnkaren.org/event/karenni-deeku-festival-2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Karenni DeeKu Festival (2024)",
+     "url": "https://mnkaren.org/event/karenni-deeku-festival-2/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Karenni Kay Htoe Boe Festival",
+   "alsoKnownAs": [
+    "Kay Htoe Bo"
+   ],
+   "kind": "cultural",
+   "capsule": "The most important Karenni celebration, about how the earth came to be, with pole dancing; held in St. Paul in April.",
+   "dateRule": "An April weekend chosen each year by the Karenni Community of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The story of how the earth came into being; people dance around a pole for good health.",
+   "howCelebratedInMinnesota": "In 2025 the Karenni Community of Minnesota held a main ceremony and entertainment April 19 at Como Park Senior High and a volleyball tournament April 20 at North Dale Recreation Center, St. Paul. No 2026 listing was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Karenni Kay Htoe Boe Festival 2025",
+     "place": "Como Park Senior High (740 Rose Ave. W.) and North Dale Recreation Center, St. Paul",
+     "link": "https://mnkaren.org/event/karenni-kay-htoe-boe-festival/2025-04-19/",
+     "organizerDates": "April 19-20, 2025",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Karenni Kay Htoe Boe Festival",
+     "url": "https://mnkaren.org/event/karenni-kay-htoe-boe-festival/2025-04-19/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Ethnic Groups",
+     "url": "https://mnkaren.org/history-culture/ethnic-groups/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Mon National Day",
+   "alsoKnownAs": [],
+   "kind": "heritage",
+   "capsule": "Mon people mark the founding of Hanthawaddy, the last Mon kingdom, each year; no Minnesota event or date was found.",
+   "dateRule": "Set by the traditional Mon calendar; no Minnesota date was found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The ancient founding of Hanthawaddy, the last Mon kingdom.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ethnic Groups",
+     "url": "https://mnkaren.org/history-culture/ethnic-groups/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Anniversary of the 2021 Myanmar military coup",
+   "alsoKnownAs": [
+    "Spring Revolution anniversary"
+   ],
+   "kind": "remembrance",
+   "capsule": "February 1, 2021 coup anniversary; Minnesota's Burma Caucus co-chair launched the caucus on the 2024 anniversary.",
+   "dateRule": "February 1 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-01",
+     "endDate": null,
+     "source": "Fixed date; McCollum release states the coup anniversary is Feb. 1",
+     "sourceUrl": "https://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-first-ever-congressional-burma-caucus",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-01",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-first-ever-congressional-burma-caucus",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-01",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-first-ever-congressional-burma-caucus",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The military's seizure of power on Feb. 1, 2021 and the civil war that followed.",
+   "howCelebratedInMinnesota": "In 2021, Minnesotans from Burma rallied at the State Capitol on Feb. 28 and March 13, the second organized by people of multiple Myanmar ethnic groups. Rep. Betty McCollum co-launched the Congressional Burma Caucus on the third anniversary, Feb. 1, 2024. No yearly Minnesota gathering on the date was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "McCollum, Huizenga Establish First Ever Congressional Burma Caucus",
+     "url": "https://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-first-ever-congressional-burma-caucus",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Teens march in St. Paul against military coup in Myanmar",
+     "url": "https://www.fox9.com/news/teens-march-in-st-paul-against-military-coup-in-myanmar-call-for-u-s-intervention",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesotans protest military coup in Myanmar",
+     "url": "https://www.fox9.com/news/minnesotans-protest-military-coup-in-myanmar",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}

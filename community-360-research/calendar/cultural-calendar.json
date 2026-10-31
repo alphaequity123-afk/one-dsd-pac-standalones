@@ -2694,9 +2694,8 @@
    "observanceKey": "start-of-ramadan",
    "name": "Start of Ramadan",
    "alsoKnownAs": [
-    "Ramadan",
     "Ramazan",
-    "Soomaan"
+    "Ramadan"
    ],
    "communities": [
     "bosnian"
@@ -2708,16 +2707,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
    "kind": "religious",
-   "capsule": "Start of the month of daytime fasting.",
-   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+   "capsule": "The month of daytime fasting begins; Bosniak Muslims call it Ramazan, ending with Ramazanski bajram.",
+   "dateRule": "First day of the ninth month of the Islamic lunar calendar. Set by moon sighting or by the calculated calendar a mosque follows; the Islamic Community in Bosnia and Herzegovina publishes a calculated calendar.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
      "sourceUrl": null,
      "verified": false
     },
@@ -2725,7 +2724,7 @@
      "year": 2027,
      "date": "2027-02-08",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
      "sourceUrl": null,
      "verified": false
     },
@@ -2733,26 +2732,32 @@
      "year": 2028,
      "date": "2028-01-28",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
    "whatItMarks": "Start of the month of daytime fasting.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "The Islamic Community of Bosniaks mosque at 668 Broadway St. NE, Minneapolis, is listed by Meet Minneapolis among mosques holding Ramadan prayer. No dated Minnesota announcement for the Bosniak congregation was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Your Guide to Ramadan in Minneapolis, Meet Minneapolis",
+     "url": "https://www.minneapolis.org/calendar/holidays/ramadan/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "bosnian--eid-alfitr",
+   "id": "bosnian--ramazanski-bajram-eid-alfitr",
    "observanceKey": "eid-alfitr",
-   "name": "Eid al-Fitr",
+   "name": "Ramazanski bajram (Eid al-Fitr)",
    "alsoKnownAs": [
-    "Ciid Yare",
     "Ramazanski Bajram",
-    "Id el Fitr"
+    "Eid al-Fitr",
+    "Bajram"
    ],
    "communities": [
     "bosnian"
@@ -2764,24 +2769,24 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
    "kind": "religious",
-   "capsule": "End of Ramadan.",
-   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+   "capsule": "Bosniak Muslims end the Ramadan fast with morning Bajram prayer; in Bosnia the second day honors the war's martyrs.",
+   "dateRule": "First day of Shawwal, the tenth Islamic month, after Ramadan ends. The Islamic Community in Bosnia and Herzegovina sets the date by its calculated calendar; Minnesota mosques may follow it or moon sighting, and may differ by a day.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-03-20",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
-     "sourceUrl": null,
-     "verified": false
+     "endDate": "2026-03-21",
+     "source": "Islamic Community in Bosnia and Herzegovina calendar, reported by N1 Sarajevo (Bosnia date; Minnesota observance not confirmed)",
+     "sourceUrl": "https://n1info.ba/english/news/bosnias-islamic-community-announces-official-schedule-for-eid-al-fitr-2026",
+     "verified": true
     },
     {
      "year": 2027,
      "date": "2027-03-09",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
      "sourceUrl": null,
      "verified": false
     },
@@ -2789,26 +2794,37 @@
      "year": 2028,
      "date": "2028-02-26",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "End of Ramadan.",
+   "whatItMarks": "End of the Ramadan fast. In Bosnia the second day is marked as the Day of the Martyrs.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Bosnia's Islamic Community announces official schedule for Eid al-Fitr 2026, N1 Sarajevo",
+     "url": "https://n1info.ba/english/news/bosnias-islamic-community-announces-official-schedule-for-eid-al-fitr-2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Neradni dani u Republici Srpskoj za 2026. godinu, Paragraf.ba",
+     "url": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "bosnian--eid-aladha",
+   "id": "bosnian--kurban-bajram-eid-aladha",
    "observanceKey": "eid-aladha",
-   "name": "Eid al-Adha",
+   "name": "Kurban bajram (Eid al-Adha)",
    "alsoKnownAs": [
-    "Ciid Weyn",
     "Kurban Bajram",
-    "Id el Kabir"
+    "Hadži-bajram",
+    "Eid al-Adha"
    ],
    "communities": [
     "bosnian"
@@ -2820,24 +2836,24 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
    "kind": "religious",
-   "capsule": "Festival of sacrifice, during the Hajj season.",
-   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+   "capsule": "Festival of sacrifice: morning prayer, and a sacrificed sheep shared among home, relatives and the poor.",
+   "dateRule": "Tenth day of Dhu al-Hijjah, the twelfth Islamic month; calculated or moon-sighted, so it can differ by a day.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-05-27",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
-     "sourceUrl": null,
-     "verified": false
+     "endDate": "2026-05-28",
+     "source": "2026 public holiday list (Paragraf.ba), Bosnia; notes Islamic dates may differ by one day",
+     "sourceUrl": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "verified": true
     },
     {
      "year": 2027,
      "date": "2027-05-16",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
      "sourceUrl": null,
      "verified": false
     },
@@ -2845,25 +2861,36 @@
      "year": 2028,
      "date": "2028-05-05",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+   "whatItMarks": "Festival of sacrifice during the Hajj season. In Bosnia, N1 reports, families mark it by dividing a sacrificed sheep into three parts: for home, for relatives and for the poor.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Neradni dani u Republici Srpskoj za 2026. godinu, Paragraf.ba",
+     "url": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Bosnia's Muslims celebrate Eid al-Adha, N1 Sarajevo",
+     "url": "https://n1info.ba/english/news/bosnias-muslims-celebrate-eid-al-adha/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "bosnian--islamic-new-year",
    "observanceKey": "islamic-new-year",
    "name": "Islamic New Year",
    "alsoKnownAs": [
-    "Hijri New Year",
-    "Muharram"
+    "Nova hidžretska godina",
+    "Hijri New Year"
    ],
    "communities": [
     "bosnian"
@@ -2875,16 +2902,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
    "kind": "religious",
-   "capsule": "Start of the Hijri year.",
-   "dateRule": "First day of the first Islamic month (Muharram).",
+   "capsule": "First day of the Islamic lunar year; no Minnesota Bosniak observance was found.",
+   "dateRule": "First day of Muharram, the first Islamic month; calculated or moon-sighted.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day; Fiqh Council of North America, Calendar lists 2026-06-16",
      "sourceUrl": null,
      "verified": false
     },
@@ -2892,7 +2919,7 @@
      "year": 2027,
      "date": "2027-06-06",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
      "sourceUrl": null,
      "verified": false
     },
@@ -2900,7 +2927,7 @@
      "year": 2028,
      "date": "2028-05-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar; Minnesota mosques decide by moon sighting or an adopted calculation, so the observed day can differ by one day",
      "sourceUrl": null,
      "verified": false
     }
@@ -2913,13 +2940,12 @@
    "sources": []
   },
   {
-   "id": "bosnian--orthodox-christmas-julian-calendar",
-   "observanceKey": "orthodox-christmas-julian-calendar",
-   "name": "Orthodox Christmas (Julian calendar)",
+   "id": "bosnian--ramadan-night-prayers-and-community-iftars",
+   "observanceKey": "ramadan-night-prayers-and-community-iftars",
+   "name": "Ramadan night prayers and community iftars",
    "alsoKnownAs": [
-    "Rizdvo",
-    "Rozhdestvo",
-    "Božić (Pravoslavni)"
+    "Teravija",
+    "Iftar"
    ],
    "communities": [
     "bosnian"
@@ -2931,17 +2957,78 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
+   "kind": "community festival",
+   "capsule": "Evening prayers and shared fast-breaking meals at mosques during Ramadan.",
+   "dateRule": "Announced by each mosque during Ramadan.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Shared fast-breaking meals and evening prayers during Ramadan.",
+   "howCelebratedInMinnesota": "The Islamic Community of Bosniaks mosque in Northeast Minneapolis is listed among mosques holding Ramadan prayer. No dated iftar announcement was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Your Guide to Ramadan in Minneapolis, Meet Minneapolis",
+     "url": "https://www.minneapolis.org/calendar/holidays/ramadan/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "bosnian--orthodox-christmas-božić",
+   "observanceKey": "orthodox-christmas-julian-calendar",
+   "name": "Orthodox Christmas (Božić)",
+   "alsoKnownAs": [
+    "Božić",
+    "Badnji dan (Christmas Eve, Jan. 6)"
+   ],
+   "communities": [
+    "bosnian"
+   ],
+   "briefLinks": [
+    {
+     "community": "bosnian",
+     "title": "Bosnian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
    "kind": "religious",
-   "capsule": "Christmas for churches on the Julian calendar.",
-   "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses December 25 on the Revised Julian calendar.",
+   "capsule": "Christmas for Serbian Orthodox Christians, including Bosnian Serbs, on January 7, with Christmas Eve on January 6.",
+   "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar from 1900 to 2099. Each entry below is the January 7 that falls in that calendar year.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-01-07",
      "endDate": null,
-     "source": "Russian Federation Labour Code Article 112, via ConsultantPlus",
-     "sourceUrl": "https://www.consultant.ru/document/cons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/",
+     "source": "2026 public holiday list (Paragraf.ba): Badnji dan i Božić (za pravoslavce), Jan. 6 and 7",
+     "sourceUrl": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
      "verified": true
     },
     {
@@ -2963,19 +3050,30 @@
    ],
    "dateCertainty": "calculated",
    "whatItMarks": "Christmas for churches on the Julian calendar.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "Serbian Orthodox parishes in Duluth, Hibbing and Chisholm keep the Orthodox calendar; the Chisholm church was founded by miners including immigrants from Bosnia. No source ties current celebrations to families who came from Bosnia in the 1990s.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Neradni dani u Republici Srpskoj za 2026. godinu, Paragraf.ba",
+     "url": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Bishop Longin of New Gracanica-Midwestern America made canonical visit to parishes in Minnesota, Orthodox Times",
+     "url": "https://orthodoxtimes.com/bishop-longin-of-new-gracanica-midwestern-america-made-canonical-visit-to-parishes-in-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "bosnian--orthodox-easter",
+   "id": "bosnian--orthodox-easter-vaskrs",
    "observanceKey": "orthodox-easter",
-   "name": "Orthodox Easter",
+   "name": "Orthodox Easter (Vaskrs)",
    "alsoKnownAs": [
-    "Pascha",
-    "Velykden",
-    "Paskha"
+    "Vaskrs",
+    "Uskrs (pravoslavni)",
+    "Pascha"
    ],
    "communities": [
     "bosnian"
@@ -2987,17 +3085,17 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Eastern Christian tradition.",
-   "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar.",
+   "capsule": "Easter for Orthodox Christians, including Bosnian Serbs, often a week or more after Western Easter.",
+   "dateRule": "First Sunday after the first full moon on or after the spring equinox, computed on the Julian calendar.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-12",
      "endDate": null,
-     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
-     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "source": "2026 public holiday list (Paragraf.ba): Veliki petak i Vaskrs (za pravoslavce), April 10, 12 and 13",
+     "sourceUrl": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
      "verified": true
     },
     {
@@ -3019,10 +3117,21 @@
    ],
    "dateCertainty": "calculated",
    "whatItMarks": "Resurrection of Jesus in Eastern Christian tradition.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "Serbian Orthodox parishes in Duluth, Hibbing and Chisholm follow the Orthodox calendar. No Minnesota source on Bosnian-born families' Easter observance was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Neradni dani u Republici Srpskoj za 2026. godinu, Paragraf.ba",
+     "url": "https://www.paragraf.ba/neradni-dani-republike-srpske.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Bishop Longin of New Gracanica-Midwestern America made canonical visit to parishes in Minnesota, Orthodox Times",
+     "url": "https://orthodoxtimes.com/bishop-longin-of-new-gracanica-midwestern-america-made-canonical-visit-to-parishes-in-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "bosnian--bosnia-and-herzegovina-independence-day",
@@ -3041,48 +3150,56 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
    "kind": "national",
-   "capsule": "The 1992 independence referendum.",
-   "dateRule": "March 1.",
+   "capsule": "Marks the March 1, 1992 referendum for independence; a holiday in the Federation but not in Republika Srpska.",
+   "dateRule": "March 1 each year.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-03-01",
      "endDate": null,
-     "source": "University of Sarajevo School of Economics and Business, Notice on March 1 Independence Day of Bosnia and Herzegovina (2026)",
-     "sourceUrl": "https://www.efsa.unsa.ba/ef/en/node/6034",
+     "source": "N1 Sarajevo: March 1 marks Independence Day",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-marks-independence-day/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-03-01",
      "endDate": null,
-     "source": "University of Sarajevo School of Economics and Business, Notice on March 1 Independence Day of Bosnia and Herzegovina (2026)",
-     "sourceUrl": "https://www.efsa.unsa.ba/ef/en/node/6034",
+     "source": "Fixed date, N1 Sarajevo",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-marks-independence-day/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-03-01",
      "endDate": null,
-     "source": "University of Sarajevo School of Economics and Business, Notice on March 1 Independence Day of Bosnia and Herzegovina (2026)",
-     "sourceUrl": "https://www.efsa.unsa.ba/ef/en/node/6034",
+     "source": "Fixed date, N1 Sarajevo",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-marks-independence-day/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The 1992 independence referendum.",
+   "whatItMarks": "The 1992 independence referendum (63.4 percent turnout, 99.7 percent in favor). Observed in the Federation of Bosnia and Herzegovina; Republika Srpska does not observe it.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Bosnia and Herzegovina marks Independence Day, N1 Sarajevo",
+     "url": "https://n1info.ba/english/news/bosnia-and-herzegovina-marks-independence-day/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "bosnian--srebrenica-genocide-memorial-day",
-   "observanceKey": "srebrenica-genocide-memorial-day",
-   "name": "Srebrenica Genocide Memorial Day",
-   "alsoKnownAs": [],
+   "id": "bosnian--bosnia-and-herzegovina-statehood-day",
+   "observanceKey": "bosnia-and-herzegovina-statehood-day",
+   "name": "Bosnia and Herzegovina Statehood Day",
+   "alsoKnownAs": [
+    "Dan državnosti"
+   ],
    "communities": [
     "bosnian"
    ],
@@ -3093,48 +3210,140 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
+   "kind": "national",
+   "capsule": "Marks the November 25, 1943 ZAVNOBiH session that restored Bosnian statehood; not observed in Republika Srpska.",
+   "dateRule": "November 25 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-25",
+     "endDate": null,
+     "source": "N1 Sarajevo and Sarajevo City Hall: November 25 is Statehood Day",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-celebrates-statehood-day/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-celebrates-statehood-day/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://n1info.ba/english/news/bosnia-and-herzegovina-celebrates-statehood-day/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The first session of the State Anti-Fascist Council for the National Liberation of Bosnia and Herzegovina in Mrkonjić Grad, Nov. 25, 1943.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bosnia and Herzegovina celebrates Statehood Day, N1 Sarajevo",
+     "url": "https://n1info.ba/english/news/bosnia-and-herzegovina-celebrates-statehood-day/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Statehood Day exhibit guide, Sarajevo City Hall",
+     "url": "https://www.vijecnica.ba/en/vodic-soba-25nov",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "bosnian--srebrenica-genocide-remembrance-day",
+   "observanceKey": "srebrenica-genocide-memorial-day",
+   "name": "Srebrenica Genocide Remembrance Day",
+   "alsoKnownAs": [
+    "International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica",
+    "11. juli"
+   ],
+   "communities": [
+    "bosnian"
+   ],
+   "briefLinks": [
+    {
+     "community": "bosnian",
+     "title": "Bosnian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
    "kind": "remembrance",
-   "capsule": "The July 1995 genocide at Srebrenica.",
-   "dateRule": "July 11.",
+   "capsule": "Remembers more than 8,000 Bosniak men and boys killed at Srebrenica in July 1995; marked in Rochester with a peace march.",
+   "dateRule": "July 11 each year. Designated by the U.N. General Assembly on May 23, 2024.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-07-11",
      "endDate": null,
-     "source": "United Nations, International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica",
-     "sourceUrl": "https://www.un.org/en/observances/srebrenica-genocide-commemoration-day",
+     "source": "U.N. General Assembly resolution 78/282 designates July 11 annually",
+     "sourceUrl": "https://www.clickondetroit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-serbs-vehemently-oppose/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-07-11",
      "endDate": null,
-     "source": "United Nations, International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica",
-     "sourceUrl": "https://www.un.org/en/observances/srebrenica-genocide-commemoration-day",
+     "source": "Fixed date, U.N. resolution",
+     "sourceUrl": "https://www.clickondetroit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-serbs-vehemently-oppose/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-07-11",
      "endDate": null,
-     "source": "United Nations, International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica",
-     "sourceUrl": "https://www.un.org/en/observances/srebrenica-genocide-commemoration-day",
+     "source": "Fixed date, U.N. resolution",
+     "sourceUrl": "https://www.clickondetroit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-serbs-vehemently-oppose/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The July 1995 genocide at Srebrenica.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The July 1995 genocide at Srebrenica, when Bosnian Serb forces overran a U.N. safe area and killed at least 8,000 Bosniak men and boys.",
+   "howCelebratedInMinnesota": "In Rochester in 2025, Bosnian residents held the city's first peace march around Cascade Lake on Friday, July 11, followed by an all-day soccer tournament at the Watson Sports Complex on Saturday. An organizer said many Bosnians in Rochester are survivors or lost loved ones. No Twin Cities observance and no Minnesota proclamation were found; no 2026 Rochester announcement was found.",
+   "minnesotaEvents": [
+    {
+     "name": "30th anniversary Srebrenica peace march and memorial soccer tournament",
+     "place": "Cascade Lake and Watson Sports Complex, Rochester",
+     "link": "https://www.kaaltv.com/news/rochester-remembers-30th-anniversary-of-srebrenica-genocide/",
+     "organizerDates": "Friday and Saturday, July 11-12, 2025, as reported by KAAL-TV",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "UN votes to commemorate Srebrenica genocide annually, AP via WDIV",
+     "url": "https://www.clickondetroit.com/news/world/2024/05/23/un-will-vote-on-commemorating-the-1995-srebrenica-genocide-annually-which-serbs-vehemently-oppose/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Resolution 78/282, Global Centre for the Responsibility to Protect",
+     "url": "https://www.globalr2p.org/resources/resolution-78-282/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Rochester remembers 30th anniversary of Srebrenica genocide, KAAL-TV",
+     "url": "https://www.kaaltv.com/news/rochester-remembers-30th-anniversary-of-srebrenica-genocide/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "bosnian--ramadan-night-prayers-and-community-iftars",
-   "observanceKey": "ramadan-night-prayers-and-community-iftars",
-   "name": "Ramadan night prayers and community iftars",
-   "alsoKnownAs": [],
+   "id": "bosnian--rochester-bosnian-community-soccer-tournament",
+   "observanceKey": "rochester-bosnian-community-soccer-tournament",
+   "name": "Rochester Bosnian community soccer tournament",
+   "alsoKnownAs": [
+    "United BiH tournament"
+   ],
    "communities": [
     "bosnian"
    ],
@@ -3145,16 +3354,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/bosnian/profile.md",
    "kind": "community festival",
-   "capsule": "Shared fast-breaking meals and evening prayers during Ramadan.",
-   "dateRule": "Announced by each mosque and community group during Ramadan.",
+   "capsule": "Early-July soccer tournament in Rochester organized by Bosnian residents to give thanks around Independence Day and remember Srebrenica.",
+   "dateRule": "Held in the first week of July by its organizers; dates announced each year.",
    "dates": [
     {
      "year": 2026,
      "date": null,
      "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
+     "source": "No 2026 announcement found",
      "sourceUrl": null,
      "verified": false
     },
@@ -3162,7 +3371,7 @@
      "year": 2027,
      "date": null,
      "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     },
@@ -3170,25 +3379,52 @@
      "year": 2028,
      "date": null,
      "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "announced each year",
-   "whatItMarks": "Shared fast-breaking meals and evening prayers during Ramadan.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "Thanks to the United States around the Fourth of July and remembrance of Srebrenica.",
+   "howCelebratedInMinnesota": "Started about 2011 by three Bosnian-born Rochester men. In 2013 six teams played at Watson Soccer Complex, including the Rochester team United BiH and a Bosnian team from Des Moines; a Rochester Somali team won. The director addressed players about July 1995 before the games. In 2025 the tournament was held July 12 as part of the 30th anniversary remembrance.",
+   "minnesotaEvents": [
+    {
+     "name": "Bosnian-led soccer tournament",
+     "place": "Watson Soccer Complex, Rochester",
+     "link": "https://www.postbulletin.com/sports/bosnian-led-soccer-tournament-promotes-peace",
+     "organizerDates": "Saturday before July 10, 2013 (third annual), as reported",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Srebrenica memorial soccer tournament",
+     "place": "Watson Sports Complex, Rochester",
+     "link": "https://www.kaaltv.com/news/rochester-remembers-30th-anniversary-of-srebrenica-genocide/",
+     "organizerDates": "Saturday, July 12, 2025",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Bosnian-led soccer tournament promotes peace, Rochester Post Bulletin",
+     "url": "https://www.postbulletin.com/sports/bosnian-led-soccer-tournament-promotes-peace",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Rochester remembers 30th anniversary of Srebrenica genocide, KAAL-TV",
+     "url": "https://www.kaaltv.com/news/rochester-remembers-30th-anniversary-of-srebrenica-genocide/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "burmese--thingyan",
+   "id": "burmese--thingyan-water-festival-and-burmese-new-year",
    "observanceKey": "thingyan",
-   "name": "Thingyan",
+   "name": "Thingyan (Water Festival and Burmese New Year)",
    "alsoKnownAs": [
     "Burmese New Year",
-    "Water Festival"
+    "Water Festival",
+    "Thin Gyin"
    ],
    "communities": [
     "burmese"
@@ -3200,15 +3436,15 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
    "kind": "cultural",
-   "capsule": "Traditional Burmese new year.",
-   "dateRule": "Mid-April, calculated from the traditional Myanmar calendar.",
+   "capsule": "Burmese New Year water festival in mid-April; the Chisago City temple calls it its biggest festival, with music, dance and food.",
+   "dateRule": "Mid-April, set each year from the traditional Myanmar lunisolar calendar by Myanmar's calendar board; usually about four water days before New Year's Day. Minnesota gatherings fall on a nearby weekend in April or May.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-13",
-     "endDate": null,
+     "endDate": "2026-04-16",
      "source": "Myanmar Department of Civil Aviation, AIC A 03/2026, Myanmar Public Holidays for Year 2026",
      "sourceUrl": "https://ais.gov.mm/wp-content/uploads/2025/12/AIC-03-2026.pdf",
      "verified": true
@@ -3216,33 +3452,46 @@
     {
      "year": 2027,
      "date": "2027-04-13",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2027 lists 2027-04-13",
+     "endDate": "2027-04-16",
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2027 lists 2027-04-13",
      "sourceUrl": null,
      "verified": false
     },
     {
      "year": 2028,
      "date": "2028-04-13",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028 lists 2028-04-13",
+     "endDate": "2028-04-16",
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028 lists 2028-04-13",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Traditional Burmese new year.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The passage from the old year to the new in the Myanmar calendar; water is thrown to wash away bad luck, and elders and monks are honored.",
+   "howCelebratedInMinnesota": "Sitagu Dhamma Vihara in Chisago City describes its Water Festival as generally the biggest Burmese festival of the year, in April or May, with Burmese folk music and dancing rehearsed for weeks, costumes, food, getting wet, and a chance to pay respects to the monks; it says the festival is not religious and sometimes includes Karen folk culture. No dated 2026 Minnesota event was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Assembly Resolution No. 1163, Thingyan",
+     "url": "https://legislation.nysenate.gov/pdf/bills/2025/K1163",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "burmese--visakha-bucha",
+   "id": "burmese--full-moon-of-kasone-buddha-day",
    "observanceKey": "visakha-bucha",
-   "name": "Visakha Bucha",
+   "name": "Full Moon of Kasone (Buddha Day)",
    "alsoKnownAs": [
+    "Visakha Bucha",
     "Vesak",
+    "Kasone Full Moon Day",
     "Buddha Day"
    ],
    "communities": [
@@ -3255,10 +3504,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
    "kind": "religious",
-   "capsule": "Birth, enlightenment and death of the Buddha in Theravada tradition.",
-   "dateRule": "Full moon of the sixth lunar month in the Thai and Cambodian calendars, usually in May; temples may choose a nearby weekend.",
+   "capsule": "Full moon of Kasone honoring the Buddha's birth, awakening and death; the Minnesota Burmese temple society was founded on it in 2004.",
+   "dateRule": "Full moon of the Myanmar month of Kasone, usually April or May. The Myanmar date can differ by a month from the Thai date in some years; the seed's Thai dates were replaced with Myanmar calculations.",
    "dates": [
     {
      "year": 2026,
@@ -3280,76 +3529,32 @@
      "year": 2028,
      "date": "2028-05-08",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-05-08",
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-05-08",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Birth, enlightenment and death of the Buddha in Theravada tradition.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The birth, enlightenment and passing of the Buddha in Theravada tradition.",
+   "howCelebratedInMinnesota": "The society behind Sitagu Dhamma Vihara was founded on May 2, 2004, which its history calls the Kasone full moon Buddha Day. No dated Minnesota observance for 2026 was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "About the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/About/about.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "burmese--union-day-myanmar",
-   "observanceKey": "union-day-myanmar",
-   "name": "Union Day (Myanmar)",
-   "alsoKnownAs": [],
-   "communities": [
-    "burmese"
-   ],
-   "briefLinks": [
-    {
-     "community": "burmese",
-     "title": "Burmese Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
-    }
-   ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "The 1947 Panglong Agreement.",
-   "dateRule": "February 12.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-02-12",
-     "endDate": null,
-     "source": "Myanmar Department of Civil Aviation, AIC A 03/2026, Myanmar Public Holidays for Year 2026",
-     "sourceUrl": "https://ais.gov.mm/wp-content/uploads/2025/12/AIC-03-2026.pdf",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-02-12",
-     "endDate": null,
-     "source": "Fixed Gregorian date; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028 lists 2027-02-12",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": "2028-02-12",
-     "endDate": null,
-     "source": "Fixed Gregorian date; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028 lists 2028-02-12",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1947 Panglong Agreement.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "burmese--asanha-bucha-and-start-of-buddhist-lent",
+   "id": "burmese--waso-full-moon-and-robe-offering-start-of-buddhist-lent",
    "observanceKey": "asanha-bucha-and-start-of-buddhist-lent",
-   "name": "Asanha Bucha and start of Buddhist Lent",
+   "name": "Waso Full Moon and Robe Offering (start of Buddhist Lent)",
    "alsoKnownAs": [
-    "Khao Phansa"
+    "Asanha Bucha",
+    "Khao Phansa",
+    "Waso"
    ],
    "communities": [
     "burmese"
@@ -3361,10 +3566,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
    "kind": "religious",
-   "capsule": "The Buddha's first sermon, and the start of the three-month rains retreat.",
-   "dateRule": "Full moon of the eighth lunar month, usually July; the rains retreat starts the next day.",
+   "capsule": "Start of the monks' three-month rains retreat; the Chisago City temple holds a robe offering shortly after the July full moon.",
+   "dateRule": "Full moon of the Myanmar month of Waso, usually July; the temple's robe offering follows shortly after.",
    "dates": [
     {
      "year": 2026,
@@ -3386,17 +3591,546 @@
      "year": 2028,
      "date": "2028-07-06",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-07-07; Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028 lists 2028-07-06",
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-07-07; Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028 lists 2028-07-06",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "The Buddha's first sermon, and the start of the three-month rains retreat.",
+   "whatItMarks": "The Buddha's first sermon and the start of Vassa, the three-month retreat for monks.",
+   "howCelebratedInMinnesota": "Sitagu Dhamma Vihara holds a Waso robe offering generally shortly after the full moon of July; robes bought from the temple are offered to the monks, who give most back for resale as a fundraiser. No dated 2026 event was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "burmese--union-day-myanmar",
+   "observanceKey": "union-day-myanmar",
+   "name": "Union Day (Myanmar)",
+   "alsoKnownAs": [
+    "Panglong Day"
+   ],
+   "communities": [
+    "burmese"
+   ],
+   "briefLinks": [
+    {
+     "community": "burmese",
+     "title": "Burmese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
+   "kind": "national",
+   "capsule": "February 12 marks the 1947 Panglong Agreement between Aung San and ethnic leaders; no Minnesota observance was found.",
+   "dateRule": "February 12 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-12",
+     "endDate": null,
+     "source": "Fixed date stated by Burma News International",
+     "sourceUrl": "https://www.bnionline.net/en/news/71st-union-day-celebrated-throughout-myanmar",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-12",
+     "endDate": null,
+     "source": "Fixed date stated by Burma News International",
+     "sourceUrl": "https://www.bnionline.net/en/news/71st-union-day-celebrated-throughout-myanmar",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-12",
+     "endDate": null,
+     "source": "Fixed date stated by Burma News International",
+     "sourceUrl": "https://www.bnionline.net/en/news/71st-union-day-celebrated-throughout-myanmar",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The Panglong Agreement, signed Feb. 12, 1947 by Aung San and leaders of several ethnic groups to bring the nationalities together.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "71st Union Day celebrated throughout Myanmar",
+     "url": "https://www.bnionline.net/en/news/71st-union-day-celebrated-throughout-myanmar",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "burmese--kathina-kathein-robe-offering",
+   "observanceKey": "kathina-kathein-robe-offering",
+   "name": "Kathina (Kathein) Robe Offering",
+   "alsoKnownAs": [
+    "Kathein",
+    "Kahtein"
+   ],
+   "communities": [
+    "burmese"
+   ],
+   "briefLinks": [
+    {
+     "community": "burmese",
+     "title": "Burmese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
+   "kind": "religious",
+   "capsule": "After the rains retreat ends in October, lay families offer robes to monks; held at the Chisago City temple.",
+   "dateRule": "Held generally after the October full moon (Thadingyut) that ends the rains retreat, within the following month, on a date the temple chooses.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The end of Vassa, when robes are offered to monks who completed the three-month retreat.",
+   "howCelebratedInMinnesota": "Sitagu Dhamma Vihara holds Kathina generally after the full moon of October, offering robes to attending monks; robes are sold by the temple as a fundraiser. No dated 2026 event was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "burmese--thadingyut-end-of-buddhist-lent-festival-of-lights",
+   "observanceKey": "thadingyut-end-of-buddhist-lent-festival-of-lights",
+   "name": "Thadingyut (end of Buddhist Lent, Festival of Lights)",
+   "alsoKnownAs": [
+    "Thadingyut Full Moon"
+   ],
+   "communities": [
+    "burmese"
+   ],
+   "briefLinks": [
+    {
+     "community": "burmese",
+     "title": "Burmese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
+   "kind": "religious",
+   "capsule": "October full moon ending the monks' rains retreat; marks the start of the Kathina robe-offering season. No Minnesota event found.",
+   "dateRule": "Full moon of the Myanmar month of Thadingyut, usually October; Myanmar's three-day holiday is centered on it.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-26",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page (holiday Oct. 25-27)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-15",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page (holiday Oct. 14-16)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-03",
+     "endDate": null,
+     "source": "Calculated with python-holidays (Myanmar), not confirmed by an opened page (holiday Oct. 2-4)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The end of Vassa, the three-month rains retreat.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "burmese--sticky-rice-festival-htamane",
+   "observanceKey": "sticky-rice-festival-htamane",
+   "name": "Sticky Rice Festival (Htamane)",
+   "alsoKnownAs": [
+    "Thamane Pwe",
+    "Htamane Pwe"
+   ],
+   "communities": [
+    "burmese"
+   ],
+   "briefLinks": [
+    {
+     "community": "burmese",
+     "title": "Burmese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
+   "kind": "cultural",
+   "capsule": "A February day and night of making and judging sticky rice, a Burmese festival held at the Chisago City temple.",
+   "dateRule": "Traditionally at the full moon of the Myanmar month of Tabodwe; the Minnesota temple says generally in February, on a date it sets.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A harvest-season tradition of cooking htamane, sticky rice mixed with other ingredients.",
+   "howCelebratedInMinnesota": "Sitagu Dhamma Vihara says community members gather generally in February to practice and compete in making sticky rice from early morning until late at night. No dated event found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Special Events at the Dhamma Vihara",
+     "url": "https://www.sitagu.org/mn/Community/Events/Events.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "burmese--karenni-deeku-festival",
+   "observanceKey": "karenni-deeku-festival",
+   "name": "Karenni DeeKu Festival",
+   "alsoKnownAs": [
+    "Deeku Festival"
+   ],
+   "communities": [
+    "burmese"
+   ],
+   "briefLinks": [
+    {
+     "community": "burmese",
+     "title": "Burmese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
+   "kind": "community festival",
+   "capsule": "Karenni festival of freedom and unity named for sticky rice in bamboo leaves; held in St. Paul each September.",
+   "dateRule": "A September weekend chosen each year by the Karenni Community of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": "2026-09-20",
+     "source": "Karen Organization of Minnesota listing for the Karenni Community of Minnesota",
+     "sourceUrl": "https://mnkaren.org/event/karenni-deeku-festival-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Karenni victory over Yuan invaders, and unity, symbolized by DeeKu tied in bundles of three.",
+   "howCelebratedInMinnesota": "Held in St. Paul by the Karenni Community of Minnesota. In 2024 (Sept. 21-22) it included a youth cultural dance, young singers and DeeKu at Community School of Excellence, then volleyball and youth soccer at West Minnehaha Recreation Center and a small fundraiser. 2026 was Sept. 19-20.",
+   "minnesotaEvents": [
+    {
+     "name": "Karenni DeeKu Festival 2026",
+     "place": "St. Paul",
+     "link": "https://mnkaren.org/event/karenni-deeku-festival-2026/",
+     "organizerDates": "Sept. 19-20, 2026, Karenni Community of Minnesota",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Karenni DeeKu Festival 2024",
+     "place": "Community School of Excellence, 270 Larpenteur Ave. W., and West Minnehaha Recreation Center, St. Paul",
+     "link": "https://mnkaren.org/event/karenni-deeku-festival-2/",
+     "organizerDates": "Sept. 21-22, 2024",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Karenni DeeKu Festival 2026",
+     "url": "https://mnkaren.org/event/karenni-deeku-festival-2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Karenni DeeKu Festival (2024)",
+     "url": "https://mnkaren.org/event/karenni-deeku-festival-2/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "burmese--karenni-kay-htoe-boe-festival",
+   "observanceKey": "karenni-kay-htoe-boe-festival",
+   "name": "Karenni Kay Htoe Boe Festival",
+   "alsoKnownAs": [
+    "Kay Htoe Bo"
+   ],
+   "communities": [
+    "burmese"
+   ],
+   "briefLinks": [
+    {
+     "community": "burmese",
+     "title": "Burmese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
+   "kind": "cultural",
+   "capsule": "The most important Karenni celebration, about how the earth came to be, with pole dancing; held in St. Paul in April.",
+   "dateRule": "An April weekend chosen each year by the Karenni Community of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The story of how the earth came into being; people dance around a pole for good health.",
+   "howCelebratedInMinnesota": "In 2025 the Karenni Community of Minnesota held a main ceremony and entertainment April 19 at Como Park Senior High and a volleyball tournament April 20 at North Dale Recreation Center, St. Paul. No 2026 listing was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Karenni Kay Htoe Boe Festival 2025",
+     "place": "Como Park Senior High (740 Rose Ave. W.) and North Dale Recreation Center, St. Paul",
+     "link": "https://mnkaren.org/event/karenni-kay-htoe-boe-festival/2025-04-19/",
+     "organizerDates": "April 19-20, 2025",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Karenni Kay Htoe Boe Festival",
+     "url": "https://mnkaren.org/event/karenni-kay-htoe-boe-festival/2025-04-19/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Ethnic Groups",
+     "url": "https://mnkaren.org/history-culture/ethnic-groups/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "burmese--mon-national-day",
+   "observanceKey": "mon-national-day",
+   "name": "Mon National Day",
+   "alsoKnownAs": [],
+   "communities": [
+    "burmese"
+   ],
+   "briefLinks": [
+    {
+     "community": "burmese",
+     "title": "Burmese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
+   "kind": "heritage",
+   "capsule": "Mon people mark the founding of Hanthawaddy, the last Mon kingdom, each year; no Minnesota event or date was found.",
+   "dateRule": "Set by the traditional Mon calendar; no Minnesota date was found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The ancient founding of Hanthawaddy, the last Mon kingdom.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ethnic Groups",
+     "url": "https://mnkaren.org/history-culture/ethnic-groups/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "burmese--anniversary-of-the-2021-myanmar-military-coup",
+   "observanceKey": "anniversary-of-the-2021-myanmar-military-coup",
+   "name": "Anniversary of the 2021 Myanmar military coup",
+   "alsoKnownAs": [
+    "Spring Revolution anniversary"
+   ],
+   "communities": [
+    "burmese"
+   ],
+   "briefLinks": [
+    {
+     "community": "burmese",
+     "title": "Burmese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/burmese/profile.md",
+   "kind": "remembrance",
+   "capsule": "February 1, 2021 coup anniversary; Minnesota's Burma Caucus co-chair launched the caucus on the 2024 anniversary.",
+   "dateRule": "February 1 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-01",
+     "endDate": null,
+     "source": "Fixed date; McCollum release states the coup anniversary is Feb. 1",
+     "sourceUrl": "https://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-first-ever-congressional-burma-caucus",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-01",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-first-ever-congressional-burma-caucus",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-01",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-first-ever-congressional-burma-caucus",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The military's seizure of power on Feb. 1, 2021 and the civil war that followed.",
+   "howCelebratedInMinnesota": "In 2021, Minnesotans from Burma rallied at the State Capitol on Feb. 28 and March 13, the second organized by people of multiple Myanmar ethnic groups. Rep. Betty McCollum co-launched the Congressional Burma Caucus on the third anniversary, Feb. 1, 2024. No yearly Minnesota gathering on the date was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "McCollum, Huizenga Establish First Ever Congressional Burma Caucus",
+     "url": "https://mccollum.house.gov/media/press-releases/mccollum-huizenga-establish-first-ever-congressional-burma-caucus",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Teens march in St. Paul against military coup in Myanmar",
+     "url": "https://www.fox9.com/news/teens-march-in-st-paul-against-military-coup-in-myanmar-call-for-u-s-intervention",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesotans protest military coup in Myanmar",
+     "url": "https://www.fox9.com/news/minnesotans-protest-military-coup-in-myanmar",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "chinese--lunar-new-year",
@@ -23249,9 +23983,8 @@
    "observanceKey": "orthodox-christmas-julian-calendar",
    "name": "Orthodox Christmas (Julian calendar)",
    "alsoKnownAs": [
-    "Rizdvo",
     "Rozhdestvo",
-    "Božić (Pravoslavni)"
+    "Nativity of Christ"
    ],
    "communities": [
     "russian-speaking"
@@ -23263,10 +23996,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/russian-speaking/profile.md",
    "kind": "religious",
-   "capsule": "Christmas for churches on the Julian calendar.",
-   "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses December 25 on the Revised Julian calendar.",
+   "capsule": "Christmas for Russian Orthodox parishes that keep the Julian calendar, falling on January 7.",
+   "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar from 1900 to 2099. The 2026 holiday season's Christmas falls on January 7, 2027.",
    "dates": [
     {
      "year": 2026,
@@ -23294,20 +24027,30 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Christmas for churches on the Julian calendar.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The birth of Jesus, for churches that follow the Julian calendar.",
+   "howCelebratedInMinnesota": "Russian Orthodox parishes in Minneapolis and Fridley (St. Panteleimon; Resurrection of Christ Church and Skete) post service schedules in Russian and English, but no 2027 Christmas schedule was posted when checked. Many Russian-speaking households are Jewish, Protestant or not religious and do not keep this date.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "St. Panteleimon Church",
+     "url": "https://spro.church/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Resurrection of Christ Church and Skete",
+     "url": "https://www.resurrectionskete.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "russian-speaking--orthodox-easter",
+   "id": "russian-speaking--orthodox-easter-pascha",
    "observanceKey": "orthodox-easter",
-   "name": "Orthodox Easter",
+   "name": "Orthodox Easter (Pascha)",
    "alsoKnownAs": [
-    "Pascha",
-    "Velykden",
-    "Paskha"
+    "Paskha",
+    "Pascha"
    ],
    "communities": [
     "russian-speaking"
@@ -23319,16 +24062,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/russian-speaking/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Eastern Christian tradition.",
-   "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar.",
+   "capsule": "The most important Orthodox Christian feast, usually later than Western Easter; April 12 in 2026, May 2 in 2027.",
+   "dateRule": "First Sunday after the first full moon on or after the spring equinox, reckoned on the Julian calendar.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-12",
      "endDate": null,
-     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
+     "source": "American Carpatho-Russian Orthodox Diocese",
      "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
      "verified": true
     },
@@ -23336,7 +24079,7 @@
      "year": 2027,
      "date": "2027-05-02",
      "endDate": null,
-     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
+     "source": "American Carpatho-Russian Orthodox Diocese",
      "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
      "verified": true
     },
@@ -23344,17 +24087,28 @@
      "year": 2028,
      "date": "2028-04-16",
      "endDate": null,
-     "source": "American Carpatho-Russian Orthodox Diocese of North America, Listing of Movable Feasts (Old Calendar)",
-     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "source": "TrueCalendar",
+     "sourceUrl": "https://truecalendar.com/orthodox-easter-dates/2028",
      "verified": true
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Eastern Christian tradition.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The resurrection of Jesus in Eastern Christian tradition.",
+   "howCelebratedInMinnesota": "Kept by Russian Orthodox parishes such as St. Panteleimon in Minneapolis and Resurrection of Christ in Fridley, and by Orthodox Church in America parishes. No dated Minnesota Pascha event for Russian speakers was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Holy Pascha & Other Movable Feasts",
+     "url": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Orthodox Easter Sunday in 2028",
+     "url": "https://truecalendar.com/orthodox-easter-dates/2028",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "russian-speaking--victory-day-may-9",
@@ -23373,10 +24127,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/russian-speaking/profile.md",
    "kind": "remembrance",
-   "capsule": "The 1945 end of the Second World War in Europe in Soviet memory; meaningful to some elders and contested by others since 2022.",
-   "dateRule": "May 9.",
+   "capsule": "Soviet memory of victory in World War II in Europe; honored by some elders, contested by others since 2022.",
+   "dateRule": "May 9 each year.",
    "dates": [
     {
      "year": 2026,
@@ -23404,11 +24158,22 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The 1945 end of the Second World War in Europe in Soviet memory; meaningful to some elders and contested by others since 2022.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The 1945 end of the Second World War in Europe, as remembered in the Soviet Union and its successor states.",
+   "howCelebratedInMinnesota": "No public Minnesota Victory Day event was found for 2025 or 2026. War memory appears in community life in other ways: a 2010 documentary by Minnesota's VOICE program on Soviet Jewish soldiers, and readers' World War II memories in Zerkalo magazine (2016).",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "The VOICES of Minnesota's Soviet Jews",
+     "url": "https://tcjewfolk.com/2010/06/02/voices-minnesotas-soviet-jews-inspiration-film/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Mirror on the Midwest: Zerkalo",
+     "url": "https://tcbmag.com/mirror-on-the-midwest-russian-language-zerkalo-celebrates-25-years-in-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "russian-speaking--new-year-novy-god",
@@ -23427,10 +24192,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/russian-speaking/profile.md",
    "kind": "cultural",
-   "capsule": "The major secular winter holiday from the Soviet era, still central for some families.",
-   "dateRule": "January 1.",
+   "capsule": "The big secular winter holiday of Soviet times, with a decorated tree and Grandfather Frost; still central for some families.",
+   "dateRule": "January 1, with the main celebration on the night of December 31.",
    "dates": [
     {
      "year": 2026,
@@ -23458,11 +24223,297 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The major secular winter holiday from the Soviet era, still central for some families.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The new year; in Soviet times it replaced Christmas as the main family winter holiday.",
+   "howCelebratedInMinnesota": "Mostly at home. Staff at Smak, an Anoka grocery, told Macalester students that although New Year's is traditionally the biggest holiday, families here often adopt Christmas-season habits; the store is busiest at Thanksgiving and Christmas. No public 2025 or 2026 Minnesota New Year (yolka) event was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Twin Cities Guide for Russian Speakers (Macalester College)",
+     "url": "https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "russian-speaking--maslenitsa-butter-week",
+   "observanceKey": "maslenitsa-butter-week",
+   "name": "Maslenitsa (Butter Week)",
+   "alsoKnownAs": [
+    "Butter Week",
+    "Cheesefare Week"
+   ],
+   "communities": [
+    "russian-speaking"
+   ],
+   "briefLinks": [
+    {
+     "community": "russian-speaking",
+     "title": "Russian-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/russian-speaking/profile.md",
+   "kind": "cultural",
+   "capsule": "A pancake-filled farewell to winter in the week before Orthodox Lent; TMORA held a blini and folk-song evening in 2026.",
+   "dateRule": "The week before Orthodox Great Lent, ending the Sunday 49 days before Pascha. Dates shown are the week of Maslenitsa; organizers choose their own event days.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-16",
+     "endDate": "2026-02-22",
+     "source": "Calculated from Pascha April 12, 2026",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-08",
+     "endDate": "2027-03-14",
+     "source": "Calculated from Pascha May 2, 2027",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-21",
+     "endDate": "2028-02-27",
+     "source": "Calculated from Pascha April 16, 2028",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The end of winter and the last week before the Lenten fast, with blini (pancakes), songs and games.",
+   "howCelebratedInMinnesota": "The Museum of Russian Art held 'Maslenitsa: Russian Pancakes & Songs' with its folk group Nitka at its Education Center on Feb. 17, 2026 ($35 members, $40 others). St. Panteleimon Russian Orthodox Church also holds Maslenitsa events, according to Macalester's guide.",
+   "minnesotaEvents": [
+    {
+     "name": "Maslenitsa: Russian Pancakes & Songs",
+     "place": "TMORA Education Center, 5904 Pleasant Ave. S., Minneapolis",
+     "link": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "organizerDates": "Tuesday, Feb. 17, 2026, 6:00-7:30 p.m. (TMORA)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Maslenitsa: Russian Pancakes & Songs",
+     "url": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Twin Cities Guide for Russian Speakers",
+     "url": "https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Holy Pascha & Other Movable Feasts",
+     "url": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "russian-speaking--maslenitsa-at-tmora-2026-event",
+   "observanceKey": "maslenitsa-at-tmora-2026-event",
+   "name": "Maslenitsa at TMORA (2026 event)",
+   "alsoKnownAs": [
+    "Maslenitsa: Russian Pancakes & Songs"
+   ],
+   "communities": [
+    "russian-speaking"
+   ],
+   "briefLinks": [
+    {
+     "community": "russian-speaking",
+     "title": "Russian-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/russian-speaking/profile.md",
+   "kind": "community festival",
+   "capsule": "Blini, tea and Russian village songs by the folk group Nitka at the Museum of Russian Art's Education Center.",
+   "dateRule": "Announced each year by The Museum of Russian Art.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-17",
+     "endDate": null,
+     "source": "The Museum of Russian Art",
+     "sourceUrl": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Maslenitsa, the farewell to winter before Lent.",
+   "howCelebratedInMinnesota": "Evening program, 6:00-7:30 p.m., with blini and toppings, tea, sweets and songs by Nitka; advance registration.",
+   "minnesotaEvents": [
+    {
+     "name": "Maslenitsa: Russian Pancakes & Songs",
+     "place": "TMORA Education Center, 5904 Pleasant Ave. S., Minneapolis",
+     "link": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "organizerDates": "Feb. 17, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Maslenitsa: Russian Pancakes & Songs",
+     "url": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "russian-speaking--st-panteleimon-patronal-feast-minneapolis",
+   "observanceKey": "st-panteleimon-patronal-feast-minneapolis",
+   "name": "St. Panteleimon Patronal Feast (Minneapolis)",
+   "alsoKnownAs": [
+    "Feast of St. Panteleimon the Healer"
+   ],
+   "communities": [
+    "russian-speaking"
+   ],
+   "briefLinks": [
+    {
+     "community": "russian-speaking",
+     "title": "Russian-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/russian-speaking/profile.md",
+   "kind": "religious",
+   "capsule": "Minneapolis's Russian Orthodox parish honors its patron saint each August with vigil, liturgy, procession and a banquet.",
+   "dateRule": "Feast of St. Panteleimon, July 27 on the Julian calendar (August 9 Gregorian), with the vigil the evening before. The parish sets its own celebration days.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-08",
+     "endDate": "2026-08-09",
+     "source": "St. Panteleimon Russian Orthodox Church",
+     "sourceUrl": "https://spro.church/celebration-of-patronal-feast-and-70th-anniversary-of-st-panteleimon-parish/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-09",
+     "endDate": null,
+     "source": "Calculated: July 27 Julian",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-09",
+     "endDate": null,
+     "source": "Calculated: July 27 Julian",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The parish's patron saint, a healer; in 2026 also the parish's 70th anniversary (1956-2026).",
+   "howCelebratedInMinnesota": "In 2026 Bishop Spyridon of Chicago and Mid-America led an all-night vigil on Aug. 8 and a Divine Liturgy, cross procession and banquet on Aug. 9, with clergy from Fridley, Fargo, Ann Arbor and Des Plaines.",
+   "minnesotaEvents": [
+    {
+     "name": "Patronal Feast and 70th Anniversary",
+     "place": "St. Panteleimon Russian Orthodox Church, 2210 Franklin Ave. SE, Minneapolis",
+     "link": "https://spro.church/celebration-of-patronal-feast-and-70th-anniversary-of-st-panteleimon-parish/",
+     "organizerDates": "Aug. 8-9, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebration of Patronal Feast and 70th Anniversary",
+     "url": "https://spro.church/celebration-of-patronal-feast-and-70th-anniversary-of-st-panteleimon-parish/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "russian-speaking--anniversary-of-russias-fullscale-invasion-of-ukraine",
+   "observanceKey": "anniversary-of-russias-fullscale-invasion-of-ukraine",
+   "name": "Anniversary of Russia's full-scale invasion of Ukraine",
+   "alsoKnownAs": [
+    "February 24"
+   ],
+   "communities": [
+    "russian-speaking"
+   ],
+   "briefLinks": [
+    {
+     "community": "russian-speaking",
+     "title": "Russian-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/russian-speaking/profile.md",
+   "kind": "remembrance",
+   "capsule": "A painful date for many Russian-speaking households; marked in Minnesota with vigils and anti-war gatherings.",
+   "dateRule": "February 24 each year (2022 invasion).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-24",
+     "endDate": null,
+     "source": "CCX Media (fixed anniversary date)",
+     "sourceUrl": "https://ccxmedia.org/news/plymouth-newspaper-keeps-russian-speaking-immigrants-informed-on-ukraine/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-24",
+     "endDate": null,
+     "source": "CCX Media (fixed anniversary date)",
+     "sourceUrl": "https://ccxmedia.org/news/plymouth-newspaper-keeps-russian-speaking-immigrants-informed-on-ukraine/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-24",
+     "endDate": null,
+     "source": "CCX Media (fixed anniversary date)",
+     "sourceUrl": "https://ccxmedia.org/news/plymouth-newspaper-keeps-russian-speaking-immigrants-informed-on-ukraine/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The start of the full-scale war in 2022, which divided some families and friendships and brought new arrivals from both Ukraine and Russia.",
+   "howCelebratedInMinnesota": "On the first anniversary in 2023, the Lowry Avenue Bridge in Minneapolis was lit blue and gold and a candlelight vigil was held there; Zerkalo's publisher planned to attend. Russian anti-war protests were held at the State Capitol in 2023. This is a remembrance, not a celebration; the Ukrainian community page covers its own observances.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Plymouth Newspaper Keeps Russian-Speaking Immigrants Informed on Ukraine",
+     "url": "https://ccxmedia.org/news/plymouth-newspaper-keeps-russian-speaking-immigrants-informed-on-ukraine/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Anti-war Russians fleeing home are finding their way to Minnesota",
+     "url": "https://www.stripes.com/theaters/us/2023-04-12/antiwar-russians-flee-homeland-resettle-minnesota-9781406.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "salvadoran--easter",
@@ -26292,7 +27343,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "religious",
    "capsule": "Christmas for churches on the Julian calendar.",
    "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses December 25 on the Revised Julian calendar.",
@@ -26348,7 +27399,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "religious",
    "capsule": "Resurrection of Jesus in Eastern Christian tradition.",
    "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar.",
@@ -26404,7 +27455,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "religious",
    "capsule": "Resurrection of Jesus in Western Christian tradition.",
    "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
@@ -26456,7 +27507,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "national",
    "capsule": "Independence in 1991.",
    "dateRule": "August 24.",
@@ -26510,7 +27561,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "cultural",
    "capsule": "The major secular winter holiday from the Soviet era, still central for some families.",
    "dateRule": "January 1.",
@@ -26562,7 +27613,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "remembrance",
    "capsule": "The 1932-33 famine in Soviet Ukraine.",
    "dateRule": "Fourth Saturday of November.",
@@ -26614,7 +27665,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ukrainian/profile.md",
    "kind": "cultural",
    "capsule": "A day for wearing embroidered shirts.",
    "dateRule": "Third Thursday of May.",
