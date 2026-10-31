@@ -3,511 +3,438 @@
   "title": "Kenyan Minnesota (current page)",
   "publisher": "One DSD",
   "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan",
-  "dateChecked": "2026-10-31",
   "usedFor": "Page checked for corrections"
  },
  {
   "title": "Kenyan population - Cultural communities",
   "publisher": "Minnesota Compass (Wilder Research)",
   "url": "https://www.mncompass.org/topics/demographics/cultural-communities/kenyan",
-  "dateChecked": "2026-10-31",
   "usedFor": "Population, age, language, income, poverty, education, housing, disability, 2020-2024"
  },
  {
   "title": "Cultural communities",
   "publisher": "Minnesota Compass (Wilder Research)",
   "url": "https://www.mncompass.org/topics/demographics/cultural-communities",
-  "dateChecked": "2026-10-31",
   "usedFor": "How Compass defines cultural communities"
  },
  {
   "title": "By immigrant group",
   "publisher": "Minnesota Compass (Wilder Research)",
   "url": "https://www.mncompass.org/topics/demographics/immigration",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenyan immigrants count 13,699"
  },
  {
   "title": "ACS 2020-2024 5-year, B05006 Place of birth, Minnesota and states",
   "publisher": "U.S. Census Bureau via Census Reporter API",
   "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=040|01000US",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenya-born population by state"
  },
  {
   "title": "ACS 2020-2024 5-year, B05006 Place of birth for the foreign-born, Minnesota",
   "publisher": "U.S. Census Bureau via Census Reporter API",
   "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenya-born Minnesotans, 16,726"
  },
  {
   "title": "ACS 2020-2024 5-year, B05006 Place of birth, Minnesota counties",
   "publisher": "U.S. Census Bureau via Census Reporter API",
   "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=050|04000US27",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenya-born by county"
  },
  {
   "title": "ACS 2020-2024 5-year, B05006 Place of birth, Minnesota places",
   "publisher": "U.S. Census Bureau via Census Reporter API",
   "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=160|04000US27",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenya-born by city"
  },
  {
   "title": "ACS 2020-2024 5-year, B04006 Ancestry, Minnesota",
   "publisher": "U.S. Census Bureau via Census Reporter API",
   "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B04006&geo_ids=04000US27",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenyan ancestry count"
  },
  {
   "title": "ACS 2024 1-year, B05006 Place of birth, Minnesota",
   "publisher": "U.S. Census Bureau via Census Reporter API",
   "url": "https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B05006&geo_ids=04000US27",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenya-born 2024 1-year"
  },
  {
   "title": "ACS 2020-2024 5-year, B16001 Language spoken at home, Minnesota",
   "publisher": "U.S. Census Bureau via Census Reporter API",
   "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B16001&geo_ids=04000US27",
-  "dateChecked": "2026-10-31",
   "usedFor": "Swahili and related languages"
  },
  {
   "title": "Minnesota elects first Kenyan-born state legislator in the country",
   "publisher": "CBS Minnesota",
   "url": "https://www.cbsnews.com/minnesota/news/minnesota-elects-first-kenyan-born-legislator/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Momanyi-Hiltsley biography"
  },
  {
   "title": "Minnesota's longest running newspaper serving African immigrants looks to the future",
   "publisher": "MPR News",
   "url": "https://www.mprnews.org/episode/2022/06/07/minnesotas-longest-running-newspaper-serving-african-immigrants-looks-to-the-future",
-  "dateChecked": "2026-10-31",
   "usedFor": "Mshale history"
  },
  {
   "title": "KWITU chapters",
   "publisher": "Kenyan Women in the United States (KWITU)",
   "url": "https://www.kwitu.org/Kwitu_state_affairs",
-  "dateChecked": "2026-10-31",
   "usedFor": "Minnesota chapter"
  },
  {
   "title": "Staff-strapped Minnesota nursing homes look to new Americans for help",
   "publisher": "KAXE (from MinnPost)",
   "url": "https://www.kaxe.org/minnesota-news/2025-01-10/staff-strapped-minnesota-nursing-homes-look-to-new-americans-for-help",
-  "dateChecked": "2026-10-31",
   "usedFor": "Aging-services workforce and Kenya recruitment"
  },
  {
   "title": "Exploring Global Workforce Solutions in Nairobi, Kenya",
   "publisher": "LeadingAge Minnesota",
   "url": "https://www.leadingagemn.org/news-insights/exploring-global-workforce-solutions-in-nairobi-kenya/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Jan. 2024 delegation, NCLEX center"
  },
  {
   "title": "How an Eye-Opening Visit to Kenya Led to New Connections and Recruitment of Nursing Staff",
   "publisher": "LeadingAge",
   "url": "https://leadingage.org/how-an-eye-opening-visit-to-kenya-led-to-new-connections-and-recruitment-of-nursing-staff/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Recruitment pipeline details, Oct. 2024"
  },
  {
   "title": "About Kenyan Community Seventh-day Adventist Church",
   "publisher": "Kenyan Community SDA Church",
   "url": "https://kenyancommunitymn.adventistchurch.org/about/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Founding 1998, address"
  },
  {
   "title": "Calendar",
   "publisher": "Kenyan Community SDA Church",
   "url": "https://kenyancommunitymn.adventistchurch.org/events/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Current October 2026 activity"
  },
  {
   "title": "Our Partners",
   "publisher": "Holy Trinity Lutheran Church, Minneapolis",
   "url": "https://htlcmpls.org/our-partners/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Minnesota Swahili Christian Congregation"
  },
  {
   "title": "New sounds inside the Mighty Fortress",
   "publisher": "MPR News",
   "url": "https://www.mprnews.org/story/2006/12/21/newmightyfortress",
-  "dateChecked": "2026-10-31",
   "usedFor": "Swahili worship at Holy Trinity since 1993"
  },
  {
   "title": "Tamu Grill and catering - Kenyan Restaurant",
   "publisher": "Tamu Grill",
   "url": "https://tamugrill.com/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Hours, specialties, former Viking Bar"
  },
  {
   "title": "Tamu Grill: Kenyan Food Spotlight",
   "publisher": "City Cast Twin Cities",
   "url": "https://twincities.citycast.fm/keep-it-local/tamu-grill-kenyan-food-spotlight",
-  "dateChecked": "2026-10-31",
   "usedFor": "Tamu at Taste of Minnesota, ugali, Chef Jojo"
  },
  {
   "title": "Kenyan Musician Converts 1905 American Building Into a Posh Restaurant",
   "publisher": "Kenyans.co.ke",
   "url": "https://www.kenyans.co.ke/news/77156-kenyan-musician-converts-1905-american-building-posh-restaurant",
-  "dateChecked": "2026-10-31",
   "usedFor": "Tamu Grill opening July 9, 2022; Fanaka Ndege"
  },
  {
   "title": "A plea for Kenya",
   "publisher": "MPR News",
   "url": "https://www.mprnews.org/story/2008/01/02/a-plea-for-kenya",
-  "dateChecked": "2026-10-31",
   "usedFor": "Jan. 2, 2008 Capitol rally of Kenyan Minnesotans"
  },
  {
   "title": "Huldah Momanyi-Hiltsley - Legislator Record",
   "publisher": "Minnesota Legislative Reference Library",
   "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=15634",
-  "dateChecked": "2026-10-31",
   "usedFor": "Biography, committees, 2022 Senate run"
  },
  {
   "title": "Minnesota House District 38A 2026: Momanyi-Hiltsley vs. Kistler",
   "publisher": "The Ballot Brief",
   "url": "https://theballotbrief.com/state/minnesota/hennepin-county/minnesota-house-district-38a",
-  "dateChecked": "2026-10-31",
   "usedFor": "Nov. 3, 2026 ballot"
  },
  {
   "title": "US-based Kenyan named President of Minnesota Medical Association",
   "publisher": "Bizna Kenya",
   "url": "https://biznakenya.com/dr-edwin-bogonko/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Bogonko biography, Oct. 2024"
  },
  {
   "title": "Past Presidents",
   "publisher": "Minnesota Medical Association",
   "url": "https://www.mnmed.org/about-us/governance-and-leadership/past-presidents",
-  "dateChecked": "2026-10-31",
   "usedFor": "Bogonko 2024 president"
  },
  {
   "title": "Mobile Consular Service - Minneapolis, Minnesota. October 8th, 2026 - October 11th, 2026",
   "publisher": "Embassy of the Republic of Kenya, Washington, D.C.",
   "url": "https://kenyaembassydc.org/mcs-minnesota/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Oct. 8-11, 2026 consular service at Grace Fellowship Church, Brooklyn Park"
  },
  {
   "title": "Kenya Embassy Washington D.C. home page",
   "publisher": "Embassy of the Republic of Kenya, Washington, D.C.",
   "url": "https://www.kenyaembassydc.org/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Current notices, Jamhuri Day 2024 gallery"
  },
  {
   "title": "LeadingAge Minnesota Welcomes Honorable Principal Secretary from the Kenya State Department for Diaspora Affairs at Ebenezer Ridges",
   "publisher": "LeadingAge Minnesota",
   "url": "https://www.leadingagemn.org/news-insights/leadingage-minnesota-welcomes-honorable-principal-secretary-from-the-kenya-state-department-for-diaspora-affairs-at-ebenezer-ridges/",
-  "dateChecked": "2026-10-31",
   "usedFor": "May 2024 visit, Burnsville"
  },
  {
   "title": "Pamoja Kenya - Nonprofit Explorer",
   "publisher": "ProPublica (IRS Form 990 data)",
   "url": "https://projects.propublica.org/nonprofits/organizations/472262327",
-  "dateChecked": "2026-10-31",
   "usedFor": "Mutual benefit org, FY2025 revenue"
  },
  {
   "title": "Mwanyagetinge - Nonprofit Explorer",
   "publisher": "ProPublica (IRS Form 990 data)",
   "url": "https://projects.propublica.org/nonprofits/organizations/201575846",
-  "dateChecked": "2026-10-31",
   "usedFor": "Founded/exempt 2005, revenue 2020-2022, officers"
  },
  {
   "title": "Rochester Kenyan Community Association - RKCA - Nonprofit Explorer",
   "publisher": "ProPublica (IRS data)",
   "url": "https://projects.propublica.org/nonprofits/organizations/422068750",
-  "dateChecked": "2026-10-31",
   "usedFor": "Exempt April 2026, Rochester"
  },
  {
   "title": "Southwest Minnesota Kenyan Community Welfare Association - Nonprofit Explorer",
   "publisher": "ProPublica (IRS data)",
   "url": "https://projects.propublica.org/nonprofits/organizations/814438404",
-  "dateChecked": "2026-10-31",
   "usedFor": "Exempt April 2026, Mankato, mutual benefit"
  },
  {
   "title": "Kenya Rochester Community - Nonprofit Explorer",
   "publisher": "ProPublica (IRS data)",
   "url": "https://projects.propublica.org/nonprofits/organizations/994622702",
-  "dateChecked": "2026-10-31",
   "usedFor": "Exempt Aug. 2025, Rochester"
  },
  {
   "title": "Kenyan Christian Outreach Church - Nonprofit Explorer",
   "publisher": "ProPublica (IRS data)",
   "url": "https://projects.propublica.org/nonprofits/organizations/841714912",
-  "dateChecked": "2026-10-31",
   "usedFor": "Exempt Jan. 2007, St. Paul"
  },
  {
   "title": "Kenya Society For Academic Advancement - Nonprofit Explorer",
   "publisher": "ProPublica (IRS data)",
   "url": "https://projects.propublica.org/nonprofits/organizations/263290257",
-  "dateChecked": "2026-10-31",
   "usedFor": "Exempt Feb. 2009, Brooklyn Center"
  },
  {
   "title": "Refugee Health Statistics",
   "publisher": "Minnesota Department of Health",
   "url": "https://www.health.state.mn.us/communities/rih/stats/index.html",
-  "dateChecked": "2026-10-31",
   "usedFor": "Primary refugee arrival data definitions"
  },
  {
   "title": "Primary Refugee Arrivals by Country of Origin and County (CSV), 1999-2024",
   "publisher": "Minnesota Department of Health",
   "url": "https://www.health.state.mn.us/communities/rih/stats/country.csv",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenya not broken out; only nine named countries plus Other"
  },
  {
   "title": "Thousands of runners compete in Twin Cities Marathon",
   "publisher": "MPR News",
   "url": "https://www.mprnews.org/story/2017/10/01/two-kenyans-win-twin-cities-marathon",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenyan elite winners 2017"
  },
  {
   "title": "Global Education Annual Report FY24",
   "publisher": "Minnesota State University, Mankato",
   "url": "https://mankato.mnsu.edu/globalassets/global-education/global-ed-annual-report-fy24.pdf",
-  "dateChecked": "2026-10-31",
   "usedFor": "49 students from Kenya, fall 2023"
  },
  {
   "title": "African Immigrant Organization Holds COVID-19 Vaccination Event",
   "publisher": "CCX Media",
   "url": "https://ccxmedia.org/news/african-immigrant-organization-holds-covid-19-vaccination-event/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Mwanyagetinge April 2021 vaccine event"
  },
  {
   "title": "Search results for kenyan",
   "publisher": "CCX Media",
   "url": "https://ccxmedia.org/?s=kenyan",
-  "dateChecked": "2026-10-31",
   "usedFor": "Momanyi-Hiltsley 2022 and 2024 races, Mwanyagetinge"
  },
  {
   "title": "Kenyan Immigrant Organization Demands Peaceful Justice",
   "publisher": "CCX Media",
   "url": "https://ccxmedia.org/news/kenyan-immigrant-organization-demands-peaceful-justice/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Mwanyagetinge response to Daunte Wright killing, April 2021"
  },
  {
   "title": "Kenyan Family in Minnesota Finds Success Serving Local Delights",
   "publisher": "Business Today Kenya",
   "url": "https://businesstoday.co.ke/kenyan-family-thrives-in-minessota-serving-local-delights/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Karibu Grocery and Deli, St. Paul East Side, opened Oct. 2018"
  },
  {
   "title": "Karibu Grocery and Deli",
   "publisher": "Karibu Grocery and Deli",
   "url": "https://karibudeli.com/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Address 719 Payne Ave, hours"
  },
  {
   "title": "BIPOC/Multicultural Minneapolis Region Media Directory (updated Oct. 15, 2026)",
   "publisher": "Meet Minneapolis",
   "url": "https://www.minneapolis.org/meetings-events/destination-services/planning-services/bipoc-media/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Mshale listing, current"
  },
  {
   "title": "News and Notes, spring 2025",
   "publisher": "Metro State University",
   "url": "https://www.metrostate.edu/buzz/spring-2025/news-and-notes",
-  "dateChecked": "2026-10-31",
   "usedFor": "Tom Gitaa '96, Mshale"
  },
  {
   "title": "African Rhythms with Salif Keita, Jojo",
   "publisher": "KFAI via Spinitron",
   "url": "https://spinitron.com/KFAI/show/12952/African-Rhythms",
-  "dateChecked": "2026-10-31",
   "usedFor": "Weekly Sunday show, Oct. 25, 2026 playlist"
  },
  {
   "title": "Fear, uncertainty: Trump's immigration crackdown targets East African communities",
   "publisher": "The African Mirror",
   "url": "https://theafricanmirror.africa/news/fear-uncertainty-trumps-immigration-crackdown-targets-east-african-communities/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Dec. 2025 Minnesota enforcement; DHS listing of Kenyan nationals"
  },
  {
   "title": "EBOLA: Held at the edges, raging at the core",
   "publisher": "The African Mirror",
   "url": "https://theafricanmirror.africa/news/kenyas-ebola-fight-held-at-the-edges-raging-at-the-core/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenya's October 2026 Ebola cases"
  },
  {
   "title": "Oromos in Minnesota: The Making of Little Oromia",
   "publisher": "MNopedia (Minnesota Historical Society)",
   "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
-  "dateChecked": "2026-10-31",
   "usedFor": "Oromo refugees via Kenya; Kenya's Oromo population"
  },
  {
   "title": "Minnesota Racial and Ethnic Communities Survey 2017 (developmental disabilities attitudes)",
   "publisher": "Minnesota Governor's Council on Developmental Disabilities",
   "url": "https://mn.gov/mnddc/extra/customer-research/MN-Racial-Ethnic-Communities-Survey2017.txt",
-  "dateChecked": "2026-10-31",
   "usedFor": "East African sample n=52, 4% Kenya-born"
  },
  {
   "title": "ACS 2020-2024 5-year, C18108 Disability by age, Minnesota",
   "publisher": "U.S. Census Bureau via Census Reporter API",
   "url": "https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C18108&geo_ids=04000US27",
-  "dateChecked": "2026-10-31",
   "usedFor": "Statewide disability rate for comparison"
  },
  {
   "title": "Support Augsburg Professor Mzenga Wanyama (Aug. 17, 2018)",
   "publisher": "Women's March Minnesota",
   "url": "https://www.womensmarchmn.com/blog/support-augsburg-professor-mzenga-wanyama/8/17/2018",
-  "dateChecked": "2026-10-31",
   "usedFor": "2018 public deportation fight, own quote"
  },
  {
   "title": "Faculty directory (page for Wanyama, Shekela, with full faculty list)",
   "publisher": "Augsburg University",
   "url": "https://www.augsburg.edu/faculty/wanyama-shekela/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Mzenga Wanyama listed among current faculty"
  },
  {
   "title": "Ethiopian population - Cultural communities",
   "publisher": "Minnesota Compass",
   "url": "https://www.mncompass.org/topics/demographics/cultural-communities/ethiopian",
-  "dateChecked": "2026-10-31",
   "usedFor": "Greater Minnesota share comparison"
  },
  {
   "title": "Liberian population - Cultural communities",
   "publisher": "Minnesota Compass",
   "url": "https://www.mncompass.org/topics/demographics/cultural-communities/liberian",
-  "dateChecked": "2026-10-31",
   "usedFor": "Greater Minnesota share comparison"
  },
  {
   "title": "Kenya Gazette: Official Public Holidays in Kenya (Aug. 15, 2019)",
   "publisher": "Kenyans.co.ke",
   "url": "https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya",
-  "dateChecked": "2026-10-31",
   "usedFor": "Fixed dates of Madaraka, Mashujaa, Jamhuri days"
  },
  {
   "title": "Kenyan refugee camp friendship rekindled in St. Cloud (from St. Cloud Times, July 13, 2015)",
   "publisher": "St. Cloud State TODAY",
   "url": "https://today.stcloudstate.edu/2015/07/13/kenyan-refugee-camp-friendship-rekindled-in-st-cloud/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Somali residents of St. Cloud who grew up in Kenya's Dadaab camp"
  },
  {
   "title": "2026 Kenya Holidays",
   "publisher": "CalendarLabs",
   "url": "https://www.calendarlabs.com/holidays/kenya/2026",
-  "dateChecked": "2026-10-31",
   "usedFor": "2026 Kenyan public holiday dates (Good Friday, Madaraka, Mazingira, Mashujaa, Jamhuri)"
  },
  {
   "title": "Theft of the Blog: Missing the concert",
   "publisher": "MPR News",
   "url": "https://www.mprnews.org/story/2017/11/10/theft-of-the-blog-missing-the-concert",
-  "dateChecked": "2026-10-31",
   "usedFor": "Kenyan Boys Choir at the Capitol, Nov. 2017"
  },
  {
   "title": "Minnesota Kenyan International Development Association - Nonprofit Explorer",
   "publisher": "ProPublica (IRS data)",
   "url": "https://projects.propublica.org/nonprofits/organizations/200803200",
-  "dateChecked": "2026-10-31",
   "usedFor": "Exempt Nov. 2004, Shakopee"
  },
  {
   "title": "Transportation of remains of a Deceased Kenyan",
   "publisher": "Embassy of the Republic of Kenya, Washington, D.C.",
   "url": "https://kenyaembassydc.org/transdeceased/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Documents needed, no-objection letter, no fee"
  },
  {
   "title": "Mwanyagetinge: Inside Largest Organised Group of Kenyans in Minnesota (Feb. 20, 2023)",
   "publisher": "Kenyans.co.ke",
   "url": "https://www.kenyans.co.ke/news/85894-mwanyagetinge-inside-largest-organised-group-kenyans-minnesota",
-  "dateChecked": "2026-10-31",
   "usedFor": "Mwanyagetinge history, Kisii membership, elections, picnic"
  },
  {
   "title": "Kenyans listed for deportation from the US (Dec. 13, 2025)",
   "publisher": "The Star (Kenya)",
   "url": "https://www.the-star.co.ke/news/infographics/2025-12-13-kenyans-listed-for-deportation-from-the-us",
-  "dateChecked": "2026-10-31",
   "usedFor": "Dec. 10, 2025 DHS list; Minnesota among arrest states; 1,282 Kenyans on deportation list Nov. 2024"
  },
  {
   "title": "Ambassador Lazarus Amayo's visit to Minnesota and Consular services outreach programme, Aug. 5-7, 2022",
   "publisher": "Embassy of the Republic of Kenya, Washington, D.C.",
   "url": "https://kenyaembassydc.org/?p=5456",
-  "dateChecked": "2026-10-31",
   "usedFor": "2022 ambassador visit, Maple Grove diaspora meeting"
  },
  {
   "title": "Minnesota's East African immigrants watch in horror and wait for news from Kenya (Feb. 2008)",
   "publisher": "MinnPost",
   "url": "https://www.minnpost.com/politics-policy/2008/02/minnesotas-east-african-immigrants-watch-horror-and-wait-news-kenya/",
-  "dateChecked": "2026-10-31",
   "usedFor": "2007-08 crisis seen from Minnesota; Somali and Ethiopian refugees via Kenyan camps; Opoti, Wanyama"
  },
  {
   "title": "Meet 3 Kenyans who Vied for Seats in US Elections (Nov. 5, 2020)",
   "publisher": "Kenyans.co.ke",
   "url": "https://www.kenyans.co.ke/news/58882-meet-3-kenyans-who-vied-seats-us-elections",
-  "dateChecked": "2026-10-31",
   "usedFor": "2020 city council candidates in Brooklyn Park and Edina"
  },
  {
   "title": "Kenyan-American Seeks City Council Seat in Minnesota (Nov. 2, 2020)",
   "publisher": "VOA Africa",
   "url": "https://www.voaafrica.com/amp/kenyan-american-candidate-talks-minnesota-city-council-/5645213.html",
-  "dateChecked": "2026-10-31",
   "usedFor": "Henry Momanyi Brooklyn Park council run"
  },
  {
   "title": "Ebola Virus Disease",
   "publisher": "Minnesota Department of Health",
   "url": "https://www.health.state.mn.us/diseases/ebola/index.html",
-  "dateChecked": "2026-10-31",
   "usedFor": "No Kenya-specific traveler guidance; last updated May 29, 2026"
  }
 ]

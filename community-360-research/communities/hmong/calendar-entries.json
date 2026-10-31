@@ -4,92 +4,244 @@
   {
    "seedId": "hmong-new-year-minnesota",
    "name": "Minnesota Hmong New Year",
-   "alsoKnownAs": ["Noj Peb Caug", "Hmong New Year (Minnesota)"],
+   "alsoKnownAs": [
+    "Noj Peb Caug",
+    "Hmong New Year (Minnesota)"
+   ],
    "kind": "community festival",
    "capsule": "Two days at Saint Paul RiverCentre each late fall: dance and singing contests, pageant, ball toss, food and family.",
    "dateRule": "Set each year by The United Hmong Family, Inc. Recent years fell on the weekend after Thanksgiving. Home rituals are separate from the public event, and other towns hold their own dates.",
    "dates": [
-    {"year": 2026, "date": "2026-11-28", "endDate": "2026-11-29", "source": "Saint Paul RiverCentre; The United Hmong Family", "sourceUrl": "https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3", "verified": true},
-    {"year": 2027, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false},
-    {"year": 2028, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false}
+    {
+     "year": 2026,
+     "date": "2026-11-28",
+     "endDate": "2026-11-29",
+     "source": "Saint Paul RiverCentre; The United Hmong Family",
+     "sourceUrl": "https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "The end of the harvest and of the old year. Noj Peb Caug translates to \"eat 30.\" The public opening includes a symbolic sweeping away of the old year's misfortunes, and families make offerings to ancestors and may hold soul-calling at home.",
    "howCelebratedInMinnesota": "At RiverCentre, 8 a.m. to 8 p.m. both days, with a ribbon cutting Saturday morning, a grand opening show at Roy Wilkins Auditorium, dance and singing competitions, the Hmong Minnesota Pageant, ball toss, food and vendors. The 2025 event was the 45th, drawing more than 26,000 by RiverCentre's count; the organizer cited over 31,000 in Senate testimony for an earlier year. Adult tickets for 2026 are about $15 to $17.51; seniors 65 and over and children under 42 inches are free.",
    "minnesotaEvents": [
-    {"name": "Minnesota Hmong New Year", "place": "Saint Paul RiverCentre, 175 W. Kellogg Blvd., St. Paul", "link": "https://www.theunitedhmongfamily.org/mnhny", "organizerDates": "11/28/2026 to 11/29/2026, The United Hmong Family", "dateChecked": "2026-10-30"},
-    {"name": "Minnesota Hmong New Year, 2026-2027 listing (ribbon cutting 10:30 a.m. Saturday)", "place": "Saint Paul RiverCentre", "link": "https://hmongtimes.com/event/2026-hmong-new-year/", "organizerDates": "Nov. 28 and 29, 2026, as listed by Hmong Times", "dateChecked": "2026-10-30"}
+    {
+     "name": "Minnesota Hmong New Year",
+     "place": "Saint Paul RiverCentre, 175 W. Kellogg Blvd., St. Paul",
+     "link": "https://www.theunitedhmongfamily.org/mnhny",
+     "organizerDates": "11/28/2026 to 11/29/2026, The United Hmong Family"
+    },
+    {
+     "name": "Minnesota Hmong New Year, 2026-2027 listing (ribbon cutting 10:30 a.m. Saturday)",
+     "place": "Saint Paul RiverCentre",
+     "link": "https://hmongtimes.com/event/2026-hmong-new-year/",
+     "organizerDates": "Nov. 28 and 29, 2026, as listed by Hmong Times"
+    }
    ],
    "workplaceNote": null,
    "sources": [
-    {"title": "Minnesota Hmong New Year event listing", "url": "https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3", "dateChecked": "2026-10-30"},
-    {"title": "2026 Minnesota Hmong New Year, The United Hmong Family", "url": "https://www.theunitedhmongfamily.org/mnhny", "dateChecked": "2026-10-30"},
-    {"title": "Minnesota's Hmong New Year celebrates nearly 50 years, Sahan Journal", "url": "https://sahanjournal.com/arts-culture/minnesota-hmong-new-year-st-paul/", "dateChecked": "2026-10-30"},
-    {"title": "Minnesota Hmong New Year 2026, Visit Saint Paul", "url": "https://www.visitsaintpaul.com/blog/guide-to-hmong-new-year/", "dateChecked": "2026-10-30"},
-    {"title": "Celebrating culture and community, RiverCentre", "url": "https://www.rivercentre.org/news/detail/celebrating-culture-and-community", "dateChecked": "2026-10-30"},
-    {"title": "Testimony of The United Hmong Family, Minnesota Senate, March 25, 2025", "url": "https://www.lrl.mn.gov/archive/minutes/senate/2025/envlegacy/20250325/envlegacy_20250325_SF2590-Maycee-Vang-testimony.pdf", "dateChecked": "2026-10-30"}
+    {
+     "title": "Minnesota Hmong New Year event listing",
+     "url": "https://www.rivercentre.org/events/detail/minnesota-hmong-new-year-3"
+    },
+    {
+     "title": "2026 Minnesota Hmong New Year, The United Hmong Family",
+     "url": "https://www.theunitedhmongfamily.org/mnhny"
+    },
+    {
+     "title": "Minnesota's Hmong New Year celebrates nearly 50 years, Sahan Journal",
+     "url": "https://sahanjournal.com/arts-culture/minnesota-hmong-new-year-st-paul/"
+    },
+    {
+     "title": "Minnesota Hmong New Year 2026, Visit Saint Paul",
+     "url": "https://www.visitsaintpaul.com/blog/guide-to-hmong-new-year/"
+    },
+    {
+     "title": "Celebrating culture and community, RiverCentre",
+     "url": "https://www.rivercentre.org/news/detail/celebrating-culture-and-community"
+    },
+    {
+     "title": "Testimony of The United Hmong Family, Minnesota Senate, March 25, 2025",
+     "url": "https://www.lrl.mn.gov/archive/minutes/senate/2025/envlegacy/20250325/envlegacy_20250325_SF2590-Maycee-Vang-testimony.pdf"
+    }
    ]
   },
   {
    "seedId": null,
    "name": "Hmong New Year in southwest Minnesota",
-   "alsoKnownAs": ["Hmong New Year Celebration 2026-2027", "United Hmong Southwest Minnesota New Year"],
+   "alsoKnownAs": [
+    "Hmong New Year Celebration 2026-2027",
+    "United Hmong Southwest Minnesota New Year"
+   ],
    "kind": "community festival",
    "capsule": "A one-day southwest Minnesota New Year at Marshall's Red Baron Arena, with a fashion show and evening concert.",
    "dateRule": "Set each year by United Hmong Southwest Minnesota; October in 2026.",
    "dates": [
-    {"year": 2026, "date": "2026-10-17", "endDate": null, "source": "United Hmong Southwest Minnesota", "sourceUrl": "https://www.unitedhmongswmn.org/", "verified": true},
-    {"year": 2027, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false},
-    {"year": 2028, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false}
+    {
+     "year": 2026,
+     "date": "2026-10-17",
+     "endDate": null,
+     "source": "United Hmong Southwest Minnesota",
+     "sourceUrl": "https://www.unitedhmongswmn.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Hmong New Year, held locally for a southwest Minnesota community an organizer put at a little over 1,000 people.",
    "howCelebratedInMinnesota": "On Oct. 17, 2026, at Red Baron Arena in Marshall, from 9 a.m., under the theme \"passing the torch,\" with a fashion show and evening music, drawing guests from the Twin Cities and elsewhere.",
    "minnesotaEvents": [
-    {"name": "Hmong New Year Celebration 2026-2027", "place": "Red Baron Arena & Expo, 1651 Victory Dr., Marshall", "link": "https://www.unitedhmongswmn.org/", "organizerDates": "Oct. 17, 2026, 9 a.m. to midnight", "dateChecked": "2026-10-30"}
+    {
+     "name": "Hmong New Year Celebration 2026-2027",
+     "place": "Red Baron Arena & Expo, 1651 Victory Dr., Marshall",
+     "link": "https://www.unitedhmongswmn.org/",
+     "organizerDates": "Oct. 17, 2026, 9 a.m. to midnight"
+    }
    ],
    "workplaceNote": null,
    "sources": [
-    {"title": "United Hmong Southwest Minnesota", "url": "https://www.unitedhmongswmn.org/", "dateChecked": "2026-10-30"},
-    {"title": "A colorful new year affair, Marshall Independent", "url": "https://www.marshallindependent.com/news/local-news/2026/10/a-colorful-new-year-affair/", "dateChecked": "2026-10-30"}
+    {
+     "title": "United Hmong Southwest Minnesota",
+     "url": "https://www.unitedhmongswmn.org/"
+    },
+    {
+     "title": "A colorful new year affair, Marshall Independent",
+     "url": "https://www.marshallindependent.com/news/local-news/2026/10/a-colorful-new-year-affair/"
+    }
    ]
   },
   {
    "seedId": null,
    "name": "Twin Ports and Brooklyn Park Hmong New Year gatherings",
-   "alsoKnownAs": ["Brooklyns' Hmong New Year Celebration", "UMD Hmong Student Association New Year"],
+   "alsoKnownAs": [
+    "Brooklyns' Hmong New Year Celebration",
+    "UMD Hmong Student Association New Year"
+   ],
    "kind": "community festival",
    "capsule": "Smaller local New Year gatherings in Duluth and Brooklyn Park, with 2026 dates not found.",
    "dateRule": "Set locally each year. Brooklyn Park held its event on Dec. 13, 2025. The University of Minnesota Duluth Hmong Student Association held one in 2025 and planned to return.",
    "dates": [
-    {"year": 2026, "date": null, "endDate": null, "source": "No 2026 date found", "sourceUrl": null, "verified": false},
-    {"year": 2027, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false},
-    {"year": 2028, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false}
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Hmong New Year, kept close to home.",
    "howCelebratedInMinnesota": "Brooklyn Park: Community Activity Center, evening of Dec. 13, 2025. Twin Ports: Coppertop church in 2025, organized by UMD students with sponsors and local groups, with traditional music, clothing and food.",
    "minnesotaEvents": [
-    {"name": "Brooklyns' Hmong New Year Celebration", "place": "Brooklyn Park Community Activity Center, 5600 85th Ave. N", "link": "https://ccxmedia.org/event/brooklylns-hmong-new-year-celebration", "organizerDates": "Dec. 13, 2025, 5 to 9 p.m. (past)", "dateChecked": "2026-10-30"},
-    {"name": "Twin Ports Hmong New Year", "place": "Coppertop church, Twin Ports", "link": "https://www.wdio.com/?p=701972", "organizerDates": "2025, exact date not stated", "dateChecked": "2026-10-30"}
+    {
+     "name": "Brooklyns' Hmong New Year Celebration",
+     "place": "Brooklyn Park Community Activity Center, 5600 85th Ave. N",
+     "link": "https://ccxmedia.org/event/brooklylns-hmong-new-year-celebration",
+     "organizerDates": "Dec. 13, 2025, 5 to 9 p.m. (past)"
+    },
+    {
+     "name": "Twin Ports Hmong New Year",
+     "place": "Coppertop church, Twin Ports",
+     "link": "https://www.wdio.com/?p=701972",
+     "organizerDates": "2025, exact date not stated"
+    }
    ],
    "workplaceNote": null,
    "sources": [
-    {"title": "CCX Media community calendar", "url": "https://ccxmedia.org/event/brooklylns-hmong-new-year-celebration", "dateChecked": "2026-10-30"},
-    {"title": "Hmong New Year celebration at the Coppertop church, WDIO", "url": "https://www.wdio.com/?p=701972", "dateChecked": "2026-10-30"}
+    {
+     "title": "CCX Media community calendar",
+     "url": "https://ccxmedia.org/event/brooklylns-hmong-new-year-celebration"
+    },
+    {
+     "title": "Hmong New Year celebration at the Coppertop church, WDIO",
+     "url": "https://www.wdio.com/?p=701972"
+    }
    ]
   },
   {
    "seedId": "may-14-hmong-veterans-and-general-vang-pao-remembrance",
    "name": "Hmong Special Guerrilla Units Remembrance Day",
-   "alsoKnownAs": ["May 14", "Hmong American Day", "Hmong-Lao Veterans Memorial Day (name in 2019 House release)"],
+   "alsoKnownAs": [
+    "May 14",
+    "Hmong American Day",
+    "Hmong-Lao Veterans Memorial Day (name in 2019 House release)"
+   ],
    "kind": "remembrance",
    "capsule": "Minnesota's day, set in state law, to honor Hmong who served in the Secret War in Laos, 1961 to 1975.",
    "dateRule": "May 14 each year, by Minnesota statute. If it falls on a weekend, schools are encouraged to mark it the Friday before.",
    "dates": [
-    {"year": 2026, "date": "2026-05-14", "endDate": null, "source": "Minn. Stat. 10.5805", "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/10.5805", "verified": true},
-    {"year": 2027, "date": "2027-05-14", "endDate": null, "source": "Minn. Stat. 10.5805", "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/10.5805", "verified": true},
-    {"year": 2028, "date": "2028-05-14", "endDate": null, "source": "Minn. Stat. 10.5805", "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/10.5805", "verified": true}
+    {
+     "year": 2026,
+     "date": "2026-05-14",
+     "endDate": null,
+     "source": "Minn. Stat. 10.5805",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/10.5805",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-14",
+     "endDate": null,
+     "source": "Minn. Stat. 10.5805",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/10.5805",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-14",
+     "endDate": null,
+     "source": "Minn. Stat. 10.5805",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/10.5805",
+     "verified": true
+    }
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "May 14, 1975, when the American-trained Hmong command structure ceased operating. It honors those who served in the Secret War. General Vang Pao's departure from Laos, as named in the seed entry, is the same event in many accounts, but the statute frames the day around the Special Guerrilla Units.",
@@ -97,11 +249,26 @@
    "minnesotaEvents": [],
    "workplaceNote": "Minn. Stat. 10.5805 says businesses may close in honor of this day and an employee may request the day off in observance. It does not make the day a paid or required holiday in the wording checked.",
    "sources": [
-    {"title": "Minnesota Statutes 10.5805", "url": "https://www.revisor.mn.gov/statutes/cite/10.5805", "dateChecked": "2026-10-30"},
-    {"title": "State holiday recognizing Hmong veterans to take effect in 2020, WCCO", "url": "https://www.cbsnews.com/amp/minnesota/news/minnesota-holiday-recognizing-hmong-veterans-vietnam-war", "dateChecked": "2026-10-30"},
-    {"title": "Hmong American Day, Saint Paul Public Schools", "url": "https://www.spps.org/families/family-engagement-community-partnerships/parent-advisory-councils/hmong-parent-advisory-council/hmong-american-day", "dateChecked": "2026-10-30"},
-    {"title": "HF 4734, Minnesota Legislature", "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4734/versions/latest/", "dateChecked": "2026-10-30"},
-    {"title": "Minnesota House release on Hmong-Lao Veterans Memorial Day, April 30, 2019", "url": "https://www.house.mn.gov/members/profile/news/15510/25284", "dateChecked": "2026-10-30"}
+    {
+     "title": "Minnesota Statutes 10.5805",
+     "url": "https://www.revisor.mn.gov/statutes/cite/10.5805"
+    },
+    {
+     "title": "State holiday recognizing Hmong veterans to take effect in 2020, WCCO",
+     "url": "https://www.cbsnews.com/amp/minnesota/news/minnesota-holiday-recognizing-hmong-veterans-vietnam-war"
+    },
+    {
+     "title": "Hmong American Day, Saint Paul Public Schools",
+     "url": "https://www.spps.org/families/family-engagement-community-partnerships/parent-advisory-councils/hmong-parent-advisory-council/hmong-american-day"
+    },
+    {
+     "title": "HF 4734, Minnesota Legislature",
+     "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4734/versions/latest/"
+    },
+    {
+     "title": "Minnesota House release on Hmong-Lao Veterans Memorial Day, April 30, 2019",
+     "url": "https://www.house.mn.gov/members/profile/news/15510/25284"
+    }
    ]
   },
   {
@@ -112,98 +279,257 @@
    "capsule": "A May weekend festival tied to Hmong American Day, held at the Capitol in 2025 and Maplewood in 2026.",
    "dateRule": "Set each year by organizers, on a weekend near May 14.",
    "dates": [
-    {"year": 2026, "date": "2026-05-16", "endDate": "2026-05-17", "source": "Northern Star Scouting cultural events calendar, April 2026", "sourceUrl": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf", "verified": true},
-    {"year": 2027, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false},
-    {"year": 2028, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false}
+    {
+     "year": 2026,
+     "date": "2026-05-16",
+     "endDate": "2026-05-17",
+     "source": "Northern Star Scouting cultural events calendar, April 2026",
+     "sourceUrl": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Hmong American Day and Hmong life in Minnesota.",
    "howCelebratedInMinnesota": "A third-party calendar placed it at the Pan Asian Center, 3001 White Bear Ave., Maplewood, in 2026. Mpls.St.Paul Magazine placed the 2025 festival at the State Capitol. The organizer's own page was not found.",
    "minnesotaEvents": [
-    {"name": "Hmong American Day Festival", "place": "Pan Asian Center, Maplewood", "link": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf", "organizerDates": "May 16 and 17, 2026, as listed by a third party, not the organizer", "dateChecked": "2026-10-30"}
+    {
+     "name": "Hmong American Day Festival",
+     "place": "Pan Asian Center, Maplewood",
+     "link": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf",
+     "organizerDates": "May 16 and 17, 2026, as listed by a third party, not the organizer"
+    }
    ],
    "workplaceNote": null,
    "sources": [
-    {"title": "2026 Outreach Cultural Events, Northern Star Scouting", "url": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf", "dateChecked": "2026-10-30"},
-    {"title": "Hmong Americans celebrate 50 years in Minnesota, Mpls.St.Paul Magazine", "url": "https://mspmag.com/arts-and-culture/hmong-americans-celebrate-50-years-in-minnesota/", "dateChecked": "2026-10-30"}
+    {
+     "title": "2026 Outreach Cultural Events, Northern Star Scouting",
+     "url": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf"
+    },
+    {
+     "title": "Hmong Americans celebrate 50 years in Minnesota, Mpls.St.Paul Magazine",
+     "url": "https://mspmag.com/arts-and-culture/hmong-americans-celebrate-50-years-in-minnesota/"
+    }
    ]
   },
   {
    "seedId": null,
    "name": "Qeej and Hmong Arts Festival",
-   "alsoKnownAs": ["Minnesota Qeej and Hmong Arts Festival", "Hmong Qeej Fest"],
+   "alsoKnownAs": [
+    "Minnesota Qeej and Hmong Arts Festival",
+    "Hmong Qeej Fest"
+   ],
    "kind": "cultural",
    "capsule": "A free spring day at Union Depot for qeej masters, dance, breakdancing, crafts and Hmong food.",
    "dateRule": "Set each year by the Hmong Cultural Center; May in 2026.",
    "dates": [
-    {"year": 2026, "date": "2026-05-10", "endDate": null, "source": "Sahan Journal; Hmong Times", "sourceUrl": "https://hmongtimes.com/a-successful-2026-qeej-and-hmong-arts-festival/", "verified": true},
-    {"year": 2027, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false},
-    {"year": 2028, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false}
+    {
+     "year": 2026,
+     "date": "2026-05-10",
+     "endDate": null,
+     "source": "Sahan Journal; Hmong Times",
+     "sourceUrl": "https://hmongtimes.com/a-successful-2026-qeej-and-hmong-arts-festival/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "The qeej, a reed instrument used in funerals and ceremony, and Hmong folk arts.",
    "howCelebratedInMinnesota": "Fifth annual in 2026 at Union Depot in St. Paul, 10 a.m. to 4 p.m., free, with a record 2,438 people.",
    "minnesotaEvents": [
-    {"name": "Qeej and Hmong Arts Festival", "place": "Union Depot, 240 Kellogg Blvd., St. Paul", "link": "https://sahanjournal.com/arts-culture/twin-cities-things-to-do-nahuatl-book-hmong-qeej-fest-somali-museum/", "organizerDates": "May 10, 2026", "dateChecked": "2026-10-30"}
+    {
+     "name": "Qeej and Hmong Arts Festival",
+     "place": "Union Depot, 240 Kellogg Blvd., St. Paul",
+     "link": "https://sahanjournal.com/arts-culture/twin-cities-things-to-do-nahuatl-book-hmong-qeej-fest-somali-museum/",
+     "organizerDates": "May 10, 2026"
+    }
    ],
    "workplaceNote": null,
    "sources": [
-    {"title": "A successful 2026 Qeej and Hmong Arts Festival, Hmong Times", "url": "https://hmongtimes.com/a-successful-2026-qeej-and-hmong-arts-festival/", "dateChecked": "2026-10-30"},
-    {"title": "Twin Cities things to do, Sahan Journal, May 8, 2026", "url": "https://sahanjournal.com/arts-culture/twin-cities-things-to-do-nahuatl-book-hmong-qeej-fest-somali-museum/", "dateChecked": "2026-10-30"}
+    {
+     "title": "A successful 2026 Qeej and Hmong Arts Festival, Hmong Times",
+     "url": "https://hmongtimes.com/a-successful-2026-qeej-and-hmong-arts-festival/"
+    },
+    {
+     "title": "Twin Cities things to do, Sahan Journal, May 8, 2026",
+     "url": "https://sahanjournal.com/arts-culture/twin-cities-things-to-do-nahuatl-book-hmong-qeej-fest-somali-museum/"
+    }
    ]
   },
   {
    "seedId": null,
    "name": "Hmong International Freedom Festival",
-   "alsoKnownAs": ["J4", "Hmong J4", "Hmong Freedom Celebration", "the soccer tournament"],
+   "alsoKnownAs": [
+    "J4",
+    "Hmong J4",
+    "Hmong Freedom Celebration",
+    "the soccer tournament"
+   ],
    "kind": "community festival",
    "capsule": "Two summer days at Como Park's McMurray Field: kato, soccer, food, vendors and family reunions from across the country.",
    "dateRule": "Set each year by The United Hmong Family. Long tied to the Fourth of July weekend; held on the last weekend of June in 2024, 2025 and 2026.",
    "dates": [
-    {"year": 2026, "date": "2026-06-27", "endDate": "2026-06-28", "source": "Visit Saint Paul; KARE 11 confirms the event was held", "sourceUrl": "https://www.visitsaintpaul.com/blog/guide-to-the-hmong-international-freedom-festival/", "verified": true},
-    {"year": 2027, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false},
-    {"year": 2028, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false}
+    {
+     "year": 2026,
+     "date": "2026-06-27",
+     "endDate": "2026-06-28",
+     "source": "Visit Saint Paul; KARE 11 confirms the event was held",
+     "sourceUrl": "https://www.visitsaintpaul.com/blog/guide-to-the-hmong-international-freedom-festival/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Reconnecting Hmong people separated by war, and Hmong freedom in the United States. The 2026 event was billed as the 44th, marking 50 years of Hmong freedom in Minnesota.",
    "howCelebratedInMinnesota": "McMurray Field, 8 a.m. to 8 p.m. both days, $10 in 2026, with kato or sepak takraw, soccer, volleyball, flag football, tuj lub, vendors and music. Reported attendance ranges from 35,507 in 2023, from a University of Minnesota Extension survey as reported by Hoodline, to about 57,000 in 2024 per the organizer. Sources date its start to the 1970s or 1980. Lao Family Community of Minnesota ran it in 2013; The United Hmong Family runs it now.",
    "minnesotaEvents": [
-    {"name": "Hmong International Freedom Festival", "place": "McMurray Field, 1151 Jessamine Ave. W, St. Paul", "link": "https://www.visitsaintpaul.com/blog/guide-to-the-hmong-international-freedom-festival/", "organizerDates": "June 27 and 28, 2026", "dateChecked": "2026-10-30"}
+    {
+     "name": "Hmong International Freedom Festival",
+     "place": "McMurray Field, 1151 Jessamine Ave. W, St. Paul",
+     "link": "https://www.visitsaintpaul.com/blog/guide-to-the-hmong-international-freedom-festival/",
+     "organizerDates": "June 27 and 28, 2026"
+    }
    ],
    "workplaceNote": null,
    "sources": [
-    {"title": "Guide to the Hmong International Freedom Festival 2026, Visit Saint Paul", "url": "https://www.visitsaintpaul.com/blog/guide-to-the-hmong-international-freedom-festival/", "dateChecked": "2026-10-30"},
-    {"title": "Hmong International Freedom Festival held in St. Paul, KARE 11 via Yahoo", "url": "https://www.yahoo.com/lifestyle/articles/hmong-international-freedom-festival-held-025231411.html", "dateChecked": "2026-10-30"},
-    {"title": "Hmong International Freedom Festival celebrates 50 years, Sahan Journal", "url": "https://sahanjournal.com/arts-culture/hmong-international-freedom-fest-2025-como-park-st-paul/", "dateChecked": "2026-10-30"},
-    {"title": "Hmong Freedom Celebration will fill Como Regional Park, Park Bugle, 2013", "url": "https://parkbugle.org/3981/news/hmong-freedom-celebration-will-fill-como-regional-park-july-6-7/", "dateChecked": "2026-10-30"},
-    {"title": "Hmong Freedom Fest to swamp St. Paul, Hoodline", "url": "https://hoodline.com/2026/06/hmong-freedom-fest-to-swamp-st-paul-with-55-000-fans/", "dateChecked": "2026-10-30"}
+    {
+     "title": "Guide to the Hmong International Freedom Festival 2026, Visit Saint Paul",
+     "url": "https://www.visitsaintpaul.com/blog/guide-to-the-hmong-international-freedom-festival/"
+    },
+    {
+     "title": "Hmong International Freedom Festival held in St. Paul, KARE 11 via Yahoo",
+     "url": "https://www.yahoo.com/lifestyle/articles/hmong-international-freedom-festival-held-025231411.html"
+    },
+    {
+     "title": "Hmong International Freedom Festival celebrates 50 years, Sahan Journal",
+     "url": "https://sahanjournal.com/arts-culture/hmong-international-freedom-fest-2025-como-park-st-paul/"
+    },
+    {
+     "title": "Hmong Freedom Celebration will fill Como Regional Park, Park Bugle, 2013",
+     "url": "https://parkbugle.org/3981/news/hmong-freedom-celebration-will-fill-como-regional-park-july-6-7/"
+    },
+    {
+     "title": "Hmong Freedom Fest to swamp St. Paul, Hoodline",
+     "url": "https://hoodline.com/2026/06/hmong-freedom-fest-to-swamp-st-paul-with-55-000-fans/"
+    }
    ]
   },
   {
    "seedId": null,
    "name": "Hmong Minnesota Day at the State Fair",
-   "alsoKnownAs": ["Hmong MN Day", "Hmong Day at the fair"],
+   "alsoKnownAs": [
+    "Hmong MN Day",
+    "Hmong Day at the fair"
+   ],
    "kind": "community festival",
    "capsule": "Labor Day at the Minnesota State Fair: Hmong singers, dancers, martial artists and community leaders on stage.",
    "dateRule": "On Labor Day, the last day of the Minnesota State Fair, in past years. The fair confirms each year's schedule; Labor Day in 2027 falls on Sept. 6, and in 2028 on Sept. 4.",
    "dates": [
-    {"year": 2026, "date": "2026-09-07", "endDate": null, "source": "Minnesota State Fair; Hmong Times", "sourceUrl": "https://www.mnstatefair.org/schedule/hmong-mn-day-at-dan-patch-park/", "verified": true},
-    {"year": 2027, "date": null, "endDate": null, "source": "The fair says the page is not yet updated for 2027; projected Sept. 6 if the Labor Day pattern holds", "sourceUrl": "https://www.mnstatefair.org/schedule/hmong-mn-day-at-dan-patch-park/", "verified": false},
-    {"year": 2028, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false}
+    {
+     "year": 2026,
+     "date": "2026-09-07",
+     "endDate": null,
+     "source": "Minnesota State Fair; Hmong Times",
+     "sourceUrl": "https://www.mnstatefair.org/schedule/hmong-mn-day-at-dan-patch-park/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "The fair says the page is not yet updated for 2027; projected Sept. 6 if the Labor Day pattern holds",
+     "sourceUrl": "https://www.mnstatefair.org/schedule/hmong-mn-day-at-dan-patch-park/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Hmong achievement in Minnesota. It began in 2015, marking four decades. The 2024 event honored founder Tou Ger Xiong.",
    "howCelebratedInMinnesota": "In 2026, Dan Patch Park, 10 a.m. to 5 p.m., the 11th year by the fair's count, with Hmong artists and organizations on stage; the Hmong Museum showed backstrap loom and paj ntaub at the Creative Arts Building the same day.",
    "minnesotaEvents": [
-    {"name": "Hmong MN Day at Dan Patch Park", "place": "Minnesota State Fairgrounds, Falcon Heights", "link": "https://www.mnstatefair.org/schedule/hmong-mn-day-at-dan-patch-park/", "organizerDates": "Sept. 7, 2026, 10 a.m. to 5 p.m.", "dateChecked": "2026-10-30"},
-    {"name": "Hmong Textile Demonstrations", "place": "Creative Arts Building, Minnesota State Fair", "link": "https://www.hmongmuseummn.org/programs", "organizerDates": "Sept. 7, 2026, 9 a.m. to 7 p.m.", "dateChecked": "2026-10-30"}
+    {
+     "name": "Hmong MN Day at Dan Patch Park",
+     "place": "Minnesota State Fairgrounds, Falcon Heights",
+     "link": "https://www.mnstatefair.org/schedule/hmong-mn-day-at-dan-patch-park/",
+     "organizerDates": "Sept. 7, 2026, 10 a.m. to 5 p.m."
+    },
+    {
+     "name": "Hmong Textile Demonstrations",
+     "place": "Creative Arts Building, Minnesota State Fair",
+     "link": "https://www.hmongmuseummn.org/programs",
+     "organizerDates": "Sept. 7, 2026, 9 a.m. to 7 p.m."
+    }
    ],
    "workplaceNote": null,
    "sources": [
-    {"title": "Hmong MN Day at Dan Patch Park, Minnesota State Fair", "url": "https://www.mnstatefair.org/schedule/hmong-mn-day-at-dan-patch-park/", "dateChecked": "2026-10-30"},
-    {"title": "Celebrating Hmong Minnesotans at the Great Minnesota Get-Together, Hmong Times", "url": "https://hmongtimes.com/minnesota-state-fair/", "dateChecked": "2026-10-30"},
-    {"title": "Another big day at the fair for Minnesota's Hmong, MPR News, 2016", "url": "https://www.mprnews.org/story/2016/09/02/big-day-at-fair-minnesota-hmong", "dateChecked": "2026-10-30"},
-    {"title": "Hennepin County celebrates Hmong MN Day, 2024", "url": "https://hennepin.attract.neogov.com/blog/hennepin-county-celebrates-hmong-mn-day-at-state-fair-xb", "dateChecked": "2026-10-30"}
+    {
+     "title": "Hmong MN Day at Dan Patch Park, Minnesota State Fair",
+     "url": "https://www.mnstatefair.org/schedule/hmong-mn-day-at-dan-patch-park/"
+    },
+    {
+     "title": "Celebrating Hmong Minnesotans at the Great Minnesota Get-Together, Hmong Times",
+     "url": "https://hmongtimes.com/minnesota-state-fair/"
+    },
+    {
+     "title": "Another big day at the fair for Minnesota's Hmong, MPR News, 2016",
+     "url": "https://www.mprnews.org/story/2016/09/02/big-day-at-fair-minnesota-hmong"
+    },
+    {
+     "title": "Hennepin County celebrates Hmong MN Day, 2024",
+     "url": "https://hennepin.attract.neogov.com/blog/hennepin-county-celebrates-hmong-mn-day-at-state-fair-xb"
+    }
    ]
   },
   {
@@ -214,19 +540,48 @@
    "capsule": "An October afternoon of Hmong performance, dress, music and storytelling at Mall of America, in its second year.",
    "dateRule": "Announced each year; Oct. 24 in 2026.",
    "dates": [
-    {"year": 2026, "date": "2026-10-24", "endDate": null, "source": "Minnesota Parent", "sourceUrl": "https://www.minnesotaparent.com/event/hmong-arts-celebration-at-the-mall-of-america-2026/", "verified": true},
-    {"year": 2027, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false},
-    {"year": 2028, "date": null, "endDate": null, "source": "No announcement found", "sourceUrl": null, "verified": false}
+    {
+     "year": 2026,
+     "date": "2026-10-24",
+     "endDate": null,
+     "source": "Minnesota Parent",
+     "sourceUrl": "https://www.minnesotaparent.com/event/hmong-arts-celebration-at-the-mall-of-america-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Hmong arts and culture, for older and younger generations together.",
    "howCelebratedInMinnesota": "Noon to 5 p.m., Mall of America, Bloomington, following a first edition described as the first Hmong cultural event at the mall.",
    "minnesotaEvents": [
-    {"name": "Hmong Arts Celebration", "place": "Mall of America, Bloomington", "link": "https://www.minnesotaparent.com/event/hmong-arts-celebration-at-the-mall-of-america-2026/", "organizerDates": "Oct. 24, 2026, noon to 5 p.m.", "dateChecked": "2026-10-30"}
+    {
+     "name": "Hmong Arts Celebration",
+     "place": "Mall of America, Bloomington",
+     "link": "https://www.minnesotaparent.com/event/hmong-arts-celebration-at-the-mall-of-america-2026/",
+     "organizerDates": "Oct. 24, 2026, noon to 5 p.m."
+    }
    ],
    "workplaceNote": null,
    "sources": [
-    {"title": "Hmong Arts Celebration at the Mall of America 2026, Minnesota Parent", "url": "https://www.minnesotaparent.com/event/hmong-arts-celebration-at-the-mall-of-america-2026/", "dateChecked": "2026-10-30"}
+    {
+     "title": "Hmong Arts Celebration at the Mall of America 2026, Minnesota Parent",
+     "url": "https://www.minnesotaparent.com/event/hmong-arts-celebration-at-the-mall-of-america-2026/"
+    }
    ]
   }
  ],

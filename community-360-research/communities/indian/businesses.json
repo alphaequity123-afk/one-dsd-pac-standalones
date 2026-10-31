@@ -1,942 +1,848 @@
 [
-  {
-    "name": "India Chamber of Commerce MN",
-    "type": "chamber of commerce",
-    "neighborhoodOrCity": "Plymouth (3515 Plymouth Blvd, Suite 205)",
-    "whatItIs": "Business chamber with forums, pitch competition, mentorship and gala",
-    "link": "https://www.icocmn.org/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Site lists Economic Forum 2026 on Oct. 22, 2026, at Plymouth Community Center."
-  },
-  {
-    "name": "Nath Companies",
-    "type": "property and hotel management",
-    "neighborhoodOrCity": "Bloomington (900 American Blvd East)",
-    "whatItIs": "Family firm managing hotels, apartments and commercial property; says hands-on since 1977",
-    "link": "https://www.nathcompanies.com/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Copyright 2026, open careers, 50th anniversary campaign listed as live."
-  },
-  {
-    "name": "Village Square Shopping Mall",
-    "type": "shopping mall",
-    "neighborhoodOrCity": "Bloomington",
-    "whatItIs": "Shopping mall shown in Nath Companies portfolio",
-    "link": "https://www.nathcompanies.com/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Named on the manager's site; no hours or dated sign for the mall itself."
-  },
-  {
-    "name": "India Bazaar",
-    "type": "grocery",
-    "neighborhoodOrCity": "Plymouth (3355 Plymouth Blvd) and Eagan (4130 Blackhawk Rd)",
-    "whatItIs": "Indian grocery and cafe; says serving since 2013",
-    "link": "https://www.indiabazaarmn.com/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "LocalFiles shows Diwali sale at Plymouth and Eagan, Oct. 22 to Nov. 8, 2026; site links 2026 mango pre-order."
-  },
-  {
-    "name": "Pooja Grocers",
-    "type": "grocery",
-    "neighborhoodOrCity": "Hilltop / Minneapolis (4864 Central Ave NE per directory)",
-    "whatItIs": "South Asian grocery; MNopedia dates it to 2009",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "LocalFiles shows Diwali sale, Oct. 16 to Nov. 9, 2026. Own website shows only a coming-soon page."
-  },
-  {
-    "name": "India Market",
-    "type": "grocery with butcher and cafe",
-    "neighborhoodOrCity": "Eden Prairie (574 Prairie Center Dr)",
-    "whatItIs": "Grocery and cafe, open since 2018 per a food writer",
-    "link": "https://www.indiamarketmn.com/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Dated food blog post, Feb. 6, 2025; own site live with phone number, no hours shown."
-  },
-  {
-    "name": "Spice Village Restaurant and Grocery",
-    "type": "restaurant and grocery",
-    "neighborhoodOrCity": "Apple Valley (7520 149th St W)",
-    "whatItIs": "Grocery and restaurant side by side, opened summer 2025",
-    "link": "https://myannoyingopinions.com/tag/market-south-asian/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Food blog post dated Nov. 19, 2025; directory notes \"Turning 1.\""
-  },
-  {
-    "name": "Godavari Indian Restaurant",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Eden Prairie (566 Prairie Center Dr)",
-    "whatItIs": "Indian restaurant; a food writer describes a weekday lunch thali",
-    "link": "https://myannoyingopinions.com/tag/twin-cities-indian/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Food blog post \"Godavari, Fall 2026,\" dated Oct. 22, 2026."
-  },
-  {
-    "name": "LocalFiles Minneapolis",
-    "type": "media and directory",
-    "neighborhoodOrCity": "Online",
-    "whatItIs": "Community directory and event listings for Indian readers",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Event listings updated Oct. 2026."
-  },
-  {
-    "name": "SEWA-AIFW",
-    "type": "nonprofit services and free clinics",
-    "neighborhoodOrCity": "Brooklyn Center (6645 James Ave N)",
-    "whatItIs": "Culturally specific family wellness, crisis line, free clinics, senior and neurodiversity programs",
-    "link": "https://www.sewa-aifw.org/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Men's Circle listed for Oct. 31, 2026, on LocalFiles, updated Oct. 29, 2026; site lists recurring programs."
-  },
-  {
-    "name": "Katha Dance Theatre",
-    "type": "dance company and school",
-    "neighborhoodOrCity": "St. Louis Park (5704 W 36th St)",
-    "whatItIs": "Kathak school and company",
-    "link": "https://www.kathadance.org/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "World premiere listed Oct. 10 to 11, 2026."
-  },
-  {
-    "name": "Ragamala Dance Company",
-    "type": "dance company",
-    "neighborhoodOrCity": "Minneapolis",
-    "whatItIs": "Bharatanatyam company founded 1992",
-    "link": "https://www.ragamaladance.org/upcoming",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Performance calendar lists dates through 2027."
-  },
-  {
-    "name": "Nritya Kalakshetra Academy of Performing Arts",
-    "type": "dance school",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Dance academy; a Nritya Kalakshetra Dance Academy was on the IndiaFest 2026 program for Odissi",
-    "link": "https://iamn.org/event/indiafest-2026/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Named on the dated program for IndiaFest, Aug. 15, 2026."
-  },
-  {
-    "name": "Natyakala Dance School",
-    "type": "dance school",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Classical dance school, Sona Nair",
-    "link": "https://iamn.org/event/indiafest-2026/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Named on the dated program for IndiaFest, Aug. 15, 2026."
-  },
-  {
-    "name": "RGK Dance Academy",
-    "type": "dance school",
-    "neighborhoodOrCity": "Minnetonka event",
-    "whatItIs": "Presents Ramayana, Essence of Life, Dec. 12, 2026",
-    "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Event listing updated Oct. 21, 2026."
-  },
-  {
-    "name": "One Simple Plan",
-    "type": "event management",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Logistics and event partner for IndiaFest",
-    "link": "https://iamn.org/event/indiafest-2026/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Named as IndiaFest 2026 logistics partner only; no page of its own opened."
-  },
-  {
-    "name": "Nava Kriti Center for Odissi Dance",
-    "type": "dance school",
-    "neighborhoodOrCity": "Eagan",
-    "whatItIs": "Odissi teaching led by Arpita Ganguly",
-    "link": "https://www.navakritidance.org/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Own site live, no dated event or schedule."
-  },
-  {
-    "name": "SAATH",
-    "type": "dance group",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Free weekly dance classes and performances",
-    "link": "https://www.saathmn.org/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "On the IndiaFest Aug. 15, 2026 program; own site lists weekly classes."
-  },
-  {
-    "name": "Pizza Karma",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Eden Prairie (8451 Joiner Way), Apple Valley (15265 Galaxie Ave #200), Dinkytown Minneapolis (409 14th Ave SE)",
-    "whatItIs": "Pizza restaurant listed under Indian restaurants",
-    "link": "https://www.pizzakarma.com/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Own site lists the three locations, a current menu with tandoor-fired pizzas and bowls, online ordering, catering and a food truck."
-  },
-  {
-    "name": "Tandoor Restaurant",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Bloomington (8062 Morgan Circle); Maple Grove (16477 96th Ave N)",
-    "whatItIs": "MNopedia calls it the longest-running Indian restaurant in Minnesota, opened 1982 in Northeast Minneapolis",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-31",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated directory. The domain tandoorrestaurant.com shows as for sale and tandoormn.com shows unrelated content, so no current own page was found."
-  },
-  {
-    "name": "Sannikat",
-    "type": "media",
-    "neighborhoodOrCity": "Bengali Association of Minnesota",
-    "whatItIs": "Annual Bengali Association magazine",
-    "link": "https://mnbangali.org/",
-    "dateChecked": "2026-10-30",
-    "status": "open",
-    "evidence": "Issues listed through 2025 and a submission call for the 35th anniversary issue."
-  },
-  {
-    "name": "India Spice House",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Eden Prairie (8445 Joiner Way)",
-    "whatItIs": "North and South Indian, Indo-Chinese",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Tamarind Indian Cuisine",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Edina",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Namaste India Grill and Brewhouse",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Arden Hills",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Butter Chicken Restaurant",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Plymouth",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Clay Oven",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Plymouth; Minneapolis",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Dancing Ganesha",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis (1100 Harmon Pl)",
-    "whatItIs": "Indian restaurant",
-    "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists 1100 Harmon Pl. This is a 2026 tourism-bureau listing, not the business's own page."
-  },
-  {
-    "name": "Shandar Biryani",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Rosemount",
-    "whatItIs": "Biryani",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Sizzle Street",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Waconia",
-    "whatItIs": "Listed under Indian restaurants",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Tabla (listed as coming soon)",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Eden Prairie",
-    "whatItIs": "Indian restaurant, listed as coming soon",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Tikka Masala Grill and Buffet",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Columbia Heights",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "India House Restaurant",
-    "type": "restaurant",
-    "neighborhoodOrCity": "St. Paul (758 Grand Ave)",
-    "whatItIs": "Longtime Grand Avenue Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Kumar's",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Apple Valley",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Hyderabad Indian Grill",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Seven Minnesota locations, including Minneapolis, Bloomington, Rochester and Coon Rapids",
-    "whatItIs": "Minnesota-based Hyderabadi restaurant chain known for biryani, owned by Sasi Nimmigadda.",
-    "link": "https://volumeone.org/articles/2026/06/09/392141-hyderabad-indian-grill-aims-for-august-opening-in-eau-claire-first-wisconsin-location",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Volume One, June 9, 2026, reports seven Minnesota locations and a planned first Wisconsin location in Eau Claire."
-  },
-  {
-    "name": "Indian Masala",
-    "type": "restaurant",
-    "neighborhoodOrCity": "City not listed",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Desi Foods Eagan",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Eagan",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Bombay Pizza Kitchen",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Plymouth (2705 Annapolis Ln N); Eden Prairie (16518 W 78th St)",
-    "whatItIs": "Fast-casual Indian pizzeria with curry bowls and self-pour beer.",
-    "link": "https://bombaypizza.kitchen/contact/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Own site says \"Open for dine-in, take-out & delivery\" and lists daily hours, 11:30 a.m. to 9 p.m., for the Plymouth location."
-  },
-  {
-    "name": "Hyderabad House",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Plymouth; Minnetonka",
-    "whatItIs": "Biryani restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Kabob's Indian Grill",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Bloomington (7814 Portland Ave S)",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Thaliwala",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Chanhassen",
-    "whatItIs": "Fast-casual Indian and Nepali thali restaurant from the owners of Gorkha Palace and MomoDosa, Rashmi Bhattachan and Sarala Kattel.",
-    "link": "https://racketmn.com/thaliwala-gorkha-palace-momodosa-chanhassen",
-    "dateChecked": "2026-10-31",
-    "status": "could not confirm open",
-    "evidence": "Racket, Feb. 16, 2023, reported its opening at 7850 Market Blvd. No 2025 or 2026 page was opened."
-  },
-  {
-    "name": "India Kitchen",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis (4th St SE)",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "India Palace",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Eden Prairie; Plymouth; Burnsville; Uptown Minneapolis; Mankato; Duluth",
-    "whatItIs": "Indian restaurant group",
-    "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
-    "dateChecked": "2026-10-31",
-    "status": "could not confirm open",
-    "evidence": "Meet Minneapolis's Diwali page (last updated Oct. 12, 2026) lists India Palace Uptown at 2546 Hennepin Ave, so that location has a 2026 listing; KROC News (Jan. 8, 2026) says brothers Tirlochn and Paramjit Mand opened India Palace in Eden Prairie in 2003 and later expanded in Minnesota and other states. No current page was found for each suburban and outstate location, so the chain as a whole is left unconfirmed."
-  },
-  {
-    "name": "Bawarchi Indian Cuisine",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Plymouth",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Raag on 50th",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis (3812 W 50th St, at 50th and France)",
-    "whatItIs": "Modern Indian restaurant with a cafe and evening cocktail lounge; the site names founder Sohil Goorha.",
-    "link": "https://www.raagon50th.com/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Own site posted events dated Oct. 22, 2026: a Diwali buffet and free bazaar Oct. 24 and 25, 2026, and a Diwali DJ night Oct. 23. Meet Minneapolis's 2026 Diwali page also lists its Oct. 25, 2026 buffet."
-  },
-  {
-    "name": "Muddy Tiger Indian Bistro",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Edina (7015 Amundson Ave)",
-    "whatItIs": "Western Indian (Maharashtrian) street food, begun as a farmers market tent in 2018 and a food truck in 2021; owner Jyotiee Kistner is from Pune.",
-    "link": "https://edinamag.com/muddy-tiger-roars-onto-the-restaurant-scene/",
-    "dateChecked": "2026-10-31",
-    "status": "could not confirm open",
-    "evidence": "Edina Magazine, August 2023, reported the February 2023 opening. Its own site returned a 429 error; no 2025 or 2026 page was opened."
-  },
-  {
-    "name": "India Bar and Grill",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Chaska",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Dosa South Indian Grill",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Bloomington (8654 Lyndale Ave S)",
-    "whatItIs": "South Indian restaurant; blog says opened about April 2022",
-    "link": "https://volumeone.org/articles/2026/06/09/392141-hyderabad-indian-grill-aims-for-august-opening-in-eau-claire-first-wisconsin-location",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Volume One, June 9, 2026, says Sasi Nimmigadda \"also operates Dosa South Indian Grill in Bloomington.\""
-  },
-  {
-    "name": "Namaste Cafe",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Uptown Minneapolis (2512 Hennepin Ave)",
-    "whatItIs": "Indian restaurant",
-    "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists 2512 Hennepin Ave. This is a 2026 tourism-bureau listing, not the business's own page."
-  },
-  {
-    "name": "Kadai Indian Kitchen",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Plymouth",
-    "whatItIs": "Indian kitchen",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Maharaja Indian Cuisine",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Spring Lake Park",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Royal Indian Cuisine",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Rochester",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Blue Diamond Indian Restaurant",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Rochester",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Best of India",
-    "type": "restaurant",
-    "neighborhoodOrCity": "St. Louis Park",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Gandhi Mahal",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis (Meet Minneapolis lists \"Gandhi Mahal: Curry in a Hurry\" at 3025 E Franklin Ave; the older directory listing gave 3009 27th Ave S)",
-    "whatItIs": "Indian restaurant",
-    "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists \"Gandhi Mahal: Curry in a Hurry\" at 3025 E Franklin Ave. This is a 2026 tourism-bureau listing, not the business's own page."
-  },
-  {
-    "name": "Hot Indian",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis skyway; listing says includes Mall of America",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Bombay Palace",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis (11 S 7th St)",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Malabari Kitchen",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis (Cedar Ave S)",
-    "whatItIs": "Indian restaurant",
-    "link": "https://www.malabarikitchen.com/",
-    "dateChecked": "2026-10-31",
-    "status": "could not confirm open",
-    "evidence": "Own site says \"WE ARE CLOSED BECAUSE OF COVID 19 WILL KEEP YOU POSTED,\" lists 414 1/2 Cedar Ave S, and shows a 2019 copyright. No newer sign of operation was found."
-  },
-  {
-    "name": "Bukhara Indian Bistro",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minnetonka",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "ChinDian Cafe",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis",
-    "whatItIs": "Listed under Indian restaurants",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_3.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Taste of India",
-    "type": "restaurant",
-    "neighborhoodOrCity": "St. Louis Park",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_3.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Madras Cafe",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Columbia Heights",
-    "whatItIs": "Indian restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_3.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Annapurna Foods",
-    "type": "grocery",
-    "neighborhoodOrCity": "Plymouth",
-    "whatItIs": "Groceries and kitchen",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Desi Brothers",
-    "type": "grocery",
-    "neighborhoodOrCity": "Bloomington (8098 Morgan Cir S)",
-    "whatItIs": "South Asian grocery; blog noted it in March 2023",
-    "link": "https://ccxmedia.org/news/maple-grove-city-council-approves-specialty-indian-grocery-store",
-    "dateChecked": "2026-10-31",
-    "status": "could not confirm open",
-    "evidence": "CCX Media, June 22, 2021, reported Maple Grove approved a store by Texas-based Desi Brothers Farmers Market. The desibrothers.com site opened on Oct. 31, 2026 describes delivery around Richardson, Texas, and shows no Minnesota store. Not confirmed in Minnesota."
-  },
-  {
-    "name": "Mantra Bazaar",
-    "type": "grocery",
-    "neighborhoodOrCity": "Apple Valley (14809 Granada Ave)",
-    "whatItIs": "Indian grocery with meat counter per blog",
-    "link": "https://mantrabazaar.com/",
-    "dateChecked": "2026-10-31",
-    "status": "could not confirm open",
-    "evidence": "Own online store lists Indian groceries, halal meat and puja goods, but the page opened shows no date, address or hours."
-  },
-  {
-    "name": "Royal India Grocery",
-    "type": "grocery",
-    "neighborhoodOrCity": "Blaine",
-    "whatItIs": "Indian grocery",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Spice Bazaar",
-    "type": "grocery",
-    "neighborhoodOrCity": "Woodbury",
-    "whatItIs": "Indian grocery",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Fresh India",
-    "type": "grocery",
-    "neighborhoodOrCity": "Woodbury (441 Commerce Dr)",
-    "whatItIs": "Vegetarian Indian grocery and eatery. Woodbury Magazine (April 2021) described it as women- and minority-owned by three families.",
-    "link": "https://freshindiamn.com/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "The Hindu Society of Minnesota's Diwali Mela page names Fresh India as the caterer of its Diwali menu; the linked Eventbrite page dates that Mela to Saturday, Oct. 18, 2025. Own site gives the Woodbury address."
-  },
-  {
-    "name": "TBS Mart International Foods",
-    "type": "grocery",
-    "neighborhoodOrCity": "Bloomington",
-    "whatItIs": "Indian grocery",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Surya Foods",
-    "type": "grocery",
-    "neighborhoodOrCity": "Arden Hills",
-    "whatItIs": "Indian grocery",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Poornanand Foods",
-    "type": "grocery",
-    "neighborhoodOrCity": "Eden Prairie",
-    "whatItIs": "Indian grocery",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Little India International Market",
-    "type": "grocery",
-    "neighborhoodOrCity": "Minneapolis (1835 Central Ave NE)",
-    "whatItIs": "MNopedia says a Patel Brothers on Central Avenue became Little India",
-    "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists Little India International Market at 1835 Central Ave NE. This is a 2026 tourism-bureau listing, not the business's own page."
-  },
-  {
-    "name": "Indian Foods Company",
-    "type": "grocery",
-    "neighborhoodOrCity": "Osseo",
-    "whatItIs": "Indian grocery",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Rice-N-Spice",
-    "type": "grocery",
-    "neighborhoodOrCity": "Rochester",
-    "whatItIs": "Indian grocery",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "India Spice House Grocery",
-    "type": "grocery",
-    "neighborhoodOrCity": "Eden Prairie",
-    "whatItIs": "Grocery attached to restaurant",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Halal Groceries",
-    "type": "grocery",
-    "neighborhoodOrCity": "Burnsville",
-    "whatItIs": "Halal grocery with an undated festival sale",
-    "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
-    "dateChecked": "2026-10-31",
-    "status": "could not confirm open",
-    "evidence": "An undated \"Festival Mega Sale\" notice appears on the LocalFiles home page; no dated sign of operation was found."
-  },
-  {
-    "name": "Ram Mortgage",
-    "type": "mortgage",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Purchase and refinance loans",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Vipul Goel, Realtor",
-    "type": "real estate",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Residential and commercial real estate",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Lalith Prasad, Realtor",
-    "type": "real estate",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "New construction real estate",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Best Life Insurance and Retirement Planning",
-    "type": "insurance",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Life insurance and investments",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Next Adventure Counseling and Consulting",
-    "type": "mental health",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Individual and couples therapy",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Luv's Beauty Parlor",
-    "type": "salon",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Beauty parlor",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Glow Beauty Salon",
-    "type": "salon",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Women's services by appointment",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Elegant Threading Bar",
-    "type": "salon",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Threading",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Thanus Beauty Salon",
-    "type": "salon",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Esthetician services",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Looms of Kairavi LLC",
-    "type": "clothing",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Indian saree boutique",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Sizzle Kitchen",
-    "type": "home food and catering",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Home-made North Indian and street food",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Purple Pixel Photography",
-    "type": "photography",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Photo, video and drone",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Sheraj Photography",
-    "type": "photography",
-    "neighborhoodOrCity": "Eden Prairie",
-    "whatItIs": "Weddings, events and portraits",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Sandis Event",
-    "type": "event organizer",
-    "neighborhoodOrCity": "Twin Cities",
-    "whatItIs": "Decor and event management",
-    "link": "https://localfiles.com/indian/minneapolis/",
-    "dateChecked": "2026-10-30",
-    "status": "could not confirm open",
-    "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
-  },
-  {
-    "name": "Curry Corner",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis (201 E Hennepin Ave)",
-    "whatItIs": "Indian eatery and bar near the Mississippi riverfront.",
-    "link": "https://www.currycornermn.com/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Own site lists address, phone, hours page, menus, catering and online ordering; Meet Minneapolis's Diwali page (last updated Oct. 12, 2026) also lists it."
-  },
-  {
-    "name": "Darbar India Grill and Bar",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis (1221 W Lake St #106)",
-    "whatItIs": "Indian restaurant in Uptown.",
-    "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists 1221 W Lake St #106. This is a 2026 tourism-bureau listing, not the business's own page."
-  },
-  {
-    "name": "Spice and Tonic",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Minneapolis (903 S Washington Ave, Suite 150)",
-    "whatItIs": "Indian restaurant downtown.",
-    "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists 903 S Washington Ave Suite 150. This is a 2026 tourism-bureau listing, not the business's own page."
-  },
-  {
-    "name": "Ityhaas",
-    "type": "restaurant",
-    "neighborhoodOrCity": "Rochester (Barlow Plaza)",
-    "whatItIs": "Indian restaurant opened by brothers Tirlochn and Paramjit Mand, who came from India in 1992 and opened India Palace in Eden Prairie in 2003.",
-    "link": "https://krocnews.com/new-indian-restaurant-rochester-barlow-plaza/",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "KROC News, Jan. 8, 2026, reports it opened Jan. 7, 2026."
-  },
-  {
-    "name": "Sambatek",
-    "type": "engineering and professional services firm",
-    "neighborhoodOrCity": "Minnetonka (12800 Whitewater Dr, Suite 300)",
-    "whatItIs": "Civil engineering, surveying, planning and environmental firm. The University of Minnesota supplier directory lists it as minority-owned and Asian-owned; the India Chamber of Commerce MN lists its President and CEO, Sirish Samba, as board chair.",
-    "link": "https://osd.umn.edu/business/sambatek",
-    "dateChecked": "2026-10-31",
-    "status": "open",
-    "evidence": "Own site shows a 2026 news post (\"Sambatek Wraps Up Fall 2026 Career Fair Season!\"); the university directory lists a certificate expiring 12/11/28."
-  }
+ {
+  "name": "India Chamber of Commerce MN",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "Plymouth (3515 Plymouth Blvd, Suite 205)",
+  "whatItIs": "Business chamber with forums, pitch competition, mentorship and gala",
+  "link": "https://www.icocmn.org/",
+  "status": "open",
+  "evidence": "Site lists Economic Forum 2026 on Oct. 22, 2026, at Plymouth Community Center."
+ },
+ {
+  "name": "Nath Companies",
+  "type": "property and hotel management",
+  "neighborhoodOrCity": "Bloomington (900 American Blvd East)",
+  "whatItIs": "Family firm managing hotels, apartments and commercial property; says hands-on since 1977",
+  "link": "https://www.nathcompanies.com/",
+  "status": "open",
+  "evidence": "Copyright 2026, open careers, 50th anniversary campaign listed as live."
+ },
+ {
+  "name": "Village Square Shopping Mall",
+  "type": "shopping mall",
+  "neighborhoodOrCity": "Bloomington",
+  "whatItIs": "Shopping mall shown in Nath Companies portfolio",
+  "link": "https://www.nathcompanies.com/",
+  "status": "could not confirm open",
+  "evidence": "Named on the manager's site; no hours or dated sign for the mall itself."
+ },
+ {
+  "name": "India Bazaar",
+  "type": "grocery",
+  "neighborhoodOrCity": "Plymouth (3355 Plymouth Blvd) and Eagan (4130 Blackhawk Rd)",
+  "whatItIs": "Indian grocery and cafe; says serving since 2013",
+  "link": "https://www.indiabazaarmn.com/",
+  "status": "open",
+  "evidence": "LocalFiles shows Diwali sale at Plymouth and Eagan, Oct. 22 to Nov. 8, 2026; site links 2026 mango pre-order."
+ },
+ {
+  "name": "Pooja Grocers",
+  "type": "grocery",
+  "neighborhoodOrCity": "Hilltop / Minneapolis (4864 Central Ave NE per directory)",
+  "whatItIs": "South Asian grocery; MNopedia dates it to 2009",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "open",
+  "evidence": "LocalFiles shows Diwali sale, Oct. 16 to Nov. 9, 2026. Own website shows only a coming-soon page."
+ },
+ {
+  "name": "India Market",
+  "type": "grocery with butcher and cafe",
+  "neighborhoodOrCity": "Eden Prairie (574 Prairie Center Dr)",
+  "whatItIs": "Grocery and cafe, open since 2018 per a food writer",
+  "link": "https://www.indiamarketmn.com/",
+  "status": "open",
+  "evidence": "Dated food blog post, Feb. 6, 2025; own site live with phone number, no hours shown."
+ },
+ {
+  "name": "Spice Village Restaurant and Grocery",
+  "type": "restaurant and grocery",
+  "neighborhoodOrCity": "Apple Valley (7520 149th St W)",
+  "whatItIs": "Grocery and restaurant side by side, opened summer 2025",
+  "link": "https://myannoyingopinions.com/tag/market-south-asian/",
+  "status": "open",
+  "evidence": "Food blog post dated Nov. 19, 2025; directory notes \"Turning 1.\""
+ },
+ {
+  "name": "Godavari Indian Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eden Prairie (566 Prairie Center Dr)",
+  "whatItIs": "Indian restaurant; a food writer describes a weekday lunch thali",
+  "link": "https://myannoyingopinions.com/tag/twin-cities-indian/",
+  "status": "open",
+  "evidence": "Food blog post \"Godavari, Fall 2026,\" dated Oct. 22, 2026."
+ },
+ {
+  "name": "LocalFiles Minneapolis",
+  "type": "media and directory",
+  "neighborhoodOrCity": "Online",
+  "whatItIs": "Community directory and event listings for Indian readers",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "open",
+  "evidence": "Event listings updated Oct. 2026."
+ },
+ {
+  "name": "SEWA-AIFW",
+  "type": "nonprofit services and free clinics",
+  "neighborhoodOrCity": "Brooklyn Center (6645 James Ave N)",
+  "whatItIs": "Culturally specific family wellness, crisis line, free clinics, senior and neurodiversity programs",
+  "link": "https://www.sewa-aifw.org/",
+  "status": "open",
+  "evidence": "Men's Circle listed for Oct. 31, 2026, on LocalFiles, updated Oct. 29, 2026; site lists recurring programs."
+ },
+ {
+  "name": "Katha Dance Theatre",
+  "type": "dance company and school",
+  "neighborhoodOrCity": "St. Louis Park (5704 W 36th St)",
+  "whatItIs": "Kathak school and company",
+  "link": "https://www.kathadance.org/",
+  "status": "open",
+  "evidence": "World premiere listed Oct. 10 to 11, 2026."
+ },
+ {
+  "name": "Ragamala Dance Company",
+  "type": "dance company",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Bharatanatyam company founded 1992",
+  "link": "https://www.ragamaladance.org/upcoming",
+  "status": "open",
+  "evidence": "Performance calendar lists dates through 2027."
+ },
+ {
+  "name": "Nritya Kalakshetra Academy of Performing Arts",
+  "type": "dance school",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Dance academy; a Nritya Kalakshetra Dance Academy was on the IndiaFest 2026 program for Odissi",
+  "link": "https://iamn.org/event/indiafest-2026/",
+  "status": "open",
+  "evidence": "Named on the dated program for IndiaFest, Aug. 15, 2026."
+ },
+ {
+  "name": "Natyakala Dance School",
+  "type": "dance school",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Classical dance school, Sona Nair",
+  "link": "https://iamn.org/event/indiafest-2026/",
+  "status": "open",
+  "evidence": "Named on the dated program for IndiaFest, Aug. 15, 2026."
+ },
+ {
+  "name": "RGK Dance Academy",
+  "type": "dance school",
+  "neighborhoodOrCity": "Minnetonka event",
+  "whatItIs": "Presents Ramayana, Essence of Life, Dec. 12, 2026",
+  "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+  "status": "open",
+  "evidence": "Event listing updated Oct. 21, 2026."
+ },
+ {
+  "name": "One Simple Plan",
+  "type": "event management",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Logistics and event partner for IndiaFest",
+  "link": "https://iamn.org/event/indiafest-2026/",
+  "status": "could not confirm open",
+  "evidence": "Named as IndiaFest 2026 logistics partner only; no page of its own opened."
+ },
+ {
+  "name": "Nava Kriti Center for Odissi Dance",
+  "type": "dance school",
+  "neighborhoodOrCity": "Eagan",
+  "whatItIs": "Odissi teaching led by Arpita Ganguly",
+  "link": "https://www.navakritidance.org/",
+  "status": "could not confirm open",
+  "evidence": "Own site live, no dated event or schedule."
+ },
+ {
+  "name": "SAATH",
+  "type": "dance group",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Free weekly dance classes and performances",
+  "link": "https://www.saathmn.org/",
+  "status": "open",
+  "evidence": "On the IndiaFest Aug. 15, 2026 program; own site lists weekly classes."
+ },
+ {
+  "name": "Pizza Karma",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eden Prairie (8451 Joiner Way), Apple Valley (15265 Galaxie Ave #200), Dinkytown Minneapolis (409 14th Ave SE)",
+  "whatItIs": "Pizza restaurant listed under Indian restaurants",
+  "link": "https://www.pizzakarma.com/",
+  "status": "open",
+  "evidence": "Own site lists the three locations, a current menu with tandoor-fired pizzas and bowls, online ordering, catering and a food truck."
+ },
+ {
+  "name": "Tandoor Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Bloomington (8062 Morgan Circle); Maple Grove (16477 96th Ave N)",
+  "whatItIs": "MNopedia calls it the longest-running Indian restaurant in Minnesota, opened 1982 in Northeast Minneapolis",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated directory. The domain tandoorrestaurant.com shows as for sale and tandoormn.com shows unrelated content, so no current own page was found."
+ },
+ {
+  "name": "Sannikat",
+  "type": "media",
+  "neighborhoodOrCity": "Bengali Association of Minnesota",
+  "whatItIs": "Annual Bengali Association magazine",
+  "link": "https://mnbangali.org/",
+  "status": "open",
+  "evidence": "Issues listed through 2025 and a submission call for the 35th anniversary issue."
+ },
+ {
+  "name": "India Spice House",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eden Prairie (8445 Joiner Way)",
+  "whatItIs": "North and South Indian, Indo-Chinese",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Tamarind Indian Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Edina",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Namaste India Grill and Brewhouse",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Arden Hills",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Butter Chicken Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Plymouth",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Clay Oven",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Plymouth; Minneapolis",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Dancing Ganesha",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (1100 Harmon Pl)",
+  "whatItIs": "Indian restaurant",
+  "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
+  "status": "open",
+  "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists 1100 Harmon Pl. This is a 2026 tourism-bureau listing, not the business's own page."
+ },
+ {
+  "name": "Shandar Biryani",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rosemount",
+  "whatItIs": "Biryani",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Sizzle Street",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Waconia",
+  "whatItIs": "Listed under Indian restaurants",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Tabla (listed as coming soon)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eden Prairie",
+  "whatItIs": "Indian restaurant, listed as coming soon",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Tikka Masala Grill and Buffet",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Columbia Heights",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "India House Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "St. Paul (758 Grand Ave)",
+  "whatItIs": "Longtime Grand Avenue Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Kumar's",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Apple Valley",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Hyderabad Indian Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Seven Minnesota locations, including Minneapolis, Bloomington, Rochester and Coon Rapids",
+  "whatItIs": "Minnesota-based Hyderabadi restaurant chain known for biryani, owned by Sasi Nimmigadda.",
+  "link": "https://volumeone.org/articles/2026/06/09/392141-hyderabad-indian-grill-aims-for-august-opening-in-eau-claire-first-wisconsin-location",
+  "status": "open",
+  "evidence": "Volume One, June 9, 2026, reports seven Minnesota locations and a planned first Wisconsin location in Eau Claire."
+ },
+ {
+  "name": "Indian Masala",
+  "type": "restaurant",
+  "neighborhoodOrCity": "City not listed",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Desi Foods Eagan",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eagan",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Bombay Pizza Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Plymouth (2705 Annapolis Ln N); Eden Prairie (16518 W 78th St)",
+  "whatItIs": "Fast-casual Indian pizzeria with curry bowls and self-pour beer.",
+  "link": "https://bombaypizza.kitchen/contact/",
+  "status": "open",
+  "evidence": "Own site says \"Open for dine-in, take-out & delivery\" and lists daily hours, 11:30 a.m. to 9 p.m., for the Plymouth location."
+ },
+ {
+  "name": "Hyderabad House",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Plymouth; Minnetonka",
+  "whatItIs": "Biryani restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Kabob's Indian Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Bloomington (7814 Portland Ave S)",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Thaliwala",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Chanhassen",
+  "whatItIs": "Fast-casual Indian and Nepali thali restaurant from the owners of Gorkha Palace and MomoDosa, Rashmi Bhattachan and Sarala Kattel.",
+  "link": "https://racketmn.com/thaliwala-gorkha-palace-momodosa-chanhassen",
+  "status": "could not confirm open",
+  "evidence": "Racket, Feb. 16, 2023, reported its opening at 7850 Market Blvd. No 2025 or 2026 page was opened."
+ },
+ {
+  "name": "India Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (4th St SE)",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "India Palace",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Eden Prairie; Plymouth; Burnsville; Uptown Minneapolis; Mankato; Duluth",
+  "whatItIs": "Indian restaurant group",
+  "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
+  "status": "could not confirm open",
+  "evidence": "Meet Minneapolis's Diwali page (last updated Oct. 12, 2026) lists India Palace Uptown at 2546 Hennepin Ave, so that location has a 2026 listing; KROC News (Jan. 8, 2026) says brothers Tirlochn and Paramjit Mand opened India Palace in Eden Prairie in 2003 and later expanded in Minnesota and other states. No current page was found for each suburban and outstate location, so the chain as a whole is left unconfirmed."
+ },
+ {
+  "name": "Bawarchi Indian Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Plymouth",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Raag on 50th",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (3812 W 50th St, at 50th and France)",
+  "whatItIs": "Modern Indian restaurant with a cafe and evening cocktail lounge; the site names founder Sohil Goorha.",
+  "link": "https://www.raagon50th.com/",
+  "status": "open",
+  "evidence": "Own site posted events dated Oct. 22, 2026: a Diwali buffet and free bazaar Oct. 24 and 25, 2026, and a Diwali DJ night Oct. 23. Meet Minneapolis's 2026 Diwali page also lists its Oct. 25, 2026 buffet."
+ },
+ {
+  "name": "Muddy Tiger Indian Bistro",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Edina (7015 Amundson Ave)",
+  "whatItIs": "Western Indian (Maharashtrian) street food, begun as a farmers market tent in 2018 and a food truck in 2021; owner Jyotiee Kistner is from Pune.",
+  "link": "https://edinamag.com/muddy-tiger-roars-onto-the-restaurant-scene/",
+  "status": "could not confirm open",
+  "evidence": "Edina Magazine, August 2023, reported the February 2023 opening. Its own site returned a 429 error; no 2025 or 2026 page was opened."
+ },
+ {
+  "name": "India Bar and Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Chaska",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Dosa South Indian Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Bloomington (8654 Lyndale Ave S)",
+  "whatItIs": "South Indian restaurant; blog says opened about April 2022",
+  "link": "https://volumeone.org/articles/2026/06/09/392141-hyderabad-indian-grill-aims-for-august-opening-in-eau-claire-first-wisconsin-location",
+  "status": "open",
+  "evidence": "Volume One, June 9, 2026, says Sasi Nimmigadda \"also operates Dosa South Indian Grill in Bloomington.\""
+ },
+ {
+  "name": "Namaste Cafe",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Uptown Minneapolis (2512 Hennepin Ave)",
+  "whatItIs": "Indian restaurant",
+  "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
+  "status": "open",
+  "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists 2512 Hennepin Ave. This is a 2026 tourism-bureau listing, not the business's own page."
+ },
+ {
+  "name": "Kadai Indian Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Plymouth",
+  "whatItIs": "Indian kitchen",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Maharaja Indian Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Spring Lake Park",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Royal Indian Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rochester",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Blue Diamond Indian Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rochester",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Best of India",
+  "type": "restaurant",
+  "neighborhoodOrCity": "St. Louis Park",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Gandhi Mahal",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (Meet Minneapolis lists \"Gandhi Mahal: Curry in a Hurry\" at 3025 E Franklin Ave; the older directory listing gave 3009 27th Ave S)",
+  "whatItIs": "Indian restaurant",
+  "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
+  "status": "open",
+  "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists \"Gandhi Mahal: Curry in a Hurry\" at 3025 E Franklin Ave. This is a 2026 tourism-bureau listing, not the business's own page."
+ },
+ {
+  "name": "Hot Indian",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis skyway; listing says includes Mall of America",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Bombay Palace",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (11 S 7th St)",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Malabari Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (Cedar Ave S)",
+  "whatItIs": "Indian restaurant",
+  "link": "https://www.malabarikitchen.com/",
+  "status": "could not confirm open",
+  "evidence": "Own site says \"WE ARE CLOSED BECAUSE OF COVID 19 WILL KEEP YOU POSTED,\" lists 414 1/2 Cedar Ave S, and shows a 2019 copyright. No newer sign of operation was found."
+ },
+ {
+  "name": "Bukhara Indian Bistro",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minnetonka",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_2.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "ChinDian Cafe",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Listed under Indian restaurants",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_3.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Taste of India",
+  "type": "restaurant",
+  "neighborhoodOrCity": "St. Louis Park",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_3.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Madras Cafe",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Columbia Heights",
+  "whatItIs": "Indian restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/restaurants/list_3.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Annapurna Foods",
+  "type": "grocery",
+  "neighborhoodOrCity": "Plymouth",
+  "whatItIs": "Groceries and kitchen",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Desi Brothers",
+  "type": "grocery",
+  "neighborhoodOrCity": "Bloomington (8098 Morgan Cir S)",
+  "whatItIs": "South Asian grocery; blog noted it in March 2023",
+  "link": "https://ccxmedia.org/news/maple-grove-city-council-approves-specialty-indian-grocery-store",
+  "status": "could not confirm open",
+  "evidence": "CCX Media, June 22, 2021, reported Maple Grove approved a store by Texas-based Desi Brothers Farmers Market. The desibrothers.com site opened on Oct. 31, 2026 describes delivery around Richardson, Texas, and shows no Minnesota store. Not confirmed in Minnesota."
+ },
+ {
+  "name": "Mantra Bazaar",
+  "type": "grocery",
+  "neighborhoodOrCity": "Apple Valley (14809 Granada Ave)",
+  "whatItIs": "Indian grocery with meat counter per blog",
+  "link": "https://mantrabazaar.com/",
+  "status": "could not confirm open",
+  "evidence": "Own online store lists Indian groceries, halal meat and puja goods, but the page opened shows no date, address or hours."
+ },
+ {
+  "name": "Royal India Grocery",
+  "type": "grocery",
+  "neighborhoodOrCity": "Blaine",
+  "whatItIs": "Indian grocery",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Spice Bazaar",
+  "type": "grocery",
+  "neighborhoodOrCity": "Woodbury",
+  "whatItIs": "Indian grocery",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Fresh India",
+  "type": "grocery",
+  "neighborhoodOrCity": "Woodbury (441 Commerce Dr)",
+  "whatItIs": "Vegetarian Indian grocery and eatery. Woodbury Magazine (April 2021) described it as women- and minority-owned by three families.",
+  "link": "https://freshindiamn.com/",
+  "status": "open",
+  "evidence": "The Hindu Society of Minnesota's Diwali Mela page names Fresh India as the caterer of its Diwali menu; the linked Eventbrite page dates that Mela to Saturday, Oct. 18, 2025. Own site gives the Woodbury address."
+ },
+ {
+  "name": "TBS Mart International Foods",
+  "type": "grocery",
+  "neighborhoodOrCity": "Bloomington",
+  "whatItIs": "Indian grocery",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Surya Foods",
+  "type": "grocery",
+  "neighborhoodOrCity": "Arden Hills",
+  "whatItIs": "Indian grocery",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Poornanand Foods",
+  "type": "grocery",
+  "neighborhoodOrCity": "Eden Prairie",
+  "whatItIs": "Indian grocery",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Little India International Market",
+  "type": "grocery",
+  "neighborhoodOrCity": "Minneapolis (1835 Central Ave NE)",
+  "whatItIs": "MNopedia says a Patel Brothers on Central Avenue became Little India",
+  "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
+  "status": "open",
+  "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists Little India International Market at 1835 Central Ave NE. This is a 2026 tourism-bureau listing, not the business's own page."
+ },
+ {
+  "name": "Indian Foods Company",
+  "type": "grocery",
+  "neighborhoodOrCity": "Osseo",
+  "whatItIs": "Indian grocery",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Rice-N-Spice",
+  "type": "grocery",
+  "neighborhoodOrCity": "Rochester",
+  "whatItIs": "Indian grocery",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "India Spice House Grocery",
+  "type": "grocery",
+  "neighborhoodOrCity": "Eden Prairie",
+  "whatItIs": "Grocery attached to restaurant",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Halal Groceries",
+  "type": "grocery",
+  "neighborhoodOrCity": "Burnsville",
+  "whatItIs": "Halal grocery with an undated festival sale",
+  "link": "https://localfiles.com/indian/minneapolis/yellow_pages/grocers/list_1.htm",
+  "status": "could not confirm open",
+  "evidence": "An undated \"Festival Mega Sale\" notice appears on the LocalFiles home page; no dated sign of operation was found."
+ },
+ {
+  "name": "Ram Mortgage",
+  "type": "mortgage",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Purchase and refinance loans",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Vipul Goel, Realtor",
+  "type": "real estate",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Residential and commercial real estate",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Lalith Prasad, Realtor",
+  "type": "real estate",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "New construction real estate",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Best Life Insurance and Retirement Planning",
+  "type": "insurance",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Life insurance and investments",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Next Adventure Counseling and Consulting",
+  "type": "mental health",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Individual and couples therapy",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Luv's Beauty Parlor",
+  "type": "salon",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Beauty parlor",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Glow Beauty Salon",
+  "type": "salon",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Women's services by appointment",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Elegant Threading Bar",
+  "type": "salon",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Threading",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Thanus Beauty Salon",
+  "type": "salon",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Esthetician services",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Looms of Kairavi LLC",
+  "type": "clothing",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Indian saree boutique",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Sizzle Kitchen",
+  "type": "home food and catering",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Home-made North Indian and street food",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Purple Pixel Photography",
+  "type": "photography",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Photo, video and drone",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Sheraj Photography",
+  "type": "photography",
+  "neighborhoodOrCity": "Eden Prairie",
+  "whatItIs": "Weddings, events and portraits",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Sandis Event",
+  "type": "event organizer",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Decor and event management",
+  "link": "https://localfiles.com/indian/minneapolis/",
+  "status": "could not confirm open",
+  "evidence": "Listed in an undated community directory; no dated sign of operation on an opened page."
+ },
+ {
+  "name": "Curry Corner",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (201 E Hennepin Ave)",
+  "whatItIs": "Indian eatery and bar near the Mississippi riverfront.",
+  "link": "https://www.currycornermn.com/",
+  "status": "open",
+  "evidence": "Own site lists address, phone, hours page, menus, catering and online ordering; Meet Minneapolis's Diwali page (last updated Oct. 12, 2026) also lists it."
+ },
+ {
+  "name": "Darbar India Grill and Bar",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (1221 W Lake St #106)",
+  "whatItIs": "Indian restaurant in Uptown.",
+  "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
+  "status": "open",
+  "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists 1221 W Lake St #106. This is a 2026 tourism-bureau listing, not the business's own page."
+ },
+ {
+  "name": "Spice and Tonic",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (903 S Washington Ave, Suite 150)",
+  "whatItIs": "Indian restaurant downtown.",
+  "link": "https://www.minneapolis.org/calendar/holidays/diwali/",
+  "status": "open",
+  "evidence": "Listed among Minneapolis Indian restaurants and markets on Meet Minneapolis's Diwali page, which shows \"Last Updated: 10/12/2026\"; that page lists 903 S Washington Ave Suite 150. This is a 2026 tourism-bureau listing, not the business's own page."
+ },
+ {
+  "name": "Ityhaas",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rochester (Barlow Plaza)",
+  "whatItIs": "Indian restaurant opened by brothers Tirlochn and Paramjit Mand, who came from India in 1992 and opened India Palace in Eden Prairie in 2003.",
+  "link": "https://krocnews.com/new-indian-restaurant-rochester-barlow-plaza/",
+  "status": "open",
+  "evidence": "KROC News, Jan. 8, 2026, reports it opened Jan. 7, 2026."
+ },
+ {
+  "name": "Sambatek",
+  "type": "engineering and professional services firm",
+  "neighborhoodOrCity": "Minnetonka (12800 Whitewater Dr, Suite 300)",
+  "whatItIs": "Civil engineering, surveying, planning and environmental firm. The University of Minnesota supplier directory lists it as minority-owned and Asian-owned; the India Chamber of Commerce MN lists its President and CEO, Sirish Samba, as board chair.",
+  "link": "https://osd.umn.edu/business/sambatek",
+  "status": "open",
+  "evidence": "Own site shows a 2026 news post (\"Sambatek Wraps Up Fall 2026 Career Fair Season!\"); the university directory lists a certificate expiring 12/11/28."
+ }
 ]

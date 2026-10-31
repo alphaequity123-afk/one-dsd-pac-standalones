@@ -3,525 +3,450 @@
   "title": "Puerto Rican population, cultural communities (ACS 2020-2024)",
   "publisher": "Minnesota Compass (Wilder Research)",
   "url": "https://www.mncompass.org/topics/demographics/cultural-communities/puerto-rican",
-  "dateChecked": "2026-10-31",
   "usedFor": "Population, place, age, language, income, poverty, housing, education, work, insurance, disability"
  },
  {
   "title": "Mexican population, cultural communities",
   "publisher": "Minnesota Compass",
   "url": "https://www.mncompass.org/topics/demographics/cultural-communities/mexican",
-  "dateChecked": "2026-10-31",
   "usedFor": "Disability comparison"
  },
  {
   "title": "Guatemalan population, cultural communities",
   "publisher": "Minnesota Compass",
   "url": "https://www.mncompass.org/topics/demographics/cultural-communities/guatemalan",
-  "dateChecked": "2026-10-31",
   "usedFor": "Disability comparison"
  },
  {
   "title": "Salvadoran population, cultural communities",
   "publisher": "Minnesota Compass",
   "url": "https://www.mncompass.org/topics/demographics/cultural-communities/salvadoran",
-  "dateChecked": "2026-10-31",
   "usedFor": "Disability comparison"
  },
  {
   "title": "The importance of data disaggregation: Minnesota's Hispanic and Latino communities (Sept. 18, 2024)",
   "publisher": "Minnesota Compass",
   "url": "https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-hispanic-and-latino-communities",
-  "dateChecked": "2026-10-31",
   "usedFor": "Education, homeownership over time"
  },
  {
   "title": "Updated: Minnesota's Latinos in numbers (Oct. 11, 2021)",
   "publisher": "Minnesota Compass",
   "url": "https://www.mncompass.org/data-insights/articles/updated-minnesotas-latinos-numbers-overview-minnesota-compass-data",
-  "dateChecked": "2026-10-31",
   "usedFor": "Earlier education figures (corrections)"
  },
  {
   "title": "Pedacito de Tierra: Music and the Puerto Rican Diaspora in Minnesota (episode 201, Oct. 9, 2025)",
   "publisher": "Minnesota Historical Society",
   "url": "https://www.mnhs.org/unraveled/episode-201",
-  "dateChecked": "2026-10-31",
   "usedFor": "Second-largest Latino group, artists, Proyecto La Plena CD"
  },
  {
   "title": "Minnesota Unraveled EP 201 transcript (Oct. 9, 2025)",
   "publisher": "Minnesota Historical Society",
   "url": "https://www.mnhs.org/hubfs/MNHS-Minnesota-Unraveled-EP201-Transcript.pdf",
-  "dateChecked": "2026-10-31",
   "usedFor": "History, 1890 census, bomba, interviews, identity"
  },
  {
   "title": "Minnesota History Center Hosts Concert Highlighting Puerto Rican Culture and History (Jan. 6, 2026)",
   "publisher": "Minnesota Historical Society",
   "url": "https://www.mnhs.org/media/news/pedacito-concert-0",
-  "dateChecked": "2026-10-31",
   "usedFor": "Pedacito de Tierra premiere"
  },
  {
   "title": "Pedacito de Tierra: World Premiere Concert (event page)",
   "publisher": "Minnesota Historical Society",
   "url": "https://www.mnhs.org/events/36171090195",
-  "dateChecked": "2026-10-31",
   "usedFor": "Sold out; second show at Cedar Jan. 16"
  },
  {
   "title": "Minnesotanos: Latino Journeys in Minnesota (last modified Jan. 14, 2026)",
   "publisher": "MNopedia, Minnesota Historical Society",
   "url": "https://www.mnhs.org/mnopedia/search/index/minnesotanos-latino-journeys-minnesota",
-  "dateChecked": "2026-10-31",
   "usedFor": "Political office, Proyecto La Plena masks, Humphrey button"
  },
  {
   "title": "Becoming SotaRicans (StoryMap, 2022), by Tabatha Cruz",
   "publisher": "ArcGIS StoryMaps / University of Minnesota doctoral project",
   "url": "https://storymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015",
-  "dateChecked": "2026-10-31",
   "usedFor": "Early records, oral histories, organizations, counties, post-Maria counts, El Colegio mural, Encuentro Boricua"
  },
  {
   "title": "Becoming SotaRicans, StoryMap content (public item data)",
   "publisher": "ArcGIS Online",
   "url": "https://www.arcgis.com/sharing/rest/content/items/5dadf38cccd64776a9da479542b30015/data?f=json",
-  "dateChecked": "2026-10-31",
   "usedFor": "Text of the StoryMap above"
  },
  {
   "title": "In hurricane's wake, Puerto Ricans find safe harbor in Minnesota (Aug. 21, 2019)",
   "publisher": "MPR News / Sahan Journal",
   "url": "https://www.mprnews.org/story/2019/08/21/in-hurricanes-wake-puerto-ricans-find-safe-harbor-in-minnesota",
-  "dateChecked": "2026-10-31",
   "usedFor": "Post-Maria arrivals, barriers, residency rule"
  },
  {
   "title": "Puerto Rican connection brings workers, diversity to Roseau (Star Tribune, March 7, 2020), republished",
   "publisher": "Roseau Civic and Commerce (goroseau.com)",
   "url": "https://goroseau.com/star-tribune-puerto-rican-workers-bring-diversity-to-roseau/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Polaris recruitment, Roseau life, voting, food"
  },
  {
   "title": "Minnesota helps Puerto Ricans relocate after disaster (Dec. 23, 2017)",
   "publisher": "FOX 9",
   "url": "https://www.fox9.com/news/minnesota-helps-puerto-ricans-relocate-after-disaster",
-  "dateChecked": "2026-10-31",
   "usedFor": "Coalition of Boricuas, arrivals count"
  },
  {
   "title": "Heartfelt reunion: Minnesota family welcomes Puerto Rican loved ones (Oct. 20, 2017)",
   "publisher": "FOX 9",
   "url": "https://www.fox9.com/news/heartfelt-reunion-minnesota-family-welcomes-puerto-rican-loved-ones-thanks-to-community-effort",
-  "dateChecked": "2026-10-31",
   "usedFor": "Family relocation, food"
  },
  {
   "title": "'We cannot communicate with our families': Puerto Ricans in Minnesota push for aid (Sept. 22, 2017)",
   "publisher": "MPR News",
   "url": "https://www.mprnews.org/story/2017/09/22/we-cannot-communicate-with-our-families-puerto-ricans-in-minnesota-push-for-aid",
-  "dateChecked": "2026-10-31",
   "usedFor": "13,000 estimate, Franzen, Mariani, El Fondo Boricua"
  },
  {
   "title": "Counter Stories: Minnesota's Puerto Rican community responds (Oct. 13, 2017)",
   "publisher": "MPR News",
   "url": "https://www.mprnews.org/story/2017/10/13/counter-stories-puerto-rico",
-  "dateChecked": "2026-10-31",
   "usedFor": "Minnesota Alliance of Communities for Puerto Rico airdrop"
  },
  {
   "title": "Minnesotans with Puerto Rico ties remember Maria, work to help recovery from Fiona (Sept. 2022)",
   "publisher": "Echo Press / Forum (MPR News reporting)",
   "url": "https://www.echopress.com/news/minnesota/minnesotans-with-puerto-rico-ties-remember-maria-work-to-help-recovery-from-fiona",
-  "dateChecked": "2026-10-31",
   "usedFor": "2022 vigil at El Colegio, PRIM, Fiona relief"
  },
  {
   "title": "Coalition Of Minnesota Puerto Ricans Helping Hurricane Maria Victims (Oct. 1, 2017)",
   "publisher": "WCCO / CBS Minnesota",
   "url": "https://www.cbsnews.com/minnesota/news/minnesota-coalition-puerto-rico-hurricane-victims/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Relief packing at El Colegio"
  },
  {
   "title": "Minnesota musicians come together to help Puerto Rico (Oct. 4, 2017)",
   "publisher": "The Current (MPR)",
   "url": "https://www.thecurrent.org/feature/2017/10/04/minnesota-musicians-come-together-to-help-puerto-rico",
-  "dateChecked": "2026-10-31",
   "usedFor": "PRIM founders, Tufawon, benefits"
  },
  {
   "title": "New music from Minnesota musicians to pump up in May (May 10, 2022)",
   "publisher": "The Current (MPR)",
   "url": "https://www.thecurrent.org/feature/2022/05/10/new-music-from-minnesota-musicians-to-pump-up-in-may",
-  "dateChecked": "2026-10-31",
   "usedFor": "Tearra Oso album"
  },
  {
   "title": "Trip to Puerto Rico inspires Minnesota groups, elected officials (Sept. 20, 2023)",
   "publisher": "Sahan Journal",
   "url": "https://sahanjournal.com/climate-environment/copal-climate-trip-puerto-rico/",
-  "dateChecked": "2026-10-31",
   "usedFor": "COPAL delegation, 17,700 estimate, Trautmann"
  },
  {
   "title": "Artist María Isa Pérez-Hedges elected to Minnesota House (Nov. 8, 2022)",
   "publisher": "Sahan Journal",
   "url": "https://sahanjournal.com/democracy-politics/maria-isa-wins-minnesota-house-west-side-st-paul-elections-2022/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Election, background, SotaRico, insulin"
  },
  {
   "title": "After Worthington incident, legislator moves to protect Pride flags (March 6, 2024)",
   "publisher": "Sahan Journal",
   "url": "https://sahanjournal.com/education/minnesota-bill-leigh-finke-school-districts-lgbtq-pride-flag/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Worthington flag dispute"
  },
  {
   "title": "María Isa Pérez-Vega, Legislator Record",
   "publisher": "Minnesota Legislative Reference Library",
   "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=15574",
-  "dateChecked": "2026-10-31",
   "usedFor": "Biography, first openly LGBTQ Latina, county race, retirement speech"
  },
  {
   "title": "Carlos Mariani, Legislator Record",
   "publisher": "Minnesota Legislative Reference Library",
   "url": "https://www.lrl.mn.gov/legdb/fulldetail?ID=10399",
-  "dateChecked": "2026-10-31",
   "usedFor": "Service, Puerto Rican ancestry"
  },
  {
   "title": "Melisa López Franzen, Legislator Record",
   "publisher": "Minnesota Legislative Reference Library",
   "url": "https://www.lrl.mn.gov/legdb/fulldetail?ID=15379",
-  "dateChecked": "2026-10-31",
   "usedFor": "Service, Aguadilla, first Latina caucus leader"
  },
  {
   "title": "Rep. María Isa Pérez-Vega, Legislative Newsletter: 2026 Session Update (March 9, 2026)",
   "publisher": "Minnesota House of Representatives",
   "url": "https://www.house.mn.gov/members/profile/news/15574/41317",
-  "dateChecked": "2026-10-31",
   "usedFor": "Proud Boricua, PROMESA, dual immersion"
  },
  {
   "title": "2026 Election Guide: Ramsey County Commissioner District 5, María Isa Pérez-Vega",
   "publisher": "Community Reporter",
   "url": "https://communityreporter.org/2026-election-guide-ramsey-county-commissioner-district-5-maria-isa-perez-vega/",
-  "dateChecked": "2026-10-31",
   "usedFor": "County race, ICE statement, type 1 diabetes, disability inclusion"
  },
  {
   "title": "Noecker, Perez-Vega Announce Runs for Ramsey County Board Seat Long Held By Rafael Ortega",
   "publisher": "Community Reporter",
   "url": "https://communityreporter.org/noecker-perez-vega-announce-runs-for-ramsey-county-board-seat-long-held-by-rafael-ortega/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Ortega retirement, candidates"
  },
  {
   "title": "Melisa López Franzen, 2024 Notable Hispanic Leaders",
   "publisher": "Twin Cities Business",
   "url": "https://tcbmag.com/notable/melisa-lopez-franzen/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Career, NewPublica, CLUES board, bar association"
  },
  {
   "title": "Former state legislator López Franzen ends campaign for U.S. Senate (May 18, 2025)",
   "publisher": "Inforum (MPR News)",
   "url": "https://www.inforum.com/news/minnesota/former-state-legislator-lopez-franzen-ends-campaign-for-u-s-senate",
-  "dateChecked": "2026-10-31",
   "usedFor": "U.S. Senate campaign"
  },
  {
   "title": "Alberto Monserrate, TCB 100",
   "publisher": "Twin Cities Business",
   "url": "https://tcbmag.com/tcb-100-people/alberto-monserrate/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Puerto Rican by birth, media business, school board"
  },
  {
   "title": "McKnight Names Ricardo Levins Morales 2024 Distinguished Artist",
   "publisher": "McKnight Foundation",
   "url": "https://www.mcknight.org/news-ideas/mcknight-names-ricardo-levins-morales-2024-distinguished-artist/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Biography, award"
  },
  {
   "title": "Ricardo Levins Morales Art Studio Store (home)",
   "publisher": "RLM Art Studio",
   "url": "https://www.rlmartstudio.com/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Address, 2026 items"
  },
  {
   "title": "About the Artist & Staff",
   "publisher": "RLM Art Studio",
   "url": "https://www.rlmartstudio.com/about/about-the-artist/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Biography"
  },
  {
   "title": "José Antonio Zayas Cabán, staff page",
   "publisher": "Our Streets",
   "url": "https://www.ourstreetsmn.org/about/staff/jose-antonio-zayas-caban/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Executive director role"
  },
  {
   "title": "José Antonio Zayas Cabán",
   "publisher": "Mapping Prejudice, University of Minnesota",
   "url": "https://mappingprejudice.umn.edu/jose-antonio-zayas-caban",
-  "dateChecked": "2026-10-31",
   "usedFor": "McKnight fellowship, albums"
  },
  {
   "title": "Meet Tearra Oso",
   "publisher": "Voyage Minnesota",
   "url": "https://voyageminnesota.com/interview/meet-tearra-oso-of-minneapolis-world/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Mila Llaugher, El Arco Iris, BombaPop"
  },
  {
   "title": "La Parranda Boricua Brings a Puerto Rican Christmas to Minnesota (Dec. 18, 2025)",
   "publisher": "AMPERS, North Star Stories",
   "url": "https://ampers.org/la-parranda-boricua-brings-a-puerto-rican-christmas-to-minnesota/",
-  "dateChecked": "2026-10-31",
   "usedFor": "BORIKEN, Parranda, Three Kings"
  },
  {
   "title": "La Parranda Boricua episode transcript (Dec. 25, 2025)",
   "publisher": "AMPERS via Transistor",
   "url": "https://share.transistor.fm/s/038af0a7",
-  "dateChecked": "2026-10-31",
   "usedFor": "Same segment, transcript"
  },
  {
   "title": "BORIKEN Cultural Center",
   "publisher": "GiveMN",
   "url": "https://www.givemn.org/organization/Boriken-Cultural-Center",
-  "dateChecked": "2026-10-31",
   "usedFor": "Founding 2019, programs"
  },
  {
   "title": "FY2026 grants awarded (Creative Support for Organizations)",
   "publisher": "Minnesota State Arts Board",
   "url": "https://www.arts.state.mn.us/grants/2026/2026-awarded-ce.htm",
-  "dateChecked": "2026-10-31",
   "usedFor": "$35,000 for Parranda Boricua"
  },
  {
   "title": "Join us for the opening reception of AfroFusión (2024)",
   "publisher": "CLUES",
   "url": "https://clues.org/join-us-for-the-opening-reception-of-the-new-art-exhibition-afrofusion/",
-  "dateChecked": "2026-10-31",
   "usedFor": "BORIKEN performance, Puerto Rican artists"
  },
  {
   "title": "Miguel Fiol, faculty profile",
   "publisher": "University of Minnesota Medical School",
   "url": "https://med.umn.edu/bio/miguel-fiol",
-  "dateChecked": "2026-10-31",
   "usedFor": "Neurologist, post-Maria care"
  },
  {
   "title": "Key findings about Puerto Rico (Feb. 5, 2026)",
   "publisher": "Pew Research Center",
   "url": "https://www.pewresearch.org/short-reads/2026/02/05/key-findings-about-puerto-rico/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Status, population, migration (national background)"
  },
  {
   "title": "Facts on Hispanics of Puerto Rican origin in the United States, 2021",
   "publisher": "Pew Research Center",
   "url": "https://www.pewresearch.org/race-and-ethnicity/fact-sheet/us-hispanics-facts-on-puerto-rican-origin-latinos/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Census treatment of island births, national education (background)"
  },
  {
   "title": "Jones-Shafroth Act (1917)",
   "publisher": "Immigration History (University of Texas)",
   "url": "https://immigrationhistory.org/item/jones-shafroth-act/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Citizenship date March 2, 1917"
  },
  {
   "title": "Días feriados en Puerto Rico 2026",
   "publisher": "El Nuevo Día",
   "url": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Island holidays"
  },
  {
   "title": "See the 2026 Puerto Rico holiday calendar",
   "publisher": "Platea PR",
   "url": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
-  "dateChecked": "2026-10-31",
   "usedFor": "2026 holiday dates"
  },
  {
   "title": "Hurricane Maria exposed big gaps in help for Puerto Rico's disabled (2018)",
   "publisher": "NBC News",
   "url": "https://www.nbcnews.com/storyline/puerto-rico-crisis/hurricane-maria-exposed-big-gaps-help-puerto-rico-s-disabled-n903921",
-  "dateChecked": "2026-10-31",
   "usedFor": "Island disability estimate, relocation for care (background)"
  },
  {
   "title": "On the Autism Spectrum: Families Find Help and Hope (Latino community film)",
   "publisher": "Institute on Community Integration, University of Minnesota",
   "url": "https://ici.umn.edu/products/oSoIi1YoR92u22wV3xMs-A",
-  "dateChecked": "2026-10-31",
   "usedFor": "Spanish-language autism film"
  },
  {
   "title": "New PACER Center project will support Latino and Somali families (2024)",
   "publisher": "PACER Center",
   "url": "https://www.pacer.org/press-release/new-pacer-center-project-will-support-latino-and-somali-families-with-children-on-the-autism-spectrum/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Spanish-language support groups"
  },
  {
   "title": "Collection of Racial/Ethnic Data report (2011)",
   "publisher": "Minnesota Department of Health",
   "url": "https://www.health.mn.gov/communities/equity/reports/racialethnicdata2011.pdf",
-  "dateChecked": "2026-10-31",
   "usedFor": "Puerto Rican checkbox in state forms"
  },
  {
   "title": "A New Coffee Shop, Bichota, Is Open in George Floyd Square (Oct. 7, 2024)",
   "publisher": "Racket",
   "url": "https://racketmn.com/a-new-coffee-shop-bichota-is-open-in-george-floyd-square",
-  "dateChecked": "2026-10-31",
   "usedFor": "Bichota owner, hours"
  },
  {
   "title": "Some New Twin Cities Restaurants I Really Liked in 2024",
   "publisher": "Racket",
   "url": "https://racketmn.com/best-new-restaurants-minneapolis-st-paul-2024",
-  "dateChecked": "2026-10-31",
   "usedFor": "Bichota, union"
  },
  {
   "title": "New coffee shop at George Floyd Square holds grand opening",
   "publisher": "KSTP",
   "url": "https://kstp.com/kstp-news/top-news/new-coffee-shop-at-george-floyd-square-holds-grand-opening/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Bichota opening"
  },
  {
   "title": "Bichota Coffee (home)",
   "publisher": "Bichota Coffee",
   "url": "https://bichotacoffee.com/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Current offerings, address"
  },
  {
   "title": "Bichota Coffee venue page",
   "publisher": "Mato",
   "url": "https://ma.to/venue/bichotacoffee",
-  "dateChecked": "2026-10-31",
   "usedFor": "Events listing"
  },
  {
   "title": "NewPublica (home)",
   "publisher": "NewPublica",
   "url": "https://newpublica.com/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Address, 2026 posts"
  },
  {
   "title": "La Prensa de Minnesota (home)",
   "publisher": "La Prensa de Minnesota",
   "url": "https://laprensademn.com/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Current publication"
  },
  {
   "title": "New food truck brings a gluten free taste of Puerto Rico to Downtown Thursday (2022)",
   "publisher": "Owatonna People's Press",
   "url": "https://www.southernminn.com/owatonna_peoples_press/news/new-food-truck-brings-a-gluten-free-taste-of-puerto-rico-to-downtown-thursday/article_0ec38406-fc95-11ec-a8f5-ebbe049f14fe.html",
-  "dateChecked": "2026-10-31",
   "usedFor": "La Borinqua"
  },
  {
   "title": "Grab-and-Go: Aida and Sosa Foods & Deli (July 1, 2012)",
   "publisher": "Mpls.St.Paul Magazine",
   "url": "https://mspmag.com/eat-and-drink/quick-and-tasty-bites/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Sosa Foods & Deli"
  },
  {
   "title": "Mission Possible (2019)",
   "publisher": "Steele County Times",
   "url": "https://www.steelecountytimes.com/mission-possible",
-  "dateChecked": "2026-10-31",
   "usedFor": "Methodist rebuilding trips"
  },
  {
   "title": "History of the Rox",
   "publisher": "Northwoods League, St. Cloud Rox",
   "url": "https://northwoodsleague.com/st-cloud-rox/team/history-of-the-rox/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Orlando Cepeda 1956"
  },
  {
   "title": "Carlos Correa recibe el calor de los fanáticos en Minnesota (Jan. 28, 2023)",
   "publisher": "Primera Hora",
   "url": "https://www.primerahora.com/deportes/beisbol/notas/carlos-correa-recibe-el-calor-de-los-fanaticos-en-minnesota/",
-  "dateChecked": "2026-10-31",
   "usedFor": "TwinsFest 2023"
  },
  {
   "title": "Con mucha bulla, siete boricuas de los Twins entrenan... (Feb. 23, 2023)",
   "publisher": "El Nuevo Día",
   "url": "https://www.elnuevodia.com/deportes/beisbol/notas/con-mucha-bulla-siete-boricuas-de-los-twins-entrenan-a-todo-vapor-para-el-clasico-mundial/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Bori-Twins"
  },
  {
   "title": "El Colegio High School (home)",
   "publisher": "El Colegio High School",
   "url": "https://www.el-colegio.org/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Bilingual school since 2000"
  },
  {
   "title": "Some Americans are carrying their passports in Minnesota (Jan. 29, 2026)",
   "publisher": "CBS News",
   "url": "https://www.cbsnews.com/news/americans-carrying-passports-minneapolis-minnesota/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Enforcement surge context"
  },
  {
   "title": "U.S. citizens recount being detained by ICE during Minnesota operation (Jan. 13, 2026)",
   "publisher": "WCCO / CBS Minnesota",
   "url": "https://www.cbsnews.com/minnesota/news/us-citizens-arrested-by-ice-minneapolis/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Enforcement surge context"
  },
  {
   "title": "Puerto Rico and Minnesota (2024)",
   "publisher": "Puerto Rico Report",
   "url": "https://puertoricoreport.com/puerto-rico-and-minnesota/",
-  "dateChecked": "2026-10-31",
   "usedFor": "Walz quote, Hispanic Heritage Month"
  },
  {
   "title": "Good Question: Amid Hispanic Heritage Month, what's Minnesota's Latino history? (Sept. 28, 2023)",
   "publisher": "WCCO / CBS Minnesota",
   "url": "https://www.cbsnews.com/minnesota/news/good-question-amid-hispanic-heritage-month-whats-minnesotas-latino-history/",
-  "dateChecked": "2026-10-31",
   "usedFor": "State Demographic Center share of Latinos (corrections)"
  },
  {
   "title": "Puerto Rican Minnesota (current page)",
   "publisher": "One DSD People, Access and Culture",
   "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican",
-  "dateChecked": "2026-10-31",
   "usedFor": "Page checked for corrections"
  }
 ]

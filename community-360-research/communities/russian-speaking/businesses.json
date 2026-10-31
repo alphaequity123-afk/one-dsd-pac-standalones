@@ -1,16 +1,128 @@
 [
- {"name":"Moscow on the Hill","type":"restaurant","neighborhoodOrCity":"Cathedral Hill, St. Paul (371 Selby Ave.)","whatItIs":"Russian restaurant and vodka lounge run by the Liberman family since the 1990s; pelmeni, vareniki, stroganoff, house-infused vodkas.","link":"https://www.moscowonthehill.com/","dateChecked":"2026-10-31","status":"open","evidence":"Own site shows current menu and asks guests to reserve; Visit Saint Paul (2026 site) lists current weekly hours."},
- {"name":"Samarkand Restaurant","type":"restaurant","neighborhoodOrCity":"Plymouth (16 Nathan Lane N.)","whatItIs":"Uzbek restaurant opened in 2019 by a family from Samarkand; plov, samsa, shurpa. Macalester guide reports an adjoining Uzbek-Russian market.","link":"https://samarkand.restaurant/","dateChecked":"2026-10-31","status":"open","evidence":"The Mac Weekly describes a class dinner there on April 7, 2026; own site active."},
- {"name":"Tasteful Delights Cafe and Tea Room","type":"restaurant and bakery","neighborhoodOrCity":"Anoka (3726 N. 7th Ave.)","whatItIs":"Family restaurant and bakery serving Russian, Ukrainian, Moldovan and American food, including mamaliga; catering and holiday meals.","link":"https://www.tastefuldelightscafe.com/","dateChecked":"2026-10-31","status":"open","evidence":"Own site shows online ordering, delivery terms and a 2026 copyright."},
- {"name":"Smak (formerly Russian Supermarket)","type":"grocery","neighborhoodOrCity":"Anoka (3710 N. 7th Ave.)","whatItIs":"Eastern European grocery and deli serving Russian, Ukrainian, Moldovan and Bulgarian customers; renamed in 2017.","link":"https://www.atly.com/location/SMAK","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"Undated directory listing with reviews; Macalester guide (updated May 2026) describes it but no dated page confirms current hours."},
- {"name":"Minsk Market","type":"grocery","neighborhoodOrCity":"Eagan (3920 Cedar Grove Pkwy.)","whatItIs":"European market and deli opened in 2000 by a woman from Minsk; staff from across the former Soviet Union.","link":"https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"Macalester guide note dated 10/08/2026: recently sold to a new owner and closed for renovations."},
- {"name":"Arkady's Market","type":"grocery and bakery","neighborhoodOrCity":"3435 Highway 169 N., Minneapolis 55441 address (west suburbs)","whatItIs":"Eastern European market with fresh-baked bread and Russian-speaking staff.","link":"https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"Listed in Macalester guide (updated May 2026) without a dated visit; no own site found."},
- {"name":"Zerkalo, Inc. (Zerkalo magazine, North Star newspaper, Russian Yellow Pages of Minnesota)","type":"media","neighborhoodOrCity":"Plymouth","whatItIs":"Russian-language publisher founded by Leonid Grichener in 1990-91; magazine, newspaper and business directory.","link":"https://www.zerkalomn.com/","dateChecked":"2026-10-31","status":"open","evidence":"Own site lists North Star issues for January and February 2026."},
- {"name":"Dance With Us America","type":"dance studio","neighborhoodOrCity":"Edina (Southdale Center)","whatItIs":"Ballroom and Latin studio owned by Gene and Elena Bersten; home studio of Alan Bersten; runs free lessons for newly arrived boys, per Macalester guide.","link":"https://www.dancewithusamerica.com/","dateChecked":"2026-10-31","status":"open","evidence":"Own site with 2026 copyright and current contact form."},
- {"name":"Minnesota Ballet Theatre and School","type":"dance school","neighborhoodOrCity":"Eden Prairie","whatItIs":"Ballet school teaching the Vaganova method, co-directed by Kirill Bak-Stepanoff and Svetlana Bak-Gavrilova.","link":"https://eplocalnews.org/2021/08/31/states-quality-of-life-schools-draw-russians/","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"Only source opened is a 2021 article."},
- {"name":"Sunflower Bilingual Daycare and Preschool","type":"child care","neighborhoodOrCity":"Burnsville","whatItIs":"Bilingual Russian-English child care using Montessori practices; many teachers trained in the former USSR.","link":"https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"Own site (sunflowerdaycare.us) returned a verification block; described in Macalester guide without a date."},
- {"name":"Russian Educational Center of Minnesota","type":"language school (nonprofit)","neighborhoodOrCity":"Savage (classes); Eden Prairie (organization)","whatItIs":"Saturday Russian school founded 2002; language levels, AP-prep, theater, chess, art, cooking clubs, summer camp.","link":"https://www.studyrussian.org/","dateChecked":"2026-10-31","status":"open","evidence":"Own site shows current-year schedule and programs."},
- {"name":"Igra. Unplugged / Russian Camp MN","type":"camp","neighborhoodOrCity":"Twin Cities (day camp)","whatItIs":"Russian immersion camp founded 2015 by Tamara von Schmidt-Pauli; now runs as a day camp.","link":"https://russiancampmn.com/","dateChecked":"2026-10-31","status":"open","evidence":"Own site describes current day camp and packing list."},
- {"name":"Prime Language Services","type":"translation bureau","neighborhoodOrCity":"Minnesota","whatItIs":"Translation bureau owned since 2008 by a leader of the American Russian Center, per that center's site.","link":"https://americanrussiancenter.org/","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"Mentioned in a leadership bio; business's own site not opened."},
- {"name":"The Museum of Russian Art (TMORA)","type":"museum (nonprofit)","neighborhoodOrCity":"South Minneapolis (5500 Stevens Ave. S.)","whatItIs":"Museum of Russian and Soviet-era art founded 2002 by Raymond and Susan Johnson; gift shop and education center.","link":"https://tmora.org/","dateChecked":"2026-10-31","status":"open","evidence":"Own site lists current programs, including a 2026 Maslenitsa event."}
+ {
+  "name": "Moscow on the Hill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Cathedral Hill, St. Paul (371 Selby Ave.)",
+  "whatItIs": "Russian restaurant and vodka lounge run by the Liberman family since the 1990s; pelmeni, vareniki, stroganoff, house-infused vodkas.",
+  "link": "https://www.moscowonthehill.com/",
+  "status": "open",
+  "evidence": "Own site shows current menu and asks guests to reserve; Visit Saint Paul (2026 site) lists current weekly hours."
+ },
+ {
+  "name": "Samarkand Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Plymouth (16 Nathan Lane N.)",
+  "whatItIs": "Uzbek restaurant opened in 2019 by a family from Samarkand; plov, samsa, shurpa. Macalester guide reports an adjoining Uzbek-Russian market.",
+  "link": "https://samarkand.restaurant/",
+  "status": "open",
+  "evidence": "The Mac Weekly describes a class dinner there on April 7, 2026; own site active."
+ },
+ {
+  "name": "Tasteful Delights Cafe and Tea Room",
+  "type": "restaurant and bakery",
+  "neighborhoodOrCity": "Anoka (3726 N. 7th Ave.)",
+  "whatItIs": "Family restaurant and bakery serving Russian, Ukrainian, Moldovan and American food, including mamaliga; catering and holiday meals.",
+  "link": "https://www.tastefuldelightscafe.com/",
+  "status": "open",
+  "evidence": "Own site shows online ordering, delivery terms and a 2026 copyright."
+ },
+ {
+  "name": "Smak (formerly Russian Supermarket)",
+  "type": "grocery",
+  "neighborhoodOrCity": "Anoka (3710 N. 7th Ave.)",
+  "whatItIs": "Eastern European grocery and deli serving Russian, Ukrainian, Moldovan and Bulgarian customers; renamed in 2017.",
+  "link": "https://www.atly.com/location/SMAK",
+  "status": "could not confirm open",
+  "evidence": "Undated directory listing with reviews; Macalester guide (updated May 2026) describes it but no dated page confirms current hours."
+ },
+ {
+  "name": "Minsk Market",
+  "type": "grocery",
+  "neighborhoodOrCity": "Eagan (3920 Cedar Grove Pkwy.)",
+  "whatItIs": "European market and deli opened in 2000 by a woman from Minsk; staff from across the former Soviet Union.",
+  "link": "https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json",
+  "status": "could not confirm open",
+  "evidence": "Macalester guide note dated 10/08/2026: recently sold to a new owner and closed for renovations."
+ },
+ {
+  "name": "Arkady's Market",
+  "type": "grocery and bakery",
+  "neighborhoodOrCity": "3435 Highway 169 N., Minneapolis 55441 address (west suburbs)",
+  "whatItIs": "Eastern European market with fresh-baked bread and Russian-speaking staff.",
+  "link": "https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json",
+  "status": "could not confirm open",
+  "evidence": "Listed in Macalester guide (updated May 2026) without a dated visit; no own site found."
+ },
+ {
+  "name": "Zerkalo, Inc. (Zerkalo magazine, North Star newspaper, Russian Yellow Pages of Minnesota)",
+  "type": "media",
+  "neighborhoodOrCity": "Plymouth",
+  "whatItIs": "Russian-language publisher founded by Leonid Grichener in 1990-91; magazine, newspaper and business directory.",
+  "link": "https://www.zerkalomn.com/",
+  "status": "open",
+  "evidence": "Own site lists North Star issues for January and February 2026."
+ },
+ {
+  "name": "Dance With Us America",
+  "type": "dance studio",
+  "neighborhoodOrCity": "Edina (Southdale Center)",
+  "whatItIs": "Ballroom and Latin studio owned by Gene and Elena Bersten; home studio of Alan Bersten; runs free lessons for newly arrived boys, per Macalester guide.",
+  "link": "https://www.dancewithusamerica.com/",
+  "status": "open",
+  "evidence": "Own site with 2026 copyright and current contact form."
+ },
+ {
+  "name": "Minnesota Ballet Theatre and School",
+  "type": "dance school",
+  "neighborhoodOrCity": "Eden Prairie",
+  "whatItIs": "Ballet school teaching the Vaganova method, co-directed by Kirill Bak-Stepanoff and Svetlana Bak-Gavrilova.",
+  "link": "https://eplocalnews.org/2021/08/31/states-quality-of-life-schools-draw-russians/",
+  "status": "could not confirm open",
+  "evidence": "Only source opened is a 2021 article."
+ },
+ {
+  "name": "Sunflower Bilingual Daycare and Preschool",
+  "type": "child care",
+  "neighborhoodOrCity": "Burnsville",
+  "whatItIs": "Bilingual Russian-English child care using Montessori practices; many teachers trained in the former USSR.",
+  "link": "https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json",
+  "status": "could not confirm open",
+  "evidence": "Own site (sunflowerdaycare.us) returned a verification block; described in Macalester guide without a date."
+ },
+ {
+  "name": "Russian Educational Center of Minnesota",
+  "type": "language school (nonprofit)",
+  "neighborhoodOrCity": "Savage (classes); Eden Prairie (organization)",
+  "whatItIs": "Saturday Russian school founded 2002; language levels, AP-prep, theater, chess, art, cooking clubs, summer camp.",
+  "link": "https://www.studyrussian.org/",
+  "status": "open",
+  "evidence": "Own site shows current-year schedule and programs."
+ },
+ {
+  "name": "Igra. Unplugged / Russian Camp MN",
+  "type": "camp",
+  "neighborhoodOrCity": "Twin Cities (day camp)",
+  "whatItIs": "Russian immersion camp founded 2015 by Tamara von Schmidt-Pauli; now runs as a day camp.",
+  "link": "https://russiancampmn.com/",
+  "status": "open",
+  "evidence": "Own site describes current day camp and packing list."
+ },
+ {
+  "name": "Prime Language Services",
+  "type": "translation bureau",
+  "neighborhoodOrCity": "Minnesota",
+  "whatItIs": "Translation bureau owned since 2008 by a leader of the American Russian Center, per that center's site.",
+  "link": "https://americanrussiancenter.org/",
+  "status": "could not confirm open",
+  "evidence": "Mentioned in a leadership bio; business's own site not opened."
+ },
+ {
+  "name": "The Museum of Russian Art (TMORA)",
+  "type": "museum (nonprofit)",
+  "neighborhoodOrCity": "South Minneapolis (5500 Stevens Ave. S.)",
+  "whatItIs": "Museum of Russian and Soviet-era art founded 2002 by Raymond and Susan Johnson; gift shop and education center.",
+  "link": "https://tmora.org/",
+  "status": "open",
+  "evidence": "Own site lists current programs, including a 2026 Maslenitsa event."
+ }
 ]

@@ -1,9 +1,65 @@
 [
- {"name":"Kramarczuk's Sausage Company","type":"restaurant, deli, bakery and meat market","neighborhoodOrCity":"Northeast Minneapolis (215 E. Hennepin Ave.)","whatItIs":"Eastern European deli, bakery and sausage maker founded in 1954 by Ukrainian refugees Wasyl and Anna Kramarczuk; owned by their son Orest. 2013 James Beard America's Classic award. Sausages sold at Target Field.","link":"https://kramarczuks.com/about","dateChecked":"2026-10-31","status":"open","evidence":"Own site lists hours (Tuesday-Saturday 10-8) and holiday closings including Thursday, Nov. 26 (Thanksgiving 2026), with a 2026 copyright."},
- {"name":"Heaven Gluten Free","type":"bakery","neighborhoodOrCity":"Minneapolis","whatItIs":"Gluten-free vegan sourdough bakery founded in 2023 by Polina and Vlad Lahoda, who came from Kyiv in 2022. Sells online with nationwide shipping and through local stores.","link":"https://heavenglutenfree.com/","dateChecked":"2026-10-31","status":"open","evidence":"Own site is taking orders and shows customer reviews dated Sept. and Oct. 2026 (latest 10/20/2026)."},
- {"name":"Ukrainian Gift Shop","type":"retail (folk art supplies, mail order)","neighborhoodOrCity":"North Loop, Minneapolis (1008 N. 5th St.)","whatItIs":"Family business founded in 1947 by Marie Procai and Luba Perchyshyn; sells pysanky dyes, kits, design books and embroidery. No walk-in showroom; pickup by appointment.","link":"https://ukrainiangiftshop.com/pages/our-story","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"Online store is live with products, pickup instructions and a 2026 copyright, but no dated 2025 or 2026 post or current hours were found. Its history page refers to the 76th anniversary in 2023."},
- {"name":"Ukrainian Village Band","type":"entertainment (band)","neighborhoodOrCity":"Twin Cities","whatItIs":"Ukrainian roots and 'zabava' party band founded in 2007; plays traditional and modern Ukrainian music and rock covers, organizes concerts and an Ivana Kupala festival.","link":"https://www.thecedar.org/events/summer-at-the-cedar-ukrainian-village-band","dateChecked":"2026-10-31","status":"open","evidence":"The Cedar Cultural Center listed a show on Aug. 20, 2025; the Minnesota State Fair's schedule page lists the band on the Summit Stage Aug. 31 and Sept. 1; FOX 9 credited the band at the Aug. 24, 2025 Independence Day gathering."},
- {"name":"Ukrainian American Community Center (UACCMN)","type":"community center, event hall and food sales","neighborhoodOrCity":"Northeast Minneapolis (301 Main St. NE)","whatItIs":"Founded in 1964; fraternal, cultural and refugee-service center. Hosts the Ukrainian Festival of Minnesota, a Lenten fish fry with online ordering, a holiday bazaar and event rentals.","link":"https://uaccmn.org/","dateChecked":"2026-10-31","status":"open","evidence":"Site shows current programs, staff and a 2026 copyright; St. Michael's and St. George's events page promoted its 2026 Ukrainian fish fry (Feb. 20, 2026). Building under major renovation; 2026 festival postponed to Sept. 17-18, 2027."},
- {"name":"Protez Foundation","type":"nonprofit prosthetics clinic network","neighborhoodOrCity":"Twin Cities (Oakdale fundraiser; patients treated in Minnesota) and Ukraine","whatItIs":"Free prosthetic care and rehabilitation for Ukrainians who lost limbs in the war, founded in Minnesota in 2022 by Ukrainian-born prosthetist Yakov Gradinar and CEO Yura Aroshidze; runs Protez Academy with Century College.","link":"https://www.protezfoundation.org/","dateChecked":"2026-10-31","status":"open","evidence":"Own site posts news dated Sept. 23, 2026 and results for May 2022 to October 2026."},
- {"name":"YEV Music (Yev Rosso)","type":"entertainment (singer-songwriter)","neighborhoodOrCity":"Twin Cities area","whatItIs":"Singer-songwriter with Ukrainian roots whose music draws on being a Ukrainian immigrant in the Midwest.","link":"https://www.presspubs.com/shoreview/news/ukrainian-culture-highlighted-in-shoreview-this-october/article_3866c7ea-5cc6-11ee-8b9c-6bcc6b7d78b0.html","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"Only source is a 2023 Shoreview Press preview of an Oct. 1, 2023 performance; no 2025 or 2026 activity found."}
+ {
+  "name": "Kramarczuk's Sausage Company",
+  "type": "restaurant, deli, bakery and meat market",
+  "neighborhoodOrCity": "Northeast Minneapolis (215 E. Hennepin Ave.)",
+  "whatItIs": "Eastern European deli, bakery and sausage maker founded in 1954 by Ukrainian refugees Wasyl and Anna Kramarczuk; owned by their son Orest. 2013 James Beard America's Classic award. Sausages sold at Target Field.",
+  "link": "https://kramarczuks.com/about",
+  "status": "open",
+  "evidence": "Own site lists hours (Tuesday-Saturday 10-8) and holiday closings including Thursday, Nov. 26 (Thanksgiving 2026), with a 2026 copyright."
+ },
+ {
+  "name": "Heaven Gluten Free",
+  "type": "bakery",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Gluten-free vegan sourdough bakery founded in 2023 by Polina and Vlad Lahoda, who came from Kyiv in 2022. Sells online with nationwide shipping and through local stores.",
+  "link": "https://heavenglutenfree.com/",
+  "status": "open",
+  "evidence": "Own site is taking orders and shows customer reviews dated Sept. and Oct. 2026 (latest 10/20/2026)."
+ },
+ {
+  "name": "Ukrainian Gift Shop",
+  "type": "retail (folk art supplies, mail order)",
+  "neighborhoodOrCity": "North Loop, Minneapolis (1008 N. 5th St.)",
+  "whatItIs": "Family business founded in 1947 by Marie Procai and Luba Perchyshyn; sells pysanky dyes, kits, design books and embroidery. No walk-in showroom; pickup by appointment.",
+  "link": "https://ukrainiangiftshop.com/pages/our-story",
+  "status": "could not confirm open",
+  "evidence": "Online store is live with products, pickup instructions and a 2026 copyright, but no dated 2025 or 2026 post or current hours were found. Its history page refers to the 76th anniversary in 2023."
+ },
+ {
+  "name": "Ukrainian Village Band",
+  "type": "entertainment (band)",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Ukrainian roots and 'zabava' party band founded in 2007; plays traditional and modern Ukrainian music and rock covers, organizes concerts and an Ivana Kupala festival.",
+  "link": "https://www.thecedar.org/events/summer-at-the-cedar-ukrainian-village-band",
+  "status": "open",
+  "evidence": "The Cedar Cultural Center listed a show on Aug. 20, 2025; the Minnesota State Fair's schedule page lists the band on the Summit Stage Aug. 31 and Sept. 1; FOX 9 credited the band at the Aug. 24, 2025 Independence Day gathering."
+ },
+ {
+  "name": "Ukrainian American Community Center (UACCMN)",
+  "type": "community center, event hall and food sales",
+  "neighborhoodOrCity": "Northeast Minneapolis (301 Main St. NE)",
+  "whatItIs": "Founded in 1964; fraternal, cultural and refugee-service center. Hosts the Ukrainian Festival of Minnesota, a Lenten fish fry with online ordering, a holiday bazaar and event rentals.",
+  "link": "https://uaccmn.org/",
+  "status": "open",
+  "evidence": "Site shows current programs, staff and a 2026 copyright; St. Michael's and St. George's events page promoted its 2026 Ukrainian fish fry (Feb. 20, 2026). Building under major renovation; 2026 festival postponed to Sept. 17-18, 2027."
+ },
+ {
+  "name": "Protez Foundation",
+  "type": "nonprofit prosthetics clinic network",
+  "neighborhoodOrCity": "Twin Cities (Oakdale fundraiser; patients treated in Minnesota) and Ukraine",
+  "whatItIs": "Free prosthetic care and rehabilitation for Ukrainians who lost limbs in the war, founded in Minnesota in 2022 by Ukrainian-born prosthetist Yakov Gradinar and CEO Yura Aroshidze; runs Protez Academy with Century College.",
+  "link": "https://www.protezfoundation.org/",
+  "status": "open",
+  "evidence": "Own site posts news dated Sept. 23, 2026 and results for May 2022 to October 2026."
+ },
+ {
+  "name": "YEV Music (Yev Rosso)",
+  "type": "entertainment (singer-songwriter)",
+  "neighborhoodOrCity": "Twin Cities area",
+  "whatItIs": "Singer-songwriter with Ukrainian roots whose music draws on being a Ukrainian immigrant in the Midwest.",
+  "link": "https://www.presspubs.com/shoreview/news/ukrainian-culture-highlighted-in-shoreview-this-october/article_3866c7ea-5cc6-11ee-8b9c-6bcc6b7d78b0.html",
+  "status": "could not confirm open",
+  "evidence": "Only source is a 2023 Shoreview Press preview of an Oct. 1, 2023 performance; no 2025 or 2026 activity found."
+ }
 ]

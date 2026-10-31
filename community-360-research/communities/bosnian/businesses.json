@@ -1,7 +1,47 @@
 [
- {"name":"Stir Fry Express (Rochester location)","type":"restaurant","neighborhoodOrCity":"Northwest Rochester (former Pancheros building)","whatItIs":"Restaurant owned by a father and son who immigrated from Bosnia; a customer said it served Bosnian kebab, bulaklak and baklava. Opened February 2026.","link":"https://www.kttc.com/2026/10/09/stir-fry-express-closes-nw-rochester/","dateChecked":"2026-10-31","status":"closed","evidence":"KTTC, Oct. 9, 2026: sign on the door reads 'Unfortunately we are permanently closed.'"},
- {"name":"Stir Fry Express (Duluth location)","type":"restaurant","neighborhoodOrCity":"Duluth","whatItIs":"Another location of the same Bosnian-owned business, named by KTTC as one of its storefronts.","link":"https://www.kttc.com/2026/10/09/stir-fry-express-closes-nw-rochester/","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"KTTC, Oct. 9, 2026, says other storefronts operate in Sioux Falls and Duluth, but no Duluth address or own page was found."},
- {"name":"Northgate Imports Inc","type":"auto dealer and repair","neighborhoodOrCity":"632 11th Ave. NW, Rochester","whatItIs":"Used foreign vehicles, repair and service; opened in early 2010 by Bosnian immigrant Nedzad Nukic, per the Post Bulletin in 2011.","link":"https://caredge.com/dealer/northgate-imports-inc--mn-rochester","dateChecked":"2026-10-31","status":"open","evidence":"CarEdge dealer listing checked Oct. 31, 2026 shows 30 vehicles currently in stock. Current ownership was not confirmed; the Bosnian ownership is from a 2011 article."},
- {"name":"Europe Grocery Store","type":"grocery","neighborhoodOrCity":"1109 Seventh St. NW, Rochester (across from Northgate Plaza)","whatItIs":"European grocery planned in 2011 by two Bosnian immigrants to carry cevapi, spices, candies and juices from the Bosnian region.","link":"https://www.postbulletin.com/business/bosnian-immigrants-plan-to-open-european-grocery-in-nw-rochester","dateChecked":"2026-10-31","status":"could not confirm open","evidence":"Only source is an Oct. 23, 2011 article about plans to open by mid-November 2011. No later page found."},
- {"name":"Intercultural Mutual Assistance Association (IMAA) Language Services","type":"interpreting and community services (nonprofit)","neighborhoodOrCity":"Rochester","whatItIs":"Refugee and immigrant service agency founded 1984 that helped resettle Bosnians; led by Bosnian former refugee Armin Budimlic; offers interpreting and translation in multiple languages.","link":"https://imaa.net/","dateChecked":"2026-10-31","status":"open","evidence":"Own site shows current programs, staff page lists Armin Budimlic as executive director, interpreter request forms and events."}
+ {
+  "name": "Stir Fry Express (Rochester location)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Northwest Rochester (former Pancheros building)",
+  "whatItIs": "Restaurant owned by a father and son who immigrated from Bosnia; a customer said it served Bosnian kebab, bulaklak and baklava. Opened February 2026.",
+  "link": "https://www.kttc.com/2026/10/09/stir-fry-express-closes-nw-rochester/",
+  "status": "closed",
+  "evidence": "KTTC, Oct. 9, 2026: sign on the door reads 'Unfortunately we are permanently closed.'"
+ },
+ {
+  "name": "Stir Fry Express (Duluth location)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Duluth",
+  "whatItIs": "Another location of the same Bosnian-owned business, named by KTTC as one of its storefronts.",
+  "link": "https://www.kttc.com/2026/10/09/stir-fry-express-closes-nw-rochester/",
+  "status": "could not confirm open",
+  "evidence": "KTTC, Oct. 9, 2026, says other storefronts operate in Sioux Falls and Duluth, but no Duluth address or own page was found."
+ },
+ {
+  "name": "Northgate Imports Inc",
+  "type": "auto dealer and repair",
+  "neighborhoodOrCity": "632 11th Ave. NW, Rochester",
+  "whatItIs": "Used foreign vehicles, repair and service; opened in early 2010 by Bosnian immigrant Nedzad Nukic, per the Post Bulletin in 2011.",
+  "link": "https://caredge.com/dealer/northgate-imports-inc--mn-rochester",
+  "status": "open",
+  "evidence": "CarEdge dealer listing checked Oct. 31, 2026 shows 30 vehicles currently in stock. Current ownership was not confirmed; the Bosnian ownership is from a 2011 article."
+ },
+ {
+  "name": "Europe Grocery Store",
+  "type": "grocery",
+  "neighborhoodOrCity": "1109 Seventh St. NW, Rochester (across from Northgate Plaza)",
+  "whatItIs": "European grocery planned in 2011 by two Bosnian immigrants to carry cevapi, spices, candies and juices from the Bosnian region.",
+  "link": "https://www.postbulletin.com/business/bosnian-immigrants-plan-to-open-european-grocery-in-nw-rochester",
+  "status": "could not confirm open",
+  "evidence": "Only source is an Oct. 23, 2011 article about plans to open by mid-November 2011. No later page found."
+ },
+ {
+  "name": "Intercultural Mutual Assistance Association (IMAA) Language Services",
+  "type": "interpreting and community services (nonprofit)",
+  "neighborhoodOrCity": "Rochester",
+  "whatItIs": "Refugee and immigrant service agency founded 1984 that helped resettle Bosnians; led by Bosnian former refugee Armin Budimlic; offers interpreting and translation in multiple languages.",
+  "link": "https://imaa.net/",
+  "status": "open",
+  "evidence": "Own site shows current programs, staff page lists Armin Budimlic as executive director, interpreter request forms and events."
+ }
 ]

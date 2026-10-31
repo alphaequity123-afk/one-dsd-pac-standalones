@@ -1,2277 +1,2183 @@
 {
-  "community": "indian",
-  "entries": [
+ "community": "indian",
+ "entries": [
+  {
+   "seedId": "start-of-ramadan",
+   "name": "Start of Ramadan",
+   "alsoKnownAs": [
+    "Ramzan"
+   ],
+   "kind": "religious",
+   "capsule": "Muslim month of fasting begins; Indian Muslims here observe it alongside many communities.",
+   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar. Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
+   "dates": [
     {
-      "seedId": "start-of-ramadan",
-      "name": "Start of Ramadan",
-      "alsoKnownAs": [
-        "Ramzan"
-      ],
-      "kind": "religious",
-      "capsule": "Muslim month of fasting begins; Indian Muslims here observe it alongside many communities.",
-      "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar. Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-02-18",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": "2027-02-08",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-01-28",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "moon-sighted or announced",
-      "whatItMarks": "The start of the Muslim month of fasting.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [],
-      "workplaceNote": null,
-      "sources": []
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
     },
     {
-      "seedId": "eid-alfitr",
-      "name": "Eid al-Fitr",
-      "alsoKnownAs": [
-        "Ramzan Eid",
-        "Meethi Eid"
-      ],
-      "kind": "religious",
-      "capsule": "Muslim festival ending Ramadan, marked at mosques across the metro.",
-      "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends. Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-03-20",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": "2027-03-09",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-02-26",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "moon-sighted or announced",
-      "whatItMarks": "The end of Ramadan.",
-      "howCelebratedInMinnesota": "No event organized specifically by Indian Minnesotans was found. Northwest Islamic Community Center in Plymouth drew an estimated 3,000 people for Eid prayers on April 21, 2023; the report does not say where worshippers came from.",
-      "minnesotaEvents": [
-        {
-          "name": "Eid prayers",
-          "place": "Northwest Islamic Community Center, Plymouth",
-          "link": "https://ccxmedia.org/news/muslims-celebrate-eid-in-plymouth-building-renovation-planned/",
-          "organizerDates": "April 21, 2023, as reported",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "CCX Media",
-          "url": "https://ccxmedia.org/news/muslims-celebrate-eid-in-plymouth-building-renovation-planned/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
     },
     {
-      "seedId": "eid-aladha",
-      "name": "Eid al-Adha",
-      "alsoKnownAs": [
-        "Bakrid",
-        "Bakra Eid"
-      ],
-      "kind": "religious",
-      "capsule": "Muslim festival of sacrifice, marked at mosques and large shared gatherings.",
-      "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah). Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-05-27",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": "2027-05-16",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-05-05",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "moon-sighted or announced",
-      "whatItMarks": "The festival of sacrifice.",
-      "howCelebratedInMinnesota": "No event organized specifically by Indian Minnesotans was found. A capacity crowd in the tens of thousands gathered at the Minneapolis Convention Center on June 28, 2023; the report does not identify attendees by background.",
-      "minnesotaEvents": [
-        {
-          "name": "Eid al-Adha prayer",
-          "place": "Minneapolis Convention Center",
-          "link": "https://www.cbsnews.com/amp/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/",
-          "organizerDates": "June 28, 2023, as reported",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "WCCO",
-          "url": "https://www.cbsnews.com/amp/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": "islamic-new-year",
-      "name": "Islamic New Year",
-      "alsoKnownAs": [
-        "Hijri New Year",
-        "Muharram"
-      ],
-      "kind": "religious",
-      "capsule": "First day of the Muslim lunar year.",
-      "dateRule": "First day of the first Islamic month (Muharram). Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-06-16",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": "2027-06-06",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-05-25",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "moon-sighted or announced",
-      "whatItMarks": "The first day of the Islamic year.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [],
-      "workplaceNote": null,
-      "sources": []
-    },
-    {
-      "seedId": "ashura",
-      "name": "Ashura",
-      "alsoKnownAs": [
-        "Muharram"
-      ],
-      "kind": "religious",
-      "capsule": "Tenth day of Muharram, a day of remembrance for Muslims.",
-      "dateRule": "Tenth day of Muharram. Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-06-25",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": "2027-06-15",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-06-03",
-          "endDate": null,
-          "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "moon-sighted or announced",
-      "whatItMarks": "A day of remembrance on the tenth of Muharram.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [],
-      "workplaceNote": null,
-      "sources": []
-    },
-    {
-      "seedId": "diwali",
-      "name": "Diwali",
-      "alsoKnownAs": [
-        "Deepavali"
-      ],
-      "kind": "religious",
-      "capsule": "The festival of lights, kept by Hindus, Jains and Sikhs with lamps, prayer and community shows.",
-      "dateRule": "New moon (Amavasya) of the Hindu lunar month Kartika (Ashvin in the amanta reckoning), usually October or November.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-08",
-          "endDate": null,
-          "source": "HinduTone, Minneapolis timing, updated Oct. 21, 2026. HinduTone is a commercial festival guide, so this date is not treated as confirmed.",
-          "sourceUrl": "https://hindutone.com/festivals/diwali-2026-usa-celebrations/",
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": "2027-10-29",
-          "endDate": null,
-          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-10-17",
-          "endDate": null,
-          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "calculated",
-      "whatItMarks": "A five-day festival of lights; Sahan Journal describes lamps and rangoli said to guide Lakshmi into homes.",
-      "howCelebratedInMinnesota": "Many events, not one. Temples, language groups and neighborhood volunteers each hold their own, often on weekends around the date, from Eden Prairie to Woodbury to Byron. See the separate entries for announced dates.",
-      "minnesotaEvents": [
-        {
-          "name": "Geeta Ashram Diwali Celebration",
-          "place": "Eden Prairie High School",
-          "link": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
-          "organizerDates": "Oct. 24, 2026",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "name": "Carver Diwali",
-          "place": "Eden Prairie High School",
-          "link": "https://carverdiwali.org/",
-          "organizerDates": "Nov. 1, 2026",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "name": "Diwali Puja at Milan Mandir",
-          "place": "Farmington",
-          "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "organizerDates": "Nov. 8, 2026",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "name": "Marathi Association Diwali",
-          "place": "Hopkins High School",
-          "link": "https://www.mnmarathi.org/events",
-          "organizerDates": "Nov. 14, 2026",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "name": "ICAM Diwali Cultural Program",
-          "place": "Byron High School",
-          "link": "https://icamn.org/",
-          "organizerDates": "Nov. 14, 2026",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "name": "TCTA Deepavali 2026",
-          "place": "Eisenhower Community Center, Hopkins",
-          "link": "https://tctamn.org/upcoming-events/",
-          "organizerDates": "Nov. 22, 2026",
-          "dateChecked": "2026-10-31"
-        },
-        {
-          "name": "Diwali Weekend at Raag (buffet and bazaar)",
-          "place": "Raag on 50th, Minneapolis",
-          "link": "https://www.raagon50th.com/",
-          "organizerDates": "Oct. 24 and 25, 2026",
-          "dateChecked": "2026-10-31"
-        },
-        {
-          "name": "Bandi Chor Divas at the Sikh Society of Minnesota",
-          "place": "Gurdwara, Bloomington",
-          "link": "https://www.mnsikhs.com/events.html",
-          "organizerDates": "Nov. 8, 2026, 6:30 to 8:30 p.m.",
-          "dateChecked": "2026-10-31"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "HinduTone Diwali 2026 USA",
-          "url": "https://hindutone.com/festivals/diwali-2026-usa-celebrations/",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "Sahan Journal, Woodbury Diwali 2025",
-          "url": "https://sahanjournal.com/?p=75984",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Geeta Ashram Diwali Celebration",
-      "alsoKnownAs": [],
-      "kind": "community festival",
-      "capsule": "Geeta Ashram's evening Diwali show at Eden Prairie High School.",
-      "dateRule": "Set each year by Geeta Ashram MN.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-10-24",
-          "endDate": null,
-          "source": "Sulekha listing, Geeta Ashram MN (third-party community listing; the organizer's own page was not found, so the date is not treated as confirmed)",
-          "sourceUrl": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Diwali.",
-      "howCelebratedInMinnesota": "Doors at 6 p.m., show about three hours.",
-      "minnesotaEvents": [
-        {
-          "name": "Geeta Ashram Diwali Celebration",
-          "place": "Eden Prairie High School",
-          "link": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
-          "organizerDates": "Oct. 24, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Sulekha listing, Geeta Ashram MN",
-          "url": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Carver Diwali",
-      "alsoKnownAs": [],
-      "kind": "community festival",
-      "capsule": "Volunteer neighbors' Diwali show and dinner in Eden Prairie.",
-      "dateRule": "Set each year by the volunteer team.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-01",
-          "endDate": null,
-          "source": "Carver Diwali team",
-          "sourceUrl": "https://carverdiwali.org/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Diwali.",
-      "howCelebratedInMinnesota": "Performances and dinner, 3:30 to 10 p.m., by family registration. An informal volunteer group.",
-      "minnesotaEvents": [
-        {
-          "name": "Carver Diwali",
-          "place": "Eden Prairie High School Auditorium",
-          "link": "https://carverdiwali.org/",
-          "organizerDates": "Nov. 1, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Carver Diwali team",
-          "url": "https://carverdiwali.org/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "SAPNA Diyas and Dandiyas",
-      "alsoKnownAs": [],
-      "kind": "community festival",
-      "capsule": "A Diwali-season event from SEWA-AIFW's neurodiversity program in Brooklyn Center.",
-      "dateRule": "Set by SEWA-AIFW. Page says Sunday, Nov. 1, with no year; Nov. 1 is a Sunday in 2026.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-01",
-          "endDate": null,
-          "source": "SEWA-AIFW",
-          "sourceUrl": "https://www.sewa-aifw.org/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "The Diwali season.",
-      "howCelebratedInMinnesota": "1 to 4 p.m., RSVP through SEWA-AIFW.",
-      "minnesotaEvents": [
-        {
-          "name": "SAPNA Diyas and Dandiyas",
-          "place": "SEWA-AIFW, Brooklyn Center",
-          "link": "https://www.sewa-aifw.org/",
-          "organizerDates": "Sunday, Nov. 1, 1 to 4 p.m.",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "SEWA-AIFW",
-          "url": "https://www.sewa-aifw.org/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Diwali Puja at Milan Mandir",
-      "alsoKnownAs": [],
-      "kind": "religious",
-      "capsule": "Diwali prayers at Milan Mandir in Farmington.",
-      "dateRule": "Listed by Jai Mata. The listing also mentions a Nov. 14 fundraiser.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-08",
-          "endDate": null,
-          "source": "LocalFiles listing (third-party community listing; the organizer's own page was not found, so the date is not treated as confirmed)",
-          "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Diwali.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [
-        {
-          "name": "Diwali Puja at Milan Mandir",
-          "place": "Milan Mandir, Farmington",
-          "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "organizerDates": "Nov. 8, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "LocalFiles listing",
-          "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Jain Diwali Nirvan Pooja",
-      "alsoKnownAs": [
-        "Diwali Nirvan"
-      ],
-      "kind": "religious",
-      "capsule": "Jain Center's Diwali prayer at Maple Grove.",
-      "dateRule": "Proposed by the Jain Center, subject to confirmation. The page prints Saturday beside Nov. 8, which is a Sunday in 2026.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-08",
-          "endDate": null,
-          "source": "Jain Center of Minnesota, proposed schedule",
-          "sourceUrl": "https://jaincentermn.org/2026-events",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Diwali for Jains, called Nirvan on the schedule.",
-      "howCelebratedInMinnesota": "8 a.m. to 2 p.m., proposed.",
-      "minnesotaEvents": [
-        {
-          "name": "Jain Diwali Nirvan Pooja",
-          "place": "Jain Mandir, Hindu Temple of Minnesota",
-          "link": "https://jaincentermn.org/2026-events",
-          "organizerDates": "Nov. 8, 2026, proposed",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Jain Center of Minnesota, proposed schedule",
-          "url": "https://jaincentermn.org/2026-events",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Marathi Association Diwali",
-      "alsoKnownAs": [],
-      "kind": "community festival",
-      "capsule": "Marathi Association of Minnesota's all-day Diwali at Hopkins High School.",
-      "dateRule": "Set each year by the association.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-14",
-          "endDate": null,
-          "source": "Marathi Association of Minnesota",
-          "sourceUrl": "https://www.mnmarathi.org/events",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Diwali.",
-      "howCelebratedInMinnesota": "8 a.m. to 5 p.m.",
-      "minnesotaEvents": [
-        {
-          "name": "Marathi Association Diwali",
-          "place": "Hopkins High School, Minnetonka",
-          "link": "https://www.mnmarathi.org/events",
-          "organizerDates": "Nov. 14, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Marathi Association of Minnesota",
-          "url": "https://www.mnmarathi.org/events",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "ICAM Diwali Cultural Program",
-      "alsoKnownAs": [],
-      "kind": "community festival",
-      "capsule": "Rochester-area Diwali show of local music and dance at Byron High School.",
-      "dateRule": "Set each year by the Indian Cultural Association of Minnesota.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-14",
-          "endDate": null,
-          "source": "ICAM",
-          "sourceUrl": "https://icamn.org/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Diwali.",
-      "howCelebratedInMinnesota": "4 p.m. An earlier year used Mayo Civic Center in Rochester.",
-      "minnesotaEvents": [
-        {
-          "name": "ICAM Diwali Cultural Program",
-          "place": "Byron High School Auditorium",
-          "link": "https://icamn.org/",
-          "organizerDates": "Nov. 14, 2026, 4 p.m.",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "ICAM",
-          "url": "https://icamn.org/",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "KAAL",
-          "url": "https://www.kaaltv.com/news/diwali/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Diwali Dinner and Cultural Entertainment, Farmington",
-      "alsoKnownAs": [],
-      "kind": "community festival",
-      "capsule": "Diwali dinner and entertainment in Farmington.",
-      "dateRule": "From a community listing.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-14",
-          "endDate": null,
-          "source": "LocalFiles listing (third-party community listing; the organizer's own page was not found, so the date is not treated as confirmed)",
-          "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Diwali.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [
-        {
-          "name": "Diwali Dinner and Cultural Entertainment, Farmington",
-          "place": "Farmington auditorium",
-          "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "organizerDates": "Nov. 14, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "LocalFiles listing",
-          "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Deepavali and Rajyotsava",
-      "alsoKnownAs": [],
-      "kind": "community festival",
-      "capsule": "Kannada community's combined Deepavali and Rajyotsava at the Maple Grove temple.",
-      "dateRule": "Set each year by Sangeetha Kannada Koota.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-21",
-          "endDate": null,
-          "source": "Sangeetha Kannada Koota",
-          "sourceUrl": "http://www.kannadamn.org/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Deepavali together with Rajyotsava.",
-      "howCelebratedInMinnesota": "11 a.m. to 7 p.m., banana leaf meals, in the group's 50th year.",
-      "minnesotaEvents": [
-        {
-          "name": "Deepavali and Rajyotsava",
-          "place": "Hindu Temple of Minnesota, Maple Grove",
-          "link": "http://www.kannadamn.org/",
-          "organizerDates": "Nov. 21, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Sangeetha Kannada Koota",
-          "url": "http://www.kannadamn.org/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "TCTA Deepavali 2026",
-      "alsoKnownAs": [
-        "Deepavali Isai Kondattam (Deepavali music celebration)"
-      ],
-      "kind": "community festival",
-      "capsule": "Twin Cities Tamil Association's Deepavali concert with a live orchestra, in Hopkins.",
-      "dateRule": "Set each year by the Twin Cities Tamil Association.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-22",
-          "endDate": null,
-          "source": "Twin Cities Tamil Association upcoming events page",
-          "sourceUrl": "https://tctamn.org/upcoming-events/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Deepavali.",
-      "howCelebratedInMinnesota": "The association announces a Sunday, Nov. 22, 2026, 3 p.m. concert at the Eisenhower Community Center, 1001 Highway 7, Hopkins, with a live orchestra and singers from Tamil television singing contests. An earlier community listing gave Nov. 21.",
-      "minnesotaEvents": [
-        {
-          "name": "TCTA Deepavali 2026",
-          "place": "Eisenhower Community Center, Hopkins",
-          "link": "https://tctamn.org/upcoming-events/",
-          "organizerDates": "Sunday, Nov. 22, 2026, 3 p.m.",
-          "dateChecked": "2026-10-31"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Twin Cities Tamil Association, upcoming events",
-          "url": "https://tctamn.org/upcoming-events/",
-          "dateChecked": "2026-10-31"
-        },
-        {
-          "title": "LocalFiles listing",
-          "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Hindu Society of Minnesota Diwali",
-      "alsoKnownAs": [
-        "Diwali Mela",
-        "Grand Diwali Celebration"
-      ],
-      "kind": "community festival",
-      "capsule": "Hindu Society's large public Diwali at a Woodbury sports center, held since 2011.",
-      "dateRule": "Set each year by the Hindu Society. 2026 date not found.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": null,
-          "endDate": null,
-          "source": "No 2026 date found. The Hindu Society's Diwali page opened Oct. 31, 2026 still shows the 2025 Mela, whose Eventbrite page gives Saturday, Oct. 18, 2025, 3 to 7 p.m.",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Diwali.",
-      "howCelebratedInMinnesota": "Sahan Journal reports as many as 1,000 people a year, with Dhol Tasha drumming, street food and about 20 vendors; the 2025 Mela was Saturday, Oct. 18, 2025, 3 to 7 p.m., at the M Health Fairview Sports Center, 4125 Radio Drive, Woodbury, with tickets from $15, performances, henna, a wedding expo booth and a Diwali menu from Fresh India. A Hindu Society sponsorship brochure (undated) calls its Grand Diwali in October and Grand Holi in March its flagship events, each drawing over 2,000 people. No 2026 date was found.",
-      "minnesotaEvents": [
-        {
-          "name": "Hindu Society Diwali Mela",
-          "place": "M Health Fairview Sports Center, Woodbury",
-          "link": "https://www.eventbrite.com/e/diwali-tickets-1704302818609",
-          "organizerDates": "Saturday, Oct. 18, 2025, 3 to 7 p.m. (past); 2026 not found",
-          "dateChecked": "2026-10-31"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Sahan Journal",
-          "url": "https://sahanjournal.com/?p=75984",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "Hindu Society Diwali page",
-          "url": "https://www.hindutemplemn.org/diwali",
-          "dateChecked": "2026-10-31"
-        },
-        {
-          "title": "Eventbrite, Diwali (Hindu Society of Minnesota), Oct. 18, 2025",
-          "url": "https://www.eventbrite.com/e/diwali-tickets-1704302818609",
-          "dateChecked": "2026-10-31"
-        },
-        {
-          "title": "Hindu Society of Minnesota sponsorship brochure",
-          "url": "https://www.hindutemplemn.org/_files/ugd/ca41fc_6d2aa01a052a48d18b25b663a96a9e63.pdf",
-          "dateChecked": "2026-10-31"
-        }
-      ]
-    },
-    {
-      "seedId": "holi",
-      "name": "Holi",
-      "alsoKnownAs": [],
-      "kind": "religious",
-      "capsule": "Spring festival of colors, with a bonfire and thrown powder.",
-      "dateRule": "Day after the full moon of the Hindu month Phalguna, usually March.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-03-04",
-          "endDate": null,
-          "source": "HinduTone guide. HinduTone is a commercial festival guide, so this date is not treated as confirmed.",
-          "sourceUrl": "https://hindutone.com/festivals/ganesh-chaturthi-2026-usa-state-by-state/",
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": "2027-03-22",
-          "endDate": null,
-          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-03-11",
-          "endDate": null,
-          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "calculated",
-      "whatItMarks": "Spring, rebirth and releasing negative energy, per MPR News.",
-      "howCelebratedInMinnesota": "The Marathi Association of Minnesota held Holi at the Hindu Temple of Minnesota on March 30, 2024, with a Holika Dahan fire and colored powder (MPR News). The Hindu Society's undated sponsorship brochure names a Grand Holi Celebration in March as one of its two flagship events. No 2026 Minnesota date was found.",
-      "minnesotaEvents": [
-        {
-          "name": "Holi",
-          "place": "Hindu Temple of Minnesota, Maple Grove",
-          "link": "https://www.mprnews.org/story/2024/03/30/photos-maple-grove-celebrates-holi-the-hindu-festival-of-colors",
-          "organizerDates": "March 30, 2024 (past)",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "MPR News",
-          "url": "https://www.mprnews.org/story/2024/03/30/photos-maple-grove-celebrates-holi-the-hindu-festival-of-colors",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "HinduTone",
-          "url": "https://hindutone.com/festivals/ganesh-chaturthi-2026-usa-state-by-state/",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "Hindu Society of Minnesota sponsorship brochure",
-          "url": "https://www.hindutemplemn.org/_files/ugd/ca41fc_6d2aa01a052a48d18b25b663a96a9e63.pdf",
-          "dateChecked": "2026-10-31"
-        }
-      ]
-    },
-    {
-      "seedId": "republic-day-india",
-      "name": "Republic Day (India)",
-      "alsoKnownAs": [],
-      "kind": "national",
-      "capsule": "Marks India's constitution taking effect in 1950.",
-      "dateRule": "January 26.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-01-26",
-          "endDate": null,
-          "source": "Fixed Gregorian date",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": "2027-01-26",
-          "endDate": null,
-          "source": "Fixed Gregorian date",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-01-26",
-          "endDate": null,
-          "source": "Fixed Gregorian date",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "fixed",
-      "whatItMarks": "Adoption of the Constitution of India in 1950.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [],
-      "workplaceNote": null,
-      "sources": []
-    },
-    {
-      "seedId": "independence-day-india",
-      "name": "Independence Day (India)",
-      "alsoKnownAs": [
-        "India Day"
-      ],
-      "kind": "national",
-      "capsule": "Marks India's independence in 1947; Minnesota marks it through IndiaFest.",
-      "dateRule": "August 15. IAM says Minnesota recognizes this date as India Day.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-08-15",
-          "endDate": null,
-          "source": "India Association of Minnesota",
-          "sourceUrl": "https://iamn.org/?p=493",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": "2027-08-15",
-          "endDate": null,
-          "source": "India Association of Minnesota",
-          "sourceUrl": "https://iamn.org/?p=493",
-          "verified": true
-        },
-        {
-          "year": 2028,
-          "date": "2028-08-15",
-          "endDate": null,
-          "source": "India Association of Minnesota",
-          "sourceUrl": "https://iamn.org/?p=493",
-          "verified": true
-        }
-      ],
-      "dateCertainty": "fixed",
-      "whatItMarks": "Indian independence in 1947.",
-      "howCelebratedInMinnesota": "IndiaFest, with flag hoisting and national anthem at the Capitol. In 2026 the festival fell on August 15 itself.",
-      "minnesotaEvents": [
-        {
-          "name": "IndiaFest",
-          "place": "Minnesota State Capitol grounds",
-          "link": "https://iamn.org/event/indiafest-2026/",
-          "organizerDates": "Aug. 15, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "IAM IndiaFest page",
-          "url": "https://iamn.org/?p=493",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "IndiaFest",
-      "alsoKnownAs": [
-        "India Day"
-      ],
-      "kind": "community festival",
-      "capsule": "Free one-day festival at the State Capitol with parade, dance, food and a Bollywood night.",
-      "dateRule": "Set each year by the India Association of Minnesota, around Independence Day.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-08-15",
-          "endDate": null,
-          "source": "India Association of Minnesota",
-          "sourceUrl": "https://iamn.org/event/indiafest-2026/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Indian culture and Independence Day.",
-      "howCelebratedInMinnesota": "11 a.m. to about 8:30 p.m., over 100 booths, expected about 25,000 by the organizer. Sources disagree on first year: 1983 per IAM and MNopedia, 1985 per Sahan Journal.",
-      "minnesotaEvents": [
-        {
-          "name": "IndiaFest",
-          "place": "Minnesota State Capitol grounds, St. Paul",
-          "link": "https://iamn.org/event/indiafest-2026/",
-          "organizerDates": "Aug. 15, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "IAM",
-          "url": "https://iamn.org/event/indiafest-2026/",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "Sahan Journal, 2024",
-          "url": "https://sahanjournal.com/arts-culture/indiafest-afrocentric-music-japanese-obon-festival-como-park/",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "MNopedia",
-          "url": "https://www.mnhs.org/mnopedia/search/index/ganges-ten-thousand-lakes-immigration-india-minnesota",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": "navaratri-and-dussehra",
-      "name": "Navaratri and Dussehra",
-      "alsoKnownAs": [
-        "Navratri",
-        "Vijayadashami",
-        "Dasara"
-      ],
-      "kind": "religious",
-      "capsule": "Nine nights of worship and dance, ending in Dussehra, the victory of good.",
-      "dateRule": "Dussehra is the tenth day of the bright half of the Hindu month Ashvin, usually October; the nine nights of Navaratri come before it.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-10-11",
-          "endDate": "2026-10-20",
-          "source": "HinduTone, Minneapolis reckoning: Navaratri begins Oct. 11, Dussehra Oct. 20. HinduTone is a commercial festival guide, so this date is not treated as confirmed.",
-          "sourceUrl": "https://hindutone.com/festivals/dussehra-2026-minneapolis/",
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": "2027-10-09",
-          "endDate": null,
-          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-09-27",
-          "endDate": null,
-          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "calculated",
-      "whatItMarks": "Nine nights, then the victory of good over evil.",
-      "howCelebratedInMinnesota": "Gujarati Samaj of Minnesota says it holds Navratri yearly; Garba ran Oct. 18 and 19, 2024, in Woodbury. No 2026 Minnesota Garba date found. The Gujarati Samaj of Minnesota, which says it has more than 1,500 members and about 12 events a year, lists Navratri among its yearly celebrations, but its events page showed no 2026 dates when opened Oct. 31, 2026.",
-      "minnesotaEvents": [
-        {
-          "name": "Navratri Garba",
-          "place": "M Health Fairview Sports Center, Woodbury",
-          "link": "https://woodburynewsnet.org/?p=962",
-          "organizerDates": "Oct. 18 and 19, 2024 (past); 2026 not found",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "HinduTone",
-          "url": "https://hindutone.com/festivals/dussehra-2026-minneapolis/",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "Woodbury News",
-          "url": "https://woodburynewsnet.org/?p=962",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "Gujarati Samaj",
-          "url": "http://mngujaratisamaj.org/",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "Gujarati Samaj of Minnesota, home and events",
-          "url": "https://mngujaratisamaj.org/index.php/Events",
-          "dateChecked": "2026-10-31"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Durga Puja, Bengali Association of Minnesota",
-      "alsoKnownAs": [
-        "Durgotsav",
-        "Sharodotsav"
-      ],
-      "kind": "religious",
-      "capsule": "Bengali community's three-day worship of Durga at an Eden Prairie school.",
-      "dateRule": "Set each year by the Bengali Association.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-10-16",
-          "endDate": "2026-10-18",
-          "source": "Bengali Association of Minnesota",
-          "sourceUrl": "https://mnbangali.org/events/durga-puja-2026/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Worship of the goddess Durga.",
-      "howCelebratedInMinnesota": "Starts 6 p.m. on Oct. 16.",
-      "minnesotaEvents": [
-        {
-          "name": "Durga Puja, Bengali Association of Minnesota",
-          "place": "Central Middle School, Eden Prairie",
-          "link": "https://mnbangali.org/events/durga-puja-2026/",
-          "organizerDates": "Oct. 16 to 18, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Bengali Association of Minnesota",
-          "url": "https://mnbangali.org/events/durga-puja-2026/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Kojagori Lokhi Pujo",
-      "alsoKnownAs": [],
-      "kind": "religious",
-      "capsule": "Bengali worship of Lokhi on Kojagori Purnima.",
-      "dateRule": "Set each year by the Bengali Association.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-10-24",
-          "endDate": null,
-          "source": "Bengali Association of Minnesota",
-          "sourceUrl": "https://mnbangali.org/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Worship of Lokhi on Kojagori Purnima.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [
-        {
-          "name": "Kojagori Lokhi Pujo",
-          "place": "Not listed",
-          "link": "https://mnbangali.org/",
-          "organizerDates": "Oct. 24, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Bengali Association of Minnesota",
-          "url": "https://mnbangali.org/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Sri Radha Kalyanam",
-      "alsoKnownAs": [],
-      "kind": "religious",
-      "capsule": "A Hindu ceremony held at the Maple Grove temple.",
-      "dateRule": "Listed by a community directory.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-10-31",
-          "endDate": null,
-          "source": "LocalFiles listing (third-party community listing; the organizer's own page was not found, so the date is not treated as confirmed)",
-          "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "A Hindu temple ceremony.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [
-        {
-          "name": "Sri Radha Kalyanam",
-          "place": "Hindu Temple of Minnesota",
-          "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "organizerDates": "Oct. 31, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "LocalFiles listing",
-          "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": "guru-nanak-gurpurab",
-      "name": "Guru Nanak Gurpurab",
-      "alsoKnownAs": [
-        "Gurpurab"
-      ],
-      "kind": "religious",
-      "capsule": "Birthday of Guru Nanak, founder of Sikhism.",
-      "dateRule": "Full moon of the Hindu month Kartika, usually November.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-24",
-          "endDate": null,
-          "source": "Sikh Society of Minnesota events calendar lists Guru Nanak Dev ji Gurpurab on Nov. 24, 2026, 6:30 to 8:30 p.m.",
-          "sourceUrl": "https://www.mnsikhs.com/events.html",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": "2027-11-14",
-          "endDate": null,
-          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": "2028-11-02",
-          "endDate": null,
-          "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "calculated",
-      "whatItMarks": "Birth of Guru Nanak, founder of Sikhism.",
-      "howCelebratedInMinnesota": "The Sikh Society of Minnesota's calendar lists the Gurpurab itself on Tuesday, Nov. 24, 2026, evening, and a three-day Gurpurab celebration at the gurdwara in Bloomington on Dec. 4 and 5 (evenings) and Dec. 6 (morning), 2026.",
-      "minnesotaEvents": [
-        {
-          "name": "Guru Nanak Dev ji Gurpurab",
-          "place": "Sikh Society of Minnesota gurdwara, Bloomington",
-          "link": "https://www.mnsikhs.com/events.html",
-          "organizerDates": "Nov. 24, 2026, 6:30 to 8:30 p.m.",
-          "dateChecked": "2026-10-31"
-        },
-        {
-          "name": "Guru Nanak Dev ji Gurpurab Celebration",
-          "place": "Sikh Society of Minnesota gurdwara, Bloomington",
-          "link": "https://www.mnsikhs.com/events.html",
-          "organizerDates": "Dec. 4 to 6, 2026",
-          "dateChecked": "2026-10-31"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Sikh Society of Minnesota, Upcoming Events and Calendar",
-          "url": "https://www.mnsikhs.com/events.html",
-          "dateChecked": "2026-10-31"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Vaisakhi",
-      "alsoKnownAs": [
-        "Baisakhi"
-      ],
-      "kind": "religious",
-      "capsule": "Sikh and Punjabi spring observance.",
-      "dateRule": "Traditionally mid-April; no page I opened states a date. Local gatherings are set by the gurdwara and Punjabi groups.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "A Sikh and Punjabi spring observance.",
-      "howCelebratedInMinnesota": "The Sikh Society of Minnesota's online calendar, opened Oct. 31, 2026, covers July 2026 onward and shows no Vaisakhi date. No Minnesota date for 2026 was found.",
-      "minnesotaEvents": [],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Sikh Society of Minnesota, Upcoming Events and Calendar",
-          "url": "https://www.mnsikhs.com/events.html",
-          "dateChecked": "2026-10-31"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Mahavir Janma Kalyanak",
-      "alsoKnownAs": [
-        "Mahavir Jayanti"
-      ],
-      "kind": "religious",
-      "capsule": "Birth of Mahavir, marked by the Jain Center at Maple Grove.",
-      "dateRule": "Proposed by the Jain Center, subject to confirmation.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-04-25",
-          "endDate": null,
-          "source": "Jain Center of Minnesota",
-          "sourceUrl": "https://jaincentermn.org/2026-events",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Birth of Mahavir.",
-      "howCelebratedInMinnesota": "8 a.m. to 2 p.m.",
-      "minnesotaEvents": [
-        {
-          "name": "Mahavir Janma Kalyanak",
-          "place": "Hindu Temple of Minnesota campus",
-          "link": "https://jaincentermn.org/2026-events",
-          "organizerDates": "April 25, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Jain Center of Minnesota",
-          "url": "https://jaincentermn.org/2026-events",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Paryushan Mahaparva",
-      "alsoKnownAs": [
-        "Paryushan"
-      ],
-      "kind": "religious",
-      "capsule": "Jain period of observance at the Maple Grove center.",
-      "dateRule": "Proposed by the Jain Center, subject to confirmation.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-09-09",
-          "endDate": "2026-09-15",
-          "source": "Jain Center of Minnesota",
-          "sourceUrl": "https://jaincentermn.org/2026-events",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "A Jain period of observance.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [
-        {
-          "name": "Paryushan Mahaparva",
-          "place": "Jain Center of Minnesota",
-          "link": "https://jaincentermn.org/2026-events",
-          "organizerDates": "Sept. 9 to 15, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Jain Center of Minnesota",
-          "url": "https://jaincentermn.org/2026-events",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Das Lakshan Mahaparva",
-      "alsoKnownAs": [
-        "Das Lakshan"
-      ],
-      "kind": "religious",
-      "capsule": "Jain observance following Paryushan on the center's schedule.",
-      "dateRule": "Proposed by the Jain Center, subject to confirmation.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-09-16",
-          "endDate": "2026-09-25",
-          "source": "Jain Center of Minnesota",
-          "sourceUrl": "https://jaincentermn.org/2026-events",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "A Jain period of observance.",
-      "howCelebratedInMinnesota": null,
-      "minnesotaEvents": [
-        {
-          "name": "Das Lakshan Mahaparva",
-          "place": "Jain Center of Minnesota",
-          "link": "https://jaincentermn.org/2026-events",
-          "organizerDates": "Sept. 16 to 25, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Jain Center of Minnesota",
-          "url": "https://jaincentermn.org/2026-events",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Kshamavani",
-      "alsoKnownAs": [],
-      "kind": "religious",
-      "capsule": "Jain day on the center's schedule after Das Lakshan.",
-      "dateRule": "Proposed by the Jain Center, subject to confirmation.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-09-26",
-          "endDate": null,
-          "source": "Jain Center of Minnesota",
-          "sourceUrl": "https://jaincentermn.org/2026-events",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "A Jain observance.",
-      "howCelebratedInMinnesota": "8 a.m. to 2 p.m.",
-      "minnesotaEvents": [
-        {
-          "name": "Kshamavani",
-          "place": "Jain Center of Minnesota",
-          "link": "https://jaincentermn.org/2026-events",
-          "organizerDates": "Sept. 26, 2026",
-          "dateChecked": "2026-10-30"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Jain Center of Minnesota",
-          "url": "https://jaincentermn.org/2026-events",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Onam",
-      "alsoKnownAs": [],
-      "kind": "cultural",
-      "capsule": "Kerala festival kept by the Minnesota Malayalee Association.",
-      "dateRule": "Thiruvonam, the day of the Thiruvonam star in the Malayalam month of Chingam (August or September). Kerala's government sets the public holiday each year; Minnesota groups pick their own weekend.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-08-26",
-          "endDate": null,
-          "source": "Onmanorama (Oct. 29, 2025) reports that the Kerala government's 2026 holiday list gives Thiruvonam as Wednesday, Aug. 26, 2026. That is a newspaper report, not the government notice itself, and a Thiruvananthapuram Municipal Corporation holiday page opened Oct. 31, 2026 lists Thiruvonam on Sept. 4, 2026, so the date is left unconfirmed. Drik Panchang, a commercial calendar, also gives Aug. 26.",
-          "sourceUrl": "https://www.onmanorama.com/news/kerala/2025/10/29/kerala-public-holidays-2026-full-list.html",
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No official or organizer source found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No official or organizer source found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "calculated",
-      "whatItMarks": "A Kerala festival.",
-      "howCelebratedInMinnesota": "A state-funded India Association report names the Minnesota Malayalee Association's Onam in its 2022 to 2023 program. The association's own site could not be opened, and no 2026 Minnesota Onam date was found.",
-      "minnesotaEvents": [],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Minnesota's Legacy, IAM Cultural Identity Program",
-          "url": "https://www.legacy.mn.gov/node/10031097",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "Kerala includes Maundy Thursday among public holidays of 2026, Onmanorama",
-          "url": "https://www.onmanorama.com/news/kerala/2025/10/29/kerala-public-holidays-2026-full-list.html",
-          "dateChecked": "2026-10-31"
-        },
-        {
-          "title": "Holiday List 2026, Smart Trivandrum (Thiruvananthapuram Municipal Corporation)",
-          "url": "https://smarttvm.tmc.lsgkerala.gov.in/default/index/holidays",
-          "dateChecked": "2026-10-31"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Pongal",
-      "alsoKnownAs": [],
-      "kind": "cultural",
-      "capsule": "Tamil festival kept by Minnesota Tamil Sangam.",
-      "dateRule": "Mid-January. Local date set by the group.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "A Tamil festival.",
-      "howCelebratedInMinnesota": "Minnesota Tamil Sangam lists Pongal among its events without a date. The Twin Cities Tamil Association held its Pongal festival, Thamizhar Thiruvizha, on Jan. 24, 2026, in Plymouth (see its own entry).",
-      "minnesotaEvents": [
-        {
-          "name": "Thamizhar Thiruvizha 2026",
-          "place": "Wayzata Central Middle School, Plymouth",
-          "link": "https://tctamn.org/past-events/",
-          "organizerDates": "Jan. 24, 2026 (held)",
-          "dateChecked": "2026-10-31"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Minnesota Tamil Sangam",
-          "url": "https://www.mntamilsangam.org/",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "Twin Cities Tamil Association, past events",
-          "url": "https://tctamn.org/past-events/",
-          "dateChecked": "2026-10-31"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Ugadi and Gudi Padwa",
-      "alsoKnownAs": [],
-      "kind": "religious",
-      "capsule": "New year prayers at the Maple Grove temple.",
-      "dateRule": "New year on the Hindu lunar calendar.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-03-19",
-          "endDate": null,
-          "source": "HinduTone. HinduTone is a commercial festival guide, so this date is not treated as confirmed.",
-          "sourceUrl": "https://hindutone.com/global-hindu-presence/usa/ugadi-celebrations-usa-state-wise-city-wise-guide/",
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "Not checked",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "Not checked",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "calculated",
-      "whatItMarks": "New year.",
-      "howCelebratedInMinnesota": "HinduTone lists prayers at the Hindu Temple of Minnesota, without a date.",
-      "minnesotaEvents": [],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "HinduTone",
-          "url": "https://hindutone.com/global-hindu-presence/usa/ugadi-celebrations-usa-state-wise-city-wise-guide/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Bonalu",
-      "alsoKnownAs": [],
-      "kind": "cultural",
-      "capsule": "Telangana festival held by the Minnesota Area Telangana Association.",
-      "dateRule": "Set locally. 2026 date not found.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "A Telangana festival.",
-      "howCelebratedInMinnesota": "Named in a state-funded IAM program report for 2022 to 2023.",
-      "minnesotaEvents": [],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Minnesota Legacy",
-          "url": "https://www.legacy.mn.gov/node/10031097",
-          "dateChecked": "2026-10-30"
-        },
-        {
-          "title": "MATA",
-          "url": "https://www.telanganamn.org/upcoming-events/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Ganesh Utsav",
-      "alsoKnownAs": [
-        "Ganesh Chaturthi",
-        "Ganapati"
-      ],
-      "kind": "religious",
-      "capsule": "Marathi Association's festival of Ganesha; its 2026 photo albums are online without dates.",
-      "dateRule": "Set locally by the association.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No Minnesota date found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "The festival of Ganesha.",
-      "howCelebratedInMinnesota": "The Marathi Association shows Ganapati Sthapana and Visarjan 2026 albums.",
-      "minnesotaEvents": [],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Marathi Association",
-          "url": "https://www.mnmarathi.org/",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Guru Nanak Gurpurab Celebration, Sikh Society of Minnesota",
-      "alsoKnownAs": [
-        "Gurpurab celebration"
-      ],
-      "kind": "religious",
-      "capsule": "Three-day celebration of Guru Nanak's birth at Minnesota's gurdwara in Bloomington.",
-      "dateRule": "Set each year by the Sikh Society of Minnesota, usually on a weekend near the Gurpurab.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-12-04",
-          "endDate": "2026-12-06",
-          "source": "Sikh Society of Minnesota events calendar",
-          "sourceUrl": "https://www.mnsikhs.com/events.html",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "The birth of Guru Nanak, the first Sikh Guru.",
-      "howCelebratedInMinnesota": "The calendar lists Day 1 and Day 2 on Dec. 4 and 5, 2026, 6:30 to 8:30 p.m., and Day 3 on Sunday, Dec. 6, 9 a.m. to 1 p.m., at the gurdwara. Services there are followed by langar, a shared meal open to guests.",
-      "minnesotaEvents": [
-        {
-          "name": "Guru Nanak Dev ji Gurpurab Celebration",
-          "place": "Sikh Society of Minnesota gurdwara, 9000 W Bloomington Fwy, Bloomington",
-          "link": "https://www.mnsikhs.com/events.html",
-          "organizerDates": "Dec. 4 to 6, 2026",
-          "dateChecked": "2026-10-31"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Sikh Society of Minnesota, Upcoming Events and Calendar",
-          "url": "https://www.mnsikhs.com/events.html",
-          "dateChecked": "2026-10-31"
-        },
-        {
-          "title": "Sikh Society of Minnesota, visitors",
-          "url": "https://www.mnsikhs.com/visitors.html",
-          "dateChecked": "2026-10-30"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Bandi Chor Divas",
-      "alsoKnownAs": [
-        "Bandi Chhor Divas"
-      ],
-      "kind": "religious",
-      "capsule": "Sikh observance on Diwali day, marked with an evening program at the Bloomington gurdwara.",
-      "dateRule": "Kept on the day of Diwali.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-08",
-          "endDate": null,
-          "source": "Sikh Society of Minnesota events calendar",
-          "sourceUrl": "https://www.mnsikhs.com/events.html",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "calculated",
-      "whatItMarks": "A Sikh observance kept on Diwali day; no Minnesota source opened describes its meaning.",
-      "howCelebratedInMinnesota": "The Sikh Society of Minnesota lists Bandi Chor Diwas at the gurdwara on Nov. 8, 2026, 6:30 to 8:30 p.m.",
-      "minnesotaEvents": [
-        {
-          "name": "Bandi Chor Diwas",
-          "place": "Sikh Society of Minnesota gurdwara, Bloomington",
-          "link": "https://www.mnsikhs.com/events.html",
-          "organizerDates": "Nov. 8, 2026, 6:30 to 8:30 p.m.",
-          "dateChecked": "2026-10-31"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Sikh Society of Minnesota, Upcoming Events and Calendar",
-          "url": "https://www.mnsikhs.com/events.html",
-          "dateChecked": "2026-10-31"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Perunal of St. Gregorios Malankara Orthodox Church",
-      "alsoKnownAs": [
-        "Perunnal",
-        "Feast of St. Gregorios"
-      ],
-      "kind": "religious",
-      "capsule": "Feast weekend of Minnesota's Malankara (Indian) Orthodox parish in south Minneapolis.",
-      "dateRule": "Set each year by the parish, in early November.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-11-07",
-          "endDate": "2026-11-08",
-          "source": "St. Gregorios Malankara Orthodox Church, Minnesota, home page events",
-          "sourceUrl": "https://www.sgocminnesota.org/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "The parish's patronal feast, named for St. Gregorios, whose life the parish's about page recounts.",
-      "howCelebratedInMinnesota": "The parish lists a Perunal Saturday service on Nov. 7, 2026 at 5:30 p.m. and Perunal and Holy Liturgy on Sunday, Nov. 8 at 8:30 a.m., at 1010 E 58th Street, Minneapolis.",
-      "minnesotaEvents": [
-        {
-          "name": "Perunal Saturday Service; Perunal and Holy Liturgy",
-          "place": "1010 E 58th St, Minneapolis",
-          "link": "https://www.sgocminnesota.org/",
-          "organizerDates": "Nov. 7 and 8, 2026",
-          "dateChecked": "2026-10-31"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "St. Gregorios Malankara Orthodox Church, home",
-          "url": "https://www.sgocminnesota.org/",
-          "dateChecked": "2026-10-31"
-        },
-        {
-          "title": "St. Gregorios Malankara Orthodox Church, about",
-          "url": "https://www.sgocminnesota.org/about",
-          "dateChecked": "2026-10-31"
-        }
-      ]
-    },
-    {
-      "seedId": null,
-      "name": "Thamizhar Thiruvizha (TCTA Pongal festival)",
-      "alsoKnownAs": [
-        "Tamil festival",
-        "Pongal celebration"
-      ],
-      "kind": "community festival",
-      "capsule": "Twin Cities Tamil Association's January arts festival, held to celebrate Pongal.",
-      "dateRule": "Set each year by the Twin Cities Tamil Association, usually a January weekend after Pongal.",
-      "dates": [
-        {
-          "year": 2026,
-          "date": "2026-01-24",
-          "endDate": null,
-          "source": "Twin Cities Tamil Association past events page",
-          "sourceUrl": "https://tctamn.org/past-events/",
-          "verified": true
-        },
-        {
-          "year": 2027,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        },
-        {
-          "year": 2028,
-          "date": null,
-          "endDate": null,
-          "source": "No announcement found",
-          "sourceUrl": null,
-          "verified": false
-        }
-      ],
-      "dateCertainty": "announced each year",
-      "whatItMarks": "Pongal, the Tamil harvest festival, which the association's notice calls the Tamil people's festival day.",
-      "howCelebratedInMinnesota": "Held Jan. 24, 2026, noon to 8 p.m., at Wayzata Central Middle School, Plymouth, with arts performances and a food sale; the 2025 edition was Jan. 19, 2025.",
-      "minnesotaEvents": [
-        {
-          "name": "Thamizhar Thiruvizha 2026",
-          "place": "Wayzata Central Middle School, Plymouth",
-          "link": "https://tctamn.org/past-events/",
-          "organizerDates": "Jan. 24, 2026 (held)",
-          "dateChecked": "2026-10-31"
-        }
-      ],
-      "workplaceNote": null,
-      "sources": [
-        {
-          "title": "Twin Cities Tamil Association, past events",
-          "url": "https://tctamn.org/past-events/",
-          "dateChecked": "2026-10-31"
-        }
-      ]
+     "year": 2028,
+     "date": "2028-01-28",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
     }
-  ],
-  "droppedSeedEntries": []
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "The start of the Muslim month of fasting.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "eid-alfitr",
+   "name": "Eid al-Fitr",
+   "alsoKnownAs": [
+    "Ramzan Eid",
+    "Meethi Eid"
+   ],
+   "kind": "religious",
+   "capsule": "Muslim festival ending Ramadan, marked at mosques across the metro.",
+   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends. Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-20",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-26",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "The end of Ramadan.",
+   "howCelebratedInMinnesota": "No event organized specifically by Indian Minnesotans was found. Northwest Islamic Community Center in Plymouth drew an estimated 3,000 people for Eid prayers on April 21, 2023; the report does not say where worshippers came from.",
+   "minnesotaEvents": [
+    {
+     "name": "Eid prayers",
+     "place": "Northwest Islamic Community Center, Plymouth",
+     "link": "https://ccxmedia.org/news/muslims-celebrate-eid-in-plymouth-building-renovation-planned/",
+     "organizerDates": "April 21, 2023, as reported"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CCX Media",
+     "url": "https://ccxmedia.org/news/muslims-celebrate-eid-in-plymouth-building-renovation-planned/"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-aladha",
+   "name": "Eid al-Adha",
+   "alsoKnownAs": [
+    "Bakrid",
+    "Bakra Eid"
+   ],
+   "kind": "religious",
+   "capsule": "Muslim festival of sacrifice, marked at mosques and large shared gatherings.",
+   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah). Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "The festival of sacrifice.",
+   "howCelebratedInMinnesota": "No event organized specifically by Indian Minnesotans was found. A capacity crowd in the tens of thousands gathered at the Minneapolis Convention Center on June 28, 2023; the report does not identify attendees by background.",
+   "minnesotaEvents": [
+    {
+     "name": "Eid al-Adha prayer",
+     "place": "Minneapolis Convention Center",
+     "link": "https://www.cbsnews.com/amp/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/",
+     "organizerDates": "June 28, 2023, as reported"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "WCCO",
+     "url": "https://www.cbsnews.com/amp/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/"
+    }
+   ]
+  },
+  {
+   "seedId": "islamic-new-year",
+   "name": "Islamic New Year",
+   "alsoKnownAs": [
+    "Hijri New Year",
+    "Muharram"
+   ],
+   "kind": "religious",
+   "capsule": "First day of the Muslim lunar year.",
+   "dateRule": "First day of the first Islamic month (Muharram). Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-16",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-06",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-25",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "The first day of the Islamic year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "ashura",
+   "name": "Ashura",
+   "alsoKnownAs": [
+    "Muharram"
+   ],
+   "kind": "religious",
+   "capsule": "Tenth day of Muharram, a day of remembrance for Muslims.",
+   "dateRule": "Tenth day of Muharram. Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-25",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-15",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-03",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "A day of remembrance on the tenth of Muharram.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "diwali",
+   "name": "Diwali",
+   "alsoKnownAs": [
+    "Deepavali"
+   ],
+   "kind": "religious",
+   "capsule": "The festival of lights, kept by Hindus, Jains and Sikhs with lamps, prayer and community shows.",
+   "dateRule": "New moon (Amavasya) of the Hindu lunar month Kartika (Ashvin in the amanta reckoning), usually October or November.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-08",
+     "endDate": null,
+     "source": "HinduTone, Minneapolis timing, updated Oct. 21, 2026. HinduTone is a commercial festival guide, so this date is not treated as confirmed.",
+     "sourceUrl": "https://hindutone.com/festivals/diwali-2026-usa-celebrations/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-29",
+     "endDate": null,
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-17",
+     "endDate": null,
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A five-day festival of lights; Sahan Journal describes lamps and rangoli said to guide Lakshmi into homes.",
+   "howCelebratedInMinnesota": "Many events, not one. Temples, language groups and neighborhood volunteers each hold their own, often on weekends around the date, from Eden Prairie to Woodbury to Byron. See the separate entries for announced dates.",
+   "minnesotaEvents": [
+    {
+     "name": "Geeta Ashram Diwali Celebration",
+     "place": "Eden Prairie High School",
+     "link": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
+     "organizerDates": "Oct. 24, 2026"
+    },
+    {
+     "name": "Carver Diwali",
+     "place": "Eden Prairie High School",
+     "link": "https://carverdiwali.org/",
+     "organizerDates": "Nov. 1, 2026"
+    },
+    {
+     "name": "Diwali Puja at Milan Mandir",
+     "place": "Farmington",
+     "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "organizerDates": "Nov. 8, 2026"
+    },
+    {
+     "name": "Marathi Association Diwali",
+     "place": "Hopkins High School",
+     "link": "https://www.mnmarathi.org/events",
+     "organizerDates": "Nov. 14, 2026"
+    },
+    {
+     "name": "ICAM Diwali Cultural Program",
+     "place": "Byron High School",
+     "link": "https://icamn.org/",
+     "organizerDates": "Nov. 14, 2026"
+    },
+    {
+     "name": "TCTA Deepavali 2026",
+     "place": "Eisenhower Community Center, Hopkins",
+     "link": "https://tctamn.org/upcoming-events/",
+     "organizerDates": "Nov. 22, 2026"
+    },
+    {
+     "name": "Diwali Weekend at Raag (buffet and bazaar)",
+     "place": "Raag on 50th, Minneapolis",
+     "link": "https://www.raagon50th.com/",
+     "organizerDates": "Oct. 24 and 25, 2026"
+    },
+    {
+     "name": "Bandi Chor Divas at the Sikh Society of Minnesota",
+     "place": "Gurdwara, Bloomington",
+     "link": "https://www.mnsikhs.com/events.html",
+     "organizerDates": "Nov. 8, 2026, 6:30 to 8:30 p.m."
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "HinduTone Diwali 2026 USA",
+     "url": "https://hindutone.com/festivals/diwali-2026-usa-celebrations/"
+    },
+    {
+     "title": "Sahan Journal, Woodbury Diwali 2025",
+     "url": "https://sahanjournal.com/?p=75984"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Geeta Ashram Diwali Celebration",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Geeta Ashram's evening Diwali show at Eden Prairie High School.",
+   "dateRule": "Set each year by Geeta Ashram MN.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-24",
+     "endDate": null,
+     "source": "Sulekha listing, Geeta Ashram MN (third-party community listing; the organizer's own page was not found, so the date is not treated as confirmed)",
+     "sourceUrl": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "Doors at 6 p.m., show about three hours.",
+   "minnesotaEvents": [
+    {
+     "name": "Geeta Ashram Diwali Celebration",
+     "place": "Eden Prairie High School",
+     "link": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
+     "organizerDates": "Oct. 24, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sulekha listing, Geeta Ashram MN",
+     "url": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Carver Diwali",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Volunteer neighbors' Diwali show and dinner in Eden Prairie.",
+   "dateRule": "Set each year by the volunteer team.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-01",
+     "endDate": null,
+     "source": "Carver Diwali team",
+     "sourceUrl": "https://carverdiwali.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "Performances and dinner, 3:30 to 10 p.m., by family registration. An informal volunteer group.",
+   "minnesotaEvents": [
+    {
+     "name": "Carver Diwali",
+     "place": "Eden Prairie High School Auditorium",
+     "link": "https://carverdiwali.org/",
+     "organizerDates": "Nov. 1, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Carver Diwali team",
+     "url": "https://carverdiwali.org/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "SAPNA Diyas and Dandiyas",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "A Diwali-season event from SEWA-AIFW's neurodiversity program in Brooklyn Center.",
+   "dateRule": "Set by SEWA-AIFW. Page says Sunday, Nov. 1, with no year; Nov. 1 is a Sunday in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-01",
+     "endDate": null,
+     "source": "SEWA-AIFW",
+     "sourceUrl": "https://www.sewa-aifw.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The Diwali season.",
+   "howCelebratedInMinnesota": "1 to 4 p.m., RSVP through SEWA-AIFW.",
+   "minnesotaEvents": [
+    {
+     "name": "SAPNA Diyas and Dandiyas",
+     "place": "SEWA-AIFW, Brooklyn Center",
+     "link": "https://www.sewa-aifw.org/",
+     "organizerDates": "Sunday, Nov. 1, 1 to 4 p.m."
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "SEWA-AIFW",
+     "url": "https://www.sewa-aifw.org/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Diwali Puja at Milan Mandir",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Diwali prayers at Milan Mandir in Farmington.",
+   "dateRule": "Listed by Jai Mata. The listing also mentions a Nov. 14 fundraiser.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-08",
+     "endDate": null,
+     "source": "LocalFiles listing (third-party community listing; the organizer's own page was not found, so the date is not treated as confirmed)",
+     "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Diwali Puja at Milan Mandir",
+     "place": "Milan Mandir, Farmington",
+     "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "organizerDates": "Nov. 8, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "LocalFiles listing",
+     "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Jain Diwali Nirvan Pooja",
+   "alsoKnownAs": [
+    "Diwali Nirvan"
+   ],
+   "kind": "religious",
+   "capsule": "Jain Center's Diwali prayer at Maple Grove.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation. The page prints Saturday beside Nov. 8, which is a Sunday in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-08",
+     "endDate": null,
+     "source": "Jain Center of Minnesota, proposed schedule",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali for Jains, called Nirvan on the schedule.",
+   "howCelebratedInMinnesota": "8 a.m. to 2 p.m., proposed.",
+   "minnesotaEvents": [
+    {
+     "name": "Jain Diwali Nirvan Pooja",
+     "place": "Jain Mandir, Hindu Temple of Minnesota",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "Nov. 8, 2026, proposed"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota, proposed schedule",
+     "url": "https://jaincentermn.org/2026-events"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Marathi Association Diwali",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Marathi Association of Minnesota's all-day Diwali at Hopkins High School.",
+   "dateRule": "Set each year by the association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-14",
+     "endDate": null,
+     "source": "Marathi Association of Minnesota",
+     "sourceUrl": "https://www.mnmarathi.org/events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "8 a.m. to 5 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Marathi Association Diwali",
+     "place": "Hopkins High School, Minnetonka",
+     "link": "https://www.mnmarathi.org/events",
+     "organizerDates": "Nov. 14, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Marathi Association of Minnesota",
+     "url": "https://www.mnmarathi.org/events"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "ICAM Diwali Cultural Program",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Rochester-area Diwali show of local music and dance at Byron High School.",
+   "dateRule": "Set each year by the Indian Cultural Association of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-14",
+     "endDate": null,
+     "source": "ICAM",
+     "sourceUrl": "https://icamn.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "4 p.m. An earlier year used Mayo Civic Center in Rochester.",
+   "minnesotaEvents": [
+    {
+     "name": "ICAM Diwali Cultural Program",
+     "place": "Byron High School Auditorium",
+     "link": "https://icamn.org/",
+     "organizerDates": "Nov. 14, 2026, 4 p.m."
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "ICAM",
+     "url": "https://icamn.org/"
+    },
+    {
+     "title": "KAAL",
+     "url": "https://www.kaaltv.com/news/diwali/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Diwali Dinner and Cultural Entertainment, Farmington",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Diwali dinner and entertainment in Farmington.",
+   "dateRule": "From a community listing.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-14",
+     "endDate": null,
+     "source": "LocalFiles listing (third-party community listing; the organizer's own page was not found, so the date is not treated as confirmed)",
+     "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Diwali Dinner and Cultural Entertainment, Farmington",
+     "place": "Farmington auditorium",
+     "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "organizerDates": "Nov. 14, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "LocalFiles listing",
+     "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Deepavali and Rajyotsava",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Kannada community's combined Deepavali and Rajyotsava at the Maple Grove temple.",
+   "dateRule": "Set each year by Sangeetha Kannada Koota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-21",
+     "endDate": null,
+     "source": "Sangeetha Kannada Koota",
+     "sourceUrl": "http://www.kannadamn.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Deepavali together with Rajyotsava.",
+   "howCelebratedInMinnesota": "11 a.m. to 7 p.m., banana leaf meals, in the group's 50th year.",
+   "minnesotaEvents": [
+    {
+     "name": "Deepavali and Rajyotsava",
+     "place": "Hindu Temple of Minnesota, Maple Grove",
+     "link": "http://www.kannadamn.org/",
+     "organizerDates": "Nov. 21, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sangeetha Kannada Koota",
+     "url": "http://www.kannadamn.org/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "TCTA Deepavali 2026",
+   "alsoKnownAs": [
+    "Deepavali Isai Kondattam (Deepavali music celebration)"
+   ],
+   "kind": "community festival",
+   "capsule": "Twin Cities Tamil Association's Deepavali concert with a live orchestra, in Hopkins.",
+   "dateRule": "Set each year by the Twin Cities Tamil Association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-22",
+     "endDate": null,
+     "source": "Twin Cities Tamil Association upcoming events page",
+     "sourceUrl": "https://tctamn.org/upcoming-events/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Deepavali.",
+   "howCelebratedInMinnesota": "The association announces a Sunday, Nov. 22, 2026, 3 p.m. concert at the Eisenhower Community Center, 1001 Highway 7, Hopkins, with a live orchestra and singers from Tamil television singing contests. An earlier community listing gave Nov. 21.",
+   "minnesotaEvents": [
+    {
+     "name": "TCTA Deepavali 2026",
+     "place": "Eisenhower Community Center, Hopkins",
+     "link": "https://tctamn.org/upcoming-events/",
+     "organizerDates": "Sunday, Nov. 22, 2026, 3 p.m."
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Twin Cities Tamil Association, upcoming events",
+     "url": "https://tctamn.org/upcoming-events/"
+    },
+    {
+     "title": "LocalFiles listing",
+     "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Hindu Society of Minnesota Diwali",
+   "alsoKnownAs": [
+    "Diwali Mela",
+    "Grand Diwali Celebration"
+   ],
+   "kind": "community festival",
+   "capsule": "Hindu Society's large public Diwali at a Woodbury sports center, held since 2011.",
+   "dateRule": "Set each year by the Hindu Society. 2026 date not found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 date found. The Hindu Society's Diwali page opened Oct. 31, 2026 still shows the 2025 Mela, whose Eventbrite page gives Saturday, Oct. 18, 2025, 3 to 7 p.m.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "Sahan Journal reports as many as 1,000 people a year, with Dhol Tasha drumming, street food and about 20 vendors; the 2025 Mela was Saturday, Oct. 18, 2025, 3 to 7 p.m., at the M Health Fairview Sports Center, 4125 Radio Drive, Woodbury, with tickets from $15, performances, henna, a wedding expo booth and a Diwali menu from Fresh India. A Hindu Society sponsorship brochure (undated) calls its Grand Diwali in October and Grand Holi in March its flagship events, each drawing over 2,000 people. No 2026 date was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Hindu Society Diwali Mela",
+     "place": "M Health Fairview Sports Center, Woodbury",
+     "link": "https://www.eventbrite.com/e/diwali-tickets-1704302818609",
+     "organizerDates": "Saturday, Oct. 18, 2025, 3 to 7 p.m. (past); 2026 not found"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sahan Journal",
+     "url": "https://sahanjournal.com/?p=75984"
+    },
+    {
+     "title": "Hindu Society Diwali page",
+     "url": "https://www.hindutemplemn.org/diwali"
+    },
+    {
+     "title": "Eventbrite, Diwali (Hindu Society of Minnesota), Oct. 18, 2025",
+     "url": "https://www.eventbrite.com/e/diwali-tickets-1704302818609"
+    },
+    {
+     "title": "Hindu Society of Minnesota sponsorship brochure",
+     "url": "https://www.hindutemplemn.org/_files/ugd/ca41fc_6d2aa01a052a48d18b25b663a96a9e63.pdf"
+    }
+   ]
+  },
+  {
+   "seedId": "holi",
+   "name": "Holi",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Spring festival of colors, with a bonfire and thrown powder.",
+   "dateRule": "Day after the full moon of the Hindu month Phalguna, usually March.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-04",
+     "endDate": null,
+     "source": "HinduTone guide. HinduTone is a commercial festival guide, so this date is not treated as confirmed.",
+     "sourceUrl": "https://hindutone.com/festivals/ganesh-chaturthi-2026-usa-state-by-state/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-22",
+     "endDate": null,
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-11",
+     "endDate": null,
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Spring, rebirth and releasing negative energy, per MPR News.",
+   "howCelebratedInMinnesota": "The Marathi Association of Minnesota held Holi at the Hindu Temple of Minnesota on March 30, 2024, with a Holika Dahan fire and colored powder (MPR News). The Hindu Society's undated sponsorship brochure names a Grand Holi Celebration in March as one of its two flagship events. No 2026 Minnesota date was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Holi",
+     "place": "Hindu Temple of Minnesota, Maple Grove",
+     "link": "https://www.mprnews.org/story/2024/03/30/photos-maple-grove-celebrates-holi-the-hindu-festival-of-colors",
+     "organizerDates": "March 30, 2024 (past)"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MPR News",
+     "url": "https://www.mprnews.org/story/2024/03/30/photos-maple-grove-celebrates-holi-the-hindu-festival-of-colors"
+    },
+    {
+     "title": "HinduTone",
+     "url": "https://hindutone.com/festivals/ganesh-chaturthi-2026-usa-state-by-state/"
+    },
+    {
+     "title": "Hindu Society of Minnesota sponsorship brochure",
+     "url": "https://www.hindutemplemn.org/_files/ugd/ca41fc_6d2aa01a052a48d18b25b663a96a9e63.pdf"
+    }
+   ]
+  },
+  {
+   "seedId": "republic-day-india",
+   "name": "Republic Day (India)",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "Marks India's constitution taking effect in 1950.",
+   "dateRule": "January 26.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-26",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-26",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-26",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Adoption of the Constitution of India in 1950.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "independence-day-india",
+   "name": "Independence Day (India)",
+   "alsoKnownAs": [
+    "India Day"
+   ],
+   "kind": "national",
+   "capsule": "Marks India's independence in 1947; Minnesota marks it through IndiaFest.",
+   "dateRule": "August 15. IAM says Minnesota recognizes this date as India Day.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-15",
+     "endDate": null,
+     "source": "India Association of Minnesota",
+     "sourceUrl": "https://iamn.org/?p=493",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-15",
+     "endDate": null,
+     "source": "India Association of Minnesota",
+     "sourceUrl": "https://iamn.org/?p=493",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-15",
+     "endDate": null,
+     "source": "India Association of Minnesota",
+     "sourceUrl": "https://iamn.org/?p=493",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Indian independence in 1947.",
+   "howCelebratedInMinnesota": "IndiaFest, with flag hoisting and national anthem at the Capitol. In 2026 the festival fell on August 15 itself.",
+   "minnesotaEvents": [
+    {
+     "name": "IndiaFest",
+     "place": "Minnesota State Capitol grounds",
+     "link": "https://iamn.org/event/indiafest-2026/",
+     "organizerDates": "Aug. 15, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "IAM IndiaFest page",
+     "url": "https://iamn.org/?p=493"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "IndiaFest",
+   "alsoKnownAs": [
+    "India Day"
+   ],
+   "kind": "community festival",
+   "capsule": "Free one-day festival at the State Capitol with parade, dance, food and a Bollywood night.",
+   "dateRule": "Set each year by the India Association of Minnesota, around Independence Day.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-15",
+     "endDate": null,
+     "source": "India Association of Minnesota",
+     "sourceUrl": "https://iamn.org/event/indiafest-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Indian culture and Independence Day.",
+   "howCelebratedInMinnesota": "11 a.m. to about 8:30 p.m., over 100 booths, expected about 25,000 by the organizer. Sources disagree on first year: 1983 per IAM and MNopedia, 1985 per Sahan Journal.",
+   "minnesotaEvents": [
+    {
+     "name": "IndiaFest",
+     "place": "Minnesota State Capitol grounds, St. Paul",
+     "link": "https://iamn.org/event/indiafest-2026/",
+     "organizerDates": "Aug. 15, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "IAM",
+     "url": "https://iamn.org/event/indiafest-2026/"
+    },
+    {
+     "title": "Sahan Journal, 2024",
+     "url": "https://sahanjournal.com/arts-culture/indiafest-afrocentric-music-japanese-obon-festival-como-park/"
+    },
+    {
+     "title": "MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/ganges-ten-thousand-lakes-immigration-india-minnesota"
+    }
+   ]
+  },
+  {
+   "seedId": "navaratri-and-dussehra",
+   "name": "Navaratri and Dussehra",
+   "alsoKnownAs": [
+    "Navratri",
+    "Vijayadashami",
+    "Dasara"
+   ],
+   "kind": "religious",
+   "capsule": "Nine nights of worship and dance, ending in Dussehra, the victory of good.",
+   "dateRule": "Dussehra is the tenth day of the bright half of the Hindu month Ashvin, usually October; the nine nights of Navaratri come before it.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-11",
+     "endDate": "2026-10-20",
+     "source": "HinduTone, Minneapolis reckoning: Navaratri begins Oct. 11, Dussehra Oct. 20. HinduTone is a commercial festival guide, so this date is not treated as confirmed.",
+     "sourceUrl": "https://hindutone.com/festivals/dussehra-2026-minneapolis/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-09",
+     "endDate": null,
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-27",
+     "endDate": null,
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Nine nights, then the victory of good over evil.",
+   "howCelebratedInMinnesota": "Gujarati Samaj of Minnesota says it holds Navratri yearly; Garba ran Oct. 18 and 19, 2024, in Woodbury. No 2026 Minnesota Garba date found. The Gujarati Samaj of Minnesota, which says it has more than 1,500 members and about 12 events a year, lists Navratri among its yearly celebrations, but its events page showed no 2026 dates when opened Oct. 31, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Navratri Garba",
+     "place": "M Health Fairview Sports Center, Woodbury",
+     "link": "https://woodburynewsnet.org/?p=962",
+     "organizerDates": "Oct. 18 and 19, 2024 (past); 2026 not found"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "HinduTone",
+     "url": "https://hindutone.com/festivals/dussehra-2026-minneapolis/"
+    },
+    {
+     "title": "Woodbury News",
+     "url": "https://woodburynewsnet.org/?p=962"
+    },
+    {
+     "title": "Gujarati Samaj",
+     "url": "http://mngujaratisamaj.org/"
+    },
+    {
+     "title": "Gujarati Samaj of Minnesota, home and events",
+     "url": "https://mngujaratisamaj.org/index.php/Events"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Durga Puja, Bengali Association of Minnesota",
+   "alsoKnownAs": [
+    "Durgotsav",
+    "Sharodotsav"
+   ],
+   "kind": "religious",
+   "capsule": "Bengali community's three-day worship of Durga at an Eden Prairie school.",
+   "dateRule": "Set each year by the Bengali Association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-16",
+     "endDate": "2026-10-18",
+     "source": "Bengali Association of Minnesota",
+     "sourceUrl": "https://mnbangali.org/events/durga-puja-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Worship of the goddess Durga.",
+   "howCelebratedInMinnesota": "Starts 6 p.m. on Oct. 16.",
+   "minnesotaEvents": [
+    {
+     "name": "Durga Puja, Bengali Association of Minnesota",
+     "place": "Central Middle School, Eden Prairie",
+     "link": "https://mnbangali.org/events/durga-puja-2026/",
+     "organizerDates": "Oct. 16 to 18, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bengali Association of Minnesota",
+     "url": "https://mnbangali.org/events/durga-puja-2026/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Kojagori Lokhi Pujo",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Bengali worship of Lokhi on Kojagori Purnima.",
+   "dateRule": "Set each year by the Bengali Association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-24",
+     "endDate": null,
+     "source": "Bengali Association of Minnesota",
+     "sourceUrl": "https://mnbangali.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Worship of Lokhi on Kojagori Purnima.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Kojagori Lokhi Pujo",
+     "place": "Not listed",
+     "link": "https://mnbangali.org/",
+     "organizerDates": "Oct. 24, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bengali Association of Minnesota",
+     "url": "https://mnbangali.org/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Sri Radha Kalyanam",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "A Hindu ceremony held at the Maple Grove temple.",
+   "dateRule": "Listed by a community directory.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-31",
+     "endDate": null,
+     "source": "LocalFiles listing (third-party community listing; the organizer's own page was not found, so the date is not treated as confirmed)",
+     "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Hindu temple ceremony.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Sri Radha Kalyanam",
+     "place": "Hindu Temple of Minnesota",
+     "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "organizerDates": "Oct. 31, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "LocalFiles listing",
+     "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm"
+    }
+   ]
+  },
+  {
+   "seedId": "guru-nanak-gurpurab",
+   "name": "Guru Nanak Gurpurab",
+   "alsoKnownAs": [
+    "Gurpurab"
+   ],
+   "kind": "religious",
+   "capsule": "Birthday of Guru Nanak, founder of Sikhism.",
+   "dateRule": "Full moon of the Hindu month Kartika, usually November.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-24",
+     "endDate": null,
+     "source": "Sikh Society of Minnesota events calendar lists Guru Nanak Dev ji Gurpurab on Nov. 24, 2026, 6:30 to 8:30 p.m.",
+     "sourceUrl": "https://www.mnsikhs.com/events.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-14",
+     "endDate": null,
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-02",
+     "endDate": null,
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Birth of Guru Nanak, founder of Sikhism.",
+   "howCelebratedInMinnesota": "The Sikh Society of Minnesota's calendar lists the Gurpurab itself on Tuesday, Nov. 24, 2026, evening, and a three-day Gurpurab celebration at the gurdwara in Bloomington on Dec. 4 and 5 (evenings) and Dec. 6 (morning), 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Guru Nanak Dev ji Gurpurab",
+     "place": "Sikh Society of Minnesota gurdwara, Bloomington",
+     "link": "https://www.mnsikhs.com/events.html",
+     "organizerDates": "Nov. 24, 2026, 6:30 to 8:30 p.m."
+    },
+    {
+     "name": "Guru Nanak Dev ji Gurpurab Celebration",
+     "place": "Sikh Society of Minnesota gurdwara, Bloomington",
+     "link": "https://www.mnsikhs.com/events.html",
+     "organizerDates": "Dec. 4 to 6, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sikh Society of Minnesota, Upcoming Events and Calendar",
+     "url": "https://www.mnsikhs.com/events.html"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Vaisakhi",
+   "alsoKnownAs": [
+    "Baisakhi"
+   ],
+   "kind": "religious",
+   "capsule": "Sikh and Punjabi spring observance.",
+   "dateRule": "Traditionally mid-April; no page I opened states a date. Local gatherings are set by the gurdwara and Punjabi groups.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Sikh and Punjabi spring observance.",
+   "howCelebratedInMinnesota": "The Sikh Society of Minnesota's online calendar, opened Oct. 31, 2026, covers July 2026 onward and shows no Vaisakhi date. No Minnesota date for 2026 was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sikh Society of Minnesota, Upcoming Events and Calendar",
+     "url": "https://www.mnsikhs.com/events.html"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Mahavir Janma Kalyanak",
+   "alsoKnownAs": [
+    "Mahavir Jayanti"
+   ],
+   "kind": "religious",
+   "capsule": "Birth of Mahavir, marked by the Jain Center at Maple Grove.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-25",
+     "endDate": null,
+     "source": "Jain Center of Minnesota",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Birth of Mahavir.",
+   "howCelebratedInMinnesota": "8 a.m. to 2 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Mahavir Janma Kalyanak",
+     "place": "Hindu Temple of Minnesota campus",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "April 25, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota",
+     "url": "https://jaincentermn.org/2026-events"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Paryushan Mahaparva",
+   "alsoKnownAs": [
+    "Paryushan"
+   ],
+   "kind": "religious",
+   "capsule": "Jain period of observance at the Maple Grove center.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-09",
+     "endDate": "2026-09-15",
+     "source": "Jain Center of Minnesota",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Jain period of observance.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Paryushan Mahaparva",
+     "place": "Jain Center of Minnesota",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "Sept. 9 to 15, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota",
+     "url": "https://jaincentermn.org/2026-events"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Das Lakshan Mahaparva",
+   "alsoKnownAs": [
+    "Das Lakshan"
+   ],
+   "kind": "religious",
+   "capsule": "Jain observance following Paryushan on the center's schedule.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-16",
+     "endDate": "2026-09-25",
+     "source": "Jain Center of Minnesota",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Jain period of observance.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Das Lakshan Mahaparva",
+     "place": "Jain Center of Minnesota",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "Sept. 16 to 25, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota",
+     "url": "https://jaincentermn.org/2026-events"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Kshamavani",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Jain day on the center's schedule after Das Lakshan.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-26",
+     "endDate": null,
+     "source": "Jain Center of Minnesota",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Jain observance.",
+   "howCelebratedInMinnesota": "8 a.m. to 2 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Kshamavani",
+     "place": "Jain Center of Minnesota",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "Sept. 26, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota",
+     "url": "https://jaincentermn.org/2026-events"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Onam",
+   "alsoKnownAs": [],
+   "kind": "cultural",
+   "capsule": "Kerala festival kept by the Minnesota Malayalee Association.",
+   "dateRule": "Thiruvonam, the day of the Thiruvonam star in the Malayalam month of Chingam (August or September). Kerala's government sets the public holiday each year; Minnesota groups pick their own weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-26",
+     "endDate": null,
+     "source": "Onmanorama (Oct. 29, 2025) reports that the Kerala government's 2026 holiday list gives Thiruvonam as Wednesday, Aug. 26, 2026. That is a newspaper report, not the government notice itself, and a Thiruvananthapuram Municipal Corporation holiday page opened Oct. 31, 2026 lists Thiruvonam on Sept. 4, 2026, so the date is left unconfirmed. Drik Panchang, a commercial calendar, also gives Aug. 26.",
+     "sourceUrl": "https://www.onmanorama.com/news/kerala/2025/10/29/kerala-public-holidays-2026-full-list.html",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No official or organizer source found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No official or organizer source found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A Kerala festival.",
+   "howCelebratedInMinnesota": "A state-funded India Association report names the Minnesota Malayalee Association's Onam in its 2022 to 2023 program. The association's own site could not be opened, and no 2026 Minnesota Onam date was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota's Legacy, IAM Cultural Identity Program",
+     "url": "https://www.legacy.mn.gov/node/10031097"
+    },
+    {
+     "title": "Kerala includes Maundy Thursday among public holidays of 2026, Onmanorama",
+     "url": "https://www.onmanorama.com/news/kerala/2025/10/29/kerala-public-holidays-2026-full-list.html"
+    },
+    {
+     "title": "Holiday List 2026, Smart Trivandrum (Thiruvananthapuram Municipal Corporation)",
+     "url": "https://smarttvm.tmc.lsgkerala.gov.in/default/index/holidays"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Pongal",
+   "alsoKnownAs": [],
+   "kind": "cultural",
+   "capsule": "Tamil festival kept by Minnesota Tamil Sangam.",
+   "dateRule": "Mid-January. Local date set by the group.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Tamil festival.",
+   "howCelebratedInMinnesota": "Minnesota Tamil Sangam lists Pongal among its events without a date. The Twin Cities Tamil Association held its Pongal festival, Thamizhar Thiruvizha, on Jan. 24, 2026, in Plymouth (see its own entry).",
+   "minnesotaEvents": [
+    {
+     "name": "Thamizhar Thiruvizha 2026",
+     "place": "Wayzata Central Middle School, Plymouth",
+     "link": "https://tctamn.org/past-events/",
+     "organizerDates": "Jan. 24, 2026 (held)"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Tamil Sangam",
+     "url": "https://www.mntamilsangam.org/"
+    },
+    {
+     "title": "Twin Cities Tamil Association, past events",
+     "url": "https://tctamn.org/past-events/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Ugadi and Gudi Padwa",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "New year prayers at the Maple Grove temple.",
+   "dateRule": "New year on the Hindu lunar calendar.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-19",
+     "endDate": null,
+     "source": "HinduTone. HinduTone is a commercial festival guide, so this date is not treated as confirmed.",
+     "sourceUrl": "https://hindutone.com/global-hindu-presence/usa/ugadi-celebrations-usa-state-wise-city-wise-guide/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not checked",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not checked",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "New year.",
+   "howCelebratedInMinnesota": "HinduTone lists prayers at the Hindu Temple of Minnesota, without a date.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "HinduTone",
+     "url": "https://hindutone.com/global-hindu-presence/usa/ugadi-celebrations-usa-state-wise-city-wise-guide/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Bonalu",
+   "alsoKnownAs": [],
+   "kind": "cultural",
+   "capsule": "Telangana festival held by the Minnesota Area Telangana Association.",
+   "dateRule": "Set locally. 2026 date not found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Telangana festival.",
+   "howCelebratedInMinnesota": "Named in a state-funded IAM program report for 2022 to 2023.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Legacy",
+     "url": "https://www.legacy.mn.gov/node/10031097"
+    },
+    {
+     "title": "MATA",
+     "url": "https://www.telanganamn.org/upcoming-events/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Ganesh Utsav",
+   "alsoKnownAs": [
+    "Ganesh Chaturthi",
+    "Ganapati"
+   ],
+   "kind": "religious",
+   "capsule": "Marathi Association's festival of Ganesha; its 2026 photo albums are online without dates.",
+   "dateRule": "Set locally by the association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The festival of Ganesha.",
+   "howCelebratedInMinnesota": "The Marathi Association shows Ganapati Sthapana and Visarjan 2026 albums.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Marathi Association",
+     "url": "https://www.mnmarathi.org/"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Guru Nanak Gurpurab Celebration, Sikh Society of Minnesota",
+   "alsoKnownAs": [
+    "Gurpurab celebration"
+   ],
+   "kind": "religious",
+   "capsule": "Three-day celebration of Guru Nanak's birth at Minnesota's gurdwara in Bloomington.",
+   "dateRule": "Set each year by the Sikh Society of Minnesota, usually on a weekend near the Gurpurab.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-04",
+     "endDate": "2026-12-06",
+     "source": "Sikh Society of Minnesota events calendar",
+     "sourceUrl": "https://www.mnsikhs.com/events.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The birth of Guru Nanak, the first Sikh Guru.",
+   "howCelebratedInMinnesota": "The calendar lists Day 1 and Day 2 on Dec. 4 and 5, 2026, 6:30 to 8:30 p.m., and Day 3 on Sunday, Dec. 6, 9 a.m. to 1 p.m., at the gurdwara. Services there are followed by langar, a shared meal open to guests.",
+   "minnesotaEvents": [
+    {
+     "name": "Guru Nanak Dev ji Gurpurab Celebration",
+     "place": "Sikh Society of Minnesota gurdwara, 9000 W Bloomington Fwy, Bloomington",
+     "link": "https://www.mnsikhs.com/events.html",
+     "organizerDates": "Dec. 4 to 6, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sikh Society of Minnesota, Upcoming Events and Calendar",
+     "url": "https://www.mnsikhs.com/events.html"
+    },
+    {
+     "title": "Sikh Society of Minnesota, visitors",
+     "url": "https://www.mnsikhs.com/visitors.html"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Bandi Chor Divas",
+   "alsoKnownAs": [
+    "Bandi Chhor Divas"
+   ],
+   "kind": "religious",
+   "capsule": "Sikh observance on Diwali day, marked with an evening program at the Bloomington gurdwara.",
+   "dateRule": "Kept on the day of Diwali.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-08",
+     "endDate": null,
+     "source": "Sikh Society of Minnesota events calendar",
+     "sourceUrl": "https://www.mnsikhs.com/events.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A Sikh observance kept on Diwali day; no Minnesota source opened describes its meaning.",
+   "howCelebratedInMinnesota": "The Sikh Society of Minnesota lists Bandi Chor Diwas at the gurdwara on Nov. 8, 2026, 6:30 to 8:30 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Bandi Chor Diwas",
+     "place": "Sikh Society of Minnesota gurdwara, Bloomington",
+     "link": "https://www.mnsikhs.com/events.html",
+     "organizerDates": "Nov. 8, 2026, 6:30 to 8:30 p.m."
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sikh Society of Minnesota, Upcoming Events and Calendar",
+     "url": "https://www.mnsikhs.com/events.html"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Perunal of St. Gregorios Malankara Orthodox Church",
+   "alsoKnownAs": [
+    "Perunnal",
+    "Feast of St. Gregorios"
+   ],
+   "kind": "religious",
+   "capsule": "Feast weekend of Minnesota's Malankara (Indian) Orthodox parish in south Minneapolis.",
+   "dateRule": "Set each year by the parish, in early November.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-07",
+     "endDate": "2026-11-08",
+     "source": "St. Gregorios Malankara Orthodox Church, Minnesota, home page events",
+     "sourceUrl": "https://www.sgocminnesota.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The parish's patronal feast, named for St. Gregorios, whose life the parish's about page recounts.",
+   "howCelebratedInMinnesota": "The parish lists a Perunal Saturday service on Nov. 7, 2026 at 5:30 p.m. and Perunal and Holy Liturgy on Sunday, Nov. 8 at 8:30 a.m., at 1010 E 58th Street, Minneapolis.",
+   "minnesotaEvents": [
+    {
+     "name": "Perunal Saturday Service; Perunal and Holy Liturgy",
+     "place": "1010 E 58th St, Minneapolis",
+     "link": "https://www.sgocminnesota.org/",
+     "organizerDates": "Nov. 7 and 8, 2026"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "St. Gregorios Malankara Orthodox Church, home",
+     "url": "https://www.sgocminnesota.org/"
+    },
+    {
+     "title": "St. Gregorios Malankara Orthodox Church, about",
+     "url": "https://www.sgocminnesota.org/about"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Thamizhar Thiruvizha (TCTA Pongal festival)",
+   "alsoKnownAs": [
+    "Tamil festival",
+    "Pongal celebration"
+   ],
+   "kind": "community festival",
+   "capsule": "Twin Cities Tamil Association's January arts festival, held to celebrate Pongal.",
+   "dateRule": "Set each year by the Twin Cities Tamil Association, usually a January weekend after Pongal.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-24",
+     "endDate": null,
+     "source": "Twin Cities Tamil Association past events page",
+     "sourceUrl": "https://tctamn.org/past-events/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Pongal, the Tamil harvest festival, which the association's notice calls the Tamil people's festival day.",
+   "howCelebratedInMinnesota": "Held Jan. 24, 2026, noon to 8 p.m., at Wayzata Central Middle School, Plymouth, with arts performances and a food sale; the 2025 edition was Jan. 19, 2025.",
+   "minnesotaEvents": [
+    {
+     "name": "Thamizhar Thiruvizha 2026",
+     "place": "Wayzata Central Middle School, Plymouth",
+     "link": "https://tctamn.org/past-events/",
+     "organizerDates": "Jan. 24, 2026 (held)"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Twin Cities Tamil Association, past events",
+     "url": "https://tctamn.org/past-events/"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
 }

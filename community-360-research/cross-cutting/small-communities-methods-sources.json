@@ -1,611 +1,524 @@
 [
-  {
-    "title": "Understanding and Using ACS Data: When to Use 1-year or 5-year Estimates",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www.census.gov/programs-surveys/acs/guidance/estimates.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Table IDs Explained",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www.census.gov/programs-surveys/acs/data/data-tables/table-ids-explained.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "2017-2021 ACS Selected Population Tables",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www.census.gov/programs-surveys/acs/data/race-aian/2021.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Race, Ethnicity, Ancestry Tables",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www.census.gov/programs-surveys/acs/data/race-aian.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "ACS General Handbook, Chapter 8",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018_ch08.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Comparing Race and Ethnicity Data from the ACS and the 2020 Census (May 2024)",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www.census.gov/content/dam/Census/programs-surveys/acs/guidance/training-presentations/ACS_and_%202020_Census_Race_and_Ethnicity_Data.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Overlapping Race and Ancestry Estimates",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2025-01.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Improvements to the Race Question",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2021-03.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "2024 ACS Questionnaire",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www2.census.gov/programs-surveys/acs/methodology/questionnaires/2024/quest24.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable; 8. Measuring generations"
-  },
-  {
-    "title": "Federal Register notice on the ACS, document 2025-23329",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://public-inspection.federalregister.gov/2025-23329.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Note for Language Spoken at Home, 2016 ACS",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://census.gov/content/dam/Census/programs-surveys/acs/tech-doc/user-notes/2016_Language_User_Note.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "B16001 variable, 2024 ACS 5-year",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://api.census.gov/data/2024/acs/acs5/variables/B16001_111EA.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "2020 Census Detailed DHC-A overview",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://census.gov/library/stories/2023/09/2020-census-dhc-a-race-overview.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "What You Should Know About the Detailed DHC-A",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://census.gov/newsroom/blogs/random-samplings/2023/09/what-you-should-know-detailed-dhc-a.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Cultural communities",
-    "publisher": "Minnesota Compass",
-    "url": "https://www.mncompass.org/topics/demographics/cultural-communities",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Cultural communities methodology",
-    "publisher": "Minnesota Compass",
-    "url": "https://mncompass.org/demographics/cultural-communities/methodology",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable; 8. Measuring generations; 10. Small-number privacy"
-  },
-  {
-    "title": "Somali profile",
-    "publisher": "Minnesota Compass",
-    "url": "https://www.mncompass.org/topics/demographics/cultural-communities/somali",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Hmong profile",
-    "publisher": "Minnesota Compass",
-    "url": "https://www.mncompass.org/topics/demographics/cultural-communities/hmong",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Burmese profile",
-    "publisher": "Minnesota Compass",
-    "url": "https://www.mncompass.org/topics/demographics/cultural-communities/burmese",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "The importance of data disaggregation in Minnesota's Asian communities",
-    "publisher": "Liuzzi and Li, Minnesota Compass",
-    "url": "https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-asian-communities",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "The Economic Status of Minnesotans 2026",
-    "publisher": "Minnesota State Demographic Center",
-    "url": "https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable; 8. Measuring generations"
-  },
-  {
-    "title": "The State of Asian Pacific Minnesotans",
-    "publisher": "Brower, Minnesota State Demographer",
-    "url": "https://mn.gov/capm/assets/SusanBrower_StateOfAsianPacificMinnesotans_June2026_tcm1051-759113.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable; 8. Measuring generations"
-  },
-  {
-    "title": "IPUMS home page",
-    "publisher": "IPUMS",
-    "url": "https://www.ipums.org/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable"
-  },
-  {
-    "title": "Refugee Health Statistics",
-    "publisher": "Minnesota Department of Health",
-    "url": "https://www.health.state.mn.us/communities/rih/stats/index.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "3. Refugee arrival data and secondary migration"
-  },
-  {
-    "title": "Minnesota Refugee Health Report 2024",
-    "publisher": "Minnesota Department of Health",
-    "url": "https://www.web.health.state.mn.us/communities/rih/stats/24rhrpt.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "3. Refugee arrival data and secondary migration"
-  },
-  {
-    "title": "Admissions and Arrivals",
-    "publisher": "Refugee Processing Center",
-    "url": "https://www.rpc.state.gov/admissions-and-arrivals/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "3. Refugee arrival data and secondary migration"
-  },
-  {
-    "title": "U.S. Refugee Admissions Program in FY2025 and FY2026",
-    "publisher": "Congressional Research Service",
-    "url": "https://www.everycrsreport.com/reports/IF13277.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "3. Refugee arrival data and secondary migration"
-  },
-  {
-    "title": "SoLaHmo",
-    "publisher": "Community-University Health Care Center",
-    "url": "https://cuhcc.umn.edu/research/solahmo",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss"
-  },
-  {
-    "title": "Improving Health through Community-Based Participatory Action Research",
-    "publisher": "Minnesota Medicine (author manuscript in PubMed Central)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5484585",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss"
-  },
-  {
-    "title": "A Qualitative Study of Families of Children with Autism in the Somali Community",
-    "publisher": "Minnesota Department of Health",
-    "url": "https://www.leg.mn.gov/docs/2014/mandated/140404.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss; 6. Qualitative work, life histories and archives; 9. Measuring disability across cultures"
-  },
-  {
-    "title": "Sampling in Difficult to Access Refugee and Immigrant Communities",
-    "publisher": "Journal of Nervous and Mental Disease (record at University of Minnesota Experts)",
-    "url": "https://experts.umn.edu/en/publications/sampling-in-difficult-to-access-refugee-and-immigrant-communities/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss"
-  },
-  {
-    "title": "Speaking for Ourselves data book",
-    "publisher": "Wilder Research",
-    "url": "https://www.wilder.org/wilder_research/speaking-for-ourselves-a-study-with-immigrant-and-refugee-communities-in-the-twin-cities-data-book/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss"
-  },
-  {
-    "title": "The importance of measuring and accounting for potential biases in respondent-driven samples",
-    "publisher": "AIDS and Behavior (PubMed Central)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3674117",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss"
-  },
-  {
-    "title": "Diagnostics for Respondent-driven Sampling",
-    "publisher": "Journal of the Royal Statistical Society, Series A (PubMed Central)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877136",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss"
-  },
-  {
-    "title": "Post on snowball sampling with refugee groups",
-    "publisher": "BMC Series blog",
-    "url": "https://blogs.biomedcentral.com/bmcseriesblog/?p=41",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss"
-  },
-  {
-    "title": "Surveying immigrants without sampling frames",
-    "publisher": "Comparative Migration Studies (index record)",
-    "url": "https://research-portal.najah.edu/migrant/35331/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss"
-  },
-  {
-    "title": "Are surname telephone oversamples an efficient way",
-    "publisher": "Medical Care (record at University of Minnesota Experts)",
-    "url": "https://experts.umn.edu/en/publications/are-surname-telephone-oversamples-an-efficient-way-to-better-unde/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "2. Reaching people that surveys miss"
-  },
-  {
-    "title": "The Minn-LInK Project",
-    "publisher": "International Journal of Population Data Science",
-    "url": "https://ijpds.org/index.php/ijpds/article/view/3721",
-    "dateChecked": "2026-10-30",
-    "usedFor": "4. Linked administrative data"
-  },
-  {
-    "title": "SLEDS",
-    "publisher": "Minnesota P-20 partners",
-    "url": "https://sleds.mn.gov/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "4. Linked administrative data"
-  },
-  {
-    "title": "ECLDS Data Access Management Policy and Data Guide",
-    "publisher": "Minnesota ECLDS Governing Body",
-    "url": "https://dcyf.mn.gov/sites/default/files/2026-04/eclds-damp-data-guide.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "1. Why state estimates for small groups are unstable; 4. Linked administrative data; 10. Small-number privacy"
-  },
-  {
-    "title": "Differential record linkage by Hispanic ethnicity and age",
-    "publisher": "Journal of Aging and Health (PubMed Central)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4598042",
-    "dateChecked": "2026-10-30",
-    "usedFor": "4. Linked administrative data"
-  },
-  {
-    "title": "Mitigating Ethnoracial-Based Linkage Bias",
-    "publisher": "International Journal of Population Data Science",
-    "url": "https://ijpds.org/index.php/ijpds/article/view/3618",
-    "dateChecked": "2026-10-30",
-    "usedFor": "4. Linked administrative data"
-  },
-  {
-    "title": "copy held by Winona Area Public Schools",
-    "publisher": "Minnesota Department of Education form, copy held by Winona Area Public Schools",
-    "url": "https://www.winonaschools.org/uploaded/Documents/Learning_Teaching/MN_Language_Survey_Aug_2017_fillable_-_English.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "5. School language data"
-  },
-  {
-    "title": "Identification of Potential English Learners procedure",
-    "publisher": "Intermediate District 287",
-    "url": "https://www.district287.org/our-district/policies-procedures/board/~board/600-education-programs/post/6001-procedure-identification-of-potential-english-learners-enrollment",
-    "dateChecked": "2026-10-30",
-    "usedFor": "5. School language data"
-  },
-  {
-    "title": "Section 124D.59",
-    "publisher": "Minnesota Statutes",
-    "url": "https://www.revisor.mn.gov/statutes/cite/124D.59",
-    "dateChecked": "2026-10-30",
-    "usedFor": "5. School language data"
-  },
-  {
-    "title": "Section 120B.35",
-    "publisher": "Minnesota Statutes",
-    "url": "https://www.revisor.mn.gov/statutes/cite/120B.35",
-    "dateChecked": "2026-10-30",
-    "usedFor": "5. School language data"
-  },
-  {
-    "title": "English Learner Education in Minnesota, 2021-22 Report",
-    "publisher": "Minnesota Department of Education",
-    "url": "https://www.lrl.mn.gov/docs/2023/Other/231750.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "5. School language data"
-  },
-  {
-    "title": "Home Language Survey Data Quality Self-Assessment",
-    "publisher": "REL Northeast and Islands",
-    "url": "https://ies.ed.gov/use-work/resource-library/resource/other-resource/home-language-survey-data-quality-self-assessment",
-    "dateChecked": "2026-10-30",
-    "usedFor": "5. School language data"
-  },
-  {
-    "title": "Elusive Jannah by Cawo M. Abdi",
-    "publisher": "Mashriq & Mahjar",
-    "url": "https://lebanesestudies.ojs.chass.ncsu.edu/index.php/mashriq/article/download/89/573",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Making sense of complexity in refugee family systems",
-    "publisher": "International Journal of Systemic Therapy (record at University of Minnesota Experts)",
-    "url": "https://experts.umn.edu/en/publications/making-sense-of-complexity-in-refugee-family-systems-second-gener/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Minnesota Immigrant Oral Histories",
-    "publisher": "Internet Scout",
-    "url": "https://archives.internetscout.org/r43246/minnesota_immigrant_oral_histories",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Immigrant Oral Histories from Minnesota",
-    "publisher": "Goshen College Libraries",
-    "url": "https://libraryguides.goshen.edu/c.php?g=1344118",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Hmong in Minnesota: primary sources",
-    "publisher": "Minnesota Historical Society",
-    "url": "https://libguides.mnhs.org/hmong/primary",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Somali in Minnesota guide",
-    "publisher": "Minnesota Historical Society",
-    "url": "https://libguides.mnhs.org/somali",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Macalester Somali Oral History Project",
-    "publisher": "Minnesota Legacy Amendment",
-    "url": "https://www.legacy.mn.gov/node/37500",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Immigration History Research Center Archives",
-    "publisher": "University of Minnesota Libraries",
-    "url": "https://www.lib.umn.edu/collections/special/ihrca",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Immigrant Stories",
-    "publisher": "University of Minnesota",
-    "url": "https://cla.umn.edu/ihrc/immigrant-stories",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Minnesota Immigrants collection project",
-    "publisher": "Minnesota Digital Library",
-    "url": "https://mndigital.org/node/417",
-    "dateChecked": "2026-10-30",
-    "usedFor": "6. Qualitative work, life histories and archives"
-  },
-  {
-    "title": "Two self-rating scales for depression in Hmong refugees",
-    "publisher": "Journal of Psychiatric Research (record at University of Minnesota Experts)",
-    "url": "https://experts.umn.edu/en/publications/two-self-rating-scales-for-depression-in-hmong-refugees-assessmen/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "7. Translation, interpreters and validity across languages"
-  },
-  {
-    "title": "The TRAPD approach",
-    "publisher": "Frontiers in Psychiatry (PubMed Central)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10309006/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "7. Translation, interpreters and validity across languages"
-  },
-  {
-    "title": "Translating the Short Set Questions",
-    "publisher": "Washington Group on Disability Statistics",
-    "url": "https://www.washingtongroup-disability.com/wg-blog/post/translating-the-washington-group-short-set-questions-66/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "7. Translation, interpreters and validity across languages"
-  },
-  {
-    "title": "Translation of health surveys using mixed methods",
-    "publisher": "Journal of Nursing Scholarship (record at Stanford Geriatrics)",
-    "url": "https://geriatrics-references.stanford.edu/publications/hmong-american/translation-health-surveys-using-mixed-methods",
-    "dateChecked": "2026-10-30",
-    "usedFor": "7. Translation, interpreters and validity across languages"
-  },
-  {
-    "title": "Interpreters/Translators and Cross-Language Research",
-    "publisher": "International Journal of Qualitative Methods",
-    "url": "https://sites.ualberta.ca/~iiqm/backissues/1_2Final/html/temple.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "7. Translation, interpreters and validity across languages"
-  },
-  {
-    "title": "Language barriers and qualitative nursing research",
-    "publisher": "International Nursing Review (PubMed Central)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2697452",
-    "dateChecked": "2026-10-30",
-    "usedFor": "7. Translation, interpreters and validity across languages"
-  },
-  {
-    "title": "Gen 1.5: Where an immigrant generation fits in",
-    "publisher": "UC Irvine School of Social Sciences",
-    "url": "https://www.socsci.uci.edu/newsevents/news/2012/2012-03-22-gen-1-5-where-an-immigrant-generation-fits-in.php",
-    "dateChecked": "2026-10-30",
-    "usedFor": "8. Measuring generations"
-  },
-  {
-    "title": "The Economic and Fiscal Consequences of Immigration, data chapter",
-    "publisher": "National Academies",
-    "url": "https://www.nationalacademies.org/read/23550/chapter/15",
-    "dateChecked": "2026-10-30",
-    "usedFor": "8. Measuring generations"
-  },
-  {
-    "title": "The Adaptation of the Immigrant Second Generation in America",
-    "publisher": "Journal of Ethnic and Migration Studies (PubMed Central)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3634592",
-    "dateChecked": "2026-10-30",
-    "usedFor": "8. Measuring generations"
-  },
-  {
-    "title": "Segmented assimilation on the ground",
-    "publisher": "Ethnic and Racial Studies (record at Princeton University)",
-    "url": "https://collaborate.princeton.edu/en/publications/segmented-assimilation-on-the-ground-the-new-second-generation-in/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "8. Measuring generations"
-  },
-  {
-    "title": "Children of Immigrants Longitudinal Study",
-    "publisher": "Russell Sage Foundation",
-    "url": "https://www.russellsage.org/node/10103",
-    "dateChecked": "2026-10-30",
-    "usedFor": "8. Measuring generations"
-  },
-  {
-    "title": "A Review of Inheriting the City",
-    "publisher": "ReVista, Harvard University",
-    "url": "https://revista.drclas.harvard.edu/a-review-of-inheriting-the-city-the-children-of-immigrants-come-of-age",
-    "dateChecked": "2026-10-30",
-    "usedFor": "8. Measuring generations"
-  },
-  {
-    "title": "Should \"acculturation\" be a variable in health research?",
-    "publisher": "Social Science & Medicine (record at IDEAS)",
-    "url": "https://ideas.repec.org/a/eee/socmed/v59y2004i5p973-986.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "8. Measuring generations"
-  },
-  {
-    "title": "Rethinking the Concept of Acculturation",
-    "publisher": "American Psychologist (PubMed Central)",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3700543/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "8. Measuring generations"
-  },
-  {
-    "title": "How Disability Data are Collected from the ACS",
-    "publisher": "U.S. Census Bureau",
-    "url": "https://www.census.gov/topics/health/disability/guidance/data-collection-acs.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "9. Measuring disability across cultures"
-  },
-  {
-    "title": "WG Short Set on Functioning page",
-    "publisher": "Washington Group on Disability Statistics",
-    "url": "https://www.washingtongroup-disability.com/question-sets/wg-short-set-on-functioning-wg-ss/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "9. Measuring disability across cultures"
-  },
-  {
-    "title": "WG Short Set questionnaire",
-    "publisher": "Washington Group on Disability Statistics",
-    "url": "https://www.washingtongroup-disability.com/fileadmin/uploads/wg/Washington_Group_Questionnaire__1_-_WG_Short_Set_on_Functioning__October_2022_.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "9. Measuring disability across cultures"
-  },
-  {
-    "title": "Comment on proposed data collection standards",
-    "publisher": "Disability Rights Education and Defense Fund",
-    "url": "https://dredf.org/proposed-aca-data-collection-standards/",
-    "dateChecked": "2026-10-30",
-    "usedFor": "9. Measuring disability across cultures"
-  },
-  {
-    "title": "Article on ACS disability questions",
-    "publisher": "*The Nation's Health*",
-    "url": "https://www.thenationshealth.org/content/54/2/1.2",
-    "dateChecked": "2026-10-30",
-    "usedFor": "9. Measuring disability across cultures"
-  },
-  {
-    "title": "Minneapolis Somali Autism Spectrum Disorder Prevalence Project: Community Report",
-    "publisher": "Institute on Community Integration, University of Minnesota",
-    "url": "https://ici.umn.edu/products/583",
-    "dateChecked": "2026-10-30",
-    "usedFor": "9. Measuring disability across cultures"
-  },
-  {
-    "title": "Study of Somali Children Among Top 20 in Autism Research",
-    "publisher": "University of Minnesota Research",
-    "url": "https://research.umn.edu/inquiry-blog/post/study-somali-children-among-top-20-autism-research",
-    "dateChecked": "2026-10-30",
-    "usedFor": "9. Measuring disability across cultures"
-  },
-  {
-    "title": "Section 13.02",
-    "publisher": "Minnesota Statutes",
-    "url": "https://www.revisor.mn.gov/statutes/cite/13.02",
-    "dateChecked": "2026-10-30",
-    "usedFor": "10. Small-number privacy"
-  },
-  {
-    "title": "Section 13.32",
-    "publisher": "Minnesota Statutes",
-    "url": "https://www.revisor.mn.gov/statutes/cite/13.32",
-    "dateChecked": "2026-10-30",
-    "usedFor": "10. Small-number privacy"
-  },
-  {
-    "title": "Report card graduation data notes",
-    "publisher": "Minnesota Department of Education",
-    "url": "https://rc.education.mn.gov/js/plugins/templates/table_graduationMoreInfo.html",
-    "dateChecked": "2026-10-30",
-    "usedFor": "10. Small-number privacy"
-  },
-  {
-    "title": "SLDS Technical Brief 3",
-    "publisher": "National Center for Education Statistics",
-    "url": "https://nces.ed.gov/pubs2011/2011603.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "10. Small-number privacy"
-  },
-  {
-    "title": "Comments on data suppression in the NCES brief",
-    "publisher": "Coalition of researchers and civil rights advocates (hosted by ACLU)",
-    "url": "https://www.aclu.org/wp-content/uploads/document/coalition_comments_on_data_suppression_in_nces_technical_brief.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "10. Small-number privacy"
-  },
-  {
-    "title": "Medicaid Data Sharing with ICE",
-    "publisher": "Center for Health Law and Policy Innovation",
-    "url": "https://chlpi.org/wp-content/uploads/2026/04/Medicaid-ICE-data-sharing-FINAL.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "10. Small-number privacy"
-  },
-  {
-    "title": "Ecological Inference and the Ecological Fallacy",
-    "publisher": "University of California, Berkeley, Department of Statistics",
-    "url": "https://www.stat.berkeley.edu/~census/549.pdf",
-    "dateChecked": "2026-10-30",
-    "usedFor": "11. Not generalizing from a group to a person"
-  },
-  {
-    "title": "Anthropology in the Clinic",
-    "publisher": "PLoS Medicine",
-    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030294",
-    "dateChecked": "2026-10-30",
-    "usedFor": "11. Not generalizing from a group to a person"
-  }
+ {
+  "title": "Understanding and Using ACS Data: When to Use 1-year or 5-year Estimates",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/programs-surveys/acs/guidance/estimates.html",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Table IDs Explained",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/programs-surveys/acs/data/data-tables/table-ids-explained.html",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "2017-2021 ACS Selected Population Tables",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/programs-surveys/acs/data/race-aian/2021.html",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Race, Ethnicity, Ancestry Tables",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/programs-surveys/acs/data/race-aian.html",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "ACS General Handbook, Chapter 8",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/content/dam/Census/library/publications/2018/acs/acs_general_handbook_2018_ch08.pdf",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Comparing Race and Ethnicity Data from the ACS and the 2020 Census (May 2024)",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/content/dam/Census/programs-surveys/acs/guidance/training-presentations/ACS_and_%202020_Census_Race_and_Ethnicity_Data.pdf",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Overlapping Race and Ancestry Estimates",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2025-01.html",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Improvements to the Race Question",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/programs-surveys/acs/technical-documentation/user-notes/2021-03.html",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "2024 ACS Questionnaire",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www2.census.gov/programs-surveys/acs/methodology/questionnaires/2024/quest24.pdf",
+  "usedFor": "1. Why state estimates for small groups are unstable; 8. Measuring generations"
+ },
+ {
+  "title": "Federal Register notice on the ACS, document 2025-23329",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://public-inspection.federalregister.gov/2025-23329.pdf",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Note for Language Spoken at Home, 2016 ACS",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://census.gov/content/dam/Census/programs-surveys/acs/tech-doc/user-notes/2016_Language_User_Note.pdf",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "B16001 variable, 2024 ACS 5-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://api.census.gov/data/2024/acs/acs5/variables/B16001_111EA.html",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "2020 Census Detailed DHC-A overview",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://census.gov/library/stories/2023/09/2020-census-dhc-a-race-overview.html",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "What You Should Know About the Detailed DHC-A",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://census.gov/newsroom/blogs/random-samplings/2023/09/what-you-should-know-detailed-dhc-a.html",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Cultural communities",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Cultural communities methodology",
+  "publisher": "Minnesota Compass",
+  "url": "https://mncompass.org/demographics/cultural-communities/methodology",
+  "usedFor": "1. Why state estimates for small groups are unstable; 8. Measuring generations; 10. Small-number privacy"
+ },
+ {
+  "title": "Somali profile",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/somali",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Hmong profile",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/hmong",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Burmese profile",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities/burmese",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "The importance of data disaggregation in Minnesota's Asian communities",
+  "publisher": "Liuzzi and Li, Minnesota Compass",
+  "url": "https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-asian-communities",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "The Economic Status of Minnesotans 2026",
+  "publisher": "Minnesota State Demographic Center",
+  "url": "https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf",
+  "usedFor": "1. Why state estimates for small groups are unstable; 8. Measuring generations"
+ },
+ {
+  "title": "The State of Asian Pacific Minnesotans",
+  "publisher": "Brower, Minnesota State Demographer",
+  "url": "https://mn.gov/capm/assets/SusanBrower_StateOfAsianPacificMinnesotans_June2026_tcm1051-759113.pdf",
+  "usedFor": "1. Why state estimates for small groups are unstable; 8. Measuring generations"
+ },
+ {
+  "title": "IPUMS home page",
+  "publisher": "IPUMS",
+  "url": "https://www.ipums.org/",
+  "usedFor": "1. Why state estimates for small groups are unstable"
+ },
+ {
+  "title": "Refugee Health Statistics",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.health.state.mn.us/communities/rih/stats/index.html",
+  "usedFor": "3. Refugee arrival data and secondary migration"
+ },
+ {
+  "title": "Minnesota Refugee Health Report 2024",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.web.health.state.mn.us/communities/rih/stats/24rhrpt.pdf",
+  "usedFor": "3. Refugee arrival data and secondary migration"
+ },
+ {
+  "title": "Admissions and Arrivals",
+  "publisher": "Refugee Processing Center",
+  "url": "https://www.rpc.state.gov/admissions-and-arrivals/",
+  "usedFor": "3. Refugee arrival data and secondary migration"
+ },
+ {
+  "title": "U.S. Refugee Admissions Program in FY2025 and FY2026",
+  "publisher": "Congressional Research Service",
+  "url": "https://www.everycrsreport.com/reports/IF13277.html",
+  "usedFor": "3. Refugee arrival data and secondary migration"
+ },
+ {
+  "title": "SoLaHmo",
+  "publisher": "Community-University Health Care Center",
+  "url": "https://cuhcc.umn.edu/research/solahmo",
+  "usedFor": "2. Reaching people that surveys miss"
+ },
+ {
+  "title": "Improving Health through Community-Based Participatory Action Research",
+  "publisher": "Minnesota Medicine (author manuscript in PubMed Central)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5484585",
+  "usedFor": "2. Reaching people that surveys miss"
+ },
+ {
+  "title": "A Qualitative Study of Families of Children with Autism in the Somali Community",
+  "publisher": "Minnesota Department of Health",
+  "url": "https://www.leg.mn.gov/docs/2014/mandated/140404.pdf",
+  "usedFor": "2. Reaching people that surveys miss; 6. Qualitative work, life histories and archives; 9. Measuring disability across cultures"
+ },
+ {
+  "title": "Sampling in Difficult to Access Refugee and Immigrant Communities",
+  "publisher": "Journal of Nervous and Mental Disease (record at University of Minnesota Experts)",
+  "url": "https://experts.umn.edu/en/publications/sampling-in-difficult-to-access-refugee-and-immigrant-communities/",
+  "usedFor": "2. Reaching people that surveys miss"
+ },
+ {
+  "title": "Speaking for Ourselves data book",
+  "publisher": "Wilder Research",
+  "url": "https://www.wilder.org/wilder_research/speaking-for-ourselves-a-study-with-immigrant-and-refugee-communities-in-the-twin-cities-data-book/",
+  "usedFor": "2. Reaching people that surveys miss"
+ },
+ {
+  "title": "The importance of measuring and accounting for potential biases in respondent-driven samples",
+  "publisher": "AIDS and Behavior (PubMed Central)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3674117",
+  "usedFor": "2. Reaching people that surveys miss"
+ },
+ {
+  "title": "Diagnostics for Respondent-driven Sampling",
+  "publisher": "Journal of the Royal Statistical Society, Series A (PubMed Central)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877136",
+  "usedFor": "2. Reaching people that surveys miss"
+ },
+ {
+  "title": "Post on snowball sampling with refugee groups",
+  "publisher": "BMC Series blog",
+  "url": "https://blogs.biomedcentral.com/bmcseriesblog/?p=41",
+  "usedFor": "2. Reaching people that surveys miss"
+ },
+ {
+  "title": "Surveying immigrants without sampling frames",
+  "publisher": "Comparative Migration Studies (index record)",
+  "url": "https://research-portal.najah.edu/migrant/35331/",
+  "usedFor": "2. Reaching people that surveys miss"
+ },
+ {
+  "title": "Are surname telephone oversamples an efficient way",
+  "publisher": "Medical Care (record at University of Minnesota Experts)",
+  "url": "https://experts.umn.edu/en/publications/are-surname-telephone-oversamples-an-efficient-way-to-better-unde/",
+  "usedFor": "2. Reaching people that surveys miss"
+ },
+ {
+  "title": "The Minn-LInK Project",
+  "publisher": "International Journal of Population Data Science",
+  "url": "https://ijpds.org/index.php/ijpds/article/view/3721",
+  "usedFor": "4. Linked administrative data"
+ },
+ {
+  "title": "SLEDS",
+  "publisher": "Minnesota P-20 partners",
+  "url": "https://sleds.mn.gov/",
+  "usedFor": "4. Linked administrative data"
+ },
+ {
+  "title": "ECLDS Data Access Management Policy and Data Guide",
+  "publisher": "Minnesota ECLDS Governing Body",
+  "url": "https://dcyf.mn.gov/sites/default/files/2026-04/eclds-damp-data-guide.pdf",
+  "usedFor": "1. Why state estimates for small groups are unstable; 4. Linked administrative data; 10. Small-number privacy"
+ },
+ {
+  "title": "Differential record linkage by Hispanic ethnicity and age",
+  "publisher": "Journal of Aging and Health (PubMed Central)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4598042",
+  "usedFor": "4. Linked administrative data"
+ },
+ {
+  "title": "Mitigating Ethnoracial-Based Linkage Bias",
+  "publisher": "International Journal of Population Data Science",
+  "url": "https://ijpds.org/index.php/ijpds/article/view/3618",
+  "usedFor": "4. Linked administrative data"
+ },
+ {
+  "title": "copy held by Winona Area Public Schools",
+  "publisher": "Minnesota Department of Education form, copy held by Winona Area Public Schools",
+  "url": "https://www.winonaschools.org/uploaded/Documents/Learning_Teaching/MN_Language_Survey_Aug_2017_fillable_-_English.pdf",
+  "usedFor": "5. School language data"
+ },
+ {
+  "title": "Identification of Potential English Learners procedure",
+  "publisher": "Intermediate District 287",
+  "url": "https://www.district287.org/our-district/policies-procedures/board/~board/600-education-programs/post/6001-procedure-identification-of-potential-english-learners-enrollment",
+  "usedFor": "5. School language data"
+ },
+ {
+  "title": "Section 124D.59",
+  "publisher": "Minnesota Statutes",
+  "url": "https://www.revisor.mn.gov/statutes/cite/124D.59",
+  "usedFor": "5. School language data"
+ },
+ {
+  "title": "Section 120B.35",
+  "publisher": "Minnesota Statutes",
+  "url": "https://www.revisor.mn.gov/statutes/cite/120B.35",
+  "usedFor": "5. School language data"
+ },
+ {
+  "title": "English Learner Education in Minnesota, 2021-22 Report",
+  "publisher": "Minnesota Department of Education",
+  "url": "https://www.lrl.mn.gov/docs/2023/Other/231750.pdf",
+  "usedFor": "5. School language data"
+ },
+ {
+  "title": "Home Language Survey Data Quality Self-Assessment",
+  "publisher": "REL Northeast and Islands",
+  "url": "https://ies.ed.gov/use-work/resource-library/resource/other-resource/home-language-survey-data-quality-self-assessment",
+  "usedFor": "5. School language data"
+ },
+ {
+  "title": "Elusive Jannah by Cawo M. Abdi",
+  "publisher": "Mashriq & Mahjar",
+  "url": "https://lebanesestudies.ojs.chass.ncsu.edu/index.php/mashriq/article/download/89/573",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Making sense of complexity in refugee family systems",
+  "publisher": "International Journal of Systemic Therapy (record at University of Minnesota Experts)",
+  "url": "https://experts.umn.edu/en/publications/making-sense-of-complexity-in-refugee-family-systems-second-gener/",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Minnesota Immigrant Oral Histories",
+  "publisher": "Internet Scout",
+  "url": "https://archives.internetscout.org/r43246/minnesota_immigrant_oral_histories",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Immigrant Oral Histories from Minnesota",
+  "publisher": "Goshen College Libraries",
+  "url": "https://libraryguides.goshen.edu/c.php?g=1344118",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Hmong in Minnesota: primary sources",
+  "publisher": "Minnesota Historical Society",
+  "url": "https://libguides.mnhs.org/hmong/primary",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Somali in Minnesota guide",
+  "publisher": "Minnesota Historical Society",
+  "url": "https://libguides.mnhs.org/somali",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Macalester Somali Oral History Project",
+  "publisher": "Minnesota Legacy Amendment",
+  "url": "https://www.legacy.mn.gov/node/37500",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Immigration History Research Center Archives",
+  "publisher": "University of Minnesota Libraries",
+  "url": "https://www.lib.umn.edu/collections/special/ihrca",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Immigrant Stories",
+  "publisher": "University of Minnesota",
+  "url": "https://cla.umn.edu/ihrc/immigrant-stories",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Minnesota Immigrants collection project",
+  "publisher": "Minnesota Digital Library",
+  "url": "https://mndigital.org/node/417",
+  "usedFor": "6. Qualitative work, life histories and archives"
+ },
+ {
+  "title": "Two self-rating scales for depression in Hmong refugees",
+  "publisher": "Journal of Psychiatric Research (record at University of Minnesota Experts)",
+  "url": "https://experts.umn.edu/en/publications/two-self-rating-scales-for-depression-in-hmong-refugees-assessmen/",
+  "usedFor": "7. Translation, interpreters and validity across languages"
+ },
+ {
+  "title": "The TRAPD approach",
+  "publisher": "Frontiers in Psychiatry (PubMed Central)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10309006/",
+  "usedFor": "7. Translation, interpreters and validity across languages"
+ },
+ {
+  "title": "Translating the Short Set Questions",
+  "publisher": "Washington Group on Disability Statistics",
+  "url": "https://www.washingtongroup-disability.com/wg-blog/post/translating-the-washington-group-short-set-questions-66/",
+  "usedFor": "7. Translation, interpreters and validity across languages"
+ },
+ {
+  "title": "Translation of health surveys using mixed methods",
+  "publisher": "Journal of Nursing Scholarship (record at Stanford Geriatrics)",
+  "url": "https://geriatrics-references.stanford.edu/publications/hmong-american/translation-health-surveys-using-mixed-methods",
+  "usedFor": "7. Translation, interpreters and validity across languages"
+ },
+ {
+  "title": "Interpreters/Translators and Cross-Language Research",
+  "publisher": "International Journal of Qualitative Methods",
+  "url": "https://sites.ualberta.ca/~iiqm/backissues/1_2Final/html/temple.html",
+  "usedFor": "7. Translation, interpreters and validity across languages"
+ },
+ {
+  "title": "Language barriers and qualitative nursing research",
+  "publisher": "International Nursing Review (PubMed Central)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2697452",
+  "usedFor": "7. Translation, interpreters and validity across languages"
+ },
+ {
+  "title": "Gen 1.5: Where an immigrant generation fits in",
+  "publisher": "UC Irvine School of Social Sciences",
+  "url": "https://www.socsci.uci.edu/newsevents/news/2012/2012-03-22-gen-1-5-where-an-immigrant-generation-fits-in.php",
+  "usedFor": "8. Measuring generations"
+ },
+ {
+  "title": "The Economic and Fiscal Consequences of Immigration, data chapter",
+  "publisher": "National Academies",
+  "url": "https://www.nationalacademies.org/read/23550/chapter/15",
+  "usedFor": "8. Measuring generations"
+ },
+ {
+  "title": "The Adaptation of the Immigrant Second Generation in America",
+  "publisher": "Journal of Ethnic and Migration Studies (PubMed Central)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3634592",
+  "usedFor": "8. Measuring generations"
+ },
+ {
+  "title": "Segmented assimilation on the ground",
+  "publisher": "Ethnic and Racial Studies (record at Princeton University)",
+  "url": "https://collaborate.princeton.edu/en/publications/segmented-assimilation-on-the-ground-the-new-second-generation-in/",
+  "usedFor": "8. Measuring generations"
+ },
+ {
+  "title": "Children of Immigrants Longitudinal Study",
+  "publisher": "Russell Sage Foundation",
+  "url": "https://www.russellsage.org/node/10103",
+  "usedFor": "8. Measuring generations"
+ },
+ {
+  "title": "A Review of Inheriting the City",
+  "publisher": "ReVista, Harvard University",
+  "url": "https://revista.drclas.harvard.edu/a-review-of-inheriting-the-city-the-children-of-immigrants-come-of-age",
+  "usedFor": "8. Measuring generations"
+ },
+ {
+  "title": "Should \"acculturation\" be a variable in health research?",
+  "publisher": "Social Science & Medicine (record at IDEAS)",
+  "url": "https://ideas.repec.org/a/eee/socmed/v59y2004i5p973-986.html",
+  "usedFor": "8. Measuring generations"
+ },
+ {
+  "title": "Rethinking the Concept of Acculturation",
+  "publisher": "American Psychologist (PubMed Central)",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3700543/",
+  "usedFor": "8. Measuring generations"
+ },
+ {
+  "title": "How Disability Data are Collected from the ACS",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://www.census.gov/topics/health/disability/guidance/data-collection-acs.html",
+  "usedFor": "9. Measuring disability across cultures"
+ },
+ {
+  "title": "WG Short Set on Functioning page",
+  "publisher": "Washington Group on Disability Statistics",
+  "url": "https://www.washingtongroup-disability.com/question-sets/wg-short-set-on-functioning-wg-ss/",
+  "usedFor": "9. Measuring disability across cultures"
+ },
+ {
+  "title": "WG Short Set questionnaire",
+  "publisher": "Washington Group on Disability Statistics",
+  "url": "https://www.washingtongroup-disability.com/fileadmin/uploads/wg/Washington_Group_Questionnaire__1_-_WG_Short_Set_on_Functioning__October_2022_.pdf",
+  "usedFor": "9. Measuring disability across cultures"
+ },
+ {
+  "title": "Comment on proposed data collection standards",
+  "publisher": "Disability Rights Education and Defense Fund",
+  "url": "https://dredf.org/proposed-aca-data-collection-standards/",
+  "usedFor": "9. Measuring disability across cultures"
+ },
+ {
+  "title": "Article on ACS disability questions",
+  "publisher": "*The Nation's Health*",
+  "url": "https://www.thenationshealth.org/content/54/2/1.2",
+  "usedFor": "9. Measuring disability across cultures"
+ },
+ {
+  "title": "Minneapolis Somali Autism Spectrum Disorder Prevalence Project: Community Report",
+  "publisher": "Institute on Community Integration, University of Minnesota",
+  "url": "https://ici.umn.edu/products/583",
+  "usedFor": "9. Measuring disability across cultures"
+ },
+ {
+  "title": "Study of Somali Children Among Top 20 in Autism Research",
+  "publisher": "University of Minnesota Research",
+  "url": "https://research.umn.edu/inquiry-blog/post/study-somali-children-among-top-20-autism-research",
+  "usedFor": "9. Measuring disability across cultures"
+ },
+ {
+  "title": "Section 13.02",
+  "publisher": "Minnesota Statutes",
+  "url": "https://www.revisor.mn.gov/statutes/cite/13.02",
+  "usedFor": "10. Small-number privacy"
+ },
+ {
+  "title": "Section 13.32",
+  "publisher": "Minnesota Statutes",
+  "url": "https://www.revisor.mn.gov/statutes/cite/13.32",
+  "usedFor": "10. Small-number privacy"
+ },
+ {
+  "title": "Report card graduation data notes",
+  "publisher": "Minnesota Department of Education",
+  "url": "https://rc.education.mn.gov/js/plugins/templates/table_graduationMoreInfo.html",
+  "usedFor": "10. Small-number privacy"
+ },
+ {
+  "title": "SLDS Technical Brief 3",
+  "publisher": "National Center for Education Statistics",
+  "url": "https://nces.ed.gov/pubs2011/2011603.pdf",
+  "usedFor": "10. Small-number privacy"
+ },
+ {
+  "title": "Comments on data suppression in the NCES brief",
+  "publisher": "Coalition of researchers and civil rights advocates (hosted by ACLU)",
+  "url": "https://www.aclu.org/wp-content/uploads/document/coalition_comments_on_data_suppression_in_nces_technical_brief.pdf",
+  "usedFor": "10. Small-number privacy"
+ },
+ {
+  "title": "Medicaid Data Sharing with ICE",
+  "publisher": "Center for Health Law and Policy Innovation",
+  "url": "https://chlpi.org/wp-content/uploads/2026/04/Medicaid-ICE-data-sharing-FINAL.pdf",
+  "usedFor": "10. Small-number privacy"
+ },
+ {
+  "title": "Ecological Inference and the Ecological Fallacy",
+  "publisher": "University of California, Berkeley, Department of Statistics",
+  "url": "https://www.stat.berkeley.edu/~census/549.pdf",
+  "usedFor": "11. Not generalizing from a group to a person"
+ },
+ {
+  "title": "Anthropology in the Clinic",
+  "publisher": "PLoS Medicine",
+  "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0030294",
+  "usedFor": "11. Not generalizing from a group to a person"
+ }
 ]
