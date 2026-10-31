@@ -13,9 +13,7 @@ CAL = Path(__file__).resolve().parents[1]
 ROOT = CAL.parent
 BRIEF = 'https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/'
 PROFILE = 'https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/{}/profile.md'
-DATA = Path(r'C:\Users\garyb\Projects\one-dsd-web-consult\lib\content\community-design-data.json')
-TITLES = {x['id']: x['title'] for x in json.loads(DATA.read_text(encoding='utf-8'))}
-TITLES.setdefault('deaf-deafblind-hard-of-hearing', 'Deaf, DeafBlind and Hard of Hearing Minnesotans')
+TITLES = json.loads((CAL / 'tools' / 'community-titles.json').read_text(encoding='utf-8'))
 IDS = sorted(p.stem for p in (CAL / 'seed-by-community').glob('*.json'))
 ORDER = ['id', 'observanceKey', 'name', 'alsoKnownAs', 'communities', 'briefLinks', 'profileLink', 'kind', 'capsule',
          'dateRule', 'dates', 'dateCertainty', 'whatItMarks', 'howCelebratedInMinnesota', 'minnesotaEvents', 'workplaceNote', 'sources']

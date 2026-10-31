@@ -4,46 +4,40 @@
 
 ## Where things stand
 
-Web access from this session is blocked for every source site tried, and `git push` to GitHub is refused. Both have to be fixed before the community profiles can be researched. Details below. Meanwhile, the parts that do not need the web have been built: a calculated cultural calendar, a note on how cultural calendars work, and brief links for every calendar entry.
+1 of 39 communities is finished. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- `calendar/cultural-calendar.json`: 110 observances across the 39 communities, with 2026, 2027 and 2028 dates where they can be calculated, the rule that sets each date, how certain the date is, what it marks, and a link to the existing brief page for each community. `howCelebratedInMinnesota`, `minnesotaEvents` and `workplaceNote` are empty: they need opened sources.
-- `calendar/cultural-calendar.ics`: 287 all-day events for the fixed and calculated dates. Moon-sighted and announced dates are left out.
-- `calendar/calendar-by-month.md`: month-by-month reading view with brief links.
-- `calendar/how-cultural-calendars-work.md`.
-
-The observances were drawn from two places: the "Dates of Significance" section of each of the existing 41 briefs (read from the repository's own brief data, not the live site, which could not be opened), and standard national and religious calendars. The dates are computed locally with calendar libraries, as described in the how-it-works note; they have not yet been checked against an opened official announcement.
+- **Communities:** hmong.
+- `cross-cutting/small-communities-methods.md`.
+- **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
+- **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- None. The research cannot start until the network is opened.
+- somali, african-american, latino, mexican, karen.
 
 ## Not started
 
-- All 39 community profiles, business lists and corrections files.
-- `cross-cutting/small-communities-methods.md`.
-- Minnesota event listings, celebration descriptions and workplace notes for the calendar.
+amharic, american, arabic-speaking, bosnian, burmese, chinese, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, ethiopian, european-american, filipino, french, guatemalan, indian, japanese, kenyan, khmer, korean, lao, lebanese, liberian, minnesota, nigerian, oromo, puerto-rican, rural, russian-speaking, salvadoran, thai, ukrainian, vietnamese.
 
-## Blocked: web access
+## Still to do on the calendar
 
-Each of these failed both through the page-fetch tool and through a direct HTTPS request on October 30, 2026 (the network policy refuses to resolve the host):
+- Fill Minnesota details and organizer dates as each community finishes.
+- Update `calendar/how-cultural-calendars-work.md` from `calendar/calendar-methods-sources.md`. The note still says it was written without opened sources.
 
-- one-dsd-people-access-culture-production.up.railway.app (the existing community pages)
-- www.mncompass.org, www.census.gov, data.census.gov, mn.gov, www.health.state.mn.us
-- www.mnhs.org, www.mnopedia.org, www.umn.edu, ici.umn.edu
-- sahanjournal.com, www.startribune.com, www.mprnews.org, www.minnpost.com
-- visitsaintpaul.com, www.rivercentre.org, www.hmongcc.org, hmongtimes.com, www.google.com
+## How dates are treated
 
-Web search works but returns only titles and snippets. The project rules say a snippet is never a checked source, so the profiles were not started.
+- Commercial calendar sites do not confirm a date. They only add a note.
+- Official sources that disagree confirm nothing. Holi 2027 stays unconfirmed because the Government of India's holiday list says March 23 and the panchang says March 22.
+- Moon-sighted dates are never shown as confirmed.
+- The `.ics` file carries confirmed dates only.
 
-Fix: in the cloud environment's settings (environment menu in the session title bar, then Edit, then Network access), choose full internet access. A list of named domains is not practical, because the research needs hundreds of sites across 39 communities. Steps: https://code.claude.com/docs/en/cloud-environments#network-access
+## Blocked sources
 
-## Blocked: GitHub push
+Hmong and the methods note could not open these: Star Tribune, Christian Century, the state charter school directory, Carleton's Religions in Minnesota, mn.gov pages (State Demographic Center, Department of Veterans Affairs), the University of Minnesota Conservancy, state courts, the Senate roster, Department of Education pages, and ICPSR.
 
-`git push` returns 403: Claude does not have GitHub access to this repository for the organization. The GitHub connector can read the repository but cannot create branch references either (the same 403). Fix: reconnect GitHub at https://claude.ai/connect-github and make sure the Claude GitHub App is installed on `Gary-design63/one-dsd-web`.
+## Could not be established so far
 
-## Could not be established
-
-- Everything the profiles require, for now, because no source could be opened.
-- Karen New Year has no 2026 Gregorian date in the calculation (it fell on December 19, 2025 and next falls on January 8, 2027); confirm with Minnesota Karen organizations which weekend they celebrate.
+- **Hmong:** household wealth, use of waivers or personal care assistance, a total for deportations to Laos, religious shares, occupations, a Hmong Deaf community, and any 2027 New Year dates. The profile lists the rest.
+- **Calendar:** how Minnesota mosques decide their dates, because the one report found could not be opened. Also no opened date for future Islamic observances, Ashura or Mawlid 2026, Holodomor, Rondo Days, or Vyshyvanka 2027 and 2028.

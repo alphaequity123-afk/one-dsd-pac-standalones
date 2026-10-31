@@ -220,7 +220,7 @@ ANN = [
 for n, aka, c, k, r, w in ANN:
     E.append(dict(name=n, alsoKnownAs=aka, communities=c, kind=k, dateRule=r, _fn=None, dateCertainty='announced each year', whatItMarks=w))
 
-TITLES = {x['id']: x['title'] for x in json.load(open('C:/Users/garyb/Projects/one-dsd-web-consult/lib/content/community-design-data.json', encoding='utf-8'))}
+TITLES = json.load(open(__file__.rsplit('build_calendar.py', 1)[0] + 'community-titles.json', encoding='utf-8'))
 entries = []
 for e in E:
     fn = e.pop('_fn')
