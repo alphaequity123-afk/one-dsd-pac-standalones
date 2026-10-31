@@ -1,0 +1,383 @@
+{
+ "community": "lao",
+ "entries": [
+  {
+   "seedId": "pi-mai-lao",
+   "name": "Lao New Year (Pi Mai Lao)",
+   "alsoKnownAs": [
+    "Boun Pi Mai",
+    "Lao New Year"
+   ],
+   "kind": "cultural",
+   "capsule": "The traditional Lao new year in mid-April, marked with temple merit-making, water blessings, food, music and community celebrations.",
+   "dateRule": "Mid-April, usually April 14 to 16, as set each year by the Lao government. Minnesota celebrations are often held on a nearby weekend, sometimes weeks later.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-14",
+     "endDate": "2026-04-16",
+     "source": "Calculated (python-holidays, Laos module); no opened page states the 2026 dates",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-04-14",
+     "endDate": "2027-04-16",
+     "source": "Calculated (python-holidays, Laos module)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-14",
+     "endDate": "2028-04-16",
+     "source": "Calculated (python-holidays, Laos module)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of the traditional Lao year.",
+   "howCelebratedInMinnesota": "Long hosted by Lao temples; in 2013 younger leaders brought more than 20 organizations together in Crystal for a community-wide celebration with a pageant (MPR News). In southwestern Minnesota, the Worthington temple community celebrated on a weekend after mid-April at the Brewster American Legion Hall, with free food and Lao music (2015). The United Senior Lao American Association sought a state grant for Lao New Year 2025. No 2026 announcement was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Lao New Year celebration (second annual community-wide)",
+     "place": "Crystal",
+     "link": "https://www.mprnews.org/story/2013/04/14/lao-new-year-unites-groups-to-celebrate-together-for-first-time-in-minn",
+     "organizerDates": "Held Saturday, April 13, 2013",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Lao Temple Siri Buddharam Lao New Year",
+     "place": "Brewster American Legion Hall, Brewster",
+     "link": "https://www.grandforksherald.com/lifestyle/a-buddhist-temple-thrives-in-rural-minnesota",
+     "organizerDates": "Announced for May 2 in 2015",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Lao New Year unites groups to celebrate together for first time in Minn.",
+     "url": "https://www.mprnews.org/story/2013/04/14/lao-new-year-unites-groups-to-celebrate-together-for-first-time-in-minn",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "A Buddhist temple thrives in rural Minnesota (Worthington Daily Globe)",
+     "url": "https://www.grandforksherald.com/lifestyle/a-buddhist-temple-thrives-in-rural-minnesota",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Commemorate 50 Years of Southeast Asians in MN, FY25 Applicant List",
+     "url": "https://www.mnhs.org/sites/default/files/2024-11/fy25-sea50-hrac-applicant-list.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "visakha-bucha",
+   "name": "Visakha Bucha",
+   "alsoKnownAs": [
+    "Vesak",
+    "Boun Visakha Bousa"
+   ],
+   "kind": "religious",
+   "capsule": "Theravada Buddhist holy day marking the Buddha's birth, enlightenment and death.",
+   "dateRule": "Full moon of the sixth lunar month, usually May; temples may observe on a nearby weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-31",
+     "endDate": null,
+     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-20",
+     "endDate": null,
+     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-08",
+     "endDate": null,
+     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Birth, enlightenment and death of the Buddha in Theravada tradition.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "makha-bucha",
+   "name": "Makha Bucha",
+   "alsoKnownAs": [
+    "Magha Puja",
+    "Boun Makha Bousa"
+   ],
+   "kind": "religious",
+   "capsule": "Theravada Buddhist holy day remembering a gathering of the Buddha's disciples.",
+   "dateRule": "Full moon of the third lunar month, usually February or March.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-03",
+     "endDate": null,
+     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-21",
+     "endDate": null,
+     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-10",
+     "endDate": null,
+     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A Theravada Buddhist holy day.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": "asanha-bucha-and-start-of-buddhist-lent",
+   "name": "Asanha Bucha and start of Buddhist Lent",
+   "alsoKnownAs": [
+    "Khao Phansa",
+    "Boun Khao Phansa"
+   ],
+   "kind": "religious",
+   "capsule": "Marks the Buddha's first sermon and the start of the three-month rains retreat for monks.",
+   "dateRule": "Full moon of the eighth lunar month, usually July; the rains retreat starts the next day.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-29",
+     "endDate": null,
+     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-18",
+     "endDate": null,
+     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-06",
+     "endDate": null,
+     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The Buddha's first sermon, and the start of the three-month rains retreat.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": null,
+   "name": "Boun Pha Vet (King Vessantara festival)",
+   "alsoKnownAs": [
+    "Boun Pravade",
+    "King Pavade Heritage Day"
+   ],
+   "kind": "religious",
+   "capsule": "Festival retelling the story of Prince Vessantara, the Buddha's last life before enlightenment; in Minnesota, taught to youth through dance.",
+   "dateRule": "Set by each organizer; no fixed Minnesota date was found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The story of King Vessantara (Pha Vet), told as a Buddhist teaching on generosity.",
+   "howCelebratedInMinnesota": "Lao Culture Dance Fashion MN uses state arts grants for a King Pavade Heritage Day, where youth learn the story through dance and traditional dress (MRAC, 2024).",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Grantee Spotlight: Lao Culture Dance Fashion MN",
+     "url": "https://mrac.org/2024/05/22/grantee-spotlight-lao-culture-dance-fashion-mn/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Lao Artists Heritage Month",
+   "alsoKnownAs": [
+    "Lao American Artists Heritage Month"
+   ],
+   "kind": "heritage",
+   "capsule": "A month recognizing Lao American artists; a Minnesota governor issued a proclamation, and Lao exhibits have opened during it.",
+   "dateRule": "August, as implied by Sahtu Press describing an August 1 opening as 'during Lao American Artists Heritage Month'. The proclamation's text and year were not found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-01",
+     "endDate": "2026-08-31",
+     "source": "Inferred from Sahtu Press (2024); not stated as a fixed rule on an opened page",
+     "sourceUrl": "https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-01",
+     "endDate": "2027-08-31",
+     "source": "Inferred from Sahtu Press (2024); not stated as a fixed rule on an opened page",
+     "sourceUrl": "https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-01",
+     "endDate": "2028-08-31",
+     "source": "Inferred from Sahtu Press (2024); not stated as a fixed rule on an opened page",
+     "sourceUrl": "https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Contributions of Lao American artists.",
+   "howCelebratedInMinnesota": "Former Gov. Mark Dayton issued a Lao Artists Heritage Month proclamation honoring playwright Saymoukda Duangphouxay Vongsay (University of Minnesota CCAPS, 2022). Laomerica 50 opened at Minneapolis Central Library on Aug. 1, 2024, during the month (Sahtu Press).",
+   "minnesotaEvents": [
+    {
+     "name": "Laomerica 50: Democracy and Diaspora exhibit",
+     "place": "Cargill Gallery, Minneapolis Central Library",
+     "link": "https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41",
+     "organizerDates": "Aug. 1 to Sept. 30, 2024",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Laomerica 50 Coming to Minneapolis",
+     "url": "https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Jai Khang (Heart Hard)",
+     "url": "https://ccaps.umn.edu/story/jai-khang-heart-hard",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Colors of Southeast Asia Fest (COSA Fest)",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "SEAD Project festival celebrating Hmong, Khmer, Lao and Vietnamese Minnesotans with performances, vendors and food.",
+   "dateRule": "Announced each year by The SEAD Project; held in early June in 2025.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "SEAD Project home page lists COSA Fest 2026 but no date could be opened",
+     "sourceUrl": "https://www.theseadproject.org/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Southeast Asian diaspora culture in Minnesota; the 2025 edition marked 50 years.",
+   "howCelebratedInMinnesota": "Held June 7, 2025, noon to 4 p.m., at Centennial Park, Brooklyn Center, with the theme 'Woven' (Hoodline). The 2026 theme is 'Rooted in Healing, Growing in Unity' (SEAD Project).",
+   "minnesotaEvents": [
+    {
+     "name": "COSA Fest 2025",
+     "place": "Centennial Park, 6301 Shingle Creek Pkwy, Brooklyn Center",
+     "link": "https://hoodline.com/2025/05/minnesota-marks-50th-anniversary-of-colors-of-southeast-asia-fest-with-woven-theme-in-brooklyn-center/",
+     "organizerDates": "Saturday, June 7, 2025, 12 to 4 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "The SEAD Project home page",
+     "url": "https://www.theseadproject.org/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota marks 50th anniversary of Colors of Southeast Asia Fest",
+     "url": "https://hoodline.com/2025/05/minnesota-marks-50th-anniversary-of-colors-of-southeast-asia-fest-with-woven-theme-in-brooklyn-center/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": [
+  {
+   "id": "lao-national-day",
+   "reason": "December 2 marks the 1975 founding of the current Lao government, the year many Lao refugees fled. No opened source shows any Minnesota Lao observance of it."
+  }
+ ]
+}

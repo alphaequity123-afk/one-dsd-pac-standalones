@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Gai Noi",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Loring Park, Minneapolis (1610 Harmon Pl.)",
+  "whatItIs": "Lao restaurant by Chef Ann Ahmed; lunch and dinner, walk-in only.",
+  "link": "https://www.gainoimpls.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists hours Monday to Sunday 11am to 10pm and online ordering; named to Mpls.St.Paul Magazine's 2026 list of 50 best Twin Cities restaurants."
+ },
+ {
+  "name": "Khâluna",
+  "type": "restaurant",
+  "neighborhoodOrCity": "South Minneapolis (4000 Lyndale Ave. S.)",
+  "whatItIs": "Southeast Asian restaurant and shop by Chef Ann Ahmed; name means 'please' in Lao; logo border drawn from the Lao sinh skirt.",
+  "link": "https://khaluna.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current dinner and weekend brunch hours, menus and reservations."
+ },
+ {
+  "name": "Soul Lao",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Sibley Plaza, Highland Park / West Seventh, St. Paul",
+  "whatItIs": "Lao restaurant that began as a food truck in 2017; owners Sabrina Boualaphanh and Eric Phothisanh; also serves customers at Wandering Leaf Brewing next door.",
+  "link": "https://mspmag.com/eat-and-drink/the-best-restaurants-in-the-twin-cities-2026/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Named on Mpls.St.Paul Magazine's 2026 best-restaurants list; a dated review of a visit was posted Oct. 29, 2025 (myannoyingopinions.com). Own website not found."
+ },
+ {
+  "name": "Ruam Mit Thai + Lao Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Downtown St. Paul (367 Wabasha St. N.)",
+  "whatItIs": "Thai and Lao restaurant founded in 1989; owned since late 2018 by Nia Rasavong, who came to Minnesota from a Thai refugee camp; reopened downtown in 2024.",
+  "link": "https://www.visitsaintpaul.com/directory/ruam-mit/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Visit Saint Paul directory listing (undated) gives address and phone; newest dated article opened is from July 2024 (Power 104.7 FM). No 2025 or 2026 dated item opened."
+ },
+ {
+  "name": "Lat14 Asian Eatery",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Golden Valley",
+  "whatItIs": "Asian restaurant in Golden Valley, per its own website title.",
+  "link": "https://www.lat14.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Website loads with menu headings but shows no hours, dates or current content."
+ },
+ {
+  "name": "Top Asian Food",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Asian food business owned by one Thai and one Lao family in 2017.",
+  "link": "https://www.mprnews.org/story/2017/02/27/worthington-minn-minority-trump-future",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only source opened is a February 2017 MPR News photo caption."
+ },
+ {
+  "name": "New Orient Market",
+  "type": "grocery",
+  "neighborhoodOrCity": "Nicollet Avenue, Minneapolis",
+  "whatItIs": "Market described as a key source of Southeast Asian ingredients for Lao cooks; ownership not stated.",
+  "link": "https://joysauce.com/why-lao-food-is-booming-in-the-twin-cities/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Mentioned in an Oct. 1, 2024 article; no 2025 or 2026 source opened; not confirmed as Lao-owned."
+ }
+]

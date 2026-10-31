@@ -1,0 +1,64 @@
+# Corrections to the existing Lao Minnesota page
+
+Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao
+Checked: October 31, 2026. Each item gives the claim, what the opened source says, the link and the date checked.
+
+## Errors or claims that should change
+
+1. **Claim:** All Minnesota Compass figures are given as "ACS 2019–2023": about 15,191 people; Twin Cities 71.6% and Greater Minnesota 28.4%; 17 or younger 21.9%; 65+ 13.0%; foreign-born 49.1%; language other than English 71.8%; English less than "very well" 36.1%; high school or higher 76.5%; bachelor's or higher 13.3%; median household income about $71,800 (2022 dollars); poverty 6.3%; owner-occupied 59.1%; renter 40.9%; household size 3.31; uninsured 5.1%.
+   **Source says:** Compass now shows 2020–2024: 14,918 (±2,177); Twin Cities 69.0% and Greater Minnesota 31.0% (±6.6); 17 or younger 23.2%; 65+ 12.1%; foreign-born 47.1%; language other than English 67.5%; English less than "very well" 31.7%; high school or higher 78.9%; bachelor's or higher 15.7%; median household income $82,225 (±$12,527, 2024 dollars); poverty 7.7% (±5.3); owner-occupied 62.3%; renter 37.7%; household size 3.37; uninsured 6.1%. It also now reports disability (10.2%, ±3.3), which the page does not use. Every figure on the page, including "Greater Minnesota: 28.4 percent" in the human-services list, should be updated.
+   **Link:** https://www.mncompass.org/topics/demographics/cultural-communities/lao-non-hmong . Checked Oct. 31, 2026.
+
+2. **Claim:** Nonprofit record links. Under The SEAD Project, "Nonprofit record on GuideStar" links to guidestar.org/Profile/36-3423583. Under Wat Lao Minnesota (Farmington), the record link is guidestar.org/profile/90-0602632.
+   **Source says:** EIN 36-3423583 is Wat Lao Minnesota Lao Buddhist Temple Minnesota, Farmington (tax-exempt May 2005). EIN 90-0602632 is Lao Temple Vipassana Center of Minnesota, Forest Lake (tax-exempt Jan. 2012). The links appear shifted by one entry: SEAD's link goes to the Farmington temple, and the Farmington temple's link goes to the Forest Lake temple. The "IRS ruling year of 2005" given for Wat Lao Minnesota matches 36-3423583, not the record it links.
+   **Links:** https://projects.propublica.org/nonprofits/organizations/363423583 ; https://projects.propublica.org/nonprofits/organizations/900602632 . Checked Oct. 31, 2026.
+
+3. **Claim:** The featured banner says "The Lao Arts and Culture Collective creates opportunities to learn through music, dance, storytelling, and crafts. Its culture camp..." and links to laoartsmn.org/programs/lao-culture-camp/.
+   **Source says:** On Oct. 31, 2026, that link returned a 504 gateway error, the home page did not load, and laoartsmn.org/about shows only "New WordPress website is being built." No opened source confirms an organization by that name. A documented Lao Culture Camp is run by the Lao Assistance Center of Minnesota, which says it launched the camp in 2017. The banner link should be replaced or checked.
+   **Links:** https://laoartsmn.org/about/ ; https://www.laocenter.org/about . Checked Oct. 31, 2026.
+
+4. **Claim:** "Partners include the Lao Assistance Center of Minnesota, historically" and "The Lao Assistance Center of Minnesota has historically been a partner"; "the Lao Assistance Center of Minnesota historically" is listed among sources.
+   **Source says:** The center is active in 2026. Its site lists a May 20, 2026 mammogram event, a June 17, 2026 community gathering on its future, Hennepin County navigation appointments at its office from April 21, 2026, and current programs. "Historically" suggests it is no longer active and should be dropped. (Other parts of the page do describe it as current.)
+   **Links:** https://www.laocenter.org/event-calendar ; https://www.laocenter.org/resources ; https://www.laocenter.org/what-we-do . Checked Oct. 31, 2026.
+
+5. **Claim:** "GiveMN says it has run five programs serving more than 750 low- to moderate-income Lao families a year."
+   **Source says:** The center's own About page now says it serves "over 5,000 low-income, limited-English speaking individuals, families, and elders." The two figures count different things (families a year versus individuals) and are from different dates; the center's current figure should be added and the units made clear. The GiveMN page itself was not reopened.
+   **Link:** https://www.laocenter.org/about . Checked Oct. 31, 2026.
+
+6. **Claim:** "U.S. deportation of people with certain convictions is current structure for some Southeast Asian communities" and "The deportation climate for some people with records is current structure."
+   **Source says:** Not wrong, but now well documented and should be dated and specific. MPR News (Apr. 29, 2026), citing Deportation Data Project figures, reported about 90 people born in Laos and arrested in Minnesota detained by ICE from Dec. 1 to mid-March, and 10 deported to Laos in Oct.–Nov. 2025. A coalition said 2025 had "the highest level of Hmong and Lao deportations in the last 15 years" (MPR News, Feb. 24, 2026). The Minnesota Board of Pardons issued an emergency pardon on May 4, 2026 (KSTP). The page could also point to SEAFN's 24/7 line in Lao, 1-800-251-1083, which MPR published.
+   **Links:** https://www.mprnews.org/story/2026/04/29/at-ricky-chandee-ice-detention-deportation-future-uncertain ; https://www.mprnews.org/episode/2026/02/24/southeast-asian-minnesotans-deportation-and-detention ; https://kstp.com/kstp-news/top-news/minnesota-board-pardons-laos-refugee-day-before-possible-deportation/ . Checked Oct. 31, 2026.
+
+7. **Claim:** "Lao New Year / Pi Mai falls in mid-April ... and is public at the wats here."
+   **Source says:** Partly supported but incomplete. MPR News (2013) reports that the New Year was long held at the wat, then moved to a community-wide celebration (Crystal, 2013) organized by more than 20 organizations; the Worthington temple community held it at a Legion hall on a weekend weeks after April 15 (2015). The page could say Minnesota celebrations are often on a later weekend and at community venues as well as temples.
+   **Links:** https://www.mprnews.org/story/2013/04/14/lao-new-year-unites-groups-to-celebrate-together-for-first-time-in-minn ; https://www.grandforksherald.com/lifestyle/a-buddhist-temple-thrives-in-rural-minnesota . Checked Oct. 31, 2026.
+
+8. **Claim:** Calendar names "That Luang" and "Buddhist holy days" as on the public calendar; the draft calendar includes Lao National Day (Dec. 2).
+   **Source says:** No opened Minnesota source documents a That Luang or Lao National Day observance here. Lao National Day marks the 1975 founding of the current government, the year many refugees fled; it is dropped from the Lao calendar for lack of any Minnesota observance. Minnesota-documented observances that could be added: Boun Pha Vet ("King Pavade Heritage Day," Lao Culture Dance Fashion MN), Lao Artists Heritage Month (a proclamation by former Gov. Mark Dayton), and the Colors of Southeast Asia Fest.
+   **Links:** https://mrac.org/2024/05/22/grantee-spotlight-lao-culture-dance-fashion-mn/ ; https://ccaps.umn.edu/story/jai-khang-heart-hard ; https://hoodline.com/2025/05/minnesota-marks-50th-anniversary-of-colors-of-southeast-asia-fest-with-woven-theme-in-brooklyn-center/ . Checked Oct. 31, 2026.
+
+9. **Claim:** Saymoukda Duangphouxay Vongsay's "family resettled in Minnesota in the mid-1980s."
+   **Source says:** Acceptable as written, but sources differ on the year: University of Minnesota CCAPS says 1984; Theater Mu says 1985. If a year is added, give both.
+   **Links:** https://ccaps.umn.edu/story/jai-khang-heart-hard ; https://www.theatermu.org/news/theater-mu-and-twin-cities-based-artist-saymoukda-duangphouxay-vongsay-receive-prestigious-mellon-grant . Checked Oct. 31, 2026.
+
+10. **Claim:** Lao Temple Vipassana Center of Minnesota is described as a "Lao Buddhist temple and meditation center ... IRS ruling year of 2012."
+    **Source says:** The ruling date (Jan. 2012) matches. ProPublica's listing places this record in a "Protestant" category, while its name and the page call it a Buddhist temple and meditation center. The page's description may be right, but it should be confirmed with the organization.
+    **Link:** https://projects.propublica.org/nonprofits/search?q=lao . Checked Oct. 31, 2026.
+
+## Claims checked and supported
+
+- Lao Assistance Center founded in 1983 by ethnic Lao; Sunny Chanthanouvong executive director since 2003 and still listed in 2026; address 1015 N 4th Ave, Suite 202; phone (612) 374-4967 (laocenter.org/about and home page; American Immigration Council, 2022).
+- Bryan Thao Worra as Lao Minnesotan poet laureate, chair of the community board of the Council on Asian Pacific Minnesotans, leading a SEALit Center and Lao Assistance Center project funded by the Minnesota Historical Society; Laomerica 50 at Minneapolis Central Library in 2024 (MPR News, Apr. 30, 2025; Sahtu Press). NEA fellowship in 2009 (arts.gov).
+- Minnesota as home to the third-largest Lao population (MPR News 2013 and 2025; Sahtu Press 2015). Pew's 2021–2023 Laotian-alone figures also rank Minnesota third (about 9,000), after California and Texas.
+- "MPR reported ... more than 20 organizations in Crystal in 2013" (MPR News, Apr. 14, 2013).
+- Lao Temple Siri Buddharam: established 2004, Nobles County zoning change, two monks and about 150 at monthly services in the 2015 article, spelling "Sri" in 2022 (Grand Forks Herald/Daily Globe; The Globe, 2022).
+- Theater Mu Mellon residency (2020) and 2022 Bush Fellowship for Saymoukda Duangphouxay Vongsay (Theater Mu; CCAPS).
+- Chanida Phaengdara Potter's 2015 Refuge of the InvisibLao exhibit at Vine Arts Center (MPR News, Jan. 23, 2015).
+- The SEAD Project founded in 2011, serving Hmong, Khmer, Lao and Vietnamese communities; 2026 COSA Fest and Mekong Journeys listed on its site.
+- Diverse Elders Coalition fact sheet figures (51% sole caregiver; LEP 40–50%, up to 90% for elders; Laotian poverty 12.2% with no year).
+
+## Could not check
+
+- Most individual biographies of people outside Minnesota (Thavisouk Phrasavath, Seng Luangrath, Channapha Khamvongsa, Xay Khamsyvoravong, Bob Malaythong, Catzie Vilayphonh, Nor Sanavongsay, Kulap Vilaysack, Ova Saopeng, Justin Phongsavanh) were not re-opened; no error is claimed.
+- Ann Ahmed's restaurant history (Lemon Grass 2005, Lat14 2018, Khâluna 2021, James Beard nominations) was not re-opened beyond her current restaurants. Lat14's website loads but shows no hours, so its current status could not be confirmed.
+- The page's DHS SMRT, MnCHOICES and Disability Hub descriptions were not re-checked; those mn.gov pages could not be reached.
