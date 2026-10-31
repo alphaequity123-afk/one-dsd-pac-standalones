@@ -1,0 +1,88 @@
+[
+ {
+  "id": "may-14-hmong-veterans-and-general-vang-pao-remembrance",
+  "name": "May 14 Hmong veterans and General Vang Pao remembrance",
+  "alsoKnownAs": [],
+  "communities": [
+   "hmong"
+  ],
+  "briefLinks": [
+   {
+    "community": "hmong",
+    "title": "Hmong Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/hmong"
+   }
+  ],
+  "kind": "remembrance",
+  "dateRule": "May 14.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-05-14",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-14",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-14",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The May 14, 1975 departure of General Vang Pao from Laos, remembered by Hmong American and Hmong-Lao veterans.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "hmong-new-year-minnesota",
+  "name": "Hmong New Year (Minnesota)",
+  "alsoKnownAs": [
+   "Noj Peb Caug"
+  ],
+  "communities": [
+   "hmong"
+  ],
+  "briefLinks": [
+   {
+    "community": "hmong",
+    "title": "Hmong Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/hmong"
+   }
+  ],
+  "kind": "community festival",
+  "dateRule": "Set each year by the organizing groups. Hmong New Year celebrations traditionally follow the harvest; in Minnesota they run from about October to December, and each city or organization picks its own dates and venue.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   },
+   {
+    "year": 2027,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   },
+   {
+    "year": 2028,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   }
+  ],
+  "dateCertainty": "announced each year",
+  "whatItMarks": "Hmong new year after the harvest.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Not yet announced or not yet checked against an opened announcement"
+  ]
+ }
+]

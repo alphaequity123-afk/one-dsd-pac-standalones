@@ -1,0 +1,529 @@
+[
+ {
+  "id": "easter",
+  "name": "Easter",
+  "alsoKnownAs": [
+   "Pascua",
+   "Pâques",
+   "Pasko ng Pagkabuhay"
+  ],
+  "communities": [
+   "american",
+   "european-american",
+   "minnesota",
+   "filipino",
+   "mexican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "cuban",
+   "puerto-rican",
+   "french",
+   "african-american",
+   "liberian",
+   "nigerian",
+   "kenyan",
+   "lebanese",
+   "korean",
+   "karen",
+   "ukrainian"
+  ],
+  "briefLinks": [
+   {
+    "community": "american",
+    "title": "American culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+   },
+   {
+    "community": "european-american",
+    "title": "European American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+   },
+   {
+    "community": "minnesota",
+    "title": "Minnesota culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+   },
+   {
+    "community": "filipino",
+    "title": "Filipino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "french",
+    "title": "French-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "korean",
+    "title": "Korean Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+   },
+   {
+    "community": "karen",
+    "title": "Karen Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+   },
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-05",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-28",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-16",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+  ]
+ },
+ {
+  "id": "good-friday",
+  "name": "Good Friday",
+  "alsoKnownAs": [
+   "Viernes Santo",
+   "Biyernes Santo"
+  ],
+  "communities": [
+   "filipino",
+   "mexican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "puerto-rican",
+   "liberian",
+   "nigerian",
+   "kenyan",
+   "european-american"
+  ],
+  "briefLinks": [
+   {
+    "community": "filipino",
+    "title": "Filipino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "european-american",
+    "title": "European American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "The Friday before Western Easter.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-03",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-26",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-14",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "The crucifixion of Jesus.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+  ]
+ },
+ {
+  "id": "liberian-independence-day",
+  "name": "Liberian Independence Day",
+  "alsoKnownAs": [],
+  "communities": [
+   "liberian"
+  ],
+  "briefLinks": [
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   }
+  ],
+  "kind": "national",
+  "dateRule": "July 26.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-07-26",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-07-26",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-07-26",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "Independence in 1847.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "christmas",
+  "name": "Christmas",
+  "alsoKnownAs": [
+   "Navidad",
+   "Noël",
+   "Pasko"
+  ],
+  "communities": [
+   "american",
+   "european-american",
+   "minnesota",
+   "filipino",
+   "mexican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "cuban",
+   "puerto-rican",
+   "french",
+   "african-american",
+   "liberian",
+   "nigerian",
+   "kenyan",
+   "lebanese",
+   "korean",
+   "karen"
+  ],
+  "briefLinks": [
+   {
+    "community": "american",
+    "title": "American culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+   },
+   {
+    "community": "european-american",
+    "title": "European American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+   },
+   {
+    "community": "minnesota",
+    "title": "Minnesota culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+   },
+   {
+    "community": "filipino",
+    "title": "Filipino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "french",
+    "title": "French-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "korean",
+    "title": "Korean Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+   },
+   {
+    "community": "karen",
+    "title": "Karen Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "December 25.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-12-25",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-12-25",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-12-25",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "watch-night",
+  "name": "Watch Night",
+  "alsoKnownAs": [],
+  "communities": [
+   "african-american",
+   "liberian"
+  ],
+  "briefLinks": [
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "December 31.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-12-31",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-12-31",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-12-31",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "New Year's Eve church vigil, remembering the 1862 vigil before the Emancipation Proclamation took effect.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ }
+]

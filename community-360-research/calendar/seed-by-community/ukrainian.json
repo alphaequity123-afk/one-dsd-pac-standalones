@@ -1,0 +1,472 @@
+[
+ {
+  "id": "orthodox-christmas-julian-calendar",
+  "name": "Orthodox Christmas (Julian calendar)",
+  "alsoKnownAs": [
+   "Rizdvo",
+   "Rozhdestvo",
+   "Božić (Pravoslavni)"
+  ],
+  "communities": [
+   "ukrainian",
+   "russian-speaking",
+   "bosnian"
+  ],
+  "briefLinks": [
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   },
+   {
+    "community": "russian-speaking",
+    "title": "Russian-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses December 25 on the Revised Julian calendar.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2027-01-07",
+    "source": "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+   },
+   {
+    "year": 2027,
+    "date": "2028-01-07",
+    "source": "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+   },
+   {
+    "year": 2028,
+    "date": "2029-01-07",
+    "source": "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Christmas for churches on the Julian calendar.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+  ]
+ },
+ {
+  "id": "orthodox-easter",
+  "name": "Orthodox Easter",
+  "alsoKnownAs": [
+   "Pascha",
+   "Velykden",
+   "Paskha"
+  ],
+  "communities": [
+   "ukrainian",
+   "russian-speaking",
+   "bosnian",
+   "arabic-speaking",
+   "lebanese"
+  ],
+  "briefLinks": [
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   },
+   {
+    "community": "russian-speaking",
+    "title": "Russian-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-12",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-02",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-16",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Resurrection of Jesus in Eastern Christian tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+  ]
+ },
+ {
+  "id": "easter",
+  "name": "Easter",
+  "alsoKnownAs": [
+   "Pascua",
+   "Pâques",
+   "Pasko ng Pagkabuhay"
+  ],
+  "communities": [
+   "american",
+   "european-american",
+   "minnesota",
+   "filipino",
+   "mexican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "cuban",
+   "puerto-rican",
+   "french",
+   "african-american",
+   "liberian",
+   "nigerian",
+   "kenyan",
+   "lebanese",
+   "korean",
+   "karen",
+   "ukrainian"
+  ],
+  "briefLinks": [
+   {
+    "community": "american",
+    "title": "American culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+   },
+   {
+    "community": "european-american",
+    "title": "European American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+   },
+   {
+    "community": "minnesota",
+    "title": "Minnesota culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+   },
+   {
+    "community": "filipino",
+    "title": "Filipino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "french",
+    "title": "French-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "korean",
+    "title": "Korean Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+   },
+   {
+    "community": "karen",
+    "title": "Karen Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+   },
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-05",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-28",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-16",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+  ]
+ },
+ {
+  "id": "ukrainian-independence-day",
+  "name": "Ukrainian Independence Day",
+  "alsoKnownAs": [],
+  "communities": [
+   "ukrainian"
+  ],
+  "briefLinks": [
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   }
+  ],
+  "kind": "national",
+  "dateRule": "August 24.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-08-24",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-08-24",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-08-24",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "Independence in 1991.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "new-year-novy-god",
+  "name": "New Year (Novy God)",
+  "alsoKnownAs": [
+   "Novy God"
+  ],
+  "communities": [
+   "russian-speaking",
+   "ukrainian"
+  ],
+  "briefLinks": [
+   {
+    "community": "russian-speaking",
+    "title": "Russian-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+   },
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "January 1.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-01-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-01-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-01",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The major secular winter holiday from the Soviet era, still central for some families.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "holodomor-remembrance-day",
+  "name": "Holodomor Remembrance Day",
+  "alsoKnownAs": [],
+  "communities": [
+   "ukrainian"
+  ],
+  "briefLinks": [
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   }
+  ],
+  "kind": "remembrance",
+  "dateRule": "Fourth Saturday of November.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-11-28",
+    "source": "Calculated: fourth Saturday in November"
+   },
+   {
+    "year": 2027,
+    "date": "2027-11-27",
+    "source": "Calculated: fourth Saturday in November"
+   },
+   {
+    "year": 2028,
+    "date": "2028-11-25",
+    "source": "Calculated: fourth Saturday in November"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "The 1932-33 famine in Soviet Ukraine.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: fourth Saturday in November"
+  ]
+ },
+ {
+  "id": "vyshyvanka-day",
+  "name": "Vyshyvanka Day",
+  "alsoKnownAs": [],
+  "communities": [
+   "ukrainian"
+  ],
+  "briefLinks": [
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "Third Thursday of May.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-05-21",
+    "source": "Calculated: third Thursday in May"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-20",
+    "source": "Calculated: third Thursday in May"
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-18",
+    "source": "Calculated: third Thursday in May"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "A day for wearing embroidered shirts.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: third Thursday in May"
+  ]
+ }
+]

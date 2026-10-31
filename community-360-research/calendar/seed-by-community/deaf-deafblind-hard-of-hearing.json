@@ -1,0 +1,44 @@
+[
+ {
+  "id": "international-day-of-sign-languages",
+  "name": "International Day of Sign Languages",
+  "alsoKnownAs": [],
+  "communities": [
+   "deaf-deafblind-hard-of-hearing"
+  ],
+  "briefLinks": [
+   {
+    "community": "deaf-deafblind-hard-of-hearing",
+    "title": "deaf-deafblind-hard-of-hearing",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/deaf-deafblind-hard-of-hearing"
+   }
+  ],
+  "kind": "heritage",
+  "dateRule": "September 23.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-09-23",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-09-23",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-09-23",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "United Nations day for sign languages.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ }
+]

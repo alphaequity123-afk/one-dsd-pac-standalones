@@ -1,0 +1,313 @@
+[
+ {
+  "id": "choul-chnam-thmey",
+  "name": "Choul Chnam Thmey",
+  "alsoKnownAs": [
+   "Khmer New Year"
+  ],
+  "communities": [
+   "khmer"
+  ],
+  "briefLinks": [
+   {
+    "community": "khmer",
+    "title": "Cambodian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "Mid-April, usually April 13 or 14 to 16, set each year by the Cambodian government from the traditional astronomical calendar.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-14",
+    "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-04-14",
+    "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-13",
+    "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "announced each year",
+  "whatItMarks": "Traditional Khmer new year.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "visakha-bucha",
+  "name": "Visakha Bucha",
+  "alsoKnownAs": [
+   "Vesak",
+   "Buddha Day"
+  ],
+  "communities": [
+   "thai",
+   "lao",
+   "khmer",
+   "burmese"
+  ],
+  "briefLinks": [
+   {
+    "community": "thai",
+    "title": "Thai Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+   },
+   {
+    "community": "lao",
+    "title": "Lao Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+   },
+   {
+    "community": "khmer",
+    "title": "Cambodian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+   },
+   {
+    "community": "burmese",
+    "title": "Burmese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Full moon of the sixth lunar month in the Thai and Cambodian calendars, usually in May; temples may choose a nearby weekend.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-05-31",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-20",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-08",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Birth, enlightenment and death of the Buddha in Theravada tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "cambodian-genocide-remembrance-april-17",
+  "name": "Cambodian Genocide Remembrance (April 17)",
+  "alsoKnownAs": [],
+  "communities": [
+   "khmer"
+  ],
+  "briefLinks": [
+   {
+    "community": "khmer",
+    "title": "Cambodian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+   }
+  ],
+  "kind": "remembrance",
+  "dateRule": "April 17.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-17",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-04-17",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-17",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The Khmer Rouge takeover of Phnom Penh on April 17, 1975.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "pchum-ben",
+  "name": "Pchum Ben",
+  "alsoKnownAs": [
+   "Ancestors' Day"
+  ],
+  "communities": [
+   "khmer"
+  ],
+  "briefLinks": [
+   {
+    "community": "khmer",
+    "title": "Cambodian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Last of fifteen days at the end of the Khmer lunar month Photrobot, usually September or October.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-10-10",
+    "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-09-29",
+    "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-09-17",
+    "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "The fortnight when families make offerings for the dead.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "makha-bucha",
+  "name": "Makha Bucha",
+  "alsoKnownAs": [
+   "Magha Puja"
+  ],
+  "communities": [
+   "thai",
+   "lao",
+   "khmer"
+  ],
+  "briefLinks": [
+   {
+    "community": "thai",
+    "title": "Thai Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+   },
+   {
+    "community": "lao",
+    "title": "Lao Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+   },
+   {
+    "community": "khmer",
+    "title": "Cambodian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Full moon of the third lunar month, usually February or March.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-03-03",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-02-21",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-02-10",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "A Theravada Buddhist holy day.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "asanha-bucha-and-start-of-buddhist-lent",
+  "name": "Asanha Bucha and start of Buddhist Lent",
+  "alsoKnownAs": [
+   "Khao Phansa"
+  ],
+  "communities": [
+   "thai",
+   "lao",
+   "khmer",
+   "burmese"
+  ],
+  "briefLinks": [
+   {
+    "community": "thai",
+    "title": "Thai Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+   },
+   {
+    "community": "lao",
+    "title": "Lao Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+   },
+   {
+    "community": "khmer",
+    "title": "Cambodian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+   },
+   {
+    "community": "burmese",
+    "title": "Burmese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Full moon of the eighth lunar month, usually July; the rains retreat starts the next day.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-07-29",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-07-18",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-07-06",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "The Buddha's first sermon, and the start of the three-month rains retreat.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+  ]
+ }
+]

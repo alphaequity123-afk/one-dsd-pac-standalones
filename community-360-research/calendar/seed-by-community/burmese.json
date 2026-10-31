@@ -1,0 +1,220 @@
+[
+ {
+  "id": "thingyan",
+  "name": "Thingyan",
+  "alsoKnownAs": [
+   "Burmese New Year",
+   "Water Festival"
+  ],
+  "communities": [
+   "burmese"
+  ],
+  "briefLinks": [
+   {
+    "community": "burmese",
+    "title": "Burmese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "Mid-April, calculated from the traditional Myanmar calendar.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-13",
+    "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-04-13",
+    "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-13",
+    "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Traditional Burmese new year.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "visakha-bucha",
+  "name": "Visakha Bucha",
+  "alsoKnownAs": [
+   "Vesak",
+   "Buddha Day"
+  ],
+  "communities": [
+   "thai",
+   "lao",
+   "khmer",
+   "burmese"
+  ],
+  "briefLinks": [
+   {
+    "community": "thai",
+    "title": "Thai Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+   },
+   {
+    "community": "lao",
+    "title": "Lao Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+   },
+   {
+    "community": "khmer",
+    "title": "Cambodian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+   },
+   {
+    "community": "burmese",
+    "title": "Burmese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Full moon of the sixth lunar month in the Thai and Cambodian calendars, usually in May; temples may choose a nearby weekend.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-05-31",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-20",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-08",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Birth, enlightenment and death of the Buddha in Theravada tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "union-day-myanmar",
+  "name": "Union Day (Myanmar)",
+  "alsoKnownAs": [],
+  "communities": [
+   "burmese",
+   "karen"
+  ],
+  "briefLinks": [
+   {
+    "community": "burmese",
+    "title": "Burmese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+   },
+   {
+    "community": "karen",
+    "title": "Karen Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+   }
+  ],
+  "kind": "national",
+  "dateRule": "February 12.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-02-12",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-02-12",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-02-12",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The 1947 Panglong Agreement.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "asanha-bucha-and-start-of-buddhist-lent",
+  "name": "Asanha Bucha and start of Buddhist Lent",
+  "alsoKnownAs": [
+   "Khao Phansa"
+  ],
+  "communities": [
+   "thai",
+   "lao",
+   "khmer",
+   "burmese"
+  ],
+  "briefLinks": [
+   {
+    "community": "thai",
+    "title": "Thai Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/thai"
+   },
+   {
+    "community": "lao",
+    "title": "Lao Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
+   },
+   {
+    "community": "khmer",
+    "title": "Cambodian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/khmer"
+   },
+   {
+    "community": "burmese",
+    "title": "Burmese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/burmese"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Full moon of the eighth lunar month, usually July; the rains retreat starts the next day.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-07-29",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-07-18",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-07-06",
+    "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "The Buddha's first sermon, and the start of the three-month rains retreat.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry"
+  ]
+ }
+]

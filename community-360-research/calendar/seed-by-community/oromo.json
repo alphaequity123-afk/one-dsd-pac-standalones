@@ -1,0 +1,843 @@
+[
+ {
+  "id": "start-of-ramadan",
+  "name": "Start of Ramadan",
+  "alsoKnownAs": [
+   "Ramadan",
+   "Ramazan",
+   "Soomaan"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "bosnian",
+   "ethiopian",
+   "lebanese",
+   "nigerian",
+   "kenyan",
+   "indian",
+   "african-american"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "indian",
+    "title": "Indian (Asian Indian) Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-02-18",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-02-08",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-28",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "Start of the month of daytime fasting.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "eid-alfitr",
+  "name": "Eid al-Fitr",
+  "alsoKnownAs": [
+   "Ciid Yare",
+   "Ramazanski Bajram",
+   "Id el Fitr"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "bosnian",
+   "ethiopian",
+   "lebanese",
+   "nigerian",
+   "kenyan",
+   "indian",
+   "african-american"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "indian",
+    "title": "Indian (Asian Indian) Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-03-20",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-09",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-02-26",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "End of Ramadan.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "eid-aladha",
+  "name": "Eid al-Adha",
+  "alsoKnownAs": [
+   "Ciid Weyn",
+   "Kurban Bajram",
+   "Id el Kabir"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "bosnian",
+   "ethiopian",
+   "lebanese",
+   "nigerian",
+   "kenyan",
+   "indian",
+   "african-american"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "indian",
+    "title": "Indian (Asian Indian) Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-05-27",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-16",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-05",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "islamic-new-year",
+  "name": "Islamic New Year",
+  "alsoKnownAs": [
+   "Hijri New Year",
+   "Muharram"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "bosnian",
+   "lebanese",
+   "nigerian",
+   "kenyan",
+   "indian"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "indian",
+    "title": "Indian (Asian Indian) Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First day of the first Islamic month (Muharram).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-06-16",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-06-06",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-25",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "Start of the Hijri year.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "mawlid-annabi",
+  "name": "Mawlid an-Nabi",
+  "alsoKnownAs": [
+   "Mawlid",
+   "Mawliid"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "ethiopian",
+   "nigerian"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Twelfth day of the third Islamic month (Rabi al-Awwal); not observed by all Muslims.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-08-25",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-08-14",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-08-03",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "Birthday of the Prophet Muhammad.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "enkutatash",
+  "name": "Enkutatash",
+  "alsoKnownAs": [
+   "Ethiopian New Year",
+   "Meskerem 1"
+  ],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "Meskerem 1 on the Ethiopian calendar: September 11, or September 12 in the Gregorian year before a Gregorian leap year.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-09-11",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-09-12",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-09-11",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Start of the Ethiopian year.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "genna",
+  "name": "Genna",
+  "alsoKnownAs": [
+   "Ethiopian Christmas",
+   "Ledet"
+  ],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Tahsas 29 on the Ethiopian calendar, usually January 7.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-01-07",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-01-07",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-07",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Christmas in the Ethiopian Orthodox Tewahedo Church.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "timkat",
+  "name": "Timkat",
+  "alsoKnownAs": [
+   "Ethiopian Epiphany",
+   "Timket"
+  ],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Tir 11 on the Ethiopian calendar, usually January 19 (January 20 in some years).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-01-19",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-01-19",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-20",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "fasika",
+  "name": "Fasika",
+  "alsoKnownAs": [
+   "Ethiopian Easter"
+  ],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Same date as Eastern Orthodox Easter.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-12",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-02",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-16",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Easter in the Ethiopian Orthodox tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+  ]
+ },
+ {
+  "id": "adwa-victory-day",
+  "name": "Adwa Victory Day",
+  "alsoKnownAs": [],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "national",
+  "dateRule": "March 2 (Yekatit 23).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-03-02",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-02",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-03-02",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The 1896 Ethiopian victory at Adwa.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "irreecha",
+  "name": "Irreecha",
+  "alsoKnownAs": [
+   "Irreessa"
+  ],
+  "communities": [
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "Announced each year; held around the end of the Ethiopian rainy season, usually on a weekend in late September or early October.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   },
+   {
+    "year": 2027,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   },
+   {
+    "year": 2028,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   }
+  ],
+  "dateCertainty": "announced each year",
+  "whatItMarks": "Oromo thanksgiving at the end of the rainy season.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Not yet announced or not yet checked against an opened announcement"
+  ]
+ },
+ {
+  "id": "ramadan-night-prayers-and-community-iftars",
+  "name": "Ramadan night prayers and community iftars",
+  "alsoKnownAs": [],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "bosnian"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   }
+  ],
+  "kind": "community festival",
+  "dateRule": "Announced by each mosque and community group during Ramadan.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   },
+   {
+    "year": 2027,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   },
+   {
+    "year": 2028,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   }
+  ],
+  "dateCertainty": "announced each year",
+  "whatItMarks": "Shared fast-breaking meals and evening prayers during Ramadan.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Not yet announced or not yet checked against an opened announcement"
+  ]
+ }
+]

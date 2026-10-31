@@ -1,0 +1,133 @@
+[
+ {
+  "id": "shōgatsu",
+  "name": "Shōgatsu",
+  "alsoKnownAs": [
+   "Japanese New Year",
+   "Oshōgatsu"
+  ],
+  "communities": [
+   "japanese"
+  ],
+  "briefLinks": [
+   {
+    "community": "japanese",
+    "title": "Japanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "January 1, with celebrations through the first days of January.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-01-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-01-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-01",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "Japanese new year.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "day-of-remembrance-executive-order-9066",
+  "name": "Day of Remembrance (Executive Order 9066)",
+  "alsoKnownAs": [],
+  "communities": [
+   "japanese"
+  ],
+  "briefLinks": [
+   {
+    "community": "japanese",
+    "title": "Japanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+   }
+  ],
+  "kind": "remembrance",
+  "dateRule": "February 19.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-02-19",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-02-19",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-02-19",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The February 19, 1942 order that led to the incarceration of Japanese Americans.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "obon",
+  "name": "Obon",
+  "alsoKnownAs": [
+   "Bon"
+  ],
+  "communities": [
+   "japanese"
+  ],
+  "briefLinks": [
+   {
+    "community": "japanese",
+    "title": "Japanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Mid-July or mid-August depending on the region and temple; local dates are announced by the organizers.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   },
+   {
+    "year": 2027,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   },
+   {
+    "year": 2028,
+    "date": null,
+    "source": "Not yet announced or not yet checked against an opened announcement"
+   }
+  ],
+  "dateCertainty": "announced each year",
+  "whatItMarks": "Remembrance of ancestors.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Not yet announced or not yet checked against an opened announcement"
+  ]
+ }
+]

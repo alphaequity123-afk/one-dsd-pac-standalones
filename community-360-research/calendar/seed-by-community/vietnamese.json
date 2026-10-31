@@ -1,0 +1,187 @@
+[
+ {
+  "id": "tết-nguyên-đán",
+  "name": "Tết Nguyên Đán",
+  "alsoKnownAs": [
+   "Tết",
+   "Vietnamese Lunar New Year"
+  ],
+  "communities": [
+   "vietnamese"
+  ],
+  "briefLinks": [
+   {
+    "community": "vietnamese",
+    "title": "Vietnamese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "First day of the first month of the Vietnamese lunisolar calendar (usually the same day as Chinese New Year; rare one-day differences come from the time zone used).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-02-17",
+    "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-02-06",
+    "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-26",
+    "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Start of the lunisolar year.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "midautumn-festival",
+  "name": "Mid-Autumn Festival",
+  "alsoKnownAs": [
+   "Zhongqiu Jie",
+   "Tết Trung Thu"
+  ],
+  "communities": [
+   "chinese",
+   "vietnamese"
+  ],
+  "briefLinks": [
+   {
+    "community": "chinese",
+    "title": "Chinese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
+   },
+   {
+    "community": "vietnamese",
+    "title": "Vietnamese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "Fifteenth day of the eighth month of the Chinese lunisolar calendar.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-09-25",
+    "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 8, day 15 (Mid-Autumn)"
+   },
+   {
+    "year": 2027,
+    "date": "2027-09-15",
+    "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 8, day 15 (Mid-Autumn)"
+   },
+   {
+    "year": 2028,
+    "date": "2028-10-03",
+    "source": "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 8, day 15 (Mid-Autumn)"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Harvest moon festival.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated from the Chinese lunisolar calendar (lunardate 0.3, tables for 1900-2099): lunar month 8, day 15 (Mid-Autumn)"
+  ]
+ },
+ {
+  "id": "black-april",
+  "name": "Black April",
+  "alsoKnownAs": [
+   "Ngày Quốc Hận",
+   "Fall of Saigon remembrance"
+  ],
+  "communities": [
+   "vietnamese"
+  ],
+  "briefLinks": [
+   {
+    "community": "vietnamese",
+    "title": "Vietnamese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese"
+   }
+  ],
+  "kind": "remembrance",
+  "dateRule": "April 30.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-30",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-04-30",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-30",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "April 30, 1975, the end of the Republic of Vietnam; grief and politics for many Vietnamese Americans.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "hùng-kings-commemoration",
+  "name": "Hùng Kings Commemoration",
+  "alsoKnownAs": [
+   "Giỗ Tổ Hùng Vương"
+  ],
+  "communities": [
+   "vietnamese"
+  ],
+  "briefLinks": [
+   {
+    "community": "vietnamese",
+    "title": "Vietnamese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "Tenth day of the third lunar month.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-26",
+    "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-04-16",
+    "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-04",
+    "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Commemoration of the legendary founding kings.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry"
+  ]
+ }
+]

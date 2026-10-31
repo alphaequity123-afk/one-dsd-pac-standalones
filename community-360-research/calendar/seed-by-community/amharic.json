@@ -1,0 +1,334 @@
+[
+ {
+  "id": "enkutatash",
+  "name": "Enkutatash",
+  "alsoKnownAs": [
+   "Ethiopian New Year",
+   "Meskerem 1"
+  ],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "Meskerem 1 on the Ethiopian calendar: September 11, or September 12 in the Gregorian year before a Gregorian leap year.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-09-11",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-09-12",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-09-11",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Start of the Ethiopian year.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "meskel",
+  "name": "Meskel",
+  "alsoKnownAs": [
+   "Finding of the True Cross",
+   "Demera"
+  ],
+  "communities": [
+   "ethiopian",
+   "amharic"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Meskerem 17 on the Ethiopian calendar: September 27, or September 28 in leap-adjacent years.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-09-27",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-09-28",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-09-27",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Ethiopian Orthodox feast of the finding of the True Cross.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "genna",
+  "name": "Genna",
+  "alsoKnownAs": [
+   "Ethiopian Christmas",
+   "Ledet"
+  ],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Tahsas 29 on the Ethiopian calendar, usually January 7.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-01-07",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-01-07",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-07",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Christmas in the Ethiopian Orthodox Tewahedo Church.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "timkat",
+  "name": "Timkat",
+  "alsoKnownAs": [
+   "Ethiopian Epiphany",
+   "Timket"
+  ],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Tir 11 on the Ethiopian calendar, usually January 19 (January 20 in some years).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-01-19",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-01-19",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-20",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+  ]
+ },
+ {
+  "id": "fasika",
+  "name": "Fasika",
+  "alsoKnownAs": [
+   "Ethiopian Easter"
+  ],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Same date as Eastern Orthodox Easter.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-12",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-02",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-16",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Easter in the Ethiopian Orthodox tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika"
+  ]
+ },
+ {
+  "id": "adwa-victory-day",
+  "name": "Adwa Victory Day",
+  "alsoKnownAs": [],
+  "communities": [
+   "ethiopian",
+   "amharic",
+   "oromo"
+  ],
+  "briefLinks": [
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "amharic",
+    "title": "Amharic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/amharic"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   }
+  ],
+  "kind": "national",
+  "dateRule": "March 2 (Yekatit 23).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-03-02",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-02",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   },
+   {
+    "year": 2028,
+    "date": "2028-03-02",
+    "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The 1896 Ethiopian victory at Adwa.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry"
+  ]
+ }
+]

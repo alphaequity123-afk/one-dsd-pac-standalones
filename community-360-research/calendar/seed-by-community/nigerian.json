@@ -1,0 +1,937 @@
+[
+ {
+  "id": "start-of-ramadan",
+  "name": "Start of Ramadan",
+  "alsoKnownAs": [
+   "Ramadan",
+   "Ramazan",
+   "Soomaan"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "bosnian",
+   "ethiopian",
+   "lebanese",
+   "nigerian",
+   "kenyan",
+   "indian",
+   "african-american"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "indian",
+    "title": "Indian (Asian Indian) Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-02-18",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-02-08",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-28",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "Start of the month of daytime fasting.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "eid-alfitr",
+  "name": "Eid al-Fitr",
+  "alsoKnownAs": [
+   "Ciid Yare",
+   "Ramazanski Bajram",
+   "Id el Fitr"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "bosnian",
+   "ethiopian",
+   "lebanese",
+   "nigerian",
+   "kenyan",
+   "indian",
+   "african-american"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "indian",
+    "title": "Indian (Asian Indian) Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-03-20",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-09",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-02-26",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "End of Ramadan.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "eid-aladha",
+  "name": "Eid al-Adha",
+  "alsoKnownAs": [
+   "Ciid Weyn",
+   "Kurban Bajram",
+   "Id el Kabir"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "bosnian",
+   "ethiopian",
+   "lebanese",
+   "nigerian",
+   "kenyan",
+   "indian",
+   "african-american"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "indian",
+    "title": "Indian (Asian Indian) Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-05-27",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-16",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-05",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "islamic-new-year",
+  "name": "Islamic New Year",
+  "alsoKnownAs": [
+   "Hijri New Year",
+   "Muharram"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "bosnian",
+   "lebanese",
+   "nigerian",
+   "kenyan",
+   "indian"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "indian",
+    "title": "Indian (Asian Indian) Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First day of the first Islamic month (Muharram).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-06-16",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-06-06",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-25",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "Start of the Hijri year.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "mawlid-annabi",
+  "name": "Mawlid an-Nabi",
+  "alsoKnownAs": [
+   "Mawlid",
+   "Mawliid"
+  ],
+  "communities": [
+   "somali",
+   "arabic-speaking",
+   "oromo",
+   "ethiopian",
+   "nigerian"
+  ],
+  "briefLinks": [
+   {
+    "community": "somali",
+    "title": "Somali Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/somali"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "oromo",
+    "title": "Oromo Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+   },
+   {
+    "community": "ethiopian",
+    "title": "Ethiopian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "Twelfth day of the third Islamic month (Rabi al-Awwal); not observed by all Muslims.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-08-25",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2027,
+    "date": "2027-08-14",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   },
+   {
+    "year": 2028,
+    "date": "2028-08-03",
+    "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+   }
+  ],
+  "dateCertainty": "moon-sighted or announced",
+  "whatItMarks": "Birthday of the Prophet Muhammad.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time."
+  ]
+ },
+ {
+  "id": "easter",
+  "name": "Easter",
+  "alsoKnownAs": [
+   "Pascua",
+   "Pâques",
+   "Pasko ng Pagkabuhay"
+  ],
+  "communities": [
+   "american",
+   "european-american",
+   "minnesota",
+   "filipino",
+   "mexican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "cuban",
+   "puerto-rican",
+   "french",
+   "african-american",
+   "liberian",
+   "nigerian",
+   "kenyan",
+   "lebanese",
+   "korean",
+   "karen",
+   "ukrainian"
+  ],
+  "briefLinks": [
+   {
+    "community": "american",
+    "title": "American culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+   },
+   {
+    "community": "european-american",
+    "title": "European American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+   },
+   {
+    "community": "minnesota",
+    "title": "Minnesota culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+   },
+   {
+    "community": "filipino",
+    "title": "Filipino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "french",
+    "title": "French-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "korean",
+    "title": "Korean Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+   },
+   {
+    "community": "karen",
+    "title": "Karen Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+   },
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-05",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-28",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-16",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+  ]
+ },
+ {
+  "id": "good-friday",
+  "name": "Good Friday",
+  "alsoKnownAs": [
+   "Viernes Santo",
+   "Biyernes Santo"
+  ],
+  "communities": [
+   "filipino",
+   "mexican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "puerto-rican",
+   "liberian",
+   "nigerian",
+   "kenyan",
+   "european-american"
+  ],
+  "briefLinks": [
+   {
+    "community": "filipino",
+    "title": "Filipino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "european-american",
+    "title": "European American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "The Friday before Western Easter.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-03",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-26",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-14",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "The crucifixion of Jesus.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday"
+  ]
+ },
+ {
+  "id": "nigerian-independence-day",
+  "name": "Nigerian Independence Day",
+  "alsoKnownAs": [],
+  "communities": [
+   "nigerian"
+  ],
+  "briefLinks": [
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   }
+  ],
+  "kind": "national",
+  "dateRule": "October 1.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-10-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-10-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-10-01",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "Independence in 1960.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "christmas",
+  "name": "Christmas",
+  "alsoKnownAs": [
+   "Navidad",
+   "Noël",
+   "Pasko"
+  ],
+  "communities": [
+   "american",
+   "european-american",
+   "minnesota",
+   "filipino",
+   "mexican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "cuban",
+   "puerto-rican",
+   "french",
+   "african-american",
+   "liberian",
+   "nigerian",
+   "kenyan",
+   "lebanese",
+   "korean",
+   "karen"
+  ],
+  "briefLinks": [
+   {
+    "community": "american",
+    "title": "American culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+   },
+   {
+    "community": "european-american",
+    "title": "European American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+   },
+   {
+    "community": "minnesota",
+    "title": "Minnesota culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+   },
+   {
+    "community": "filipino",
+    "title": "Filipino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "french",
+    "title": "French-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "korean",
+    "title": "Korean Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+   },
+   {
+    "community": "karen",
+    "title": "Karen Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "December 25.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-12-25",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-12-25",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-12-25",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ }
+]

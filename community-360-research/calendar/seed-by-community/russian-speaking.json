@@ -1,0 +1,224 @@
+[
+ {
+  "id": "orthodox-christmas-julian-calendar",
+  "name": "Orthodox Christmas (Julian calendar)",
+  "alsoKnownAs": [
+   "Rizdvo",
+   "Rozhdestvo",
+   "Božić (Pravoslavni)"
+  ],
+  "communities": [
+   "ukrainian",
+   "russian-speaking",
+   "bosnian"
+  ],
+  "briefLinks": [
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   },
+   {
+    "community": "russian-speaking",
+    "title": "Russian-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar in 1900-2099. Since 2023 the Orthodox Church of Ukraine also uses December 25 on the Revised Julian calendar.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2027-01-07",
+    "source": "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+   },
+   {
+    "year": 2027,
+    "date": "2028-01-07",
+    "source": "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+   },
+   {
+    "year": 2028,
+    "date": "2029-01-07",
+    "source": "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Christmas for churches on the Julian calendar.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: December 25 on the Julian calendar, 13 days after the same Gregorian date in 1900-2099"
+  ]
+ },
+ {
+  "id": "orthodox-easter",
+  "name": "Orthodox Easter",
+  "alsoKnownAs": [
+   "Pascha",
+   "Velykden",
+   "Paskha"
+  ],
+  "communities": [
+   "ukrainian",
+   "russian-speaking",
+   "bosnian",
+   "arabic-speaking",
+   "lebanese"
+  ],
+  "briefLinks": [
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   },
+   {
+    "community": "russian-speaking",
+    "title": "Russian-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+   },
+   {
+    "community": "bosnian",
+    "title": "Bosnian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/bosnian"
+   },
+   {
+    "community": "arabic-speaking",
+    "title": "Arabic-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/arabic-speaking"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-12",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-02",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-16",
+    "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Resurrection of Jesus in Eastern Christian tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Orthodox Easter"
+  ]
+ },
+ {
+  "id": "victory-day-may-9",
+  "name": "Victory Day (May 9)",
+  "alsoKnownAs": [
+   "Den Pobedy"
+  ],
+  "communities": [
+   "russian-speaking"
+  ],
+  "briefLinks": [
+   {
+    "community": "russian-speaking",
+    "title": "Russian-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+   }
+  ],
+  "kind": "remembrance",
+  "dateRule": "May 9.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-05-09",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-09",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-09",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The 1945 end of the Second World War in Europe in Soviet memory; meaningful to some elders and contested by others since 2022.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "new-year-novy-god",
+  "name": "New Year (Novy God)",
+  "alsoKnownAs": [
+   "Novy God"
+  ],
+  "communities": [
+   "russian-speaking",
+   "ukrainian"
+  ],
+  "briefLinks": [
+   {
+    "community": "russian-speaking",
+    "title": "Russian-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/russian-speaking"
+   },
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   }
+  ],
+  "kind": "cultural",
+  "dateRule": "January 1.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-01-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-01-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-01",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The major secular winter holiday from the Soviet era, still central for some families.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ }
+]

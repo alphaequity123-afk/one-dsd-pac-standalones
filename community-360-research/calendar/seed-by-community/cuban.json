@@ -1,0 +1,625 @@
+[
+ {
+  "id": "easter",
+  "name": "Easter",
+  "alsoKnownAs": [
+   "Pascua",
+   "Pâques",
+   "Pasko ng Pagkabuhay"
+  ],
+  "communities": [
+   "american",
+   "european-american",
+   "minnesota",
+   "filipino",
+   "mexican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "cuban",
+   "puerto-rican",
+   "french",
+   "african-american",
+   "liberian",
+   "nigerian",
+   "kenyan",
+   "lebanese",
+   "korean",
+   "karen",
+   "ukrainian"
+  ],
+  "briefLinks": [
+   {
+    "community": "american",
+    "title": "American culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+   },
+   {
+    "community": "european-american",
+    "title": "European American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+   },
+   {
+    "community": "minnesota",
+    "title": "Minnesota culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+   },
+   {
+    "community": "filipino",
+    "title": "Filipino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "french",
+    "title": "French-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "korean",
+    "title": "Korean Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+   },
+   {
+    "community": "karen",
+    "title": "Karen Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+   },
+   {
+    "community": "ukrainian",
+    "title": "Ukrainian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-04-05",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   },
+   {
+    "year": 2027,
+    "date": "2027-03-28",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   },
+   {
+    "year": 2028,
+    "date": "2028-04-16",
+    "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+   }
+  ],
+  "dateCertainty": "calculated",
+  "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter"
+  ]
+ },
+ {
+  "id": "christmas",
+  "name": "Christmas",
+  "alsoKnownAs": [
+   "Navidad",
+   "Noël",
+   "Pasko"
+  ],
+  "communities": [
+   "american",
+   "european-american",
+   "minnesota",
+   "filipino",
+   "mexican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "cuban",
+   "puerto-rican",
+   "french",
+   "african-american",
+   "liberian",
+   "nigerian",
+   "kenyan",
+   "lebanese",
+   "korean",
+   "karen"
+  ],
+  "briefLinks": [
+   {
+    "community": "american",
+    "title": "American culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american"
+   },
+   {
+    "community": "european-american",
+    "title": "European American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/european-american"
+   },
+   {
+    "community": "minnesota",
+    "title": "Minnesota culture",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+   },
+   {
+    "community": "filipino",
+    "title": "Filipino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "french",
+    "title": "French-speaking Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+   },
+   {
+    "community": "african-american",
+    "title": "African American Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american"
+   },
+   {
+    "community": "liberian",
+    "title": "Liberian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/liberian"
+   },
+   {
+    "community": "nigerian",
+    "title": "Nigerian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian"
+   },
+   {
+    "community": "kenyan",
+    "title": "Kenyan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan"
+   },
+   {
+    "community": "lebanese",
+    "title": "Lebanese Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+   },
+   {
+    "community": "korean",
+    "title": "Korean Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+   },
+   {
+    "community": "karen",
+    "title": "Karen Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "December 25.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-12-25",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-12-25",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-12-25",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "día-de-los-reyes",
+  "name": "Día de los Reyes",
+  "alsoKnownAs": [
+   "Three Kings Day",
+   "Epiphany"
+  ],
+  "communities": [
+   "mexican",
+   "puerto-rican",
+   "latino",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "cuban"
+  ],
+  "briefLinks": [
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   },
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   }
+  ],
+  "kind": "religious",
+  "dateRule": "January 6.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-01-06",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-01-06",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-06",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "cuban-revolution-exile-anniversary",
+  "name": "Cuban Revolution / exile anniversary",
+  "alsoKnownAs": [],
+  "communities": [
+   "cuban"
+  ],
+  "briefLinks": [
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   }
+  ],
+  "kind": "remembrance",
+  "dateRule": "January 1.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-01-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-01-01",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-01-01",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "January 1, 1959; revolution or exile depending on the family, and grief and politics for many.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "cuban-independence-may-20",
+  "name": "Cuban Independence (May 20)",
+  "alsoKnownAs": [],
+  "communities": [
+   "cuban"
+  ],
+  "briefLinks": [
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   }
+  ],
+  "kind": "national",
+  "dateRule": "May 20.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-05-20",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-05-20",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-05-20",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The 1902 republic; kept in some exile calendars.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "grito-de-yara-october-10",
+  "name": "Grito de Yara (October 10)",
+  "alsoKnownAs": [],
+  "communities": [
+   "cuban"
+  ],
+  "briefLinks": [
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   }
+  ],
+  "kind": "national",
+  "dateRule": "October 10.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-10-10",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-10-10",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-10-10",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "The 1868 start of the wars of independence.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ },
+ {
+  "id": "hispanic-heritage-month-begins",
+  "name": "Hispanic Heritage Month (begins)",
+  "alsoKnownAs": [],
+  "communities": [
+   "latino",
+   "mexican",
+   "guatemalan",
+   "salvadoran",
+   "colombian",
+   "ecuadorian",
+   "cuban",
+   "puerto-rican"
+  ],
+  "briefLinks": [
+   {
+    "community": "latino",
+    "title": "Latino Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino"
+   },
+   {
+    "community": "mexican",
+    "title": "Mexican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican"
+   },
+   {
+    "community": "guatemalan",
+    "title": "Guatemalan Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan"
+   },
+   {
+    "community": "salvadoran",
+    "title": "Salvadoran Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/salvadoran"
+   },
+   {
+    "community": "colombian",
+    "title": "Colombian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian"
+   },
+   {
+    "community": "ecuadorian",
+    "title": "Ecuadorian Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+   },
+   {
+    "community": "cuban",
+    "title": "Cuban Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban"
+   },
+   {
+    "community": "puerto-rican",
+    "title": "Puerto Rican Minnesota",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+   }
+  ],
+  "kind": "heritage",
+  "dateRule": "September 15.",
+  "dates": [
+   {
+    "year": 2026,
+    "date": "2026-09-15",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2027,
+    "date": "2027-09-15",
+    "source": "Fixed Gregorian date"
+   },
+   {
+    "year": 2028,
+    "date": "2028-09-15",
+    "source": "Fixed Gregorian date"
+   }
+  ],
+  "dateCertainty": "fixed",
+  "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
+  "howCelebratedInMinnesota": null,
+  "minnesotaEvents": [],
+  "workplaceNote": null,
+  "sources": [
+   "Fixed Gregorian date"
+  ]
+ }
+]
