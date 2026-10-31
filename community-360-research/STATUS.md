@@ -15,7 +15,7 @@
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): guatemalan, salvadoran, cuban, puerto-rican, french, deaf-deafblind-hard-of-hearing now running. The rest of the 28 are listed under Not started.
+- In the cloud session (started October 31, 2026): guatemalan, salvadoran, cuban, puerto-rican, french, deaf-deafblind-hard-of-hearing, minnesota now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -25,7 +25,7 @@ ethiopian, oromo, vietnamese, indian and rural are finished, and nothing is stil
 
 ## Not started
 
-american, european-american, minnesota.
+american, european-american.
 
 ## Still to do on the calendar
 
