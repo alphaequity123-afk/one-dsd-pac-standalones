@@ -1,0 +1,5406 @@
+{
+ "pagesCrawled": 600,
+ "cap": 600,
+ "status": {
+  "200": 492,
+  "None": 57,
+  "404": 51
+ },
+ "pages": [
+  {
+   "path": "/home",
+   "status": 200,
+   "ms": 3967,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/site-map",
+   "status": 200,
+   "ms": 2988,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/",
+   "status": 200,
+   "ms": 3003,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities",
+   "status": 200,
+   "ms": 3077,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/my-work",
+   "status": 200,
+   "ms": 3281,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/start",
+   "status": 200,
+   "ms": 3055,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn",
+   "status": 200,
+   "ms": 3550,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice",
+   "status": 200,
+   "ms": 3540,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/support",
+   "status": 200,
+   "ms": 3059,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd",
+   "status": 200,
+   "ms": 2954,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/cultural-intelligence",
+   "status": 200,
+   "ms": 4234,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs",
+   "status": 200,
+   "ms": 3166,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/operationalizing-equity",
+   "status": 200,
+   "ms": 3040,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/collaboration",
+   "status": 200,
+   "ms": 3217,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library",
+   "status": 200,
+   "ms": 3263,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/equity-toolkit",
+   "status": 200,
+   "ms": 3068,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/equity-review",
+   "status": 200,
+   "ms": 2962,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-3",
+   "status": 200,
+   "ms": 2986,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/support/right-person",
+   "status": 200,
+   "ms": 2984,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/ask",
+   "status": 200,
+   "ms": 3012,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/team",
+   "status": 200,
+   "ms": 2978,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/user-guide",
+   "status": 200,
+   "ms": 3130,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/equity-in-practice",
+   "status": 200,
+   "ms": 3311,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/amplify",
+   "status": 200,
+   "ms": 3001,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/planning",
+   "status": 200,
+   "ms": 2953,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program/model",
+   "status": 200,
+   "ms": 3510,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program-foundation",
+   "status": 200,
+   "ms": 3066,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/equity-policy",
+   "status": 200,
+   "ms": 2969,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program/impact",
+   "status": 200,
+   "ms": 2971,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/about",
+   "status": 200,
+   "ms": 2945,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/administrations",
+   "status": 200,
+   "ms": 2972,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses",
+   "status": 200,
+   "ms": 3200,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas",
+   "status": 200,
+   "ms": 3270,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed",
+   "status": 200,
+   "ms": 2832,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F01.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/equity-toolkit/goals",
+   "status": 200,
+   "ms": 3017,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/requirements",
+   "status": 200,
+   "ms": 2969,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/clas",
+   "status": 200,
+   "ms": 2961,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/measurement",
+   "status": 200,
+   "ms": 3120,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice-guides/inclusive-meetings",
+   "status": 200,
+   "ms": 3231,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/administrations/adsa",
+   "status": 200,
+   "ms": 2986,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/administrations/adsa/divisions/dsd",
+   "status": 200,
+   "ms": 2974,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program/what-informs",
+   "status": 200,
+   "ms": 2839,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/contribute",
+   "status": 200,
+   "ms": 3049,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/community-briefs/transcript.txt",
+   "status": 200,
+   "ms": 2746,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/community-briefs/captions.vtt",
+   "status": 200,
+   "ms": 3156,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/african-american",
+   "status": 200,
+   "ms": 3581,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/latino",
+   "status": 200,
+   "ms": 2914,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/hmong",
+   "status": 200,
+   "ms": 2929,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/somali",
+   "status": 200,
+   "ms": 2867,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/karen",
+   "status": 200,
+   "ms": 2938,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/oromo",
+   "status": 200,
+   "ms": 2906,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/vietnamese",
+   "status": 200,
+   "ms": 2895,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/khmer",
+   "status": 200,
+   "ms": 2890,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/lao",
+   "status": 200,
+   "ms": 2907,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/arabic-speaking",
+   "status": 200,
+   "ms": 2894,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/american",
+   "status": 200,
+   "ms": 2907,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/minnesota",
+   "status": 200,
+   "ms": 2942,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/european-american",
+   "status": 200,
+   "ms": 2900,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/tribal-nations",
+   "status": 200,
+   "ms": 2887,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/alaska-native",
+   "status": 200,
+   "ms": 2858,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/amharic",
+   "status": 200,
+   "ms": 2948,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/bosnian",
+   "status": 200,
+   "ms": 2935,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/burmese",
+   "status": 200,
+   "ms": 2866,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/chinese",
+   "status": 200,
+   "ms": 2946,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/colombian",
+   "status": 200,
+   "ms": 2939,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/cuban",
+   "status": 200,
+   "ms": 2913,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/deaf-deafblind-hard-of-hearing",
+   "status": 200,
+   "ms": 2917,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/ecuadorian",
+   "status": 200,
+   "ms": 2862,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/ethiopian",
+   "status": 200,
+   "ms": 2905,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/filipino",
+   "status": 200,
+   "ms": 2937,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/french",
+   "status": 200,
+   "ms": 2926,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/guatemalan",
+   "status": 200,
+   "ms": 2938,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/indian",
+   "status": 200,
+   "ms": 2908,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/japanese",
+   "status": 200,
+   "ms": 2922,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/kenyan",
+   "status": 200,
+   "ms": 2910,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/korean",
+   "status": 200,
+   "ms": 2910,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/lebanese",
+   "status": 200,
+   "ms": 2891,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/liberian",
+   "status": 200,
+   "ms": 2908,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/mexican",
+   "status": 200,
+   "ms": 2905,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/native-american",
+   "status": 200,
+   "ms": 2835,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/nigerian",
+   "status": 200,
+   "ms": 2913,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/puerto-rican",
+   "status": 200,
+   "ms": 2887,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/rural",
+   "status": 200,
+   "ms": 2897,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/russian-speaking",
+   "status": 200,
+   "ms": 2896,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/salvadoran",
+   "status": 200,
+   "ms": 3146,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/thai",
+   "status": 200,
+   "ms": 2902,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/minnesota-communities/ukrainian",
+   "status": 200,
+   "ms": 2945,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program/resources",
+   "status": 200,
+   "ms": 2867,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/my-work/plan",
+   "status": 200,
+   "ms": 2958,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/learning-journey/transcript.txt",
+   "status": 200,
+   "ms": 2745,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/learning-journey/captions.vtt",
+   "status": 200,
+   "ms": 2845,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program/reflection",
+   "status": 200,
+   "ms": 2956,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/equity-framework",
+   "status": 200,
+   "ms": 2956,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-framework/framework?format=docx&view=one_dsd",
+   "status": null,
+   "ms": 293,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-framework/framework?format=xlsx&view=one_dsd",
+   "status": null,
+   "ms": 252,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-framework/framework?format=pptx&view=one_dsd",
+   "status": null,
+   "ms": 253,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-framework/framework?format=pdf&view=one_dsd",
+   "status": null,
+   "ms": 291,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-framework/framework?format=html&view=one_dsd",
+   "status": null,
+   "ms": 211,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-framework/framework?format=txt&view=one_dsd",
+   "status": null,
+   "ms": 220,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=docx&view=one_dsd",
+   "status": null,
+   "ms": 206,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=xlsx&view=one_dsd",
+   "status": null,
+   "ms": 204,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=pptx&view=one_dsd",
+   "status": null,
+   "ms": 207,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=pdf&view=one_dsd",
+   "status": null,
+   "ms": 202,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=html&view=one_dsd",
+   "status": null,
+   "ms": 201,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=txt&view=one_dsd",
+   "status": null,
+   "ms": 204,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/measurement/worksheet?format=docx&view=one_dsd",
+   "status": null,
+   "ms": 506,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/measurement/worksheet?format=xlsx&view=one_dsd",
+   "status": null,
+   "ms": 525,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/measurement/worksheet?format=pptx&view=one_dsd",
+   "status": null,
+   "ms": 515,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/measurement/worksheet?format=pdf&view=one_dsd",
+   "status": null,
+   "ms": 891,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/measurement/worksheet?format=html&view=one_dsd",
+   "status": null,
+   "ms": 496,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/measurement/worksheet?format=txt&view=one_dsd",
+   "status": null,
+   "ms": 462,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/support/directory",
+   "status": 200,
+   "ms": 2982,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/support-directory/dhs?format=docx&view=one_dsd",
+   "status": null,
+   "ms": 317,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/support-directory/dhs?format=xlsx&view=one_dsd",
+   "status": null,
+   "ms": 209,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/support-directory/dhs?format=pptx&view=one_dsd",
+   "status": null,
+   "ms": 196,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/support-directory/dhs?format=pdf&view=one_dsd",
+   "status": null,
+   "ms": 206,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/support-directory/dhs?format=html&view=one_dsd",
+   "status": null,
+   "ms": 196,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/support-directory/dhs?format=txt&view=one_dsd",
+   "status": null,
+   "ms": 198,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/paths",
+   "status": 200,
+   "ms": 2959,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/intercultural",
+   "status": 200,
+   "ms": 4406,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/understanding-dhs",
+   "status": 200,
+   "ms": 2975,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/employee-resource-groups",
+   "status": 200,
+   "ms": 2976,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program/plan",
+   "status": 200,
+   "ms": 2844,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/readings/pathways",
+   "status": 200,
+   "ms": 3065,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-11",
+   "status": 200,
+   "ms": 2841,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/audio-library",
+   "status": 200,
+   "ms": 3205,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/sources",
+   "status": 200,
+   "ms": 3313,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn?browse=all",
+   "status": 200,
+   "ms": 3702,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?browse=all",
+   "status": 200,
+   "ms": 3355,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=F21",
+   "status": 200,
+   "ms": 3222,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F21.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=F02",
+   "status": 200,
+   "ms": 3244,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F02.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=F05",
+   "status": 200,
+   "ms": 3249,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F05.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=F09",
+   "status": 200,
+   "ms": 3407,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F09.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=F10",
+   "status": 200,
+   "ms": 3282,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F10.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=F15",
+   "status": 200,
+   "ms": 3225,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F15.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=I09",
+   "status": 200,
+   "ms": 3207,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I09.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=I10",
+   "status": 200,
+   "ms": 3181,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I10.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=I21",
+   "status": 200,
+   "ms": 3237,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I21.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=I15",
+   "status": 200,
+   "ms": 3191,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I15.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=I17",
+   "status": 200,
+   "ms": 3200,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I17.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=I06",
+   "status": 200,
+   "ms": 3204,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I06.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=A09",
+   "status": 200,
+   "ms": 3231,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-A09.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=A20",
+   "status": 200,
+   "ms": 3235,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-A20.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=A21",
+   "status": 200,
+   "ms": 3236,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-A21.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/core-fifteen/transcript.txt",
+   "status": 200,
+   "ms": 3009,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/core-fifteen/captions.vtt",
+   "status": 200,
+   "ms": 2748,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?curriculum=policy",
+   "status": 200,
+   "ms": 2888,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F21.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/emotions-and-values",
+   "status": 200,
+   "ms": 3471,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/clas",
+   "status": 200,
+   "ms": 3863,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/diversity",
+   "status": 200,
+   "ms": 3187,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn?theme=identity",
+   "status": 200,
+   "ms": 3810,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn?theme=access",
+   "status": 200,
+   "ms": 3375,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn?theme=disability",
+   "status": 200,
+   "ms": 3309,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn?theme=policy",
+   "status": 200,
+   "ms": 3306,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn?theme=workforce",
+   "status": 200,
+   "ms": 3397,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn?theme=partnership",
+   "status": 200,
+   "ms": 3317,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn?theme=leadership",
+   "status": 200,
+   "ms": 3469,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn?theme=evidence",
+   "status": 200,
+   "ms": 3269,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/lm-how-this-program-works",
+   "status": 200,
+   "ms": 3223,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program/practice",
+   "status": 200,
+   "ms": 3098,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-12",
+   "status": 200,
+   "ms": 3364,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-7",
+   "status": 200,
+   "ms": 4336,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/equity-toolkit/practice",
+   "status": 200,
+   "ms": 4979,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/decision-depth/transcript.txt",
+   "status": 200,
+   "ms": 5578,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/decision-depth/captions.vtt",
+   "status": 200,
+   "ms": 3167,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-1",
+   "status": 200,
+   "ms": 2909,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-10",
+   "status": 200,
+   "ms": 5025,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-2",
+   "status": 200,
+   "ms": 2823,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-6",
+   "status": 200,
+   "ms": 3621,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-8",
+   "status": 200,
+   "ms": 3036,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-5",
+   "status": 200,
+   "ms": 3459,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-9",
+   "status": 200,
+   "ms": 6420,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-13",
+   "status": 200,
+   "ms": 2873,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/gp-4",
+   "status": 200,
+   "ms": 3415,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice/measurement?area=measurement&task=evaluation-plan",
+   "status": 200,
+   "ms": 7037,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program/progress",
+   "status": 200,
+   "ms": 3106,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/right-person/transcript.txt",
+   "status": 200,
+   "ms": 5005,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/right-person/captions.vtt",
+   "status": 200,
+   "ms": 4957,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/hcbs-policy",
+   "status": 200,
+   "ms": 4860,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/mnchoices-access",
+   "status": 200,
+   "ms": 6077,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/support-planning",
+   "status": 200,
+   "ms": 8666,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/positive-supports",
+   "status": 200,
+   "ms": 9597,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/olmstead",
+   "status": 200,
+   "ms": 3909,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/employment",
+   "status": 200,
+   "ms": 3322,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/eidbi-children",
+   "status": 200,
+   "ms": 5138,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/tbi-guardianship",
+   "status": 200,
+   "ms": 5088,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/contracts-fiscal",
+   "status": 200,
+   "ms": 3784,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/data-quality",
+   "status": 200,
+   "ms": 5736,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/communications-training",
+   "status": 200,
+   "ms": 3560,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/programs/leadership-strategy",
+   "status": 200,
+   "ms": 6872,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-hiring-panel",
+   "status": 200,
+   "ms": 3801,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-advancement-conversation",
+   "status": 200,
+   "ms": 3219,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-accommodation-cliff",
+   "status": 200,
+   "ms": 3278,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-policy-change",
+   "status": 200,
+   "ms": 3482,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-service-redesign",
+   "status": 200,
+   "ms": 3209,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-engagement-late",
+   "status": 200,
+   "ms": 3243,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-report-back",
+   "status": 200,
+   "ms": 3091,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-accessible-form",
+   "status": 200,
+   "ms": 2955,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-interpreter-first-contact",
+   "status": 200,
+   "ms": 3058,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-team-silence",
+   "status": 200,
+   "ms": 3432,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-repair-after-harm",
+   "status": 200,
+   "ms": 3043,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-leadership-bottleneck",
+   "status": 200,
+   "ms": 2999,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/scenarios/dsd-small-group-data",
+   "status": 200,
+   "ms": 3007,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-i21-cultural-intelligence-cq-in-depth",
+   "status": 200,
+   "ms": 3051,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-i21-cultural-intelligence-cq-in-depth.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-i22-cq-drive-motivation-across-cultures",
+   "status": 200,
+   "ms": 2873,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-i22-cq-drive-motivation-across-cultures.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-i23-cq-knowledge-understanding-cultural-systems",
+   "status": 200,
+   "ms": 2839,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-i23-cq-knowledge-understanding-cultural-systems.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-i24-cq-strategy-planning-for-cross-cultural-interact",
+   "status": 200,
+   "ms": 2878,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-i24-cq-strategy-planning-for-cross-cultural-interact.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-i25-cq-action-adapting-behavior",
+   "status": 200,
+   "ms": 2836,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-i25-cq-action-adapting-behavior.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-i41-using-cultural-frameworks-responsibly",
+   "status": 200,
+   "ms": 2856,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-i41-using-cultural-frameworks-responsibly.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/community-connections",
+   "status": 200,
+   "ms": 2968,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ja-access-checks",
+   "status": 200,
+   "ms": 3118,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/ipe-04-person-centered-systems",
+   "status": 200,
+   "ms": 2854,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/ipe-04-person-centered-systems.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/lm-disability-rights-and-service-delivery",
+   "status": 200,
+   "ms": 3426,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/tool-idi",
+   "status": 200,
+   "ms": 3061,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/tool-lifecourse",
+   "status": 200,
+   "ms": 3061,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/intercultural/curriculum",
+   "status": 200,
+   "ms": 3009,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-american",
+   "status": 200,
+   "ms": 2867,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-american.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-minnesota",
+   "status": 200,
+   "ms": 2859,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-minnesota.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-african-american",
+   "status": 200,
+   "ms": 2867,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-african-american.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-somali",
+   "status": 200,
+   "ms": 2876,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-somali.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-hmong",
+   "status": 200,
+   "ms": 2842,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-hmong.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-amharic",
+   "status": 200,
+   "ms": 2848,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-amharic.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-arabic",
+   "status": 200,
+   "ms": 2862,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-arabic.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-bosnian",
+   "status": 200,
+   "ms": 2859,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-bosnian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-burmese",
+   "status": 200,
+   "ms": 2843,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-burmese.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-cambodian",
+   "status": 200,
+   "ms": 2860,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-cambodian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-chinese",
+   "status": 200,
+   "ms": 2866,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-chinese.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-colombian",
+   "status": 200,
+   "ms": 2915,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-colombian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-cuban",
+   "status": 200,
+   "ms": 2871,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-cuban.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-ecuadorian",
+   "status": 200,
+   "ms": 2837,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-ecuadorian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-ethiopian",
+   "status": 200,
+   "ms": 2847,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-ethiopian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-filipino",
+   "status": 200,
+   "ms": 2837,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-filipino.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-french",
+   "status": 200,
+   "ms": 2836,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-french.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-guatemalan",
+   "status": 200,
+   "ms": 2860,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-guatemalan.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-indian",
+   "status": 200,
+   "ms": 2877,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-indian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-japanese",
+   "status": 200,
+   "ms": 2850,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-japanese.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-karen",
+   "status": 200,
+   "ms": 2841,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-karen.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-kenyan",
+   "status": 200,
+   "ms": 2851,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-kenyan.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-korean",
+   "status": 200,
+   "ms": 2852,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-korean.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-lao",
+   "status": 200,
+   "ms": 2852,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-lao.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-latino",
+   "status": 200,
+   "ms": 2849,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-latino.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-lebanese",
+   "status": 200,
+   "ms": 2849,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-lebanese.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-liberian",
+   "status": 200,
+   "ms": 2846,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-liberian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-mexican",
+   "status": 200,
+   "ms": 2862,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-mexican.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-nigerian",
+   "status": 200,
+   "ms": 2854,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-nigerian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-oromo",
+   "status": 200,
+   "ms": 2873,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-oromo.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-puerto-rican",
+   "status": 200,
+   "ms": 2853,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-puerto-rican.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-russian",
+   "status": 200,
+   "ms": 2838,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-russian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-salvadoran",
+   "status": 200,
+   "ms": 2847,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-salvadoran.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-thai",
+   "status": 200,
+   "ms": 2853,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-thai.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-ukrainian",
+   "status": 200,
+   "ms": 2858,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-ukrainian.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-vietnamese",
+   "status": 200,
+   "ms": 2957,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-vietnamese.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-rural",
+   "status": 200,
+   "ms": 2852,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-rural.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-intelligence-european-american",
+   "status": 200,
+   "ms": 2878,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-intelligence-european-american.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-l82-cultural-intelligence-cq-for-leaders",
+   "status": 200,
+   "ms": 2874,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-l82-cultural-intelligence-cq-for-leaders.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-i30-culturally-intelligent-leadership",
+   "status": 200,
+   "ms": 2859,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-i30-culturally-intelligent-leadership.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/policy-program-service",
+   "status": 200,
+   "ms": 3020,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/leadership-systems",
+   "status": 200,
+   "ms": 3028,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/workforce",
+   "status": 200,
+   "ms": 3030,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/culture-trust",
+   "status": 200,
+   "ms": 3037,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/leadership",
+   "status": 200,
+   "ms": 3246,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=docx",
+   "status": null,
+   "ms": 232,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=xlsx",
+   "status": null,
+   "ms": 231,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=pptx",
+   "status": null,
+   "ms": 212,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=pdf",
+   "status": null,
+   "ms": 221,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=html",
+   "status": null,
+   "ms": 206,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/operationalizing-equity/program?format=txt",
+   "status": null,
+   "ms": 211,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/leadership?stage=develop",
+   "status": 200,
+   "ms": 3070,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/collaboration?focus=teams",
+   "status": 200,
+   "ms": 3078,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/collaboration?focus=cross-unit",
+   "status": 200,
+   "ms": 3076,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/collaboration?focus=partners",
+   "status": 200,
+   "ms": 3065,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/collaboration?level=foundation",
+   "status": 200,
+   "ms": 3047,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/collaboration?level=intermediate",
+   "status": 200,
+   "ms": 3070,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/collaboration?level=advanced",
+   "status": 200,
+   "ms": 3050,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t1-what-makes-a-dsd-team-inclusive",
+   "status": 200,
+   "ms": 2855,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t1-what-makes-a-dsd-team-inclusive.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t2-culture-is-what-we-do-every-day",
+   "status": 200,
+   "ms": 2863,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t2-culture-is-what-we-do-every-day.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t3-belonging-at-work-what-it-is-and-why-it-matters",
+   "status": 200,
+   "ms": 2848,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t3-belonging-at-work-what-it-is-and-why-it-matters.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t4-respectful-workplace-policy-in-team-life",
+   "status": 200,
+   "ms": 2884,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t4-respectful-workplace-policy-in-team-life.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t5-naming-your-team-s-unwritten-rules",
+   "status": 200,
+   "ms": 2875,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t5-naming-your-team-s-unwritten-rules.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t6-team-values-that-guide-real-decisions",
+   "status": 200,
+   "ms": 2846,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t6-team-values-that-guide-real-decisions.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t7-everyone-shapes-culture-not-just-leaders",
+   "status": 200,
+   "ms": 2861,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t7-everyone-shapes-culture-not-just-leaders.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t8-leaders-as-culture-carriers",
+   "status": 200,
+   "ms": 2890,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t8-leaders-as-culture-carriers.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t9-assessing-your-team-s-culture",
+   "status": 200,
+   "ms": 2899,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t9-assessing-your-team-s-culture.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t10-connecting-team-culture-to-the-people-dsd-serves",
+   "status": 200,
+   "ms": 2874,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t10-connecting-team-culture-to-the-people-dsd-serves.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t11-building-trust-on-a-team",
+   "status": 200,
+   "ms": 2856,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t11-building-trust-on-a-team.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t12-psychological-safety-for-team-members",
+   "status": 200,
+   "ms": 2871,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t12-psychological-safety-for-team-members.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t13-creating-psychological-safety-as-a-leader",
+   "status": 200,
+   "ms": 2862,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t13-creating-psychological-safety-as-a-leader.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t14-welcoming-new-team-members",
+   "status": 200,
+   "ms": 2855,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t14-welcoming-new-team-members.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t15-including-quieter-voices",
+   "status": 200,
+   "ms": 2852,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t15-including-quieter-voices.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t16-belonging-for-employees-with-disabilities",
+   "status": 200,
+   "ms": 2859,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t16-belonging-for-employees-with-disabilities.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t17-belonging-across-race-culture-and-language",
+   "status": 200,
+   "ms": 2882,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t17-belonging-across-race-culture-and-language.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t18-being-the-only-one-on-a-team",
+   "status": 200,
+   "ms": 2852,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t18-being-the-only-one-on-a-team.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t19-rebuilding-trust-after-a-setback",
+   "status": 200,
+   "ms": 2847,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t19-rebuilding-trust-after-a-setback.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t20-trust-during-uncertainty-and-change",
+   "status": 200,
+   "ms": 2869,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t20-trust-during-uncertainty-and-change.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t21-how-teams-form-and-grow",
+   "status": 200,
+   "ms": 2869,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t21-how-teams-form-and-grow.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t22-launching-a-new-team-or-workgroup",
+   "status": 200,
+   "ms": 2879,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t22-launching-a-new-team-or-workgroup.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t23-writing-a-team-agreement",
+   "status": 200,
+   "ms": 2845,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t23-writing-a-team-agreement.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t24-clarifying-roles-and-responsibilities",
+   "status": 200,
+   "ms": 2865,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t24-clarifying-roles-and-responsibilities.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t25-fair-distribution-of-work",
+   "status": 200,
+   "ms": 2869,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t25-fair-distribution-of-work.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t26-recognizing-hidden-and-invisible-work",
+   "status": 200,
+   "ms": 2873,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t26-recognizing-hidden-and-invisible-work.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t27-strengths-based-teams",
+   "status": 200,
+   "ms": 2864,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t27-strengths-based-teams.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t28-inclusive-goal-setting",
+   "status": 200,
+   "ms": 2854,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t28-inclusive-goal-setting.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t29-team-charters-for-cross-unit-projects",
+   "status": 200,
+   "ms": 2876,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t29-team-charters-for-cross-unit-projects.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t30-closing-out-a-project-well",
+   "status": 200,
+   "ms": 2853,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t30-closing-out-a-project-well.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t31-communication-styles-at-work",
+   "status": 200,
+   "ms": 2867,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t31-communication-styles-at-work.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t32-listening-to-understand",
+   "status": 200,
+   "ms": 2865,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t32-listening-to-understand.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t33-cultural-differences-in-team-communication",
+   "status": 200,
+   "ms": 2849,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t33-cultural-differences-in-team-communication.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t34-clear-and-kind-written-communication",
+   "status": 200,
+   "ms": 2854,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t34-clear-and-kind-written-communication.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t35-tone-in-digital-messages",
+   "status": 200,
+   "ms": 2884,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t35-tone-in-digital-messages.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t36-communicating-with-colleagues-who-use-english-as",
+   "status": 200,
+   "ms": 2845,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t36-communicating-with-colleagues-who-use-english-as.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t37-accessible-team-communication",
+   "status": 200,
+   "ms": 2853,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t37-accessible-team-communication.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t38-checking-assumptions-before-you-react",
+   "status": 200,
+   "ms": 2855,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t38-checking-assumptions-before-you-react.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t39-sharing-difficult-news-with-a-team",
+   "status": 200,
+   "ms": 2860,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t39-sharing-difficult-news-with-a-team.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t40-asking-for-and-offering-help",
+   "status": 200,
+   "ms": 2855,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t40-asking-for-and-offering-help.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t41-planning-inclusive-meetings",
+   "status": 200,
+   "ms": 2870,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t41-planning-inclusive-meetings.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t42-facilitating-meetings-where-everyone-contributes",
+   "status": 200,
+   "ms": 2858,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t42-facilitating-meetings-where-everyone-contributes.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t43-accessible-meetings-for-all-abilities",
+   "status": 200,
+   "ms": 2905,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t43-accessible-meetings-for-all-abilities.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t44-rotating-meeting-roles",
+   "status": 200,
+   "ms": 2843,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t44-rotating-meeting-roles.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t45-making-decisions-together",
+   "status": 200,
+   "ms": 2868,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t45-making-decisions-together.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t46-being-clear-about-how-a-decision-will-be-made",
+   "status": 200,
+   "ms": 2851,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t46-being-clear-about-how-a-decision-will-be-made.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t47-disagreeing-well-in-meetings",
+   "status": 200,
+   "ms": 2872,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t47-disagreeing-well-in-meetings.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t48-avoiding-groupthink",
+   "status": 200,
+   "ms": 2856,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t48-avoiding-groupthink.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t49-following-up-so-meetings-lead-to-action",
+   "status": 200,
+   "ms": 3171,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t49-following-up-so-meetings-lead-to-action.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t50-fewer-better-meetings",
+   "status": 200,
+   "ms": 2860,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t50-fewer-better-meetings.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t51-working-well-on-a-hybrid-team",
+   "status": 200,
+   "ms": 2882,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t51-working-well-on-a-hybrid-team.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t52-telework-at-the-state-of-minnesota",
+   "status": 200,
+   "ms": 2906,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t52-telework-at-the-state-of-minnesota.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t53-leading-hybrid-teams-fairly",
+   "status": 200,
+   "ms": 2845,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t53-leading-hybrid-teams-fairly.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t54-hybrid-meeting-practices",
+   "status": 200,
+   "ms": 2860,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t54-hybrid-meeting-practices.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t55-building-connection-on-a-hybrid-team",
+   "status": 200,
+   "ms": 2905,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t55-building-connection-on-a-hybrid-team.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t56-team-norms-for-chat-email-and-response-times",
+   "status": 200,
+   "ms": 2898,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t56-team-norms-for-chat-email-and-response-times.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t57-onboarding-new-employees-on-hybrid-teams",
+   "status": 200,
+   "ms": 2858,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t57-onboarding-new-employees-on-hybrid-teams.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t58-visibility-and-fairness-in-hybrid-work",
+   "status": 200,
+   "ms": 2869,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t58-visibility-and-fairness-in-hybrid-work.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t59-accessibility-in-microsoft-teams",
+   "status": 200,
+   "ms": 2865,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t59-accessibility-in-microsoft-teams.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t60-respecting-boundaries-and-time",
+   "status": 200,
+   "ms": 2872,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t60-respecting-boundaries-and-time.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t61-healthy-conflict-on-teams",
+   "status": 200,
+   "ms": 2855,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t61-healthy-conflict-on-teams.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t62-early-conversations-before-conflict-grows",
+   "status": 200,
+   "ms": 2867,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t62-early-conversations-before-conflict-grows.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t63-peer-to-peer-feedback",
+   "status": 200,
+   "ms": 2875,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t63-peer-to-peer-feedback.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t64-feedback-across-power-differences",
+   "status": 200,
+   "ms": 2874,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t64-feedback-across-power-differences.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t65-separating-intent-and-impact",
+   "status": 200,
+   "ms": 2854,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t65-separating-intent-and-impact.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t66-supporting-a-team-after-a-harmful-incident",
+   "status": 200,
+   "ms": 2899,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t66-supporting-a-team-after-a-harmful-incident.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t67-team-repair-conversations",
+   "status": 200,
+   "ms": 2918,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t67-team-repair-conversations.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t68-when-to-seek-outside-help",
+   "status": 200,
+   "ms": 2854,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t68-when-to-seek-outside-help.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t69-conflict-between-teams-and-units",
+   "status": 200,
+   "ms": 2885,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t69-conflict-between-teams-and-units.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t70-gossip-cliques-and-exclusion",
+   "status": 200,
+   "ms": 2892,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t70-gossip-cliques-and-exclusion.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t91-recognition-that-is-fair-and-meaningful",
+   "status": 200,
+   "ms": 2862,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t91-recognition-that-is-fair-and-meaningful.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t92-celebrating-cultural-and-heritage-observances-re",
+   "status": 200,
+   "ms": 2863,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t92-celebrating-cultural-and-heritage-observances-re.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t93-employee-resource-groups-at-the-state-of-minneso",
+   "status": 200,
+   "ms": 2857,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t93-employee-resource-groups-at-the-state-of-minneso.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t94-mentoring-and-peer-learning",
+   "status": 200,
+   "ms": 2863,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t94-mentoring-and-peer-learning.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t95-career-growth-conversations",
+   "status": 200,
+   "ms": 2898,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t95-career-growth-conversations.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t96-team-wellbeing-and-sustainable-workloads",
+   "status": 200,
+   "ms": 2881,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t96-team-wellbeing-and-sustainable-workloads.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t97-supporting-each-other-through-hard-work",
+   "status": 200,
+   "ms": 2834,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t97-supporting-each-other-through-hard-work.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t98-using-engagement-survey-results-with-your-team",
+   "status": 200,
+   "ms": 2834,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t98-using-engagement-survey-results-with-your-team.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t99-measuring-team-culture-over-time",
+   "status": 200,
+   "ms": 2972,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t99-measuring-team-culture-over-time.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t100-keeping-culture-strong-through-turnover-and-chan",
+   "status": 200,
+   "ms": 2863,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t100-keeping-culture-strong-through-turnover-and-chan.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t71-how-dsd-is-organized-and-how-the-work-connects",
+   "status": 200,
+   "ms": 2909,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t71-how-dsd-is-organized-and-how-the-work-connects.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t72-dsd-within-adsa",
+   "status": 200,
+   "ms": 2851,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t72-dsd-within-adsa.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t73-breaking-down-silos",
+   "status": 200,
+   "ms": 2869,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t73-breaking-down-silos.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t74-shared-ownership-of-cross-unit-work",
+   "status": 200,
+   "ms": 2879,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t74-shared-ownership-of-cross-unit-work.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t75-handoffs-that-work",
+   "status": 200,
+   "ms": 2866,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t75-handoffs-that-work.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t76-cross-unit-communication-habits",
+   "status": 200,
+   "ms": 2877,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t76-cross-unit-communication-habits.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t77-coordinating-policy-changes-across-units",
+   "status": 200,
+   "ms": 2846,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t77-coordinating-policy-changes-across-units.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t78-communities-of-practice-at-dsd",
+   "status": 200,
+   "ms": 2856,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t78-communities-of-practice-at-dsd.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t79-working-with-shared-services",
+   "status": 200,
+   "ms": 2851,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t79-working-with-shared-services.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t80-resolving-cross-unit-priority-conflicts",
+   "status": 200,
+   "ms": 2852,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t80-resolving-cross-unit-priority-conflicts.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t81-interagency-collaboration-basics",
+   "status": 200,
+   "ms": 3778,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t81-interagency-collaboration-basics.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t82-the-olmstead-plan-as-cross-agency-work",
+   "status": 200,
+   "ms": 2871,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t82-the-olmstead-plan-as-cross-agency-work.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t83-partnering-with-counties-and-lead-agencies",
+   "status": 200,
+   "ms": 2864,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t83-partnering-with-counties-and-lead-agencies.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t85-working-with-providers-as-partners",
+   "status": 200,
+   "ms": 2849,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t85-working-with-providers-as-partners.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t86-co-designing-with-people-with-disabilities-and-f",
+   "status": 200,
+   "ms": 2844,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t86-co-designing-with-people-with-disabilities-and-f.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t87-collaborating-with-community-organizations",
+   "status": 200,
+   "ms": 2864,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t87-collaborating-with-community-organizations.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t88-managing-power-differences-in-partnerships",
+   "status": 200,
+   "ms": 2858,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t88-managing-power-differences-in-partnerships.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t89-joint-workgroups-and-task-forces",
+   "status": 200,
+   "ms": 2859,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t89-joint-workgroups-and-task-forces.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dc-t90-keeping-partners-informed-and-closing-the-loop",
+   "status": 200,
+   "ms": 3089,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dc-t90-keeping-partners-informed-and-closing-the-loop.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?theme=workforce",
+   "status": 200,
+   "ms": 3369,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?type=external_reference",
+   "status": 200,
+   "ms": 3341,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?type=checklist",
+   "status": 200,
+   "ms": 3226,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?type=learning_module",
+   "status": 200,
+   "ms": 3388,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?type=job_aid",
+   "status": 200,
+   "ms": 3663,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?type=tool",
+   "status": 200,
+   "ms": 5941,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?type=question_bank",
+   "status": 200,
+   "ms": 3234,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?type=practice_note",
+   "status": 200,
+   "ms": 4906,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?authority=program_reference",
+   "status": 200,
+   "ms": 3309,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?authority=learning",
+   "status": 200,
+   "ms": 3237,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?authority=external_verify",
+   "status": 200,
+   "ms": 3249,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?authority=guidance",
+   "status": 200,
+   "ms": 3707,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?authority=practice_note",
+   "status": 200,
+   "ms": 5184,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ext-dhs-equity-toolkit",
+   "status": 200,
+   "ms": 5059,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/dhs-equity-analysis-toolkit",
+   "status": 200,
+   "ms": 2898,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/dhs-equity-analysis-toolkit.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice-guides/clearer-processes",
+   "status": 200,
+   "ms": 3059,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ja-plain-language",
+   "status": 200,
+   "ms": 3154,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learning/self-directed/index.html?course=F16",
+   "status": 200,
+   "ms": 3484,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F16.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/practice-guides/review-a-change",
+   "status": 200,
+   "ms": 2861,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?theme=identity",
+   "status": 200,
+   "ms": 3217,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?theme=access",
+   "status": 200,
+   "ms": 3258,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?theme=disability",
+   "status": 200,
+   "ms": 3259,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?theme=policy",
+   "status": 200,
+   "ms": 3294,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?theme=partnership",
+   "status": 200,
+   "ms": 3245,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?theme=leadership",
+   "status": 200,
+   "ms": 3233,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?theme=evidence",
+   "status": 200,
+   "ms": 3233,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ref-adsa-engagement-guide",
+   "status": 200,
+   "ms": 3064,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ref-adsa-engagement-checklist",
+   "status": 200,
+   "ms": 3063,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ref-adsa-engagement-presentation",
+   "status": 200,
+   "ms": 3063,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ref-clas-implementation-checklist",
+   "status": 200,
+   "ms": 3365,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ext-ada",
+   "status": 200,
+   "ms": 3125,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ext-clas",
+   "status": 200,
+   "ms": 3133,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ext-emerging-leaders-institute",
+   "status": 200,
+   "ms": 3065,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ext-mn-accessibility",
+   "status": 200,
+   "ms": 3067,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ext-title-vi-lep",
+   "status": 200,
+   "ms": 3187,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/guide-one-dsd-measures",
+   "status": 200,
+   "ms": 3064,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/guide-one-dsd-quarterly-report",
+   "status": 200,
+   "ms": 3168,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library?page=2",
+   "status": 200,
+   "ms": 3227,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/equity-toolkit/curriculum",
+   "status": 200,
+   "ms": 3004,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/equity-review/structural",
+   "status": 200,
+   "ms": 3015,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/equity-toolkit/policy-review",
+   "status": 200,
+   "ms": 2996,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/share/equity-toolkit",
+   "status": 200,
+   "ms": 2985,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-toolkit/companion?format=docx&view=one_dsd",
+   "status": null,
+   "ms": 253,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-toolkit/companion?format=xlsx&view=one_dsd",
+   "status": null,
+   "ms": 230,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-toolkit/companion?format=pptx&view=one_dsd",
+   "status": null,
+   "ms": 221,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-toolkit/companion?format=pdf&view=one_dsd",
+   "status": null,
+   "ms": 532,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-toolkit/companion?format=html&view=one_dsd",
+   "status": null,
+   "ms": 453,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/equity-toolkit/companion?format=txt&view=one_dsd",
+   "status": null,
+   "ms": 220,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/equity-review/general",
+   "status": 200,
+   "ms": 2978,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/equity-review/hcbs",
+   "status": 200,
+   "ms": 2759,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/consultant/analysis",
+   "status": 200,
+   "ms": 2862,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/community-engagement",
+   "status": 200,
+   "ms": 3148,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/path/gp-3?format=docx&view=one_dsd",
+   "status": null,
+   "ms": 209,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/path/gp-3?format=xlsx&view=one_dsd",
+   "status": null,
+   "ms": 209,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/path/gp-3?format=pptx&view=one_dsd",
+   "status": null,
+   "ms": 206,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/path/gp-3?format=pdf&view=one_dsd",
+   "status": null,
+   "ms": 215,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/path/gp-3?format=html&view=one_dsd",
+   "status": null,
+   "ms": 197,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/path/gp-3?format=txt&view=one_dsd",
+   "status": null,
+   "ms": 201,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/ask?path=gp-3",
+   "status": 200,
+   "ms": 2997,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ja-stakeholder-map",
+   "status": 200,
+   "ms": 3083,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/support/right-person?area=community_engagement_co_design",
+   "status": 200,
+   "ms": 3092,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/readings/reading-066",
+   "status": 200,
+   "ms": 2974,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/readings/reading-075",
+   "status": 200,
+   "ms": 2862,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/team/workspace",
+   "status": 200,
+   "ms": 2990,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/team/one-dsd?format=docx&view=one_dsd",
+   "status": null,
+   "ms": 225,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/team/one-dsd?format=xlsx&view=one_dsd",
+   "status": null,
+   "ms": 209,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/team/one-dsd?format=pptx&view=one_dsd",
+   "status": null,
+   "ms": 210,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/team/one-dsd?format=pdf&view=one_dsd",
+   "status": null,
+   "ms": 226,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/team/one-dsd?format=html&view=one_dsd",
+   "status": null,
+   "ms": 203,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/team/one-dsd?format=txt&view=one_dsd",
+   "status": null,
+   "ms": 213,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/amplify/ideas",
+   "status": 200,
+   "ms": 2962,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/team/resource-selections",
+   "status": 200,
+   "ms": 2940,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/my-work/explore",
+   "status": 200,
+   "ms": 3013,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/documents/one-dsd-user-guide-20261022.txt",
+   "status": 200,
+   "ms": 2828,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/end-user-guide/welcome-2026/transcript.txt",
+   "status": 200,
+   "ms": 3059,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/end-user-guide/welcome-2026/captions.vtt",
+   "status": 200,
+   "ms": 2966,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/readings",
+   "status": 200,
+   "ms": 2962,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/readings/practice/service-notice",
+   "status": 200,
+   "ms": 2956,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/my-view",
+   "status": 200,
+   "ms": 3112,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ja-language-access-checklist",
+   "status": 200,
+   "ms": 3318,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/pn-stay-interviews-and-retention",
+   "status": 200,
+   "ms": 3077,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/program/implementation",
+   "status": 200,
+   "ms": 2979,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/amplify/gatherings",
+   "status": 200,
+   "ms": 2956,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/amplify/mentoring",
+   "status": 200,
+   "ms": 2982,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/amplify/well-being",
+   "status": 200,
+   "ms": 2947,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/amplify/co-leads",
+   "status": 200,
+   "ms": 2940,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/amplify/materials",
+   "status": 200,
+   "ms": 2961,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/amplify/home?format=docx&view=one_dsd",
+   "status": null,
+   "ms": 232,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/amplify/home?format=xlsx&view=one_dsd",
+   "status": null,
+   "ms": 224,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/amplify/home?format=pptx&view=one_dsd",
+   "status": null,
+   "ms": 260,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/amplify/home?format=pdf&view=one_dsd",
+   "status": null,
+   "ms": 229,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/amplify/home?format=html&view=one_dsd",
+   "status": null,
+   "ms": 243,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/api/downloads/amplify/home?format=txt&view=one_dsd",
+   "status": null,
+   "ms": 451,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/one-dsd/planning/report",
+   "status": 200,
+   "ms": 2833,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/one-dsd-planning/One_DSD_Quarterly_Report_Dashboard_Guide.html",
+   "status": 200,
+   "ms": 3174,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/one-dsd-planning/One_DSD_Quarterly_Report_Dashboard_Guide.docx",
+   "status": null,
+   "ms": 198,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/one-dsd-planning/One_DSD_Data_and_Metrics_Framework.html",
+   "status": 200,
+   "ms": 2980,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/one-dsd-planning/One_DSD_Data_and_Metrics_Framework.docx",
+   "status": null,
+   "ms": 232,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/one-dsd-planning/DSD_Equity_Implementation_Work_Plan.html",
+   "status": 200,
+   "ms": 3181,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/one-dsd-planning/DSD_Equity_Implementation_Work_Plan.docx",
+   "status": null,
+   "ms": 227,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/how-program-works/transcript.txt",
+   "status": 200,
+   "ms": 2725,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/how-program-works/captions.vtt",
+   "status": 200,
+   "ms": 3005,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/measurement",
+   "status": 200,
+   "ms": 3028,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/library/ja-job-relatedness-check",
+   "status": 200,
+   "ms": 3181,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/program-charter/transcript.txt",
+   "status": 200,
+   "ms": 2743,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/videos/explainers/program-charter/captions.vtt",
+   "status": 200,
+   "ms": 2988,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/administrations/health-care",
+   "status": 200,
+   "ms": 2833,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/administrations/behavioral-health",
+   "status": 200,
+   "ms": 2839,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/administrations/housing",
+   "status": 200,
+   "ms": 2911,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/anti-racism-resource",
+   "status": 200,
+   "ms": 2841,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/anti-racism-resource.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/somali-minnesota-brief",
+   "status": 200,
+   "ms": 2832,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/somali-minnesota-brief.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/cultural-humility-vs-checklist",
+   "status": 200,
+   "ms": 2882,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/cultural-humility-vs-checklist.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/critical-incidents-in-the-work",
+   "status": 200,
+   "ms": 2872,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/critical-incidents-in-the-work.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/intercultural-conflict-styles",
+   "status": 200,
+   "ms": 2847,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/intercultural-conflict-styles.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses/intercultural-competence-without-a-score",
+   "status": 200,
+   "ms": 2828,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/intercultural-competence-without-a-score.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/courses?browse=all",
+   "status": 200,
+   "ms": 3036,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/work/workforce_equity",
+   "status": 200,
+   "ms": 3015,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/work/policy_program_service_design",
+   "status": 200,
+   "ms": 3013,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/work/community_engagement_co_design",
+   "status": 200,
+   "ms": 3007,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/work/accessibility_language_access",
+   "status": 200,
+   "ms": 3295,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/work/culture_trust_repair",
+   "status": 200,
+   "ms": 3025,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/work/leadership_systems_change",
+   "status": 200,
+   "ms": 3014,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/work/data_research_quality_measurement",
+   "status": 200,
+   "ms": 3312,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/work/fiscal_grants_procurement_contracts",
+   "status": 200,
+   "ms": 3060,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/areas/work/communications_public_information",
+   "status": 200,
+   "ms": 3024,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F01",
+   "status": 200,
+   "ms": 3114,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F01.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F01%20-%20Intercultural%20Competence.pptx",
+   "status": 404,
+   "ms": 2834,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F01%20-%20Intercultural%20Competence.pptx :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F01%2520-%2520Intercultural%2520C :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F02",
+   "status": 200,
+   "ms": 2802,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F02.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F02%20-%20Cultural%20Humility%20in%20Everyday%20Public%20Service.pptx",
+   "status": 404,
+   "ms": 2850,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F02%20-%20Cultural%20Humility%20in%20Everyday%20Public%20Service.p :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F02%2520-%2520Cultural%2520Humili :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F03",
+   "status": 200,
+   "ms": 2835,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F03.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F03%20-%20Cultural%20Identity%2C%20Assumptions%2C%20and%20the%20Meaning%20of%20Normal.pptx",
+   "status": 404,
+   "ms": 2827,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F03%20-%20Cultural%20Identity%2C%20Assumptions%2C%20and%20the%20Me :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F03%2520-%2520Cultural%2520Identi :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F04",
+   "status": 200,
+   "ms": 2828,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F04.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F04%20-%20Understanding%20Meaning%20Across%20Communication%20Differences.pptx",
+   "status": 404,
+   "ms": 2854,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F04%20-%20Understanding%20Meaning%20Across%20Communication%20Diffe :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F04%2520-%2520Understanding%2520M :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F05",
+   "status": 200,
+   "ms": 2869,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F05.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F05%20-%20Unconscious%20Bias.pptx",
+   "status": 404,
+   "ms": 2827,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F05%20-%20Unconscious%20Bias.pptx :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F05%2520-%2520Unconscious%2520Bia :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F06",
+   "status": 200,
+   "ms": 2836,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F06.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F06%20-%20Understanding%20White%20Privilege.pptx",
+   "status": 404,
+   "ms": 2834,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F06%20-%20Understanding%20White%20Privilege.pptx :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F06%2520-%2520Understanding%2520W :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F07",
+   "status": 200,
+   "ms": 2838,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F07.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F07%20-%20Microaggressions%20Recognizing%20Messages%20and%20Responding%20with%20Care.pptx",
+   "status": 404,
+   "ms": 2813,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F07%20-%20Microaggressions%20Recognizing%20Messages%20and%20Respon :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F07%2520-%2520Microaggressions%25 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F08",
+   "status": 200,
+   "ms": 2845,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F08.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F08%20-%20Race%2C%20Disability%2C%20and%20Overlapping%20Barriers.pptx",
+   "status": 404,
+   "ms": 2829,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F08%20-%20Race%2C%20Disability%2C%20and%20Overlapping%20Barriers.p :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F08%2520-%2520Race%252C%2520Disab :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F09",
+   "status": 200,
+   "ms": 2811,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F09.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F09%20-%20Disability%2C%20Rights%2C%20Identity%2C%20and%20Belonging.pptx",
+   "status": 404,
+   "ms": 2832,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F09%20-%20Disability%2C%20Rights%2C%20Identity%2C%20and%20Belongin :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F09%2520-%2520Disability%252C%252 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F10",
+   "status": 200,
+   "ms": 2843,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F10.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F10%20-%20Accessibility%20in%20Everyday%20Services%20and%20Work.pptx",
+   "status": 404,
+   "ms": 2855,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F10%20-%20Accessibility%20in%20Everyday%20Services%20and%20Work.pp :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F10%2520-%2520Accessibility%2520i :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F11",
+   "status": 200,
+   "ms": 2823,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F11.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F11%20-%20Person-Centered%20Thinking%20in%20Public%20Decisions.pptx",
+   "status": 404,
+   "ms": 2829,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F11%20-%20Person-Centered%20Thinking%20in%20Public%20Decisions.ppt :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F11%2520-%2520Person-Centered%252 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F12",
+   "status": 200,
+   "ms": 2829,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F12.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F12%20-%20Choice%2C%20Self-Direction%2C%20and%20a%20Life%20Beyond%20Services.pptx",
+   "status": 404,
+   "ms": 2846,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F12%20-%20Choice%2C%20Self-Direction%2C%20and%20a%20Life%20Beyond% :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F12%2520-%2520Choice%252C%2520Sel :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F13",
+   "status": 200,
+   "ms": 2825,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F13.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F13%20-%20Community%20Engagement%20Listening%20with%20Purpose%20and%20Respect.pptx",
+   "status": 404,
+   "ms": 2839,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F13%20-%20Community%20Engagement%20Listening%20with%20Purpose%20an :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F13%2520-%2520Community%2520Engag :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F14",
+   "status": 200,
+   "ms": 2829,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F14.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F14%20-%20Using%20Community%20Briefs%20to%20Ask%20Better%20Questions.pptx",
+   "status": 404,
+   "ms": 2893,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F14%20-%20Using%20Community%20Briefs%20to%20Ask%20Better%20Questio :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F14%2520-%2520Using%2520Community :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F15",
+   "status": 200,
+   "ms": 2847,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F15.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F15%20-%20Language%20Access%20and%20the%20Foundations%20of%20CLAS.pptx",
+   "status": 404,
+   "ms": 2840,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F15%20-%20Language%20Access%20and%20the%20Foundations%20of%20CLAS. :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F15%2520-%2520Language%2520Access :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F16",
+   "status": 200,
+   "ms": 2854,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F16.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F16%20-%20Plain%20Language%20as%20an%20Equity%20Practice.pptx",
+   "status": 404,
+   "ms": 3106,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F16%20-%20Plain%20Language%20as%20an%20Equity%20Practice.pptx :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F16%2520-%2520Plain%2520Language% :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F17",
+   "status": 200,
+   "ms": 3155,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F17.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F17%20-%20Equity%20Across%20the%20Employee%20Life%20Cycle.pptx",
+   "status": 404,
+   "ms": 3091,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F17%20-%20Equity%20Across%20the%20Employee%20Life%20Cycle.pptx :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F17%2520-%2520Equity%2520Across%2 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F18",
+   "status": 200,
+   "ms": 2889,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F18.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F18%20-%20Belonging%20and%20Everyday%20Workplace%20Culture.pptx",
+   "status": 404,
+   "ms": 3083,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F18%20-%20Belonging%20and%20Everyday%20Workplace%20Culture.pptx :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F18%2520-%2520Belonging%2520and%2 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F19",
+   "status": 200,
+   "ms": 2867,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F19.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F19%20-%20Psychological%20Safety%2C%20Respect%2C%20and%20Speaking%20Up.pptx",
+   "status": 404,
+   "ms": 2858,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F19%20-%20Psychological%20Safety%2C%20Respect%2C%20and%20Speaking% :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F19%2520-%2520Psychological%2520S :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F20",
+   "status": 200,
+   "ms": 2833,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F20.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F20%20-%20Inclusive%20Supervision%20A%20Supportive%20Starting%20Point.pptx",
+   "status": 404,
+   "ms": 2822,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F20%20-%20Inclusive%20Supervision%20A%20Supportive%20Starting%20Po :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F20%2520-%2520Inclusive%2520Super :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F21",
+   "status": 200,
+   "ms": 2827,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F21.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F21%20-%20An%20Equity%20Lens%20for%20Ordinary%20Decisions.pptx",
+   "status": 404,
+   "ms": 2876,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F21%20-%20An%20Equity%20Lens%20for%20Ordinary%20Decisions.pptx :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F21%2520-%2520An%2520Equity%2520L :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F22",
+   "status": 200,
+   "ms": 2828,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F22.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F22%20-%20How%20Routine%20Rules%20Can%20Create%20Systemic%20Inequities.pptx",
+   "status": 404,
+   "ms": 2888,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F22%20-%20How%20Routine%20Rules%20Can%20Create%20Systemic%20Inequi :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F22%2520-%2520How%2520Routine%252 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F23",
+   "status": 200,
+   "ms": 2850,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F23.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F23%20-%20Understanding%20Evidence%20and%20Asking%20Better%20Equity%20Questions.pptx?v=81391dcc53db",
+   "status": 404,
+   "ms": 2850,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F23%20-%20Understanding%20Evidence%20and%20Asking%20Better%20Equit :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F23%2520-%2520Understanding%2520E :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=F24",
+   "status": 200,
+   "ms": 2817,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-F24.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20F24%20-%20Connecting%20Equity%20Goals%2C%20Learning%2C%20and%20Everyday%20Practice.pptx?v=3359196d7384",
+   "status": 404,
+   "ms": 2856,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20F24%20-%20Connecting%20Equity%20Goals%2C%20Learning%2C%20and%20Eve :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520F24%2520-%2520Connecting%2520Equi :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I01",
+   "status": 200,
+   "ms": 3011,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I01.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I01%20-%20Adapting%20Communication%20Without%20Losing%20the%20Meaning.pptx",
+   "status": 404,
+   "ms": 3097,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I01%20-%20Adapting%20Communication%20Without%20Losing%20the%20Mean :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I01%2520-%2520Adapting%2520Commun :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I02",
+   "status": 200,
+   "ms": 2831,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I02.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I02%20-%20Understanding%20and%20Repairing%20Intercultural%20Misunderstandings.pptx",
+   "status": 404,
+   "ms": 2860,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I02%20-%20Understanding%20and%20Repairing%20Intercultural%20Misund :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I02%2520-%2520Understanding%2520a :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I03",
+   "status": 200,
+   "ms": 2847,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I03.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I03%20-%20Cultural%20Humility%20in%20Professional%20Judgment.pptx",
+   "status": 404,
+   "ms": 2923,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I03%20-%20Cultural%20Humility%20in%20Professional%20Judgment.pptx :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I03%2520-%2520Cultural%2520Humili :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I04",
+   "status": 200,
+   "ms": 4034,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I04.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I04%20-%20Identity%2C%20Language%2C%20and%20Belonging%20in%20Everyday%20Work.pptx",
+   "status": 404,
+   "ms": 3258,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I04%20-%20Identity%2C%20Language%2C%20and%20Belonging%20in%20Every :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I04%2520-%2520Identity%252C%2520L :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I05",
+   "status": 200,
+   "ms": 2818,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I05.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I05%20-%20Checking%20Bias%20When%20the%20Evidence%20Is%20Incomplete.pptx",
+   "status": 404,
+   "ms": 2967,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I05%20-%20Checking%20Bias%20When%20the%20Evidence%20Is%20Incomplet :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I05%2520-%2520Checking%2520Bias%2 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I06",
+   "status": 200,
+   "ms": 2816,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I06.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I06%20-%20Responding%20to%20Microaggressions%20With%20Care%20and%20Purpose.pptx",
+   "status": 404,
+   "ms": 2877,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I06%20-%20Responding%20to%20Microaggressions%20With%20Care%20and%2 :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I06%2520-%2520Responding%2520to%2 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I07",
+   "status": 200,
+   "ms": 2866,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I07.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I07%20-%20Racial%20Advantage%20and%20the%20Everyday%20Gates%20to%20Opportunity.pptx",
+   "status": 404,
+   "ms": 2843,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I07%20-%20Racial%20Advantage%20and%20the%20Everyday%20Gates%20to%2 :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I07%2520-%2520Racial%2520Advantag :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I08",
+   "status": 200,
+   "ms": 2843,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I08.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I08%20-%20Receiving%20Feedback%20About%20Bias%20and%20Making%20a%20Useful%20Repair.pptx",
+   "status": 404,
+   "ms": 2858,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I08%20-%20Receiving%20Feedback%20About%20Bias%20and%20Making%20a%2 :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I08%2520-%2520Receiving%2520Feedb :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I09",
+   "status": 200,
+   "ms": 2870,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I09.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I09%20-%20Accessible%20Communication%20for%20the%20Person%20and%20the%20Task.pptx",
+   "status": 404,
+   "ms": 2891,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I09%20-%20Accessible%20Communication%20for%20the%20Person%20and%20 :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I09%2520-%2520Accessible%2520Comm :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I10",
+   "status": 200,
+   "ms": 2846,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I10.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I10%20-%20Supporting%20Informed%20Choice%20and%20Person-Centered%20Planning.pptx",
+   "status": 404,
+   "ms": 2866,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I10%20-%20Supporting%20Informed%20Choice%20and%20Person-Centered%2 :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I10%2520-%2520Supporting%2520Info :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I11",
+   "status": 200,
+   "ms": 2955,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I11.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I11%20-%20Making%20Meetings%20and%20Learning%20Materials%20Usable.pptx",
+   "status": 404,
+   "ms": 2847,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I11%20-%20Making%20Meetings%20and%20Learning%20Materials%20Usable. :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I11%2520-%2520Making%2520Meetings :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I12",
+   "status": 200,
+   "ms": 2830,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I12.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I12%20-%20Neuroinclusive%20Work%20and%20Individualized%20Support.pptx",
+   "status": 404,
+   "ms": 2872,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I12%20-%20Neuroinclusive%20Work%20and%20Individualized%20Support.p :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I12%2520-%2520Neuroinclusive%2520 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I13",
+   "status": 200,
+   "ms": 3019,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I13.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I13%20-%20Using%20Culture%20Briefs%20to%20Prepare%2C%20Listen%2C%20and%20Learn.pptx",
+   "status": 404,
+   "ms": 2854,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I13%20-%20Using%20Culture%20Briefs%20to%20Prepare%2C%20Listen%2C%2 :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I13%2520-%2520Using%2520Culture%2 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I14",
+   "status": 200,
+   "ms": 3163,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I14.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I14%20-%20Language%20Access%20Across%20a%20Whole%20Service%20Encounter.pptx",
+   "status": 404,
+   "ms": 2847,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I14%20-%20Language%20Access%20Across%20a%20Whole%20Service%20Encou :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I14%2520-%2520Language%2520Access :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I15",
+   "status": 200,
+   "ms": 3815,
+   "consoleErrors": 0,
+   "http4xx5xx": [],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I15%20-%20Community%20Engagement%20With%20an%20Honest%20Account%20of%20Influence.pptx",
+   "status": 404,
+   "ms": 3415,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I15%20-%20Community%20Engagement%20With%20an%20Honest%20Account%20 :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I15%2520-%2520Community%2520Engag :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I16",
+   "status": 200,
+   "ms": 2780,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I16.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I16%20-%20Clear%20Public%20Information%20That%20People%20Can%20Use.pptx",
+   "status": 404,
+   "ms": 4225,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I16%20-%20Clear%20Public%20Information%20That%20People%20Can%20Use :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I16%2520-%2520Clear%2520Public%25 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I17",
+   "status": 200,
+   "ms": 3396,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I17.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I17%20-%20Fair%20Recruitment%20and%20Selection%20Through%20Relevant%20Evidence.pptx",
+   "status": 404,
+   "ms": 3048,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I17%20-%20Fair%20Recruitment%20and%20Selection%20Through%20Relevan :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I17%2520-%2520Fair%2520Recruitmen :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I18",
+   "status": 200,
+   "ms": 2904,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I18.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I18%20-%20Onboarding%20That%20Makes%20the%20Work%20and%20the%20Culture%20Understandable.pptx",
+   "status": 404,
+   "ms": 4828,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I18%20-%20Onboarding%20That%20Makes%20the%20Work%20and%20the%20Cul :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I18%2520-%2520Onboarding%2520That :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I19",
+   "status": 200,
+   "ms": 3366,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I19.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I19%20-%20Making%20Development%2C%20Mentoring%2C%20and%20Sponsorship%20More%20Accessible.pptx",
+   "status": 404,
+   "ms": 2819,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I19%20-%20Making%20Development%2C%20Mentoring%2C%20and%20Sponsorsh :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I19%2520-%2520Making%2520Developm :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I20",
+   "status": 200,
+   "ms": 2903,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I20.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I20%20-%20Fair%20Feedback%2C%20Retention%2C%20and%20Transitions.pptx",
+   "status": 404,
+   "ms": 2864,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I20%20-%20Fair%20Feedback%2C%20Retention%2C%20and%20Transitions.pp :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I20%2520-%2520Fair%2520Feedback%2 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I21",
+   "status": 200,
+   "ms": 3829,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I21.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I21%20-%20Applying%20the%20Equity%20Analysis%20Toolkit%20to%20a%20Realistic%20Decision.pptx",
+   "status": 404,
+   "ms": 3063,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I21%20-%20Applying%20the%20Equity%20Analysis%20Toolkit%20to%20a%20 :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I21%2520-%2520Applying%2520the%25 :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I22",
+   "status": 200,
+   "ms": 3102,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I22.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I22%20-%20Reading%20Disparities%20With%20Numbers%20and%20Lived%20Experience.pptx",
+   "status": 404,
+   "ms": 5144,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I22%20-%20Reading%20Disparities%20With%20Numbers%20and%20Lived%20E :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I22%2520-%2520Reading%2520Dispari :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I23",
+   "status": 200,
+   "ms": 3152,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I23.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I23%20-%20Finding%20Barriers%20Across%20Service%20Procedures%20and%20Handoffs.pptx",
+   "status": 404,
+   "ms": 2837,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I23%20-%20Finding%20Barriers%20Across%20Service%20Procedures%20and :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I23%2520-%2520Finding%2520Barrier :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=I24",
+   "status": 200,
+   "ms": 2878,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-I24.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20I24%20-%20Comparing%20Policy%20Options%20and%20Possible%20Unintended%20Effects.pptx",
+   "status": 404,
+   "ms": 2835,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20I24%20-%20Comparing%20Policy%20Options%20and%20Possible%20Unintend :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520I24%2520-%2520Comparing%2520Polic :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=A01",
+   "status": 200,
+   "ms": 2823,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-A01.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20A01%20-%20An%20Intercultural%20Lens%20for%20Policy%20and%20Organizational%20Rules.pptx",
+   "status": 404,
+   "ms": 2835,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20A01%20-%20An%20Intercultural%20Lens%20for%20Policy%20and%20Organiz :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520A01%2520-%2520An%2520Intercultura :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=A02",
+   "status": 200,
+   "ms": 2818,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-A02.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20A02%20-%20Designing%20Services%20around%20Cultural%20Meaning%20and%20Personal%20Choice.pptx",
+   "status": 404,
+   "ms": 2841,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20A02%20-%20Designing%20Services%20around%20Cultural%20Meaning%20and :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520A02%2520-%2520Designing%2520Servi :: HTTP 400"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/self-directed?course=A03",
+   "status": 200,
+   "ms": 2870,
+   "consoleErrors": 1,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learning/geffen-read-aloud/courses/self-directed-A03.json :: HTTP 404"
+   ],
+   "brokenImages": []
+  },
+  {
+   "path": "/learn/courses/One%20DSD%20-%20A03%20-%20Dialogue%20across%20Difference%20When%20Power%20and%20Conflict%20Matter.pptx",
+   "status": 404,
+   "ms": 2859,
+   "consoleErrors": 2,
+   "http4xx5xx": [
+    "https://one-dsd-people-access-culture-production.up.railway.app/learn/courses/One%20DSD%20-%20A03%20-%20Dialogue%20across%20Difference%20When%20Power%20and%20Co :: HTTP 404",
+    "https://one-dsd-people-access-culture-production.up.railway.app/api/page-text?route=%2Flearn%2Fcourses%2FOne%2520DSD%2520-%2520A03%2520-%2520Dialogue%2520across :: HTTP 400"
+   ],
+   "brokenImages": []
+  }
+ ]
+}

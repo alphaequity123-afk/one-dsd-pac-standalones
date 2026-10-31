@@ -1,0 +1,39 @@
+200 0.283671s deaf-deafblind-hard-of-hearing Deaf, DeafBlind, and hard of hearing Minnesotans
+200 0.287195s vietnamese Vietnamese Minnesota
+200 0.289396s minnesota Minnesota culture
+200 0.290958s liberian Liberian Minnesota
+200 0.292614s rural Rural and Greater Minnesota
+200 0.292964s nigerian Nigerian Minnesota
+200 0.293049s thai Thai Minnesota
+200 0.293575s lao Lao Minnesota
+200 0.293892s latino Latino Minnesota
+200 0.294335s salvadoran Salvadoran Minnesota
+200 0.295963s cuban Cuban Minnesota
+200 0.298482s kenyan Kenyan Minnesota
+200 0.299844s burmese Burmese Minnesota
+200 0.300021s colombian Colombian Minnesota
+200 0.300843s somali Somali Minnesota
+200 0.303886s karen Karen Minnesota
+200 0.304213s lebanese Lebanese Minnesota
+200 0.304667s russian-speaking Russian-speaking Minnesota
+200 0.305353s khmer Cambodian Minnesota
+200 0.305442s puerto-rican Puerto Rican Minnesota
+200 0.307048s hmong Hmong Minnesota
+200 0.311030s amharic Amharic-speaking Minnesota
+200 0.314668s ukrainian Ukrainian Minnesota
+200 0.315989s mexican Mexican Minnesota
+200 0.317596s french French-speaking Minnesota
+200 0.317712s japanese Japanese Minnesota
+200 0.321119s indian Indian (Asian Indian) Minnesota
+200 0.322083s oromo Oromo Minnesota
+200 0.322239s bosnian Bosnian Minnesota
+200 0.323424s european-american European American Minnesota
+200 0.332958s ethiopian Ethiopian Minnesota
+200 0.337330s chinese Chinese Minnesota
+200 0.340815s filipino Filipino Minnesota
+200 0.340817s guatemalan Guatemalan Minnesota
+200 0.346131s korean Korean Minnesota
+200 0.452478s arabic-speaking Arabic-speaking Minnesota
+200 0.611248s american American culture
+200 0.617107s african-american African American Minnesota
+200 0.676881s ecuadorian Ecuadorian Minnesota

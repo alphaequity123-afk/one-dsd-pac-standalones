@@ -1,0 +1,24 @@
+200 application/vnd.openxmlformats-officedocument.wordprocessingml.document 41671B 0.355064s /api/downloads/equity-framework/framework?format=docx&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet 63004B 0.334632s /api/downloads/equity-framework/framework?format=xlsx&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.presentationml.presentation 1835794B 0.551784s /api/downloads/equity-framework/framework?format=pptx&view=one_dsd
+200 application/pdf 86442B 0.351016s /api/downloads/equity-framework/framework?format=pdf&view=one_dsd
+200 text/html 0.243610s /api/downloads/equity-framework/framework?format=html&view=one_dsd
+200 text/plain 0.265691s /api/downloads/equity-framework/framework?format=txt&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.wordprocessingml.document 11850B 0.233105s /api/downloads/operationalizing-equity/program?format=docx&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet 10935B 0.238138s /api/downloads/operationalizing-equity/program?format=xlsx&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.presentationml.presentation 114392B 0.250705s /api/downloads/operationalizing-equity/program?format=pptx&view=one_dsd
+200 application/pdf 5524B 0.237321s /api/downloads/operationalizing-equity/program?format=pdf&view=one_dsd
+200 text/html 0.216667s /api/downloads/operationalizing-equity/program?format=html&view=one_dsd
+200 text/plain 0.217582s /api/downloads/operationalizing-equity/program?format=txt&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.wordprocessingml.document 12463B 0.533193s /api/downloads/measurement/worksheet?format=docx&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet 10053B 0.578202s /api/downloads/measurement/worksheet?format=xlsx&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.presentationml.presentation 122244B 0.584401s /api/downloads/measurement/worksheet?format=pptx&view=one_dsd
+200 application/pdf 7895B 0.591276s /api/downloads/measurement/worksheet?format=pdf&view=one_dsd
+200 text/html 0.529366s /api/downloads/measurement/worksheet?format=html&view=one_dsd
+200 text/plain 0.598491s /api/downloads/measurement/worksheet?format=txt&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.wordprocessingml.document 11609B 0.249881s /api/downloads/support-directory/dhs?format=docx&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet 9981B 0.234922s /api/downloads/support-directory/dhs?format=xlsx&view=one_dsd
+200 application/vnd.openxmlformats-officedocument.presentationml.presentation 157750B 0.273416s /api/downloads/support-directory/dhs?format=pptx&view=one_dsd
+200 application/pdf 6941B 0.288093s /api/downloads/support-directory/dhs?format=pdf&view=one_dsd
+200 text/html 0.219819s /api/downloads/support-directory/dhs?format=html&view=one_dsd
+200 text/plain 0.232165s /api/downloads/support-directory/dhs?format=txt&view=one_dsd

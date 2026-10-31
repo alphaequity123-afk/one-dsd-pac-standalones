@@ -1,0 +1,1790 @@
+[
+ {
+  "workflow": "Minnesota communities list and a community page",
+  "verdict": "works",
+  "summary": "The whole workflow works. The list page filter is a GET form: typing does not filter live, but Enter or the Search button navigates to ?q=Hmong / ?q=Karen and shows \"1 matching brief\" with only the matching community, a \"Clear search\" link, and a proper empty state for a non-match (\"0 matching briefs / No community matched that name...\"); matching is case-insensitive and partial (?q=hmo, ?q=deaf). On /minnesota-communities/hmong, \"Community brief\" and \"Learning and reflection\" are aria-pressed tab toggles that swap the content panel (brief sections vs three lessons with \"In this lesson\" / \"Consider this situation\"); \"Explore the reasoning\" only exists inside the Learning panel (3 per page), toggles aria-expanded false->true, relabels to \"Close the reflection\" and unhides a community-specific reasoning paragraph; \"Save resource\" becomes \"Saved to My work\" (aria-pressed true) with a live-region message \"Saved to My work on this device.\" Saving made no /api call: it writes localStorage key one-dsd-saved-resources-v1 ({version:1, items:[{href,title,savedAt}]}). /my-work lists the saved brief under \"Saved resources\" with a Remove button (aria-label \"Remove Hmong Minnesota from saved resources\"); it survives reload, the link navigates back to the brief (which still shows Saved), Remove empties it and that also persists; a fresh browser context shows no saved items, confirming per-browser storage, not server-side. Deaf/DeafBlind/hard of hearing and Rural pages have the same four controls and behave identically, with their own scenarios and reasoning text. All six \"Download this brief\" endpoints return 200 with correct content types and attachment filenames. No console errors, no responses >= 400, no 4xx/5xx on any page. Only read-only GETs were made; no form was submitted other than the GET search box.",
+  "steps": [
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities",
+    "result": "HTTP 200, h1 'Minnesota Communities', text '42 community and place briefs', 13 community links shown plus a <summary> 'All other communities and places (29)' that expands to all 42. One GET /api/page-text?route=/minnesota-communities 200."
+   },
+   {
+    "action": "Type 'Hmong' into the 'Find a community' search box (#community-query) without submitting",
+    "result": "No live filtering: still 13 links and '42 community and place briefs'; URL unchanged; no /api call."
+   },
+   {
+    "action": "Press Enter (and separately click the 'Search' button) with 'Hmong'",
+    "result": "Navigates to /minnesota-communities?q=Hmong; results region shows 'Clear search', '1 matching brief', and only 'Hmong Minnesota'; the 'All other communities' expander is hidden while filtered; input keeps the value 'Hmong'."
+   },
+   {
+    "action": "Repeat with 'Karen'",
+    "result": "/minnesota-communities?q=Karen shows '1 matching brief' -> 'Karen Minnesota' only. Same behaviour for Enter and the Search button."
+   },
+   {
+    "action": "Submit a non-matching term 'zzqx', then click 'Clear search'; also open ?q=hmo and ?q=deaf",
+    "result": "'0 matching briefs' with 'No community matched that name. You might try a different spelling, or browse the full collection.' Clear search returns to /minnesota-communities with 13 links and an empty box. ?q=hmo -> Hmong Minnesota (case-insensitive partial match); ?q=deaf -> Deaf, DeafBlind, and hard of hearing Minnesotans."
+   },
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/hmong",
+    "result": "HTTP 200, h1 'Hmong Minnesota'. Initial state: 'Community brief' aria-pressed=true (controls #..-brief), 'Learning and reflection' aria-pressed=false (controls #..-learning), 'Save resource' aria-pressed=false; 'Explore the reasoning' buttons exist in DOM (3) but are hidden inside the Learning panel. Six download links to /api/downloads/brief/hmong?format=docx|xlsx|pptx|pdf|html|txt."
+   },
+   {
+    "action": "Click 'Community brief'",
+    "result": "Already active: stays aria-pressed=true, panel unchanged (Community overview, History/culture/life today, Practice considerations, More context, Observances at work, Sources, Continue the connection...). No navigation, no /api call."
+   },
+   {
+    "action": "Click 'Learning and reflection'",
+    "result": "aria-pressed becomes true and 'Community brief' becomes false; panel swaps to three lessons: 'History and the decisions we make today', 'Family, identity, and individual experience', 'From understanding to an equity analysis', each with 'In this lesson', embedded collapsible brief sections (<details>), and a 'Consider this situation' scenario. The tab choice is not kept in the URL or storage; a reload returns to the Community brief tab."
+   },
+   {
+    "action": "Click the first 'Explore the reasoning'",
+    "result": "aria-expanded false -> true, label changes to 'Close the reflection', the aria-controls region is unhidden and shows the Hmong-specific reasoning ('Ask the person whom they want involved and how they want decisions discussed...'). Clicking again collapses it (aria-expanded false, label restored). Embedded <details> section 'Origins and the Founding of a People' inside the lesson also opens (details.open false -> true) and shows brief content."
+   },
+   {
+    "action": "Click 'Save resource'",
+    "result": "Button becomes 'Saved to My work' (aria-pressed=true); live region reads 'Saved to My work on this device.' localStorage key one-dsd-saved-resources-v1 created with {version:1, items:[{href:'/minnesota-communities/hmong', title:'Hmong Minnesota', savedAt:'2026-10-31T06:33:29.361Z'}]}. Zero /api requests during the save; no cookies set. After a reload the brief still shows 'Saved to My work'. Save also works via keyboard (Space) on the Rural page."
+   },
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/my-work",
+    "result": "HTTP 200. 'Saved resources' section lists 'Hmong Minnesota' (link to /minnesota-communities/hmong) with a 'Remove' button (aria-label 'Remove Hmong Minnesota from saved resources'). Only GET /api/page-text?route=/my-work 200 was called."
+   },
+   {
+    "action": "Reload /my-work",
+    "result": "'Hmong Minnesota' still listed. localStorage still holds the item; sessionStorage empty; no cookies."
+   },
+   {
+    "action": "Open /my-work in a brand-new browser context (no storage)",
+    "result": "Saved resources is empty ('Your collection stays on this device.'), confirming persistence is browser localStorage only, not server-side."
+   },
+   {
+    "action": "Click the saved 'Hmong Minnesota' link on /my-work",
+    "result": "Client-side navigation to /minnesota-communities/hmong; h1 'Hmong Minnesota'; save button shows 'Saved to My work' aria-pressed=true."
+   },
+   {
+    "action": "Click 'Remove' on the saved entry on /my-work, then reload",
+    "result": "Entry disappears, status text 'Removed from your saved resources.', localStorage becomes {version:1, items:[]}; after reload the section remains empty. No /api call."
+   },
+   {
+    "action": "Spot-check https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/deaf-deafblind-hard-of-hearing",
+    "result": "HTTP 200, h1 'Deaf, DeafBlind, and hard of hearing Minnesotans'. Same four controls: Community brief (pressed), Learning and reflection toggles panel, Explore the reasoning expands with Deaf-specific reasoning ('Ask the participant which communication and access arrangements work for them... Captions alone do not meet every access need.'), Save resource -> 'Saved to My work' adds the item to localStorage; clicking again un-saves it (back to 'Save resource', item removed)."
+   },
+   {
+    "action": "Spot-check https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/rural",
+    "result": "HTTP 200, h1 'Rural and Greater Minnesota'. Same controls work; reasoning text is rural-specific (broadband, work schedules, transportation...). After saving, /my-work listed both 'Rural and Greater Minnesota' and 'Hmong Minnesota' (Deaf absent after un-save), newest first."
+   },
+   {
+    "action": "Fetch the six 'Download this brief' links with curl (GET /api/downloads/brief/hmong?format=...)",
+    "result": "docx 200 (24.8 KB, Word 2007+), xlsx 200 (27 KB), pptx 200 (596 KB), pdf 200 (37.6 KB, 14 pages, Content-Disposition attachment; filename=hmong-minnesota.pdf), html 200 (33.8 KB), txt 200 (31 KB, starts 'One DSD People, Access and Culture \u00b7 Minnesota Communities / Hmong Minnesota'). Note: Playwright's page.request could not resolve the host in this environment (proxy bypass), so curl was used."
+   },
+   {
+    "action": "Mobile viewport check (390px) of /minnesota-communities?q=Karen and /minnesota-communities/hmong",
+    "result": "No horizontal overflow; Karen link visible; Community brief, Learning and reflection and Save resource all visible and usable."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fminnesota-communities",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fminnesota-communities%2Fhmong",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fmy-work",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fminnesota-communities%2Fdeaf-deafblind-hard-of-hearing",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fminnesota-communities%2Frural",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/brief/hmong?format=docx",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/brief/hmong?format=xlsx",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/brief/hmong?format=pptx",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/brief/hmong?format=pdf",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/brief/hmong?format=html",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/brief/hmong?format=txt",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [],
+  "persistence": "Saved resources persist across page reloads and navigation within the same browser profile, via localStorage key \"one-dsd-saved-resources-v1\" (JSON {version:1, items:[{href,title,savedAt}]}). No /api request, cookie or sessionStorage write occurred on save or remove; a fresh browser context shows an empty collection, so persistence is browser-local only (as the page itself states: \"Your collection stays on this device\"). The only /api traffic was GET /api/page-text?route=... on each page load (all 200). The Community brief / Learning and reflection tab choice is not persisted (reload returns to Community brief).",
+  "problems": [
+   {
+    "severity": "low",
+    "title": "Search box does not filter as you type; results appear only after Enter/Search",
+    "detail": "Typing 'Hmong' or 'Karen' into 'Find a community' leaves all 13 links and '42 community and place briefs' unchanged until the form is submitted (GET ?q=). Submitting works correctly, so this is a minor expectation mismatch rather than a defect; noted because the task asked how the list responds to the input.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities",
+    "repro": "Open the page, type 'Hmong' in the search box and wait: the list does not change. Press Enter: URL becomes ?q=Hmong and '1 matching brief' appears."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "Start page form",
+  "verdict": "works",
+  "summary": "The /start page holds a three-question orientation form (role select, area-of-work select, four urgency radios, submit button \"Show me a place to start\"). It is purely client-side: filling it as a new staff member (Staff member / Culture, trust, and repair / I'm planning ahead) and submitting produced, without navigation and without any API call, a tailored recommendation panel (\"Start with Culture, trust, and repair.\" with an urgency-specific paragraph, three \"Work you can begin now\" bullets and three links: Explore this area -> /areas#culture_trust_repair, Open a guided practice -> /practice, Find the right person -> /support/right-person?area=culture_trust_repair). All links returned 200 and the right-person page honoured the area parameter with a \"Back to culture, trust, and repair\" link. Four other role/area/urgency combinations each produced a distinct, correct recommendation. Validation works: submitting empty or partial shows per-field red role=\"alert\" messages, sets aria-invalid and moves focus to the first missing field. As the page itself states (\"Your answers stay on this page; they are not saved\"), nothing is written to localStorage, sessionStorage or cookies, so the choices do not survive a reload and /home and /learn show no personalised content. The only /api call on every page is GET /api/page-text?route=... (200). No console errors, no responses >= 400, no horizontal scroll at 375px. No problems found that block or mislead a user.",
+  "steps": [
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/start and inventory the form",
+    "result": "Page title 'Start | One DSD People, Access and Culture'. One <form method=get action=/start> with select#start-role (11 options), select#start-task (9 options), 4 radios name=urgency (exploratory, within_2_weeks, hard_deadline, live_urgent) and submit button 'Show me a place to start'. Right-hand panel 'A good place to begin' is an aria-live=polite section with placeholder text. Only API call: GET /api/page-text?route=/start 200."
+   },
+   {
+    "action": "Click 'Show me a place to start' with nothing selected",
+    "result": "No navigation. Three red role=alert messages appear under the fields: 'Choose the role closest to your work.', 'Choose the area closest to your task.', 'Choose when you need to act.' Result panel keeps its placeholder."
+   },
+   {
+    "action": "Select only a role and submit",
+    "result": "Alerts shown for the two missing fields, aria-invalid set on #start-task, focus moved to #start-task. No result shown."
+   },
+   {
+    "action": "Fill as a new staff member: role=Staff member, work=Culture, trust, and repair, urgency=I'm planning ahead; click submit",
+    "result": "No navigation, no API call, focus stays on the button (page already scrolled to the form at y=1173). Right panel updates to 'Start with Culture, trust, and repair.' plus description, an urgency-tailored paragraph ('You have room to review sources, involve people early...'), three 'Work you can begin now' bullets and three links: Explore this area (/areas#culture_trust_repair), Open a guided practice (/practice), Find the right person (/support/right-person?area=culture_trust_repair)."
+   },
+   {
+    "action": "Open each of the three recommendation links in a new tab",
+    "result": "All returned HTTP 200 with the expected page titles. /support/right-person?area=culture_trust_repair additionally shows a 'Back to culture, trust, and repair' link, so the area parameter is honoured."
+   },
+   {
+    "action": "Inspect localStorage, sessionStorage and cookies after submit",
+    "result": "All empty. Nothing is stored client-side; no POST or other write request was made."
+   },
+   {
+    "action": "Reload /start",
+    "result": "Form resets to 'Choose a role' / 'Choose an area of work' / no radio; result panel back to placeholder. Consistent with the page's statement that answers are not saved."
+   },
+   {
+    "action": "Open /home and /learn after completing the form",
+    "result": "Both load (200) with no personalised content referring to the chosen role, area or urgency. Only API call on each: GET /api/page-text?route=/home and ?route=/learn, both 200."
+   },
+   {
+    "action": "Try four other combinations (supervisor/workforce equity/live urgent; another role/communications/firm deadline; equity director/data/within two weeks; staff/accessibility/planning ahead)",
+    "result": "Each produced a distinct recommendation whose heading matched the chosen area and whose advice paragraph changed with urgency; all 12 resulting links returned 200."
+   },
+   {
+    "action": "Open /start at 375px viewport",
+    "result": "Renders cleanly, no horizontal scroll, Menu button replaces the nav bar."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/start",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/home",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/learn",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/areas",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/practice",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/support/right-person",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [],
+  "persistence": "None, by design. The form is handled entirely in the browser (no request is made on submit) and nothing is written to localStorage, sessionStorage, cookies or the server. After a reload the three fields reset and the recommendation disappears; /home and /learn show no trace of the choices. This matches the on-page copy ('Your answers stay on this page; they are not saved, scored, or shared with anyone').",
+  "problems": [
+   {
+    "severity": "low",
+    "title": "Form has no non-JavaScript fallback: selects have no name attributes and the GET action just reloads /start",
+    "detail": "The form is <form method=\"get\" action=\"/start\"> but #start-role and #start-task carry no name attribute, so if JavaScript fails to load or is disabled, submitting would reload /start with (at most) ?urgency=... and no recommendation would appear. With JavaScript working (the normal case, verified here) the form behaves correctly, so this is only a resilience note.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/start",
+    "repro": "Open /start, inspect the form element and the two <select> elements (see /tmp/claude-0/-home-user-one-dsd-pac-standalones/713829d3-85db-5170-935a-0b7f6c8b031f/scratchpad/qa/agents/start/fields.json): form.method=get, form.action=/start, select name=''."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "Home page and site search",
+  "verdict": "works with problems",
+  "summary": "The home page, header navigation (desktop and mobile menu), the two-input \"Show me\" form on /home, the free-text library search and the root welcome page all work. Caveat on the brief: the two-input form on /home is a role/task navigator made of two <select>s (no text box), so \"interpreter\"/\"waiver\" cannot be typed there; keyword search lives at /library (linked from /home as \"Resource library\"), where it is a plain GET form (/library?q=...) rendered server-side with no search API call. \"interpreter\" returned 193 results with relevant top hits, \"waiver\" 160, an empty search simply shows the full library (765 resources), and \"zzqqxx\" shows a clear \"No closely related resource found\" message with recovery links. All 24 top result links open real pages. The only /api traffic is GET /api/page-text?route=... (a read-aloud/\"Listen\" helper), always 200 when it completed. Zero console errors, zero 4xx/5xx and zero page errors across the main runs; the one 404 observed was a read-aloud JSON file on a legacy static self-directed course page reached from a \"waiver\" result. No login or secrets encountered. No forms that create records were submitted and /api/ask was never called. Two low-severity issues: that 404, and the header logo (labelled \"...home\") sending visitors back to the splash gate \"/\" instead of /home. Note: my first script run falsely suggested pages were stuck on \"Opening your page...\"; a dedicated probe proved that was a measurement artifact (client-side transitions finish in 0.3-2.2 s).",
+  "steps": [
+   {
+    "action": "GET /home with curl and Playwright (1280px), wait for network idle, check for the 'Opening your page...' placeholder",
+    "result": "HTTP 200, Next.js app with strict CSP. Title 'One DSD People, Access and Culture', h1 'People, access and culture.', 2018 chars of main text, h2s: Find a resource for your work | Find what you need | Equity in practice | Explore DSD and the program. Placeholder not visible (it is only the Suspense loading fallback). 2/2 images loaded. responseEnd 469 ms, DOMContentLoaded 770 ms, load 1371 ms."
+   },
+   {
+    "action": "Enumerate and click every header navigation link from /home (client-side navigation), then fetch each URL directly",
+    "result": "Start, Learn, Practice, Support, One DSD, Cultural Intelligence, header 'My work' all rendered their destination with the right h1 in 520-2168 ms; direct GET of each = 200. Nav contains a hidden mobile-only duplicate 'My work' link (display:none on desktop). Footer nav links: /start, /user-guide, /one-dsd, /program-foundation, /about, /support, /site-map. Brand logo links to '/' (the splash page), see problems."
+   },
+   {
+    "action": "Mobile viewport 390px: tap the Menu button, then tap Support",
+    "result": "aria-expanded false -> true, nav gets class 'is-open', all 7 links visible; Support rendered (h1 'Support') in 215 ms."
+   },
+   {
+    "action": "Locate the two-input form on /home",
+    "result": "Only form on /home is form.builder under 'Find a resource for your work': label 'I'm' + select#home-role (working on / leading a team on / new and starting with) + select#home-task (7 tasks whose values are routes, e.g. 'a policy or service decision' -> /learn/equity-toolkit) + 'Show me' button. No action/method attribute; JS onSubmit calls router.push(task) (special case: new + /learn -> /start#new-to-dsd). Zero free-text inputs and zero role=search elements anywhere on /home, so the words 'interpreter'/'waiver' cannot be entered here."
+   },
+   {
+    "action": "Submit 'Show me' with five role/task combinations",
+    "result": "All landed on the expected route with real content: defaults -> /learn/equity-toolkit ('Equity Analysis Toolkit', 623 ms); lead + a meeting -> /practice-guides/inclusive-meetings (830 ms); new + building my understanding -> /start#new-to-dsd (anchor exists and is in view, heading 'New to DSD, or taking a fresh look?'); finding who decides -> /support/right-person ('Find the right person'); a form or process -> /practice-guides/clearer-processes. Only /api call per navigation: GET /api/page-text?route=<target> 200. Choices are not remembered after returning to /home or reloading (defaults restored)."
+   },
+   {
+    "action": "From /home click 'Resource library' to reach the keyword search",
+    "result": "Landed on /library (h1 'Library') in ~1 s. Form #find-resource role=search, action=/library, method=get: input#q[type=search] (placeholder 'For example: language access checklist'), Search button, selects role (10 options), theme (9), level (4), 'Apply choices' button."
+   },
+   {
+    "action": "Search 'interpreter' (Enter key)",
+    "result": "Plain GET document navigation to /library?q=interpreter&role=&theme=&level= (200). 'Search results for \"interpreter\"', heading '193 results', live region '193 results found.', 12 rows shown, 'Showing 1-12 of 193 results. Browse all 193 results' + 'Page 1 of 17 / Next resources'. Top hits: Working with a spoken-language interpreter (/library/lm-interpreter), Language access checklist, Access checks before a meeting..., Language and cultural access planning aid..., Working with an Interpreter (/courses/...), Working with interpreters, Interpreters as cultural brokers, ... Deaf Minnesota: ASL. Server-rendered: same URL fetched without JS is 67 KB and contains the first result. No search API; only GET /api/page-text?route=/library."
+   },
+   {
+    "action": "Search 'waiver' (Search button)",
+    "result": "GET /library?q=waiver&role=&theme=&level= (200): '160 results', 12 rows, top hits Equity in waiver and HCBS program design, Leading System Change in Disability Services, Policy and Legislative Analysis through an Equity Lens (/learning/self-directed/index.html?course=A21), Mental Health and Psychiatric Disability..., Foundations of Disability Services in Minnesota, ... Server-rendered (66 KB). Box keeps 'waiver'."
+   },
+   {
+    "action": "Empty search (Search button with blank box)",
+    "result": "GET /library?q=&role=&theme=&level= (200). No error: page shows the normal library landing - 'Learning, tools, and guidance for your work', 'What would help with your work?', 'Explore by theme', 'All resources (765)', live region '765 resources available.', 'Browse all 765 resources'."
+   },
+   {
+    "action": "Nonsense search 'zzqqxx' (Enter key)",
+    "result": "GET /library?q=zzqqxx&role=&theme=&level= (200). 'Search results for \"zzqqxx\"', heading 'No closely related resource found', live region '0 results found.', text 'No resources matched this search and the selected choices. Try a shorter phrase or a resource title.' with links 'Clear search' and 'Browse all resources', followed by 'More ways to explore'. Box keeps 'zzqqxx'."
+   },
+   {
+    "action": "Verify all 24 result links shown for interpreter and waiver (in-page fetch), render the first 3 of each in the browser, click the first interpreter result, click 'Browse all 193 results'",
+    "result": "24/24 return HTTP 200 with a real page and matching h1 (an earlier pass that flagged 23 as 'not found' was a false positive: the not-found boundary is serialised in every page's flight data; literal check and browser rendering confirm the pages are fine). First result opened /library/lm-interpreter ('Working with a spoken-language interpreter', 626 ms) with 'Find another resource' / 'Library' links back. 'Browse all' -> /library?q=interpreter&browse=all#results-title lists all 193 rows and scrolls to the heading. Rendering /learning/self-directed/index.html?course=A21 produced a 404 for /learning/geffen-read-aloud/courses/self-directed-A21.json (see problems); the page itself rendered (h1 'Self-directed learning', 14 kB of text)."
+   },
+   {
+    "action": "Persistence checks and storage inspection",
+    "result": "/library?q=waiver shows 'waiver' + '160 results'; unchanged after reload; /library with no query shows an empty box; browser Back restores /library?q=waiver with the box filled. Home form resets to defaults after reload. localStorage/sessionStorage/cookies were empty for the whole home+search flow; the only key that ever appeared was 'one-dsd-learning-A21', written by the legacy static self-directed course page. Search and form state are carried solely by the URL and rendered by the server."
+   },
+   {
+    "action": "Open root / (desktop and 390px), wait 4 s, click 'Enter One DSD'",
+    "result": "HTTP 200, lang=en. A welcome/splash page: hero image (alt text 269 chars, loaded), DHS logo, QR code (linked to /home), one button 'Enter One DSD ->' linking to /home, footer 'Property of Gary Banks'. No header nav, no skip link, no forms, no meta refresh, no auto-redirect after 4 s. Clicking Enter rendered /home in ~0.4-0.5 s. On a 390px phone the Enter button is within the first screen (top 239 px of 844)."
+   },
+   {
+    "action": "Timing probe of client-side transitions (hooked pushState/replaceState/fetch, 250 ms DOM polling)",
+    "result": "Transitions nav Learn 1.3 s, Show me 0.76 s, Enter 0.5 s, Resource library 1.0 s, Learn->Practice 0.76 s; the 'Opening your page...' fallback shows for 0.25-1 s then real content; document preserved (SPA), no errors, /home idle for 15 s makes no requests. My first run's 'stuck on placeholder' readings were an artifact of waitForLoadState resolving immediately after pushState."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fhome",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fstart",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fpractice",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsupport",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fcultural-intelligence",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fmy-work",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fequity-toolkit",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fpractice-guides%2Finclusive-meetings",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsupport%2Fright-person",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fpractice-guides%2Fclearer-processes",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flibrary",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flibrary%2Flm-interpreter",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flibrary%2Fja-language-access-checklist",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flibrary%2Fja-access-checks",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fcourses%2Fdc-l22-equity-in-waiver-and-hcbs-program-design",
+    "status": 0
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fcourses%2Fdsd-leading-system-change",
+    "status": 0
+   }
+  ],
+  "consoleErrors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found) - on https://one-dsd-people-access-culture-production.up.railway.app/learning/self-directed/index.html?course=A21, resource /learning/geffen-read-aloud/courses/self-directed-A21.json (only console error observed; zero console errors on /home, /, /library searches and all nav/form navigations)"
+  ],
+  "persistence": "Nothing in the home+search flow is persisted client- or server-side: the /home role/task selects reset to defaults after reload or after returning to /home; the library search state (query, result heading) survives reload and browser Back only because it lives in the URL query string (GET /library?q=...), re-rendered by the server. localStorage, sessionStorage and cookies stayed empty for the whole flow (CSP connect-src 'self'; no session cookie). The one exception observed is outside this flow: the legacy static page /learning/self-directed/index.html?course=A21 writes localStorage key 'one-dsd-learning-A21'. The 44 /api/page-text calls were GET-only (read-aloud text), 40 returned 200 and 4 were aborted by my own navigating away (status 0 above); none write data.",
+  "problems": [
+   {
+    "severity": "low",
+    "title": "Self-directed course page (reachable from 'waiver' search results) requests a missing read-aloud JSON file (404) and logs a console error",
+    "detail": "The third result for 'waiver' links to the legacy static page /learning/self-directed/index.html?course=A21 ('Policy and Legislative Analysis through an Equity Lens'). The page renders (h1 'Self-directed learning', 14 kB of text) but its script requests /learning/geffen-read-aloud/courses/self-directed-A21.json, which returns HTTP 404 and produces the only console error of the whole test; the read-aloud feature for that course presumably cannot work. This was the only 4xx/5xx response observed in the entire run.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/learning/self-directed/index.html?course=A21",
+    "repro": "1. Open https://one-dsd-people-access-culture-production.up.railway.app/library?q=waiver. 2. Click the result 'Policy and Legislative Analysis through an Equity Lens'. 3. Open the browser console / network tab: GET /learning/geffen-read-aloud/courses/self-directed-A21.json -> 404."
+   },
+   {
+    "severity": "low",
+    "title": "Header logo labelled '...home' takes visitors back to the splash gate '/' rather than /home",
+    "detail": "The header brand link <a class=\"dsd-brand\" aria-label=\"One DSD People, Access and Culture home\" href=\"/\"> leads to the welcome page '/', which has no navigation, only the QR code and an 'Enter One DSD' button. A visitor who clicks the logo expecting the home page lands on the splash and must click 'Enter One DSD' again; every other nav link renders a content page. Workaround: the Start link or 'Enter One DSD'.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/home",
+    "repro": "1. Open https://one-dsd-people-access-culture-production.up.railway.app/home. 2. Click the DHS logo / 'One DSD People, Access and Culture' brand block in the header. 3. You land on '/' (splash, h1 'One DSD People, Access and Culture', no nav) instead of /home."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "Learn hub, filters, courses and read-aloud",
+  "verdict": "works with problems",
+  "summary": "The Learn hub, its four filter controls (search, theme, level, format), the theme page, browse=all, /courses, /learn/paths, course detail pages, lesson pages and the self-directed course viewer all load and behave correctly; filtering changes result counts as expected and selections survive the GET round-trip. Progress is browser-local only (localStorage): the self-directed viewer saves the page you are on (one-dsd-learning-F02 = {page, visitedAt}) and restores it after reload; /courses lessons save answers under pac-course:* keys and restore them after reload. The suspected read-aloud defect is confirmed: every course page requests /learning/geffen-read-aloud/courses/<course>.json and gets a 404 (self-directed-F02, self-directed-F01, F05, I01, A01, F24, anti-racism-resource, disability-and-language all 404), so the \"Listen through the page\" panel stays hidden and there is no read-aloud control a user can press on any course page. The page falls back silently to text (no visible error), so this is medium rather than high. No /api/ calls other than GET /api/page-text (all 200). No forms were submitted and POST /api/ask was not called.",
+  "steps": [
+   {
+    "action": "Open /learn",
+    "result": "HTTP 200, title 'Learning and resources'. Filter form (role=search, GET /learn) has 4 controls: search input q, selects theme (8 themes), level (3), type (8 formats). The three selects sit inside a closed <details> 'Choose a theme, learning level, or format'. Hub default shows curated Core 15 (15 course links) plus collections."
+   },
+   {
+    "action": "Open the filter disclosure, select theme=access, click Search",
+    "result": "Navigated to /learn?q=&theme=access&level=&type=; theme select re-rendered as 'access'; page shows '198 resources found', 182 course links. Filtering works."
+   },
+   {
+    "action": "Add level=foundation and type=learning_module, submit",
+    "result": "/learn?q=&theme=access&level=foundation&type=learning_module; all three selects retained their values; '44 resources found', 44 course links. Combined filters narrow correctly."
+   },
+   {
+    "action": "Search q=interpreter",
+    "result": "/learn?q=interpreter&theme=&level=&type=; '194 resources found', results include interpreter-related items."
+   },
+   {
+    "action": "Open /learn?theme=identity",
+    "result": "HTTP 200, theme select preselected 'identity', '355 resources found', 342 course links, the identity theme nav link marked aria-current. Sub-links carry the theme through (/library?theme=identity, /learn/sources?theme=identity) and a 'Clear filters' link appears."
+   },
+   {
+    "action": "Open /learn?browse=all",
+    "result": "HTTP 200, full catalog rendered: 709 course/resource links vs 15 on the default hub. Works."
+   },
+   {
+    "action": "Open /courses and click first course",
+    "result": "HTTP 200; /courses has level select + search, 6 featured courses and 'Browse all 694 courses'. Clicked 'Anti-Racism as Ordinary Work' -> /courses/anti-racism-resource (detail page with Save resource, Share, 'Start learning')."
+   },
+   {
+    "action": "Click 'Start learning' on the course detail",
+    "result": "-> /courses/anti-racism-resource/ar-whose-work, lesson 'Whose work this is' with 10 radios, 'Check answer', 'Try again', 'Reset this lesson', 'Next lesson' link. Course started successfully."
+   },
+   {
+    "action": "Open /learn/paths and open 'Make access work in practice'",
+    "result": "HTTP 200; 5 path links. /learn/paths/access-and-communication lists 8 courses. Clicked 'Disability and Language Together' -> /courses/disability-and-language, then 'Start learning' -> /courses/disability-and-language/dl-two ('Two gates'). Course started successfully."
+   },
+   {
+    "action": "Open /learning/self-directed/index.html?course=F02 with cleared localStorage",
+    "result": "HTTP 200. Page renders the self-directed catalog (72 courses, level/curriculum/search filters) with the F02 viewer below (slide image build/F02/renders/slide-001.png, Previous/Next, Save to My work, Clear saved place). On load the page requests GET /learning/geffen-read-aloud/courses/self-directed-F02.json -> 404 (text/html), logged as a console error. localStorage immediately gets one-dsd-learning-F02 = {page:1, visitedAt}."
+   },
+   {
+    "action": "Find and press the read-aloud / listen control on F02",
+    "result": "The only listen control in the DOM is a button 'Listen through the page' inside <aside id='geffen-page-reading'>, but the aside has hidden=true because the read-aloud JSON 404'd, so nothing is visible or clickable for a user (no visible element matching listen/read aloud). Force-clicking it via the DOM does nothing: audio src stays null, no status message, no new request. The page silently falls back to text."
+   },
+   {
+    "action": "Progress on F02: click Next 3 times",
+    "result": "Slide advanced to slide-004.png; localStorage one-dsd-learning-F02 updated to {page:4}. Each Next re-requested the F02 read-aloud JSON (404 again). No 'mark complete' checkbox or completion control exists in this viewer; progress is only a saved page place."
+   },
+   {
+    "action": "Reload F02",
+    "result": "Viewer reopened at slide-004 (page 4 restored from localStorage). Persistence works and is browser-local (progress-storage.js header says 'Browser-local course places only. No submission, score or official record.'). No server request carried progress."
+   },
+   {
+    "action": "Click 'Save this course to My work', then 'Clear this course's saved place'",
+    "result": "Save wrote one-dsd-saved-resources-v1 with {href:'/courses/self-directed-F02', title:'Cultural Humility in Everyday Public Service'} (button label did not visibly change on F02). Clear removed one-dsd-learning-F02, status text 'This course's saved place has been cleared from this browser.', viewer returned to slide 1."
+   },
+   {
+    "action": "Open /learn/self-directed",
+    "result": "Redirect chain /learn/self-directed -> /learning/self-directed/index.html -> ...?course=F01 (HTTP 200 end state). Catalog shows '72 courses available'; level=Intermediate -> 24 courses; curriculum=policy -> 4 courses (client-side filtering works). Listen control again hidden; self-directed-F01.json -> 404."
+   },
+   {
+    "action": "Direct GET of read-aloud indexes via in-page fetch",
+    "result": "self-directed-F02, F01, F05, I01, A01, F24 .json all 404 text/html; /learning/geffen-read-aloud/ -> 404; /learning/geffen-read-aloud/legacy-course-player.js -> 200 (so the folder exists but the courses/ index files are missing)."
+   },
+   {
+    "action": "Nav 'Listen' item on /learn",
+    "result": "Links to /audio-library (HTTP 200, 'Audio library', 2 audio elements). This is a separate audio library, not per-page read-aloud."
+   },
+   {
+    "action": "Lesson progress: on /courses/anti-racism-resource/ar-whose-work pick first radio, click 'Check answer', reload",
+    "result": "Feedback text shown and 'Saved.' live message; localStorage pac-course:anti-racism-resource:ar-whose-work = {fields:{block-4:'0'}, submitted:{block-4:true}, completed:false} and pac-course-resume:anti-racism-resource = 'ar-whose-work'. After reload the radio is still checked and the feedback is still shown. 'Save resource' button changes to 'Saved to My work' and writes one-dsd-saved-resources-v1. All browser-local; no API write."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fcourses",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fcourses%2Fanti-racism-resource",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fcourses%2Fanti-racism-resource%2Far-whose-work",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fpaths",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fpaths%2Faccess-and-communication",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fcourses%2Fdisability-and-language",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fcourses%2Fdisability-and-language%2Fdl-two",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Faudio-library",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [
+   "/courses/anti-racism-resource :: Failed to load resource: 404 (GET /learning/geffen-read-aloud/courses/anti-racism-resource.json)",
+   "/courses/anti-racism-resource/ar-whose-work :: Failed to load resource: 404 (same JSON)",
+   "/courses/disability-and-language :: Failed to load resource: 404 (GET /learning/geffen-read-aloud/courses/disability-and-language.json)",
+   "/courses/disability-and-language/dl-two :: Failed to load resource: 404 (same JSON)",
+   "/learning/self-directed/index.html?course=F02 :: Failed to load resource: 404 (GET /learning/geffen-read-aloud/courses/self-directed-F02.json), repeated on every page load and every Next click",
+   "/learning/self-directed/index.html?course=F01 :: Failed to load resource: 404 (GET /learning/geffen-read-aloud/courses/self-directed-F01.json)"
+  ],
+  "persistence": "All learning progress is browser-local (localStorage), never server-side. Self-directed viewer: key one-dsd-learning-<courseId> = {page, visitedAt} written by progress-storage.js on every page change; after reload F02 reopened at the saved page 4; 'Clear this course's saved place' removes the key. /courses lessons: keys pac-course:<course>:<lesson> (fields, submitted, completed:false) and pac-course-resume:<course>; the checked radio and feedback survived a reload. 'Save to My work' writes one-dsd-saved-resources-v1. No POST/PUT requests were made during any of this; the only /api/ traffic was GET /api/page-text.",
+  "problems": [
+   {
+    "severity": "medium",
+    "title": "Read-aloud index files are missing (404), so no listen control is ever shown on course pages",
+    "detail": "legacy-course-player.js fetches /learning/geffen-read-aloud/courses/<course>.json on every course page load and page change. Every one tested returned 404 text/html: self-directed-F02, F01, F05, I01, A01, F24, anti-racism-resource, disability-and-language. Because the fetch fails, the <aside id='geffen-page-reading'> panel (with the 'Listen through the page' button, passage select and audio element) remains hidden=true, so a user sees no read-aloud/listen control at all and gets no explanation. The page falls back silently to text (by design in the script's catch), and each failure also produces a console error; the F02 viewer re-requests the same 404 on each Next click. The /learning/geffen-read-aloud/ folder exists (legacy-course-player.js serves 200), only the courses/ index files are absent, suggesting the generated recordings/index were not deployed.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/learning/self-directed/index.html?course=F02",
+    "repro": "1. Open the URL with DevTools Network open. 2. Observe GET /learning/geffen-read-aloud/courses/self-directed-F02.json -> 404. 3. Scroll to the course viewer: there is no Listen/read-aloud control; in the DOM, aside#geffen-page-reading has hidden=true. 4. Click Next: the same 404 request repeats. Same on /courses/anti-racism-resource (anti-racism-resource.json 404)."
+   },
+   {
+    "severity": "low",
+    "title": "Deep link ?course=F02 lands at the top of the catalog rather than at the course viewer",
+    "detail": "Opening /learning/self-directed/index.html?course=F02 (and /learn/self-directed, which redirects to ...?course=F01) renders the 72-course catalog header and filters at the top of the viewport; the selected course's slide viewer is further down the page and is not scrolled into view, so a visitor following a course link from /learn sees the catalog first.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/learning/self-directed/index.html?course=F02",
+    "repro": "1. From /learn click 'Cultural Humility in Everyday Public Service' (or open the URL directly) in a 1280x900 window. 2. Observe the page is at scroll position 0 showing 'Self-directed learning' heading, filters and '72 courses available'; the F02 slide viewer is below the fold. See screenshot 12-f02-course.png."
+   },
+   {
+    "severity": "low",
+    "title": "'Save this course to My work' on the self-directed viewer gives no visible confirmation",
+    "detail": "On the F02 viewer, clicking #save-resource writes the item to localStorage (one-dsd-saved-resources-v1) but the button text stayed 'Save this course to My work' and no status message appeared one second after the click. On /courses lesson pages the equivalent button changes to 'Saved to My work', so the self-directed viewer is inconsistent.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/learning/self-directed/index.html?course=F02",
+    "repro": "1. Open the URL, scroll to the course viewer. 2. Click 'Save this course to My work'. 3. Observe the button label does not change; localStorage key one-dsd-saved-resources-v1 is nevertheless written."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "Library search and saving",
+  "verdict": "works with problems",
+  "summary": "The Library workflow works end to end: /library loads, the GET-based search form (q + role/theme/level selects behind a \"Choose a theme, learning level, or role\" disclosure) returns relevant results and keeps its state in the URL, /library?browse=all lists the full catalog (71 library items plus 622 course and 72 learning links), \"Save resource\" on a resource page works and the item appears on /my-work and survives reload. Saving is browser-only (localStorage; no cookies, no POST, not visible in a fresh browser context; the UI itself says \"Saved to My work on this device\"). /learn/sources and /learn/clas single-input forms both filter correctly. No console errors and no HTTP >= 400 responses; the only /api calls are GET /api/page-text?route=... (all 200). Two problems found: the primary \"Read this resource\" button on every resource page has its label rendered in the same colour as its background (invisible text), and the CLAS page search with no matches shows empty sections with stale \"63 courses\"/\"32 courses\" copy and no \"no results\" message. Note: the library form has no \"type\" filter; the closest are theme and level, which were used.",
+  "steps": [
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/library",
+    "result": "HTTP 200, title 'Library | One DSD People, Access and Culture', h1 'Library'. Form #find-resource is method=GET action=/library with inputs q, role, theme, level (the three selects are inside a collapsed <details> 'Choose a theme, learning level, or role')."
+   },
+   {
+    "action": "Type 'plain language' in #q and click Search",
+    "result": "Navigated to /library?q=plain+language&role=&theme=&level=. Page shows 'Search results for \"plain language\"', '541 results', 'Showing 1-12 of 541 results'. First results are relevant: 'Plain language carries complexity', 'Plain language and accessible documents checklist', 'Plain Language as an Equity Practice', etc. Results mix library items, courses, learning pages and practice guides. Search is served by the page itself (no search API call)."
+   },
+   {
+    "action": "Open the filter disclosure, choose theme=access (keeping the search) and click 'Apply choices'",
+    "result": "URL /library?q=plain+language&role=&theme=access&level=. Count dropped to 119 results; results still plain-language/access related. After reload the form shows q='plain language' and theme='access' retained."
+   },
+   {
+    "action": "Filter level=foundation alone",
+    "result": "URL /library?q=&role=&theme=&level=foundation; 'Showing 1-12 of 252 resources'."
+   },
+   {
+    "action": "Search nonsense term 'zzqqxxnotaword' and 'xyzzy'",
+    "result": "'0 results found. No resources matched this search and the selected choices. Try a shorter phrase or a resource title.' with Clear search / Browse all resources links. Correct empty state."
+   },
+   {
+    "action": "Count comparison: 'plain' 211, 'language' 527, 'interpreter' 193 results",
+    "result": "Counts are large because search spans the whole catalog (courses included, 622 courses in browse=all); 'plain language' (541) is fewer than 'language' (527)+... i.e. appears to be OR-like matching on the two words, but top ordering is relevant ('Most relevant first')."
+   },
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/library?browse=all",
+    "result": "HTTP 200. Full catalog listed: 8 theme links, 71 /library/ items, 72 /learning/ pages, 622 /courses/ links, 3 practice guides."
+   },
+   {
+    "action": "Open /library/ja-plain-language and click 'Save resource'",
+    "result": "HTTP 200, h1 'Plain language and accessible documents checklist'. After click the button reads 'Saved to My work' and a status region says 'Saved to My work on this device.' No network request of any kind was made by the click; localStorage changed."
+   },
+   {
+    "action": "Open /my-work, then reload",
+    "result": "HTTP 200. 'Saved resources' section lists 'Plain language and accessible documents checklist' with a Remove link; still present after reload."
+   },
+   {
+    "action": "Open /my-work in a fresh browser context (no storage), and inspect cookies",
+    "result": "Saved resource absent; original context had zero cookies. Persistence is localStorage only (page copy also states 'It stays on this computer, private to you')."
+   },
+   {
+    "action": "Open /learn/sources and submit the single select (theme=disability) via 'Show sources'",
+    "result": "HTTP 200; 944 external source links before, 330 after; URL /learn/sources?theme=disability; select retains 'disability'."
+   },
+   {
+    "action": "Open /learn/clas and submit the single search input with 'interpretation' (Enter)",
+    "result": "HTTP 200, h1 'National CLAS Standards'. URL /learn/clas?q=interpretation; library links in collection dropped 12 -> 0, course links 192 -> 134, a 'Clear' link appears; query persists after reload."
+   },
+   {
+    "action": "/learn/clas search with nonsense 'xyzzyqq'",
+    "result": "All course and library lists are empty but section headings remain, with static text still saying '63 courses include CLAS...' and 'These 32 courses cite CLAS...'; no 'no results' message."
+   },
+   {
+    "action": "Inspect blue 'Read this resource' primary button on resource pages (ja-plain-language, ja-language-access-checklist, lm-interpreter)",
+    "result": "Computed color rgb(0,94,168) equals background rgb(0,94,168): label is invisible (class resource-design_primaryAction__K1AmS). The anchor (href #resource-reading) still works."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flibrary",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flibrary%2Fja-plain-language",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fmy-work",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fsources",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fclas",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [],
+  "persistence": "Saving a resource persists across page reloads in the same browser, but it is browser-only: the Save click sent no network request, no cookies exist, localStorage changed, and a fresh browser context shows an empty 'Saved resources' list. The UI states this explicitly ('Saved to My work on this device'). Search/filter state persists only via URL query parameters (GET forms). The only server API traffic observed was GET /api/page-text?route=... (one per page view, repeated on each navigation, all 200); no POST requests were made during the whole run.",
+  "problems": [
+   {
+    "severity": "medium",
+    "title": "'Read this resource' primary button label is invisible (text colour equals background)",
+    "detail": "On resource detail pages the primary call-to-action anchor 'Read this resource' (class resource-design_primaryAction__K1AmS, href #resource-reading) has computed color rgb(0,94,168) and background rgb(0,94,168), so it renders as a blank blue rectangle. The link still works if clicked, and the content is reachable by scrolling, but users cannot see what the button does. Confirmed on /library/ja-plain-language, /library/ja-language-access-checklist and /library/lm-interpreter at 1280px wide in Chromium.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/library/ja-plain-language",
+    "repro": "1. Open the URL. 2. Look below the intro paragraph: a solid blue button with no visible text. 3. Inspect it: getComputedStyle(a).color === getComputedStyle(a).backgroundColor === rgb(0,94,168). Screenshots: 05-resource-saved.png, 09-read-button.png."
+   },
+   {
+    "severity": "low",
+    "title": "CLAS page search with no matches shows empty sections and stale counts instead of a 'no results' message",
+    "detail": "On /learn/clas, a query that matches nothing (e.g. xyzzyqq) leaves the 'Learn the standards', 'Three ways into CLAS', 'Courses that discuss CLAS' and 'Related courses' sections empty while their intro copy still says '63 courses include CLAS...' and 'These 32 courses cite CLAS...'. There is no 'no results' message; only a 'Clear' link next to the search box. The main /library search handles this correctly.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/learn/clas?q=xyzzyqq",
+    "repro": "1. Open /learn/clas. 2. Type 'xyzzyqq' in 'Find something in this collection' and press Enter. 3. Scroll: headings remain with no items and the course-count sentences are unchanged. Screenshot: 08b-clas-nonsense.png."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "Find the right person helper",
+  "verdict": "works",
+  "summary": "The \"Find the right person\" helper at /support/right-person works end to end. It is a client-side form (3 selects: role, area of work, timing; plus a 3-option radio \"Is the work within DSD?\"; no free-text field, so nothing is sent to the server). Submitting with blanks shows inline validation messages via aria-live (\"Choose the role closest to your work.\", \"Choose the area closest to your task.\", \"Choose when you need to act.\"). Three complete walkthroughs each produced a sensible, complete recommendation panel: a headline (\"Find support for DSD work\" when DSD is self-attested, \"Connect with the right person\" otherwise), a timing-specific \"Begin with the work\" next step with two buttons (Review this area -> /areas#<area>, Find material -> /library?q=<area>), and a \"People and offices to consider\" list naming roles/offices (e.g. \"The responsible accessibility or language access lead\", \"Human Resources\", \"The appropriate civil-rights channel\", \"Your administration Equity Director\", \"An Equity Specialist supporting your area\", \"The responsible policy or program owner\") with supporting mn.gov guidance links and a closing link to /support/directory. Recommendations vary correctly with inputs (language-access scenario added the access lead + civil-rights channel; policy scenario added the policy/program owner; HR/outside-DSD scenario led with Human Resources). The /areas anchors referenced by \"Review this area\" exist, and /library?q= and /support/directory render. No /api call is made on submit; the only /api traffic is GET /api/page-text?route=... (200) on page load. No console errors, no page errors, no responses >= 400. Answers and results are NOT persisted: after a reload the form resets and the result panel returns to its placeholder; localStorage, sessionStorage and cookies are all empty. All 24 unique links on /support (and the internal result links) returned 200. Of 7 external mn.gov links in results, 5 returned 200 via curl; 2 (DHS accessibility page and civil-rights-in-human-services page) redirected curl to a ShieldSquare/perfdrive bot-check and the headless browser could not resolve mn.gov in this sandbox, so those two could not be confirmed from here (likely bot protection, not a broken link). Two low-severity notes only; no blocking issues found.",
+  "steps": [
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/support/right-person and inspect the form",
+    "result": "Title 'Find the right person | One DSD People, Access and Culture'. One form (method GET, no action beyond same URL, handled client-side) with #support-role (11 options), #support-task (9 options), #support-urgency (4 options), radio group dsd-eligibility (not_checked / self_attested_dsd / not_dsd, default not_checked). No textarea or text input. Only API call on load: GET /api/page-text?route=/support/right-person 200."
+   },
+   {
+    "action": "Click 'Show who can help' with nothing selected",
+    "result": "No navigation; aria-live region shows 'Choose the role closest to your work.' Result panel stays on placeholder 'Who can help will appear here'. Screenshot 01-empty-submit.png."
+   },
+   {
+    "action": "Select role only, submit",
+    "result": "Validation messages 'Choose the area closest to your task.' and 'Choose when you need to act.' shown (07-validation-role-only.png)."
+   },
+   {
+    "action": "Scenario A (language access question): role=Staff member, area=Accessibility and language access, timing=within two weeks, DSD=within DSD; submit",
+    "result": "Panel 'Find support for DSD work'. Next step: 'Begin with the next decision and identify who needs to be involved before the two-week point.' Buttons: Review this area (/areas#accessibility_language_access), Find material (/library?q=Accessibility%20and%20language%20access). Roles listed: Your supervisor or manager; The responsible accessibility or language access lead (links: reasonable-accommodation policy PDF, accessible public materials page, language-block PDF); Human Resources (careers, agency directory); The appropriate civil-rights channel (discrimination PDF, civil-rights page); Your administration Equity Director; An Equity Specialist supporting your area; closing link 'DHS offices and guidance' -> /support/directory. 0 API calls on submit. Screenshot 02-scenario-language-access.png."
+   },
+   {
+    "action": "Reload the page after scenario A",
+    "result": "Form reset to blanks (radio back to not_checked), result panel back to placeholder. localStorage/sessionStorage/cookies empty. Screenshot 03-after-reload.png."
+   },
+   {
+    "action": "Scenario B (waiver eligibility / policy question): role=Policy, program, or service professional, area=Policy, program, and service design, timing=firm deadline, DSD=not sure; submit",
+    "result": "Panel 'Connect with the right person'. Next step: 'Name the deadline and the decision that must be made, and leave time for responsible review.' Buttons: Review this area (/areas#policy_program_service_design), Find material (/library?q=Policy...). Roles: The responsible policy or program owner (DHS agency office directory); Your supervisor or manager; Your administration Equity Director; An Equity Specialist supporting your area; link to /support/directory. 0 API calls. Screenshot 04-scenario-waiver-policy.png."
+   },
+   {
+    "action": "Scenario C (HR, outside DSD): role=Workforce or HR professional, area=Workforce equity, timing=planning ahead, DSD=outside DSD; submit",
+    "result": "Panel 'Connect with the right person'; next step 'You have room to review sources, involve people early...'. Roles: Human Resources (accommodation PDF, careers, directory); Your supervisor or manager; Equity Director; Equity Specialist; link to /support/directory. 0 API calls. Screenshot 05-scenario-not-dsd.png."
+   },
+   {
+    "action": "Verify recommendation link targets: /areas anchors, /library?q=, /support/directory",
+    "result": "All three /areas#ids exist on /areas; /library?q=... renders the Library with search; /support/directory renders 'DHS offices and guidance' with a download link. All 200."
+   },
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/support and check every link",
+    "result": "24 unique links (nav, Ask, Library, Find the right person, Explore an area, One DSD map, program model, explainer video/transcript/captions, directory, footer pages). All returned HTTP 200 via curl. Only API call: GET /api/page-text?route=/support 200. Screenshot 06-support.png."
+   },
+   {
+    "action": "Check the 7 external mn.gov links shown in recommendations",
+    "result": "5 returned 200 (agency directory, careers page, 3 PDFs). 2 pages (terms-rights-access/accessibility/ and terms-rights-access/civil-rights-human-services/) returned a 302 to a validate.perfdrive.com bot-check for curl, and headless Chromium could not resolve mn.gov in this sandbox, so they could not be confirmed here."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsupport%2Fright-person",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsupport%2Fright-person",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsupport",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [],
+  "persistence": "Not persisted. The helper is fully client-side: submitting makes no network request, and after a page reload the three selects reset to blank, the DSD radio returns to the default 'not sure', and the result panel returns to its placeholder. localStorage, sessionStorage and document.cookie were all empty after use, so there is neither browser-side nor server-side persistence for this form. (The page footer says saved items stay on this computer, but this helper does not save anything.)",
+  "problems": [
+   {
+    "severity": "low",
+    "title": "Form is submittable with the DSD radio left on its default; no explicit choice required",
+    "detail": "The radio group 'Is the work within DSD?' defaults to 'I'm not sure', so the helper's validation only checks the three selects. The page copy says 'Answer the three questions', which is consistent, but a user who skips the radio silently gets the non-DSD 'Connect with the right person' variant rather than being prompted. Cosmetic/UX only; the result is still sensible.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/support/right-person",
+    "repro": "Select any role, area and timing; do not touch the radio group; click 'Show who can help'. A result appears without any prompt about the DSD question."
+   },
+   {
+    "severity": "low",
+    "title": "Two mn.gov result links could not be verified from the test environment (bot-check redirect)",
+    "detail": "'Accessible public materials guidance' (https://mn.gov/dhs/about-us/about-human-services/terms-rights-access/accessibility/) and 'Civil rights in human services' (https://mn.gov/dhs/about-us/about-human-services/terms-rights-access/civil-rights-human-services/) redirected curl to a validate.perfdrive.com ShieldSquare challenge; the headless browser could not resolve mn.gov in this sandbox. This is almost certainly mn.gov bot protection rather than a broken link (the other 5 mn.gov links returned 200), but a human should spot-check these two.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/support/right-person",
+    "repro": "Run scenario A (Staff member / Accessibility and language access / within two weeks / within DSD), click 'Accessible public materials guidance' or 'Civil rights in human services' in the results."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "Audio library playback and share",
+  "verdict": "works with problems",
+  "summary": "The audio library works end to end. The page lists 2 podcast recordings (DHS equity policy and toolkit, 46:47; Anti-racism in public service, 26:24) with 20 \"Play from\" chapter buttons, plus 8 course links. Explore is a GET form (/audio-library?theme=...) that filters correctly (policy keeps both recordings + 4 courses; workforce shows 0 recordings + 3 courses). Share copies a per-podcast link (e.g. /podcasts/equity-toolkit?view=one_dsd) to the clipboard and shows a role=status message \"Link copied. It opens this podcast only.\"; both share links open with HTTP 200 to the podcast page with one audio element. Four \"Play from\" buttons (two per recording) all seeked to the correct timestamp and started playback (readyState 4, no media error); the server supports byte ranges (206). Both MP3s return 200 audio/mpeg (33.7 MB and 38.0 MB). index.json returns 200 with a 4-key object. The only /api/ call is GET /api/page-text?route=/audio-library (200). No console errors, no 4xx/5xx. Playback position is not persisted across reload (no localStorage/sessionStorage written; positions reset to 0). One medium issue: pressing \"Play from\" on the second recording does not pause the first, so two recordings play at the same time.",
+  "steps": [
+   {
+    "action": "GET /audio-library in headless Chromium",
+    "result": "200; title 'Audio library | One DSD People, Access and Culture'; 2 <audio> elements (preload=none) with src /audio/dhs-equity-policy-and-toolkit.mp3?v=trim25-20260926 and /audio/anti-racism-public-service.mp3; 20 'Play from' buttons, 4 Share buttons, 1 Explore button, 8 course links; page reports '2 recordings in this collection, plus 8 courses with listening'"
+   },
+   {
+    "action": "Select theme 'Policy, programs and public decisions' and press Explore",
+    "result": "Navigated to /audio-library?theme=policy (GET form, read-only); select retained value 'policy'; 2 recordings + 4 courses shown; 20 Play-from buttons"
+   },
+   {
+    "action": "Select theme 'Workplace culture and staff development' and press Explore",
+    "result": "Navigated to /audio-library?theme=workforce; '0 recordings in this collection, plus 3 courses with listening'; no audio elements, no error"
+   },
+   {
+    "action": "Press Share on recording 1 (DHS equity policy and toolkit)",
+    "result": "navigator.clipboard.writeText called with https://one-dsd-people-access-culture-production.up.railway.app/podcasts/equity-toolkit?view=one_dsd; inline <span role=status> 'Link copied. It opens this podcast only.' appeared; no navigation, no new tab, no /share/ URL, no navigator.share call"
+   },
+   {
+    "action": "Press Share on recording 2 (Anti-racism in public service)",
+    "result": "Clipboard received https://one-dsd-people-access-culture-production.up.railway.app/podcasts/anti-racism-public-service?view=one_dsd; same 'Link copied' status message"
+   },
+   {
+    "action": "Open both copied share links in a new tab",
+    "result": "Both HTTP 200; ?view=one_dsd is stripped on load (final URLs /podcasts/equity-toolkit and /podcasts/anti-racism-public-service); h1 matches podcast title; 1 audio element each"
+   },
+   {
+    "action": "Press 'Play from 2:09 \u00b7 Roles, tools and administration goals' (recording 1)",
+    "result": "Audio 1 currentTime 133.1s, paused=false, readyState 4, networkState 1, error null, duration 2807.72s; browser issued Range request bytes=1540096- for the MP3"
+   },
+   {
+    "action": "Press 'Play from 26:26 \u00b7 The equity analysis quick guide' (recording 1)",
+    "result": "Audio 1 currentTime 1589.6s, playing, no error; Range request bytes=19005440-"
+   },
+   {
+    "action": "Press 'Play from 6:11 \u00b7 Anti-racism as a deliberate practice' (recording 2)",
+    "result": "Audio 2 currentTime 374.9s, playing, duration 1584.38s, no error; Range requests bytes=0- then bytes=8912896-. Audio 1 kept playing simultaneously (paused=false, currentTime 1593s)"
+   },
+   {
+    "action": "Press 'Play from 21:23 \u00b7 Taking concerns seriously and building trust' (recording 2)",
+    "result": "Audio 2 currentTime 1287.1s, playing, no error; Range request bytes=30801920-. Audio 1 still playing at 1596s"
+   },
+   {
+    "action": "Inspect storage, then reload /audio-library",
+    "result": "localStorage and sessionStorage both empty before and after reload; after reload both audios paused at currentTime 0 (no position persistence)"
+   },
+   {
+    "action": "curl HEAD + Range GET on /audio/dhs-equity-policy-and-toolkit.mp3?v=trim25-20260926",
+    "result": "HEAD 200, content-type audio/mpeg, content-length 33693741 (32.1 MB), accept-ranges bytes; Range bytes=0-1023 -> 206, 1024 bytes"
+   },
+   {
+    "action": "curl HEAD + Range GET on /audio/anti-racism-public-service.mp3",
+    "result": "HEAD 200, content-type audio/mpeg, content-length 38026515 (36.3 MB), accept-ranges bytes; Range -> 206, 1024 bytes"
+   },
+   {
+    "action": "curl GET /learning/audio-discussions/index.json",
+    "result": "200, application/json; charset=UTF-8, 271 bytes. Shape: a flat object keyed by course code (A21, A22, F23, F24 \u2014 4 entries), each value {afterSlide: 1, version: '<12-hex-char hash>'}. No podcast entries; it appears to be a manifest for course audio discussions, not the podcast library"
+   },
+   {
+    "action": "Attempted media fetch via Playwright page.request",
+    "result": "Failed with ENOTFOUND (page.request bypasses the proxy in this environment, not a site problem); curl used instead"
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Faudio-library",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Faudio-library",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Faudio-library",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Faudio-library",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Faudio-library",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [],
+  "persistence": "No persistence. Nothing is written to localStorage or sessionStorage during Explore, Share or playback, and no POST/PUT /api/ calls occur. After a reload both audio elements return to currentTime 0 and paused. The only state that survives is the theme filter, which lives in the URL query string (?theme=policy). The only cookie observed is one_dsd_context=one_dsd (program view), not playback state.",
+  "problems": [
+   {
+    "severity": "medium",
+    "title": "Two recordings play at the same time",
+    "detail": "Starting a chapter in the second podcast does not pause the first podcast. After 'Play from 2:09' on 'DHS equity policy and toolkit' and then 'Play from 6:11' on 'Anti-racism in public service', both <audio> elements reported paused=false and advancing currentTime, so a listener hears both recordings overlapping until they manually pause one.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/audio-library",
+    "repro": "1. Open /audio-library. 2. Under 'DHS equity policy and toolkit' click 'Play from 2:09 \u00b7 Roles, tools and administration goals'. 3. Scroll to 'Anti-racism in public service' and click 'Play from 6:11 \u00b7 Anti-racism as a deliberate practice'. 4. Observe both players show a pause icon and both time counters advance."
+   },
+   {
+    "severity": "low",
+    "title": "Playback position is lost on reload",
+    "detail": "No listening position is saved (localStorage, sessionStorage and server are all untouched), so a reload or return visit restarts a 26-47 minute recording from 0:00. The chapter buttons mitigate this, so it is minor.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/audio-library",
+    "repro": "1. Open /audio-library. 2. Click 'Play from 26:26 \u00b7 The equity analysis quick guide'. 3. Reload the page. 4. Player shows 0:00 / 46:47."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "Contribute page and any intake forms (no submission)",
+  "verdict": "works",
+  "summary": "/contribute is a placeholder \"Contributor workspace\" page: a heading, one paragraph saying contributor sign-in is not open yet and that nothing is collected (no drafts, reviews, invitations or sign-in details), and three links back to Library, Practice and Support. It has no form, no inputs, no sign-in button and no API calls other than the site-wide GET /api/page-text. Neither /support nor /one-dsd, nor the 16 pages linked from them (right-person, directory, team, amplify, planning, planning/report, programs, site map, about, my-work, program/progress, areas, user-guide), contains a consultation, request, intake, feedback or sign-up form that posts to the server. The only form on the whole route set is the \"Find the right person\" triage on /support/right-person: a GET form with no action attribute, three selects, one radio group and a \"Show who can help\" button. Submitting it empty triggers three inline aria-live validation messages (\"Choose the role closest to your work.\", \"Choose the area closest to your task.\", \"Choose when you need to act.\") and no network request; submitting with values renders a \"People and offices to consider\" panel client-side, again with zero requests to /api/ (only Next.js RSC link prefetches). Selections do not persist after reload and nothing is written to localStorage, which is consistent with a stateless triage tool rather than an intake. The quarterly report workspace at /one-dsd/planning/report declares itself browser-local (\"saves automatically in this browser... does not send figures anywhere\") and has no form element. Escalation paths on /support and /support/directory are external mn.gov links and the two Teams community links on /one-dsd/team and /one-dsd/amplify. Zero console errors and zero 4xx/5xx responses on any real page; no AI assistant call was made.",
+  "steps": [
+   {
+    "action": "Open /contribute, /support, /one-dsd with Playwright; dump text, links, forms, inputs, buttons, localStorage",
+    "result": "All 200. /contribute: 'Contributor workspace' placeholder, no form/inputs, says sign-in not open and nothing is collected. /support and /one-dsd: no forms or inputs; only button is the mobile 'Menu'. One GET /api/page-text?route=... per page, all 200."
+   },
+   {
+    "action": "Crawl 13 pages linked from those three for forms and words like consultation/intake/request/feedback/sign-up",
+    "result": "Only /support/right-person has a <form> (GET, no action). /my-work has radios + a file input for importing a saved local copy; /one-dsd/planning/report has a quarter select + file input and 'Save/Open saved report' buttons, all described as browser-local. No mailto links. Escalation routes are external mn.gov pages and two teams.live.com community links."
+   },
+   {
+    "action": "Inspect footer 'Participation and privacy' on /contribute and the 'Read how participation and privacy work.' link on /support/right-person",
+    "result": "Footer item is a <details>/<summary> disclosure with an inline privacy paragraph (not a link). The in-page link goes to /about#participation-title, which returns 200. (My own guessed URL /participation-and-privacy returned 404 and is not a site link.)"
+   },
+   {
+    "action": "On /support/right-person click 'Show who can help' with all three selects empty",
+    "result": "Stayed on same URL, no network request. Three inline red aria-live messages appeared under the selects: 'Choose the role closest to your work.', 'Choose the area closest to your task.', 'Choose when you need to act.' Right-hand panel kept the 'Who can help will appear here' placeholder. Screenshot right-person-empty-submit.png."
+   },
+   {
+    "action": "Fill role=Staff member, area=Workforce equity, timing=I'm planning ahead, radio=not sure; click 'Show who can help'",
+    "result": "Right panel rendered 'Connect with the right person' with Review this area / Find material buttons and a 'People and offices to consider' list (supervisor, HR, Equity Director, Equity Specialist) with mn.gov links. Zero requests to /api/; only Next.js RSC prefetches of /areas, /library?q=Workforce%20equity, /support/directory. No form POST anywhere. Screenshot right-person-filled.png."
+   },
+   {
+    "action": "Reload /support/right-person",
+    "result": "All selects reset to empty, radio back to default 'not sure', localStorage empty. No persistence (client-side triage only, nothing stored or sent)."
+   },
+   {
+    "action": "Open /one-dsd/planning/report",
+    "result": "200, 'One DSD Quarterly Report' workspace. No <form>; buttons for adding numbers, save/open report file, print. Page text states it saves in the browser and does not send figures anywhere. Not an intake; not exercised further."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fcontribute",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsupport",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsupport%2Fright-person",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsupport%2Fdirectory",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Fteam",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Famplify",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Fplanning",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Fprograms",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsite-map",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fabout",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fparticipation-and-privacy",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fmy-work",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fprogram%2Fprogress",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fareas",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fuser-guide",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [
+   "[only on my guessed, non-linked URL /participation-and-privacy] Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "persistence": "No state persisted and none is expected. The /support/right-person triage form resets fully on reload, writes nothing to localStorage/sessionStorage and sends nothing to the server (no POST observed; no /api/ call beyond the site-wide GET /api/page-text). /contribute has no state at all and states that nothing is collected. The /my-work and /one-dsd/planning/report workspaces declare themselves browser-local (localStorage/file export), not server-side, but were not exercised beyond loading.",
+  "problems": [],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "Equity toolkit practice tool",
+  "verdict": "works",
+  "summary": "All three Equity Analysis Toolkit pages work end to end. On /learn/equity-toolkit/practice, the five-step practice decision (area selector, 3 answer options per step, feedback text per choice, Previous/Next, process-comparison toggle) behaves correctly, and the five-stage drafting workspace accepts text in every field (including a dynamically added third approach and the stage-5 checklist), saves to My Work, downloads a .txt of the notes, opens a print view in a new tab, and fully restores every entry after reload. Persistence is browser localStorage only (keys one-dsd-practice-plans-v1, one-dsd-saved-resources-v1, one-dsd-three-goal-plan:dsd); a fresh browser context sees nothing, and the UI says so explicitly. /learn/equity-toolkit: Save resource, details toggles, and all six companion downloads (docx/xlsx/pptx/pdf/html/txt) return 200 with correct content types and attachment filenames. /learn/equity-toolkit/goals: goal selector filters resources (4/4/5/22), the three-goal work plan checkboxes and 27 note fields persist across reload, Word and web-page exports download and contain the notes, and Clear all uses an inline confirmation that then resets state. No console errors, no page errors, no 4xx/5xx responses; the only /api/ traffic was GET /api/page-text (200) and the GET /api/downloads links (200). No POST /api/ask or any write call was made. Only minor observations noted below.",
+  "steps": [
+   {
+    "action": "Open /learn/equity-toolkit/practice",
+    "result": "200, title 'Practice with the Equity Analysis Toolkit'; one GET /api/page-text (200); no console errors"
+   },
+   {
+    "action": "Click 'Save resource' (page header card)",
+    "result": "Label changed to 'Saved to My work'; localStorage key one-dsd-saved-resources-v1 created; no API call"
+   },
+   {
+    "action": "Practice decision: choose area 'Eligibility and service delivery' (value=service) then answer steps 1-5 (clicked 2nd option each time) and press Next step",
+    "result": "Each click revealed a 'What this choice brings into view' feedback paragraph specific to the option; Next step advanced; at step 5 Next step is disabled; Previous step works; step tabs clickable"
+   },
+   {
+    "action": "Practice decision: open 'Compare two ways to examine a reminder' and toggle 'Review the wording' / 'Review the whole task'",
+    "result": "Content switches; 'Review the whole task' gets aria-pressed=true"
+   },
+   {
+    "action": "Draft workspace stage 1: name, task type select, decision, decision owner, requirements; open 'Tools for this part of the work' and click 'Keep these links with my notes'",
+    "result": "Fields accept text; button label unchanged after click (no visible confirmation) but the two links appeared in the downloaded notes under a links section"
+   },
+   {
+    "action": "Stage 2 (people, evidence, uncertainties), Stage 3 (two approaches x 5 fields, 'Add another approach', 'Remove this approach', alternatives, proposal), Stage 4 (participation, feedback, action, owner, support)",
+    "result": "Add another approach added a 5-field option block with a UUID id (3 title fields, 3 remove buttons); Remove removed it (3 -> 2); re-added and filled a third approach"
+   },
+   {
+    "action": "Stage 5: outcome, review date 2027-02-15, review, observations; open 'Questions to consider before sharing' and set all 5 checklist selects + notes",
+    "result": "All fields accept input; Next stage disabled on last stage"
+   },
+   {
+    "action": "Click 'Save to My Work'",
+    "result": "Status: 'Saved to My Work in this browser on this device. Nothing has been submitted.' localStorage key one-dsd-practice-plans-v1 (~4.7 KB) created; URL gained ?plan=<uuid>; no network write"
+   },
+   {
+    "action": "Click 'Download my notes'",
+    "result": "Downloaded decision-working-notes.txt (4095 bytes) containing every field incl. option 3, review date, kept links and checklist notes, headed 'Working draft. This is not submitted...'"
+   },
+   {
+    "action": "Click 'Print my notes'",
+    "result": "Opened a new tab (about:blank) titled with the analysis name containing the full formatted notes (4122 chars); main page window.print not called (print happens in the new tab)"
+   },
+   {
+    "action": "Reload practice page",
+    "result": "Draft fully restored: name, decision, outcome, review date, third approach title, checklist value 'reviewed'; Save resource still 'Saved to My work'; the practice-decision quiz (area select and chosen answers) reset to empty"
+   },
+   {
+    "action": "Open /my-work",
+    "result": "Lists 'Practice with the Equity Analysis Toolkit' under Saved resources and 'Appointment reminder change: mail to text (QA example)' under Your saved analyses; page states data 'stays on this computer, private to you'"
+   },
+   {
+    "action": "Open practice page in a fresh browser context",
+    "result": "Draft name field empty: nothing is stored server-side"
+   },
+   {
+    "action": "Click 'Start a new analysis'",
+    "result": "Form cleared (name empty); saved plan remains in localStorage"
+   },
+   {
+    "action": "Open /learn/equity-toolkit; click Save resource; toggle 3 visible details; fetch the 6 companion download links, /share/equity-toolkit, transcript and ADSA PDF",
+    "result": "Save resource -> 'Saved to My work'; details open; docx 16452 B, xlsx 19706 B, pptx 373808 B, pdf 19015 B, html 15451 B, txt 13045 B all 200 with attachment filename equity-analysis-toolkit.*; share page 200; transcript 200; PDF 200 (9.4 MB); 1 media element present"
+   },
+   {
+    "action": "Open /learn/equity-toolkit/goals; Save resource; toggle 10 details; select goals 1, 3, 6, all",
+    "result": "Save resource -> 'Saved to My work'; details open; '4 resources connected to Goal 1', 4 for Goal 3, 5 for Goal 6, '22 resources connected to the six goals'"
+   },
+   {
+    "action": "Goals work plan: tick goals 1, 3, 6; fill all 27 note textareas; click 'Download Word document' and 'Download web page'",
+    "result": "'3 of 3 focus goals selected. You can export your working plan.'; equity-three-goal-working-plan.docx (9367 B, valid Word 2007+) and .html (4757 B, contains all 27 notes) downloaded"
+   },
+   {
+    "action": "Reload goals page",
+    "result": "Checkbox selections and all 27 notes restored from localStorage key one-dsd-three-goal-plan:dsd; goal filter select reset to default"
+   },
+   {
+    "action": "Click 'Clear all plan notes and selections', then 'Yes, clear this draft'",
+    "result": "Inline confirmation appeared ('This cannot be undone in this page' with Yes/Keep buttons); after confirming, all checkboxes unchecked, notes removed, localStorage reset to {selected:[],drafts:{}}"
+   },
+   {
+    "action": "Check 10 internal links on goals page via in-page fetch",
+    "result": "All 200, none broken"
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fequity-toolkit%2Fpractice",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fmy-work",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fequity-toolkit",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fequity-toolkit%2Fgoals",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/equity-toolkit/companion?format=docx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/equity-toolkit/companion?format=xlsx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/equity-toolkit/companion?format=pptx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/equity-toolkit/companion?format=pdf&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/equity-toolkit/companion?format=html&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/equity-toolkit/companion?format=txt&view=one_dsd",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [],
+  "persistence": "Client-side only (browser localStorage), no server writes observed. Draft workspace entries persist across reload under key one-dsd-practice-plans-v1 (after 'Save to My Work'; URL gains ?plan=<uuid>) and appear on /my-work; 'Save resource' persists under one-dsd-saved-resources-v1; goals work plan (selections + notes) persists under one-dsd-three-goal-plan:dsd. A fresh browser context shows empty fields, confirming nothing is stored server-side. The UI states this explicitly ('Saved to My Work in this browser on this device. Nothing has been submitted.'). The practice-decision quiz choices and area selector, and the goals resource-filter select, do not persist across reload.",
+  "problems": [
+   {
+    "severity": "low",
+    "title": "'Keep these links with my notes' gives no visible confirmation",
+    "detail": "After clicking the button its label and surrounding text did not change, so a user cannot tell whether it worked. It did work: the two linked resources appeared in the downloaded notes under the links section.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/learn/equity-toolkit/practice#toolkit-draft",
+    "repro": "In the drafting workspace at stage 1, expand 'Tools for this part of the work', click 'Keep these links with my notes'. Observe no label/status change; then click 'Download my notes' and see the links listed in the .txt."
+   },
+   {
+    "severity": "low",
+    "title": "Practice decision quiz state is lost on reload",
+    "detail": "The area-of-work selector and the answers chosen in the five-step practice decision reset to empty after a page reload, while the drafting workspace below it is restored. Likely intended for a practice exercise, but noted because the two tools on the same page behave differently.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/learn/equity-toolkit/practice#toolkit-practice",
+    "repro": "Choose an area, answer steps 1-5, reload the page: selector returns to 'Explore without choosing an area' and no option is marked as chosen."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "My work, plan and progress pages",
+  "verdict": "works with problems",
+  "summary": "The personal workspace works end to end. /my-work: picking a learning level reveals next-step checklists, choices persist across reload in localStorage (key one-dsd-my-path-v1), and the Word summary, Save a copy (JSON) and Open a saved copy (import, with friendly success and error messages) all work. /my-work/plan: New plan creates an editable plan with 9 fields that autosave to localStorage (one-dsd-practice-plans-v1), survive reload, support multiple plans with a switcher, Download Word (.docx valid), Download text copy, Print or save as PDF (opens a printable report tab), Delete this plan with an inline Yes/Keep confirmation, and a restorable JSON working copy that round-trips through Import working copy (invalid files are rejected with a clear message). /my-work's \"What you have built so far\" updates to acknowledge a saved plan. /program/progress is a static hub of 8 links; every target renders real content. All persistence is per-device localStorage: a fresh browser context sees an empty state and the only /api traffic on these pages is GET /api/page-text (200, returns empty entries) on every page load; no writes went to the server. The one real defect: /program/plan is not a page at all. It returns HTTP 200 but renders the site's \"We could not find that page\" fallback (32 words in main), and it is linked from /start (\"Plan and review your work \u2192\", inside the \"More ways to connect, lead, and find support\" details) and from /program/model (the \"Choose learning for your question\" card). The \"thin content\" seen in the automated pass is a broken route / dead link, not thin-by-design and not waiting on data. Zero console errors, zero HTTP >= 400 responses.",
+  "steps": [
+   {
+    "action": "Open /my-work",
+    "result": "200, title 'My Work'. Level picker (4 radios), empty 'What you have built so far' with link to plans, Download summary / Save a copy / Open a saved copy buttons, links to plans, reflection, library. localStorage empty. One GET /api/page-text?route=/my-work (200)."
+   },
+   {
+    "action": "Select level 'Applying', then reload",
+    "result": "Placeholder 'Once you choose where you are...' replaced by 'A few good next steps' plus a 'What you can do now' checklist. localStorage one-dsd-my-path-v1 = {level:'applying',checked:[]}. After reload radio still checked and next steps still shown."
+   },
+   {
+    "action": "Check a next-step checkbox under 'Getting oriented', reload",
+    "result": "Stored as checked:['oriented:0']; still checked after reload."
+   },
+   {
+    "action": "Click 'Download a summary (Word)'",
+    "result": "Downloaded My-learning-journey.docx (8738 bytes, valid OOXML) containing the chosen level and a 'shared by choice' note."
+   },
+   {
+    "action": "Click 'Save a copy'",
+    "result": "Downloaded my-learning-journey.json (54 bytes: version, level, checked)."
+   },
+   {
+    "action": "Clear localStorage, reload, click 'Open a saved copy' and choose the JSON",
+    "result": "Level restored to the saved value; status message 'Welcome back. Your learning journey is right where you left it.' Invalid file produces 'That file does not look like a saved copy of your learning journey...'."
+   },
+   {
+    "action": "Open /my-work/plan",
+    "result": "200. Empty state with guidance ('No plans are open yet. Start with one decision or practice you want to examine.'), privacy notice, New plan, Download restorable working copy, Import working copy."
+   },
+   {
+    "action": "Click 'New plan', fill all fields (name, 7 textareas, review date)",
+    "result": "Plan appears as a switcher button; per-plan buttons Download Word, Print or save as PDF, Download text copy, Delete this plan. Status 'All plans saved on this device.' localStorage one-dsd-practice-plans-v1 holds the plan (~800 bytes). No /api call."
+   },
+   {
+    "action": "Reload /my-work/plan",
+    "result": "Plan and every field value (including text typed by keyboard) persisted."
+   },
+   {
+    "action": "Open /my-work after creating a plan",
+    "result": "'What you have built so far' now reads 'You have saved a practice plan. That is real progress. Go to your practice plans'."
+   },
+   {
+    "action": "Click 'Download restorable working copy'",
+    "result": "Downloaded 'One DSD - Restorable practice plans.json' (709 bytes) with full plan data."
+   },
+   {
+    "action": "Click 'Download Word' and 'Download text copy'",
+    "result": "'One DSD - Practice plan.docx' (9019 bytes, valid) and a .txt named after the plan; both contain all field values and a 'Private working draft' disclaimer. Status 'Your editable Word download is ready.'"
+   },
+   {
+    "action": "Click 'Print or save as PDF'",
+    "result": "Opens a new tab (about:blank, title = plan name, 84 words of report content) and status 'The report is open. Choose a printer or Save as PDF.'"
+   },
+   {
+    "action": "Create two plans (Plan A, Plan B), switch between them",
+    "result": "Switcher buttons work; active plan's name field updates."
+   },
+   {
+    "action": "Click 'Delete this plan' then 'Keep this plan'",
+    "result": "Inline confirm 'Yes, delete this plan | Keep this plan' appears; Keep cancels, plan remains."
+   },
+   {
+    "action": "Click 'Delete this plan' then 'Yes, delete this plan' (Plan B active), reload",
+    "result": "Plan B removed, Plan A becomes active, status 'The plan was deleted from this device.' Persisted after reload (1 plan in storage). Deleting the last plan returns to the empty state and removes the storage key."
+   },
+   {
+    "action": "Import working copy (valid JSON) into empty state; also import invalid JSON",
+    "result": "Valid: plan restored, status 'The working copy is open. Existing plans were kept, and different versions are kept separately.' Invalid: 'This file could not be read as a One DSD working copy. Your existing plans have not changed.'"
+   },
+   {
+    "action": "Open /my-work/plan in a fresh browser context",
+    "result": "Empty state: data is per-device localStorage, nothing server-side."
+   },
+   {
+    "action": "Open /program/progress",
+    "result": "200. Static hub: 6 numbered links plus 2 footer links, 0 interactive controls (no progress-marking UI). All 8 link targets render real pages (128-1535 words) with correct titles."
+   },
+   {
+    "action": "Open /program/plan directly",
+    "result": "HTTP 200 but main renders 'We could not find that page. The link may be old, or the page may not be available yet.' with Search Resources / Ask a question / Support links (32 words). Title 'Program | ...'. /api/page-text?route=/program/plan returns {ok:true,entries:[]}."
+   },
+   {
+    "action": "Follow the links to /program/plan from /start and /program/model",
+    "result": "Both land on the not-found rendering. Links live inside collapsed <details> sections ('More ways to connect, lead, and find support' on /start; 'You found a useful idea. What could you try?' on /program/model). Not listed in /site-map."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fmy-work",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fmy-work%2Fplan",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fprogram%2Fprogress",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fprogram%2Fplan",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fstart",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fprogram%2Fmodel",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fprogram%2Freflection",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Fplanning",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fpractice-guides%2Freview-a-change",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fsupport",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flearn%2Fequity-toolkit%2Fgoals",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fprogram%2Fimpact",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Flibrary",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [],
+  "persistence": "All state (learning level, checked next steps, practice plans) persists across reload via localStorage only: keys one-dsd-my-path-v1 and one-dsd-practice-plans-v1. No POST/PUT to /api occurred during any action; a fresh browser context shows empty states, confirming nothing is stored server-side. The only API traffic is GET /api/page-text?route=... on every page load (200, returns empty entries on all tested routes). Export/import JSON files are the only way to move data between devices, and that round trip works.",
+  "problems": [
+   {
+    "severity": "high",
+    "title": "/program/plan is a dead route linked from /start and /program/model",
+    "detail": "The URL returns HTTP 200 but renders the site's not-found fallback ('We could not find that page. The link may be old, or the page may not be available yet.') with only 32 words in main. The 'thin content' is not by design and not waiting on data: /api/page-text for the route returns empty entries, and the page title is the generic 'Program |'. It is reachable from live links: on /start, inside the 'More ways to connect, lead, and find support' details, the card 'Help shape practical change' links 'Plan and review your work \u2192' to /program/plan; on /program/model, inside 'You found a useful idea. What could you try?', the 'Choose learning for your question' card links to /program/plan. A visitor following either link hits an error page. Likely fix: point these links at /my-work/plan (or /one-dsd/planning) or create the route.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/program/plan",
+    "repro": "1. Open https://one-dsd-people-access-culture-production.up.railway.app/start. 2. Expand 'More ways to connect, lead, and find support'. 3. Click 'Plan and review your work \u2192'. 4. Observe 'We could not find that page' at /program/plan (or open the URL directly)."
+   },
+   {
+    "severity": "low",
+    "title": "Unknown routes return HTTP 200 instead of 404",
+    "detail": "The not-found page is served with status 200 for /program/plan and for an arbitrary bogus path (/program/this-does-not-exist-xyz). Browsers show the right message, but monitoring, crawlers and link checkers cannot detect broken links, which is how the /program/plan dead link went unnoticed.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/program/this-does-not-exist-xyz",
+    "repro": "curl -s -o /dev/null -w '%{http_code}' https://one-dsd-people-access-culture-production.up.railway.app/program/this-does-not-exist-xyz prints 200."
+   },
+   {
+    "severity": "low",
+    "title": "/program/progress offers no way to record progress despite its name",
+    "detail": "The 'Review progress' page is a static hub of six links and has zero interactive controls; there is no progress-marking, checklist or status UI. It works as navigation, and 'Record an observation' goes to /program/reflection, but a visitor arriving from 'My work' expecting to mark progress finds nothing to do on the page itself. Cosmetic/expectation issue only.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/program/progress",
+    "repro": "Open the URL; note the page contains only links (01-06, 'Connect learning with work', 'Lasting change') and no inputs or buttons in main."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "Practice scenarios",
+  "verdict": "works with problems",
+  "summary": "The /practice page lists 13 guided practices (gp-1..gp-13), not branching scenarios; the 13 \"scenarios\" are static worked-example pages under /one-dsd/scenarios/<slug>, linked from a collapsed <details> list on /one-dsd#scenarios. There is no choose-a-response or multi-step branching flow anywhere in them, so \"making choices and reading feedback\" applies only to the small practice-form widget on dsd-accessible-form, which works (required-field validation, aria-invalid, error text, example confirmation) and is purely client-side. I walked dsd-accessible-form, dsd-team-silence and dsd-repair-after-harm (reached via the related-scenario link) end to end: all render fully, all 6 download formats for each return 200, all outgoing links return 200, and all 13 scenario URLs return 200. No flow dead-ends; the only navigation gap is that /one-dsd/scenarios (the natural index URL) is a 404 and the \"One DSD\" back-link lands on a collapsed list. Choices are not remembered: the practice-form selection resets on reload and nothing is written to localStorage. /practice/gp-3 loads correctly; \"Save resource\" persists via localStorage key one-dsd-saved-resources-v1 (survives reload, appears on /my-work, absent in a fresh browser context, zero API calls), so persistence is browser-local, not server-side. The only /api calls observed were GET /api/page-text?route=... (200) on every page and GET /api/downloads/... (200). One console error, which is the 404 for /one-dsd/scenarios. No POST/PUT/DELETE was ever attempted by the pages (a route guard blocked writes and recorded none).",
+  "steps": [
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/practice",
+    "result": "200. Lists 13 guided practices: gp-12 Equity Pause for a routine decision; gp-7 Equity analysis for a decision; gp-1 New program or service concept; gp-10 Procurement or contract equity review; gp-2 Policy, form, or notice change; gp-3 Community engagement or shared design effort; gp-6 Inclusive hiring and selection; gp-8 Accessible and culturally responsive meeting; gp-5 Planning a learning or facilitation session; gp-9 Reviewing a draft; gp-13 Checking your own material; gp-4 Workplace culture and team climate; gp-11 Leadership pathway or sponsorship plan. These are reading/checklist paths, not interactive branching scenarios. Only /api call: GET /api/page-text?route=/practice 200."
+   },
+   {
+    "action": "Locate the scenario list (open /one-dsd#scenarios)",
+    "result": "Section #scenarios 'Situations DSD staff actually face' contains a <details> 'Explore 13 work situations' that is collapsed by default, so arriving via the hash shows only the heading and summary until clicked. The 13 scenarios: dsd-hiring-panel, dsd-advancement-conversation, dsd-accommodation-cliff, dsd-policy-change, dsd-service-redesign, dsd-engagement-late, dsd-report-back, dsd-accessible-form, dsd-interpreter-first-contact, dsd-team-silence, dsd-repair-after-harm, dsd-leadership-bottleneck, dsd-small-group-data (titles in scenario-list.txt)."
+   },
+   {
+    "action": "GET /one-dsd/scenarios (index URL)",
+    "result": "HTTP 404 'We could not find that page'. Produces the one console error observed."
+   },
+   {
+    "action": "Open scenario 1: /one-dsd/scenarios/dsd-accessible-form",
+    "result": "200. h1 'A required form cannot be completed with a screen reader'. Sections: The situation / Repair the form and the route to using it (two-column comparison) / What to notice first / Questions to ask before acting / Practical next moves / Who to involve / Related scenarios. Static worked example; no choose-your-path branching."
+   },
+   {
+    "action": "Expand 'Try the repaired part of a practice form' and submit with nothing chosen",
+    "result": "Form (action=null, method=get, no network) has a labelled required select 'Choose a practice meeting format' (Phone / Video / In-person) and 'Preview example confirmation' button. Empty submit: select gets aria-invalid=true, aria-describedby points at help+error ids, error text 'Choose a meeting format, then try again.' appears. 0 API calls."
+   },
+   {
+    "action": "Choose 'Phone conversation' and submit",
+    "result": "Inline feedback 'Example confirmation: your phone conversation choice is clear...' plus 'What to check' guidance. URL unchanged, 0 API calls, no write attempted."
+   },
+   {
+    "action": "Reload dsd-accessible-form",
+    "result": "Select resets to empty and the details collapses; choice NOT remembered. localStorage was empty before reload, so nothing is stored for scenario choices."
+   },
+   {
+    "action": "Fetch all 6 'Download this scenario' links for dsd-accessible-form",
+    "result": "docx 200 (10.6KB), xlsx 200 (8.6KB), pptx 200 (98KB), pdf 200 (3.2KB), html 200 (2.3KB), txt 200 (1.4KB); correct content-types."
+   },
+   {
+    "action": "Check scenario 1 outgoing links",
+    "result": "/resources/ja-plain-language 200, /resources/tool-mn-accessibility-standard 200, /support/right-person?matter=accessibility_barrier 200."
+   },
+   {
+    "action": "Open scenario 2: /one-dsd/scenarios/dsd-team-silence",
+    "result": "200. h1 'The same three people speak in every team meeting'. Sections: The situation / Connect ways to contribute with visible influence (Before / During / After) / What to notice first / Questions / Practical next moves / Who to involve / Related scenarios. Only interactive element is the 'Download this scenario' details; no choices to make."
+   },
+   {
+    "action": "Fetch all 6 download formats for dsd-team-silence and its linked pages",
+    "result": "docx/xlsx/pptx/pdf/html/txt all 200. /paths/gp-4 -> redirects to /practice/gp-4 200; /resources/lm-psychological-safety-and-repair -> /library/... 200; /resources/ja-accessible-meetings -> /library/... 200."
+   },
+   {
+    "action": "Click related-scenario link to dsd-repair-after-harm (scenario 3)",
+    "result": "First attempt in run.js did not navigate (URL/h1 unchanged, not reproducible); retry in followup.js with scrollIntoView navigated correctly to /one-dsd/scenarios/dsd-repair-after-harm, h1 'A comment in a meeting landed badly and nobody addressed it', sections The situation / A leader can name the problem... / Leave the generalization in place / Take responsibility for repair / What to notice / Questions / Next moves / Who to involve / Related (links back to dsd-team-silence). Browser Back returns to dsd-team-silence. No dead end."
+   },
+   {
+    "action": "HTTP sweep of all 13 scenario URLs",
+    "result": "All 13 return 200."
+   },
+   {
+    "action": "Open https://one-dsd-people-access-culture-production.up.railway.app/practice/gp-3",
+    "result": "200. h1 'Community engagement or shared design effort', six-step path (Plan a respectful approach; Read the relevant community briefs; Choose practical resources; Draft your engagement plan; Review your work; Find the right person), published checklist, readings. Page states it does not save answers. Download links txt 200, pdf 200, docx 200."
+   },
+   {
+    "action": "Click 'Save resource' on gp-3, reload, open /my-work, then open gp-3 in a fresh browser context",
+    "result": "Button changes to 'Saved to My work'; 0 API calls; localStorage key one-dsd-saved-resources-v1 = {version:1,items:[{href:'/practice/gp-3',title:...,savedAt:...}]}. After reload still 'Saved to My work'. /my-work lists 'Community engagement...'. Fresh context shows 'Save resource' -> persistence is browser-local only. Clicked again to clear the saved state."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/practice",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/one-dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/one-dsd/scenarios/dsd-accessible-form",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/one-dsd/scenarios/dsd-team-silence",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/one-dsd/scenarios/dsd-repair-after-harm",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/practice/gp-3",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=/my-work",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-accessible-form?format=docx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-accessible-form?format=xlsx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-accessible-form?format=pptx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-accessible-form?format=pdf&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-accessible-form?format=html&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-accessible-form?format=txt&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-team-silence?format=docx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-team-silence?format=xlsx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-team-silence?format=pptx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-team-silence?format=pdf&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-team-silence?format=html&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/scenario/dsd-team-silence?format=txt&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/path/gp-3?format=txt&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/path/gp-3?format=pdf&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/path/gp-3?format=docx&view=one_dsd",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [
+   "Failed to load resource: the server responded with a status of 404 (Not Found)  -- from GET /one-dsd/scenarios (the index URL); no console errors on any scenario page, /practice, /practice/gp-3 or /my-work"
+  ],
+  "persistence": "Scenario pages persist nothing: the practice-form choice on dsd-accessible-form resets on reload and localStorage stays empty. The gp-3 \"Save resource\" state persists across reload via localStorage (key one-dsd-saved-resources-v1) and shows on /my-work, but is absent in a fresh browser context and triggers no /api call, so it is browser-local only, not server-side. No request other than GET was ever issued by the pages.",
+  "problems": [
+   {
+    "severity": "low",
+    "title": "Scenario index URL /one-dsd/scenarios returns 404",
+    "detail": "Every scenario lives at /one-dsd/scenarios/<slug> and the scenario pages' breadcrumb points to /one-dsd#scenarios, but the parent path /one-dsd/scenarios itself is a 404 page ('We could not find that page'), which also logs a console error. Users trimming the URL or guessing the index get a dead page. Workaround: /one-dsd#scenarios.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/one-dsd/scenarios",
+    "repro": "1. Open any scenario, e.g. /one-dsd/scenarios/dsd-team-silence. 2. Edit the address bar to /one-dsd/scenarios and press Enter. 3. Observe 404 page and a 'Failed to load resource ... 404' console error."
+   },
+   {
+    "severity": "low",
+    "title": "Scenario list is collapsed when arriving at /one-dsd#scenarios",
+    "detail": "The 'One DSD' breadcrumb on each scenario page links to /one-dsd#scenarios. The page scrolls to the 'Situations DSD staff actually face' heading, but the 13 scenario cards are inside a <details> ('Explore 13 work situations') that is closed by default, so the user sees only a heading and a summary line and must click again to see the list they were sent to. Arriving via the hash could open the details automatically.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/one-dsd#scenarios",
+    "repro": "1. Open /one-dsd/scenarios/dsd-accessible-form. 2. Click the 'One DSD' breadcrumb link above the title. 3. Page lands on the Situations heading with the list collapsed; click 'Explore 13 work situations' to reveal the 13 links."
+   },
+   {
+    "severity": "low",
+    "title": "No persistence or memory of choices in scenarios; task's assumption of branching flow does not match the site",
+    "detail": "The scenario pages are static worked examples with no choose-a-response branching. The only interactive choice (practice meeting format on dsd-accessible-form) is explicitly a demo and is forgotten on reload (select resets, nothing stored). This is consistent with the page's own copy ('It makes no appointment and asks for no personal information'), so it is noted for completeness rather than as a defect.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/one-dsd/scenarios/dsd-accessible-form",
+    "repro": "1. Open the URL, expand 'Try the repaired part of a practice form'. 2. Choose 'Phone conversation', click 'Preview example confirmation' (confirmation text appears). 3. Reload: the details is collapsed and the select is back to 'Choose a format'."
+   }
+  ],
+  "evidenceFiles": []
+ },
+ {
+  "workflow": "One DSD program pages, equity review and sharing",
+  "verdict": "works",
+  "summary": "All 12 pages load with HTTP 200, correct titles and h1s, zero console errors and zero failed asset loads during ordinary use. Every button, disclosure and menu works (Menu is hidden at desktop width behind a visible desktop nav; at 390px it opens/closes correctly with aria-expanded). No tab controls and no Share controls or /share/ links exist on any of these pages (the site layout references a /share/ prefix, but /share/ itself returns a 404 \"We could not find that page\" for a fresh visitor). The three embedded explainer videos (/equity-review, /program/model, /user-guide) and their posters all return 200 with byte-range support (MP4s 17.3-23.5 MB, posters 140-175 KB at 1920x1080), load metadata and play muted in headless Chromium; transcript and captions files are 200. All 18 /api/downloads links (docx/xlsx/pptx/pdf/html/txt for team, mnchoices-access and operationalizing-equity) return 200 with proper content types and attachment filenames; one curl fetch of the operationalizing-equity .docx was cut off mid-transfer once but succeeded on 4 immediate retries. The only stateful control, \"Save resource\" on /operationalizing-equity, toggles to \"Saved to My work\" with aria-pressed=true, makes no server call, and persists via localStorage only (not visible to a fresh browser context, as the UI states \"on this device\"). Only /api/ traffic in normal browsing is GET /api/page-text?route=... (200). No writes were attempted; a route guard confirmed zero non-GET /api/ requests fired.",
+  "steps": [
+   {
+    "action": "Recon: load all 12 URLs in Playwright and enumerate buttons, tabs, forms, details, videos, links",
+    "result": "All 200. Each page has one Menu button; /operationalizing-equity also has a 'Save resource' button. No [role=tab], no forms, no Share controls. 3 pages have a <video>. Download links on /one-dsd/team, /one-dsd/programs/mnchoices-access, /operationalizing-equity; library docs on /one-dsd/planning."
+   },
+   {
+    "action": "For each page: load at 1280x900, record status/title/h1/load time, screenshot",
+    "result": "All HTTP 200, 2.6-3.8s to networkidle. Titles and h1s correct (e.g. 'One DSD', 'One DSD Team', 'One DSD Team space', 'Planning and reviewing progress', 'DSD programs and services', 'MnCHOICES assessment and access', 'Review a policy, process, or service change', 'DHS Equity Policy', 'How the program works', 'Lasting change', 'Operationalizing equity', 'How to use this site')."
+   },
+   {
+    "action": "Click Menu button on each page",
+    "result": "Hidden at 1280px (desktop nav #dsd-navigation visible with 7 links). At 390px the Menu button is visible; click sets aria-expanded=true and opens nav.dsd-nav.is-open with 7 links and a Close button; Escape closes it (aria-expanded=false). URL unchanged. Same on all 12 pages."
+   },
+   {
+    "action": "Look for and click tab controls",
+    "result": "No tab controls on any of the 12 pages."
+   },
+   {
+    "action": "Expand every details/summary disclosure on each page (57 total)",
+    "result": "All open on click. /program/model has an exclusive accordion (5 details with name=\"work-example\", first open by default) so only one of those five is open at a time, which is expected behavior. Open state is not persisted across reload (resets to defaults), which is normal."
+   },
+   {
+    "action": "Click 'Save resource' on /operationalizing-equity with a route guard blocking any non-GET /api/ request",
+    "result": "Label changed to 'Saved to My work', aria-pressed=true, live status 'Saved to My work on this device.' 0 API calls, 0 blocked writes. localStorage key one-dsd-saved-resources-v1 written with {href:'/operationalizing-equity', title, savedAt}. After reload the button still reads 'Saved to My work [pressed=true]'. In a fresh browser context the button reads 'Save resource [pressed=false]'."
+   },
+   {
+    "action": "Search DOM of each page (including open Menu) for Share buttons or /share/ links",
+    "result": "None on any page. Only 'share'-text control found was a normal link on /one-dsd/team: 'Prepare and record shared resource selections' -> /one-dsd/team/resource-selections (200). Fresh-context GET /share/ -> 404 page 'We could not find that page'."
+   },
+   {
+    "action": "Fetch all 18 /api/downloads links via curl",
+    "result": "All 200 with correct MIME types and Content-Disposition attachment filenames (one-dsd-team.*, mnchoices-assessment-and-access.*, operationalizing-equity.*); files verified by `file` as Word/Excel/PPTX zip/PDF/HTML/text. One attempt at /api/downloads/operationalizing-equity/program?format=docx failed with curl(56) 'Failure when receiving data from the peer' after 0.19s; 4 immediate retries all returned 200 / 11.8 KB valid docx."
+   },
+   {
+    "action": "Check embedded videos on /equity-review, /program/model, /user-guide: HEAD/range requests for src, poster, transcript, captions; load metadata and play muted",
+    "result": "/equity-review: video-1080p.mp4 200/206 video/mp4 18,508,305 B, poster.jpg 174,741 B 1920x1080, duration 266.6s, played. /program/model: mp4 23,476,102 B, poster 153,078 B, 303.8s, played. /user-guide: mp4 17,274,059 B, poster 140,580 B, 253.0s, played. transcript.txt (text/plain) and captions.vtt (text/vtt) 200 for all three. All served with cache-control public, max-age=31536000, immutable and Accept-Ranges: bytes. No <track> element inside the <video>; captions are offered as a download link instead."
+   },
+   {
+    "action": "Check /one-dsd/planning library docs and /user-guide text guide",
+    "result": "/library/one-dsd-planning/*.html (3) and *.docx (3) all 200; /documents/one-dsd-user-guide-20261022.txt 200; /one-dsd/planning/report 200; /library/ja-job-relatedness-check 200; /equity-review/general|hcbs|structural 200."
+   },
+   {
+    "action": "Reload each page and compare state; dump localStorage and cookies",
+    "result": "Details reset to default. Only persisted item is localStorage one-dsd-saved-resources-v1 from Save resource. No cookies set. Persistence is client-side localStorage only."
+   },
+   {
+    "action": "Review console errors and all responses >= 400 / failed requests",
+    "result": "1 console error total, in the fresh-visitor context, caused by my own GET /share/ probe (404). All 126 'failed' network entries were net::ERR_ABORTED Next.js route prefetches cancelled by navigation/reload and video re-load, not HTTP errors. No HTTP >= 400 during normal page use."
+   }
+  ],
+  "apiCalls": [
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Fteam",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Fteam%2Fworkspace",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Fplanning",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Fprograms",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fone-dsd%2Fprograms%2Fmnchoices-access",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fequity-review",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fequity-policy",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fprogram%2Fmodel",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fprogram%2Fimpact",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Foperationalizing-equity",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/page-text?route=%2Fuser-guide",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/team/one-dsd?format=docx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/team/one-dsd?format=xlsx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/team/one-dsd?format=pptx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/team/one-dsd?format=pdf&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/team/one-dsd?format=html&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/team/one-dsd?format=txt&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/program/mnchoices-access?format=docx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/program/mnchoices-access?format=xlsx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/program/mnchoices-access?format=pptx&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/program/mnchoices-access?format=pdf&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/program/mnchoices-access?format=html&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/program/mnchoices-access?format=txt&view=one_dsd",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/operationalizing-equity/program?format=docx",
+    "status": 0
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/operationalizing-equity/program?format=docx",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/operationalizing-equity/program?format=xlsx",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/operationalizing-equity/program?format=pptx",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/operationalizing-equity/program?format=pdf",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/operationalizing-equity/program?format=html",
+    "status": 200
+   },
+   {
+    "method": "GET",
+    "path": "/api/downloads/operationalizing-equity/program?format=txt",
+    "status": 200
+   }
+  ],
+  "consoleErrors": [
+   "[fresh-visitor context, caused by my own probe of GET /share/ which is 404] Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "persistence": "Client-side only. The single stateful control ('Save resource' on /operationalizing-equity) writes localStorage key one-dsd-saved-resources-v1 ({version:1, items:[{href:'/operationalizing-equity', title:'Operationalizing equity', savedAt}]}) with no server request; state survives reload in the same browser but a fresh browser context sees 'Save resource' unpressed. No cookies are set. Disclosure open/closed state resets on reload. The UI's own status text ('Saved to My work on this device.') matches this behavior.",
+  "problems": [
+   {
+    "severity": "low",
+    "title": "One transient connection drop on the Operationalizing equity Word download",
+    "detail": "A curl GET of the docx download endpoint returned curl error 56 'Failure when receiving data from the peer' with 0 bytes after 0.19s. Four immediate retries all returned HTTP 200 with a valid 11.8 KB docx, and the other 17 download endpoints succeeded first time, so this looks like a one-off network/server hiccup rather than a reproducible bug. Noted only because it was observed.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/api/downloads/operationalizing-equity/program?format=docx",
+    "repro": "On /operationalizing-equity open 'Download this page' and click 'Word'. Observed once in 5 attempts via curl; not reproduced on retry."
+   },
+   {
+    "severity": "low",
+    "title": "Embedded videos have no <track> captions element; captions are only a separate download",
+    "detail": "On /equity-review, /program/model and /user-guide the <video> element has controls, a poster and a single MP4 source but no <track kind=\"captions\"> even though a valid captions.vtt (text/vtt, 200) exists for each video and is linked below the player as a download. Viewers cannot turn captions on inside the player; they must open the VTT/transcript separately. Workaround exists (transcript link), so this is minor.",
+    "url": "https://one-dsd-people-access-culture-production.up.railway.app/user-guide",
+    "repro": "Open the page, expand the 'Watch a short explainer' section, inspect the <video> element: querySelectorAll('track').length === 0; the captions.vtt link appears as a plain download link beneath it."
+   }
+  ],
+  "evidenceFiles": []
+ }
+]

@@ -1,0 +1,2401 @@
+[
+ {
+  "path": "/home",
+  "words": 314,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 2,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "People, access\nand culture.",
+  "errorText": "",
+  "buttonLabels": [
+   "Show me"
+  ]
+ },
+ {
+  "path": "/site-map",
+  "words": 136,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Site map",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/",
+  "words": 14,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": true,
+  "h1": "One DSD People, Access and Culture",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/minnesota-communities",
+  "words": 570,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 1,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Minnesota Communities",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/my-work",
+  "words": 621,
+  "forms": 0,
+  "buttons": 4,
+  "inputs": 5,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "My work",
+  "errorText": "",
+  "buttonLabels": [
+   "Download a summary (Word)",
+   "Save a copy",
+   "Open a saved copy"
+  ]
+ },
+ {
+  "path": "/start",
+  "words": 775,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 6,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Where would you like to start?",
+  "errorText": "",
+  "buttonLabels": [
+   "Show me a place to start"
+  ]
+ },
+ {
+  "path": "/learn",
+  "words": 645,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/practice",
+  "words": 1057,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Practice",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/support",
+  "words": 269,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Support",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd",
+  "words": 431,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "One DSD",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/learn/cultural-intelligence",
+  "words": 3718,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 13,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Cultural Intelligence collection",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs",
+  "words": 1150,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "DSD programs and services",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/operationalizing-equity",
+  "words": 851,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Operationalizing equity",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/learn/collaboration",
+  "words": 698,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Teams and Cross-Collaboration",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/library",
+  "words": 1044,
+  "forms": 1,
+  "buttons": 3,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Library",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/learn/equity-toolkit",
+  "words": 1367,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Equity Analysis Toolkit",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/equity-review",
+  "words": 551,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Review a policy, process, or service change",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/practice/gp-3",
+  "words": 905,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Community engagement or shared design effort",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/support/right-person",
+  "words": 362,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 6,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Find the right person",
+  "errorText": "",
+  "buttonLabels": [
+   "Show who can help"
+  ]
+ },
+ {
+  "path": "/ask",
+  "words": 384,
+  "forms": 1,
+  "buttons": 6,
+  "inputs": 1,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Ask",
+  "errorText": "",
+  "buttonLabels": [
+   "Clear this conversation",
+   "Ask",
+   "Dictate question",
+   "Talk with Ask",
+   "Listen to answer"
+  ]
+ },
+ {
+  "path": "/one-dsd/team",
+  "words": 484,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "One DSD Team",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/user-guide",
+  "words": 306,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "How to use this site",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/learn/equity-in-practice",
+  "words": 920,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "From shared purpose to everyday work.",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/amplify",
+  "words": 444,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Amplify Equity",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/planning",
+  "words": 297,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Planning and reviewing progress",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/program/model",
+  "words": 1535,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "How the program works",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/program-foundation",
+  "words": 142,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Program charter",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/equity-policy",
+  "words": 346,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "DHS Equity Policy",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/program/impact",
+  "words": 217,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Lasting change",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/about",
+  "words": 663,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "About this program",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/administrations",
+  "words": 176,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "DHS administrations",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/courses",
+  "words": 420,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 3,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Courses",
+  "errorText": "",
+  "buttonLabels": [
+   "Find courses"
+  ]
+ },
+ {
+  "path": "/areas",
+  "words": 192,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Areas of work",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/learn/equity-toolkit/goals",
+  "words": 843,
+  "forms": 0,
+  "buttons": 6,
+  "inputs": 7,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "ADSA six goals and work plan",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Open the three-goal work plan",
+   "Download Word document",
+   "Download web page",
+   "Clear all plan notes and selections"
+  ]
+ },
+ {
+  "path": "/practice/requirements",
+  "words": 520,
+  "forms": 0,
+  "buttons": 5,
+  "inputs": 10,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Requirements and review evidence",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Add another requirement",
+   "Save editable working file",
+   "Download review summary"
+  ]
+ },
+ {
+  "path": "/practice/clas",
+  "words": 982,
+  "forms": 0,
+  "buttons": 4,
+  "inputs": 7,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Cultural and language access planning",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Copy working notes",
+   "Download editable notes"
+  ]
+ },
+ {
+  "path": "/practice/measurement",
+  "words": 714,
+  "forms": 0,
+  "buttons": 5,
+  "inputs": 22,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Plan how to learn from results",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Consider this interpretation",
+   "Copy notes",
+   "Download notes"
+  ]
+ },
+ {
+  "path": "/practice-guides/inclusive-meetings",
+  "words": 524,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Make participation more accessible.",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/administrations/adsa",
+  "words": 281,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Aging and Disability Services Administration",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/administrations/adsa/divisions/dsd",
+  "words": 367,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Disability Services Division",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/program/what-informs",
+  "words": 367,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "What informs our work",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/contribute",
+  "words": 95,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "For contributors",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/videos/explainers/community-briefs/transcript.txt",
+  "words": 751,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/videos/explainers/community-briefs/captions.vtt",
+  "words": 867,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/minnesota-communities/african-american",
+  "words": 2296,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "African American Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/latino",
+  "words": 2300,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Latino Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/hmong",
+  "words": 2294,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Hmong Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/somali",
+  "words": 2733,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Somali Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/karen",
+  "words": 1949,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Karen Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/oromo",
+  "words": 1858,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Oromo Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/vietnamese",
+  "words": 1858,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Vietnamese Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/khmer",
+  "words": 1715,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Cambodian Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/lao",
+  "words": 1767,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Lao Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/arabic-speaking",
+  "words": 1941,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Arabic-speaking Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/american",
+  "words": 2002,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "American culture",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/minnesota",
+  "words": 1667,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Minnesota culture",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/european-american",
+  "words": 1998,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "European American Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/tribal-nations",
+  "words": 431,
+  "forms": 0,
+  "buttons": 7,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "11 Tribal Nations",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/alaska-native",
+  "words": 270,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Alaska Native people in Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/amharic",
+  "words": 2125,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Amharic-speaking Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/bosnian",
+  "words": 1803,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Bosnian Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/burmese",
+  "words": 1947,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Burmese Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/chinese",
+  "words": 1868,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Chinese Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/colombian",
+  "words": 1750,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Colombian Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/cuban",
+  "words": 1982,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Cuban Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/deaf-deafblind-hard-of-hearing",
+  "words": 2246,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Deaf, DeafBlind, and hard of hearing Minnesotans",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/ecuadorian",
+  "words": 1840,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Ecuadorian Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/ethiopian",
+  "words": 2111,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Ethiopian Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/filipino",
+  "words": 1979,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Filipino Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/french",
+  "words": 2153,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "French-speaking Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/guatemalan",
+  "words": 2124,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Guatemalan Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/indian",
+  "words": 2068,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Indian (Asian Indian) Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/japanese",
+  "words": 1943,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Japanese Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/kenyan",
+  "words": 1785,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Kenyan Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/korean",
+  "words": 2168,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Korean Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/lebanese",
+  "words": 2183,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Lebanese Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/liberian",
+  "words": 1918,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Liberian Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/mexican",
+  "words": 2126,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Mexican Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/native-american",
+  "words": 275,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Native American Minnesotans",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/nigerian",
+  "words": 1829,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Nigerian Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/puerto-rican",
+  "words": 1925,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Puerto Rican Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/rural",
+  "words": 2268,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Rural and Greater Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/russian-speaking",
+  "words": 2278,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Russian-speaking Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/salvadoran",
+  "words": 1859,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Salvadoran Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/thai",
+  "words": 1882,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Thai Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/minnesota-communities/ukrainian",
+  "words": 2122,
+  "forms": 0,
+  "buttons": 8,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Ukrainian Minnesota",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Community brief",
+   "Learning and reflection",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Explore the reasoning",
+   "Return to the community brief"
+  ]
+ },
+ {
+  "path": "/program/resources",
+  "words": 253,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Tools and resources",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/my-work/plan",
+  "words": 169,
+  "forms": 0,
+  "buttons": 3,
+  "inputs": 1,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Your practice plans.",
+  "errorText": "",
+  "buttonLabels": [
+   "Download restorable working copy",
+   "New plan"
+  ]
+ },
+ {
+  "path": "/videos/explainers/learning-journey/transcript.txt",
+  "words": 740,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/videos/explainers/learning-journey/captions.vtt",
+  "words": 847,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/program/reflection",
+  "words": 128,
+  "forms": 0,
+  "buttons": 3,
+  "inputs": 5,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Notice what changed.",
+  "errorText": "",
+  "buttonLabels": [
+   "Download your note",
+   "Clear this note"
+  ]
+ },
+ {
+  "path": "/equity-framework",
+  "words": 2695,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Equity Strategic Framework",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/support/directory",
+  "words": 372,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "DHS offices and guidance",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/learn/paths",
+  "words": 589,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learning paths",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/learn/intercultural",
+  "words": 2679,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Intercultural learning in everyday work",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/understanding-dhs",
+  "words": 1910,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Understanding DHS",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/employee-resource-groups",
+  "words": 506,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Employee resource groups",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/program/plan",
+  "words": 32,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "We could not find that page",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/learn/readings/pathways",
+  "words": 1054,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Put a reading to work",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/practice/gp-11",
+  "words": 957,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Leadership pathway or sponsorship plan for staff with disabilities",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/audio-library",
+  "words": 573,
+  "forms": 1,
+  "buttons": 28,
+  "inputs": 3,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Audio library",
+  "errorText": "",
+  "buttonLabels": [
+   "Explore",
+   "Share",
+   "Play from 0:00 \u00b7 Policy purpose and who it applies to",
+   "Play from 2:09 \u00b7 Roles, tools and administration goals",
+   "Play from 9:02 \u00b7 Applying the policy in decisions and daily work",
+   "Play from 15:19 \u00b7 Shared terms: access, equity and engagement",
+   "Play from 26:26 \u00b7 The equity analysis quick guide",
+   "Play from 29:08 \u00b7 Steps 1\u20133: outcomes, data and engagement",
+   "Play from 33:20 \u00b7 Steps 4\u20138: impacts, accountability and sustainability",
+   "Play from 38:04 \u00b7 The equity scan",
+   "Play from 41:22 \u00b7 Using the tools, collaborating and checking progress",
+   "Share",
+   "Play from 0:00 \u00b7 What anti-racism means for public service",
+   "Play from 2:32 \u00b7 Racism, institutions, intent and impact",
+   "Play from 6:11 \u00b7 Anti-racism as a deliberate practice"
+  ]
+ },
+ {
+  "path": "/learn/sources",
+  "words": 362,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 1,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Research and sources",
+  "errorText": "",
+  "buttonLabels": [
+   "Show sources"
+  ]
+ },
+ {
+  "path": "/learn?browse=all",
+  "words": 38139,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/library?browse=all",
+  "words": 36836,
+  "forms": 1,
+  "buttons": 3,
+  "inputs": 5,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Library",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/videos/explainers/core-fifteen/transcript.txt",
+  "words": 668,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/videos/explainers/core-fifteen/captions.vtt",
+  "words": 772,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/learn/emotions-and-values",
+  "words": 509,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Emotions, Values, and Everyday Practice",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/learn/clas",
+  "words": 3731,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 1,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "National CLAS Standards",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/learn/diversity",
+  "words": 637,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Diversity: understanding and practice",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/learn?theme=identity",
+  "words": 17500,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/learn?theme=access",
+  "words": 10110,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/learn?theme=disability",
+  "words": 6777,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/learn?theme=policy",
+  "words": 4867,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/learn?theme=workforce",
+  "words": 12561,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/learn?theme=partnership",
+  "words": 7933,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/learn?theme=leadership",
+  "words": 5230,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/learn?theme=evidence",
+  "words": 3185,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 4,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Learn",
+  "errorText": "",
+  "buttonLabels": [
+   "Search"
+  ]
+ },
+ {
+  "path": "/library/lm-how-this-program-works",
+  "words": 475,
+  "forms": 0,
+  "buttons": 4,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "How to use this program",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/program/practice",
+  "words": 391,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Put equity into practice",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/practice/gp-12",
+  "words": 882,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Equity Pause for a routine decision",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/gp-7",
+  "words": 918,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Equity analysis for a decision",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/learn/equity-toolkit/practice",
+  "words": 1299,
+  "forms": 0,
+  "buttons": 26,
+  "inputs": 6,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Practice with the Equity Analysis Toolkit",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "1. Describe the decision",
+   "2. Consider who may be affected",
+   "3. Compare possible approaches",
+   "4. Plan participation and action",
+   "5. Review and revisit",
+   "Choose text messages now and discuss implementation later.",
+   "Define the reminder decision, its limits, and who can authorize a change.",
+   "Keep the existing process without further discussion.",
+   "Previous step",
+   "Next step",
+   "1\nDescribe the decision",
+   "2\nPeople and evidence",
+   "3\nCompare approaches",
+   "4\nParticipation and action"
+  ]
+ },
+ {
+  "path": "/videos/explainers/decision-depth/transcript.txt",
+  "words": 748,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/videos/explainers/decision-depth/captions.vtt",
+  "words": 858,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/practice/gp-1",
+  "words": 871,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "New program or service concept",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/gp-10",
+  "words": 783,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Procurement or contract equity review",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/gp-2",
+  "words": 911,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Policy, form, or notice change",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/gp-6",
+  "words": 808,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Inclusive hiring and selection",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/gp-8",
+  "words": 741,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Accessible and culturally responsive meeting",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/gp-5",
+  "words": 784,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Planning a learning or facilitation session",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/gp-9",
+  "words": 784,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Reviewing a draft for equity, access, and plain language",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/gp-13",
+  "words": 944,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Checking your own material for access, assumptions, and tone",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/gp-4",
+  "words": 1038,
+  "forms": 0,
+  "buttons": 2,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Workplace culture and team climate",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource"
+  ]
+ },
+ {
+  "path": "/practice/measurement?area=measurement&task=evaluation-plan",
+  "words": 714,
+  "forms": 0,
+  "buttons": 5,
+  "inputs": 22,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Plan how to learn from results",
+  "errorText": "",
+  "buttonLabels": [
+   "Save resource",
+   "Consider this interpretation",
+   "Copy notes",
+   "Download notes"
+  ]
+ },
+ {
+  "path": "/program/progress",
+  "words": 258,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Review progress",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/videos/explainers/right-person/transcript.txt",
+  "words": 688,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/videos/explainers/right-person/captions.vtt",
+  "words": 786,
+  "forms": 0,
+  "buttons": 0,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/hcbs-policy",
+  "words": 267,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Home and community-based services policy and waivers",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/mnchoices-access",
+  "words": 273,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "MnCHOICES assessment and access",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/support-planning",
+  "words": 262,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Support planning and case management",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/positive-supports",
+  "words": 224,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Positive supports and person-centered practice",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/olmstead",
+  "words": 261,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Olmstead and community integration",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/employment",
+  "words": 255,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Employment and day services",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/eidbi-children",
+  "words": 269,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Early Intensive Developmental and Behavioral Intervention and children's services",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/tbi-guardianship",
+  "words": 227,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Brain injury, guardianship, and related programs",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/contracts-fiscal",
+  "words": 250,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Contracts, grants, fiscal, and capacity work",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/programs/data-quality",
+  "words": 228,
+  "forms": 0,
+  "buttons": 5,
+  "inputs": 3,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Data, quality, and evaluation",
+  "errorText": "",
+  "buttonLabels": [
+   "Overall result",
+   "Look at the groups",
+   "Protect small groups",
+   "Consider this next step"
+  ]
+ },
+ {
+  "path": "/one-dsd/programs/communications-training",
+  "words": 377,
+  "forms": 0,
+  "buttons": 3,
+  "inputs": 3,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Training, communication, and strategic communications",
+  "errorText": "",
+  "buttonLabels": [
+   "Highlight the writing moves",
+   "Consider the missing detail"
+  ]
+ },
+ {
+  "path": "/one-dsd/programs/leadership-strategy",
+  "words": 229,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Division leadership, legislative work, and strategy",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-hiring-panel",
+  "words": 396,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "A hiring panel keeps choosing the same kind of candidate",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-advancement-conversation",
+  "words": 334,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "A team member says they do not know what it takes to advance",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-accommodation-cliff",
+  "words": 412,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "An accommodation disappears during a leadership rotation",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-policy-change",
+  "words": 576,
+  "forms": 0,
+  "buttons": 3,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "A waiver policy change is going to leadership next month",
+  "errorText": "",
+  "buttonLabels": [
+   "New-copy proposal",
+   "Alternative to examine"
+  ]
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-service-redesign",
+  "words": 425,
+  "forms": 0,
+  "buttons": 4,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Redesigning an assessment process without adding steps",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-engagement-late",
+  "words": 354,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Community input requested after the decision is effectively final",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-report-back",
+  "words": 349,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "Listening sessions are done. Now what?",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-accessible-form",
+  "words": 361,
+  "forms": 1,
+  "buttons": 2,
+  "inputs": 1,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "A required form cannot be completed with a screen reader",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-interpreter-first-contact",
+  "words": 398,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "First contact happens in English only",
+  "errorText": "",
+  "buttonLabels": []
+ },
+ {
+  "path": "/one-dsd/scenarios/dsd-team-silence",
+  "words": 352,
+  "forms": 0,
+  "buttons": 1,
+  "inputs": 0,
+  "stuckLoading": false,
+  "emptyMain": false,
+  "h1": "The same three people speak in every team meeting",
+  "errorText": "",
+  "buttonLabels": []
+ }
+]
