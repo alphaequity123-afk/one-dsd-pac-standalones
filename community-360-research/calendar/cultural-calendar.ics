@@ -118,14 +118,15 @@ UID:día-de-los-reyes-2026-01-06@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260106
 DTEND;VALUE=DATE:20260107
-SUMMARY:Día de los Reyes
-DESCRIPTION:The visit of the Magi\; a major gift day in many Puerto Rican
-  and Mexican families. Date: January 6. Source: Puerto Rico Oficina de Ge
- rencia y Presupuesto\, Ley 65 de 2000 (días de fiesta oficiales) https:/
- /bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf Comm
- unities: Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota\, G
- uatemalan Minnesota\, Latino Minnesota\, Mexican Minnesota\, Puerto Rican
-  Minnesota\, Salvadoran Minnesota
+SUMMARY:Epiphany (Día de los Reyes Magos)
+DESCRIPTION:The visit of the Magi to the infant Jesus. Date: Feast on Jan
+ uary 6\; under Colombian law the public holiday is observed on the Monday
+  on or after Jan. 6. Dates below are the Colombian public holiday. Source
+ : Puerto Rico Oficina de Gerencia y Presupuesto\, Ley 65 de 2000 (días d
+ e fiesta oficiales) https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferenc
+ ia/PDF/2/0065-2000.pdf Communities: Colombian Minnesota\, Cuban Minnesota
+ \, Ecuadorian Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, Mexic
+ an Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -732,13 +733,14 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:Good Friday
-DESCRIPTION:The crucifixion of Jesus. Date: The Friday before Western Eas
- ter. Source: United States Conference of Catholic Bishops\, Liturgical Ca
- lendar for the Dioceses of the USA 2026 https://www.usccb.org/resources/2
- 026cal.pdf Communities: Colombian Minnesota\, Ecuadorian Minnesota\, Euro
- pean American Minnesota\, Filipino Minnesota\, Guatemalan Minnesota\, Ken
- yan Minnesota\, Latino Minnesota\, Liberian Minnesota\, Mexican Minnesota
- \, Nigerian Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+DESCRIPTION:The crucifixion\, death and burial of Jesus. Date: The Friday
+  before Western Easter. Source: United States Conference of Catholic Bish
+ ops\, Liturgical Calendar for the Dioceses of the USA 2026 https://www.us
+ ccb.org/resources/2026cal.pdf Communities: Colombian Minnesota\, Ecuadori
+ an Minnesota\, European American Minnesota\, Filipino Minnesota\, Guatema
+ lan Minnesota\, Kenyan Minnesota\, Latino Minnesota\, Liberian Minnesota\
+ , Mexican Minnesota\, Nigerian Minnesota\, Puerto Rican Minnesota\, Salva
+ doran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1618,11 +1620,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 SUMMARY:Colombian Independence Day
-DESCRIPTION:The 1810 declaration in Bogotá. Date: July 20. Source: El Ti
- empo (Colombia)\, Por qué el festivo del 20 de julio no se mueve al lune
- s https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-
- mueve-al-lunes-y-que-es-la-ley-emiliani-3364069 Communities: Colombian Mi
- nnesota
+DESCRIPTION:The July 20\, 1810 revolt in Bogotá (the Florero de Llorente
+  episode) that began Colombia's independence process. Date: July 20 every
+  year (fixed\; not moved to Monday). Source: El Tiempo (Colombia)\, Por q
+ ué el festivo del 20 de julio no se mueve al lunes https://www.eltiempo.
+ com/vida/por-que-el-festivo-del-20-de-julio-no-se-mueve-al-lunes-y-que-es
+ -la-ley-emiliani-3364069 Communities: Colombian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2234,15 +2237,27 @@ BEGIN:VEVENT
 UID:hispanic-heritage-month-begins-2026-09-15@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20261016
+SUMMARY:Hispanic Heritage Month (begins)
+DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
+ September 15 to October 15 each year. Source: hispanicheritagemonth.gov h
+ ttps://hispanicheritagemonth.gov/ Communities: Colombian Minnesota\, Mexi
+ can Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hispanic-heritage-month-begins-2026-09-15@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota
- \, Guatemalan Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\, Sal
- vadoran Minnesota
+ Communities: Cuban Minnesota\, Ecuadorian Minnesota\, Guatemalan Minnesot
+ a\, Latino Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2258,20 +2273,6 @@ DESCRIPTION:Independence of Central America from Spain in 1821. Date: Sep
  ritage-month.html Communities: Guatemalan Minnesota\, Latino Minnesota\, 
  Salvadoran Minnesota
 CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hispanic-heritage-month-begins-2026-09-15@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20261016
-SUMMARY:Hispanic Heritage Month
-DESCRIPTION:U.S. heritage month\, tied to Central American and Mexican in
- dependence days. Date: September 15 to October 15. Source: U.S. Census Bu
- reau\, National Hispanic Heritage Month: 2026 https://www.census.gov/news
- room/facts-for-features/2026/hispanic-heritage-month.html Communities: Me
- xican Minnesota
-CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3334,14 +3335,15 @@ UID:día-de-los-reyes-2027-01-06@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
-SUMMARY:Día de los Reyes
-DESCRIPTION:The visit of the Magi\; a major gift day in many Puerto Rican
-  and Mexican families. Date: January 6. Source: Puerto Rico Oficina de Ge
- rencia y Presupuesto\, Ley 65 de 2000 (días de fiesta oficiales) https:/
- /bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf Comm
- unities: Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota\, G
- uatemalan Minnesota\, Latino Minnesota\, Mexican Minnesota\, Puerto Rican
-  Minnesota\, Salvadoran Minnesota
+SUMMARY:Epiphany (Día de los Reyes Magos)
+DESCRIPTION:The visit of the Magi to the infant Jesus. Date: Feast on Jan
+ uary 6\; under Colombian law the public holiday is observed on the Monday
+  on or after Jan. 6. Dates below are the Colombian public holiday. Source
+ : Puerto Rico Oficina de Gerencia y Presupuesto\, Ley 65 de 2000 (días d
+ e fiesta oficiales) https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferenc
+ ia/PDF/2/0065-2000.pdf Communities: Colombian Minnesota\, Cuban Minnesota
+ \, Ecuadorian Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, Mexic
+ an Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3703,13 +3705,14 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Good Friday
-DESCRIPTION:The crucifixion of Jesus. Date: The Friday before Western Eas
- ter. Source: United States Conference of Catholic Bishops\, Liturgical Ca
- lendar for the Dioceses of the USA 2027 https://www.usccb.org/resources/2
- 027cal.pdf Communities: Colombian Minnesota\, Ecuadorian Minnesota\, Euro
- pean American Minnesota\, Filipino Minnesota\, Guatemalan Minnesota\, Ken
- yan Minnesota\, Latino Minnesota\, Liberian Minnesota\, Mexican Minnesota
- \, Nigerian Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+DESCRIPTION:The crucifixion\, death and burial of Jesus. Date: The Friday
+  before Western Easter. Source: United States Conference of Catholic Bish
+ ops\, Liturgical Calendar for the Dioceses of the USA 2027 https://www.us
+ ccb.org/resources/2027cal.pdf Communities: Colombian Minnesota\, Ecuadori
+ an Minnesota\, European American Minnesota\, Filipino Minnesota\, Guatema
+ lan Minnesota\, Kenyan Minnesota\, Latino Minnesota\, Liberian Minnesota\
+ , Mexican Minnesota\, Nigerian Minnesota\, Puerto Rican Minnesota\, Salva
+ doran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4202,11 +4205,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:Colombian Independence Day
-DESCRIPTION:The 1810 declaration in Bogotá. Date: July 20. Source: El Ti
- empo (Colombia)\, Por qué el festivo del 20 de julio no se mueve al lune
- s https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-
- mueve-al-lunes-y-que-es-la-ley-emiliani-3364069 Communities: Colombian Mi
- nnesota
+DESCRIPTION:The July 20\, 1810 revolt in Bogotá (the Florero de Llorente
+  episode) that began Colombia's independence process. Date: July 20 every
+  year (fixed\; not moved to Monday). Source: El Tiempo (Colombia)\, Por q
+ ué el festivo del 20 de julio no se mueve al lunes https://www.eltiempo.
+ com/vida/por-que-el-festivo-del-20-de-julio-no-se-mueve-al-lunes-y-que-es
+ -la-ley-emiliani-3364069 Communities: Colombian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4399,15 +4403,27 @@ BEGIN:VEVENT
 UID:hispanic-heritage-month-begins-2027-09-15@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20271016
+SUMMARY:Hispanic Heritage Month (begins)
+DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
+ September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
+ fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
+ nnesota\, Mexican Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hispanic-heritage-month-begins-2027-09-15@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota
- \, Guatemalan Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\, Sal
- vadoran Minnesota
+ Communities: Cuban Minnesota\, Ecuadorian Minnesota\, Guatemalan Minnesot
+ a\, Latino Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4438,20 +4454,6 @@ DESCRIPTION:Autumn harvest and ancestral remembrance\; families gather an
  ed by the Korea AeroSpace Administration on June 29\, 2026 https://www.fn
  news.com/news/202606290904291637 Communities: Korean Minnesota
 CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hispanic-heritage-month-begins-2027-09-15@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20271016
-SUMMARY:Hispanic Heritage Month
-DESCRIPTION:U.S. heritage month\, tied to Central American and Mexican in
- dependence days. Date: September 15 to October 15. Source: U.S. Census Bu
- reau\, National Hispanic Heritage Month: 2026 https://www.census.gov/news
- room/facts-for-features/2026/hispanic-heritage-month.html Communities: Me
- xican Minnesota
-CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4939,14 +4941,15 @@ UID:día-de-los-reyes-2028-01-06@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280106
 DTEND;VALUE=DATE:20280107
-SUMMARY:Día de los Reyes
-DESCRIPTION:The visit of the Magi\; a major gift day in many Puerto Rican
-  and Mexican families. Date: January 6. Source: Puerto Rico Oficina de Ge
- rencia y Presupuesto\, Ley 65 de 2000 (días de fiesta oficiales) https:/
- /bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf Comm
- unities: Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota\, G
- uatemalan Minnesota\, Latino Minnesota\, Mexican Minnesota\, Puerto Rican
-  Minnesota\, Salvadoran Minnesota
+SUMMARY:Epiphany (Día de los Reyes Magos)
+DESCRIPTION:The visit of the Magi to the infant Jesus. Date: Feast on Jan
+ uary 6\; under Colombian law the public holiday is observed on the Monday
+  on or after Jan. 6. Dates below are the Colombian public holiday. Source
+ : Puerto Rico Oficina de Gerencia y Presupuesto\, Ley 65 de 2000 (días d
+ e fiesta oficiales) https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferenc
+ ia/PDF/2/0065-2000.pdf Communities: Colombian Minnesota\, Cuban Minnesota
+ \, Ecuadorian Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, Mexic
+ an Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5336,14 +5339,14 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280414
 DTEND;VALUE=DATE:20280415
 SUMMARY:Good Friday
-DESCRIPTION:The crucifixion of Jesus. Date: The Friday before Western Eas
- ter. Source: Diocese of Rapid City\, Liturgical Calendar 2026 to 2028 htt
- ps://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calen
- dar-2026-to-2028_1540859795023570813.pdf Communities: Colombian Minnesota
- \, Ecuadorian Minnesota\, European American Minnesota\, Filipino Minnesot
- a\, Guatemalan Minnesota\, Kenyan Minnesota\, Latino Minnesota\, Liberian
-  Minnesota\, Mexican Minnesota\, Nigerian Minnesota\, Puerto Rican Minnes
- ota\, Salvadoran Minnesota
+DESCRIPTION:The crucifixion\, death and burial of Jesus. Date: The Friday
+  before Western Easter. Source: Diocese of Rapid City\, Liturgical Calend
+ ar 2026 to 2028 https://www.rapidcitydiocese.org/wp-content/uploads/2026/
+ 01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf Communities: 
+ Colombian Minnesota\, Ecuadorian Minnesota\, European American Minnesota\
+ , Filipino Minnesota\, Guatemalan Minnesota\, Kenyan Minnesota\, Latino M
+ innesota\, Liberian Minnesota\, Mexican Minnesota\, Nigerian Minnesota\, 
+ Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5708,11 +5711,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280720
 DTEND;VALUE=DATE:20280721
 SUMMARY:Colombian Independence Day
-DESCRIPTION:The 1810 declaration in Bogotá. Date: July 20. Source: El Ti
- empo (Colombia)\, Por qué el festivo del 20 de julio no se mueve al lune
- s https://www.eltiempo.com/vida/por-que-el-festivo-del-20-de-julio-no-se-
- mueve-al-lunes-y-que-es-la-ley-emiliani-3364069 Communities: Colombian Mi
- nnesota
+DESCRIPTION:The July 20\, 1810 revolt in Bogotá (the Florero de Llorente
+  episode) that began Colombia's independence process. Date: July 20 every
+  year (fixed\; not moved to Monday). Source: El Tiempo (Colombia)\, Por q
+ ué el festivo del 20 de julio no se mueve al lunes https://www.eltiempo.
+ com/vida/por-que-el-festivo-del-20-de-julio-no-se-mueve-al-lunes-y-que-es
+ -la-ley-emiliani-3364069 Communities: Colombian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5864,15 +5868,27 @@ BEGIN:VEVENT
 UID:hispanic-heritage-month-begins-2028-09-15@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280915
+DTEND;VALUE=DATE:20281016
+SUMMARY:Hispanic Heritage Month (begins)
+DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
+ September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
+ fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
+ nnesota\, Mexican Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hispanic-heritage-month-begins-2028-09-15@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280915
 DTEND;VALUE=DATE:20280916
 SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Colombian Minnesota\, Cuban Minnesota\, Ecuadorian Minnesota
- \, Guatemalan Minnesota\, Latino Minnesota\, Puerto Rican Minnesota\, Sal
- vadoran Minnesota
+ Communities: Cuban Minnesota\, Ecuadorian Minnesota\, Guatemalan Minnesot
+ a\, Latino Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5888,20 +5904,6 @@ DESCRIPTION:Independence of Central America from Spain in 1821. Date: Sep
  ritage-month.html Communities: Guatemalan Minnesota\, Latino Minnesota\, 
  Salvadoran Minnesota
 CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hispanic-heritage-month-begins-2028-09-15@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20280915
-DTEND;VALUE=DATE:20281016
-SUMMARY:Hispanic Heritage Month
-DESCRIPTION:U.S. heritage month\, tied to Central American and Mexican in
- dependence days. Date: September 15 to October 15. Source: U.S. Census Bu
- reau\, National Hispanic Heritage Month: 2026 https://www.census.gov/news
- room/facts-for-features/2026/hispanic-heritage-month.html Communities: Me
- xican Minnesota
-CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

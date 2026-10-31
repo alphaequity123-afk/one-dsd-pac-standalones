@@ -1,0 +1,102 @@
+[
+ {
+  "name": "Maria's Café",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Ancient Traders Market, 1113 E. Franklin Ave., Minneapolis",
+  "whatItIs": "Colombian and American breakfast and lunch run by María Hoyos, who came from Medellín in 1980; arepas, Colombian hot chocolate, weekend specials and live music.",
+  "link": "https://mariascafe.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows current menu, weekend specials, live music Saturdays and Sundays 11:30 a.m. to 1:30 p.m., takeout ordering; Meet Minneapolis's current Latin American dining guide calls it Minneapolis's favorite Colombian brunch."
+ },
+ {
+  "name": "Cafe Racer Kitchen",
+  "type": "restaurant and catering",
+  "neighborhoodOrCity": "2929 E. 25th St., Seward/Longfellow area, Minneapolis",
+  "whatItIs": "Latin American restaurant and caterer founded by Colombian-born Luis Patiño; known for Colombian street dogs and arepas; began as a food truck, restaurant since 2015.",
+  "link": "https://www.caferacermn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists hours Tuesday to Friday 8 a.m. to 8 p.m., Saturday 9 a.m. to 8 p.m., Sunday 9 a.m. to 2 p.m., with online and DoorDash ordering."
+ },
+ {
+  "name": "Macondo",
+  "type": "restaurant and bar",
+  "neighborhoodOrCity": "2943 Girard Ave. S., Uptown, Minneapolis",
+  "whatItIs": "Colombian restaurant with full bar; parrillada colombiana, salchipapas, weekend bandeja paisa and sancocho; dancing on weekend nights.",
+  "link": "https://macondomn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site (copyright 2025) lists address, phone, business hours and online ordering; included in Meet Minneapolis's current Latin American dining guide."
+ },
+ {
+  "name": "La Colonia",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Central Avenue NE, Northeast Minneapolis",
+  "whatItIs": "Family-owned restaurant serving Colombian and Ecuadorian dishes such as bandeja paisa, churrasco and picada.",
+  "link": "https://minneapolis.org/cultural-districts/districts/central-avenue",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed on Meet Minneapolis's Central Avenue Cultural District page (undated); own website lacoloniarestaurant.com did not load; no dated 2025 or 2026 post found."
+ },
+ {
+  "name": "Los Andes",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Uptown, Minneapolis",
+  "whatItIs": "Restaurant listed as serving Colombian and Ecuadorian cuisine.",
+  "link": "https://www.carleton.edu/spanish/resources/community/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Named on an undated Carleton College community resources page; its own website did not load."
+ },
+ {
+  "name": "Norte Café",
+  "type": "coffee roaster",
+  "neighborhoodOrCity": "Roasted in Buffalo, MN; sold online and at Twin Cities farmers markets",
+  "whatItIs": "Coffee from the owner's family farm, Finca Paramitos, in Chinchiná, Caldas, Colombia, roasted in small batches in Minnesota; launched Dec. 11, 2020.",
+  "link": "https://nortecafe.shop/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own online store is selling coffees (suave, firme, intenso) and describes current farmers market sales."
+ },
+ {
+  "name": "Mi Cartagena Café",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "702 W. Lake Dr. (ordering address); Explore Minnesota places it in Detroit Lakes, but that page could not be opened",
+  "whatItIs": "Colombian coffee stand run by a barista born and raised in Cartagena; outdoor deck seating.",
+  "link": "https://micartagenacafe.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site lists daily hours (Mon-Fri 7 a.m. to 5 p.m., Sat-Sun 8 a.m. to 5 p.m.) but carries a 2024 copyright and no dated recent post; city not stated on the opened page."
+ },
+ {
+  "name": "Primitiva Collective / Primitiva Jewelry",
+  "type": "retail boutique and jewelry design",
+  "neighborhoodOrCity": "Uptown, Minneapolis",
+  "whatItIs": "Filigree jewelry designed by Laura Merino-Franco and made by artisans in Colombia; boutique for about 30 women artisans opened May 2022.",
+  "link": "https://kstp.com/kstp-news/top-news/latino-businesses-uplifting-entrepreneurs-in-minneapolis-community/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "KSTP 2022 report; business website did not load and no 2025 or 2026 evidence found."
+ },
+ {
+  "name": "Uncle Simon's Traditions",
+  "type": "food products (hot sauce)",
+  "neighborhoodOrCity": "Minnesota (city not stated)",
+  "whatItIs": "Colombian-style picante made by siblings from Barranquilla, based on an uncle's recipe.",
+  "link": "https://heavytable.com/picantes-uncle-simons-traditions/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Heavy Table profile dated July 2017; company website did not load; no current evidence found."
+ },
+ {
+  "name": "Colombia Live",
+  "type": "cultural nonprofit and dance school",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Colombian folkloric dance school and performing group for preschoolers to adults; formerly Fuego Latino and Grupo de Danzas Colombianas; nonprofit since 2023.",
+  "link": "https://www.colombialivemn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site active with booking, school and donation pages; GiveMN page shows a campaign for 2026 workshops with Colombian guest teachers."
+ }
+]
