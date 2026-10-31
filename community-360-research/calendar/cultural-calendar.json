@@ -3404,7 +3404,8 @@
    "name": "Lunar New Year",
    "alsoKnownAs": [
     "Spring Festival",
-    "Chunjie"
+    "Chunjie",
+    "Chinese New Year"
    ],
    "communities": [
     "chinese"
@@ -3416,25 +3417,25 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/chinese/profile.md",
    "kind": "cultural",
-   "capsule": "Start of the lunisolar year.",
-   "dateRule": "First day of the first month of the Chinese lunisolar calendar, falling between January 21 and February 20.",
+   "capsule": "Start of the Chinese lunisolar year: family reunions, dumplings and fish, red envelopes, and lion dances across Minnesota.",
+   "dateRule": "First day of the first month of the Chinese lunisolar calendar, between January 21 and February 20. Minnesota public events spread over the following weeks.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-02-17",
      "endDate": null,
-     "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2026",
-     "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2026e.txt",
+     "source": "GovHK general holidays 2026; Minnesota Monthly (Year of the Horse begins Tuesday, Feb. 17)",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-02-06",
      "endDate": null,
-     "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2027",
-     "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2027e.txt",
+     "source": "GovHK general holidays 2027",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
      "verified": true
     },
     {
@@ -3447,19 +3448,87 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Start of the lunisolar year.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The start of the lunisolar year, a time of renewal, family gatherings and wishes for luck and prosperity. Minnesota guides describe foods chosen for meaning: dumplings for wealth, long noodles for long life, whole fish for abundance.",
+   "howCelebratedInMinnesota": "In 2026: CAAM Chinese Dance Theater's production at the O'Shaughnessy (Jan. 17-18); the Chinese Community Center's festival at Asia Mall, Eden Prairie (Feb. 15), described as one of the largest in the state; a Chinese Heritage Foundation celebration at Luce Line Brewing, Plymouth (Feb. 21); the Twin Cities Dumpling Feast at Peking Garden, St. Paul (Feb. 25); a Minnesota Orchestra concert with a pre-concert set by Gao Hong and the Carleton Chinese Music Ensemble (Feb. 26); and restaurant specials. Midtown Global Market and Theater Mu postponed or canceled 2026 events because of a surge of ICE agents in Minneapolis. The holiday is also marked by Vietnamese, Korean, Hmong, Taiwanese and other communities.",
+   "minnesotaEvents": [
+    {
+     "name": "Chinese Community Center Lunar New Year celebration",
+     "place": "Asia Mall, 12160 Technology Dr., Eden Prairie",
+     "link": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "organizerDates": "Feb. 15, 2026, 12-5 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "CAAM Chinese Dance Theater, The Tale of the Peacock",
+     "place": "O'Shaughnessy Auditorium, St. Catherine University, St. Paul",
+     "link": "https://caam.org/caamcdts-2026-lunar-new-year-production-show/",
+     "organizerDates": "Jan. 17, 2026, 7 p.m.; Jan. 18, 2026, 2 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Chinese New Year at Luce Line Brewing with the Chinese Heritage Foundation",
+     "place": "Luce Line Brewing, 12901 16th Ave. N., Plymouth",
+     "link": "https://www.minneapolis.org/calendar/holidays/lunar-new-year/",
+     "organizerDates": "Feb. 21, 2026, 1-5 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Fifth Annual Twin Cities Dumpling Feast",
+     "place": "Peking Garden, St. Paul",
+     "link": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "organizerDates": "Feb. 25, 2026, 5-9 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Lunar New Year with the Minnesota Orchestra",
+     "place": "Orchestra Hall, Minneapolis",
+     "link": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "organizerDates": "Feb. 26, 2026, 7 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Year of the Horse: Hoofbeats through Time (exhibition)",
+     "place": "Minneapolis Institute of Art",
+     "link": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "organizerDates": "Feb. 16 to Aug. 30, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "General holidays for 2026, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "General holidays for 2027, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrate Lunar New Year Across Minnesota, Minnesota Monthly",
+     "url": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Where to Celebrate Lunar New Year Around the Twin Cities, Mpls.St.Paul Magazine",
+     "url": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrate the Lunar New Year in Minneapolis, Meet Minneapolis",
+     "url": "https://www.minneapolis.org/calendar/holidays/lunar-new-year/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "chinese--midautumn-festival",
-   "observanceKey": "midautumn-festival",
-   "name": "Mid-Autumn Festival",
+   "id": "chinese--caam-chinese-dance-theater-lunar-new-year-production",
+   "observanceKey": "caam-chinese-dance-theater-lunar-new-year-production",
+   "name": "CAAM Chinese Dance Theater Lunar New Year Production",
    "alsoKnownAs": [
-    "Zhongqiu Jie",
-    "Tết Trung Thu"
+    "CAAM CDT annual production"
    ],
    "communities": [
     "chinese"
@@ -3471,9 +3540,232 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/chinese/profile.md",
+   "kind": "community festival",
+   "capsule": "Annual Lunar New Year dance-drama by the Chinese American Association of Minnesota's Chinese Dance Theater in St. Paul.",
+   "dateRule": "Announced each year by CAAM; held in January or February before or around Lunar New Year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-17",
+     "endDate": "2026-01-18",
+     "source": "CAAM post, Dec. 15, 2025",
+     "sourceUrl": "https://caam.org/caamcdts-2026-lunar-new-year-production-show/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Lunar New Year, through a full-length Chinese dance production; the 2026 show, The Tale of the Peacock, drew on Dai ethnic folklore.",
+   "howCelebratedInMinnesota": "Staged at the O'Shaughnessy at St. Catherine University; Chinese Dance Theater was founded in 1992 and marked its 30th anniversary in 2022-2023.",
+   "minnesotaEvents": [
+    {
+     "name": "The Tale of the Peacock",
+     "place": "O'Shaughnessy Auditorium, St. Paul",
+     "link": "https://caam.org/caamcdts-2026-lunar-new-year-production-show/",
+     "organizerDates": "Jan. 17 and 18, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CAAM CDT's 2026 Lunar New Year Production Show",
+     "url": "https://caam.org/caamcdts-2026-lunar-new-year-production-show/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "CAAM History",
+     "url": "https://caam.org/history/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "chinese--chinese-community-center-lunar-new-year-festival",
+   "observanceKey": "chinese-community-center-lunar-new-year-festival",
+   "name": "Chinese Community Center Lunar New Year Festival",
+   "alsoKnownAs": [
+    "Lunar New Year at Asia Mall"
+   ],
+   "communities": [
+    "chinese"
+   ],
+   "briefLinks": [
+    {
+     "community": "chinese",
+     "title": "Chinese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/chinese/profile.md",
+   "kind": "community festival",
+   "capsule": "Large Lunar New Year street-fair style festival at Asia Mall in Eden Prairie with performances, food and market stalls.",
+   "dateRule": "Announced each year by the Chinese Community Center; held on a weekend near Lunar New Year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-15",
+     "endDate": null,
+     "source": "Mpls.St.Paul Magazine, Feb. 10, 2026",
+     "sourceUrl": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Lunar New Year.",
+   "howCelebratedInMinnesota": "Cultural performances, food and market stalls and activities, 12 to 5 p.m. on Feb. 15, 2026; a visitor testimonial on the center's site describes a crowded 2025 festival with business booths and food stations.",
+   "minnesotaEvents": [
+    {
+     "name": "Lunar New Year celebration",
+     "place": "Asia Mall, Eden Prairie",
+     "link": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "organizerDates": "Feb. 15, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Mpls.St.Paul Magazine, Lunar New Year 2026",
+     "url": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Chinese Community Center, About",
+     "url": "https://cccminnesota.org/about/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "chinese--twin-cities-dumpling-feast",
+   "observanceKey": "twin-cities-dumpling-feast",
+   "name": "Twin Cities Dumpling Feast",
+   "alsoKnownAs": [],
+   "communities": [
+    "chinese"
+   ],
+   "briefLinks": [
+    {
+     "community": "chinese",
+     "title": "Chinese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/chinese/profile.md",
+   "kind": "community festival",
+   "capsule": "Annual Lunar New Year dumpling-making dinner with performances at Peking Garden in St. Paul.",
+   "dateRule": "Announced each year by the Minnesota China Friendship Garden Society and the Association of Sino-American Neocultural Exchange.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-25",
+     "endDate": null,
+     "source": "Minnesota Monthly and Mpls.St.Paul Magazine, Feb. 10, 2026",
+     "sourceUrl": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Garden society lists 'Annual Dumpling Feast – coming in 2027' without a date",
+     "sourceUrl": "https://mnchinagarden.org/upcoming-events/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Lunar New Year; dumplings symbolize prosperity.",
+   "howCelebratedInMinnesota": "Chinese cultural displays, speeches and performances, dumpling wrapping and a dumpling dinner; $45 with registration in 2026. The 2026 event was the fifth.",
+   "minnesotaEvents": [
+    {
+     "name": "5th Annual Twin Cities Dumpling Feast",
+     "place": "Peking Garden, St. Paul",
+     "link": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "organizerDates": "Feb. 25, 2026, 5-9 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Monthly, Lunar New Year 2026",
+     "url": "https://www.minnesotamonthly.com/general/celebrate-lunar-new-year-across-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Mpls.St.Paul Magazine",
+     "url": "https://mspmag.com/arts-and-culture/where-to-celebrate-lunar-new-year-around-the-twin-cities/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Upcoming Events, Minnesota China Friendship Garden Society",
+     "url": "https://mnchinagarden.org/upcoming-events/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "chinese--midautumn-festival",
+   "observanceKey": "midautumn-festival",
+   "name": "Mid-Autumn Festival",
+   "alsoKnownAs": [
+    "Moon Festival",
+    "Zhongqiu Jie"
+   ],
+   "communities": [
+    "chinese"
+   ],
+   "briefLinks": [
+    {
+     "community": "chinese",
+     "title": "Chinese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/chinese/profile.md",
    "kind": "cultural",
-   "capsule": "Harvest moon festival.",
+   "capsule": "Harvest full-moon festival on the 15th day of the eighth lunar month: mooncakes, lanterns and family reunion.",
    "dateRule": "Fifteenth day of the eighth month of the Chinese lunisolar calendar.",
    "dates": [
     {
@@ -3502,18 +3794,60 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Harvest moon festival.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The harvest moon and family reunion.",
+   "howCelebratedInMinnesota": "The Minnesota China Friendship Garden Society and ASANE have held a Mid-Autumn Moon Festival at the China Friendship Garden in Phalen Regional Park, St. Paul, but announced there would be none in 2026. The Chinese Community Center posted a call for 2026 Mid-Autumn volunteers on Sept. 8, 2026, without event details. The Twin Cities Chinese Language School lists Moon Festival celebrations among its activities.",
+   "minnesotaEvents": [
+    {
+     "name": "Mid-Autumn Moon Festival, China Friendship Garden (not held in 2026)",
+     "place": "Liu Ming Yuan, Phalen Regional Park, St. Paul",
+     "link": "https://mnchinagarden.org/upcoming-events/",
+     "organizerDates": "Organizer: no festival in 2026; 'watch for details in 2027'",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Chinese Community Center 2026 Mid-Autumn volunteer call",
+     "place": "Chinese Community Center, Eden Prairie",
+     "link": "https://cccminnesota.org/2026midautumn-volunteer/",
+     "organizerDates": "Posted Sept. 8, 2026; event date not shown",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "General holidays for 2026, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "General holidays for 2027, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Upcoming Events, Minnesota China Friendship Garden Society",
+     "url": "https://mnchinagarden.org/upcoming-events/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Chinese Community Center, Programs",
+     "url": "https://cccminnesota.org/programs/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Twin Cities Chinese Language School",
+     "url": "https://twincitiescls.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "chinese--dragon-boat-festival",
    "observanceKey": "dragon-boat-festival",
    "name": "Dragon Boat Festival",
    "alsoKnownAs": [
-    "Duanwu Jie"
+    "Duanwu Jie",
+    "Tuen Ng"
    ],
    "communities": [
     "chinese"
@@ -3525,25 +3859,25 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/chinese/profile.md",
    "kind": "cultural",
-   "capsule": "Traditional early-summer festival.",
+   "capsule": "Early-summer festival on the fifth day of the fifth lunar month, known for dragon boat races and sticky rice dumplings.",
    "dateRule": "Fifth day of the fifth month of the Chinese lunisolar calendar.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-06-19",
      "endDate": null,
-     "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2026",
-     "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2026e.txt",
+     "source": "GovHK general holidays 2026 (Tuen Ng Festival, 19 June)",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-06-09",
      "endDate": null,
-     "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2027",
-     "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2027e.txt",
+     "source": "GovHK general holidays 2027 (Tuen Ng Festival, 9 June)",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
      "verified": true
     },
     {
@@ -3556,18 +3890,43 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Traditional early-summer festival.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "A traditional early-summer festival; in China dragon boat races date back more than 2,000 years.",
+   "howCelebratedInMinnesota": "No Chinese-organized Duanwu observance in Minnesota was found. St. Paul's pan-Asian Dragon Festival at Lake Phalen, founded in 2000, features dragon boat races in July rather than on the lunar date; it returned July 13, 2024, after a four-year pause. No 2025 or 2026 date was confirmed.",
+   "minnesotaEvents": [
+    {
+     "name": "Dragon Festival (pan-Asian, dragon boat races)",
+     "place": "Lake Phalen, Phalen Regional Park, St. Paul",
+     "link": "https://sahanjournal.com/arts-culture/dragon-fest-returns-lake-phalen-saint-paul/",
+     "organizerDates": "July 13, 2024 (most recent confirmed); later dates not found",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "General holidays for 2026, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "General holidays for 2027, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Dragon Fest returning to Lake Phalen, Sahan Journal",
+     "url": "https://sahanjournal.com/arts-culture/dragon-fest-returns-lake-phalen-saint-paul/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "chinese--qingming",
    "observanceKey": "qingming",
    "name": "Qingming",
    "alsoKnownAs": [
-    "Tomb-Sweeping Day"
+    "Tomb-Sweeping Day",
+    "Ching Ming"
    ],
    "communities": [
     "chinese"
@@ -3579,9 +3938,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
     }
    ],
-   "profileLink": null,
-   "kind": "cultural",
-   "capsule": "Day for tending family graves and honoring ancestors.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/chinese/profile.md",
+   "kind": "remembrance",
+   "capsule": "Spring day for tending family graves and honoring ancestors, at the solar term around April 4 or 5.",
    "dateRule": "Solar term beginning about April 4 or 5.",
    "dates": [
     {
@@ -3596,8 +3955,8 @@
      "year": 2027,
      "date": "2027-04-05",
      "endDate": null,
-     "source": "Hong Kong Observatory, Gregorian-Lunar Calendar Conversion Table 2027",
-     "sourceUrl": "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2027e.txt",
+     "source": "GovHK general holidays 2027 (Ching Ming Festival, 5 April)",
+     "sourceUrl": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
      "verified": true
     },
     {
@@ -3610,11 +3969,95 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Day for tending family graves and honoring ancestors.",
+   "whatItMarks": "A day for tending family graves and honoring ancestors.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "General holidays for 2026, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2026.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "General holidays for 2027, GovHK",
+     "url": "https://www.gov.hk/en/about/abouthk/holiday/2027.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Lakewood Cemetery community burial areas stroll (Chinese Community Memorial)",
+     "url": "https://www.lakewoodcemetery.org/wp-content/uploads/2021/08/Desktop-Lakewood-Community-Burial-Cemetery-Stroll-8.12.21.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "chinese--caam-annual-celebration-and-scholarship-awards",
+   "observanceKey": "caam-annual-celebration-and-scholarship-awards",
+   "name": "CAAM Annual Celebration and Scholarship Awards",
+   "alsoKnownAs": [
+    "CAAM Grand Gala"
+   ],
+   "communities": [
+    "chinese"
+   ],
+   "briefLinks": [
+    {
+     "community": "chinese",
+     "title": "Chinese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/chinese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/chinese/profile.md",
+   "kind": "community festival",
+   "capsule": "Chinese American Association of Minnesota's yearly gala honoring scholarship winners and volunteers.",
+   "dateRule": "Announced each year by CAAM; held in spring.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-09",
+     "endDate": null,
+     "source": "CAAM post, July 1, 2026",
+     "sourceUrl": "https://caam.org/https-caam-org-legacy-of-honor-cultural-synergy-and-youth-empowerment-caams-2025-2026-grand-gala-concludes-with-historic-success-2/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "CAAM's history (59 years in 2026), its Stanley & Marvel Chong Scholarships and its festival volunteers.",
+   "howCelebratedInMinnesota": "Held in St. Paul on May 9, 2026; 11 Chinese American high school seniors received $2,000 to $5,000 scholarships.",
+   "minnesotaEvents": [
+    {
+     "name": "CAAM 2025-2026 Annual Celebration",
+     "place": "St. Paul",
+     "link": "https://caam.org/https-caam-org-legacy-of-honor-cultural-synergy-and-youth-empowerment-caams-2025-2026-grand-gala-concludes-with-historic-success-2/",
+     "organizerDates": "May 9, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "CAAM 2025-2026 Grand Gala",
+     "url": "https://caam.org/https-caam-org-legacy-of-honor-cultural-synergy-and-youth-empowerment-caams-2025-2026-grand-gala-concludes-with-historic-success-2/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "colombian--easter",
@@ -6227,8 +6670,6 @@
    "observanceKey": "easter",
    "name": "Easter",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
     "Pasko ng Pagkabuhay"
    ],
    "communities": [
@@ -6241,16 +6682,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
-   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "capsule": "The Christian feast of the Resurrection, at the close of Holy Week; many Filipino families are Catholic.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Western calendar).",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-05",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
+     "source": "USCCB 2026 Liturgical Calendar",
      "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
      "verified": true
     },
@@ -6258,7 +6699,7 @@
      "year": 2027,
      "date": "2027-03-28",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+     "source": "USCCB 2027 Liturgical Calendar",
      "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
      "verified": true
     },
@@ -6266,24 +6707,39 @@
      "year": 2028,
      "date": "2028-04-16",
      "endDate": null,
-     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
-     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "source": "USCCB 2028 Liturgical Calendar",
+     "sourceUrl": "https://www.usccb.org/resources/2028cal.pdf",
      "verified": true
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "whatItMarks": "The resurrection of Jesus in Western Christian tradition.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "USCCB 2026 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2026cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2027 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2027cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2028 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2028cal.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "filipino--good-friday",
    "observanceKey": "good-friday",
    "name": "Good Friday",
    "alsoKnownAs": [
-    "Viernes Santo",
     "Biyernes Santo"
    ],
    "communities": [
@@ -6296,17 +6752,17 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
    "kind": "religious",
-   "capsule": "The crucifixion of Jesus.",
+   "capsule": "Holy Week's solemn Friday marking the crucifixion; a regular holiday in the Philippines.",
    "dateRule": "The Friday before Western Easter.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-03",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
-     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "source": "Proclamation No. 1006 (Philippines), Good Friday 3 April 2026",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     },
     {
@@ -6327,18 +6783,34 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "The crucifixion of Jesus.",
+   "whatItMarks": "The crucifixion of Jesus. In the Philippines, Maundy Thursday and Good Friday are both regular holidays.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2027 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2027cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2028 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2028cal.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "filipino--ash-wednesday",
    "observanceKey": "ash-wednesday",
    "name": "Ash Wednesday",
    "alsoKnownAs": [
-    "Miércoles de Ceniza"
+    "Miyerkules ng Abo"
    ],
    "communities": [
     "filipino"
@@ -6350,16 +6822,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
    "kind": "religious",
-   "capsule": "Start of Lent.",
+   "capsule": "Start of Lent in the Catholic calendar, 46 days before Easter.",
    "dateRule": "46 days before Western Easter.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
+     "source": "USCCB 2026 Liturgical Calendar",
      "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
      "verified": true
     },
@@ -6367,7 +6839,7 @@
      "year": 2027,
      "date": "2027-02-10",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+     "source": "USCCB 2027 Liturgical Calendar",
      "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
      "verified": true
     },
@@ -6375,17 +6847,33 @@
      "year": 2028,
      "date": "2028-03-01",
      "endDate": null,
-     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
-     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "source": "USCCB 2028 Liturgical Calendar",
+     "sourceUrl": "https://www.usccb.org/resources/2028cal.pdf",
      "verified": true
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Start of Lent.",
+   "whatItMarks": "The beginning of Lent, a season of fasting and penance before Easter.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "USCCB 2026 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2026cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2027 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2027cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2028 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2028cal.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "filipino--philippine-independence-day",
@@ -6404,16 +6892,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
    "kind": "national",
-   "capsule": "The 1898 declaration of independence.",
-   "dateRule": "June 12.",
+   "capsule": "The Philippines' national day, June 12, marking the 1898 declaration of independence from Spain.",
+   "dateRule": "June 12 each year.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-06-12",
      "endDate": null,
-     "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+     "source": "Proclamation No. 1006 (Philippines): Independence Day 12 June",
      "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     },
@@ -6421,7 +6909,7 @@
      "year": 2027,
      "date": "2027-06-12",
      "endDate": null,
-     "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+     "source": "Fixed date (June 12)",
      "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     },
@@ -6429,25 +6917,34 @@
      "year": 2028,
      "date": "2028-06-12",
      "endDate": null,
-     "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+     "source": "Fixed date (June 12)",
      "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The 1898 declaration of independence.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The declaration of Philippine independence from Spain in 1898; a regular holiday in the Philippines.",
+   "howCelebratedInMinnesota": "No 2026 Minnesota observance was found. The Philippine Consulate General in Chicago, which serves Minnesota, invited the state in November 2025 to join 2026 events for the 80th anniversary of Philippines-U.S. diplomatic relations.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "PH Consulate General in Chicago strengthens engagement with Minnesota Secretary of State",
+     "url": "https://chicagopcg.com/pressrelease-details-7125.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "filipino--christmas",
    "observanceKey": "christmas",
    "name": "Christmas",
    "alsoKnownAs": [
-    "Navidad",
-    "Noël",
     "Pasko"
    ],
    "communities": [
@@ -6460,47 +6957,284 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
+   "capsule": "Dec. 25, the heart of a long Filipino Christmas season of Masses, caroling, children's programs and food.",
    "dateRule": "December 25.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "Proclamation No. 1006 (Philippines): Christmas Day 25 December",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The birth of Jesus. In the Philippines, Dec. 24 and Dec. 31 were also declared non-working days for 2026.",
+   "howCelebratedInMinnesota": "Through a season of community events: Simbang Gabi Masses before Christmas (Filipino Catholic Community of Minnesota), the Fil-Minnesotan Association's Paskong Pilipino for children (since 1976), and the Cultural Society of Filipino Americans' Pasko sa Nayon (since 1978) and carolers, who sing at Masses and parties to raise money for causes. See separate entries.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cultural Society of Filipino Americans of Minnesota (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Fil-Minnesotan Association (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/fil-minnesotan-association",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Filipino Catholics prepare for Christmas with nine-day Mass devotion (The Catholic Spirit, Dec. 4, 2019)",
+     "url": "https://www.thecatholicspirit.com/news/local-news/filipino-catholics-prepare-for-christmas-with-nine-day-mass-devotion/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "filipino--edsa-people-power-anniversary",
    "observanceKey": "edsa-people-power-anniversary",
    "name": "EDSA People Power anniversary",
+   "alsoKnownAs": [
+    "EDSA People Power Revolution Anniversary"
+   ],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "remembrance",
+   "capsule": "Feb. 25 remembers the 1986 People Power uprising that ended the Marcos dictatorship.",
+   "dateRule": "February 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-25",
+     "endDate": null,
+     "source": "Proclamation No. 1006 (Philippines): 40th anniversary, special working day",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The 1986 EDSA People Power Revolution. The 40th anniversary in 2026 was declared a special working day in the Philippines, not a day off.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Buhay Na Buhay (Walker Art Center), partner list including the Philippine Study Group of Minnesota",
+     "url": "https://www.walkerart.org/whats-on/buhay-na-buhay-an-evening-curated-by-the-mn-filipinx-community/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--simbang-gabi",
+   "observanceKey": "simbang-gabi",
+   "name": "Simbang Gabi",
+   "alsoKnownAs": [
+    "Misa de Gallo",
+    "Christmas novena Masses"
+   ],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "religious",
+   "capsule": "Nine Masses before Christmas; in the Twin Cities, held in the evening at a different parish each night.",
+   "dateRule": "Nine days before Christmas, traditionally Dec. 16 to 24. Minnesota organizers set their own schedule each year; in 2019 the Twin Cities series ran Dec. 12 to 20 with a closing dawn Misa de Gallo on the Saturday before Christmas.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-16",
+     "endDate": "2026-12-24",
+     "source": "Traditional span per OSV News in The Catholic Spirit; no 2026 Minnesota schedule found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A novena of Masses honoring Mary in preparation for Christmas, brought from the Philippines.",
+   "howCelebratedInMinnesota": "The Filipino Catholic Community of Minnesota (formed 1995) rotated the Masses among nine metro parishes in 2019, mostly in English, with food after most Masses and 50 to 150 people a night; the Cultural Society of Filipino Americans caroled before the closing Mass. The Co-Cathedral of St. John the Evangelist in Rochester held a Simbang Gabi Mass with a children's program on Dec. 16, 2022.",
+   "minnesotaEvents": [
+    {
+     "name": "Simbang Gabi, Filipino Catholic Community of Minnesota",
+     "place": "Nine Twin Cities parishes, ending at Guardian Angels, Oakdale",
+     "link": "https://www.thecatholicspirit.com/news/local-news/filipino-catholics-prepare-for-christmas-with-nine-day-mass-devotion/",
+     "organizerDates": "Dec. 12-21, 2019 (7 p.m. evening Masses; Misa de Gallo 6 a.m. Dec. 21, 2019)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Simbang Gabi Mass with Bishop Barron",
+     "place": "Co-Cathedral of St. John the Evangelist, Rochester",
+     "link": "https://www.sj.org/updates-list/simbang-gabi-mass",
+     "organizerDates": "Friday, Dec. 16, 2022, children's program 6:45 p.m., Mass 7 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": "Dodge Flores of the Filipino Catholic Community of Minnesota said in 2019 that the Twin Cities Masses are held in the evening, when people are more likely able to attend (The Catholic Spirit).",
+   "sources": [
+    {
+     "title": "Filipino Catholics prepare for Christmas with nine-day Mass devotion (The Catholic Spirit, Dec. 4, 2019)",
+     "url": "https://www.thecatholicspirit.com/news/local-news/filipino-catholics-prepare-for-christmas-with-nine-day-mass-devotion/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Filipino Simbang Gabi Masses more and more rooted in the US",
+     "url": "https://www.thecatholicspirit.com/news/filipino-simbang-gabi-masses-more-and-more-rooted-in-the-us/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Simbang Gabi Mass, Co-Cathedral of St. John the Evangelist",
+     "url": "https://www.sj.org/updates-list/simbang-gabi-mass",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--pasko-sa-nayon",
+   "observanceKey": "pasko-sa-nayon",
+   "name": "Pasko sa Nayon",
+   "alsoKnownAs": [
+    "CSFA Christmas celebration"
+   ],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "community festival",
+   "capsule": "The Cultural Society of Filipino Americans' Christmas gathering, held since 1978, with performances, games, a bazaar and Santa.",
+   "dateRule": "Set each year by the Cultural Society of Filipino Americans of Minnesota, in the Christmas season.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Filipino Christmas traditions, shared with children and families.",
+   "howCelebratedInMinnesota": "Per MNopedia and GiveMN: performances, a skit, games and prizes, a bazaar of goods and food, lunch for all and a visit from Santa Claus.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cultural Society of Filipino Americans of Minnesota (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cultural Society of Filipino-Americans (GiveMN)",
+     "url": "https://www.givemn.org/organization/Csfamn",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--paskong-pilipino",
+   "observanceKey": "paskong-pilipino",
+   "name": "Paskong Pilipino",
    "alsoKnownAs": [],
    "communities": [
     "filipino"
@@ -6512,42 +7246,501 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
     }
    ],
-   "profileLink": null,
-   "kind": "remembrance",
-   "capsule": "The February 1986 People Power movement.",
-   "dateRule": "February 25.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "community festival",
+   "capsule": "The Fil-Minnesotan Association's Christmas program for Filipino American children, begun in 1976.",
+   "dateRule": "Set each year by the Fil-Minnesotan Association.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-02-25",
+     "date": null,
      "endDate": null,
-     "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Christmas, as a children's celebration of Filipino traditions.",
+   "howCelebratedInMinnesota": "Started in 1976 by FMA member Abe Malicsi; MNopedia shows a nativity scene at the 1980 event at Westwood Junior High in St. Louis Park. No current date found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Fil-Minnesotan Association (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/fil-minnesotan-association",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--feast-of-the-santo-niño-sinulog",
+   "observanceKey": "feast-of-the-santo-niño-sinulog",
+   "name": "Feast of the Santo Niño (Sinulog)",
+   "alsoKnownAs": [
+    "Santo Niño",
+    "Sinulog"
+   ],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "religious",
+   "capsule": "Visayan feast of the child Jesus on the third Sunday of January, with Mass and Sinulog dancing.",
+   "dateRule": "Third Sunday in January.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-18",
+     "endDate": null,
+     "source": "Calculated from the third-Sunday rule stated in The Catholic Spirit",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-17",
+     "endDate": null,
+     "source": "Calculated from the third-Sunday rule",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-16",
+     "endDate": null,
+     "source": "Calculated from the third-Sunday rule",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Devotion to the Santo Niño, the child Jesus, patron honored in the Visayas.",
+   "howCelebratedInMinnesota": "In January 2011, the 10th annual Sinulog Festival Mass at Guardian Angels in Oakdale drew about 400 people, with Sinulog dancers and a dinner program. No later Minnesota event was found.",
+   "minnesotaEvents": [
+    {
+     "name": "10th annual Sinulog Festival Mass",
+     "place": "Guardian Angels, Oakdale",
+     "link": "https://www.thecatholicspirit.com/news/local-news/filipinos-gather-to-celebrate-feast-of-santo-nino/",
+     "organizerDates": "Jan. 16, 2011",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Filipinos gather to celebrate feast of Santo Niño (The Catholic Spirit)",
+     "url": "https://www.thecatholicspirit.com/news/local-news/filipinos-gather-to-celebrate-feast-of-santo-nino/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--philippine-day-minnesota",
+   "observanceKey": "philippine-day-minnesota",
+   "name": "Philippine Day (Minnesota)",
+   "alsoKnownAs": [],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "community festival",
+   "capsule": "The Cultural Society of Filipino Americans' big public day of dance, music, fashion, martial arts and food vendors.",
+   "dateRule": "Set each year by the Cultural Society of Filipino Americans of Minnesota. The 2002 event was March 24.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Filipino heritage, shared with the wider public; described as the largest annual Filipino gathering in Minnesota.",
+   "howCelebratedInMinnesota": "At Aldrich Arena in Maplewood, with dozens of vendors and presenters, on-stage singing, dancing, fashion and martial arts, plus food, shipping and clothing vendors. MNopedia dates the first Philippine Day to 1988; Gov. Ventura's 2002 proclamation says the society had sponsored it since 1987.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cultural Society of Filipino Americans of Minnesota (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Governor Jesse Ventura proclamation, Philippine Day 2002",
+     "url": "https://officialdocuments.sos.mn.gov/Files/GetDocument/38735",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--filipino-american-history-month",
+   "observanceKey": "filipino-american-history-month",
+   "name": "Filipino American History Month",
+   "alsoKnownAs": [
+    "FAHM"
+   ],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "heritage",
+   "capsule": "October, a month to learn and share Filipino American history.",
+   "dateRule": "The month of October.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-01",
+     "endDate": "2026-10-31",
+     "source": "Power 104.7 FM: 'October is Filipino history month'",
+     "sourceUrl": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-01",
+     "endDate": "2027-10-31",
+     "source": "Fixed month",
+     "sourceUrl": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-01",
+     "endDate": "2028-10-31",
+     "source": "Fixed month",
+     "sourceUrl": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The history and contributions of Filipino Americans.",
+   "howCelebratedInMinnesota": "Indigenous Roots in St. Paul hosted 'Basa, Kanta at Sayaw' (read, sing and dance) in October 2022, with readings in Tagalog and English and singing by lolas; the Filipino Association at Macalester held a panel of Twin Cities Filipino chefs on Oct. 19, 2023.",
+   "minnesotaEvents": [
+    {
+     "name": "Basa, Kanta at Sayaw",
+     "place": "Indigenous Roots Cultural Arts Center, St. Paul",
+     "link": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "organizerDates": "October 2022 (exact date not stated)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Panlasa Panel: Flavors of Home",
+     "place": "Macalester College, St. Paul",
+     "link": "https://themacweekly.com/2023/11/flavors-of-home-a-celebration-of-filipino-food-in-the-twin-cities/",
+     "organizerDates": "Oct. 19, 2023",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Filipino Minnesotans celebrate rich and vibrant culture (Power 104.7 FM)",
+     "url": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Flavors of home (The Mac Weekly)",
+     "url": "https://themacweekly.com/2023/11/flavors-of-home-a-celebration-of-filipino-food-in-the-twin-cities/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--rizal-day",
+   "observanceKey": "rizal-day",
+   "name": "Rizal Day",
+   "alsoKnownAs": [
+    "Araw ni Rizal"
+   ],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "national",
+   "capsule": "Dec. 30 honors José Rizal, the Philippines' national hero; a regular holiday there.",
+   "dateRule": "December 30.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-30",
+     "endDate": null,
+     "source": "Proclamation No. 1006 (Philippines): Rizal Day 30 December",
      "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-02-25",
+     "date": "2027-12-30",
      "endDate": null,
-     "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+     "source": "Fixed date",
      "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-02-25",
+     "date": "2028-12-30",
      "endDate": null,
-     "source": "Republic of the Philippines, Proclamation No. 1006 (2025), holidays for 2026, via LawPhil",
+     "source": "Fixed date",
      "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The February 1986 People Power movement.",
+   "whatItMarks": "The national hero José Rizal (regular holiday in the Philippines).",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--all-saints-and-all-souls-days",
+   "observanceKey": "all-saints-and-all-souls-days",
+   "name": "All Saints' and All Souls' Days",
+   "alsoKnownAs": [
+    "Undas",
+    "Araw ng mga Patay"
+   ],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "religious",
+   "capsule": "Nov. 1 and 2, days for remembering the dead; both were non-working days in the Philippines in 2026.",
+   "dateRule": "November 1 and 2.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-01",
+     "endDate": "2026-11-02",
+     "source": "Proclamation No. 1006 (Philippines): All Saints' Day 1 Nov.; 2 Nov. added as non-working day",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-01",
+     "endDate": "2027-11-02",
+     "source": "Fixed dates",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-01",
+     "endDate": "2028-11-02",
+     "source": "Fixed dates",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Remembrance of saints and of family members who have died. The 2026 proclamation added Nov. 2 to give more time for these family activities.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--pamana",
+   "observanceKey": "pamana",
+   "name": "Pamana",
+   "alsoKnownAs": [
+    "CSFA Pamana dance showcase"
+   ],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "community festival",
+   "capsule": "The Cultural Society's premier Filipino dance showcase, staged once every four years.",
+   "dateRule": "Once every four years, set by the Cultural Society of Filipino Americans of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The regional dance traditions of the Philippines, in four suites: Cordillera, Sarimanok, Abanico and Sa Nayon.",
+   "howCelebratedInMinnesota": "First performed in 1981; moved to the Ames Center in Burnsville in 2009; MNopedia shows a performance on Sept. 10, 2016. No upcoming date found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cultural Society of Filipino Americans of Minnesota (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "filipino--pista-sa-nayon-filammindak",
+   "observanceKey": "pista-sa-nayon-filammindak",
+   "name": "Pista sa Nayon (FilAmMinDak)",
+   "alsoKnownAs": [
+    "Village fiesta"
+   ],
+   "communities": [
+    "filipino"
+   ],
+   "briefLinks": [
+    {
+     "community": "filipino",
+     "title": "Filipino Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/filipino"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/filipino/profile.md",
+   "kind": "community festival",
+   "capsule": "A summer fiesta in Fargo-Moorhead drawing Filipino families from Minnesota and the Dakotas.",
+   "dateRule": "An annual summer weekend set by FilAmMinDak.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Filipino village festival traditions: dance, song and food.",
+   "howCelebratedInMinnesota": "An evening program in Fargo and a next-day picnic at Gooseberry Park in Moorhead, with adobo and dinuguan, per an undated InForum report.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "'Pista Sa Nayon' celebration in full swing in Fargo (InForum)",
+     "url": "https://www.inforum.com/newsmd/pista-sa-nayon-celebration-in-full-swing-in-fargo",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "french--easter",
@@ -10375,12 +11568,12 @@
    ]
   },
   {
-   "id": "japanese--shōgatsu",
+   "id": "japanese--shōgatsu-japanese-new-year",
    "observanceKey": "shōgatsu",
-   "name": "Shōgatsu",
+   "name": "Shōgatsu (Japanese New Year)",
    "alsoKnownAs": [
-    "Japanese New Year",
-    "Oshōgatsu"
+    "Oshōgatsu",
+    "Japanese New Year"
    ],
    "communities": [
     "japanese"
@@ -10392,10 +11585,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
    "kind": "cultural",
-   "capsule": "Japanese new year.",
-   "dateRule": "January 1, with celebrations through the first days of January.",
+   "capsule": "Japan's New Year on January 1; in Minnesota, marked in homes and at the Japan America Society's Shinnenkai party.",
+   "dateRule": "January 1 on the Gregorian calendar, with observances over the first days of January. Minnesota community parties (Shinnenkai) are set by organizers each year.",
    "dates": [
     {
      "year": 2026,
@@ -10423,16 +11616,733 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Japanese new year.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "The start of the new year, Japan's most important family holiday.",
+   "howCelebratedInMinnesota": "The Japan America Society of Minnesota describes an annual Shinnenkai (New Year celebration) with cultural performances, Japanese food and a raffle; no 2026 or 2027 date was found. The Twin Cities JACL's chapter history recalls a mochi (rice cake) fundraiser that sold more than 1,000 pounds.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Programs, Japan America Society of Minnesota",
+     "url": "https://mn-japan.org/Programs",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Twin Cities Chapter History, Twin Cities JACL",
+     "url": "https://www.tcjacl.org/home/twin-cities-chapter-history/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "japanese--day-of-remembrance-executive-order-9066",
    "observanceKey": "day-of-remembrance-executive-order-9066",
    "name": "Day of Remembrance (Executive Order 9066)",
+   "alsoKnownAs": [
+    "Day of Remembrance"
+   ],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "remembrance",
+   "capsule": "February 19 marks the 1942 order that led to Japanese Americans' forced removal; the Twin Cities JACL holds an annual program.",
+   "dateRule": "February 19 each year, the date Executive Order 9066 was signed in 1942. Minnesota programs may fall on or near that date.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-19",
+     "endDate": null,
+     "source": "MNopedia states the order was issued February 19, 1942; Twin Cities JACL held its program Feb. 19, 2026",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/person/tanbara-ruth-nomura-1907-2008",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-19",
+     "endDate": null,
+     "source": "Fixed date stated by MNopedia",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/person/tanbara-ruth-nomura-1907-2008",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-19",
+     "endDate": null,
+     "source": "Fixed date stated by MNopedia",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/person/tanbara-ruth-nomura-1907-2008",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The signing of Executive Order 9066 on February 19, 1942, which led to the forced removal and incarceration of about 120,000 people of Japanese ancestry.",
+   "howCelebratedInMinnesota": "The Twin Cities JACL hosts a yearly program with film and discussion. In 2026, about 100 people attended a Feb. 19 screening of One Fighting Irishman with a panel; in 2025 it was held Feb. 16 at the Minnesota History Center with MNHS.",
+   "minnesotaEvents": [
+    {
+     "name": "Twin Cities JACL Day of Remembrance: screening of One Fighting Irishman",
+     "place": "Twin Cities (venue not stated in opened sources)",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "organizerDates": "Thursday, Feb. 19, 2026 (held; about 100 attended)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Twin Cities JACL Day of Remembrance: KINTSUKUROI screening",
+     "place": "Minnesota History Center, St. Paul",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "organizerDates": "Feb. 16, 2025 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Tanbara, Ruth Nomura, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/person/tanbara-ruth-nomura-1907-2008",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, April 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "JACL Weekly Digest, Feb. 17, 2026",
+     "url": "https://jacl.org/weekly-digest/february-17-2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--obon",
+   "observanceKey": "obon",
+   "name": "Obon",
+   "alsoKnownAs": [
+    "Bon",
+    "Urabon"
+   ],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "religious",
+   "capsule": "Buddhist season for welcoming and honoring ancestors, with dances and lanterns; celebrated in Minnesota at temple services and a large Como Park festival.",
+   "dateRule": "Mid-July or mid-August depending on region and temple in Japan. Minnesota dates are set by each organizer; see the separate Como Park Obon Festival entry.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Remembrance of ancestors, whose spirits are said to return home for a few days and are guided back with lanterns.",
+   "howCelebratedInMinnesota": "The Twin Cities Buddhist Sangha (Jodo Shinshu) holds its own Obon; the JACL newsletter listed it for July 29, 2026, a date not confirmed by the sangha. The public Como Park Japanese Obon Festival is in August (separate entry).",
+   "minnesotaEvents": [
+    {
+     "name": "Twin Cities Buddhist Church Obon Festival (as listed)",
+     "place": "Not stated",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "organizerDates": "Listed as July 29, 2026, in the Twin Cities JACL calendar; not confirmed by the sangha",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Obon Festival, Como Park Zoo and Conservatory",
+     "url": "https://comozooconservatory.org/obon2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Twin Cities Buddhist Sangha 80th anniversary, Buddhist Churches of America",
+     "url": "https://www.buddhistchurchesofamerica.org/post/twin-cities-buddhist-sangha-celebrates-its-80th-anniversary",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--como-park-japanese-obon-festival",
+   "observanceKey": "como-park-japanese-obon-festival",
+   "name": "Como Park Japanese Obon Festival",
+   "alsoKnownAs": [
+    "Obon Festival at Como Park",
+    "Japanese Lantern Lighting"
+   ],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "community festival",
+   "capsule": "Minnesota's largest Japan-related festival: taiko, dance, food and floating lanterns at Como Park in St. Paul each August.",
+   "dateRule": "One Sunday in mid-August, announced by Como Park Zoo and Conservatory with its partners.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-16",
+     "endDate": null,
+     "source": "Como Park Zoo and Conservatory",
+     "sourceUrl": "https://comozooconservatory.org/obon2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-15",
+     "endDate": null,
+     "source": "Como Park Zoo and Conservatory (announced)",
+     "sourceUrl": "https://comozooconservatory.org/obon2026/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Japan's Obon season of honoring ancestors, adapted as a public cultural festival.",
+   "howCelebratedInMinnesota": "On the Marjorie McNeely Conservatory grounds, 3 to 9 p.m., with taiko, koto, shakuhachi, dance, martial arts, food and vendors, a Bon Odori dance, and lantern lighting at about 8 p.m. in the Japanese Garden and Frog Pond. Produced by Como, the Japan America Society of Minnesota and the Saint Paul-Nagasaki Sister City Committee. Advance tickets only in 2026 ($8 adults). The Twin Cities JACL counted 8,530 attendees in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Como Park Japanese Obon Festival 2026",
+     "place": "Marjorie McNeely Conservatory grounds, 1225 Estabrook Dr., St. Paul",
+     "link": "https://comozooconservatory.org/obon2026/",
+     "organizerDates": "Sunday, Aug. 16, 2026, 3-9 p.m. (held)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Como Park Japanese Obon Festival 2027",
+     "place": "Como Park, St. Paul",
+     "link": "https://comozooconservatory.org/obon2026/",
+     "organizerDates": "Sunday, Aug. 15, 2027, 3-9 p.m. (announced)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Obon Festival, Como Park Zoo and Conservatory",
+     "url": "https://comozooconservatory.org/obon2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Programs, Japan America Society of Minnesota",
+     "url": "https://mn-japan.org/Programs",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, October 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--hiroshima-and-nagasaki-commemoration",
+   "observanceKey": "hiroshima-and-nagasaki-commemoration",
+   "name": "Hiroshima and Nagasaki Commemoration",
+   "alsoKnownAs": [
+    "Ceremony of the Cranes"
+   ],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "remembrance",
+   "capsule": "August 6 and 9 mark the 1945 atomic bombings; St. Paul's sister city committee with Nagasaki holds commemoration events.",
+   "dateRule": "August 6 (Hiroshima) and August 9 (Nagasaki). Minnesota events are set by the Saint Paul-Nagasaki Sister City Committee.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-06",
+     "endDate": null,
+     "source": "Saint Paul-Nagasaki Sister City Committee lists 'Ceremony of the Cranes: Hiroshima Commemoration' on the 6th; month not printed clearly",
+     "sourceUrl": "https://www.stpaulnagasaki.org/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-06",
+     "endDate": null,
+     "source": "Fixed anniversary; no opened page states it",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-06",
+     "endDate": null,
+     "source": "Fixed anniversary; no opened page states it",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The atomic bombings of Hiroshima (Aug. 6, 1945) and Nagasaki (Aug. 9, 1945).",
+   "howCelebratedInMinnesota": "The Saint Paul-Nagasaki Sister City Committee lists Hiroshima and Nagasaki commemoration events each year, including a 'Ceremony of the Cranes.' Place and time were not found.",
+   "minnesotaEvents": [
+    {
+     "name": "Ceremony of the Cranes: Hiroshima Commemoration",
+     "place": "Not stated",
+     "link": "https://www.stpaulnagasaki.org/",
+     "organizerDates": "Listed on the 6th among 2026 commemoration events",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Saint Paul-Nagasaki Sister City Committee",
+     "url": "https://www.stpaulnagasaki.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--cherry-tree-celebration-at-como-park",
+   "observanceKey": "cherry-tree-celebration-at-como-park",
+   "name": "Cherry Tree Celebration at Como Park",
+   "alsoKnownAs": [
+    "Cherry Tree Festival"
+   ],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "community festival",
+   "capsule": "Spring gathering at Como Park's cherry grove hosted by the Saint Paul-Nagasaki Sister City Committee.",
+   "dateRule": "A spring Saturday announced by the Saint Paul-Nagasaki Sister City Committee.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-02",
+     "endDate": null,
+     "source": "Saint Paul-Nagasaki Sister City Committee; Twin Cities JACL",
+     "sourceUrl": "https://www.stpaulnagasaki.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Cherry blossoms and the St. Paul-Nagasaki friendship.",
+   "howCelebratedInMinnesota": "At the grove of cherry trees near the Mannheimer Memorial in Como Park, 9 to 11 a.m. in 2026, with crafts and games.",
+   "minnesotaEvents": [
+    {
+     "name": "Cherry Tree Celebration",
+     "place": "Cherry grove near the Mannheimer Memorial, Como Park, St. Paul",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "organizerDates": "Saturday, May 2, 2026, 9-11 a.m. (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Saint Paul-Nagasaki Sister City Committee",
+     "url": "https://www.stpaulnagasaki.org/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, April 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--minnesota-japanese-american-veterans-graveside-decorating",
+   "observanceKey": "minnesota-japanese-american-veterans-graveside-decorating",
+   "name": "Minnesota Japanese American Veterans Graveside Decorating",
+   "alsoKnownAs": [
+    "Japanese American veterans memorial, Fort Snelling"
+   ],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "remembrance",
+   "capsule": "Before Memorial Day, families decorate the graves of Minnesota's Japanese American veterans at Fort Snelling National Cemetery.",
+   "dateRule": "A Saturday in mid-May before Memorial Day, set by the Twin Cities JACL.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-16",
+     "endDate": null,
+     "source": "Twin Cities JACL",
+     "sourceUrl": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Service of Japanese American veterans, including Military Intelligence Service linguists trained in Minnesota.",
+   "howCelebratedInMinnesota": "Flowers are picked up at Fort Snelling National Cemetery and placed on the graves of 101 Japanese American veterans buried there; 35 more buried elsewhere were also honored in 2026. In 2024 a memorial program drew Gen. Paul Nakasone and his father.",
+   "minnesotaEvents": [
+    {
+     "name": "Minnesota Japanese American Veterans Graveside Decorating",
+     "place": "Fort Snelling National Cemetery, 7601 34th Ave. S., Minneapolis",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "organizerDates": "Saturday, May 16, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "The Rice Paper, July 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesotans honor the state's Japanese American veterans, MPR News",
+     "url": "https://www.mprnews.org/story/2024/05/16/minnesotans-honor-the-states-japanese-american-veterans",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--asian-american-native-hawaiian-and-pacific-islander-heritage-month",
+   "observanceKey": "asian-american-native-hawaiian-and-pacific-islander-heritage-month",
+   "name": "Asian American, Native Hawaiian and Pacific Islander Heritage Month",
+   "alsoKnownAs": [
+    "AANHPI Heritage Month",
+    "AAPI Heritage Month"
+   ],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "heritage",
+   "capsule": "May heritage month, which Minnesota's governor notes commemorates the first recorded Japanese immigrant's arrival on May 7, 1843.",
+   "dateRule": "The month of May.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-01",
+     "endDate": "2026-05-31",
+     "source": "Governor's proclamation states May is AANHPI Heritage Month",
+     "sourceUrl": "https://mn.gov/governor/assets/05.01.25%20AANHPI%20Month_tcm1055-682510.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-01",
+     "endDate": "2027-05-31",
+     "source": "Fixed month stated in governor's proclamation",
+     "sourceUrl": "https://mn.gov/governor/assets/05.01.25%20AANHPI%20Month_tcm1055-682510.pdf",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-01",
+     "endDate": "2028-05-31",
+     "source": "Fixed month stated in governor's proclamation",
+     "sourceUrl": "https://mn.gov/governor/assets/05.01.25%20AANHPI%20Month_tcm1055-682510.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Asian American and Pacific Islander heritage; the May date honors the first recorded Japanese immigrant (May 7, 1843).",
+   "howCelebratedInMinnesota": "In 2026 the Twin Cities JACL co-sponsored the 4th annual Edina AAPI Festival (May 16, Rosland Park) and spoke at schools and St. Olaf College, where a May 2026 panel on Japanese Americans in Minnesota was held.",
+   "minnesotaEvents": [
+    {
+     "name": "Edina AAPI Festival",
+     "place": "Rosland Park, Edina",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "organizerDates": "Saturday, May 16, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Enmity and Empathy panel, Celebrate Asia Pasifika 2026",
+     "place": "St. Olaf College, Northfield",
+     "link": "https://pages.stolaf.edu/cap2026/list-of-events/enmity-and-empathy-japanese-americans-in-minnesota-during-wwii/",
+     "organizerDates": "May 2026 (date in Rice Paper April 2026: May 8)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "AANHPI Heritage Month proclamation, 2025",
+     "url": "https://mn.gov/governor/assets/05.01.25%20AANHPI%20Month_tcm1055-682510.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, July 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, April 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--twin-cities-jacl-chrysanthemum-banquet",
+   "observanceKey": "twin-cities-jacl-chrysanthemum-banquet",
+   "name": "Twin Cities JACL Chrysanthemum Banquet",
+   "alsoKnownAs": [
+    "Chrysanthemum Banquet"
+   ],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "community festival",
+   "capsule": "The Twin Cities JACL's fall banquet; in 2026 it celebrated the chapter's 80th year with guest Tamlyn Tomita.",
+   "dateRule": "Fall (October or November), set by the Twin Cities JACL.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-24",
+     "endDate": null,
+     "source": "Twin Cities JACL, Rice Paper Oct. 2026",
+     "sourceUrl": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Community fellowship and, in 2026, the chapter's 80th anniversary (organized Sept. 20, 1946).",
+   "howCelebratedInMinnesota": "A banquet with a guest speaker; 2026 featured Tamlyn Tomita speaking about her career. Venue not stated in opened sources.",
+   "minnesotaEvents": [
+    {
+     "name": "Chrysanthemum Banquet (80th anniversary)",
+     "place": "Not stated",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "organizerDates": "Oct. 24, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "The Rice Paper, October 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--mondale-award-and-scholarship-gala",
+   "observanceKey": "mondale-award-and-scholarship-gala",
+   "name": "Mondale Award and Scholarship Gala",
+   "alsoKnownAs": [
+    "Mondale Gala"
+   ],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "community festival",
+   "capsule": "Japan America Society of Minnesota's annual fall gala honoring Japan-Minnesota ties and awarding student scholarships.",
+   "dateRule": "A Saturday in mid-November, set by the Japan America Society of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-14",
+     "endDate": null,
+     "source": "Japan America Society of Minnesota",
+     "sourceUrl": "https://mn-japan.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The Mondale Award for Japan-Minnesota Partnership, named for former Ambassador Walter Mondale, and Mondale Scholarships.",
+   "howCelebratedInMinnesota": "29th gala on Nov. 14, 2026, at Oak Ridge Country Club, Hopkins; reception 5:30-6:30 p.m., program 6:30-9:30 p.m.; kimono welcome. 2026 award to Ben van Lierop; keynote by Dr. Karen Tanaka Lucas on the Military Intelligence Service.",
+   "minnesotaEvents": [
+    {
+     "name": "29th Mondale Award and Scholarship Gala",
+     "place": "Oak Ridge Country Club, 700 Oak Ridge Rd., Hopkins",
+     "link": "https://mn-japan.org/",
+     "organizerDates": "Saturday, Nov. 14, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Japan America Society of Minnesota home page",
+     "url": "https://mn-japan.org/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, October 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--normandale-japanese-garden-50th-anniversary-celebration",
+   "observanceKey": "normandale-japanese-garden-50th-anniversary-celebration",
+   "name": "Normandale Japanese Garden 50th Anniversary Celebration",
    "alsoKnownAs": [],
    "communities": [
     "japanese"
@@ -10444,49 +12354,63 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
     }
    ],
-   "profileLink": null,
-   "kind": "remembrance",
-   "capsule": "The February 19, 1942 order that led to the incarceration of Japanese Americans.",
-   "dateRule": "February 19.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "community festival",
+   "capsule": "Free 2026 festival marking 50 years of the Bloomington garden partly funded by Japanese American MIS veterans.",
+   "dateRule": "One-time event in 2026.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-02-19",
+     "date": "2026-09-19",
      "endDate": null,
-     "source": "U.S. National Archives, Executive Order 9066 milestone document",
-     "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+     "source": "City of Bloomington",
+     "sourceUrl": "https://www.bloomingtonmn.gov/node/19423",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-02-19",
+     "date": null,
      "endDate": null,
-     "source": "U.S. National Archives, Executive Order 9066 milestone document",
-     "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
-     "verified": true
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-02-19",
+     "date": null,
      "endDate": null,
-     "source": "U.S. National Archives, Executive Order 9066 milestone document",
-     "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
-     "verified": true
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The February 19, 1942 order that led to the incarceration of Japanese Americans.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The garden's 1976 dedication.",
+   "howCelebratedInMinnesota": "Noon to 4 p.m. at Normandale Community College with taiko, Japanese dance, tea ceremony, origami, calligraphy, garden tours and koi feeding; partners included JASM, JACL, the sister city groups and Ikebana International Chapter 121.",
+   "minnesotaEvents": [
+    {
+     "name": "Normandale Japanese Garden 50th Anniversary Celebration",
+     "place": "Normandale Community College, 9700 France Ave. S., Bloomington",
+     "link": "https://www.bloomingtonmn.gov/node/19423",
+     "organizerDates": "Saturday, Sept. 19, 2026, 12-4 p.m. (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebrate 50 Years of Normandale's Japanese Garden",
+     "url": "https://www.bloomingtonmn.gov/node/19423",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "japanese--obon",
-   "observanceKey": "obon",
-   "name": "Obon",
+   "id": "japanese--ireichō-book-of-names-at-historic-fort-snelling",
+   "observanceKey": "ireichō-book-of-names-at-historic-fort-snelling",
+   "name": "Ireichō (Book of Names) at Historic Fort Snelling",
    "alsoKnownAs": [
-    "Bon"
+    "Ireicho"
    ],
    "communities": [
     "japanese"
@@ -10498,24 +12422,24 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
     }
    ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Remembrance of ancestors.",
-   "dateRule": "Mid-July or mid-August depending on the region and temple; local dates are announced by the organizers.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "remembrance",
+   "capsule": "In October 2026 the traveling book naming over 125,000 incarcerated Japanese Americans visited Fort Snelling for name-stamping.",
+   "dateRule": "One-time Minnesota stop of a national tour.",
    "dates": [
     {
      "year": 2026,
-     "date": null,
-     "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
-     "sourceUrl": null,
-     "verified": false
+     "date": "2026-10-09",
+     "endDate": "2026-10-11",
+     "source": "Pioneer Press; Twin Cities JACL",
+     "sourceUrl": "https://www.twincities.com/2026/10/09/it-ruined-so-many-peoples-lives-book-recognizes-people-of-japanese-descent-incarcerated-during-wwii/",
+     "verified": true
     },
     {
      "year": 2027,
      "date": null,
      "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
+     "source": "One-time event",
      "sourceUrl": null,
      "verified": false
     },
@@ -10523,17 +12447,107 @@
      "year": 2028,
      "date": null,
      "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
+     "source": "One-time event",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "announced each year",
-   "whatItMarks": "Remembrance of ancestors.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "Each person incarcerated in World War II, honored by name.",
+   "howCelebratedInMinnesota": "Three-day stop at the Plank Museum and Visitor Center, a restored barracks of the language school, with MNHS and the Twin Cities JACL; visitors stamped names, and Densho scanned family materials and recorded interviews.",
+   "minnesotaEvents": [
+    {
+     "name": "Ireichō at Historic Fort Snelling",
+     "place": "Plank Museum and Visitor Center, Historic Fort Snelling",
+     "link": "https://www.twincities.com/2026/10/09/it-ruined-so-many-peoples-lives-book-recognizes-people-of-japanese-descent-incarcerated-during-wwii/",
+     "organizerDates": "Oct. 9-11, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Pioneer Press, Oct. 9, 2026",
+     "url": "https://www.twincities.com/2026/10/09/it-ruined-so-many-peoples-lives-book-recognizes-people-of-japanese-descent-incarcerated-during-wwii/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, October 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "japanese--twin-cities-buddhist-sangha-80th-anniversary",
+   "observanceKey": "twin-cities-buddhist-sangha-80th-anniversary",
+   "name": "Twin Cities Buddhist Sangha 80th Anniversary",
+   "alsoKnownAs": [],
+   "communities": [
+    "japanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "japanese",
+     "title": "Japanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/japanese/profile.md",
+   "kind": "religious",
+   "capsule": "In May 2026 Minnesota's Jodo Shinshu sangha, founded by resettled families in 1946, marked 80 years with its bishop.",
+   "dateRule": "One-time anniversary service.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-03",
+     "endDate": null,
+     "source": "Buddhist Churches of America; Twin Cities JACL",
+     "sourceUrl": "https://www.buddhistchurchesofamerica.org/post/twin-cities-buddhist-sangha-celebrates-its-80th-anniversary",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The 1946 founding of the Twin Cities Buddhist Sangha.",
+   "howCelebratedInMinnesota": "Service and celebration on May 3, 2026 (the JACL newsletter gave the place as Pinstripes in Edina), with BCA Bishop Rev. Marvin Harada and nearly 70 members and friends.",
+   "minnesotaEvents": [
+    {
+     "name": "80th anniversary service",
+     "place": "Pinstripes, Edina (per Twin Cities JACL)",
+     "link": "https://www.buddhistchurchesofamerica.org/post/twin-cities-buddhist-sangha-celebrates-its-80th-anniversary",
+     "organizerDates": "May 3, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Twin Cities Buddhist Sangha Celebrates Its 80th Anniversary",
+     "url": "https://www.buddhistchurchesofamerica.org/post/twin-cities-buddhist-sangha-celebrates-its-80th-anniversary",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "karen--karen-new-year",
@@ -13151,7 +15165,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lao/profile.md",
    "kind": "cultural",
    "capsule": "Traditional Lao new year.",
    "dateRule": "Mid-April, usually April 14 to 16 as set by the Lao government.",
@@ -13206,7 +15220,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lao/profile.md",
    "kind": "religious",
    "capsule": "Birth, enlightenment and death of the Buddha in Theravada tradition.",
    "dateRule": "Full moon of the sixth lunar month in the Thai and Cambodian calendars, usually in May; temples may choose a nearby weekend.",
@@ -13258,7 +15272,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lao/profile.md",
    "kind": "national",
    "capsule": "Founding of the Lao PDR in 1975.",
    "dateRule": "December 2.",
@@ -13312,7 +15326,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lao/profile.md",
    "kind": "religious",
    "capsule": "A Theravada Buddhist holy day.",
    "dateRule": "Full moon of the third lunar month, usually February or March.",
@@ -13366,7 +15380,7 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lao/profile.md",
    "kind": "religious",
    "capsule": "The Buddha's first sermon, and the start of the three-month rains retreat.",
    "dateRule": "Full moon of the eighth lunar month, usually July; the rains retreat starts the next day.",

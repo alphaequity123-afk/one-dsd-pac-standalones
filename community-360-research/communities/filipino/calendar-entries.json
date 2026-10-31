@@ -1,0 +1,891 @@
+{
+ "community": "filipino",
+ "entries": [
+  {
+   "seedId": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "Pasko ng Pagkabuhay"
+   ],
+   "kind": "religious",
+   "capsule": "The Christian feast of the Resurrection, at the close of Holy Week; many Filipino families are Catholic.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Western calendar).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "USCCB 2026 Liturgical Calendar",
+     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
+     "endDate": null,
+     "source": "USCCB 2027 Liturgical Calendar",
+     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "USCCB 2028 Liturgical Calendar",
+     "sourceUrl": "https://www.usccb.org/resources/2028cal.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The resurrection of Jesus in Western Christian tradition.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "USCCB 2026 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2026cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2027 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2027cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2028 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2028cal.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "good-friday",
+   "name": "Good Friday",
+   "alsoKnownAs": [
+    "Biyernes Santo"
+   ],
+   "kind": "religious",
+   "capsule": "Holy Week's solemn Friday marking the crucifixion; a regular holiday in the Philippines.",
+   "dateRule": "The Friday before Western Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-03",
+     "endDate": null,
+     "source": "Proclamation No. 1006 (Philippines), Good Friday 3 April 2026",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-26",
+     "endDate": null,
+     "source": "Calculated: Friday before Western Easter (Easter March 28, 2027 per USCCB)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-14",
+     "endDate": null,
+     "source": "Calculated: Friday before Western Easter (Easter April 16, 2028 per USCCB)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The crucifixion of Jesus. In the Philippines, Maundy Thursday and Good Friday are both regular holidays.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2027 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2027cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2028 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2028cal.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "ash-wednesday",
+   "name": "Ash Wednesday",
+   "alsoKnownAs": [
+    "Miyerkules ng Abo"
+   ],
+   "kind": "religious",
+   "capsule": "Start of Lent in the Catholic calendar, 46 days before Easter.",
+   "dateRule": "46 days before Western Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "USCCB 2026 Liturgical Calendar",
+     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-10",
+     "endDate": null,
+     "source": "USCCB 2027 Liturgical Calendar",
+     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-01",
+     "endDate": null,
+     "source": "USCCB 2028 Liturgical Calendar",
+     "sourceUrl": "https://www.usccb.org/resources/2028cal.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The beginning of Lent, a season of fasting and penance before Easter.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "USCCB 2026 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2026cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2027 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2027cal.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "USCCB 2028 Liturgical Calendar",
+     "url": "https://www.usccb.org/resources/2028cal.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "philippine-independence-day",
+   "name": "Philippine Independence Day",
+   "alsoKnownAs": [
+    "Araw ng Kalayaan"
+   ],
+   "kind": "national",
+   "capsule": "The Philippines' national day, June 12, marking the 1898 declaration of independence from Spain.",
+   "dateRule": "June 12 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-12",
+     "endDate": null,
+     "source": "Proclamation No. 1006 (Philippines): Independence Day 12 June",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-12",
+     "endDate": null,
+     "source": "Fixed date (June 12)",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-12",
+     "endDate": null,
+     "source": "Fixed date (June 12)",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The declaration of Philippine independence from Spain in 1898; a regular holiday in the Philippines.",
+   "howCelebratedInMinnesota": "No 2026 Minnesota observance was found. The Philippine Consulate General in Chicago, which serves Minnesota, invited the state in November 2025 to join 2026 events for the 80th anniversary of Philippines-U.S. diplomatic relations.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "PH Consulate General in Chicago strengthens engagement with Minnesota Secretary of State",
+     "url": "https://chicagopcg.com/pressrelease-details-7125.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "christmas",
+   "name": "Christmas",
+   "alsoKnownAs": [
+    "Pasko"
+   ],
+   "kind": "religious",
+   "capsule": "Dec. 25, the heart of a long Filipino Christmas season of Masses, caroling, children's programs and food.",
+   "dateRule": "December 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Proclamation No. 1006 (Philippines): Christmas Day 25 December",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birth of Jesus. In the Philippines, Dec. 24 and Dec. 31 were also declared non-working days for 2026.",
+   "howCelebratedInMinnesota": "Through a season of community events: Simbang Gabi Masses before Christmas (Filipino Catholic Community of Minnesota), the Fil-Minnesotan Association's Paskong Pilipino for children (since 1976), and the Cultural Society of Filipino Americans' Pasko sa Nayon (since 1978) and carolers, who sing at Masses and parties to raise money for causes. See separate entries.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cultural Society of Filipino Americans of Minnesota (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Fil-Minnesotan Association (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/fil-minnesotan-association",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Filipino Catholics prepare for Christmas with nine-day Mass devotion (The Catholic Spirit, Dec. 4, 2019)",
+     "url": "https://www.thecatholicspirit.com/news/local-news/filipino-catholics-prepare-for-christmas-with-nine-day-mass-devotion/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "edsa-people-power-anniversary",
+   "name": "EDSA People Power anniversary",
+   "alsoKnownAs": [
+    "EDSA People Power Revolution Anniversary"
+   ],
+   "kind": "remembrance",
+   "capsule": "Feb. 25 remembers the 1986 People Power uprising that ended the Marcos dictatorship.",
+   "dateRule": "February 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-25",
+     "endDate": null,
+     "source": "Proclamation No. 1006 (Philippines): 40th anniversary, special working day",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-25",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The 1986 EDSA People Power Revolution. The 40th anniversary in 2026 was declared a special working day in the Philippines, not a day off.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Buhay Na Buhay (Walker Art Center), partner list including the Philippine Study Group of Minnesota",
+     "url": "https://www.walkerart.org/whats-on/buhay-na-buhay-an-evening-curated-by-the-mn-filipinx-community/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Simbang Gabi",
+   "alsoKnownAs": [
+    "Misa de Gallo",
+    "Christmas novena Masses"
+   ],
+   "kind": "religious",
+   "capsule": "Nine Masses before Christmas; in the Twin Cities, held in the evening at a different parish each night.",
+   "dateRule": "Nine days before Christmas, traditionally Dec. 16 to 24. Minnesota organizers set their own schedule each year; in 2019 the Twin Cities series ran Dec. 12 to 20 with a closing dawn Misa de Gallo on the Saturday before Christmas.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-16",
+     "endDate": "2026-12-24",
+     "source": "Traditional span per OSV News in The Catholic Spirit; no 2026 Minnesota schedule found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A novena of Masses honoring Mary in preparation for Christmas, brought from the Philippines.",
+   "howCelebratedInMinnesota": "The Filipino Catholic Community of Minnesota (formed 1995) rotated the Masses among nine metro parishes in 2019, mostly in English, with food after most Masses and 50 to 150 people a night; the Cultural Society of Filipino Americans caroled before the closing Mass. The Co-Cathedral of St. John the Evangelist in Rochester held a Simbang Gabi Mass with a children's program on Dec. 16, 2022.",
+   "minnesotaEvents": [
+    {
+     "name": "Simbang Gabi, Filipino Catholic Community of Minnesota",
+     "place": "Nine Twin Cities parishes, ending at Guardian Angels, Oakdale",
+     "link": "https://www.thecatholicspirit.com/news/local-news/filipino-catholics-prepare-for-christmas-with-nine-day-mass-devotion/",
+     "organizerDates": "Dec. 12-21, 2019 (7 p.m. evening Masses; Misa de Gallo 6 a.m. Dec. 21, 2019)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Simbang Gabi Mass with Bishop Barron",
+     "place": "Co-Cathedral of St. John the Evangelist, Rochester",
+     "link": "https://www.sj.org/updates-list/simbang-gabi-mass",
+     "organizerDates": "Friday, Dec. 16, 2022, children's program 6:45 p.m., Mass 7 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": "Dodge Flores of the Filipino Catholic Community of Minnesota said in 2019 that the Twin Cities Masses are held in the evening, when people are more likely able to attend (The Catholic Spirit).",
+   "sources": [
+    {
+     "title": "Filipino Catholics prepare for Christmas with nine-day Mass devotion (The Catholic Spirit, Dec. 4, 2019)",
+     "url": "https://www.thecatholicspirit.com/news/local-news/filipino-catholics-prepare-for-christmas-with-nine-day-mass-devotion/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Filipino Simbang Gabi Masses more and more rooted in the US",
+     "url": "https://www.thecatholicspirit.com/news/filipino-simbang-gabi-masses-more-and-more-rooted-in-the-us/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Simbang Gabi Mass, Co-Cathedral of St. John the Evangelist",
+     "url": "https://www.sj.org/updates-list/simbang-gabi-mass",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Pasko sa Nayon",
+   "alsoKnownAs": [
+    "CSFA Christmas celebration"
+   ],
+   "kind": "community festival",
+   "capsule": "The Cultural Society of Filipino Americans' Christmas gathering, held since 1978, with performances, games, a bazaar and Santa.",
+   "dateRule": "Set each year by the Cultural Society of Filipino Americans of Minnesota, in the Christmas season.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Filipino Christmas traditions, shared with children and families.",
+   "howCelebratedInMinnesota": "Per MNopedia and GiveMN: performances, a skit, games and prizes, a bazaar of goods and food, lunch for all and a visit from Santa Claus.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cultural Society of Filipino Americans of Minnesota (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cultural Society of Filipino-Americans (GiveMN)",
+     "url": "https://www.givemn.org/organization/Csfamn",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Paskong Pilipino",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "The Fil-Minnesotan Association's Christmas program for Filipino American children, begun in 1976.",
+   "dateRule": "Set each year by the Fil-Minnesotan Association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Christmas, as a children's celebration of Filipino traditions.",
+   "howCelebratedInMinnesota": "Started in 1976 by FMA member Abe Malicsi; MNopedia shows a nativity scene at the 1980 event at Westwood Junior High in St. Louis Park. No current date found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Fil-Minnesotan Association (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/fil-minnesotan-association",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Feast of the Santo Niño (Sinulog)",
+   "alsoKnownAs": [
+    "Santo Niño",
+    "Sinulog"
+   ],
+   "kind": "religious",
+   "capsule": "Visayan feast of the child Jesus on the third Sunday of January, with Mass and Sinulog dancing.",
+   "dateRule": "Third Sunday in January.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-18",
+     "endDate": null,
+     "source": "Calculated from the third-Sunday rule stated in The Catholic Spirit",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-17",
+     "endDate": null,
+     "source": "Calculated from the third-Sunday rule",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-16",
+     "endDate": null,
+     "source": "Calculated from the third-Sunday rule",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Devotion to the Santo Niño, the child Jesus, patron honored in the Visayas.",
+   "howCelebratedInMinnesota": "In January 2011, the 10th annual Sinulog Festival Mass at Guardian Angels in Oakdale drew about 400 people, with Sinulog dancers and a dinner program. No later Minnesota event was found.",
+   "minnesotaEvents": [
+    {
+     "name": "10th annual Sinulog Festival Mass",
+     "place": "Guardian Angels, Oakdale",
+     "link": "https://www.thecatholicspirit.com/news/local-news/filipinos-gather-to-celebrate-feast-of-santo-nino/",
+     "organizerDates": "Jan. 16, 2011",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Filipinos gather to celebrate feast of Santo Niño (The Catholic Spirit)",
+     "url": "https://www.thecatholicspirit.com/news/local-news/filipinos-gather-to-celebrate-feast-of-santo-nino/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Philippine Day (Minnesota)",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "The Cultural Society of Filipino Americans' big public day of dance, music, fashion, martial arts and food vendors.",
+   "dateRule": "Set each year by the Cultural Society of Filipino Americans of Minnesota. The 2002 event was March 24.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Filipino heritage, shared with the wider public; described as the largest annual Filipino gathering in Minnesota.",
+   "howCelebratedInMinnesota": "At Aldrich Arena in Maplewood, with dozens of vendors and presenters, on-stage singing, dancing, fashion and martial arts, plus food, shipping and clothing vendors. MNopedia dates the first Philippine Day to 1988; Gov. Ventura's 2002 proclamation says the society had sponsored it since 1987.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cultural Society of Filipino Americans of Minnesota (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Governor Jesse Ventura proclamation, Philippine Day 2002",
+     "url": "https://officialdocuments.sos.mn.gov/Files/GetDocument/38735",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Filipino American History Month",
+   "alsoKnownAs": [
+    "FAHM"
+   ],
+   "kind": "heritage",
+   "capsule": "October, a month to learn and share Filipino American history.",
+   "dateRule": "The month of October.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-01",
+     "endDate": "2026-10-31",
+     "source": "Power 104.7 FM: 'October is Filipino history month'",
+     "sourceUrl": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-01",
+     "endDate": "2027-10-31",
+     "source": "Fixed month",
+     "sourceUrl": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-01",
+     "endDate": "2028-10-31",
+     "source": "Fixed month",
+     "sourceUrl": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The history and contributions of Filipino Americans.",
+   "howCelebratedInMinnesota": "Indigenous Roots in St. Paul hosted 'Basa, Kanta at Sayaw' (read, sing and dance) in October 2022, with readings in Tagalog and English and singing by lolas; the Filipino Association at Macalester held a panel of Twin Cities Filipino chefs on Oct. 19, 2023.",
+   "minnesotaEvents": [
+    {
+     "name": "Basa, Kanta at Sayaw",
+     "place": "Indigenous Roots Cultural Arts Center, St. Paul",
+     "link": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "organizerDates": "October 2022 (exact date not stated)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Panlasa Panel: Flavors of Home",
+     "place": "Macalester College, St. Paul",
+     "link": "https://themacweekly.com/2023/11/flavors-of-home-a-celebration-of-filipino-food-in-the-twin-cities/",
+     "organizerDates": "Oct. 19, 2023",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Filipino Minnesotans celebrate rich and vibrant culture (Power 104.7 FM)",
+     "url": "https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Flavors of home (The Mac Weekly)",
+     "url": "https://themacweekly.com/2023/11/flavors-of-home-a-celebration-of-filipino-food-in-the-twin-cities/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Rizal Day",
+   "alsoKnownAs": [
+    "Araw ni Rizal"
+   ],
+   "kind": "national",
+   "capsule": "Dec. 30 honors José Rizal, the Philippines' national hero; a regular holiday there.",
+   "dateRule": "December 30.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-30",
+     "endDate": null,
+     "source": "Proclamation No. 1006 (Philippines): Rizal Day 30 December",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-30",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-30",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The national hero José Rizal (regular holiday in the Philippines).",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "All Saints' and All Souls' Days",
+   "alsoKnownAs": [
+    "Undas",
+    "Araw ng mga Patay"
+   ],
+   "kind": "religious",
+   "capsule": "Nov. 1 and 2, days for remembering the dead; both were non-working days in the Philippines in 2026.",
+   "dateRule": "November 1 and 2.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-01",
+     "endDate": "2026-11-02",
+     "source": "Proclamation No. 1006 (Philippines): All Saints' Day 1 Nov.; 2 Nov. added as non-working day",
+     "sourceUrl": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-01",
+     "endDate": "2027-11-02",
+     "source": "Fixed dates",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-01",
+     "endDate": "2028-11-02",
+     "source": "Fixed dates",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Remembrance of saints and of family members who have died. The 2026 proclamation added Nov. 2 to give more time for these family activities.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Proclamation No. 1006, s. 2025 (2026 Philippine holidays)",
+     "url": "https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Pamana",
+   "alsoKnownAs": [
+    "CSFA Pamana dance showcase"
+   ],
+   "kind": "community festival",
+   "capsule": "The Cultural Society's premier Filipino dance showcase, staged once every four years.",
+   "dateRule": "Once every four years, set by the Cultural Society of Filipino Americans of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The regional dance traditions of the Philippines, in four suites: Cordillera, Sarimanok, Abanico and Sa Nayon.",
+   "howCelebratedInMinnesota": "First performed in 1981; moved to the Ames Center in Burnsville in 2009; MNopedia shows a performance on Sept. 10, 2016. No upcoming date found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cultural Society of Filipino Americans of Minnesota (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Pista sa Nayon (FilAmMinDak)",
+   "alsoKnownAs": [
+    "Village fiesta"
+   ],
+   "kind": "community festival",
+   "capsule": "A summer fiesta in Fargo-Moorhead drawing Filipino families from Minnesota and the Dakotas.",
+   "dateRule": "An annual summer weekend set by FilAmMinDak.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Filipino village festival traditions: dance, song and food.",
+   "howCelebratedInMinnesota": "An evening program in Fargo and a next-day picnic at Gooseberry Park in Moorhead, with adobo and dinuguan, per an undated InForum report.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "'Pista Sa Nayon' celebration in full swing in Fargo (InForum)",
+     "url": "https://www.inforum.com/newsmd/pista-sa-nayon-celebration-in-full-swing-in-fargo",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}

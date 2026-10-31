@@ -1,0 +1,832 @@
+{
+ "community": "japanese",
+ "entries": [
+  {
+   "seedId": "shōgatsu",
+   "name": "Shōgatsu (Japanese New Year)",
+   "alsoKnownAs": [
+    "Oshōgatsu",
+    "Japanese New Year"
+   ],
+   "kind": "cultural",
+   "capsule": "Japan's New Year on January 1; in Minnesota, marked in homes and at the Japan America Society's Shinnenkai party.",
+   "dateRule": "January 1 on the Gregorian calendar, with observances over the first days of January. Minnesota community parties (Shinnenkai) are set by organizers each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-01",
+     "endDate": null,
+     "source": "Fixed Gregorian date (no opened Minnesota page states it)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-01",
+     "endDate": null,
+     "source": "Fixed Gregorian date (no opened Minnesota page states it)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-01",
+     "endDate": null,
+     "source": "Fixed Gregorian date (no opened Minnesota page states it)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The start of the new year, Japan's most important family holiday.",
+   "howCelebratedInMinnesota": "The Japan America Society of Minnesota describes an annual Shinnenkai (New Year celebration) with cultural performances, Japanese food and a raffle; no 2026 or 2027 date was found. The Twin Cities JACL's chapter history recalls a mochi (rice cake) fundraiser that sold more than 1,000 pounds.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Programs, Japan America Society of Minnesota",
+     "url": "https://mn-japan.org/Programs",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Twin Cities Chapter History, Twin Cities JACL",
+     "url": "https://www.tcjacl.org/home/twin-cities-chapter-history/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "day-of-remembrance-executive-order-9066",
+   "name": "Day of Remembrance (Executive Order 9066)",
+   "alsoKnownAs": [
+    "Day of Remembrance"
+   ],
+   "kind": "remembrance",
+   "capsule": "February 19 marks the 1942 order that led to Japanese Americans' forced removal; the Twin Cities JACL holds an annual program.",
+   "dateRule": "February 19 each year, the date Executive Order 9066 was signed in 1942. Minnesota programs may fall on or near that date.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-19",
+     "endDate": null,
+     "source": "MNopedia states the order was issued February 19, 1942; Twin Cities JACL held its program Feb. 19, 2026",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/person/tanbara-ruth-nomura-1907-2008",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-19",
+     "endDate": null,
+     "source": "Fixed date stated by MNopedia",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/person/tanbara-ruth-nomura-1907-2008",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-19",
+     "endDate": null,
+     "source": "Fixed date stated by MNopedia",
+     "sourceUrl": "https://www.mnhs.org/mnopedia/search/index/person/tanbara-ruth-nomura-1907-2008",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The signing of Executive Order 9066 on February 19, 1942, which led to the forced removal and incarceration of about 120,000 people of Japanese ancestry.",
+   "howCelebratedInMinnesota": "The Twin Cities JACL hosts a yearly program with film and discussion. In 2026, about 100 people attended a Feb. 19 screening of One Fighting Irishman with a panel; in 2025 it was held Feb. 16 at the Minnesota History Center with MNHS.",
+   "minnesotaEvents": [
+    {
+     "name": "Twin Cities JACL Day of Remembrance: screening of One Fighting Irishman",
+     "place": "Twin Cities (venue not stated in opened sources)",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "organizerDates": "Thursday, Feb. 19, 2026 (held; about 100 attended)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Twin Cities JACL Day of Remembrance: KINTSUKUROI screening",
+     "place": "Minnesota History Center, St. Paul",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "organizerDates": "Feb. 16, 2025 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Tanbara, Ruth Nomura, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/person/tanbara-ruth-nomura-1907-2008",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, April 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "JACL Weekly Digest, Feb. 17, 2026",
+     "url": "https://jacl.org/weekly-digest/february-17-2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "obon",
+   "name": "Obon",
+   "alsoKnownAs": [
+    "Bon",
+    "Urabon"
+   ],
+   "kind": "religious",
+   "capsule": "Buddhist season for welcoming and honoring ancestors, with dances and lanterns; celebrated in Minnesota at temple services and a large Como Park festival.",
+   "dateRule": "Mid-July or mid-August depending on region and temple in Japan. Minnesota dates are set by each organizer; see the separate Como Park Obon Festival entry.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Remembrance of ancestors, whose spirits are said to return home for a few days and are guided back with lanterns.",
+   "howCelebratedInMinnesota": "The Twin Cities Buddhist Sangha (Jodo Shinshu) holds its own Obon; the JACL newsletter listed it for July 29, 2026, a date not confirmed by the sangha. The public Como Park Japanese Obon Festival is in August (separate entry).",
+   "minnesotaEvents": [
+    {
+     "name": "Twin Cities Buddhist Church Obon Festival (as listed)",
+     "place": "Not stated",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "organizerDates": "Listed as July 29, 2026, in the Twin Cities JACL calendar; not confirmed by the sangha",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Obon Festival, Como Park Zoo and Conservatory",
+     "url": "https://comozooconservatory.org/obon2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Twin Cities Buddhist Sangha 80th anniversary, Buddhist Churches of America",
+     "url": "https://www.buddhistchurchesofamerica.org/post/twin-cities-buddhist-sangha-celebrates-its-80th-anniversary",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Como Park Japanese Obon Festival",
+   "alsoKnownAs": [
+    "Obon Festival at Como Park",
+    "Japanese Lantern Lighting"
+   ],
+   "kind": "community festival",
+   "capsule": "Minnesota's largest Japan-related festival: taiko, dance, food and floating lanterns at Como Park in St. Paul each August.",
+   "dateRule": "One Sunday in mid-August, announced by Como Park Zoo and Conservatory with its partners.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-16",
+     "endDate": null,
+     "source": "Como Park Zoo and Conservatory",
+     "sourceUrl": "https://comozooconservatory.org/obon2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-15",
+     "endDate": null,
+     "source": "Como Park Zoo and Conservatory (announced)",
+     "sourceUrl": "https://comozooconservatory.org/obon2026/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Japan's Obon season of honoring ancestors, adapted as a public cultural festival.",
+   "howCelebratedInMinnesota": "On the Marjorie McNeely Conservatory grounds, 3 to 9 p.m., with taiko, koto, shakuhachi, dance, martial arts, food and vendors, a Bon Odori dance, and lantern lighting at about 8 p.m. in the Japanese Garden and Frog Pond. Produced by Como, the Japan America Society of Minnesota and the Saint Paul-Nagasaki Sister City Committee. Advance tickets only in 2026 ($8 adults). The Twin Cities JACL counted 8,530 attendees in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Como Park Japanese Obon Festival 2026",
+     "place": "Marjorie McNeely Conservatory grounds, 1225 Estabrook Dr., St. Paul",
+     "link": "https://comozooconservatory.org/obon2026/",
+     "organizerDates": "Sunday, Aug. 16, 2026, 3-9 p.m. (held)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Como Park Japanese Obon Festival 2027",
+     "place": "Como Park, St. Paul",
+     "link": "https://comozooconservatory.org/obon2026/",
+     "organizerDates": "Sunday, Aug. 15, 2027, 3-9 p.m. (announced)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Obon Festival, Como Park Zoo and Conservatory",
+     "url": "https://comozooconservatory.org/obon2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Programs, Japan America Society of Minnesota",
+     "url": "https://mn-japan.org/Programs",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, October 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Hiroshima and Nagasaki Commemoration",
+   "alsoKnownAs": [
+    "Ceremony of the Cranes"
+   ],
+   "kind": "remembrance",
+   "capsule": "August 6 and 9 mark the 1945 atomic bombings; St. Paul's sister city committee with Nagasaki holds commemoration events.",
+   "dateRule": "August 6 (Hiroshima) and August 9 (Nagasaki). Minnesota events are set by the Saint Paul-Nagasaki Sister City Committee.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-06",
+     "endDate": null,
+     "source": "Saint Paul-Nagasaki Sister City Committee lists 'Ceremony of the Cranes: Hiroshima Commemoration' on the 6th; month not printed clearly",
+     "sourceUrl": "https://www.stpaulnagasaki.org/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-06",
+     "endDate": null,
+     "source": "Fixed anniversary; no opened page states it",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-06",
+     "endDate": null,
+     "source": "Fixed anniversary; no opened page states it",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The atomic bombings of Hiroshima (Aug. 6, 1945) and Nagasaki (Aug. 9, 1945).",
+   "howCelebratedInMinnesota": "The Saint Paul-Nagasaki Sister City Committee lists Hiroshima and Nagasaki commemoration events each year, including a 'Ceremony of the Cranes.' Place and time were not found.",
+   "minnesotaEvents": [
+    {
+     "name": "Ceremony of the Cranes: Hiroshima Commemoration",
+     "place": "Not stated",
+     "link": "https://www.stpaulnagasaki.org/",
+     "organizerDates": "Listed on the 6th among 2026 commemoration events",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Saint Paul-Nagasaki Sister City Committee",
+     "url": "https://www.stpaulnagasaki.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Cherry Tree Celebration at Como Park",
+   "alsoKnownAs": [
+    "Cherry Tree Festival"
+   ],
+   "kind": "community festival",
+   "capsule": "Spring gathering at Como Park's cherry grove hosted by the Saint Paul-Nagasaki Sister City Committee.",
+   "dateRule": "A spring Saturday announced by the Saint Paul-Nagasaki Sister City Committee.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-02",
+     "endDate": null,
+     "source": "Saint Paul-Nagasaki Sister City Committee; Twin Cities JACL",
+     "sourceUrl": "https://www.stpaulnagasaki.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Cherry blossoms and the St. Paul-Nagasaki friendship.",
+   "howCelebratedInMinnesota": "At the grove of cherry trees near the Mannheimer Memorial in Como Park, 9 to 11 a.m. in 2026, with crafts and games.",
+   "minnesotaEvents": [
+    {
+     "name": "Cherry Tree Celebration",
+     "place": "Cherry grove near the Mannheimer Memorial, Como Park, St. Paul",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "organizerDates": "Saturday, May 2, 2026, 9-11 a.m. (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Saint Paul-Nagasaki Sister City Committee",
+     "url": "https://www.stpaulnagasaki.org/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, April 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Minnesota Japanese American Veterans Graveside Decorating",
+   "alsoKnownAs": [
+    "Japanese American veterans memorial, Fort Snelling"
+   ],
+   "kind": "remembrance",
+   "capsule": "Before Memorial Day, families decorate the graves of Minnesota's Japanese American veterans at Fort Snelling National Cemetery.",
+   "dateRule": "A Saturday in mid-May before Memorial Day, set by the Twin Cities JACL.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-16",
+     "endDate": null,
+     "source": "Twin Cities JACL",
+     "sourceUrl": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Service of Japanese American veterans, including Military Intelligence Service linguists trained in Minnesota.",
+   "howCelebratedInMinnesota": "Flowers are picked up at Fort Snelling National Cemetery and placed on the graves of 101 Japanese American veterans buried there; 35 more buried elsewhere were also honored in 2026. In 2024 a memorial program drew Gen. Paul Nakasone and his father.",
+   "minnesotaEvents": [
+    {
+     "name": "Minnesota Japanese American Veterans Graveside Decorating",
+     "place": "Fort Snelling National Cemetery, 7601 34th Ave. S., Minneapolis",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "organizerDates": "Saturday, May 16, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "The Rice Paper, July 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesotans honor the state's Japanese American veterans, MPR News",
+     "url": "https://www.mprnews.org/story/2024/05/16/minnesotans-honor-the-states-japanese-american-veterans",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Asian American, Native Hawaiian and Pacific Islander Heritage Month",
+   "alsoKnownAs": [
+    "AANHPI Heritage Month",
+    "AAPI Heritage Month"
+   ],
+   "kind": "heritage",
+   "capsule": "May heritage month, which Minnesota's governor notes commemorates the first recorded Japanese immigrant's arrival on May 7, 1843.",
+   "dateRule": "The month of May.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-01",
+     "endDate": "2026-05-31",
+     "source": "Governor's proclamation states May is AANHPI Heritage Month",
+     "sourceUrl": "https://mn.gov/governor/assets/05.01.25%20AANHPI%20Month_tcm1055-682510.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-01",
+     "endDate": "2027-05-31",
+     "source": "Fixed month stated in governor's proclamation",
+     "sourceUrl": "https://mn.gov/governor/assets/05.01.25%20AANHPI%20Month_tcm1055-682510.pdf",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-01",
+     "endDate": "2028-05-31",
+     "source": "Fixed month stated in governor's proclamation",
+     "sourceUrl": "https://mn.gov/governor/assets/05.01.25%20AANHPI%20Month_tcm1055-682510.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Asian American and Pacific Islander heritage; the May date honors the first recorded Japanese immigrant (May 7, 1843).",
+   "howCelebratedInMinnesota": "In 2026 the Twin Cities JACL co-sponsored the 4th annual Edina AAPI Festival (May 16, Rosland Park) and spoke at schools and St. Olaf College, where a May 2026 panel on Japanese Americans in Minnesota was held.",
+   "minnesotaEvents": [
+    {
+     "name": "Edina AAPI Festival",
+     "place": "Rosland Park, Edina",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "organizerDates": "Saturday, May 16, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Enmity and Empathy panel, Celebrate Asia Pasifika 2026",
+     "place": "St. Olaf College, Northfield",
+     "link": "https://pages.stolaf.edu/cap2026/list-of-events/enmity-and-empathy-japanese-americans-in-minnesota-during-wwii/",
+     "organizerDates": "May 2026 (date in Rice Paper April 2026: May 8)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "AANHPI Heritage Month proclamation, 2025",
+     "url": "https://mn.gov/governor/assets/05.01.25%20AANHPI%20Month_tcm1055-682510.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, July 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/07/Rice-Paper-2026-July-B.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, April 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/04/Rice-Paper-2026-April-B.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Twin Cities JACL Chrysanthemum Banquet",
+   "alsoKnownAs": [
+    "Chrysanthemum Banquet"
+   ],
+   "kind": "community festival",
+   "capsule": "The Twin Cities JACL's fall banquet; in 2026 it celebrated the chapter's 80th year with guest Tamlyn Tomita.",
+   "dateRule": "Fall (October or November), set by the Twin Cities JACL.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-24",
+     "endDate": null,
+     "source": "Twin Cities JACL, Rice Paper Oct. 2026",
+     "sourceUrl": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Community fellowship and, in 2026, the chapter's 80th anniversary (organized Sept. 20, 1946).",
+   "howCelebratedInMinnesota": "A banquet with a guest speaker; 2026 featured Tamlyn Tomita speaking about her career. Venue not stated in opened sources.",
+   "minnesotaEvents": [
+    {
+     "name": "Chrysanthemum Banquet (80th anniversary)",
+     "place": "Not stated",
+     "link": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "organizerDates": "Oct. 24, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "The Rice Paper, October 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Mondale Award and Scholarship Gala",
+   "alsoKnownAs": [
+    "Mondale Gala"
+   ],
+   "kind": "community festival",
+   "capsule": "Japan America Society of Minnesota's annual fall gala honoring Japan-Minnesota ties and awarding student scholarships.",
+   "dateRule": "A Saturday in mid-November, set by the Japan America Society of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-14",
+     "endDate": null,
+     "source": "Japan America Society of Minnesota",
+     "sourceUrl": "https://mn-japan.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The Mondale Award for Japan-Minnesota Partnership, named for former Ambassador Walter Mondale, and Mondale Scholarships.",
+   "howCelebratedInMinnesota": "29th gala on Nov. 14, 2026, at Oak Ridge Country Club, Hopkins; reception 5:30-6:30 p.m., program 6:30-9:30 p.m.; kimono welcome. 2026 award to Ben van Lierop; keynote by Dr. Karen Tanaka Lucas on the Military Intelligence Service.",
+   "minnesotaEvents": [
+    {
+     "name": "29th Mondale Award and Scholarship Gala",
+     "place": "Oak Ridge Country Club, 700 Oak Ridge Rd., Hopkins",
+     "link": "https://mn-japan.org/",
+     "organizerDates": "Saturday, Nov. 14, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Japan America Society of Minnesota home page",
+     "url": "https://mn-japan.org/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, October 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Normandale Japanese Garden 50th Anniversary Celebration",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Free 2026 festival marking 50 years of the Bloomington garden partly funded by Japanese American MIS veterans.",
+   "dateRule": "One-time event in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": null,
+     "source": "City of Bloomington",
+     "sourceUrl": "https://www.bloomingtonmn.gov/node/19423",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The garden's 1976 dedication.",
+   "howCelebratedInMinnesota": "Noon to 4 p.m. at Normandale Community College with taiko, Japanese dance, tea ceremony, origami, calligraphy, garden tours and koi feeding; partners included JASM, JACL, the sister city groups and Ikebana International Chapter 121.",
+   "minnesotaEvents": [
+    {
+     "name": "Normandale Japanese Garden 50th Anniversary Celebration",
+     "place": "Normandale Community College, 9700 France Ave. S., Bloomington",
+     "link": "https://www.bloomingtonmn.gov/node/19423",
+     "organizerDates": "Saturday, Sept. 19, 2026, 12-4 p.m. (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrate 50 Years of Normandale's Japanese Garden",
+     "url": "https://www.bloomingtonmn.gov/node/19423",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Ireichō (Book of Names) at Historic Fort Snelling",
+   "alsoKnownAs": [
+    "Ireicho"
+   ],
+   "kind": "remembrance",
+   "capsule": "In October 2026 the traveling book naming over 125,000 incarcerated Japanese Americans visited Fort Snelling for name-stamping.",
+   "dateRule": "One-time Minnesota stop of a national tour.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-09",
+     "endDate": "2026-10-11",
+     "source": "Pioneer Press; Twin Cities JACL",
+     "sourceUrl": "https://www.twincities.com/2026/10/09/it-ruined-so-many-peoples-lives-book-recognizes-people-of-japanese-descent-incarcerated-during-wwii/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Each person incarcerated in World War II, honored by name.",
+   "howCelebratedInMinnesota": "Three-day stop at the Plank Museum and Visitor Center, a restored barracks of the language school, with MNHS and the Twin Cities JACL; visitors stamped names, and Densho scanned family materials and recorded interviews.",
+   "minnesotaEvents": [
+    {
+     "name": "Ireichō at Historic Fort Snelling",
+     "place": "Plank Museum and Visitor Center, Historic Fort Snelling",
+     "link": "https://www.twincities.com/2026/10/09/it-ruined-so-many-peoples-lives-book-recognizes-people-of-japanese-descent-incarcerated-during-wwii/",
+     "organizerDates": "Oct. 9-11, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Pioneer Press, Oct. 9, 2026",
+     "url": "https://www.twincities.com/2026/10/09/it-ruined-so-many-peoples-lives-book-recognizes-people-of-japanese-descent-incarcerated-during-wwii/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, October 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-10-2026.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Twin Cities Buddhist Sangha 80th Anniversary",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "In May 2026 Minnesota's Jodo Shinshu sangha, founded by resettled families in 1946, marked 80 years with its bishop.",
+   "dateRule": "One-time anniversary service.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-03",
+     "endDate": null,
+     "source": "Buddhist Churches of America; Twin Cities JACL",
+     "sourceUrl": "https://www.buddhistchurchesofamerica.org/post/twin-cities-buddhist-sangha-celebrates-its-80th-anniversary",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "One-time event",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The 1946 founding of the Twin Cities Buddhist Sangha.",
+   "howCelebratedInMinnesota": "Service and celebration on May 3, 2026 (the JACL newsletter gave the place as Pinstripes in Edina), with BCA Bishop Rev. Marvin Harada and nearly 70 members and friends.",
+   "minnesotaEvents": [
+    {
+     "name": "80th anniversary service",
+     "place": "Pinstripes, Edina (per Twin Cities JACL)",
+     "link": "https://www.buddhistchurchesofamerica.org/post/twin-cities-buddhist-sangha-celebrates-its-80th-anniversary",
+     "organizerDates": "May 3, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Twin Cities Buddhist Sangha Celebrates Its 80th Anniversary",
+     "url": "https://www.buddhistchurchesofamerica.org/post/twin-cities-buddhist-sangha-celebrates-its-80th-anniversary",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Rice Paper, February 2026",
+     "url": "https://www.tcjacl.org/wp/wp-content/uploads/2026/02/Rice-Paper-2026-February-A8.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}

@@ -1,0 +1,232 @@
+[
+ {
+  "name": "Kado no Mise",
+  "type": "restaurant",
+  "neighborhoodOrCity": "North Loop, Minneapolis (33 N. First Ave., 2nd floor)",
+  "whatItIs": "Edomae sushi and Japanese fare from chef Shigeyuki Furukawa, who trained in his hometown of Tokyo.",
+  "link": "https://www.kadonomise.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current hours (Wed-Sun 5:30 p.m.+) and address."
+ },
+ {
+  "name": "Kaiseki Furukawa",
+  "type": "restaurant",
+  "neighborhoodOrCity": "North Loop, Minneapolis (inside Kado no Mise)",
+  "whatItIs": "Seasonal kaiseki tasting meal rooted in Kyoto tea-ceremony tradition.",
+  "link": "https://www.kadonomise.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Kado no Mise site lists Tuesday seatings at 5:30 and 8:30 p.m."
+ },
+ {
+  "name": "Gori Gori Peku",
+  "type": "bar",
+  "neighborhoodOrCity": "North Loop, Minneapolis (inside Kado no Mise)",
+  "whatItIs": "Japanese whisky bar across the hall from Kado no Mise's dining room.",
+  "link": "https://www.kadonomise.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Kado no Mise site lists hours Tue-Sun 5 p.m.+."
+ },
+ {
+  "name": "Sanjusan",
+  "type": "restaurant",
+  "neighborhoodOrCity": "North Loop, Minneapolis (33 N. First Ave., main floor)",
+  "whatItIs": "Japanese-Italian restaurant in the Kado no Mise building, listed as a sister restaurant.",
+  "link": "https://www.sanjusanrestaurant.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current hours Sun-Thu 5-9 p.m., Fri-Sat 5-10 p.m."
+ },
+ {
+  "name": "Cafe Yoto",
+  "type": "restaurant",
+  "neighborhoodOrCity": "North Loop, Minneapolis (548 N. Washington Ave., Suite 105)",
+  "whatItIs": "Counter-service udon, donburi and temaki shop opened in early 2025 by chef Yo Hasegawa.",
+  "link": "https://cafeyoto.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists hours 11 a.m.-9 p.m. and address; Racket reviewed it March 24, 2025."
+ },
+ {
+  "name": "Sakura Restaurant & Bar",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Downtown St. Paul (350 St. Peter St.)",
+  "whatItIs": "Japanese restaurant opened in 1990 by Miyoko Omori, who came from Saitama in 1970; at this address since 1997.",
+  "link": "https://www.sakurastpaul.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists hours and happy hour, with an image file dated March 31, 2026."
+ },
+ {
+  "name": "Ramen Kazama",
+  "type": "restaurant",
+  "neighborhoodOrCity": "South Minneapolis (3400 Nicollet Ave.)",
+  "whatItIs": "Ramen shop.",
+  "link": "https://www.ramenkazama.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current hours (Tue-Fri 5-9 p.m.; weekends lunch and dinner) and online ordering. Ownership not established."
+ },
+ {
+  "name": "Kyatchi",
+  "type": "restaurant",
+  "neighborhoodOrCity": "South Minneapolis (3758 Nicollet Ave.)",
+  "whatItIs": "Sushi restaurant focused on sustainable seafood, blending Japanese and American dishes.",
+  "link": "https://kyatchi.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists hours (Mon-Thu 4-9 p.m.; weekend lunch) and daily happy hour. Ownership not established; a St. Paul location page returned not found."
+ },
+ {
+  "name": "moto-i",
+  "type": "restaurant and sake brewery",
+  "neighborhoodOrCity": "Lyn-Lake, Minneapolis",
+  "whatItIs": "Ramen and izakaya-style restaurant with house-brewed sake since 2008; says its first sake was inspired by a sake at Fuji-Ya.",
+  "link": "https://moto-i.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists daily hours. Ownership not established."
+ },
+ {
+  "name": "Zen House",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Duluth (4023 Woodland Ave.)",
+  "whatItIs": "Japanese restaurant serving sushi, tempura and noodles; its Holiday Center location is listed as currently closed.",
+  "link": "https://www.zenhouseduluth.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current weekly hours for the Woodland location; site footer is dated 2023, so check before relying on it. Ownership not established in an opened source."
+ },
+ {
+  "name": "Zen House Holiday Center",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Downtown Duluth",
+  "whatItIs": "Second Zen House location.",
+  "link": "https://www.zenhouseduluth.com/",
+  "dateChecked": "2026-10-31",
+  "status": "closed",
+  "evidence": "Own site says 'Currently Closed.'"
+ },
+ {
+  "name": "United Noodles",
+  "type": "grocery",
+  "neighborhoodOrCity": "Minneapolis and Woodbury",
+  "whatItIs": "Pan-Asian market 'since 1972' with a Japanese grocery section (rice, noodles, miso, curry).",
+  "link": "https://www.unitednoodles.com/cuisine/japanese/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists store hours (Minneapolis 9 a.m.-8 p.m.) with 2026 copyright. Not a Japanese-owned business as far as opened sources show."
+ },
+ {
+  "name": "Japan America Society of Minnesota",
+  "type": "business and cultural association",
+  "neighborhoodOrCity": "Minneapolis (P.O. Box); events in Hopkins and St. Paul",
+  "whatItIs": "Member nonprofit founded 1972 linking Japan and Minnesota; corporate memberships; Mondale Award and Scholarship Gala.",
+  "link": "https://mn-japan.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site announces the 29th Mondale Gala on Nov. 14, 2026, at Oak Ridge Country Club, Hopkins."
+ },
+ {
+  "name": "Tsushin",
+  "type": "media (newsletter)",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Japan America Society of Minnesota's monthly newsletter on Japan-related events and news.",
+  "link": "https://search.211unitedway.org/search/e42cceb3-ece1-544e-b76c-667b6d51e1ef",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "United Way 211 listing (2026) describes it as monthly; society site has a back-issues page."
+ },
+ {
+  "name": "The Rice Paper",
+  "type": "media (newsletter)",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Twin Cities JACL newsletter with chapter news, history and events.",
+  "link": "https://www.tcjacl.org/rice-paper/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "October 2026 issue posted."
+ },
+ {
+  "name": "Cha-Ami Japanese Cultural Center",
+  "type": "cultural center and aging services",
+  "neighborhoodOrCity": "Twin Cities (DHS lists St. Paul; website lists a Champlin mailing address)",
+  "whatItIs": "Nonprofit with Japanese library, classes and aging services for Japanese American seniors and caregivers.",
+  "link": "https://www.cha-amijcc.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Twin Cities Buddhist Sangha meets there in person (Rice Paper, Feb. 2026; BCA 2026). DHS awarded it $52,000 for SFY2025. Physical address not confirmed."
+ },
+ {
+  "name": "TaikoArts Midwest",
+  "type": "arts organization",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Taiko organization founded as Mu Daiko in 1997; groups include Enso Daiko.",
+  "link": "https://compas.org/artist/taikoarts-midwest/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Rice Paper, Oct. 2026, announces its Taiko Toshi benefit on Oct. 29, 2026, and Swingposium Oct. 16-18, 2026."
+ },
+ {
+  "name": "Theater Mu",
+  "type": "arts organization",
+  "neighborhoodOrCity": "St. Paul and Minneapolis",
+  "whatItIs": "Asian American theater company; co-presented Swingposium in October 2026.",
+  "link": "https://www.theatermu.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows Season 2026/27."
+ },
+ {
+  "name": "Takeda (Brooklyn Park site)",
+  "type": "Japanese company",
+  "neighborhoodOrCity": "Brooklyn Park",
+  "whatItIs": "Japan-based pharmaceutical company's Minnesota facility, expanded with state support.",
+  "link": "https://kstp.com/kstp-news/local-news/japanese-company-completes-investment-project-in-brooklyn-park/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "KSTP article is undated; CCX Media reported a JETRO visit there June 23, 2022. No 2025 or 2026 page opened."
+ },
+ {
+  "name": "Masu Sushi & Robata",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Northeast Minneapolis (330 E. Hennepin Ave.)",
+  "whatItIs": "Sushi and robata grill.",
+  "link": "https://masusushiandrobata.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own domain returned an empty page; no current listing could be opened."
+ },
+ {
+  "name": "Zen Box Izakaya",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Downtown East, Minneapolis",
+  "whatItIs": "Izakaya and ramen restaurant.",
+  "link": "https://zenboxizakaya.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Its old web address now redirects to an unrelated site; no current page could be opened."
+ },
+ {
+  "name": "Fuji-Ya",
+  "type": "restaurant (historic)",
+  "neighborhoodOrCity": "Minneapolis (420 S. First St. location built 1960s)",
+  "whatItIs": "Founded 1959 by Reiko Umetani Weston; called the Twin Cities' 'premiere Japanese restaurant' in a 1989 proclamation.",
+  "link": "https://www.lrl.mn.gov/archive/sos/film/pdf/39488.pdf",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only the 1989 proclamation was opened; no current page for Fuji-Ya was found."
+ },
+ {
+  "name": "Tanpopo Noodle Shop",
+  "type": "restaurant (historic)",
+  "neighborhoodOrCity": "Lowertown, St. Paul",
+  "whatItIs": "Japanese noodle shop.",
+  "link": "https://www.gayot.com/restaurants/tanpopo-noodle-shop-st-paul-mn-55101_37mn040902.html",
+  "dateChecked": "2026-10-31",
+  "status": "closed",
+  "evidence": "Gayot listing is headed 'THIS RESTAURANT IS CLOSED'; no closing date given."
+ }
+]
