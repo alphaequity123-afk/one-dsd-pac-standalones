@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-8 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese and Oromo have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+9 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo and Ethiopian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- On Gary's computer: ethiopian, indian, rural.
+- On Gary's computer: indian, rural.
 - In the cloud session: the communities listed under Not started.
 
 ## Not started
@@ -40,6 +40,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Ethiopian:** web search reached its limit partway. Not established: current Minnesota reaction to the renewed fighting of October 2026, Tigrayan or Amhara Minnesotan voices on the war, separate counts for Amhara, Tigrayan or Gurage people, occupation data, Ethiopian-owned law, tax, accounting, clinic and salon businesses, named mosques, and disability evidence beyond one Compass figure. 14 of 30 businesses could not be confirmed open.
 - **Oromo:** web search reached a limit of 200 searches for the working session, so sections 3, 4, 7 and 11 and parts of 5, 9 and 12 are thin, and law, tax, travel, salon, grocery and clinic businesses were not surveyed (13 businesses listed, 5 unconfirmed). Not established: an actual Oromo count (estimates run from 8,500 to over 100,000; the firmest figure is 3,297 students with Oromo as home language, 2024-25), any Minnesota Waaqeffanna congregation, current faith shares, a confirmed Oromo elected official, and Oromo-specific income, health or disability data.
 - **Vietnamese:** web search ran out partway. Not established: a Minnesota deportation count, effects of Operation Metro Surge, disability, health and clinic evidence beyond Compass and state counts, elected officials, Protestant, Cao Đài and Hòa Hảo groups, town-level population, and 2026 dates for Black April and Little Mekong Night Market. 21 of 48 businesses could not be confirmed open. Compass really does publish the same median income for Hmong and Vietnamese households ($92,644), with different margins.
 - **Mexican:** web search ran out, so sections 2, 3, 4, 5, 8, 9, 10, 11 and 13 are thinner than the brief asked, along with law, accounting, insurance, tax, salon, travel, bakery and Greater Minnesota businesses. 29 of 57 businesses could not be confirmed open. Not established: current Mexican-only counts by town, Mexican nationals among those arrested in Operation Metro Surge, any Mexican-specific Minnesota disability study, and public Posadas, Via Crucis, Reyes or 2026 Guadalupe schedules.

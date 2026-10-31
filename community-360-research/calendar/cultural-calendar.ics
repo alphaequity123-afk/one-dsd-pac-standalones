@@ -481,6 +481,19 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:agriculture-day-2026-03-24@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:Agriculture Day
+DESCRIPTION:Farming and its trade concerns. Date: Proclaimed yearly\; dat
+ e not fixed in the source. Source: KFGO https://www.kfgo.com/2026/03/24/g
+ overnor-walz-presses-trump-administration-for-tariff-relief-warns-of-bank
+ rukptcies-on-national-ag-day/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:saint-óscar-romero-remembrance-2026-03-24@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260324
@@ -754,6 +767,30 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:governors-fishing-opener-2026-05-08@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260510
+SUMMARY:Governor's Fishing Opener
+DESCRIPTION:Tourism and the host town's lakes. Date: Host and dates annou
+ nced each year. Source: KAAL\, DNR https://www.kaaltv.com/?p=935157 Commu
+ nities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-fishing-opener-2026-05-09@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Minnesota fishing opener
+DESCRIPTION:Start of fishing season on Minnesota waters. Date: Set by the
+  DNR\; a Saturday in May. Source: Minnesota DNR https://www.dnr.state.mn.
+ us/fishing/seasons.html Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:victory-day-may-9-2026-05-09@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260509
@@ -947,6 +984,17 @@ DESCRIPTION:Self-rule in 1963. Date: June 1. Source: Kenya Law Reform Com
  two-the-republic/175-9-national-symbols-and-national-days Communities: Ke
  nyan Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sweet-beet-5k-2026-06-06@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:Sweet Beet 5K
+DESCRIPTION:A cooperative's community tie. Date: Set by organizer. Source
+ : SMBSC https://www.smbsc.com/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1153,6 +1201,18 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:wabasha-county-fair-2026-07-15@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260719
+SUMMARY:Wabasha County Fair
+DESCRIPTION:Local farm and family life. Date: Set by fair board. Source: 
+ Lake City Graphic https://lakecitygraphic.com/community/fair-board-announ
+ ces-2026-county-fair-dates Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:rondo-days-2026-07-18@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260718
@@ -1195,6 +1255,42 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fillmore-county-fair-2026-07-20@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260727
+SUMMARY:Fillmore County Fair
+DESCRIPTION:Local farm and family life. Date: Set by fair board. Source: 
+ KAAL https://www.kaaltv.com/?p=1142885 Communities: Rural and Greater Min
+ nesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kolacky-days-2026-07-24@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+SUMMARY:Kolacky Days
+DESCRIPTION:Czech heritage and harvest. Date: Late July\; organizer annou
+ nces. Source: KROC News https://krocnews.com/ixp/719/p/minnesota-festival
+ s-worth-the-drive/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:blueberryart-festival-2026-07-24@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+SUMMARY:Blueberry/Art Festival
+DESCRIPTION:Town life and local history. Date: Set by organizers. Source:
+  KROC News https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-d
+ rive/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:puerto-rico-constitution-day-2026-07-25@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260725
@@ -1234,6 +1330,18 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:olmsted-county-fair-2026-07-27@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260803
+SUMMARY:Olmsted County Fair
+DESCRIPTION:Local farm and family life. Date: Set by fair board. Source: 
+ KROC News https://krocnews.com/ixp/715/p/ultimate-guide-olmsted-county-fa
+ ir-2026/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:asanha-bucha-and-start-of-buddhist-lent-2026-07-29@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260729
@@ -1247,6 +1355,18 @@ DESCRIPTION:The Buddha's first sermon\, and the start of the three-month
  -public-holidays Communities: Burmese Minnesota\, Cambodian Minnesota\, L
  ao Minnesota\, Thai Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:buffalo-bill-days-2026-07-30@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260803
+SUMMARY:Buffalo Bill Days
+DESCRIPTION:Town life and local history. Date: Set by organizers. Source:
+  KROC News https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-d
+ rive/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1286,6 +1406,32 @@ SUMMARY:St. Cloud Somali Festival
 DESCRIPTION:Somali Independence Day\, celebrated locally. Date: Announced
   each year by the organizer. Source: Sahan Journal 2026 guide https://wis
  consinmuslimjournal.org/?p=53623 Communities: Somali Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-farmfest-2026-08-04@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260807
+SUMMARY:Minnesota Farmfest
+DESCRIPTION:Farm business\, politics and policy in one place. Date: Early
+  August\; organizer announces. Source: The Journal (New Ulm) https://www.
+ nujournal.com/news/local-news/2026/08/05/2026-farmfest-begins/ Communitie
+ s: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-farm-families-of-the-year-2026-08-06@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:Minnesota Farm Families of the Year
+DESCRIPTION:Commitment to agriculture\, as chosen by local Extension comm
+ ittees. Date: During Farmfest\; Extension announces. Source: University o
+ f Minnesota Extension https://extension.umn.edu/news/2026-minnesota-farm-
+ families-year Communities: Rural and Greater Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1343,6 +1489,18 @@ DESCRIPTION:Birthday of Queen Mother Sirikit\, kept as Mother's Day in Th
  /www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holiday
  s Communities: Thai Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gold-rush-days-2026-08-14@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260817
+SUMMARY:Gold Rush Days
+DESCRIPTION:Town life and local history. Date: Set by organizers. Source:
+  KROC News https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-d
+ rive/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1404,6 +1562,18 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:potato-days-2026-08-22@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Potato Days
+DESCRIPTION:The area's potato farming. Date: August\; organizer announces
+ . Source: Organizer https://potatodays.com/ Communities: Rural and Greate
+ r Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:vietnamese-community-of-minnesota-summer-festival-2026-08-22@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260822
@@ -1443,6 +1613,19 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:minnesota-state-fair-2026-08-27@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260908
+SUMMARY:Minnesota State Fair
+DESCRIPTION:A statewide gathering with deep farm roots. Date: Twelve days
+  ending on Labor Day\; organizer announces. Source: Explore Minnesota htt
+ ps://www.exploreminnesota.com/event/minnesota-state-fair/1624 Communities
+ : Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:march-on-washington-anniversary-2026-08-28@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260828
@@ -1465,6 +1648,17 @@ DESCRIPTION:Gratitude to parents\, as the temple calls it Báo Hiếu. Da
  te: Announced each year by the temple. Source: Chùa Phật Ân https://p
  hatan.org Communities: Vietnamese Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:western-minnesota-steam-threshers-reunion-2026-09-04@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260908
+SUMMARY:Western Minnesota Steam Threshers Reunion
+DESCRIPTION:Older ways of farm work. Date: Labor Day weekend. Source: Org
+ anizer https://rollag.com/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1493,6 +1687,18 @@ DESCRIPTION:A Jain period of observance. Date: Proposed by the Jain Cente
  r\, subject to confirmation. Source: Jain Center of Minnesota https://jai
  ncentermn.org/2026-events Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:defeat-of-jesse-james-days-2026-09-09@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260914
+SUMMARY:Defeat of Jesse James Days
+DESCRIPTION:Town life and local history. Date: Set by organizers. Source:
+  KROC News https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-d
+ rive/ Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1618,6 +1824,18 @@ DESCRIPTION:Not stated in the report opened. Date: As reported for 2026.
  No rule for other years could be found. Source: Oromo Diaspora Media http
  s://oromodiasporamedia.org/ayyaanni-gubaa-fulbaana-17-2026-minisootaatti-
  kabajame/ Communities: Oromo Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:johnny-appleseed-festival-2026-09-18@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+SUMMARY:Johnny Appleseed Festival
+DESCRIPTION:Town life and local history. Date: Set by organizers. Source:
+  KROC News https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-d
+ rive/ Communities: Rural and Greater Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1958,6 +2176,18 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:firearms-deer-opener-2026-11-07@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261123
+SUMMARY:Firearms deer opener
+DESCRIPTION:The start of firearms deer season. Date: Set by the DNR\; a S
+ aturday in early November. Source: Minnesota DNR https://www.dnr.state.mn
+ .us/hunting/seasons.html Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:diwali-2026-11-08@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261108
@@ -2036,6 +2266,18 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:greater-education-summit-2026-11-15@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261118
+SUMMARY:Greater Education Summit
+DESCRIPTION:Rural schooling. Date: Set by organizer. Source: Minnesota Ru
+ ral Education Association https://www.mreavoice.org/ Communities: Rural a
+ nd Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:discovery-of-puerto-rico-day-2026-11-19@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261119
@@ -2047,6 +2289,31 @@ DESCRIPTION:Columbus's 1493 landing\; marked in some public life. Date: N
   de Puerto Rico https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/P
  DF/91-1938.pdf Communities: Puerto Rican Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:national-rural-health-day-and-rural-health-policy-summit-2026-11-19@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:National Rural Health Day and Rural Health Policy Summit
+DESCRIPTION:Rural health care and its workers. Date: National Rural Healt
+ h Day\; rule not read from a national source. Source: Minnesota Rural Hea
+ lth Association https://www.mnruralhealth.org/ Communities: Rural and Gre
+ ater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-farmers-union-state-convention-2026-11-20@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+SUMMARY:Minnesota Farmers Union State Convention
+DESCRIPTION:Member policy and organizing. Date: Set by organizer. Source:
+  Minnesota Farmers Union https://www.mfu.org/ Communities: Rural and Grea
+ ter Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2844,6 +3111,30 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:governors-fishing-opener-2027-05-14@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270516
+SUMMARY:Governor's Fishing Opener
+DESCRIPTION:Tourism and the host town's lakes. Date: Host and dates annou
+ nced each year. Source: KSTP https://kstp.com/?p=3961279 Communities: Rur
+ al and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-fishing-opener-2027-05-15@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Minnesota fishing opener
+DESCRIPTION:Start of fishing season on Minnesota waters. Date: Set by the
+  DNR\; a Saturday in May. Source: Minnesota DNR https://www.dnr.state.mn.
+ us/fishing/seasons.html Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:syttende-mai-2027-05-17@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270517
@@ -2994,6 +3285,18 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:henderson-sauerkraut-days-2027-06-25@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270628
+SUMMARY:Henderson Sauerkraut Days
+DESCRIPTION:Town food heritage. Date: Last full weekend of June. Source: 
+ Explore Minnesota https://www.exploreminnesota.com/event/sauerkraut-days/
+ 4477 Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:somaliland-independence-june-26-2027-06-26@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270626
@@ -3105,6 +3408,19 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:minnesota-farmfest-2027-08-03@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270806
+SUMMARY:Minnesota Farmfest
+DESCRIPTION:Farm business\, politics and policy in one place. Date: Early
+  August\; organizer announces. Source: The Journal (New Ulm) https://www.
+ nujournal.com/news/local-news/2026/08/05/2026-farmfest-begins/ Communitie
+ s: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ecuadorian-independence-day-2027-08-10@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270810
@@ -3183,6 +3499,18 @@ DESCRIPTION:Independence in 1991. Date: August 24. Source: Donetsk Region
  e Day 1991 https://dn.gov.ua/en/news/narodzhennia-sviata-vidznachennia-dn
  ia-nezalezhnosti-ukrainy-u-1991-rotsi Communities: Ukrainian Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-state-fair-2027-08-26@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270907
+SUMMARY:Minnesota State Fair
+DESCRIPTION:A statewide gathering with deep farm roots. Date: Twelve days
+  ending on Labor Day\; organizer announces. Source: Minnesota State Fair 
+ https://www.mnstatefair.org/faq Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3413,6 +3741,18 @@ DESCRIPTION:Remembrance of the dead. Date: November 1 and 2 by custom\; U
   en el tiempo https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicio
  n-mexicana-que-trasciende-en-el-tiempo Communities: Mexican Minnesota
 CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:firearms-deer-opener-2027-11-06@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271122
+SUMMARY:Firearms deer opener
+DESCRIPTION:The start of firearms deer season. Date: Set by the DNR\; a S
+ aturday in early November. Source: Minnesota DNR https://www.dnr.state.mn
+ .us/hunting/seasons.html Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4107,6 +4447,18 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:minnesota-fishing-opener-2028-05-13@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20280513
+DTEND;VALUE=DATE:20280514
+SUMMARY:Minnesota fishing opener
+DESCRIPTION:Start of fishing season on Minnesota waters. Date: Set by the
+  DNR\; a Saturday in May. Source: Minnesota DNR https://www.dnr.state.mn.
+ us/fishing/seasons.html Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:may-14-hmong-veterans-and-general-vang-pao-remembrance-2028-05-14@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280514
@@ -4418,6 +4770,18 @@ DESCRIPTION:Liberation from Japanese rule in 1945. Date: August 15. Sourc
  System https://www.mpm.go.kr/english/system/infoService/bizService03/ Com
  munities: Korean Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-state-fair-2028-08-24@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20280824
+DTEND;VALUE=DATE:20280905
+SUMMARY:Minnesota State Fair
+DESCRIPTION:A statewide gathering with deep farm roots. Date: Twelve days
+  ending on Labor Day\; organizer announces. Source: Minnesota State Fair 
+ https://www.mnstatefair.org/faq Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

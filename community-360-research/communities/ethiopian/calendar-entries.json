@@ -1,0 +1,850 @@
+{
+ "community": "ethiopian",
+ "entries": [
+  {
+   "seedId": "start-of-ramadan",
+   "name": "Start of Ramadan",
+   "alsoKnownAs": [
+    "Ramadan"
+   ],
+   "kind": "religious",
+   "capsule": "The month of daytime fasting begins for Ethiopian Muslim Minnesotans, as for Muslims here generally.",
+   "dateRule": "First day of the ninth month of the Islamic lunar calendar; decided by moon sighting or adopted calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-28",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the month of daytime fasting.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-alfitr",
+   "name": "Eid al-Fitr",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Celebration that closes Ramadan, observed by Ethiopian Muslim Minnesotans among others.",
+   "dateRule": "First day of the tenth Islamic month, after Ramadan; decided by moon sighting or adopted calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-20",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-26",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "End of Ramadan.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-aladha",
+   "name": "Eid al-Adha",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "Festival of sacrifice during the Hajj season, observed by Ethiopian Muslim Minnesotans among others.",
+   "dateRule": "Tenth day of the twelfth Islamic month; decided by moon sighting or adopted calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "mawlid-annabi",
+   "name": "Mawlid an-Nabi",
+   "alsoKnownAs": [
+    "Mawlid"
+   ],
+   "kind": "religious",
+   "capsule": "Birthday of the Prophet Muhammad; not observed by all Muslims. No Minnesota Ethiopian observance found.",
+   "dateRule": "Twelfth day of the third Islamic month; decided by moon sighting or adopted calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-25",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-14",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-03",
+     "endDate": null,
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Birthday of the Prophet Muhammad.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "enkutatash",
+   "name": "Enkutatash",
+   "alsoKnownAs": [
+    "Ethiopian New Year",
+    "Meskerem 1"
+   ],
+   "kind": "cultural",
+   "capsule": "The Ethiopian New Year, on the first day of Meskerem in September.",
+   "dateRule": "Meskerem 1 on the Ethiopian calendar: September 11, or September 12 in the Gregorian year before a Gregorian leap year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-11",
+     "endDate": null,
+     "source": "Ethiopia Visitors Hub",
+     "sourceUrl": "https://ethiopiavisitorshub.com/ethiopian-september-holidays-guide/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-12",
+     "endDate": null,
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-11",
+     "endDate": null,
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Start of the Ethiopian year.",
+   "howCelebratedInMinnesota": "The Ethiopian Community in Minnesota has held public celebrations, including one at Matthews Park in 2011 and one at Highland Park Pavilion in 2026. See the separate entry.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ethiopian September holidays guide, Ethiopia Visitors Hub",
+     "url": "https://ethiopiavisitorshub.com/ethiopian-september-holidays-guide/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Ethiopian Community in Minnesota home page",
+     "url": "https://ethiopiancommunitymn.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Ethiopian Community in Minnesota New Year Celebration",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Free New Year gathering in St. Paul with Ethiopian food, music and dance; traditional dress encouraged.",
+   "dateRule": "Set by the Ethiopian Community in Minnesota; the 2026 event fell two days after Enkutatash.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-13",
+     "endDate": null,
+     "source": "Mefthe listing of the Ethiopian Community in Minnesota's invitation",
+     "sourceUrl": "https://mefthe.com/events/celebrate-ethiopian-new-year-in-minnesota/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The Ethiopian New Year, in a public community setting.",
+   "howCelebratedInMinnesota": "On Sept. 13, 2026, 2 to 7 p.m., at Highland Park Pavilion, 1200 Montreal Ave., St. Paul. Free, with food, traditional music and live dance.",
+   "minnesotaEvents": [
+    {
+     "name": "Ethiopian New Year celebration",
+     "place": "Highland Park Pavilion, St. Paul",
+     "link": "https://mefthe.com/events/celebrate-ethiopian-new-year-in-minnesota/",
+     "organizerDates": "Sunday, Sept. 13, 2026, 2 to 7 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian New Year in Minnesota, Mefthe",
+     "url": "https://mefthe.com/events/celebrate-ethiopian-new-year-in-minnesota/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "meskel",
+   "name": "Meskel",
+   "alsoKnownAs": [
+    "Finding of the True Cross",
+    "Demera (eve bonfire)"
+   ],
+   "kind": "religious",
+   "capsule": "Orthodox feast of the finding of the True Cross, marked with a Demera bonfire.",
+   "dateRule": "Meskerem 17 on the Ethiopian calendar: September 27, or September 28 in the year Enkutatash falls on September 12. The Demera bonfire is the evening before.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-27",
+     "endDate": null,
+     "source": "Ethiopia Visitors Hub",
+     "sourceUrl": "https://ethiopiavisitorshub.com/ethiopian-september-holidays-guide/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-28",
+     "endDate": null,
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-27",
+     "endDate": null,
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Ethiopian Orthodox feast of the finding of the True Cross. The Post Bulletin notes the belief that smoke from a bonfire led Queen Eleni to the cross.",
+   "howCelebratedInMinnesota": "In Rochester in 2021 and 2022, Orthodox Christians marked it at Cascade Lake Beach on the nearest Sunday so more could attend, with a service, a procession and a Demera. More than 100 attended on Sept. 25, 2022. A 2021 cross was misread as a possible cross burning and dismantled, Eyob Adehane told the Post Bulletin.",
+   "minnesotaEvents": [
+    {
+     "name": "Meskel and Demera at Cascade Lake",
+     "place": "Cascade Lake Beach, Rochester",
+     "link": "https://www.postbulletin.com/news/local/smoke-leads-the-way-rochester-ethiopians-mark-the-finding-of-the-cross",
+     "organizerDates": "Held Sept. 25, 2022; no later date found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Smoke leads the way, Post Bulletin",
+     "url": "https://www.postbulletin.com/news/local/smoke-leads-the-way-rochester-ethiopians-mark-the-finding-of-the-cross",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Ethiopian September holidays guide, Ethiopia Visitors Hub",
+     "url": "https://ethiopiavisitorshub.com/ethiopian-september-holidays-guide/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "genna",
+   "name": "Genna",
+   "alsoKnownAs": [
+    "Ethiopian Christmas",
+    "Ledet"
+   ],
+   "kind": "religious",
+   "capsule": "Christmas in the Ethiopian Orthodox Tewahedo Church, usually January 7.",
+   "dateRule": "Tahsas 29 on the Ethiopian calendar, usually January 7.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-07",
+     "endDate": null,
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-07",
+     "endDate": null,
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-07",
+     "endDate": null,
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Christmas in the Ethiopian Orthodox Tewahedo Church.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "This Minnesota Church Celebrates Christmas in January, YouTube (title only; church not shown)",
+     "url": "https://www.youtube.com/shorts/o2AkWDp4Ah4",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Abiy Tsom (Great Lent)",
+   "alsoKnownAs": [
+    "55-day Lenten fast"
+   ],
+   "kind": "religious",
+   "capsule": "Orthodox fast of 55 days before Fasika, without meat, eggs or dairy.",
+   "dateRule": "Fifty-five days ending at Fasika; start date calculated from Eastern Orthodox Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-16",
+     "endDate": "2026-04-11",
+     "source": "Calculated: 55 days before Fasika. Stratis Health states the length, not these dates.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-08",
+     "endDate": "2027-05-01",
+     "source": "Calculated: 55 days before Fasika.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-21",
+     "endDate": "2028-04-15",
+     "source": "Calculated: 55 days before Fasika.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The long fast before Easter.",
+   "howCelebratedInMinnesota": "Stratis Health describes Orthodox Christians avoiding meat, eggs and dairy on Wednesdays, Fridays and for 55 days at Easter. Mpls.St.Paul Magazine reports observant members fast about 180 days a year, and chef Tigist Feyisa saw a market among them for her vegan restaurant.",
+   "minnesotaEvents": [],
+   "workplaceNote": "Stratis Health's Culture Care Connection says fasting may affect how medications are taken.",
+   "sources": [
+    {
+     "title": "Ethiopian, Culture Care Connection",
+     "url": "https://culturecareconnection.org/cultural-responsiveness/ethiopians/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "The New Ethiopian Scene, Mpls.St.Paul Magazine",
+     "url": "https://mspmag.com/eat-and-drink/the-new-ethiopian-scene/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "timkat",
+   "name": "Timkat",
+   "alsoKnownAs": [
+    "Timket",
+    "Ethiopian Epiphany"
+   ],
+   "kind": "religious",
+   "capsule": "Orthodox feast of the baptism of Jesus, usually January 19, with processions the day before.",
+   "dateRule": "Tir 11 on the Ethiopian calendar, usually January 19. One guide says always January 19; the calendar calculation gives January 20 in 2028.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-19",
+     "endDate": null,
+     "source": "Calculated: Timkat follows the Ethiopian calendar, usually January 19",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-19",
+     "endDate": null,
+     "source": "We Blog The World",
+     "sourceUrl": "https://weblogtheworld.com/countries/africa-africa/timkat-ethiopia-epiphany-sacred-water-festival",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-20",
+     "endDate": null,
+     "source": "Calculated; one guide's general rule would give Jan. 19. Unresolved.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
+   "howCelebratedInMinnesota": "Chala writes that on Timket in 2026 many families watched immigration agents' movements on WhatsApp instead of walking to church. Selassie Cathedral once announced a joint two-day celebration in Minnesota on Jan. 17 and 18; its page gives no year.",
+   "minnesotaEvents": [
+    {
+     "name": "Joint Timket celebration",
+     "place": "Minnesota; venue not stated",
+     "link": "http://minnesotaselassie.org/index.php/announcements/60-timket",
+     "organizerDates": "January 17 and 18, year not stated",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Timket announcement, Selassie Cathedral",
+     "url": "http://minnesotaselassie.org/index.php/announcements/60-timket",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Timkat in Ethiopia, We Blog The World",
+     "url": "https://weblogtheworld.com/countries/africa-africa/timkat-ethiopia-epiphany-sacred-water-festival",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "fasika",
+   "name": "Fasika",
+   "alsoKnownAs": [
+    "Ethiopian Easter"
+   ],
+   "kind": "religious",
+   "capsule": "Easter in the Ethiopian Orthodox tradition, ending the long Lenten fast.",
+   "dateRule": "Same date as Eastern Orthodox Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-12",
+     "endDate": null,
+     "source": "Calculated with the Julian Easter rule; no opened page states this date.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-02",
+     "endDate": null,
+     "source": "Calculated with the Julian Easter rule; no opened page states this date.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Calculated with the Julian Easter rule; no opened page states this date.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Easter in the Ethiopian Orthodox tradition.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ethiopian, Culture Care Connection",
+     "url": "https://culturecareconnection.org/cultural-responsiveness/ethiopians/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "adwa-victory-day",
+   "name": "Adwa Victory Day",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "The 1896 Ethiopian victory at Adwa. No Minnesota observance found.",
+   "dateRule": "March 2 (Yekatit 23).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-02",
+     "endDate": null,
+     "source": "Fixed date carried from the starting calendar; no opened page states it.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-02",
+     "endDate": null,
+     "source": "Fixed date carried from the starting calendar; no opened page states it.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-02",
+     "endDate": null,
+     "source": "Fixed date carried from the starting calendar; no opened page states it.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The 1896 Ethiopian victory at Adwa.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": null,
+   "name": "Ashenda",
+   "alsoKnownAs": [],
+   "kind": "cultural",
+   "capsule": "End of the 15-day Filseta fast, a holiday for many Tigrayan women and girls. No Minnesota celebration confirmed.",
+   "dateRule": "At the end of the 15-day Filseta fast in August. Africanews reported it on Aug. 23, 2026 without an exact date, so none is stated here.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No exact date stated in an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No exact date stated in an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No exact date stated in an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The end of the Filseta fast; originally tied to the Assumption of Mary and, Africanews says, now beyond religion.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Tigrayan women celebrate Ashenda, Africanews",
+     "url": "https://www.africanews.com/amp/2026/08/23/ethiopia-tigrayan-women-celebrate-ashenda-amid-fears-of-new-war/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Ethiopian Sports Federation in North America Tournament",
+   "alsoKnownAs": [
+    "ESFNA tournament"
+   ],
+   "kind": "community festival",
+   "capsule": "Week-long soccer and culture gathering that came to Eagan in 2026; the host city rotates each year.",
+   "dateRule": "Announced each year by the federation in a rotating host city.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-27",
+     "endDate": "2026-07-04",
+     "source": "Ethiopian Sports Federation in North America",
+     "sourceUrl": "https://esfna.org/tournament/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "An annual gathering of Ethiopian teams from the United States and Canada, first held in 1984.",
+   "howCelebratedInMinnesota": "In 2026 at TCO Stadium, Eagan, and Saint Thomas Academy, with 32 teams, about 30 vendors, nonprofit and church booths, and a concert at the Omni Hotel. Organizers expected more than 20,000 visitors.",
+   "minnesotaEvents": [
+    {
+     "name": "43rd annual tournament",
+     "place": "TCO Stadium, Eagan; Saint Thomas Academy",
+     "link": "https://esfna.org/tournament/",
+     "organizerDates": "June 27 to July 4, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Tournament, ESFNA",
+     "url": "https://esfna.org/tournament/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Thousands set to gather, MPR News",
+     "url": "https://www.mprnews.org/episode/2026/06/25/ethiopian-soccer-tournament-twin-cities",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Despite immigration fears, MPR News",
+     "url": "https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Ethiopian Day in Minnesota",
+   "alsoKnownAs": [
+    "Ethiopian Heritage Day"
+   ],
+   "kind": "heritage",
+   "capsule": "Gov. Tim Walz declared July 3, 2026 Ethiopian Day during the soccer tournament in Eagan.",
+   "dateRule": "Declared for 2026. No opened source says it recurs, so later years are left empty.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-03",
+     "endDate": null,
+     "source": "MPR News; ESFNA lists Ethiopian Day on July 3, 2026",
+     "sourceUrl": "https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Recognition of Ethiopian Minnesotans by the governor in 2026.",
+   "howCelebratedInMinnesota": "Tournament events at TCO Stadium, Eagan, on July 3, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Ethiopian Day at the tournament",
+     "place": "TCO Stadium, Eagan",
+     "link": "https://esfna.org/event/ethiopian-day-2/",
+     "organizerDates": "July 3, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ethiopian Day, ESFNA",
+     "url": "https://esfna.org/event/ethiopian-day-2/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Despite immigration fears, MPR News",
+     "url": "https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "National Ethiopian soccer tournament, Power 104.7",
+     "url": "https://www.power1047.fm/post/national-ethiopian-soccer-tournament-comes-to-minnesota",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Dec. 13, 2003 Gambella killings",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Anuak Minnesotans have spoken publicly of the killings that began in Gambella town on December 13, 2003.",
+   "dateRule": "Fixed date of the event. No organized annual Minnesota observance was found, so none is claimed and no calendar dates are given.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota observance found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota observance found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota observance found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Attacks on Anuak people in Gambella; human rights groups say more than 400 were killed.",
+   "howCelebratedInMinnesota": "No organized observance found. In 2008, many at a Minneapolis forum with Gambella's governor wanted to speak about it, and others boycotted.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Anuak reporting, MPR News",
+     "url": "https://www.mprnews.org/story/2008/05/30/anuak",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Exiled Anuak meet official, MPR News via AP",
+     "url": "https://www.mprnews.org/story/2008/05/31/ethopia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}
