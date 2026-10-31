@@ -1,0 +1,1690 @@
+{
+ "community": "rural",
+ "entries": [
+  {
+   "seedId": null,
+   "name": "Minnesota State Fair",
+   "alsoKnownAs": [
+    "Great Minnesota Get-Together"
+   ],
+   "kind": "community festival",
+   "capsule": "Twelve days ending on Labor Day at the St. Paul fairgrounds, a yearly meeting of farm and city.",
+   "dateRule": "Twelve days ending on Labor Day; organizer announces.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-27",
+     "endDate": "2026-09-07",
+     "source": "Explore Minnesota",
+     "sourceUrl": "https://www.exploreminnesota.com/event/minnesota-state-fair/1624",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-26",
+     "endDate": "2027-09-06",
+     "source": "Minnesota State Fair",
+     "sourceUrl": "https://www.mnstatefair.org/faq",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-24",
+     "endDate": "2028-09-04",
+     "source": "Minnesota State Fair",
+     "sourceUrl": "https://www.mnstatefair.org/faq",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A statewide gathering with deep farm roots.",
+   "howCelebratedInMinnesota": "Held at the State Fairgrounds in St. Paul. Attendance in 2026 was 1,923,325, per KTTC.",
+   "minnesotaEvents": [
+    {
+     "name": "Minnesota State Fair",
+     "place": "St. Paul",
+     "link": "https://www.mnstatefair.org/faq",
+     "organizerDates": "Aug. 26 to Sept. 6, 2027; Aug. 24 to Sept. 4, 2028",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "FAQ",
+     "url": "https://www.mnstatefair.org/faq",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Minnesota State Fair",
+     "url": "https://www.exploreminnesota.com/event/minnesota-state-fair/1624",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "State fair attendance",
+     "url": "https://www.kttc.com/2026/09/08/minnesota-state-fair-draws-19-million-visitors-2026/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Minnesota Farmfest",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Three-day farm show near Redwood Falls with exhibitors and candidate forums.",
+   "dateRule": "Early August; organizer announces.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-04",
+     "endDate": "2026-08-06",
+     "source": "The Journal (New Ulm)",
+     "sourceUrl": "https://www.nujournal.com/news/local-news/2026/08/05/2026-farmfest-begins/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-03",
+     "endDate": "2027-08-05",
+     "source": "The Journal (New Ulm)",
+     "sourceUrl": "https://www.nujournal.com/news/local-news/2026/08/05/2026-farmfest-begins/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Farm business, politics and policy in one place.",
+   "howCelebratedInMinnesota": "Held at the Gilfillan Estate on 50 acres. In 2026 it had over 400 exhibitors, debates for governor and U.S. Senate, and an address by U.S. Agriculture Secretary Brooke Rollins.",
+   "minnesotaEvents": [
+    {
+     "name": "Farmfest",
+     "place": "Gilfillan Estate, Redwood County",
+     "link": "https://www.nujournal.com/news/local-news/2026/08/05/2026-farmfest-begins/",
+     "organizerDates": "Aug. 4 to 6, 2026; Aug. 3 to 5, 2027",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "2026 Farmfest begins",
+     "url": "https://www.nujournal.com/news/local-news/2026/08/05/2026-farmfest-begins/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Minnesota Farm Families of the Year",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "University of Minnesota Extension honors farm families county by county at Farmfest.",
+   "dateRule": "During Farmfest; Extension announces.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-06",
+     "endDate": null,
+     "source": "University of Minnesota Extension",
+     "sourceUrl": "https://extension.umn.edu/news/2026-minnesota-farm-families-year",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Commitment to agriculture, as chosen by local Extension committees.",
+   "howCelebratedInMinnesota": "In 2026, 86 families were honored at the Wick Buildings Farmfest Center near Redwood Falls.",
+   "minnesotaEvents": [
+    {
+     "name": "Farm Family recognition",
+     "place": "Gilfillan Estate",
+     "link": "https://extension.umn.edu/news/2026-minnesota-farm-families-year",
+     "organizerDates": "Aug. 6, 2026, 1:15 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "2026 Farm Families",
+     "url": "https://extension.umn.edu/news/2026-minnesota-farm-families-year",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "County fair season",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Each county's fair brings 4-H, livestock and neighbors together through summer.",
+   "dateRule": "Set by each county fair board, mostly July and August.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local farm and family life.",
+   "howCelebratedInMinnesota": "Southeast Minnesota fairs are listed on their own entries. A statewide list could not be read.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "County fairs, southeast Minnesota",
+     "url": "https://www.kaaltv.com/?p=1142885",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Olmsted County Fair",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Rochester-area county fair.",
+   "dateRule": "Set by fair board.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-27",
+     "endDate": "2026-08-02",
+     "source": "KROC News",
+     "sourceUrl": "https://krocnews.com/ixp/715/p/ultimate-guide-olmsted-county-fair-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local farm and family life.",
+   "howCelebratedInMinnesota": "Held in Olmsted County. KROC gives July 27 to Aug. 2, 2026; KAAL agrees.",
+   "minnesotaEvents": [
+    {
+     "name": "Olmsted County Fair",
+     "place": "Olmsted County",
+     "link": "https://krocnews.com/ixp/715/p/ultimate-guide-olmsted-county-fair-2026/",
+     "organizerDates": "July 27 to Aug. 2, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Olmsted County Fair guide",
+     "url": "https://krocnews.com/ixp/715/p/ultimate-guide-olmsted-county-fair-2026/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "County fairs",
+     "url": "https://www.kaaltv.com/?p=1142885",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Wabasha County Fair",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "County fair in Wabasha County, set by its fair board.",
+   "dateRule": "Set by fair board.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-15",
+     "endDate": "2026-07-18",
+     "source": "Lake City Graphic",
+     "sourceUrl": "https://lakecitygraphic.com/community/fair-board-announces-2026-county-fair-dates",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local farm and family life.",
+   "howCelebratedInMinnesota": "Dates announced by the board; venue not given in the article.",
+   "minnesotaEvents": [
+    {
+     "name": "Wabasha County Fair",
+     "place": "Wabasha County",
+     "link": "https://lakecitygraphic.com/community/fair-board-announces-2026-county-fair-dates",
+     "organizerDates": "July 15 to 18, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Fair board announces 2026 dates",
+     "url": "https://lakecitygraphic.com/community/fair-board-announces-2026-county-fair-dates",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Fillmore County Fair",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "County fair in Fillmore County, southeast Minnesota.",
+   "dateRule": "Set by fair board.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-20",
+     "endDate": "2026-07-26",
+     "source": "KAAL",
+     "sourceUrl": "https://www.kaaltv.com/?p=1142885",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local farm and family life.",
+   "howCelebratedInMinnesota": "KAAL's roundup names 2026 for this fair.",
+   "minnesotaEvents": [
+    {
+     "name": "Fillmore County Fair",
+     "place": "Fillmore County",
+     "link": "https://www.kaaltv.com/?p=1142885",
+     "organizerDates": "2026-07-20 to 2026-07-26, as listed by KAAL",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "County fair schedules",
+     "url": "https://www.kaaltv.com/?p=1142885",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Dodge County Fair",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "County fair in Dodge County, southeast Minnesota.",
+   "dateRule": "Set by fair board.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-15",
+     "endDate": "2026-07-19",
+     "source": "KAAL",
+     "sourceUrl": "https://www.kaaltv.com/?p=1142885",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local farm and family life.",
+   "howCelebratedInMinnesota": "KAAL's roundup gives these dates without stating the year; 2026 is implied.",
+   "minnesotaEvents": [
+    {
+     "name": "Dodge County Fair",
+     "place": "Dodge County",
+     "link": "https://www.kaaltv.com/?p=1142885",
+     "organizerDates": "2026-07-15 to 2026-07-19, as listed by KAAL",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "County fair schedules",
+     "url": "https://www.kaaltv.com/?p=1142885",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Freeborn County Fair",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "County fair in Freeborn County, southeast Minnesota.",
+   "dateRule": "Set by fair board.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-04",
+     "endDate": "2026-08-09",
+     "source": "KAAL",
+     "sourceUrl": "https://www.kaaltv.com/?p=1142885",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local farm and family life.",
+   "howCelebratedInMinnesota": "KAAL's roundup gives these dates without stating the year; 2026 is implied.",
+   "minnesotaEvents": [
+    {
+     "name": "Freeborn County Fair",
+     "place": "Freeborn County",
+     "link": "https://www.kaaltv.com/?p=1142885",
+     "organizerDates": "2026-08-04 to 2026-08-09, as listed by KAAL",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "County fair schedules",
+     "url": "https://www.kaaltv.com/?p=1142885",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Mower County Fair",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "County fair in Mower County, southeast Minnesota.",
+   "dateRule": "Set by fair board.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-11",
+     "endDate": "2026-08-16",
+     "source": "KAAL",
+     "sourceUrl": "https://www.kaaltv.com/?p=1142885",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local farm and family life.",
+   "howCelebratedInMinnesota": "KAAL's roundup gives these dates without stating the year; 2026 is implied.",
+   "minnesotaEvents": [
+    {
+     "name": "Mower County Fair",
+     "place": "Mower County",
+     "link": "https://www.kaaltv.com/?p=1142885",
+     "organizerDates": "2026-08-11 to 2026-08-16, as listed by KAAL",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "County fair schedules",
+     "url": "https://www.kaaltv.com/?p=1142885",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Steele County Fair",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "County fair in Steele County, southeast Minnesota.",
+   "dateRule": "Set by fair board.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-18",
+     "endDate": "2026-08-23",
+     "source": "KAAL",
+     "sourceUrl": "https://www.kaaltv.com/?p=1142885",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local farm and family life.",
+   "howCelebratedInMinnesota": "KAAL's roundup gives these dates without stating the year; 2026 is implied.",
+   "minnesotaEvents": [
+    {
+     "name": "Steele County Fair",
+     "place": "Steele County",
+     "link": "https://www.kaaltv.com/?p=1142885",
+     "organizerDates": "2026-08-18 to 2026-08-23, as listed by KAAL",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "County fair schedules",
+     "url": "https://www.kaaltv.com/?p=1142885",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Firearms deer opener",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Saturday in November when many Minnesota families head to deer camp.",
+   "dateRule": "Set by the DNR; a Saturday in early November.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-07",
+     "endDate": "2026-11-22",
+     "source": "Minnesota DNR",
+     "sourceUrl": "https://www.dnr.state.mn.us/hunting/seasons.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-06",
+     "endDate": "2027-11-21",
+     "source": "Minnesota DNR",
+     "sourceUrl": "https://www.dnr.state.mn.us/hunting/seasons.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of firearms deer season.",
+   "howCelebratedInMinnesota": "The DNR expects more than 400,000 hunters in 2026. End dates shown are for 100 series areas; 200 and 300 series end sooner.",
+   "minnesotaEvents": [
+    {
+     "name": "Firearms deer Season A",
+     "place": "Statewide",
+     "link": "https://www.dnr.state.mn.us/hunting/seasons.html",
+     "organizerDates": "Nov. 7 to 22, 2026 in 100 series; Nov. 7 to 15 in 200 and 300 series",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "DNR outlook",
+     "url": "https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "DNR seasons",
+     "url": "https://www.dnr.state.mn.us/hunting/seasons.html",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Minnesota fishing opener",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "A spring Saturday when anglers return to the lakes.",
+   "dateRule": "Set by the DNR; a Saturday in May.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-09",
+     "endDate": null,
+     "source": "Minnesota DNR",
+     "sourceUrl": "https://www.dnr.state.mn.us/fishing/seasons.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-15",
+     "endDate": null,
+     "source": "Minnesota DNR",
+     "sourceUrl": "https://www.dnr.state.mn.us/fishing/seasons.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-13",
+     "endDate": null,
+     "source": "Minnesota DNR",
+     "sourceUrl": "https://www.dnr.state.mn.us/fishing/seasons.html",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Start of fishing season on Minnesota waters.",
+   "howCelebratedInMinnesota": "Statewide; the DNR page lists a general opener and refers readers to regulations for each species.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "DNR fishing seasons",
+     "url": "https://www.dnr.state.mn.us/fishing/seasons.html",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Governor's Fishing Opener",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "A host town welcomes the governor and anglers on opening weekend.",
+   "dateRule": "Host and dates announced each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-08",
+     "endDate": "2026-05-09",
+     "source": "KAAL, DNR",
+     "sourceUrl": "https://www.kaaltv.com/?p=935157",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-14",
+     "endDate": "2027-05-15",
+     "source": "KSTP",
+     "sourceUrl": "https://kstp.com/?p=3961279",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Tourism and the host town's lakes.",
+   "howCelebratedInMinnesota": "Stillwater hosted in 2026 on the St. Croix; Cold Spring hosts in 2027, centered on Long Lake.",
+   "minnesotaEvents": [
+    {
+     "name": "Governor's Fishing Opener",
+     "place": "Cold Spring",
+     "link": "https://kstp.com/?p=3961279",
+     "organizerDates": "May 14 to 15, 2027",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Cold Spring selected",
+     "url": "https://kstp.com/?p=3961279",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Stillwater host",
+     "url": "https://www.kaaltv.com/?p=935157",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Western Minnesota Steam Threshers Reunion",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Labor Day show of steam threshing, parades and old farm machinery at Rollag.",
+   "dateRule": "Labor Day weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-04",
+     "endDate": "2026-09-07",
+     "source": "Organizer",
+     "sourceUrl": "https://rollag.com/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Older ways of farm work.",
+   "howCelebratedInMinnesota": "Volunteers run it on 210 acres. It began as an informal 1940 gathering and opened to the public in 1954.",
+   "minnesotaEvents": [
+    {
+     "name": "Steam Threshers Reunion",
+     "place": "Rollag",
+     "link": "https://rollag.com/",
+     "organizerDates": "Sept. 4 to 7, 2026; 2027 not yet set",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Rollag",
+     "url": "https://rollag.com/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Kolacky Days",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Montgomery's Czech heritage festival, begun in 1929 as a harvest celebration.",
+   "dateRule": "Late July; organizer announces.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-24",
+     "endDate": "2026-07-26",
+     "source": "KROC News",
+     "sourceUrl": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Czech heritage and harvest.",
+   "howCelebratedInMinnesota": "Events include a prune-spitting contest, a Bohemian tractor pull and a Sunday parade, per organizer Maureen Franek in 2024.",
+   "minnesotaEvents": [
+    {
+     "name": "Kolacky Days",
+     "place": "Montgomery",
+     "link": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "organizerDates": "July 24 to 26, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Festivals list",
+     "url": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MPR spotlight",
+     "url": "https://www.mprnews.org/episode/2024/07/24/summer-festival-spotlight-kolacky-days",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Henderson Sauerkraut Days",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Three days of parades, a kraut run and an eating contest in Henderson.",
+   "dateRule": "Last full weekend of June.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-26",
+     "endDate": "2026-06-28",
+     "source": "Calculated from the stated rule",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-25",
+     "endDate": "2027-06-27",
+     "source": "Explore Minnesota",
+     "sourceUrl": "https://www.exploreminnesota.com/event/sauerkraut-days/4477",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Town food heritage.",
+   "howCelebratedInMinnesota": "Citywide, with a Grand Parade, tractor ride and eating contest.",
+   "minnesotaEvents": [
+    {
+     "name": "Sauerkraut Days",
+     "place": "Henderson",
+     "link": "https://www.exploreminnesota.com/event/sauerkraut-days/4477",
+     "organizerDates": "June 25 to 27, 2027",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sauerkraut Days",
+     "url": "https://www.exploreminnesota.com/event/sauerkraut-days/4477",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Potato Days",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Barnesville's one-day potato festival, with lefse and mashed potato sculpting.",
+   "dateRule": "August; organizer announces.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-22",
+     "endDate": null,
+     "source": "Organizer",
+     "sourceUrl": "https://potatodays.com/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The area's potato farming.",
+   "howCelebratedInMinnesota": "Dates to the late 1930s, with the National Lefse Cookoff.",
+   "minnesotaEvents": [
+    {
+     "name": "Potato Days",
+     "place": "Barnesville",
+     "link": "https://potatodays.com/",
+     "organizerDates": "Aug. 22, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Potato Days",
+     "url": "https://potatodays.com/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Explore Minnesota",
+     "url": "https://www.exploreminnesota.com/event/potato-days-festival/27155",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Blueberry/Art Festival",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Summer arts and blueberry festival in Ely.",
+   "dateRule": "Set by organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-24",
+     "endDate": "2026-07-26",
+     "source": "KROC News",
+     "sourceUrl": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Town life and local history.",
+   "howCelebratedInMinnesota": "Date listing only; details were not read from the organizer.",
+   "minnesotaEvents": [
+    {
+     "name": "Blueberry/Art Festival",
+     "place": "Ely",
+     "link": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "organizerDates": "2026-07-24 to 2026-07-26",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Festivals list",
+     "url": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Buffalo Bill Days",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Lanesboro's summer town festival.",
+   "dateRule": "Set by organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-30",
+     "endDate": "2026-08-02",
+     "source": "KROC News",
+     "sourceUrl": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Town life and local history.",
+   "howCelebratedInMinnesota": "Date listing only; details were not read from the organizer.",
+   "minnesotaEvents": [
+    {
+     "name": "Buffalo Bill Days",
+     "place": "Lanesboro",
+     "link": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "organizerDates": "2026-07-30 to 2026-08-02",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Festivals list",
+     "url": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Gold Rush Days",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Oronoco's summer town festival.",
+   "dateRule": "Set by organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-14",
+     "endDate": "2026-08-16",
+     "source": "KROC News",
+     "sourceUrl": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Town life and local history.",
+   "howCelebratedInMinnesota": "Date listing only; details were not read from the organizer.",
+   "minnesotaEvents": [
+    {
+     "name": "Gold Rush Days",
+     "place": "Oronoco",
+     "link": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "organizerDates": "2026-08-14 to 2026-08-16",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Festivals list",
+     "url": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Defeat of Jesse James Days",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Northfield's festival about the 1876 raid's defeat.",
+   "dateRule": "Set by organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-09",
+     "endDate": "2026-09-13",
+     "source": "KROC News",
+     "sourceUrl": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Town life and local history.",
+   "howCelebratedInMinnesota": "Date listing only; details were not read from the organizer.",
+   "minnesotaEvents": [
+    {
+     "name": "Defeat of Jesse James Days",
+     "place": "Northfield",
+     "link": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "organizerDates": "2026-09-09 to 2026-09-13",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Festivals list",
+     "url": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Johnny Appleseed Festival",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "La Crescent's fall apple festival.",
+   "dateRule": "Set by organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-18",
+     "endDate": "2026-09-20",
+     "source": "KROC News",
+     "sourceUrl": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Town life and local history.",
+   "howCelebratedInMinnesota": "Date listing only; details were not read from the organizer.",
+   "minnesotaEvents": [
+    {
+     "name": "Johnny Appleseed Festival",
+     "place": "La Crescent",
+     "link": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "organizerDates": "2026-09-18 to 2026-09-20",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Festivals list",
+     "url": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Wilder Pageant",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Outdoor pageant in Walnut Grove tied to Laura Ingalls Wilder.",
+   "dateRule": "Summer; organizer announces.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-17",
+     "endDate": "2026-07-18",
+     "source": "KROC News",
+     "sourceUrl": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local pioneer story.",
+   "howCelebratedInMinnesota": "KROC also lists Aug. 24 to 25, 2026, which falls on weekdays and could not be confirmed from the organizer.",
+   "minnesotaEvents": [
+    {
+     "name": "Wilder Pageant",
+     "place": "Walnut Grove",
+     "link": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "organizerDates": "July 17 to 18 and Aug. 24 to 25, 2026, as listed by KROC",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Festivals list",
+     "url": "https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-drive/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Fall harvest",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Months of long days in fields and beet piles across Minnesota.",
+   "dateRule": "Varies with crop and weather, roughly September through early November.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The year's work coming in.",
+   "howCelebratedInMinnesota": "Not a single event. American Crystal finished its beet harvest Oct. 24, 2026. Southern Minnesota was 65 percent corn and 93 percent soybeans by Oct. 25, 2026.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Southern Minnesota harvest",
+     "url": "https://www.agweek.com/crops/southern-minnesota-harvest-pushes-ahead",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "American Crystal",
+     "url": "https://www.agweek.com/news/sugarbeet/american-crystal-wraps-up-2026-harvest",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "National Rural Health Day and Rural Health Policy Summit",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "A November day for rural health, marked in St. Cloud by a policy summit.",
+   "dateRule": "National Rural Health Day; rule not read from a national source.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-19",
+     "endDate": null,
+     "source": "Minnesota Rural Health Association",
+     "sourceUrl": "https://www.mnruralhealth.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Rural health care and its workers.",
+   "howCelebratedInMinnesota": "2nd Annual summit at the Best Western Kelly Inn, St. Cloud, 9 a.m. to 4:30 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Rural Health Policy Summit",
+     "place": "St. Cloud",
+     "link": "https://www.mnruralhealth.org/",
+     "organizerDates": "Nov. 19, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MRHA",
+     "url": "https://www.mnruralhealth.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Agriculture Day",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "A March day proclaimed to recognize farming.",
+   "dateRule": "Proclaimed yearly; date not fixed in the source.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-24",
+     "endDate": null,
+     "source": "KFGO",
+     "sourceUrl": "https://www.kfgo.com/2026/03/24/governor-walz-presses-trump-administration-for-tariff-relief-warns-of-bankrukptcies-on-national-ag-day/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Farming and its trade concerns.",
+   "howCelebratedInMinnesota": "Gov. Walz proclaimed March 24, 2026, as Agriculture Day and used it to press for tariff relief.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Walz on Ag Day",
+     "url": "https://www.kfgo.com/2026/03/24/governor-walz-presses-trump-administration-for-tariff-relief-warns-of-bankrukptcies-on-national-ag-day/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Judy Garland Fan Festival",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Grand Rapids festival honoring its famous daughter.",
+   "dateRule": "Set by museum.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Local history and film.",
+   "howCelebratedInMinnesota": "The museum lists a 2026 Fan Festival but the page gives no dates.",
+   "minnesotaEvents": [
+    {
+     "name": "Fan Festival",
+     "place": "Grand Rapids",
+     "link": "https://www.judygarlandmuseum.com/",
+     "organizerDates": "2026, dates not stated",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Judy Garland Museum",
+     "url": "https://www.judygarlandmuseum.com/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Sweet Beet 5K",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "A farmer-owned sugar cooperative's run and walk in Renville.",
+   "dateRule": "Set by organizer.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-06",
+     "endDate": null,
+     "source": "SMBSC",
+     "sourceUrl": "https://www.smbsc.com/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A cooperative's community tie.",
+   "howCelebratedInMinnesota": "Run and walk promoted by Southern Minnesota Beet Sugar Cooperative.",
+   "minnesotaEvents": [
+    {
+     "name": "Sweet Beet 5K",
+     "place": "Renville",
+     "link": "https://www.smbsc.com/",
+     "organizerDates": "June 6, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "SMBSC",
+     "url": "https://www.smbsc.com/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Minnesota Farmers Union State Convention",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Yearly meeting where farm members set policy.",
+   "dateRule": "Set by organizer.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-20",
+     "endDate": "2026-11-22",
+     "source": "Minnesota Farmers Union",
+     "sourceUrl": "https://www.mfu.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Member policy and organizing.",
+   "howCelebratedInMinnesota": "At the Delta Hotel Minneapolis Northeast in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "MFU State Convention",
+     "place": "Minneapolis",
+     "link": "https://www.mfu.org/",
+     "organizerDates": "Nov. 20 to 22, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MFU",
+     "url": "https://www.mfu.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Greater Education Summit",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Rural education leaders meet in November.",
+   "dateRule": "Set by organizer.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-15",
+     "endDate": "2026-11-17",
+     "source": "Minnesota Rural Education Association",
+     "sourceUrl": "https://www.mreavoice.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Rural schooling.",
+   "howCelebratedInMinnesota": "Place not stated on the page.",
+   "minnesotaEvents": [
+    {
+     "name": "Greater Education Summit",
+     "place": "Not stated",
+     "link": "https://www.mreavoice.org/",
+     "organizerDates": "Nov. 15 to 17, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MREA",
+     "url": "https://www.mreavoice.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}

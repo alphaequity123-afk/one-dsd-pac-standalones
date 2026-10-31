@@ -2713,21 +2713,6 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:timkat-2027-01-19@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-SUMMARY:Timkat
-DESCRIPTION:Baptism of Jesus in the Ethiopian Orthodox tradition. Date: T
- ir 11 on the Ethiopian calendar\, usually January 19. One guide says alwa
- ys January 19\; the calendar calculation gives January 20 in 2028. Source
- : We Blog The World https://weblogtheworld.com/countries/africa-africa/ti
- mkat-ethiopia-epiphany-sacred-water-festival Communities: Ethiopian Minne
- sota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:feast-of-san-pablo-2027-01-25@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270125

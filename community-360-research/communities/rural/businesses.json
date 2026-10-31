@@ -1,0 +1,582 @@
+[
+ {
+  "name": "Hormel Foods",
+  "type": "food manufacturer",
+  "neighborhoodOrCity": "Austin",
+  "whatItIs": "Meat and food company founded in Austin in 1891; flagship plant there.",
+  "link": "https://www.hormelfoods.com/about/our-history/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "History page lists a president named in 2025, a 2025 impact report and a 2026 footer."
+ },
+ {
+  "name": "SPAM Museum",
+  "type": "museum",
+  "neighborhoodOrCity": "Austin",
+  "whatItIs": "Free museum run by Hormel's SPAM brand.",
+  "link": "https://www.spam.com/museum/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Lists daily hours, 10 a.m. to 4 p.m., and a 2026 footer."
+ },
+ {
+  "name": "August Schell Brewing Company",
+  "type": "brewery and restaurant",
+  "neighborhoodOrCity": "New Ulm",
+  "whatItIs": "Family brewery founded in 1860, with a Bierhalle and seasonal Biergarten.",
+  "link": "https://www.schellsbrewery.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Current Bierhalle hours and events listed for November and December."
+ },
+ {
+  "name": "Southern Minnesota Beet Sugar Cooperative",
+  "type": "farmer-owned cooperative",
+  "neighborhoodOrCity": "Renville",
+  "whatItIs": "Sugar cooperative with over 500 shareholders.",
+  "link": "https://www.smbsc.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Promotes a June 6, 2026 Sweet Beet 5K and lists current jobs."
+ },
+ {
+  "name": "American Crystal Sugar",
+  "type": "farmer-owned cooperative",
+  "neighborhoodOrCity": "Moorhead, with plants in Crookston and East Grand Forks",
+  "whatItIs": "Grower-owned sugar company in the Red River Valley.",
+  "link": "https://www.agweek.com/news/sugarbeet/american-crystal-wraps-up-2026-harvest",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Agweek, Oct. 29, 2026, reports its 2026 harvest finished Oct. 24."
+ },
+ {
+  "name": "Central Boiler",
+  "type": "manufacturer",
+  "neighborhoodOrCity": "Greenbush",
+  "whatItIs": "Maker of outdoor wood furnaces.",
+  "link": "https://centralboiler.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Site shows an April 2026 rebate banner file and a 2025 footer."
+ },
+ {
+  "name": "DigiKey",
+  "type": "electronics distributor",
+  "neighborhoodOrCity": "Thief River Falls",
+  "whatItIs": "Electronic parts distributor begun in 1972; reports 4,700+ employees.",
+  "link": "https://www.digikey.com/en/resources/about-digikey",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2026 copyright footer and a local office address; no dated item."
+ },
+ {
+  "name": "Paul Bunyan Communications",
+  "type": "telephone and broadband provider",
+  "neighborhoodOrCity": "Bemidji and Grand Rapids",
+  "whatItIs": "Fiber internet provider with a Cooperative section on its site.",
+  "link": "https://www.paulbunyan.net/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "2026 footer and 2026 image files; its news section held placeholder text."
+ },
+ {
+  "name": "East Central Energy",
+  "type": "electric cooperative",
+  "neighborhoodOrCity": "Between Minneapolis and Duluth",
+  "whatItIs": "Signed the state's first federal BEAD broadband contract.",
+  "link": "https://broadbandbreakfast.com/minnesotas-first-bead-contract-lands/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Broadband Breakfast, July 30, 2026."
+ },
+ {
+  "name": "Great River Energy",
+  "type": "electric cooperative",
+  "neighborhoodOrCity": "Minnesota",
+  "whatItIs": "Member-owner electric cooperative.",
+  "link": "https://www.greatriverenergy.com/about-us/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Page describes member-owners but shows no dated item."
+ },
+ {
+  "name": "Steele-Waseca Cooperative Electric",
+  "type": "electric cooperative",
+  "neighborhoodOrCity": "Steele and Waseca area",
+  "whatItIs": "Member-owned electric utility.",
+  "link": "https://www.ruralmn.org/in-praise-of-cooperatives/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only source is a 2019 post by its general manager."
+ },
+ {
+  "name": "CHS",
+  "type": "farmer-owned cooperative",
+  "neighborhoodOrCity": "Inver Grove Heights, serving rural communities",
+  "whatItIs": "Cooperative owned by farmers and local co-ops; operates in over 450 U.S. communities by its own count.",
+  "link": "https://www.chsinc.com/about-us",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "2026 footer and image files, no dated post."
+ },
+ {
+  "name": "Bongards Creameries",
+  "type": "farmer-owned dairy cooperative",
+  "neighborhoodOrCity": "Retail stores in Bongards and Perham",
+  "whatItIs": "Cheese and whey cooperative dating to 1908.",
+  "link": "https://www.bongards.com/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2026 copyright footer."
+ },
+ {
+  "name": "Harmony Foods Co-op",
+  "type": "grocery cooperative",
+  "neighborhoodOrCity": "Bemidji",
+  "whatItIs": "Community-owned grocery.",
+  "link": "https://www.harmonyfoods.coop/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Hours 8 a.m. to 8 p.m. and November 2026 classes."
+ },
+ {
+  "name": "Natural Harvest Food Co-op",
+  "type": "grocery cooperative",
+  "neighborhoodOrCity": "Virginia",
+  "whatItIs": "Community-owned grocery on the Iron Range.",
+  "link": "https://www.naturalharvest.coop/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Lists regular weekday and weekend hours."
+ },
+ {
+  "name": "Worthington Farmers Market",
+  "type": "market",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Seasonal farmers market.",
+  "link": "https://www.dglobe.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Headline on The Globe's front page, Oct. 30, 2026, says the season is wrapping up."
+ },
+ {
+  "name": "Brown's Shoe Fit",
+  "type": "retail",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Shoe store under a new owner.",
+  "link": "https://www.dglobe.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Headline on The Globe's front page, Oct. 30, 2026."
+ },
+ {
+  "name": "Uptown Willmar mall",
+  "type": "mall",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Indoor mall offered at public auction.",
+  "link": "https://www.wctrib.com/news/local/uptown-willmar-mall-did-not-sell-at-public-auction",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Did not sell at auction Oct. 28, 2026; article names no tenants."
+ },
+ {
+  "name": "Paul Bunyan Mall",
+  "type": "mall",
+  "neighborhoodOrCity": "Bemidji",
+  "whatItIs": "One-level shopping mall.",
+  "link": "https://www.paulbunyanmall.com/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Footer reads 2019; no dated listings."
+ },
+ {
+  "name": "Betty's Pies",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Two Harbors",
+  "whatItIs": "Pie shop and cafe that traces its roots to the 1950s.",
+  "link": "https://bettyspies.com/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Footer reads 2020 and hours are referred to Facebook."
+ },
+ {
+  "name": "Franke's Bakery",
+  "type": "bakery",
+  "neighborhoodOrCity": "Montgomery",
+  "whatItIs": "Makes kolaches sold at Kolacky Days.",
+  "link": "https://www.mprnews.org/episode/2024/07/24/summer-festival-spotlight-kolacky-days",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only source is from July 2024."
+ },
+ {
+  "name": "Hoot & Ole's",
+  "type": "restaurant or venue",
+  "neighborhoodOrCity": "Austin",
+  "whatItIs": "Hosted a chamber Business After Hours.",
+  "link": "https://www.austincoc.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Chamber recap of the event dated May 13, 2026; the page does not say what kind of business it is."
+ },
+ {
+  "name": "Tulip Tree Marketing",
+  "type": "professional firm",
+  "neighborhoodOrCity": "Austin area",
+  "whatItIs": "Marketing firm; a chamber member.",
+  "link": "https://www.austincoc.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Chamber blog post dated Sept. 21, 2026."
+ },
+ {
+  "name": "Minnwest Bank",
+  "type": "bank",
+  "neighborhoodOrCity": "Greater Minnesota",
+  "whatItIs": "Business, agricultural and personal banking.",
+  "link": "https://www.minnwestbank.com/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2026 copyright footer."
+ },
+ {
+  "name": "AgCountry Farm Credit Services",
+  "type": "farm lender",
+  "neighborhoodOrCity": "Fargo, serving Minnesota farmers",
+  "whatItIs": "Customer-owned lender to farmers and ranchers.",
+  "link": "https://www.agcountry.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sept. 7 holiday notice and a 2026-named article."
+ },
+ {
+  "name": "Coldspring",
+  "type": "granite and memorials",
+  "neighborhoodOrCity": "Cold Spring",
+  "whatItIs": "Natural stone quarrier and fabricator.",
+  "link": "https://www.coldspringusa.com/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2026 copyright footer."
+ },
+ {
+  "name": "Jennie-O Turkey Store",
+  "type": "food manufacturer",
+  "neighborhoodOrCity": "Location not stated on the page",
+  "whatItIs": "Turkey brand tied to Hormel by its footer links.",
+  "link": "https://www.jennieo.com/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2026 copyright footer; Willmar not mentioned."
+ },
+ {
+  "name": "JBS Worthington",
+  "type": "meat plant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Pork plant and the city's largest employer as of 2018.",
+  "link": "https://www.mnhs.org/unraveled/episode-109",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "MNHS podcast, March 6, 2025, describes current workers there."
+ },
+ {
+  "name": "American Food Groups",
+  "type": "meat plant",
+  "neighborhoodOrCity": "Long Prairie",
+  "whatItIs": "Meat packing plant with a largely immigrant workforce.",
+  "link": "https://sahanjournal.com/immigration/haitian-tps-humanitarian-parole-job-loss-immigration-status/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Aug. 4, 2025."
+ },
+ {
+  "name": "Quality Pork Processors",
+  "type": "meat plant",
+  "neighborhoodOrCity": "Austin",
+  "whatItIs": "Pork plant employing immigrants.",
+  "link": "https://sahanjournal.com/immigration/us-2020-census-minnesota-diversity-immigrants-worthington-austin/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Newest source is from 2021."
+ },
+ {
+  "name": "Select Foods",
+  "type": "pork processor",
+  "neighborhoodOrCity": "Albert Lea",
+  "whatItIs": "Named as an employer of Karen workers.",
+  "link": "https://sahanjournal.com/immigration/lured-by-jobs-and-housing-karen-refugees-spread-across-minnesota/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only source is from 2019."
+ },
+ {
+  "name": "Viracon",
+  "type": "glass manufacturer",
+  "neighborhoodOrCity": "Owatonna",
+  "whatItIs": "Named as an employer of Karen workers.",
+  "link": "https://sahanjournal.com/immigration/lured-by-jobs-and-housing-karen-refugees-spread-across-minnesota/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only source is from 2019."
+ },
+ {
+  "name": "Hibbing Taconite",
+  "type": "mine",
+  "neighborhoodOrCity": "Hibbing",
+  "whatItIs": "Taconite operation on partial idle, running one of three pellet lines.",
+  "link": "https://www.mesabitribune.com/news/local/hibbing-taconite-miners-get-ui-extension/article_e4a976b6-0d50-4112-a8c1-716bb4b8f798.html",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Mesabi Tribune, May 19, 2026, describes reduced operation."
+ },
+ {
+  "name": "Minorca Mine",
+  "type": "mine",
+  "neighborhoodOrCity": "Near Virginia",
+  "whatItIs": "Cleveland-Cliffs taconite mine.",
+  "link": "https://www.mesabitribune.com/news/local/hibbing-taconite-miners-get-ui-extension/article_e4a976b6-0d50-4112-a8c1-716bb4b8f798.html",
+  "dateChecked": "2026-10-30",
+  "status": "closed",
+  "evidence": "On indefinite idle per Mesabi Tribune, May 19, 2026; not a permanent closure notice."
+ },
+ {
+  "name": "United Hospital District",
+  "type": "hospital",
+  "neighborhoodOrCity": "Blue Earth",
+  "whatItIs": "Critical access hospital and birth center.",
+  "link": "https://www.kclu.org/2026-09-08/one-rural-hospital-offers-hope-amid-nationwide-rural-maternity-ward-closures",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "NPR report, Sept. 8, 2026."
+ },
+ {
+  "name": "Lake Region Healthcare",
+  "type": "hospital",
+  "neighborhoodOrCity": "Town not stated on the page",
+  "whatItIs": "Backs the state's rural maternity project.",
+  "link": "https://www.wctrib.com/news/minnesota/lake-region-healthcare-joins-statewide-effort-to-strengthen-rural-maternity-care",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "West Central Tribune, Oct. 29, 2026."
+ },
+ {
+  "name": "Sanford Worthington Medical Center",
+  "type": "hospital",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Hospital hosting a Nov. 5 blood drive.",
+  "link": "https://www.dglobe.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Headline on The Globe's front page, Oct. 30, 2026."
+ },
+ {
+  "name": "Northfield Hospital",
+  "type": "hospital",
+  "neighborhoodOrCity": "Northfield",
+  "whatItIs": "Hospital with growing births and a midwife program.",
+  "link": "https://www.mprnews.org/episode/2025/10/23/the-state-of-labor-and-delivery-services-in-southern-minnesota",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "MPR News, Oct. 23, 2025."
+ },
+ {
+  "name": "Cornerstone Nursing and Rehab",
+  "type": "nursing home",
+  "neighborhoodOrCity": "Bagley, Fosston and Kelliher",
+  "whatItIs": "Rural nursing care provider.",
+  "link": "https://www.ruralmn.org/wp-content/uploads/2024/11/The-declining-capacity-of-nursing-facility-beds-in-rural-Minnesota.pdf",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only source is from November 2024."
+ },
+ {
+  "name": "United Community Action Partnership",
+  "type": "nonprofit transit and services",
+  "neighborhoodOrCity": "Marshall",
+  "whatItIs": "Transit, volunteer drivers, Head Start and more across southwest Minnesota.",
+  "link": "https://rhrc.umn.edu/wp-content/uploads/2026/01/Case-study_transportation_disability_Jan-2026-1.pdf",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "University of Minnesota case series, January 2026."
+ },
+ {
+  "name": "SMILES Center for Independent Living",
+  "type": "disability services",
+  "neighborhoodOrCity": "Mankato, Fairmont, New Ulm, Waseca",
+  "whatItIs": "Independent living center serving Region 9.",
+  "link": "https://www.smilescil.org/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Lists offices and services but no dated item."
+ },
+ {
+  "name": "Access North",
+  "type": "disability services",
+  "neighborhoodOrCity": "Hibbing, Duluth, Brainerd",
+  "whatItIs": "Independent living center adding home and community services.",
+  "link": "https://www.accessnorth.net/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Current lobby hours, open positions and a 2026 footer."
+ },
+ {
+  "name": "The Timberjay",
+  "type": "newspaper",
+  "neighborhoodOrCity": "Tower",
+  "whatItIs": "Local paper for northern St. Louis County.",
+  "link": "https://www.timberjay.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Oct. 30, 2026 e-edition."
+ },
+ {
+  "name": "The Globe",
+  "type": "newspaper",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Local daily news site.",
+  "link": "https://www.dglobe.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Front page dated Oct. 30, 2026."
+ },
+ {
+  "name": "West Central Tribune",
+  "type": "newspaper",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Regional news site.",
+  "link": "https://www.wctrib.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Front page dated Oct. 30, 2026."
+ },
+ {
+  "name": "Marshall Independent",
+  "type": "newspaper",
+  "neighborhoodOrCity": "Marshall",
+  "whatItIs": "Local news site.",
+  "link": "https://www.marshallindependent.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Front page dated Oct. 30, 2026."
+ },
+ {
+  "name": "Mesabi Tribune",
+  "type": "newspaper",
+  "neighborhoodOrCity": "Iron Range",
+  "whatItIs": "Regional news.",
+  "link": "https://www.mesabitribune.com/news/local/hibbing-taconite-miners-get-ui-extension/article_e4a976b6-0d50-4112-a8c1-716bb4b8f798.html",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Article dated May 19, 2026."
+ },
+ {
+  "name": "Agweek",
+  "type": "farm media",
+  "neighborhoodOrCity": "Regional",
+  "whatItIs": "Farm news.",
+  "link": "https://www.agweek.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Front page dated Oct. 30, 2026."
+ },
+ {
+  "name": "KAXE/KBXE",
+  "type": "community radio",
+  "neighborhoodOrCity": "Northern Minnesota",
+  "whatItIs": "Calls itself the oldest rural community radio station in the U.S.",
+  "link": "https://www.kaxe.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Stories dated Oct. 26 to 30, 2026."
+ },
+ {
+  "name": "Pioneer PBS",
+  "type": "public television",
+  "neighborhoodOrCity": "Granite Falls",
+  "whatItIs": "Public television for western Minnesota.",
+  "link": "https://www.pioneer.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Schedule from Oct. 30 through Nov. 3 with a Vote 2026 special."
+ },
+ {
+  "name": "Commonweal Theatre Company",
+  "type": "theater",
+  "neighborhoodOrCity": "Lanesboro",
+  "whatItIs": "Professional theater since 1989.",
+  "link": "https://www.commonwealtheatre.org/about",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Lists five plays in its 38th season, which by counting from 1989 falls in 2026; footer reads 2025."
+ },
+ {
+  "name": "Lanesboro Arts",
+  "type": "arts center",
+  "neighborhoodOrCity": "Lanesboro",
+  "whatItIs": "Gallery and arts programs.",
+  "link": "https://www.lanesboroarts.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Nov. 7 concert and application deadline of Dec. 31, 2026."
+ },
+ {
+  "name": "Hjemkomst Center",
+  "type": "museum",
+  "neighborhoodOrCity": "Moorhead",
+  "whatItIs": "Clay County museum with Viking ship and stave church replica.",
+  "link": "https://www.hcscconline.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Current hours and Pangea 2026 listing."
+ },
+ {
+  "name": "U.S. Hockey Hall of Fame",
+  "type": "museum",
+  "neighborhoodOrCity": "Eveleth (suggested by the page, not stated)",
+  "whatItIs": "Hockey museum.",
+  "link": "https://www.ushockeyhall.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Lists seasonal hours and 2025 inductees."
+ },
+ {
+  "name": "Judy Garland Museum",
+  "type": "museum",
+  "neighborhoodOrCity": "Grand Rapids",
+  "whatItIs": "Museum in Garland's birthplace city.",
+  "link": "https://www.judygarlandmuseum.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "2026 open-hours poster and 2026 Fan Festival listing."
+ },
+ {
+  "name": "Minnesota Discovery Center",
+  "type": "museum",
+  "neighborhoodOrCity": "Chisholm",
+  "whatItIs": "Museum and research center on the Iron Range.",
+  "link": "https://www.mndiscoverycenter.org/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Describes programs but shows no dated item on the page."
+ },
+ {
+  "name": "Hibbing Area Chamber of Commerce",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "Hibbing",
+  "whatItIs": "Business chamber.",
+  "link": "https://www.hibbing.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Lists office hours and a 2026 footer."
+ },
+ {
+  "name": "Austin Area Chamber of Commerce",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "Austin",
+  "whatItIs": "Business chamber.",
+  "link": "https://www.austincoc.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Events through Nov. 10, 2026."
+ }
+]
