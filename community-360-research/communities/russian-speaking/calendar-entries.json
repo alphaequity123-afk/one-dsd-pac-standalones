@@ -1,0 +1,447 @@
+{
+ "community": "russian-speaking",
+ "entries": [
+  {
+   "seedId": "orthodox-christmas-julian-calendar",
+   "name": "Orthodox Christmas (Julian calendar)",
+   "alsoKnownAs": [
+    "Rozhdestvo",
+    "Nativity of Christ"
+   ],
+   "kind": "religious",
+   "capsule": "Christmas for Russian Orthodox parishes that keep the Julian calendar, falling on January 7.",
+   "dateRule": "December 25 on the Julian calendar, which is January 7 on the Gregorian calendar from 1900 to 2099. The 2026 holiday season's Christmas falls on January 7, 2027.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2027-01-07",
+     "endDate": null,
+     "source": "Calculated: Dec. 25 Julian = Jan. 7 Gregorian",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2028-01-07",
+     "endDate": null,
+     "source": "Calculated: Dec. 25 Julian = Jan. 7 Gregorian",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2029-01-07",
+     "endDate": null,
+     "source": "Calculated: Dec. 25 Julian = Jan. 7 Gregorian",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The birth of Jesus, for churches that follow the Julian calendar.",
+   "howCelebratedInMinnesota": "Russian Orthodox parishes in Minneapolis and Fridley (St. Panteleimon; Resurrection of Christ Church and Skete) post service schedules in Russian and English, but no 2027 Christmas schedule was posted when checked. Many Russian-speaking households are Jewish, Protestant or not religious and do not keep this date.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "St. Panteleimon Church",
+     "url": "https://spro.church/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Resurrection of Christ Church and Skete",
+     "url": "https://www.resurrectionskete.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "orthodox-easter",
+   "name": "Orthodox Easter (Pascha)",
+   "alsoKnownAs": [
+    "Paskha",
+    "Pascha"
+   ],
+   "kind": "religious",
+   "capsule": "The most important Orthodox Christian feast, usually later than Western Easter; April 12 in 2026, May 2 in 2027.",
+   "dateRule": "First Sunday after the first full moon on or after the spring equinox, reckoned on the Julian calendar.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-12",
+     "endDate": null,
+     "source": "American Carpatho-Russian Orthodox Diocese",
+     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-02",
+     "endDate": null,
+     "source": "American Carpatho-Russian Orthodox Diocese",
+     "sourceUrl": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "TrueCalendar",
+     "sourceUrl": "https://truecalendar.com/orthodox-easter-dates/2028",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The resurrection of Jesus in Eastern Christian tradition.",
+   "howCelebratedInMinnesota": "Kept by Russian Orthodox parishes such as St. Panteleimon in Minneapolis and Resurrection of Christ in Fridley, and by Orthodox Church in America parishes. No dated Minnesota Pascha event for Russian speakers was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Holy Pascha & Other Movable Feasts",
+     "url": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Orthodox Easter Sunday in 2028",
+     "url": "https://truecalendar.com/orthodox-easter-dates/2028",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "victory-day-may-9",
+   "name": "Victory Day (May 9)",
+   "alsoKnownAs": [
+    "Den Pobedy"
+   ],
+   "kind": "remembrance",
+   "capsule": "Soviet memory of victory in World War II in Europe; honored by some elders, contested by others since 2022.",
+   "dateRule": "May 9 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-09",
+     "endDate": null,
+     "source": "Fixed date (no opened page states it)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-09",
+     "endDate": null,
+     "source": "Fixed date (no opened page states it)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-09",
+     "endDate": null,
+     "source": "Fixed date (no opened page states it)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The 1945 end of the Second World War in Europe, as remembered in the Soviet Union and its successor states.",
+   "howCelebratedInMinnesota": "No public Minnesota Victory Day event was found for 2025 or 2026. War memory appears in community life in other ways: a 2010 documentary by Minnesota's VOICE program on Soviet Jewish soldiers, and readers' World War II memories in Zerkalo magazine (2016).",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "The VOICES of Minnesota's Soviet Jews",
+     "url": "https://tcjewfolk.com/2010/06/02/voices-minnesotas-soviet-jews-inspiration-film/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Mirror on the Midwest: Zerkalo",
+     "url": "https://tcbmag.com/mirror-on-the-midwest-russian-language-zerkalo-celebrates-25-years-in-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "new-year-novy-god",
+   "name": "New Year (Novy God)",
+   "alsoKnownAs": [
+    "Novy God"
+   ],
+   "kind": "cultural",
+   "capsule": "The big secular winter holiday of Soviet times, with a decorated tree and Grandfather Frost; still central for some families.",
+   "dateRule": "January 1, with the main celebration on the night of December 31.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-01",
+     "endDate": null,
+     "source": "Fixed date (no opened page states it)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-01",
+     "endDate": null,
+     "source": "Fixed date (no opened page states it)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-01",
+     "endDate": null,
+     "source": "Fixed date (no opened page states it)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The new year; in Soviet times it replaced Christmas as the main family winter holiday.",
+   "howCelebratedInMinnesota": "Mostly at home. Staff at Smak, an Anoka grocery, told Macalester students that although New Year's is traditionally the biggest holiday, families here often adopt Christmas-season habits; the store is busiest at Thanksgiving and Christmas. No public 2025 or 2026 Minnesota New Year (yolka) event was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Twin Cities Guide for Russian Speakers (Macalester College)",
+     "url": "https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Maslenitsa (Butter Week)",
+   "alsoKnownAs": [
+    "Butter Week",
+    "Cheesefare Week"
+   ],
+   "kind": "cultural",
+   "capsule": "A pancake-filled farewell to winter in the week before Orthodox Lent; TMORA held a blini and folk-song evening in 2026.",
+   "dateRule": "The week before Orthodox Great Lent, ending the Sunday 49 days before Pascha. Dates shown are the week of Maslenitsa; organizers choose their own event days.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-16",
+     "endDate": "2026-02-22",
+     "source": "Calculated from Pascha April 12, 2026",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-08",
+     "endDate": "2027-03-14",
+     "source": "Calculated from Pascha May 2, 2027",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-21",
+     "endDate": "2028-02-27",
+     "source": "Calculated from Pascha April 16, 2028",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The end of winter and the last week before the Lenten fast, with blini (pancakes), songs and games.",
+   "howCelebratedInMinnesota": "The Museum of Russian Art held 'Maslenitsa: Russian Pancakes & Songs' with its folk group Nitka at its Education Center on Feb. 17, 2026 ($35 members, $40 others). St. Panteleimon Russian Orthodox Church also holds Maslenitsa events, according to Macalester's guide.",
+   "minnesotaEvents": [
+    {
+     "name": "Maslenitsa: Russian Pancakes & Songs",
+     "place": "TMORA Education Center, 5904 Pleasant Ave. S., Minneapolis",
+     "link": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "organizerDates": "Tuesday, Feb. 17, 2026, 6:00-7:30 p.m. (TMORA)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Maslenitsa: Russian Pancakes & Songs",
+     "url": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Twin Cities Guide for Russian Speakers",
+     "url": "https://www.arcgis.com/sharing/rest/content/items/74be859446ff445bae1afeebcf66a5b7/data?f=json",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Holy Pascha & Other Movable Feasts",
+     "url": "https://www.acrod.org/prayercorner/movablefeasts/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Maslenitsa at TMORA (2026 event)",
+   "alsoKnownAs": [
+    "Maslenitsa: Russian Pancakes & Songs"
+   ],
+   "kind": "community festival",
+   "capsule": "Blini, tea and Russian village songs by the folk group Nitka at the Museum of Russian Art's Education Center.",
+   "dateRule": "Announced each year by The Museum of Russian Art.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-17",
+     "endDate": null,
+     "source": "The Museum of Russian Art",
+     "sourceUrl": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Maslenitsa, the farewell to winter before Lent.",
+   "howCelebratedInMinnesota": "Evening program, 6:00-7:30 p.m., with blini and toppings, tea, sweets and songs by Nitka; advance registration.",
+   "minnesotaEvents": [
+    {
+     "name": "Maslenitsa: Russian Pancakes & Songs",
+     "place": "TMORA Education Center, 5904 Pleasant Ave. S., Minneapolis",
+     "link": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "organizerDates": "Feb. 17, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Maslenitsa: Russian Pancakes & Songs",
+     "url": "https://tmora.org/programs/maslenitsa-russian-pancakes-songs/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "St. Panteleimon Patronal Feast (Minneapolis)",
+   "alsoKnownAs": [
+    "Feast of St. Panteleimon the Healer"
+   ],
+   "kind": "religious",
+   "capsule": "Minneapolis's Russian Orthodox parish honors its patron saint each August with vigil, liturgy, procession and a banquet.",
+   "dateRule": "Feast of St. Panteleimon, July 27 on the Julian calendar (August 9 Gregorian), with the vigil the evening before. The parish sets its own celebration days.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-08",
+     "endDate": "2026-08-09",
+     "source": "St. Panteleimon Russian Orthodox Church",
+     "sourceUrl": "https://spro.church/celebration-of-patronal-feast-and-70th-anniversary-of-st-panteleimon-parish/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-09",
+     "endDate": null,
+     "source": "Calculated: July 27 Julian",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-09",
+     "endDate": null,
+     "source": "Calculated: July 27 Julian",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The parish's patron saint, a healer; in 2026 also the parish's 70th anniversary (1956-2026).",
+   "howCelebratedInMinnesota": "In 2026 Bishop Spyridon of Chicago and Mid-America led an all-night vigil on Aug. 8 and a Divine Liturgy, cross procession and banquet on Aug. 9, with clergy from Fridley, Fargo, Ann Arbor and Des Plaines.",
+   "minnesotaEvents": [
+    {
+     "name": "Patronal Feast and 70th Anniversary",
+     "place": "St. Panteleimon Russian Orthodox Church, 2210 Franklin Ave. SE, Minneapolis",
+     "link": "https://spro.church/celebration-of-patronal-feast-and-70th-anniversary-of-st-panteleimon-parish/",
+     "organizerDates": "Aug. 8-9, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebration of Patronal Feast and 70th Anniversary",
+     "url": "https://spro.church/celebration-of-patronal-feast-and-70th-anniversary-of-st-panteleimon-parish/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Anniversary of Russia's full-scale invasion of Ukraine",
+   "alsoKnownAs": [
+    "February 24"
+   ],
+   "kind": "remembrance",
+   "capsule": "A painful date for many Russian-speaking households; marked in Minnesota with vigils and anti-war gatherings.",
+   "dateRule": "February 24 each year (2022 invasion).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-24",
+     "endDate": null,
+     "source": "CCX Media (fixed anniversary date)",
+     "sourceUrl": "https://ccxmedia.org/news/plymouth-newspaper-keeps-russian-speaking-immigrants-informed-on-ukraine/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-24",
+     "endDate": null,
+     "source": "CCX Media (fixed anniversary date)",
+     "sourceUrl": "https://ccxmedia.org/news/plymouth-newspaper-keeps-russian-speaking-immigrants-informed-on-ukraine/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-24",
+     "endDate": null,
+     "source": "CCX Media (fixed anniversary date)",
+     "sourceUrl": "https://ccxmedia.org/news/plymouth-newspaper-keeps-russian-speaking-immigrants-informed-on-ukraine/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The start of the full-scale war in 2022, which divided some families and friendships and brought new arrivals from both Ukraine and Russia.",
+   "howCelebratedInMinnesota": "On the first anniversary in 2023, the Lowry Avenue Bridge in Minneapolis was lit blue and gold and a candlelight vigil was held there; Zerkalo's publisher planned to attend. Russian anti-war protests were held at the State Capitol in 2023. This is a remembrance, not a celebration; the Ukrainian community page covers its own observances.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Plymouth Newspaper Keeps Russian-Speaking Immigrants Informed on Ukraine",
+     "url": "https://ccxmedia.org/news/plymouth-newspaper-keeps-russian-speaking-immigrants-informed-on-ukraine/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Anti-war Russians fleeing home are finding their way to Minnesota",
+     "url": "https://www.stripes.com/theaters/us/2023-04-12/antiwar-russians-flee-homeland-resettle-minnesota-9781406.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}
