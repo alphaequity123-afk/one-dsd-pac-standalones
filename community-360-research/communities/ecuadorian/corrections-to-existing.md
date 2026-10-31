@@ -1,0 +1,58 @@
+# Corrections to the existing Ecuadorian Minnesota page
+
+Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian
+Checked: October 31, 2026. Each item gives the claim, what the opened source says, the link and the date checked.
+
+## Outdated
+
+1. **Claim:** Every Compass figure, labeled ACS 2019 to 2023: about 18,271 people; Twin Cities 94.0 percent; Greater Minnesota 6.0 percent; 17 or younger 42.7 percent; 65+ 2.1 percent; foreign-born 49.8 percent; language other than English 76.4 percent; English less than "very well" 44.6 percent; English only 23.6 percent; high school or higher 57.6 percent; bachelor's or higher 21.3 percent; median household income about $57,000 (2022 dollars); poverty 20.2 percent; owner-occupied 65.8 percent; household size 3.82; uninsured 21.6 percent.
+   **Source says:** Compass now reports 2020 to 2024: 19,484 (plus or minus 3,601); Twin Cities 95.9 percent; Greater Minnesota 4.1 percent; 17 or younger 45.6 percent; 65+ 2.1 percent; foreign-born 53.3 percent; language other than English 76.8 percent; English less than "very well" 49.1 percent; English only 23.2 percent; high school or higher 57.7 percent; bachelor's or higher 19.8 percent; median household income $59,501 (2024 dollars, plus or minus $12,718); poverty 19.9 percent (plus or minus 10.3); owner-occupied 64.8 percent; household size 3.92; uninsured 24.0 percent. Compass also has a disability row (6.1 percent; 4.9 percent under 65) and a cost-burden row (51.7 percent of households; 78.8 percent of renters) that the page does not use. The page should give margins; several are very wide.
+   **Link:** https://www.mncompass.org/topics/demographics/cultural-communities/ecuadorian . Checked Oct. 31, 2026.
+
+2. **Claim:** Minnesota counts given only from Compass, with no mention of other census measures.
+   **Source says:** The Census Bureau's Hispanic-origin table counts 15,993 (plus or minus 1,980) Ecuadorian-origin Minnesotans for 2020 to 2024 and 17,722 (plus or minus 4,752) for 2024 alone; 9,676 Minnesotans were born in Ecuador, second only to Mexico among Latin American birthplaces. Suggest adding these, dated, so readers see the range.
+   **Links:** https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2712700,16000US2758000 ; https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27,05000US27053 ; https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27 . Checked Oct. 31, 2026.
+
+## Claims not supported by any source opened
+
+3. **Claim:** "Indigenous languages may be in the home, among them Kichwa, Shuar, and others, and while Compass notes the possibility, it is not a count of speakers."
+   **Source says:** The Compass Ecuadorian page has no note about Indigenous languages; it reports only "English only," "language other than English" and "speaks English less than very well." The underlying point is supported elsewhere: El Colegio charter school told Sahan Journal (March 18, 2024) it offers language services and preservation classes for Quichua-speaking students. Suggest removing the attribution to Compass and citing El Colegio instead. No source naming Shuar speakers in Minnesota was found.
+   **Links:** https://www.mncompass.org/topics/demographics/cultural-communities/ecuadorian ; https://sahanjournal.com/immigration/ecuadorians-asylum-minnesota/ . Checked Oct. 31, 2026.
+
+4. **Claim:** Ecuadorian Minnesota's streams include "the 1999–2000 banking crisis (feriado bancario) as a named emigration wave toward Spain and the United States."
+   **Source says:** No Minnesota source opened mentions the banking crisis. Minnesota sources instead trace the community to families from Cuenca in the late 1990s, linked to El Niño storm damage to farming and crafts in southern Ecuador (Northeaster, July 21, 2026); note that Ss. Cyril and Methodius parish became mostly Hispanic from 1997 (Archdiocese); and describe a long-settled group playing volleyball since 1996 (WCCO, 2024). Suggest stating the Minnesota timeline from these sources and labeling the banking crisis, if kept, as national background.
+   **Links:** https://www.mynortheaster.com/news/ecuadorians-make-northeast-metro-area-home/ ; https://www.archspm.org/location/ss-cyril-and-methodius-catholic-church/ ; https://www.cbsnews.com/minnesota/news/ecuadorian-volleyball-picnics-twin-cities/ . Checked Oct. 31, 2026.
+
+5. **Claim:** "CECLC is a department door rather than the whole."
+   **Source says:** No organization by this abbreviation was found in any opened source. Unclear what it refers to; suggest spelling it out or removing it.
+   **Link:** none found. Checked Oct. 31, 2026.
+
+## Missing context that changes how the page reads
+
+6. **Claim:** "Think in places rather than a blob, from Twin Cities corridors and first-ring suburbs to scattered Greater Minnesota households," without naming any places.
+   **Source says:** The community is concentrated in Northeast Minneapolis and Columbia Heights along Central Avenue (Sahan Journal, Nov. 11, 2025). Census 2020-2024: Minneapolis 6,645; Columbia Heights 1,716 (about 8 percent of the city); Fridley 1,428; Anoka County 3,850; Ramsey County only 866. Suggest naming these places.
+   **Links:** https://sahanjournal.com/immigration/minnesota-ecuadorian-community-trump-immigration/ ; https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2712700,16000US2758000 ; https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2722814 . Checked Oct. 31, 2026.
+
+7. **Claim:** "Partners are the parishes families name and the civic groups this family names," with no named partners besides CLUES.
+   **Source says:** Named and documented: Ss. Cyril and Methodius parish (largest Ecuadorian congregation, per the priest who serves there, Dec. 2023); COPAL, whose workers center says most families it serves are Ecuadorian; the Consulate of Ecuador on Central Avenue NE; Movimiento Comunitario Minnesota.
+   **Links:** https://www.thecatholicspirit.com/news/local-news/many-ecuadorian-immigrants-are-placing-their-hope-in-minnesota/ ; https://www.mynortheaster.com/news/ecuadorians-make-northeast-metro-area-home/ ; https://www.fox9.com/news/ice-agent-consulate-ecuador-minneapolis-attempted-incursion-jan-27-2026 ; https://sahanjournal.com/immigration/ecuadorians-asylum-minnesota/ . Checked Oct. 31, 2026.
+
+8. **Claim:** Enforcement is described in general terms ("when raids or a visible ICE climate spike").
+   **Source says:** Specific, dated events affect this community: an Ecuadorian father and 5-year-old son detained in Columbia Heights on Jan. 20, 2026 (KSTP, Jan. 22, 2026); an ICE agent blocked from entering the Ecuadorian consulate on Jan. 27, 2026 (NBC News); about 800 of 3,400 Columbia Heights students not attending in person during the surge (Northeaster, Feb. 17, 2026); MinnesotaCare ended for undocumented adults Jan. 1, 2026 (Minnesota House). Suggest adding dated facts.
+   **Links:** https://kstp.com/kstp-news/top-news/lawyer-father-5-year-old-son-detained-in-columbia-heights-were-legal-asylum-seekers/ ; https://www.nbcnews.com/politics/immigration/ice-agent-blocked-ecuador-consulate-minneapolis-trump-immigration-rcna256284 ; https://www.mynortheaster.com/news/citys-schools-reeling-from-ice-presence/ ; https://www.house.mn.gov/sessiondaily/Story/18830 . Checked Oct. 31, 2026.
+
+9. **Claim:** "Independence falls on 10 August, some families name local fiestas, and Día de los Difuntos is kept in some rooms."
+   **Source says:** August 10 is confirmed (Teleamazonas). Minnesota celebrations are documented: an independence celebration in Columbia Heights in 2017 and EcuaFiesta on Aug. 2, 2026 in Northeast Minneapolis. No Minnesota source was found for Día de los Difuntos observance; suggest keeping that as unconfirmed for Minnesota.
+   **Links:** https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/ ; https://www.mynortheaster.com/news/families-celebrate-ecuadors-independence-with-music-food-and-dance/ ; https://www.mynortheaster.com/event/ecuafiesta-2026/ . Checked Oct. 31, 2026.
+
+10. **Claim:** "Fútbol is the common public sport."
+    **Source says:** Soccer and futsal are documented (Liga Northeast, founded 2005), but the most distinctive sport is ecuavóley; the Minneapolis park board built ecuavóley courts at Audubon Park after consulting the Ecuadorian community, opened October 2025. Suggest adding.
+    **Links:** https://www.mynortheaster.com/news/atletico-san-miguel-penarol-tie-2-2-in-futsal/ ; https://www.mynortheaster.com/news/items-of-note-11-5-25/ ; https://www.mynortheaster.com/news/renovations-are-now-underway-at-audubon-park/ . Checked Oct. 31, 2026.
+
+## Checked and supported
+
+- "New York and New Jersey hold large Ecuadorian communities": Sahan Journal calls New York home to the largest Ecuadorian community in the U.S. (New Jersey not checked).
+- Greater Minnesota share is small: supported (4.1 percent in Compass; Nobles County shows 28 Ecuadorian-origin residents, plus or minus 51: https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=05000US27105 ).
+- Catholic majority and parish as a trusted channel: supported for Ss. Cyril and Methodius. "Evangelical and Pentecostal churches are large in some rooms": no Minnesota source found.
+- Afro-Ecuadorian and Indigenous presence: supported in part (Afro-Ecuadorian bomba workshop at the 2026 Minnesota International Dance Festival; an organizer's family that faced discrimination in Ecuador as Indigenous; Quichua classes at El Colegio).
+- Remittances as an obligation: supported in part; a market owner said many customers support people in Ecuador and all the new markets offer money wiring (Sahan Journal, Nov. 11, 2025).

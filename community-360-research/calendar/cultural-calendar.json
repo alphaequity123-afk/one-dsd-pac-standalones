@@ -6219,13 +6219,12 @@
    "sources": []
   },
   {
-   "id": "ecuadorian--easter",
-   "observanceKey": "easter",
-   "name": "Easter",
+   "id": "ecuadorian--ecuadorian-independence-day",
+   "observanceKey": "ecuadorian-independence-day",
+   "name": "Ecuadorian Independence Day",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "Primer Grito de Independencia",
+    "10 de Agosto"
    ],
    "communities": [
     "ecuadorian"
@@ -6237,50 +6236,221 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
     }
    ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
-   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "national",
+   "capsule": "Ecuador's national day, marking Quito's 1809 call for independence; Minnesota families often celebrate on a nearby Sunday.",
+   "dateRule": "August 10 each year. Minnesota community celebrations are often moved to a nearby Sunday.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-04-05",
+     "date": "2026-08-10",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
-     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "source": "Teleamazonas (Ecuador): holiday on Monday, Aug. 10, 2026",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-03-28",
+     "date": "2027-08-10",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
+     "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-04-16",
+     "date": "2028-08-10",
      "endDate": null,
-     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
-     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
+     "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
      "verified": true
     }
    ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The August 10, 1809 call for independence from Spain in Quito, known as the Primer Grito de Independencia.",
+   "howCelebratedInMinnesota": "Families hold outdoor celebrations with music, folk dance, food and ecuavoley on a Sunday near Aug. 10. In 2017 the dance group Indi Samay performed in a restaurant parking lot at 40th and Central in Columbia Heights; organizers chose Sunday because Aug. 10 fell on a workday. In 2026, EcuaFiesta was held Aug. 2 at Los Andes Latin Bistro in Northeast Minneapolis (see its own entry).",
+   "minnesotaEvents": [
+    {
+     "name": "Ecuadorian Independence celebration (Indi Samay dance group)",
+     "place": "Parking lot at 40th and Central avenues NE, Columbia Heights",
+     "link": "https://www.mynortheaster.com/news/families-celebrate-ecuadors-independence-with-music-food-and-dance/",
+     "organizerDates": "Sunday, Aug. 13, 2017",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "EcuaFiesta 2026",
+     "place": "Los Andes Latin Bistro, 2300 University Ave. NE, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/ecuafiesta-2026/",
+     "organizerDates": "Sunday, Aug. 2, 2026, 11 a.m.-5 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Proximos feriados Ecuador 2026, Teleamazonas",
+     "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Families Celebrate Ecuador's Independence, Northeaster",
+     "url": "https://www.mynortheaster.com/news/families-celebrate-ecuadors-independence-with-music-food-and-dance/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "EcuaFiesta 2026, Northeaster",
+     "url": "https://www.mynortheaster.com/event/ecuafiesta-2026/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ecuadorian--ecuafiesta-minneapolis",
+   "observanceKey": "ecuafiesta-minneapolis",
+   "name": "EcuaFiesta (Minneapolis)",
+   "alsoKnownAs": [
+    "EcuaFiesta 2026"
+   ],
+   "communities": [
+    "ecuadorian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ecuadorian",
+     "title": "Ecuadorian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "community festival",
+   "capsule": "Free Northeast Minneapolis festival of Ecuadorian independence: music, folk dance, ecuavoley tournament, food and vendors.",
+   "dateRule": "Announced each year by organizers; held on a Sunday near Aug. 10 in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-02",
+     "endDate": null,
+     "source": "Northeaster event listing",
+     "sourceUrl": "https://www.mynortheaster.com/event/ecuafiesta-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Ecuadorian independence and community, celebrated as a family festival.",
+   "howCelebratedInMinnesota": "In 2026, 11 a.m. to 5 p.m. at Los Andes Latin Bistro, 2300 University Ave. NE, with live music, folkloric dance, an ecuavoley tournament, Ecuadorian food, local vendors and family activities. The organizer is not named in the listing.",
+   "minnesotaEvents": [
+    {
+     "name": "EcuaFiesta 2026",
+     "place": "Los Andes Latin Bistro, 2300 University Ave. NE, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/ecuafiesta-2026/",
+     "organizerDates": "Sunday, Aug. 2, 2026, 11 a.m.-5 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "EcuaFiesta 2026, Northeaster",
+     "url": "https://www.mynortheaster.com/event/ecuafiesta-2026/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ecuadorian--carnaval",
+   "observanceKey": "carnaval",
+   "name": "Carnaval",
+   "alsoKnownAs": [
+    "Carnival"
+   ],
+   "communities": [
+    "ecuadorian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ecuadorian",
+     "title": "Ecuadorian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "cultural",
+   "capsule": "The Monday and Tuesday before Lent, a national holiday in Ecuador; Ecuadorian students in Minneapolis have celebrated with foam and glitter.",
+   "dateRule": "Monday and Tuesday before Ash Wednesday (moves with Easter).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-16",
+     "endDate": "2026-02-17",
+     "source": "El Universo (Ecuador)",
+     "sourceUrl": "https://www.eluniverso.com/noticias/ecuador/los-dias-exactos-de-carnaval-2026-nota/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": "2027-02-09",
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Monday-Tuesday before Ash Wednesday",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-28",
+     "endDate": "2028-02-29",
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Monday-Tuesday before Ash Wednesday",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The festive days before the Lenten season.",
+   "howCelebratedInMinnesota": "Ecuadorian students at El Colegio charter high school in south Minneapolis organized Carnaval on Feb. 9, 2024, spraying soap foam and glitter on each other outdoors in freezing weather. No community-wide Minnesota event was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Ecuadorian Carnaval at El Colegio",
+     "place": "El Colegio Charter School, south Minneapolis",
+     "link": "https://sahanjournal.com/immigration/ecuadorians-asylum-minnesota/",
+     "organizerDates": "Feb. 9, 2024 (as reported)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Los dias exactos de Carnaval 2026, El Universo",
+     "url": "https://www.eluniverso.com/noticias/ecuador/los-dias-exactos-de-carnaval-2026-nota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Ecuadorians fleeing violence ... seek a new start in Minnesota, Sahan Journal",
+     "url": "https://sahanjournal.com/immigration/ecuadorians-asylum-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "ecuadorian--good-friday",
    "observanceKey": "good-friday",
    "name": "Good Friday",
    "alsoKnownAs": [
-    "Viernes Santo",
-    "Biyernes Santo"
+    "Viernes Santo"
    ],
    "communities": [
     "ecuadorian"
@@ -6292,9 +6462,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
    "kind": "religious",
-   "capsule": "The crucifixion of Jesus.",
+   "capsule": "The Friday before Easter, marking the crucifixion of Jesus; observed in the Catholic parishes many Ecuadorian families attend.",
    "dateRule": "The Friday before Western Easter.",
    "dates": [
     {
@@ -6327,14 +6497,20 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Ss Cyril and Methodius Catholic Church, Archdiocese of Saint Paul and Minneapolis",
+     "url": "https://www.archspm.org/location/ss-cyril-and-methodius-catholic-church/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "ecuadorian--ecuadorian-independence-day",
-   "observanceKey": "ecuadorian-independence-day",
-   "name": "Ecuadorian Independence Day",
+   "id": "ecuadorian--easter",
+   "observanceKey": "easter",
+   "name": "Easter",
    "alsoKnownAs": [
-    "Primer Grito de Independencia"
+    "Pascua"
    ],
    "communities": [
     "ecuadorian"
@@ -6346,51 +6522,489 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
     }
    ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "The 1809 Quito uprising.",
-   "dateRule": "August 10.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "religious",
+   "capsule": "Christianity's central feast of the resurrection; most Ecuadorian Minnesotans in the sources are Catholic.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-08-10",
+     "date": "2026-04-05",
      "endDate": null,
-     "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
-     "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
+     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
+     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-08-10",
+     "date": "2027-03-28",
      "endDate": null,
-     "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
-     "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
+     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-08-10",
+     "date": "2028-04-16",
      "endDate": null,
-     "source": "Superintendencia de Bancos del Ecuador, Circular SB-IG-2026-0023-C, Feriado Nacional del 10 de agosto",
-     "sourceUrl": "https://asobanca.org.ec/wp-content/uploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf",
+     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
+     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ss Cyril and Methodius Catholic Church, Archdiocese",
+     "url": "https://www.archspm.org/location/ss-cyril-and-methodius-catholic-church/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ecuadorian--feast-of-the-virgen-del-cisne",
+   "observanceKey": "feast-of-the-virgen-del-cisne",
+   "name": "Feast of the Virgen del Cisne",
+   "alsoKnownAs": [
+    "La Churonita",
+    "Virgen de El Cisne"
+   ],
+   "communities": [
+    "ecuadorian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ecuadorian",
+     "title": "Ecuadorian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "religious",
+   "capsule": "Marian feast from southern Ecuador; a Minneapolis parish has held a Mass, robe-changing and street procession in mid-August.",
+   "dateRule": "Around August 15, with community celebrations often on the nearest weekend. Set by each parish.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 Minnesota announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Devotion to a statue of the Virgin Mary acquired more than four centuries ago by Indigenous people in El Cisne, Ecuador.",
+   "howCelebratedInMinnesota": "In 2010, Sagrado Corazon de Jesus in Minneapolis held a Mass on Aug. 15, changed the statue's robe, led a three-block procession, and continued with music, dance and Ecuadorian food after a day of games in a nearby park on Aug. 14. No later Minnesota celebration was confirmed.",
+   "minnesotaEvents": [
+    {
+     "name": "Mass and procession for La Virgen del Cisne",
+     "place": "Sagrado Corazon de Jesus, Minneapolis",
+     "link": "https://www.thecatholicspirit.com/local/overheard/ecuadorian-catholics-display-devotion-to-mary/",
+     "organizerDates": "Aug. 14-15, 2010 (as reported)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ecuadorian Catholics display devotion to Mary, The Catholic Spirit",
+     "url": "https://www.thecatholicspirit.com/local/overheard/ecuadorian-catholics-display-devotion-to-mary/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ecuadorian--ss-cyril-and-methodius-church-festival",
+   "observanceKey": "ss-cyril-and-methodius-church-festival",
+   "name": "Ss. Cyril and Methodius Church Festival",
+   "alsoKnownAs": [
+    "San Cirilo festival"
+   ],
+   "communities": [
+    "ecuadorian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ecuadorian",
+     "title": "Ecuadorian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "community festival",
+   "capsule": "Northeast Minneapolis parish festival with Ecuadorian food, soccer and volleyball tournaments, dance and raffle, usually an August weekend.",
+   "dateRule": "Announced each year by the parish; recent years fell on a Saturday (sometimes with Sunday) in mid- to late August.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Annual parish fundraiser and gathering at a church that has been predominantly Hispanic, with many Ecuadorian members, since 1997.",
+   "howCelebratedInMinnesota": "Saturday soccer and volleyball tournaments, Ecuadorian food, kids' games, beer wagon, ice cream and raffle; in 2019 also traditional dance and Sunday Masses in English and Spanish.",
+   "minnesotaEvents": [
+    {
+     "name": "Saints Cyril and Methodius Church Festival",
+     "place": "Ss. Cyril and Methodius, 2nd St. NE, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/saints-cyril-and-methodius-church-festival/",
+     "organizerDates": "Aug. 17-18, 2019",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Church Festival at Ss. Cyril & Methodius",
+     "place": "Ss. Cyril and Methodius, 2nd St. NE, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/sts-cyril-and-methodius-church-festival/",
+     "organizerDates": "Saturday, Aug. 21, 2021",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Church Festival at Ss. Cyril & Methodius",
+     "place": "Ss. Cyril and Methodius, 2nd St. NE, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/ss-cyril-methodius-church-festival/",
+     "organizerDates": "Saturday, Aug. 19, 2023",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Saints Cyril and Methodius Church Festival, Northeaster",
+     "url": "https://www.mynortheaster.com/event/saints-cyril-and-methodius-church-festival/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Sts. Cyril and Methodius Church Festival, Northeaster",
+     "url": "https://www.mynortheaster.com/event/sts-cyril-and-methodius-church-festival/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Ss. Cyril & Methodius church festival, Northeaster",
+     "url": "https://www.mynortheaster.com/event/ss-cyril-methodius-church-festival/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Ss Cyril and Methodius Catholic Church, Archdiocese",
+     "url": "https://www.archspm.org/location/ss-cyril-and-methodius-catholic-church/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ecuadorian--hispanic-heritage-month-begins",
+   "observanceKey": "hispanic-heritage-month-begins",
+   "name": "Hispanic Heritage Month (begins)",
+   "alsoKnownAs": [
+    "Mes de la Herencia Hispana"
+   ],
+   "communities": [
+    "ecuadorian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ecuadorian",
+     "title": "Ecuadorian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "heritage",
+   "capsule": "U.S. heritage month, Sept. 15 to Oct. 15. In 2026 a Minneapolis dance festival featured Ecuador during the month.",
+   "dateRule": "September 15 to October 15 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-15",
+     "endDate": "2026-10-15",
+     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-15",
+     "endDate": "2027-10-15",
+     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-15",
+     "endDate": "2028-10-15",
+     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
+     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The 1809 Quito uprising.",
+   "whatItMarks": "U.S. recognition of Hispanic and Latino Americans, timed to several Latin American independence days.",
+   "howCelebratedInMinnesota": "No Ecuadorian-specific Heritage Month event was found. The Minnesota International Dance Festival, which overlapped the month in 2026, chose Ecuador as guest country (see its own entry).",
+   "minnesotaEvents": [
+    {
+     "name": "Minnesota International Dance Festival 2026: Celebrate Ecuador",
+     "place": "Workshops: Center for Performing Arts; performances: The Southern Theater, Minneapolis",
+     "link": "https://dancemn.org/submissions/minnesota-international-dance-festival-2026-celebrate-ecuador/",
+     "organizerDates": "Sept. 28 to Oct. 3, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota International Dance Festival 2026 Celebrate Ecuador, DanceMN",
+     "url": "https://dancemn.org/submissions/minnesota-international-dance-festival-2026-celebrate-ecuador/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ecuadorian--minnesota-international-dance-festival-celebrate-ecuador",
+   "observanceKey": "minnesota-international-dance-festival-celebrate-ecuador",
+   "name": "Minnesota International Dance Festival: Celebrate Ecuador",
+   "alsoKnownAs": [
+    "MNIDF 2026"
+   ],
+   "communities": [
+    "ecuadorian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ecuadorian",
+     "title": "Ecuadorian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "community festival",
+   "capsule": "Week of dance workshops and two performances in Minneapolis with Ecuador as 2026 guest country, including Andean and Afro-Ecuadorian dance.",
+   "dateRule": "Announced each year by Dance Projects by ME; guest country changes yearly.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-28",
+     "endDate": "2026-10-03",
+     "source": "DanceMN listing and festival program",
+     "sourceUrl": "https://dancemn.org/submissions/minnesota-international-dance-festival-2026-celebrate-ecuador/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found; guest country changes each year",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Cultural exchange through dance, with Ecuador featured in 2026.",
+   "howCelebratedInMinnesota": "Workshops Sept. 28 to Oct. 2, 2026 at the Center for Performing Arts, including Afro-Ecuadorian bomba from the Chota Valley with Ayazamana founder Jose Rivera and Ecuadorian traditional dances (San Juanito, Inti Raymi, Shuar, Carnaval) with Away Runakuna's director; performances Oct. 2 and 3 at the Southern Theater.",
+   "minnesotaEvents": [
+    {
+     "name": "Minnesota International Dance Festival 2026",
+     "place": "Center for Performing Arts and The Southern Theater, Minneapolis",
+     "link": "https://mnidancefestival.org/festival-program",
+     "organizerDates": "Workshops Sept. 28-Oct. 2; performances Oct. 2-3, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota International Dance Festival 2026 Celebrate Ecuador, DanceMN",
+     "url": "https://dancemn.org/submissions/minnesota-international-dance-festival-2026-celebrate-ecuador/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Festival Programming, Minnesota International Dance Festival",
+     "url": "https://mnidancefestival.org/festival-program",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ecuadorian--día-de-los-difuntos",
+   "observanceKey": "día-de-los-difuntos",
+   "name": "Día de los Difuntos",
+   "alsoKnownAs": [
+    "Day of the Dead (Ecuador)",
+    "All Souls' Day"
+   ],
+   "communities": [
+    "ecuadorian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ecuadorian",
+     "title": "Ecuadorian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "remembrance",
+   "capsule": "Ecuador's national day to remember the dead, on All Souls' Day; no Minnesota Ecuadorian event was found.",
+   "dateRule": "November 2 each year (Ecuadorian national holiday; All Souls' Day in the Catholic calendar).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-02",
+     "endDate": null,
+     "source": "Teleamazonas: Monday, Nov. 2, 2026 holiday",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-02",
+     "endDate": null,
+     "source": "Fixed date, Nov. 2, stated by Teleamazonas (a 2026 article; Ecuador can move holidays to a nearby weekday by law, so later years are not confirmed)",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-02",
+     "endDate": null,
+     "source": "Fixed date, Nov. 2, stated by Teleamazonas (a 2026 article; Ecuador can move holidays to a nearby weekday by law, so later years are not confirmed)",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Remembrance of family members who have died.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Proximos feriados Ecuador 2026, Teleamazonas",
+     "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "ecuadorian--independence-of-cuenca",
+   "observanceKey": "independence-of-cuenca",
+   "name": "Independence of Cuenca",
+   "alsoKnownAs": [
+    "Independencia de Cuenca",
+    "Fiestas de Cuenca"
+   ],
+   "communities": [
+    "ecuadorian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ecuadorian",
+     "title": "Ecuadorian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
+   "kind": "national",
+   "capsule": "Cuenca's independence day, a national holiday in Ecuador; many Minnesota Ecuadorian families trace roots to Cuenca.",
+   "dateRule": "November 3 each year (Ecuadorian national holiday).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-03",
+     "endDate": null,
+     "source": "Teleamazonas: Tuesday, Nov. 3, 2026 holiday",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-03",
+     "endDate": null,
+     "source": "Fixed date, Nov. 3, stated by Teleamazonas (a 2026 article; Ecuador can move holidays to a nearby weekday by law, so later years are not confirmed)",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-03",
+     "endDate": null,
+     "source": "Fixed date, Nov. 3, stated by Teleamazonas (a 2026 article; Ecuador can move holidays to a nearby weekday by law, so later years are not confirmed)",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The independence of the city of Cuenca from Spanish rule.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Proximos feriados Ecuador 2026, Teleamazonas",
+     "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Ecuadorians make northeast metro area home, Northeaster",
+     "url": "https://www.mynortheaster.com/news/ecuadorians-make-northeast-metro-area-home/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "ecuadorian--christmas",
    "observanceKey": "christmas",
    "name": "Christmas",
    "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
+    "Navidad"
    ],
    "communities": [
     "ecuadorian"
@@ -6402,42 +7016,61 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
+   "capsule": "Feast of the birth of Jesus; a national holiday in Ecuador and a major parish season for Ecuadorian Minnesotans.",
    "dateRule": "December 25.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "Teleamazonas: Navidad, Friday, Dec. 25, 2026",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "Fixed date, Dec. 25, stated by Teleamazonas",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "Fixed date, Dec. 25, stated by Teleamazonas",
+     "sourceUrl": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Birth of Jesus (Gregorian calendar).",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "howCelebratedInMinnesota": "Ss. Cyril and Methodius parish has held a December brunch whose menu included Ecuadorian hominy (Dec. 8, 2019). No Minnesota Pase del Nino procession was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Christmas brunch at St. Cyril's",
+     "place": "Ss. Cyril and Methodius church basement, 2nd St. NE, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/christmas-brunch-at-st-cyrils/",
+     "organizerDates": "Sunday, Dec. 8, 2019",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Proximos feriados Ecuador 2026, Teleamazonas",
+     "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Christmas brunch at St. Cyril's, Northeaster",
+     "url": "https://www.mynortheaster.com/event/christmas-brunch-at-st-cyrils/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "ecuadorian--día-de-los-reyes",
@@ -6457,9 +7090,9 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ecuadorian/profile.md",
    "kind": "religious",
-   "capsule": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
+   "capsule": "Epiphany, the visit of the Magi, closing the Christmas season; no Ecuadorian-specific Minnesota event was found.",
    "dateRule": "January 6.",
    "dates": [
     {
@@ -6488,59 +7121,7 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "ecuadorian--hispanic-heritage-month-begins",
-   "observanceKey": "hispanic-heritage-month-begins",
-   "name": "Hispanic Heritage Month (begins)",
-   "alsoKnownAs": [],
-   "communities": [
-    "ecuadorian"
-   ],
-   "briefLinks": [
-    {
-     "community": "ecuadorian",
-     "title": "Ecuadorian Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ecuadorian"
-    }
-   ],
-   "profileLink": null,
-   "kind": "heritage",
-   "capsule": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
-   "dateRule": "September 15.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-09-15",
-     "endDate": null,
-     "source": "U.S. Census Bureau, National Hispanic Heritage Month: 2026",
-     "sourceUrl": "https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
+   "whatItMarks": "The visit of the Magi to the infant Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,

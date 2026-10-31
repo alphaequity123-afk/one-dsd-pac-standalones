@@ -369,6 +369,19 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:carnaval-2026-02-16@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260218
+SUMMARY:Carnaval
+DESCRIPTION:The festive days before the Lenten season. Date: Monday and T
+ uesday before Ash Wednesday (moves with Easter). Source: El Universo (Ecu
+ ador) https://www.eluniverso.com/noticias/ecuador/los-dias-exactos-de-car
+ naval-2026-nota/ Communities: Ecuadorian Minnesota
+CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:giao-thừa-and-tết-at-chùa-phật-ân-2026-02-16@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260216
@@ -1791,6 +1804,19 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ecuafiesta-minneapolis-2026-08-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:EcuaFiesta (Minneapolis)
+DESCRIPTION:Ecuadorian independence and community\, celebrated as a famil
+ y festival. Date: Announced each year by organizers\; held on a Sunday ne
+ ar Aug. 10 in 2026. Source: Northeaster event listing https://www.mynorth
+ easter.com/event/ecuafiesta-2026/ Communities: Ecuadorian Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:beirut-port-explosion-anniversary-2026-08-04@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260804
@@ -1865,11 +1891,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
 SUMMARY:Ecuadorian Independence Day
-DESCRIPTION:The 1809 Quito uprising. Date: August 10. Source: Superintend
- encia de Bancos del Ecuador\, Circular SB-IG-2026-0023-C\, Feriado Nacion
- al del 10 de agosto https://asobanca.org.ec/wp-content/uploads/2026/08/SB
- -IG-2026-0023-C-Feriado-10-de-agosto.pdf Communities: Ecuadorian Minnesot
- a
+DESCRIPTION:The August 10\, 1809 call for independence from Spain in Quit
+ o\, known as the Primer Grito de Independencia. Date: August 10 each year
+ . Minnesota community celebrations are often moved to a nearby Sunday. So
+ urce: Teleamazonas (Ecuador): holiday on Monday\, Aug. 10\, 2026 https://
+ www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuado
+ r-2026-agosto-diciembre-124862/ Communities: Ecuadorian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2218,8 +2245,8 @@ DTEND;VALUE=DATE:20261016
 SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov h
- ttps://hispanicheritagemonth.gov/ Communities: Colombian Minnesota\, Mexi
- can Minnesota
+ ttps://hispanicheritagemonth.gov/ Communities: Colombian Minnesota\, Ecua
+ dorian Minnesota\, Mexican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2233,8 +2260,8 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Ecuadorian Minnesota\, Guatemalan Minnesot
- a\, Latino Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+ Communities: Cuban Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, 
+ Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2490,6 +2517,20 @@ DESCRIPTION:Ethiopian Orthodox feast of the finding of the True Cross. Da
  days (2026) https://addis-abeba.diplo.de/et-en/about-us/public-holidays-2
  629598 Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-international-dance-festival-celebrate-ecuador-2026-09-28@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261004
+SUMMARY:Minnesota International Dance Festival: Celebrate Ecuador
+DESCRIPTION:Cultural exchange through dance\, with Ecuador featured in 20
+ 26. Date: Announced each year by Dance Projects by ME\; guest country cha
+ nges yearly. Source: DanceMN listing and festival program https://dancemn
+ .org/submissions/minnesota-international-dance-festival-2026-celebrate-ec
+ uador/ Communities: Ecuadorian Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2768,6 +2809,20 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:día-de-los-difuntos-2026-11-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Día de los Difuntos
+DESCRIPTION:Remembrance of family members who have died. Date: November 2
+  each year (Ecuadorian national holiday\; All Souls' Day in the Catholic 
+ calendar). Source: Teleamazonas: Monday\, Nov. 2\, 2026 holiday https://w
+ ww.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador
+ -2026-agosto-diciembre-124862/ Communities: Ecuadorian Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:día-de-los-muertos-2026-11-02@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -2794,6 +2849,20 @@ DESCRIPTION:Remembrance of the dead. Date: November 1 and 2 by custom\; U
   en el tiempo https://www.gob.mx/inafed/articulos/dia-de-muertos-tradicio
  n-mexicana-que-trasciende-en-el-tiempo Communities: Mexican Minnesota
 CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:independence-of-cuenca-2026-11-03@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Independence of Cuenca
+DESCRIPTION:The independence of the city of Cuenca from Spanish rule. Dat
+ e: November 3 each year (Ecuadorian national holiday). Source: Teleamazon
+ as: Tuesday\, Nov. 3\, 2026 holiday https://www.teleamazonas.com/actualid
+ ad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-12486
+ 2/ Communities: Ecuadorian Minnesota
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4227,11 +4296,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 SUMMARY:Ecuadorian Independence Day
-DESCRIPTION:The 1809 Quito uprising. Date: August 10. Source: Superintend
- encia de Bancos del Ecuador\, Circular SB-IG-2026-0023-C\, Feriado Nacion
- al del 10 de agosto https://asobanca.org.ec/wp-content/uploads/2026/08/SB
- -IG-2026-0023-C-Feriado-10-de-agosto.pdf Communities: Ecuadorian Minnesot
- a
+DESCRIPTION:The August 10\, 1809 call for independence from Spain in Quit
+ o\, known as the Primer Grito de Independencia. Date: August 10 each year
+ . Minnesota community celebrations are often moved to a nearby Sunday. So
+ urce: Superintendencia de Bancos del Ecuador\, Circular SB-IG-2026-0023-C
+ \, Feriado Nacional del 10 de agosto https://asobanca.org.ec/wp-content/u
+ ploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf Communities: Ec
+ uadorian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4363,7 +4434,7 @@ SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
  fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
- nnesota\, Mexican Minnesota
+ nnesota\, Ecuadorian Minnesota\, Mexican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4377,8 +4448,8 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Ecuadorian Minnesota\, Guatemalan Minnesot
- a\, Latino Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+ Communities: Cuban Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, 
+ Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5697,11 +5768,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280810
 DTEND;VALUE=DATE:20280811
 SUMMARY:Ecuadorian Independence Day
-DESCRIPTION:The 1809 Quito uprising. Date: August 10. Source: Superintend
- encia de Bancos del Ecuador\, Circular SB-IG-2026-0023-C\, Feriado Nacion
- al del 10 de agosto https://asobanca.org.ec/wp-content/uploads/2026/08/SB
- -IG-2026-0023-C-Feriado-10-de-agosto.pdf Communities: Ecuadorian Minnesot
- a
+DESCRIPTION:The August 10\, 1809 call for independence from Spain in Quit
+ o\, known as the Primer Grito de Independencia. Date: August 10 each year
+ . Minnesota community celebrations are often moved to a nearby Sunday. So
+ urce: Superintendencia de Bancos del Ecuador\, Circular SB-IG-2026-0023-C
+ \, Feriado Nacional del 10 de agosto https://asobanca.org.ec/wp-content/u
+ ploads/2026/08/SB-IG-2026-0023-C-Feriado-10-de-agosto.pdf Communities: Ec
+ uadorian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5805,7 +5878,7 @@ SUMMARY:Hispanic Heritage Month (begins)
 DESCRIPTION:A U.S. heritage month\; it is not a Colombian holiday. Date: 
  September 15 to October 15 each year. Source: hispanicheritagemonth.gov (
  fixed dates) https://hispanicheritagemonth.gov/ Communities: Colombian Mi
- nnesota\, Mexican Minnesota
+ nnesota\, Ecuadorian Minnesota\, Mexican Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5819,8 +5892,8 @@ DESCRIPTION:U.S. heritage month\, September 15 to October 15\, tied to Ce
  ntral American and Mexican independence days. Date: September 15. Source:
   U.S. Census Bureau\, National Hispanic Heritage Month: 2026 https://www.
  census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html 
- Communities: Cuban Minnesota\, Ecuadorian Minnesota\, Guatemalan Minnesot
- a\, Latino Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota
+ Communities: Cuban Minnesota\, Guatemalan Minnesota\, Latino Minnesota\, 
+ Puerto Rican Minnesota\, Salvadoran Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
