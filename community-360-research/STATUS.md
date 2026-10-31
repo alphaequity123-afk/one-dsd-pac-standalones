@@ -1,6 +1,6 @@
 # Community 360 research: status
 
-**Checked:** October 30, 2026
+**Checked:** October 31, 2026
 
 ## Where things stand
 
@@ -16,11 +16,11 @@
 ## In progress
 
 - On Gary's computer: indian.
-- In the cloud session: the communities listed under Not started.
+- In the cloud session (started October 31, 2026): the 28 communities listed under Not started, a few at a time.
 
 ## Not started
 
-amharic, american, arabic-speaking, bosnian, burmese, chinese, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, ethiopian, european-american, filipino, french, guatemalan, indian, japanese, kenyan, khmer, korean, lao, lebanese, liberian, minnesota, nigerian, oromo, puerto-rican, rural, russian-speaking, salvadoran, thai, ukrainian, vietnamese.
+amharic, american, arabic-speaking, bosnian, burmese, chinese, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, european-american, filipino, french, guatemalan, japanese, kenyan, khmer, korean, lao, lebanese, liberian, minnesota, nigerian, puerto-rican, russian-speaking, salvadoran, thai, ukrainian.
 
 ## Still to do on the calendar
 
