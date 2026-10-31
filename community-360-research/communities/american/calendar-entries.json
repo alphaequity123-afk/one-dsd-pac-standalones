@@ -1,0 +1,1033 @@
+{
+ "community": "american",
+ "entries": [
+  {
+   "seedId": null,
+   "name": "New Year's Day",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "January 1, the first legal holiday of Minnesota's civic year; state and many local offices close.",
+   "dateRule": "January 1 (Gregorian). If it falls on a Saturday, the preceding Friday is the observed holiday; if Sunday, the following Monday.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-01",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes January 1",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-01",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes January 1",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-01",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes January 1",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The start of the calendar year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": "Jan. 1, 2028 is a Saturday, so under Minn. Stat. 645.44 the observed state holiday is Friday, Dec. 31, 2027.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "martin-luther-king-jr-day",
+   "name": "Martin Luther King Jr. Day",
+   "alsoKnownAs": [
+    "Martin Luther King's Birthday (Minnesota statute)"
+   ],
+   "kind": "national",
+   "capsule": "Third Monday in January; a Minnesota legal holiday marked by the annual Dr. Martin Luther King Jr. Holiday Breakfast in Minneapolis.",
+   "dateRule": "Third Monday in January (Minn. Stat. 645.44 and federal law).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-19",
+     "endDate": null,
+     "source": "General Mills, 36th annual Holiday Breakfast announcement",
+     "sourceUrl": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-and-uncf-celebrate-36th-annual-dr-martin-luther-king-jr-holiday-breakfast",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-18",
+     "endDate": null,
+     "source": "Calculated: third Monday in January",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-17",
+     "endDate": null,
+     "source": "Calculated: third Monday in January",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The birthday and legacy of Dr. Martin Luther King Jr. and the civil rights movement.",
+   "howCelebratedInMinnesota": "General Mills and UNCF Twin Cities held the 36th annual Dr. Martin Luther King Jr. Holiday Breakfast at the Minneapolis Convention Center on Jan. 19, 2026, 7:30 to 9:30 a.m., with keynotes by Soledad O'Brien and Freeman Hrabowski; colleges such as St. Olaf hold events through January. See the African American page for community observances.",
+   "minnesotaEvents": [
+    {
+     "name": "36th Annual Dr. Martin Luther King Jr. Holiday Breakfast",
+     "place": "Minneapolis Convention Center",
+     "link": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-and-uncf-celebrate-36th-annual-dr-martin-luther-king-jr-holiday-breakfast",
+     "organizerDates": "Monday, Jan. 19, 2026, 7:30-9:30 a.m. (General Mills and UNCF)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": "A legal holiday under Minn. Stat. 645.44; public business is not transacted.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "General Mills and UNCF Celebrate 36th Annual Dr. Martin Luther King Jr. Holiday Breakfast",
+     "url": "https://www.generalmills.com/news-and-stories/press-releases/general-mills-and-uncf-celebrate-36th-annual-dr-martin-luther-king-jr-holiday-breakfast",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "2026 MLK Jr. Day, St. Olaf College",
+     "url": "https://wp.stolaf.edu/mlkday/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "black-history-month-begins",
+   "name": "Black History Month (begins)",
+   "alsoKnownAs": [],
+   "kind": "heritage",
+   "capsule": "February, a national month for Black history; Minnesota observances are covered on the African American page.",
+   "dateRule": "February 1 begins the month (by custom; not a Minnesota legal holiday).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-01",
+     "endDate": null,
+     "source": "Fixed by custom (seed); no official page opened stating the date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-01",
+     "endDate": null,
+     "source": "Fixed by custom (seed); no official page opened stating the date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-01",
+     "endDate": null,
+     "source": "Fixed by custom (seed); no official page opened stating the date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "A national month recognizing African American history and contributions.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": []
+  },
+  {
+   "seedId": null,
+   "name": "Washington's and Lincoln's Birthday",
+   "alsoKnownAs": [
+    "Presidents' Day",
+    "Washington's Birthday"
+   ],
+   "kind": "national",
+   "capsule": "Third Monday in February; Minnesota law keeps the name Washington's and Lincoln's Birthday for what many call Presidents' Day.",
+   "dateRule": "Third Monday in February (Minn. Stat. 645.44).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-16",
+     "endDate": null,
+     "source": "Calculated: third Monday in February",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-15",
+     "endDate": null,
+     "source": "Calculated: third Monday in February",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-21",
+     "endDate": null,
+     "source": "Calculated: third Monday in February",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The birthdays of Presidents George Washington and Abraham Lincoln.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": "A legal holiday under Minn. Stat. 645.44.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "st-patricks-day",
+   "name": "St. Patrick's Day",
+   "alsoKnownAs": [],
+   "kind": "heritage",
+   "capsule": "March 17; St. Paul's downtown parade, held since the 1960s, draws thousands of marchers, Irish and otherwise.",
+   "dateRule": "March 17. St. Paul's parade is held on the day itself at noon.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-17",
+     "endDate": null,
+     "source": "MPR News report on the 60th parade",
+     "sourceUrl": "https://www.mprnews.org/story/2026/03/17/thousands-march-through-st-paul-in-60th-st-patricks-day-parade",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-17",
+     "endDate": null,
+     "source": "Fixed date; no 2027 announcement opened",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-17",
+     "endDate": null,
+     "source": "Fixed date; no 2028 announcement opened",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The feast of St. Patrick, patron saint of Ireland, now a broad celebration of Irish heritage.",
+   "howCelebratedInMinnesota": "St. Paul held its 60th annual St. Patrick's Day Parade on Tuesday, March 17, 2026, from Mears Park along Fifth Street to Rice Park, led by the year's Miss Shamrock; MPR described thousands of 'green-clad Irish and Irish wannabes.' See the European American page for Irish heritage.",
+   "minnesotaEvents": [
+    {
+     "name": "60th Annual St. Patrick's Day Parade",
+     "place": "Downtown St. Paul, Mears Park to Rice Park along Fifth Street",
+     "link": "https://www.mprnews.org/story/2026/03/17/thousands-march-through-st-paul-in-60th-st-patricks-day-parade",
+     "organizerDates": "Held Tuesday, March 17, 2026 (as reported by MPR News)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Thousands march through St. Paul in 60th St. Patrick's Day parade",
+     "url": "https://www.mprnews.org/story/2026/03/17/thousands-march-through-st-paul-in-60th-st-patricks-day-parade",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "Pascua",
+    "Pâques",
+    "Pasko ng Pagkabuhay"
+   ],
+   "kind": "religious",
+   "capsule": "The main Christian feast of the resurrection; observed in Minnesota's churches but not a state legal holiday.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Western churches).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (Western)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (Western)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (Western)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The resurrection of Jesus in Christian belief.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": "Easter is not among the legal holidays listed in Minn. Stat. 645.44.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Memorial Day",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Last Monday in May; honors those who died in U.S. military service, with Minnesota's main ceremony at Fort Snelling National Cemetery.",
+   "dateRule": "Last Monday in May (Minn. Stat. 645.44).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-25",
+     "endDate": null,
+     "source": "Calculated: last Monday in May",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-31",
+     "endDate": null,
+     "source": "Calculated: last Monday in May",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-29",
+     "endDate": null,
+     "source": "Calculated: last Monday in May",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Remembrance of U.S. service members who died in military service.",
+   "howCelebratedInMinnesota": "Fort Snelling National Cemetery and the U.S. Department of Veterans Affairs hold a wreath-laying ceremony with music, speeches, a moment of silence, a rifle volley and Taps; in 2025 it began at 9:45 a.m. and the governor spoke.",
+   "minnesotaEvents": [
+    {
+     "name": "Memorial Day wreath-laying ceremony",
+     "place": "Fort Snelling National Cemetery",
+     "link": "https://www.kttc.com/2025/05/26/fort-snelling-hold-wreath-laying-ceremony-memorial-day/",
+     "organizerDates": "Monday, May 26, 2025, 9:45 a.m. (as reported); 2026 details not opened",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": "A legal holiday under Minn. Stat. 645.44.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Fort Snelling to hold wreath-laying ceremony on Memorial Day (KTTC)",
+     "url": "https://www.kttc.com/2025/05/26/fort-snelling-hold-wreath-laying-ceremony-memorial-day/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "juneteenth",
+   "name": "Juneteenth",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "June 19; a Minnesota state holiday since a 2023 law marking the end of slavery in the United States.",
+   "dateRule": "June 19. If it falls on a Saturday the Friday before is the holiday; if Sunday, the Monday after.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-19",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes June 19",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-19",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes June 19",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-19",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes June 19",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The end of slavery in the United States.",
+   "howCelebratedInMinnesota": "Gov. Tim Walz signed the bill making Juneteenth a state holiday on Feb. 3, 2023. Community celebrations are covered on the African American page.",
+   "minnesotaEvents": [],
+   "workplaceNote": "A legal holiday under Minn. Stat. 645.44. June 19, 2027 is a Saturday, so the observed state holiday is Friday, June 18, 2027.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Juneteenth is now a holiday in Minnesota (MPR News)",
+     "url": "https://www.mprnews.org/story/2023/02/03/juneteenth-is-now-a-holiday-in-minnesota",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "independence-day-united-states",
+   "name": "Independence Day (United States)",
+   "alsoKnownAs": [
+    "Fourth of July",
+    "America 250 (2026)"
+   ],
+   "kind": "national",
+   "capsule": "July 4; parades, picnics and fireworks statewide. In 2026 Minnesota marked the nation's 250th anniversary.",
+   "dateRule": "July 4. If it falls on a Saturday the Friday before is the holiday; if Sunday, the Monday after.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-04",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes July 4",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-04",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes July 4",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-04",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes July 4",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The Declaration of Independence of 1776 and the founding of the United States.",
+   "howCelebratedInMinnesota": "Cities hold parades, concerts and fireworks, from the Minneapolis Park Board's Red, White and Boom! on the riverfront to hometown celebrations in Delano, Ely, Stillwater, St. Cloud and Rochester. For the 250th in 2026, Historic Fort Snelling and the Oliver Kelley Farm held historical celebrations, Mall of America hosted a free America 250 exhibit, and the State Capitol held a public reading of the Declaration on July 8.",
+   "minnesotaEvents": [
+    {
+     "name": "Red, White and Boom!",
+     "place": "Water Works Park and West River Parkway, Minneapolis",
+     "link": "https://www.fox9.com/news/things-do-minnesota-5-things-do-fourth-july-weekend-2026",
+     "organizerDates": "Saturday, July 4, 2026 (Minneapolis Park and Recreation Board, as listed)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Minnesota America 250 exhibit and recognition",
+     "place": "Huntington Bank Rotunda, Mall of America, Bloomington",
+     "link": "https://dakotacountymn.gov/government/news/america-250-event-to-be-held-at-mall-of-america",
+     "organizerDates": "July 3-5, 2026; recognition ceremony July 4, 11 a.m. (Dakota County Historical Society)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Sharing the Spirit of America: Nationwide Reading of the Declaration of Independence",
+     "place": "Minnesota State Capitol Rotunda, St. Paul",
+     "link": "https://www.mnhs.org/mn250",
+     "organizerDates": "July 8, 2026, 5-6:30 p.m. (Governor's Committee for Minnesota America 250 and MNHS)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": "July 4, 2026 fell on a Saturday, so the observed state holiday was Friday, July 3 (Minn. Stat. 645.44); MPR noted many people had that Friday off. July 4, 2027 is a Sunday, so Monday, July 5, 2027 is observed.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Your guide to Fourth of July fireworks and events across Minnesota (MPR News)",
+     "url": "https://www.mprnews.org/story/2026/06/26/fourth-of-july-events-guide-fireworks-parades-in-minnesota",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Commemorate America's 250th Anniversary this Fourth of July (MNHS)",
+     "url": "https://www.mnhs.org/media/news/commemorate-americas-250th-anniversary-fourth-july",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "MN250 (MNHS)",
+     "url": "https://www.mnhs.org/mn250",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "America 250 event to be held at Mall of America (Dakota County)",
+     "url": "https://dakotacountymn.gov/government/news/america-250-event-to-be-held-at-mall-of-america",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Things to do in Minnesota: Fourth of July weekend 2026 (FOX 9)",
+     "url": "https://www.fox9.com/news/things-do-minnesota-5-things-do-fourth-july-weekend-2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Minnesota State Fair",
+   "alsoKnownAs": [
+    "The Great Minnesota Get-Together"
+   ],
+   "kind": "community festival",
+   "capsule": "Twelve days ending on Labor Day at Falcon Heights: livestock, 4-H, food, art and nearly 2 million visitors.",
+   "dateRule": "The 12 days ending on Labor Day, set by the Minnesota State Fair.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-27",
+     "endDate": "2026-09-07",
+     "source": "Minnesota State Fair",
+     "sourceUrl": "https://www.mnstatefair.org/updates/2026-fair",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-26",
+     "endDate": null,
+     "source": "KTTC report of the fair's announced 2027 start",
+     "sourceUrl": "https://www.kttc.com/2026/09/08/minnesota-state-fair-draws-19-million-visitors-2026/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Minnesota's agricultural and community fair, held since 1859 and on its permanent grounds since 1885.",
+   "howCelebratedInMinnesota": "In 2026 the fair ran Aug. 27 to Sept. 7 and drew 1,923,325 people. It featured more than 38,000 competition entries, the 4-H Purple Ribbon Auction, the state's largest juried art show and the crowning of Princess Kay of the Milky Way.",
+   "minnesotaEvents": [
+    {
+     "name": "2026 Minnesota State Fair",
+     "place": "State Fairgrounds, Falcon Heights",
+     "link": "https://www.mnstatefair.org/updates/2026-fair",
+     "organizerDates": "Aug. 27-Sept. 7, 2026 (held)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "2027 Minnesota State Fair",
+     "place": "State Fairgrounds, Falcon Heights",
+     "link": "https://www.kttc.com/2026/09/08/minnesota-state-fair-draws-19-million-visitors-2026/",
+     "organizerDates": "Starts Aug. 26, 2027 (as reported by KTTC)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "2026 Minnesota State Fair wrap",
+     "url": "https://www.mnstatefair.org/updates/2026-fair",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota State Fair draws 1.9 million visitors in 2026 (KTTC)",
+     "url": "https://www.kttc.com/2026/09/08/minnesota-state-fair-draws-19-million-visitors-2026/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota State Fair: Origins and Traditions (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/event/minnesota-state-fair-origins-and-traditions",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Labor Day",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "First Monday in September; honors workers, closes the State Fair, and in most districts precedes the first day of school.",
+   "dateRule": "First Monday in September (Minn. Stat. 645.44).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-07",
+     "endDate": null,
+     "source": "Minnesota State Fair (Labor Day attendance on its final day, Sept. 7, 2026)",
+     "sourceUrl": "https://www.mnstatefair.org/updates/2026-fair",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-06",
+     "endDate": null,
+     "source": "Calculated: first Monday in September",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-04",
+     "endDate": null,
+     "source": "Calculated: first Monday in September",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The contributions of working people and the labor movement.",
+   "howCelebratedInMinnesota": "Labor Day is the last day of the State Fair. From 1900 to 1910 about 30,000 people joined St. Paul's Labor Day parade and Harriet Island picnic each year, MNopedia records. State law bars most public school districts from starting the school year before Labor Day.",
+   "minnesotaEvents": [],
+   "workplaceNote": "A legal holiday under Minn. Stat. 645.44; Minn. Stat. 120A.40 bars most districts from starting school before Labor Day.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Statutes 120A.40",
+     "url": "https://www.revisor.mn.gov/statutes/cite/120A.40",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Labor and Labor Organizing in Minnesota (MNopedia)",
+     "url": "https://www.mnhs.org/mnopedia/search/index/labor-and-labor-organizing-minnesota",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "2026 Minnesota State Fair wrap",
+     "url": "https://www.mnstatefair.org/updates/2026-fair",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Indigenous Peoples Day",
+   "alsoKnownAs": [
+    "formerly Columbus Day in Minnesota law"
+   ],
+   "kind": "national",
+   "capsule": "Second Monday in October, named in Minnesota law; the state executive branch does not close that day.",
+   "dateRule": "Second Monday in October (Minn. Stat. 645.44).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-12",
+     "endDate": null,
+     "source": "Calculated: second Monday in October",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-11",
+     "endDate": null,
+     "source": "Calculated: second Monday in October",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-09",
+     "endDate": null,
+     "source": "Calculated: second Monday in October",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "As named in Minnesota statute. Observances belong to Tribal Nations and are not described here.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": "Minn. Stat. 645.44 lists it as a holiday but excludes it for the state executive branch; other branches and local governments decide for themselves, and public-employer contracts naming Columbus Day must cite Indigenous Peoples Day.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Halloween",
+   "alsoKnownAs": [],
+   "kind": "cultural",
+   "capsule": "October 31; costumes and trick-or-treating, with Anoka, the self-styled Halloween Capital of the World, holding parades since 1920.",
+   "dateRule": "October 31. Anoka's Grande Day Parade is set each year by Anoka Halloween Inc., usually on a Saturday before the 31st.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-31",
+     "endDate": null,
+     "source": "Fixed by custom; no official page opened stating the date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-31",
+     "endDate": null,
+     "source": "Fixed by custom; no official page opened stating the date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-31",
+     "endDate": null,
+     "source": "Fixed by custom; no official page opened stating the date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The eve of All Saints' Day, now a broad secular festival.",
+   "howCelebratedInMinnesota": "Anoka Halloween Inc. says Anoka civic clubs organized a citywide celebration in 1920 to divert young people from pranks. The 2026 Grande Day Parade ran on Anoka's Main Street on Oct. 24, 1-3:30 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Grande Day Parade",
+     "place": "Anoka Main Street",
+     "link": "https://anokahalloween.com/event/grande-day-parade/",
+     "organizerDates": "Saturday, Oct. 24, 2026, 1:00-3:30 p.m. (Anoka Halloween Inc.)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Grande Day Parade (Anoka Halloween)",
+     "url": "https://anokahalloween.com/event/grande-day-parade/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The History of Anoka Halloween",
+     "url": "https://anokahalloween.com/history/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Election Day (general election)",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "First Tuesday after the first Monday in November in even years; Minnesota workers may take paid time to vote.",
+   "dateRule": "State general elections fall on the first Tuesday after the first Monday in November of even-numbered years; odd years hold only local elections.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-03",
+     "endDate": null,
+     "source": "KAXE report on the Nov. 3, 2026 election",
+     "sourceUrl": "https://www.kaxe.org/elections/2026-10-19/early-voting-opens-in-mn-midterms-as-absentee-ballots-roll-in",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No statewide general election in 2027",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-07",
+     "endDate": null,
+     "source": "Calculated: first Tuesday after the first Monday in November",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Voting for federal, state and local offices.",
+   "howCelebratedInMinnesota": "Minnesota had 76.35 percent turnout in 2024. By Oct. 16, 2026, officials had accepted 202,252 absentee ballots, 17 percent above the same point in 2022.",
+   "minnesotaEvents": [],
+   "workplaceNote": "Minn. Stat. 204C.04 lets employees leave work to vote, on Election Day or during in-person early voting, without penalty or loss of pay.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 204C.04",
+     "url": "https://www.revisor.mn.gov/statutes/cite/204C.04",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Early voting opens in MN midterms (KAXE)",
+     "url": "https://www.kaxe.org/elections/2026-10-19/early-voting-opens-in-mn-midterms-as-absentee-ballots-roll-in",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota leads US in voter turnout for 2024 election (KEYC)",
+     "url": "https://www.keyc.com/2024/11/22/minnesota-leads-us-voter-turnout-2024-election/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Firearms deer season opener",
+   "alsoKnownAs": [
+    "Deer opener"
+   ],
+   "kind": "cultural",
+   "capsule": "Early November Saturday when hundreds of thousands of Minnesotans head out deer hunting with family and friends.",
+   "dateRule": "Set by the Minnesota Department of Natural Resources each year, on a Saturday in early November.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-07",
+     "endDate": null,
+     "source": "Minnesota DNR",
+     "sourceUrl": "https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of the firearms deer hunting season.",
+   "howCelebratedInMinnesota": "The DNR expected more than 400,000 hunters for the Nov. 7, 2026 opener and describes it as a time of memories with friends and family outdoors. It matters most in Greater Minnesota; see the rural page.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota DNR provides deer hunting outlook and regulation reminders",
+     "url": "https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Veterans Day",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "November 11; honors all who served in the U.S. armed forces, with the state's official program in Inver Grove Heights.",
+   "dateRule": "November 11. If it falls on a Saturday the Friday before is the holiday; if Sunday, the Monday after.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-11",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes November 11",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-11",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes November 11",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-11",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes November 11",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Service by U.S. military veterans.",
+   "howCelebratedInMinnesota": "The state's official Veterans Day program has been held in Inver Grove Heights with a breakfast for veterans and families and music by the 34th Infantry Division Red Bull Band. Minnesota has about 295,703 veterans.",
+   "minnesotaEvents": [],
+   "workplaceNote": "A legal holiday under Minn. Stat. 645.44; public-employer contracts must cite Nov. 11. Nov. 11, 2028 is a Saturday, so Friday, Nov. 10, 2028 is observed.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Hundreds Gather At State Veterans Day Program (CBS Minnesota)",
+     "url": "https://www.cbsnews.com/minnesota/news/hundreds-gather-at-state-veterans-day-program/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota: Home to nearly 300,000 veterans (KTTC)",
+     "url": "https://www.kttc.com/2025/11/11/minnesota-home-nearly-300000-veterans-latest-state-data-shows/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "thanksgiving",
+   "name": "Thanksgiving",
+   "alsoKnownAs": [],
+   "kind": "national",
+   "capsule": "Fourth Thursday in November; a family harvest meal, often turkey, from the nation's top turkey-producing state.",
+   "dateRule": "Fourth Thursday in November (Minn. Stat. 645.44). The state executive branch also closes the Friday after.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-26",
+     "endDate": null,
+     "source": "Calculated: fourth Thursday in November",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-25",
+     "endDate": null,
+     "source": "Calculated: fourth Thursday in November",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-23",
+     "endDate": null,
+     "source": "Calculated: fourth Thursday in November",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A national day of thanks, centered on a family meal.",
+   "howCelebratedInMinnesota": "Each year the governor receives an official Thanksgiving turkey at the Capitol with the Minnesota Turkey Growers Association, honoring the state's more than 600 turkey farms; Minnesota raised 32.0 million turkeys in 2025, the most of any state.",
+   "minnesotaEvents": [],
+   "workplaceNote": "A legal holiday under Minn. Stat. 645.44; for the state executive branch the Friday after Thanksgiving is also a holiday, and other public bodies may choose.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Turkeys Raised, USDA NASS, Sept. 26, 2025",
+     "url": "https://www.nass.usda.gov/Publications/Todays_Reports/reports/tuky0925.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota turkey showcased at the State Capitol (WDIO)",
+     "url": "https://www.wdio.com/top-stories/minnesota-turkey-showcased-at-the-state-capitol/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "christmas",
+   "name": "Christmas",
+   "alsoKnownAs": [],
+   "kind": "religious",
+   "capsule": "December 25; a Christian feast and the year's biggest family and shopping holiday, a Minnesota legal holiday.",
+   "dateRule": "December 25. If it falls on a Saturday the Friday before is the holiday; if Sunday, the Monday after.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes December 25",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes December 25",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Minn. Stat. 645.44 fixes December 25",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birth of Jesus in Christian belief; also a broad civic and family holiday.",
+   "howCelebratedInMinnesota": "Congregations hold services; public light displays include Duluth's Bentleyville Tour of Lights, which runs Nov. 21 to Dec. 26, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Bentleyville Tour of Lights",
+     "place": "Duluth",
+     "link": "https://www.bentleyvilleusa.org/",
+     "organizerDates": "Nov. 21-Dec. 26, 2026 (Bentleyville)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": "A legal holiday under Minn. Stat. 645.44. Dec. 25, 2027 is a Saturday, so Friday, Dec. 24, 2027 is observed.",
+   "sources": [
+    {
+     "title": "Minnesota Statutes 645.44, subd. 5 (holidays)",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Bentleyville Tour of Lights",
+     "url": "https://www.bentleyvilleusa.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}

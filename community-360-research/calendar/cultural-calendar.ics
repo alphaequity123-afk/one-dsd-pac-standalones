@@ -42,6 +42,20 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:new-years-day-2026-01-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:New Year's Day
+DESCRIPTION:The start of the calendar year. Date: January 1 (Gregorian). 
+ If it falls on a Saturday\, the preceding Friday is the observed holiday\
+ ; if Sunday\, the following Monday. Source: Minn. Stat. 645.44 fixes Janu
+ ary 1 https://www.revisor.mn.gov/statutes/cite/645.44 Communities: Americ
+ an culture
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:cuban-revolution-exile-anniversary-2026-01-01@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260101
@@ -732,10 +746,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
 SUMMARY:St. Patrick's Day
-DESCRIPTION:Feast of Saint Patrick. Date: March 17. Source: United States
-  Conference of Catholic Bishops\, Liturgical Calendar for the Dioceses of
-  the USA 2027 https://www.usccb.org/resources/2027cal.pdf Communities: Am
- erican culture\, European American Minnesota
+DESCRIPTION:The feast of St. Patrick\, patron saint of Ireland\, now a br
+ oad celebration of Irish heritage. Date: March 17. St. Paul's parade is h
+ eld on the day itself at noon. Source: MPR News report on the 60th parade
+  https://www.mprnews.org/story/2026/03/17/thousands-march-through-st-paul
+ -in-60th-st-patricks-day-parade Communities: American culture\, European 
+ American Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1756,10 +1772,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 SUMMARY:Independence Day (United States)
-DESCRIPTION:The 1776 Declaration of Independence. Date: July 4. Source: M
- innesota Revisor of Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday defini
- tion) https://www.revisor.mn.gov/statutes/cite/645.44 Communities: Americ
- an culture\, European American Minnesota\, Minnesota culture
+DESCRIPTION:The Declaration of Independence of 1776 and the founding of t
+ he United States. Date: July 4. If it falls on a Saturday the Friday befo
+ re is the holiday\; if Sunday\, the Monday after. Source: Minn. Stat. 645
+ .44 fixes July 4 https://www.revisor.mn.gov/statutes/cite/645.44 Communit
+ ies: American culture\, European American Minnesota\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2523,11 +2540,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260908
 SUMMARY:Minnesota State Fair
-DESCRIPTION:Minnesota agriculture\, art and industry\; held since 1859\, 
- growing out of an 1855 territorial fair. Date: Twelve days ending on Labo
- r Day. Source: FOX 9 daily attendance report https://www.fox9.com/news/mi
- nnesota-state-fair-attendance-how-many-people-went-2026 Communities: Minn
- esota culture\, Rural and Greater Minnesota
+DESCRIPTION:Minnesota's agricultural and community fair\, held since 1859
+  and on its permanent grounds since 1885. Date: The 12 days ending on Lab
+ or Day\, set by the Minnesota State Fair. Source: Minnesota State Fair ht
+ tps://www.mnstatefair.org/updates/2026-fair Communities: American culture
+ \, Minnesota culture\, Rural and Greater Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2607,6 +2624,19 @@ SUMMARY:Western Minnesota Steam Threshers Reunion
 DESCRIPTION:Older ways of farm work. Date: Labor Day weekend. Source: Org
  anizer https://rollag.com/ Communities: Rural and Greater Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:labor-day-2026-09-07@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Labor Day
+DESCRIPTION:The contributions of working people and the labor movement. D
+ ate: First Monday in September (Minn. Stat. 645.44). Source: Minnesota St
+ ate Fair (Labor Day attendance on its final day\, Sept. 7\, 2026) https:/
+ /www.mnstatefair.org/updates/2026-fair Communities: American culture
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3440,6 +3470,21 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:election-day-general-election-2026-11-03@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Election Day (general election)
+DESCRIPTION:Voting for federal\, state and local offices. Date: State gen
+ eral elections fall on the first Tuesday after the first Monday in Novemb
+ er of even-numbered years\; odd years hold only local elections. Source: 
+ KAXE report on the Nov. 3\, 2026 election https://www.kaxe.org/elections/
+ 2026-10-19/early-voting-opens-in-mn-midterms-as-absentee-ballots-roll-in 
+ Communities: American culture
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:independence-of-cuenca-2026-11-03@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261103
@@ -3464,6 +3509,20 @@ DESCRIPTION:Black-owned businesses\, in the awards' second year. Date: An
  ttps://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-fina
  lists/ Communities: African American Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:firearms-deer-season-opener-2026-11-07@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Firearms deer season opener
+DESCRIPTION:The start of the firearms deer hunting season. Date: Set by t
+ he Minnesota Department of Natural Resources each year\, on a Saturday in
+  early November. Source: Minnesota DNR https://www.dnr.state.mn.us/news/2
+ 026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-remi
+ nders Communities: American culture
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3531,6 +3590,19 @@ DESCRIPTION:Diwali for Jains\, called Nirvan on the schedule. Date: Propo
  sota\, proposed schedule https://jaincentermn.org/2026-events Communities
  : Indian (Asian Indian) Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:veterans-day-2026-11-11@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Veterans Day
+DESCRIPTION:Service by U.S. military veterans. Date: November 11. If it f
+ alls on a Saturday the Friday before is the holiday\; if Sunday\, the Mon
+ day after. Source: Minn. Stat. 645.44 fixes November 11 https://www.revis
+ or.mn.gov/statutes/cite/645.44 Communities: American culture
+CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3725,11 +3797,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Thanksgiving
-DESCRIPTION:United States harvest and thanksgiving holiday. Date: Fourth 
- Thursday in November. Source: U.S. Office of Personnel Management\, Feder
- al Holidays https://www.opm.gov/policy-data-oversight/pay-leave/federal-h
- olidays/ Communities: American culture\, European American Minnesota\, Mi
- nnesota culture
+DESCRIPTION:A national day of thanks\, centered on a family meal. Date: F
+ ourth Thursday in November (Minn. Stat. 645.44). The state executive bran
+ ch also closes the Friday after. Source: U.S. Office of Personnel Managem
+ ent\, Federal Holidays https://www.opm.gov/policy-data-oversight/pay-leav
+ e/federal-holidays/ Communities: American culture\, European American Min
+ nesota\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3921,6 +3994,20 @@ DESCRIPTION:New Year's Eve vigil\, remembering the 1862 vigil before the
  Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Communiti
  es: African American Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:new-years-day-2027-01-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:New Year's Day
+DESCRIPTION:The start of the calendar year. Date: January 1 (Gregorian). 
+ If it falls on a Saturday\, the preceding Friday is the observed holiday\
+ ; if Sunday\, the following Monday. Source: Minn. Stat. 645.44 fixes Janu
+ ary 1 https://www.revisor.mn.gov/statutes/cite/645.44 Communities: Americ
+ an culture
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4398,10 +4485,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:St. Patrick's Day
-DESCRIPTION:Feast of Saint Patrick. Date: March 17. Source: United States
-  Conference of Catholic Bishops\, Liturgical Calendar for the Dioceses of
-  the USA 2027 https://www.usccb.org/resources/2027cal.pdf Communities: Am
- erican culture\, European American Minnesota
+DESCRIPTION:The feast of St. Patrick\, patron saint of Ireland\, now a br
+ oad celebration of Irish heritage. Date: March 17. St. Paul's parade is h
+ eld on the day itself at noon. Source: United States Conference of Cathol
+ ic Bishops\, Liturgical Calendar for the Dioceses of the USA 2027 https:/
+ /www.usccb.org/resources/2027cal.pdf Communities: American culture\, Euro
+ pean American Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4878,10 +4967,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 SUMMARY:Independence Day (United States)
-DESCRIPTION:The 1776 Declaration of Independence. Date: July 4. Source: M
- innesota Revisor of Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday defini
- tion) https://www.revisor.mn.gov/statutes/cite/645.44 Communities: Americ
- an culture\, European American Minnesota\, Minnesota culture
+DESCRIPTION:The Declaration of Independence of 1776 and the founding of t
+ he United States. Date: July 4. If it falls on a Saturday the Friday befo
+ re is the holiday\; if Sunday\, the Monday after. Source: Minn. Stat. 645
+ .44 fixes July 4 https://www.revisor.mn.gov/statutes/cite/645.44 Communit
+ ies: American culture\, European American Minnesota\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5133,6 +5223,20 @@ DESCRIPTION:Ukraine's declaration of independence from the Soviet Union i
  n 1991. Date: August 24. Source: Fixed date https://old.uaccmn.org/30-yea
  rs-of-ukrainian-independence/ Communities: Ukrainian Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesota-state-fair-2027-08-26@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Minnesota State Fair
+DESCRIPTION:Minnesota's agricultural and community fair\, held since 1859
+  and on its permanent grounds since 1885. Date: The 12 days ending on Lab
+ or Day\, set by the Minnesota State Fair. Source: KTTC report of the fair
+ 's announced 2027 start https://www.kttc.com/2026/09/08/minnesota-state-f
+ air-draws-19-million-visitors-2026/ Communities: American culture
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5440,6 +5544,19 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:veterans-day-2027-11-11@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:Veterans Day
+DESCRIPTION:Service by U.S. military veterans. Date: November 11. If it f
+ alls on a Saturday the Friday before is the holiday\; if Sunday\, the Mon
+ day after. Source: Minn. Stat. 645.44 fixes November 11 https://www.revis
+ or.mn.gov/statutes/cite/645.44 Communities: American culture
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:guru-nanak-gurpurab-2027-11-14@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271114
@@ -5487,11 +5604,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271126
 SUMMARY:Thanksgiving
-DESCRIPTION:United States harvest and thanksgiving holiday. Date: Fourth 
- Thursday in November. Source: U.S. Office of Personnel Management\, Feder
- al Holidays https://www.opm.gov/policy-data-oversight/pay-leave/federal-h
- olidays/ Communities: American culture\, European American Minnesota\, Mi
- nnesota culture
+DESCRIPTION:A national day of thanks\, centered on a family meal. Date: F
+ ourth Thursday in November (Minn. Stat. 645.44). The state executive bran
+ ch also closes the Friday after. Source: U.S. Office of Personnel Managem
+ ent\, Federal Holidays https://www.opm.gov/policy-data-oversight/pay-leav
+ e/federal-holidays/ Communities: American culture\, European American Min
+ nesota\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5676,6 +5794,20 @@ DESCRIPTION:New Year's Eve vigil\, remembering the 1862 vigil before the
  Proclamation https://home.nps.gov/articles/000/freedoms-eve.htm Communiti
  es: African American Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:new-years-day-2028-01-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:New Year's Day
+DESCRIPTION:The start of the calendar year. Date: January 1 (Gregorian). 
+ If it falls on a Saturday\, the preceding Friday is the observed holiday\
+ ; if Sunday\, the following Monday. Source: Minn. Stat. 645.44 fixes Janu
+ ary 1 https://www.revisor.mn.gov/statutes/cite/645.44 Communities: Americ
+ an culture
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -6125,10 +6257,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280317
 DTEND;VALUE=DATE:20280318
 SUMMARY:St. Patrick's Day
-DESCRIPTION:Feast of Saint Patrick. Date: March 17. Source: United States
-  Conference of Catholic Bishops\, Liturgical Calendar for the Dioceses of
-  the USA 2027 https://www.usccb.org/resources/2027cal.pdf Communities: Am
- erican culture\, European American Minnesota
+DESCRIPTION:The feast of St. Patrick\, patron saint of Ireland\, now a br
+ oad celebration of Irish heritage. Date: March 17. St. Paul's parade is h
+ eld on the day itself at noon. Source: United States Conference of Cathol
+ ic Bishops\, Liturgical Calendar for the Dioceses of the USA 2027 https:/
+ /www.usccb.org/resources/2027cal.pdf Communities: American culture\, Euro
+ pean American Minnesota
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6554,10 +6688,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280704
 DTEND;VALUE=DATE:20280705
 SUMMARY:Independence Day (United States)
-DESCRIPTION:The 1776 Declaration of Independence. Date: July 4. Source: M
- innesota Revisor of Statutes\, Minn. Stat. 645.44 subd. 5 (Holiday defini
- tion) https://www.revisor.mn.gov/statutes/cite/645.44 Communities: Americ
- an culture\, European American Minnesota\, Minnesota culture
+DESCRIPTION:The Declaration of Independence of 1776 and the founding of t
+ he United States. Date: July 4. If it falls on a Saturday the Friday befo
+ re is the holiday\; if Sunday\, the Monday after. Source: Minn. Stat. 645
+ .44 fixes July 4 https://www.revisor.mn.gov/statutes/cite/645.44 Communit
+ ies: American culture\, European American Minnesota\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -7004,6 +7139,19 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:veterans-day-2028-11-11@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20281111
+DTEND;VALUE=DATE:20281112
+SUMMARY:Veterans Day
+DESCRIPTION:Service by U.S. military veterans. Date: November 11. If it f
+ alls on a Saturday the Friday before is the holiday\; if Sunday\, the Mon
+ day after. Source: Minn. Stat. 645.44 fixes November 11 https://www.revis
+ or.mn.gov/statutes/cite/645.44 Communities: American culture
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:discovery-of-puerto-rico-day-2028-11-19@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281119
@@ -7036,11 +7184,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281123
 DTEND;VALUE=DATE:20281124
 SUMMARY:Thanksgiving
-DESCRIPTION:United States harvest and thanksgiving holiday. Date: Fourth 
- Thursday in November. Source: U.S. Office of Personnel Management\, Feder
- al Holidays https://www.opm.gov/policy-data-oversight/pay-leave/federal-h
- olidays/ Communities: American culture\, European American Minnesota\, Mi
- nnesota culture
+DESCRIPTION:A national day of thanks\, centered on a family meal. Date: F
+ ourth Thursday in November (Minn. Stat. 645.44). The state executive bran
+ ch also closes the Friday after. Source: U.S. Office of Personnel Managem
+ ent\, Federal Holidays https://www.opm.gov/policy-data-oversight/pay-leav
+ e/federal-holidays/ Communities: American culture\, European American Min
+ nesota\, Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT

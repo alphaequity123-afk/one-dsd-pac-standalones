@@ -1,0 +1,392 @@
+[
+ {
+  "name": "Mall of America",
+  "type": "mall",
+  "neighborhoodOrCity": "Bloomington (2131 Lindau Lane)",
+  "whatItIs": "Largest U.S. mall, opened 1992 on the Metropolitan Stadium site; reports 32 million visitors a year.",
+  "link": "https://www.mallofamerica.com/about",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists events and dining specials dated Sept.-Nov. 2026; Dakota County announced its July 3-5, 2026 America 250 exhibit there."
+ },
+ {
+  "name": "Southdale Center",
+  "type": "mall",
+  "neighborhoodOrCity": "Edina",
+  "whatItIs": "First fully enclosed, climate-controlled U.S. mall, opened Oct. 8, 1956 by Dayton's with designer Victor Gruen.",
+  "link": "https://www.mnhs.org/mnopedia/search/index/structure/southdale-center",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "MNopedia gives the history; the owner's 2026 anniversary page and the mall's own site did not load text when checked."
+ },
+ {
+  "name": "Rosedale Center",
+  "type": "mall",
+  "neighborhoodOrCity": "Roseville",
+  "whatItIs": "Regional shopping mall.",
+  "link": "https://www.rosedalecenter.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loaded but showed no readable hours or dated content."
+ },
+ {
+  "name": "Target Corporation (headquarters)",
+  "type": "retail corporation",
+  "neighborhoodOrCity": "Downtown Minneapolis",
+  "whatItIs": "General merchandise retailer; No. 41 on the 2025 Fortune 500.",
+  "link": "https://corporate.target.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Corporate site shows news items dated Oct. 28-30, 2026."
+ },
+ {
+  "name": "Best Buy (headquarters)",
+  "type": "retail corporation",
+  "neighborhoodOrCity": "Richfield",
+  "whatItIs": "Consumer electronics retailer; No. 108 on the 2025 Fortune 500.",
+  "link": "https://corporate.bestbuy.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Corporate site links a 2026 holiday calendar and a 2026 corporate responsibility report."
+ },
+ {
+  "name": "Cub",
+  "type": "grocery",
+  "neighborhoodOrCity": "Statewide (Twin Cities based)",
+  "whatItIs": "Supermarket chain with pharmacy and online ordering.",
+  "link": "https://www.cub.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site serves a store and online ordering page when checked Oct. 31, 2026."
+ },
+ {
+  "name": "Lunds & Byerlys",
+  "type": "grocery",
+  "neighborhoodOrCity": "Twin Cities metro",
+  "whatItIs": "Upscale supermarket chain.",
+  "link": "https://www.lundsandbyerlys.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site carries a 2026 copyright and current promotions."
+ },
+ {
+  "name": "Holiday Stationstores",
+  "type": "convenience store and fuel",
+  "neighborhoodOrCity": "Statewide",
+  "whatItIs": "Convenience and fuel chain, now operated by Circle K (Alimentation Couche-Tard).",
+  "link": "https://www.holidaystationstores.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site carries a 2026 copyright naming Circle K Stores and Alimentation Couche-Tard."
+ },
+ {
+  "name": "Matt's Bar",
+  "type": "restaurant",
+  "neighborhoodOrCity": "South Minneapolis",
+  "whatItIs": "Neighborhood burger bar since 1954, home of the original 'Jucy Lucy.'",
+  "link": "https://mattsbar.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts current ordering and line instructions for dine-in and takeout; no dated post found."
+ },
+ {
+  "name": "5-8 Club",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis, Champlin, Maplewood, West St. Paul",
+  "whatItIs": "Burger restaurant known for its 'Juicy Lucy'; four locations.",
+  "link": "https://www.5-8club.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists menus for four locations and online ordering."
+ },
+ {
+  "name": "Murray's Steakhouse",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Downtown Minneapolis",
+  "whatItIs": "Long-running downtown steakhouse.",
+  "link": "https://www.murraysrestaurant.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current lunch and dinner hours."
+ },
+ {
+  "name": "Manny's Steakhouse",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Downtown Minneapolis",
+  "whatItIs": "Steakhouse serving its own herd's beef.",
+  "link": "https://www.mannyssteakhouse.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists location and hours and current menu text."
+ },
+ {
+  "name": "Jax Cafe",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Northeast Minneapolis",
+  "whatItIs": "Family-run restaurant and bar since 1933, in a building dating to 1910.",
+  "link": "https://www.jaxcafe.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists brunch, lunch, happy hour and dinner seating hours with a 2026 copyright."
+ },
+ {
+  "name": "Mancini's Char House",
+  "type": "restaurant",
+  "neighborhoodOrCity": "West Seventh, St. Paul",
+  "whatItIs": "Supper-club-style steakhouse.",
+  "link": "https://mancinis.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site notes its 2026 Culinary North Stars Hall of Fame selection and 2026 inductees."
+ },
+ {
+  "name": "Wiederholt's Supper Club",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Miesville (near Hastings)",
+  "whatItIs": "Family-run supper club, a Midwestern dining tradition.",
+  "link": "https://www.wiederholtssupperclub.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loads with an hours heading but no readable hours or dated content."
+ },
+ {
+  "name": "Mickey's Dining Car",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Downtown St. Paul",
+  "whatItIs": "1930s railcar diner, reopened October 2024 after a pandemic closure.",
+  "link": "https://www.mickeysdiningcar.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site did not respond when checked; no 2025-26 article opened."
+ },
+ {
+  "name": "Al's Breakfast",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Dinkytown, Minneapolis",
+  "whatItIs": "Small counter breakfast diner.",
+  "link": "https://www.alsbreakfast.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site did not respond when checked."
+ },
+ {
+  "name": "SPAM Museum",
+  "type": "museum and shop",
+  "neighborhoodOrCity": "Austin",
+  "whatItIs": "Hormel's free museum and gift shop.",
+  "link": "https://www.spam.com/museum",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own page lists museum and shop hours, 10 a.m. to 4 p.m. daily."
+ },
+ {
+  "name": "Minnesota State Fair",
+  "type": "fair and marketplace",
+  "neighborhoodOrCity": "Falcon Heights",
+  "whatItIs": "12-day state fair ending Labor Day; 1,923,325 visitors in 2026.",
+  "link": "https://www.mnstatefair.org/updates/2026-fair",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own wrap-up of the Aug. 27-Sept. 7, 2026 fair; 2027 fair announced to start Aug. 26."
+ },
+ {
+  "name": "Valleyfair",
+  "type": "amusement park",
+  "neighborhoodOrCity": "Shakopee",
+  "whatItIs": "Seasonal amusement park.",
+  "link": "https://www.valleyfair.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site sells 2026 admission and 2027 season passes and shows calendar hours."
+ },
+ {
+  "name": "Vali-Hi Drive-In",
+  "type": "drive-in theater",
+  "neighborhoodOrCity": "Lake Elmo (11260 Hudson Blvd. N.)",
+  "whatItIs": "Seasonal double-feature drive-in movie theater.",
+  "link": "https://www.valihi.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site shows address and policies; latest copyright year 2022 and no dated schedule."
+ },
+ {
+  "name": "Bentleyville Tour of Lights",
+  "type": "seasonal attraction",
+  "neighborhoodOrCity": "Duluth",
+  "whatItIs": "Free walk-through holiday lighting display.",
+  "link": "https://www.bentleyvilleusa.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site announces Nov. 21-Dec. 26, 2026, its 23rd season."
+ },
+ {
+  "name": "U.S. Bank Stadium",
+  "type": "sports and event venue",
+  "neighborhoodOrCity": "Downtown Minneapolis",
+  "whatItIs": "Home of the Minnesota Vikings.",
+  "link": "https://www.usbankstadium.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists 2026 events."
+ },
+ {
+  "name": "Target Field",
+  "type": "sports venue",
+  "neighborhoodOrCity": "Downtown Minneapolis",
+  "whatItIs": "Home of the Minnesota Twins.",
+  "link": "https://www.mlb.com/twins/ballpark",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Team ballpark page references the 2026 yearbook and season."
+ },
+ {
+  "name": "Target Center",
+  "type": "sports and event venue",
+  "neighborhoodOrCity": "Downtown Minneapolis",
+  "whatItIs": "Home of the Timberwolves and Lynx.",
+  "link": "https://www.targetcenter.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists 2026 events."
+ },
+ {
+  "name": "Grand Casino Arena",
+  "type": "sports and event venue",
+  "neighborhoodOrCity": "Downtown St. Paul",
+  "whatItIs": "Home of the Wild and the boys' state hockey tournament; formerly Xcel Energy Center.",
+  "link": "https://www.grandcasinoarena.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists upcoming Wild and other events; Post Bulletin reported the March 2026 tournament there."
+ },
+ {
+  "name": "Allianz Field",
+  "type": "sports venue",
+  "neighborhoodOrCity": "Midway, St. Paul",
+  "whatItIs": "Home of Minnesota United FC.",
+  "link": "https://www.allianzfield.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site promotes its 2026 concert series and a 2026 Twin Cities Business award."
+ },
+ {
+  "name": "Minnesota Chamber of Commerce",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "St. Paul (statewide)",
+  "whatItIs": "Statewide business association.",
+  "link": "https://www.mnchamber.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts 2026 reports and the 2026 Coolest Thing Made in Minnesota contest."
+ },
+ {
+  "name": "St. Paul Area Chamber",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Regional business association.",
+  "link": "https://www.saintpaulchamber.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists office hours and a 2026 Q4 item."
+ },
+ {
+  "name": "Minneapolis Regional Chamber",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Regional business association.",
+  "link": "https://www.minneapolischamber.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site carries a 2026 copyright."
+ },
+ {
+  "name": "MPR News (Minnesota Public Radio)",
+  "type": "media",
+  "neighborhoodOrCity": "St. Paul (statewide)",
+  "whatItIs": "Public radio newsroom.",
+  "link": "https://www.mprnews.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site carries Election 2026 coverage and stories dated October 2026."
+ },
+ {
+  "name": "Pioneer Press",
+  "type": "media",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Daily newspaper.",
+  "link": "https://www.twincities.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site shows the Oct. 30, 2026 edition."
+ },
+ {
+  "name": "Star Tribune",
+  "type": "media",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Statewide daily newspaper.",
+  "link": "https://www.startribune.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site refused automated access when checked; widely cited by other outlets in 2026."
+ },
+ {
+  "name": "KARE 11",
+  "type": "media",
+  "neighborhoodOrCity": "Golden Valley (Twin Cities)",
+  "whatItIs": "NBC television station.",
+  "link": "https://www.kare11.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site carries a 2026 Minnesota voter guide."
+ },
+ {
+  "name": "KSTP",
+  "type": "media",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "ABC television station.",
+  "link": "https://kstp.com/kstp-news/local-news/3m-to-bring-employees-back-to-office-4-days-a-week-starting-in-september/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site pages show 2026 MSHSL tournament promotions."
+ },
+ {
+  "name": "FOX 9",
+  "type": "media",
+  "neighborhoodOrCity": "Eden Prairie (Twin Cities)",
+  "whatItIs": "Fox television station.",
+  "link": "https://www.fox9.com/news/things-do-minnesota-5-things-do-fourth-july-weekend-2026",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Articles dated June 30, 2026 and 2026 election coverage."
+ },
+ {
+  "name": "Twin Cities Business",
+  "type": "media",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Business magazine.",
+  "link": "https://tcbmag.com/target-issues-return-to-office-orders/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site shows its October/November 2026 issue."
+ },
+ {
+  "name": "Minnesota Monthly",
+  "type": "media",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Lifestyle magazine.",
+  "link": "https://www.minnesotamonthly.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site lists a digital edition dated Oct. 28, 2026."
+ },
+ {
+  "name": "Mpls.St.Paul Magazine",
+  "type": "media",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "City magazine.",
+  "link": "https://mspmag.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site loaded but no dated item was readable when checked."
+ }
+]
