@@ -1660,6 +1660,19 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:black-men-teach-gold-star-gala-2026-06-20@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Black Men Teach Gold Star Gala
+DESCRIPTION:Black male teachers and their place in Minnesota classrooms. 
+ Date: Announced each year by Black Men Teach. Source: Black Men Teach htt
+ ps://blackmenteach.org/event/gold-star-gala-2026 Communities: African Ame
+ rican Minnesota
+CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:buraanbur-night-at-the-somali-museum-2026-06-20@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260620
@@ -1914,10 +1927,12 @@ DTSTART;VALUE=DATE:20260718
 DTEND;VALUE=DATE:20260719
 SUMMARY:Rondo Days
 DESCRIPTION:The Rondo neighborhood and its families\, displaced by I-94 c
- onstruction from 1956 to 1968. First held in July 1983. Date: Usually the
-  third Saturday of July in St. Paul\, as organizers set it each year. Sou
- rce: MPR News\, July 15\, 2026\, says 'Saturday' that weekend\, which is 
- July 18 https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-
+ onstruction from 1956 to 1968. First held in July 1983. Date: Held on the
+  third Saturday of July in St. Paul (WCCO\, 2024)\, with the date set eac
+ h year by Rondo Avenue Inc. Source: MPR News\, July 15\, 2026 ('this Satu
+ rday from noon to 7:00')\, and the Summit-University Planning Council lis
+ ting (12-7 p.m.\, MLK Center\; the date is misprinted there as 'July 18\,
+  2926') https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-
  celebrate-the-history-of-st-pauls-iconic-neighborhood Communities: Africa
  n American Minnesota\, Minnesota culture
 CATEGORIES:community festival
@@ -2246,6 +2261,18 @@ DESCRIPTION:Scholarship on Oromo life. The 2026 theme was "Oromos on the
  change\, and later years were not found. Source: Oromo Studies Associatio
  n https://oromostudies.org/ Communities: Oromo Minnesota
 CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rondo-block-party-2026-08-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Rondo Block Party
+DESCRIPTION:Neighborhood life in historic Rondo. Date: Announced each yea
+ r by organizers. Source: Rondo Center of Diverse Expression events page h
+ ttps://rcodemn.org/events Communities: African American Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2906,6 +2933,19 @@ DESCRIPTION:Start of the 1810 war of independence. Date: September 16. Co
  scanso-obligatorio-para-este-2026 Communities: Latino Minnesota\, Mexican
   Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:every-brick-counts-ceremony-2026-09-17@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Every Brick Counts Ceremony
+DESCRIPTION:Remembrance of Rondo through the plaza's commemorative bricks
+ . Date: Announced each year by the Rondo Center of Diverse Expression. So
+ urce: Rondo Center of Diverse Expression events page https://rcodemn.org/
+ events Communities: African American Minnesota
+CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3748,6 +3788,20 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mabl-foundation-scholarship-gala-2026-11-14@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:MABL Foundation Scholarship Gala
+DESCRIPTION:Black lawyers\, judges and law students in Minnesota\, and sc
+ holarships for the next generation. Date: Announced each year by the Minn
+ esota Association of Black Lawyers. Source: Minnesota Association of Blac
+ k Lawyers https://www.mabl.org/2026-mabl-scholarship-gala Communities: Af
+ rican American Minnesota
+CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:marathi-association-diwali-2026-11-14@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261114
@@ -3959,6 +4013,19 @@ DESCRIPTION:The start of Christmas celebrations for Karen Christians. Dat
  0 https://mnkaren.org/history-culture/karen-culture/celebrations/ Communi
  ties: Karen Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:black-nativity-penumbra-2026-12-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261225
+SUMMARY:Black Nativity (Penumbra)
+DESCRIPTION:Christmas told through music of the African diaspora. Date: A
+ nnounced each year by Penumbra\; runs in December. Source: Penumbra showt
+ imes list (the event text says Dec. 3 through 24) https://penumbracenter.
+ org/event/black-nativity-8/ Communities: African American Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

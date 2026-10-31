@@ -70,13 +70,15 @@ Checked: October 30, 2026. Each item gives the claim, what the opened source say
 
 ## Claims I could not support
 
-17. **Hennepin County about 190,000, Ramsey County about 80,000.** I could not open a table for these.
+17. **Hennepin County about 190,000, Ramsey County about 80,000.** These are roughly right only as counts of all Black residents, including African-born immigrants, not of African Americans.
+    **Source says:** The Census Bureau's 2020 to 2024 survey counts 206,831 Hennepin residents (give or take 1,137) and 85,205 Ramsey residents (give or take 1,010) who list Black alone or with another race, and 170,160 and 66,371 who list Black alone. Of the Black-alone residents, about 111,600 in Hennepin and 45,200 in Ramsey were born in the United States. The page should name the year, say which measure it uses, and make clear that these totals include immigrants.
+    **Links:** https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B02009&geo_ids=05000US27053,05000US27123,04000US27; https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B06004B&geo_ids=04000US27,05000US27053,05000US27123,05000US27003,05000US27037,05000US27163,05000US27109,05000US27145,05000US27137,05000US27139,05000US27013,05000US27027,16000US2743000,16000US2758000,16000US2707966,16000US2707948,16000US2754880,16000US2717000,16000US2706616,16000US2754214,16000US2708794,16000US2756896,16000US2713114,16000US2743252. Checked Oct. 31, 2026.
 18. **Neighborhood lists for North, South, and suburban Minneapolis.** Named neighborhoods broadly fit MNopedia's descriptions, but I could not confirm each as having "significant Black populations" today.
 19. **CROWN Act coverage in Minnesota.** I did not open the statute or a source.
 20. **Andrea Jenkins's current office.** I could not open a source on her current status, so the page should not present her as a sitting council member without checking.
 21. **Keith Ellison's third-term ballot on Nov. 3, 2026.** Not checked against a results or filing page. Coverage confirms he is Attorney General as of Oct. 21, 2026.
-22. **National statistics (Pew, Census, religion and denominational membership, sports shares, and similar).** These fall outside this Minnesota check and were not verified.
-23. **Page's statement that it found no Minnesota-based study on how African American Minnesotans understand disability, and no Black disabled-led organization.** I also found none, but I did not finish looking, so this should stay stated as limited.
+22. **National statistics (Pew, Census, religion and denominational membership, sports shares, and similar).** These fall outside Minnesota and were not checked.
+23. **Page's statement that it found no Minnesota-based study on how African American Minnesotans understand disability, and no Black disabled-led organization.** No Black disabled-led organization was found on a further check either. The page could add that the St. Paul/Minneapolis Black Deaf Advocates is named in the governor's April 2024 Deaf History Month proclamation (https://mn.gov/governor/assets/04.01.24%20Deaf%20History%20Month_SIgned_tcm1055-620392.pdf, checked Oct. 31, 2026).
 
 ## Checked and found consistent
 

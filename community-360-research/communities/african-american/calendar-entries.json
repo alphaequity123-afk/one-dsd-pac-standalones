@@ -136,13 +136,13 @@
    "alsoKnownAs": [],
    "kind": "community festival",
    "capsule": "St. Paul festival honoring Rondo, the Black neighborhood cut in half by Interstate 94.",
-   "dateRule": "Usually the third Saturday of July in St. Paul, as organizers set it each year.",
+   "dateRule": "Held on the third Saturday of July in St. Paul (WCCO, 2024), with the date set each year by Rondo Avenue Inc.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-07-18",
      "endDate": null,
-     "source": "MPR News, July 15, 2026, says 'Saturday' that weekend, which is July 18",
+     "source": "MPR News, July 15, 2026 ('this Saturday from noon to 7:00'), and the Summit-University Planning Council listing (12-7 p.m., MLK Center; the date is misprinted there as 'July 18, 2926')",
      "sourceUrl": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
      "verified": true
     },
@@ -150,7 +150,7 @@
      "year": 2027,
      "date": "2027-07-17",
      "endDate": null,
-     "source": "Calculated from the usual pattern; organizers confirm each year",
+     "source": "Calculated as the third Saturday of July; not yet announced",
      "sourceUrl": null,
      "verified": false
     },
@@ -158,21 +158,28 @@
      "year": 2028,
      "date": "2028-07-15",
      "endDate": null,
-     "source": "Calculated from the usual pattern; organizers confirm each year",
+     "source": "Calculated as the third Saturday of July; not yet announced",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "The Rondo neighborhood and its families, displaced by I-94 construction from 1956 to 1968. First held in July 1983.",
-   "howCelebratedInMinnesota": "In 2026: Martin Luther King Jr. Recreation Center, St. Paul, noon to 7 p.m., with live music, more than 18 food trucks, 30-plus vendors, a youth zone and a morning seniors brunch. The festival was not held from 2020 through 2023 and later returned after a five-year gap.",
+   "howCelebratedInMinnesota": "In 2026: Martin Luther King Jr. Recreation Center, St. Paul, noon to 7 p.m., with live music, more than 18 food trucks, 30-plus vendors, a youth zone and a morning seniors brunch. The festival was not held from 2020 through 2023 and later returned after a five-year gap. Rondo Avenue Inc., established in 1982, presented the 2026 festival with Kwamé and Bahamadia, DJs, food and a youth zone powered by the St. Paul Sports Club. In 2024 it opened with a 10 a.m. parade near St. Peter Claver Church.",
    "minnesotaEvents": [
     {
      "name": "Rondo Days 2026",
      "place": "Martin Luther King Jr. Recreation Center, St. Paul",
      "link": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
      "organizerDates": "Saturday, July 18, 2026, noon to 7 p.m.; organizers Merina Neal and Gayle Smaller",
-     "dateChecked": "2026-10-30"
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Rondo Days 2026 (Summit-University Planning Council listing)",
+     "place": "MLK Center, 271 Mackubin Ave., St. Paul",
+     "link": "https://www.summit-university.org/blog/rondo-days-2026",
+     "organizerDates": "July 18, 2026 (printed as 2926), 12-7 p.m.; youth zone 12-4 p.m.",
+     "dateChecked": "2026-10-31"
     }
    ],
    "workplaceNote": null,
@@ -196,6 +203,16 @@
      "title": "KSTP, undated",
      "url": "https://kstp.com/?p=3282241",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Summit-University Planning Council, Rondo Days 2026",
+     "url": "https://www.summit-university.org/blog/rondo-days-2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "WCCO, MC Lyte, Rakim to headline 2024 Rondo Days",
+     "url": "https://www.cbsnews.com/minnesota/news/st-paul-rondo-days-mc-lyte-rakim/",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -1189,6 +1206,276 @@
      "title": "Hallie Q. Brown Community Center",
      "url": "https://www.hallieqbrown.org/",
      "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Rondo Block Party",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Free summer block party at the Rondo Commemorative Plaza in St. Paul.",
+   "dateRule": "Announced each year by organizers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-01",
+     "endDate": null,
+     "source": "Rondo Center of Diverse Expression events page",
+     "sourceUrl": "https://rcodemn.org/events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Neighborhood life in historic Rondo.",
+   "howCelebratedInMinnesota": "Listed for Saturday, Aug. 1, 2026, 11 a.m. to 6 p.m., at the Rondo Commemorative Plaza, 820 Rondo Ave., with live music, food and activities, free and open to the public.",
+   "minnesotaEvents": [
+    {
+     "name": "Rondo Block Party 2026",
+     "place": "Rondo Commemorative Plaza, 820 Rondo Ave., St. Paul",
+     "link": "https://rcodemn.org/events",
+     "organizerDates": "Saturday, Aug. 1, 2026, 11 a.m.-6 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Rondo Center of Diverse Expression, events",
+     "url": "https://rcodemn.org/events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Every Brick Counts Ceremony",
+   "alsoKnownAs": [],
+   "kind": "remembrance",
+   "capsule": "Annual ceremony at the Rondo Commemorative Plaza honoring the neighborhood's families.",
+   "dateRule": "Announced each year by the Rondo Center of Diverse Expression.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-17",
+     "endDate": null,
+     "source": "Rondo Center of Diverse Expression events page",
+     "sourceUrl": "https://rcodemn.org/events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Remembrance of Rondo through the plaza's commemorative bricks.",
+   "howCelebratedInMinnesota": "The ninth annual ceremony was listed for Thursday, Sept. 17, 2026, 3 to 5 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Rondo Plaza's 9th Annual Every Brick Counts Ceremony",
+     "place": "Rondo Center of Diverse Expression / Rondo Commemorative Plaza, St. Paul",
+     "link": "https://rcodemn.org/events",
+     "organizerDates": "Thursday, Sept. 17, 2026, 3-5 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Rondo Center of Diverse Expression, events",
+     "url": "https://rcodemn.org/events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "MABL Foundation Scholarship Gala",
+   "alsoKnownAs": [],
+   "kind": "cultural",
+   "capsule": "Annual black-tie gala of the Minnesota Association of Black Lawyers Foundation honoring scholarship recipients.",
+   "dateRule": "Announced each year by the Minnesota Association of Black Lawyers.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-14",
+     "endDate": null,
+     "source": "Minnesota Association of Black Lawyers",
+     "sourceUrl": "https://www.mabl.org/2026-mabl-scholarship-gala",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Black lawyers, judges and law students in Minnesota, and scholarships for the next generation.",
+   "howCelebratedInMinnesota": "2026 theme 'Illuminating the Path, Empowering the Future'; Minneapolis Marriott City Center, arrival 6 p.m., program 7 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "2026 MABL Foundation Scholarship Gala",
+     "place": "Minneapolis Marriott City Center, 30 S. 7th St.",
+     "link": "https://www.mabl.org/2026-mabl-scholarship-gala",
+     "organizerDates": "Saturday, Nov. 14, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MABL, 2026 Scholarship Gala",
+     "url": "https://www.mabl.org/2026-mabl-scholarship-gala",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Black Men Teach Gold Star Gala",
+   "alsoKnownAs": [],
+   "kind": "cultural",
+   "capsule": "Annual gala supporting Black men as elementary school teachers in Minnesota.",
+   "dateRule": "Announced each year by Black Men Teach.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-20",
+     "endDate": null,
+     "source": "Black Men Teach",
+     "sourceUrl": "https://blackmenteach.org/event/gold-star-gala-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Black male teachers and their place in Minnesota classrooms.",
+   "howCelebratedInMinnesota": "Held Saturday, June 20, 2026, 6 to 10 p.m., at the Hyatt Regency Minneapolis.",
+   "minnesotaEvents": [
+    {
+     "name": "Gold Star Gala 2026",
+     "place": "Hyatt Regency Minneapolis",
+     "link": "https://blackmenteach.org/event/gold-star-gala-2026",
+     "organizerDates": "Saturday, June 20, 2026, 6-10 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Black Men Teach, Gold Star Gala 2026",
+     "url": "https://blackmenteach.org/event/gold-star-gala-2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Black Nativity (Penumbra)",
+   "alsoKnownAs": [],
+   "kind": "cultural",
+   "capsule": "Penumbra's holiday staging of Langston Hughes's gospel Christmas story, a St. Paul tradition.",
+   "dateRule": "Announced each year by Penumbra; runs in December.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-01",
+     "endDate": "2026-12-24",
+     "source": "Penumbra showtimes list (the event text says Dec. 3 through 24)",
+     "sourceUrl": "https://penumbracenter.org/event/black-nativity-8/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Christmas told through music of the African diaspora.",
+   "howCelebratedInMinnesota": "Reimagined for its 34th year in 2026, directed by Lou Bellamy, at Penumbra, 270 N. Kent St., St. Paul; showtimes listed from Dec. 1 to Dec. 24, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Black Nativity 2026",
+     "place": "Penumbra, 270 N. Kent St., St. Paul",
+     "link": "https://penumbracenter.org/event/black-nativity-8/",
+     "organizerDates": "Showtimes Dec. 1-24, 2026 (page text: Dec. 3 through Dec. 24, 2026)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Penumbra, Black Nativity",
+     "url": "https://penumbracenter.org/event/black-nativity-8/",
+     "dateChecked": "2026-10-31"
     }
    ]
   }
