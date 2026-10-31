@@ -1,0 +1,402 @@
+[
+ {
+  "name": "Mall of America",
+  "type": "mall",
+  "neighborhoodOrCity": "Bloomington",
+  "whatItIs": "Large enclosed shopping and entertainment mall that calls itself the biggest in North America",
+  "link": "https://www.mallofamerica.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site lists hours and events dated September to October 31, 2026."
+ },
+ {
+  "name": "Southdale Center",
+  "type": "mall",
+  "neighborhoodOrCity": "Edina",
+  "whatItIs": "Enclosed shopping mall",
+  "link": "https://www.southdale.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site returned a page with no readable content about hours or current events."
+ },
+ {
+  "name": "Lunds & Byerlys",
+  "type": "grocery chain",
+  "neighborhoodOrCity": "Twin Cities metro",
+  "whatItIs": "Minnesota grocery chain",
+  "link": "https://lundsandbyerlys.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site lists current store locations and products with a 2026 copyright; current shopping functions active."
+ },
+ {
+  "name": "Kowalski's Markets",
+  "type": "grocery chain",
+  "neighborhoodOrCity": "Twin Cities metro",
+  "whatItIs": "Minneapolis-St. Paul area grocery stores",
+  "link": "https://www.kowalskis.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site advertises current Thanksgiving ordering and lists locations."
+ },
+ {
+  "name": "Cub",
+  "type": "grocery chain",
+  "neighborhoodOrCity": "Twin Cities metro and Greater Minnesota",
+  "whatItIs": "Grocery and pharmacy chain",
+  "link": "https://www.cub.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Online storefront showing current Halloween items and prices."
+ },
+ {
+  "name": "Seward Community Co-op",
+  "type": "grocery cooperative",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Consumer-owned grocery cooperative",
+  "link": "https://seward.coop/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site posts a 2026 annual owner meeting recap and an item dated Friday, October 30."
+ },
+ {
+  "name": "Fleet Farm",
+  "type": "farm and outdoor retail",
+  "neighborhoodOrCity": "Statewide",
+  "whatItIs": "Farm, hunting and home retail chain",
+  "link": "https://www.fleetfarm.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site blocked access (403)."
+ },
+ {
+  "name": "Matt's Bar",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Neighborhood bar and grill, home of the 'Jucy Lucy' since 1954",
+  "link": "https://www.mattsbar.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site describes its history but showed no dated or current-hours information on the opened page."
+ },
+ {
+  "name": "5-8 Club",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Bar and grill associated with the 'Juicy Lucy'",
+  "link": "https://www.58club.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site did not respond."
+ },
+ {
+  "name": "Al's Breakfast",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (413 14th Ave. SE)",
+  "whatItIs": "Small breakfast counter",
+  "link": "https://www.alsbreakfastmpls.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current hours (6 a.m. to 1 p.m.; 9 a.m. to 1 p.m.) and address."
+ },
+ {
+  "name": "Mickey's Diner",
+  "type": "restaurant",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Historic diner",
+  "link": "https://www.mickeysdiner.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site returned almost no readable text."
+ },
+ {
+  "name": "Cafe Latte",
+  "type": "restaurant and bakery",
+  "neighborhoodOrCity": "St. Paul (850 Grand Ave.)",
+  "whatItIs": "Cafeteria-style cafe and bakery on Grand Avenue",
+  "link": "https://www.cafelatte.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists daily hours, holiday hours and address."
+ },
+ {
+  "name": "Tobies Restaurant & Bakery",
+  "type": "restaurant and bakery",
+  "neighborhoodOrCity": "Hinckley",
+  "whatItIs": "Highway restaurant and bakery that calls itself Minnesota's famous halfway shop, since 1948",
+  "link": "https://tobies.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site updated 2026-10-05 and lists a station open 24 hours."
+ },
+ {
+  "name": "Betty's Pies",
+  "type": "restaurant and bakery",
+  "neighborhoodOrCity": "Two Harbors",
+  "whatItIs": "Pie shop and cafe on the North Shore",
+  "link": "https://www.bettyspies.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists hours section, Two Harbors address and nationwide pie shipping."
+ },
+ {
+  "name": "Olsen Fish Company",
+  "type": "food producer",
+  "neighborhoodOrCity": "Minneapolis (2115 North 2nd St.)",
+  "whatItIs": "Herring, lutefisk and Scandinavian foods since 1910",
+  "link": "https://www.olsenfish.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site describes products and address but showed no dated current information."
+ },
+ {
+  "name": "Ingebretsen's Nordic Marketplace",
+  "type": "specialty shop and deli",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Nordic gifts, food and housewares since 1921",
+  "link": "https://ingebretsens.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists store hours (Monday to Saturday 9 to 4) and online store."
+ },
+ {
+  "name": "SPAM Museum",
+  "type": "museum and shop",
+  "neighborhoodOrCity": "Austin",
+  "whatItIs": "Hormel's museum of SPAM history",
+  "link": "https://www.spam.com/museum",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own page lists museum and shop hours."
+ },
+ {
+  "name": "August Schell Brewing Company",
+  "type": "brewery",
+  "neighborhoodOrCity": "New Ulm",
+  "whatItIs": "Family brewery, maker of Grain Belt",
+  "link": "https://schellsbrewery.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site lists events dated November 1, 3, 6 and 8 (2026)."
+ },
+ {
+  "name": "Summit Brewing",
+  "type": "brewery",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Craft brewery",
+  "link": "https://summitbeer.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site did not respond."
+ },
+ {
+  "name": "Pearson's Candy",
+  "type": "candy maker",
+  "neighborhoodOrCity": "Twin Cities (founded in Minneapolis)",
+  "whatItIs": "Maker of Nut Goodie and Salted Nut Roll since 1909",
+  "link": "https://pearsonscandy.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Official site with current products and a 2026 copyright."
+ },
+ {
+  "name": "Nordic Ware",
+  "type": "cookware maker",
+  "neighborhoodOrCity": "Minneapolis area",
+  "whatItIs": "Maker of the Bundt pan",
+  "link": "https://www.nordicware.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site returned no readable text."
+ },
+ {
+  "name": "Red Wing Shoes",
+  "type": "footwear maker",
+  "neighborhoodOrCity": "Red Wing",
+  "whatItIs": "Work and heritage boots",
+  "link": "https://www.redwingshoes.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Current online store with new products."
+ },
+ {
+  "name": "Faribault Mill",
+  "type": "textile mill",
+  "neighborhoodOrCity": "Faribault",
+  "whatItIs": "Wool blankets, throws and scarves made in the USA",
+  "link": "https://www.faribaultmill.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Current online store with a holiday shop and seasonal best-sellers."
+ },
+ {
+  "name": "Caribou Coffee",
+  "type": "coffee chain",
+  "neighborhoodOrCity": "Twin Cities metro",
+  "whatItIs": "Coffeehouse chain",
+  "link": "https://www.cariboucoffee.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site blocked access (403)."
+ },
+ {
+  "name": "Duluth Pack",
+  "type": "outdoor goods maker",
+  "neighborhoodOrCity": "Duluth",
+  "whatItIs": "Canvas and leather packs",
+  "link": "https://www.duluthpack.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site blocked access (403)."
+ },
+ {
+  "name": "Polaris",
+  "type": "vehicle maker",
+  "neighborhoodOrCity": "Medina; plant in Roseau",
+  "whatItIs": "Snowmobile and off-road vehicle maker",
+  "link": "https://www.polaris.com/en-us/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site blocked access (403)."
+ },
+ {
+  "name": "Sun Country Airlines",
+  "type": "airline",
+  "neighborhoodOrCity": "Minneapolis-St. Paul",
+  "whatItIs": "Airline based at MSP",
+  "link": "https://www.suncountry.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site loaded but showed no readable current content."
+ },
+ {
+  "name": "Bachman's",
+  "type": "garden center and florist",
+  "neighborhoodOrCity": "Twin Cities metro",
+  "whatItIs": "Garden centers and florist",
+  "link": "https://bachmans.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site loaded but showed no readable current content."
+ },
+ {
+  "name": "First Avenue & 7th St Entry",
+  "type": "music venue",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Nightclub and concert venue since 1970",
+  "link": "https://first-avenue.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site lists October 2026 shows and its annual Halloween party."
+ },
+ {
+  "name": "Paisley Park",
+  "type": "museum and venue",
+  "neighborhoodOrCity": "Chanhassen",
+  "whatItIs": "Prince's home and studio, open for tours",
+  "link": "https://www.paisleypark.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site says it is open five days a week for tours and events."
+ },
+ {
+  "name": "Canterbury Park",
+  "type": "racetrack and card casino",
+  "neighborhoodOrCity": "Shakopee",
+  "whatItIs": "Horse racing and card casino",
+  "link": "https://www.canterburypark.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site loaded but opened text showed no dated current information."
+ },
+ {
+  "name": "Minnesota Chamber of Commerce",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "St. Paul; statewide",
+  "whatItIs": "Statewide business association",
+  "link": "https://www.mnchamber.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site lists 2026 benchmarks and 2026 Coolest Thing Made in Minnesota."
+ },
+ {
+  "name": "Minnesota Council of Nonprofits",
+  "type": "nonprofit association",
+  "neighborhoodOrCity": "St. Paul; statewide",
+  "whatItIs": "Association of more than 2,200 nonprofits",
+  "link": "https://minnesotanonprofits.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site features a 2026 report and 2027 conference proposals."
+ },
+ {
+  "name": "MPR News",
+  "type": "media (public radio)",
+  "neighborhoodOrCity": "St. Paul; statewide",
+  "whatItIs": "Public radio news",
+  "link": "https://www.mprnews.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site carries Election 2026 stories dated October 2026."
+ },
+ {
+  "name": "Pioneer Press",
+  "type": "media (newspaper)",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Daily newspaper",
+  "link": "https://www.twincities.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site dated Friday, October 30, 2026."
+ },
+ {
+  "name": "MinnPost",
+  "type": "media (online news)",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Nonprofit online news",
+  "link": "https://www.minnpost.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site shows Election 2026 coverage and MinnPost Festival 2026."
+ },
+ {
+  "name": "Racket",
+  "type": "media (online news and culture)",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Writer-owned news and culture site since 2021",
+  "link": "https://racketmn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site shows current Halloween-season stories."
+ },
+ {
+  "name": "Minnesota Monthly",
+  "type": "media (magazine)",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Statewide lifestyle magazine",
+  "link": "https://www.minnesotamonthly.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site shows posts dated October 9, 22 and 28, 2026."
+ },
+ {
+  "name": "Mpls.St.Paul Magazine",
+  "type": "media (magazine)",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "City magazine",
+  "link": "https://mspmag.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site loaded but opened text showed no dated item."
+ },
+ {
+  "name": "Star Tribune",
+  "type": "media (newspaper)",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Daily newspaper",
+  "link": "https://www.startribune.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Site blocked access (429)."
+ }
+]

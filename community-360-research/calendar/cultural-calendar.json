@@ -24713,11 +24713,7 @@
    "id": "minnesota--easter",
    "observanceKey": "easter",
    "name": "Easter",
-   "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
-   ],
+   "alsoKnownAs": [],
    "communities": [
     "minnesota"
    ],
@@ -24728,10 +24724,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
-   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "capsule": "Christian feast of the Resurrection, observed by Minnesota's many Catholic, Lutheran and other churches.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Western churches).",
    "dates": [
     {
      "year": 2026,
@@ -24759,126 +24755,24 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "whatItMarks": "The Resurrection of Jesus in Western Christian tradition.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "minnesota--syttende-mai",
-   "observanceKey": "syttende-mai",
-   "name": "Syttende Mai",
-   "alsoKnownAs": [
-    "Norwegian Constitution Day"
-   ],
-   "communities": [
-    "minnesota"
-   ],
-   "briefLinks": [
+   "sources": [
     {
-     "community": "minnesota",
-     "title": "Minnesota culture",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+     "title": "Pew Research Center, Religious Landscape Study: Minnesota",
+     "url": "https://www.pewresearch.org/religious-landscape-study/state/minnesota/",
+     "dateChecked": "2026-10-31"
     }
-   ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "The 1814 Norwegian constitution.",
-   "dateRule": "May 17.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-05-17",
-     "endDate": null,
-     "source": "Lovdata (Norway), Lov om 1. og 17. mai som høgtidsdager",
-     "sourceUrl": "https://lovdata.no/dokument/NL/lov/1947-04-26-1",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-05-17",
-     "endDate": null,
-     "source": "Lovdata (Norway), Lov om 1. og 17. mai som høgtidsdager",
-     "sourceUrl": "https://lovdata.no/dokument/NL/lov/1947-04-26-1",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-05-17",
-     "endDate": null,
-     "source": "Lovdata (Norway), Lov om 1. og 17. mai som høgtidsdager",
-     "sourceUrl": "https://lovdata.no/dokument/NL/lov/1947-04-26-1",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1814 Norwegian constitution.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "minnesota--minnesota-statehood-day",
-   "observanceKey": "minnesota-statehood-day",
-   "name": "Minnesota Statehood Day",
-   "alsoKnownAs": [],
-   "communities": [
-    "minnesota"
-   ],
-   "briefLinks": [
-    {
-     "community": "minnesota",
-     "title": "Minnesota culture",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
-    }
-   ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "Minnesota became a state on May 11, 1858.",
-   "dateRule": "May 11.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-05-11",
-     "endDate": null,
-     "source": "Office of Governor Mark Dayton, Minnesota Statehood Day proclamation (May 11, 2017), hosted by the Minnesota Legislative Reference Library",
-     "sourceUrl": "https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2017_05_11_minnesota_statehood_day_tcm1055-294318.pdf",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-05-11",
-     "endDate": null,
-     "source": "Office of Governor Mark Dayton, Minnesota Statehood Day proclamation (May 11, 2017), hosted by the Minnesota Legislative Reference Library",
-     "sourceUrl": "https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2017_05_11_minnesota_statehood_day_tcm1055-294318.pdf",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-05-11",
-     "endDate": null,
-     "source": "Office of Governor Mark Dayton, Minnesota Statehood Day proclamation (May 11, 2017), hosted by the Minnesota Legislative Reference Library",
-     "sourceUrl": "https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2017_05_11_minnesota_statehood_day_tcm1055-294318.pdf",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Minnesota became a state on May 11, 1858.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
+   ]
   },
   {
    "id": "minnesota--christmas",
    "observanceKey": "christmas",
    "name": "Christmas",
    "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
+    "Christmas Day"
    ],
    "communities": [
     "minnesota"
@@ -24890,16 +24784,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
-   "dateRule": "December 25.",
+   "capsule": "Christian feast of the Nativity and a Minnesota legal holiday on December 25.",
+   "dateRule": "December 25. When it falls on a Saturday the state holiday is the Friday before; on a Sunday, the Monday after.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "source": "Minn. Stat. 645.44",
      "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
@@ -24907,7 +24801,7 @@
      "year": 2027,
      "date": "2027-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "source": "Minn. Stat. 645.44",
      "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
@@ -24915,23 +24809,31 @@
      "year": 2028,
      "date": "2028-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "source": "Minn. Stat. 645.44",
      "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+   "whatItMarks": "The birth of Jesus in Christian tradition; also a broadly observed cultural holiday.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
+   "workplaceNote": "Minn. Stat. 645.44 lists Christmas Day as a legal holiday on which no public business is transacted except in cases of necessity.",
+   "sources": [
+    {
+     "title": "Minn. Stat. 645.44",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "minnesota--martin-luther-king-jr-day",
    "observanceKey": "martin-luther-king-jr-day",
    "name": "Martin Luther King Jr. Day",
-   "alsoKnownAs": [],
+   "alsoKnownAs": [
+    "Martin Luther King's Birthday"
+   ],
    "communities": [
     "minnesota"
    ],
@@ -24942,10 +24844,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
    "kind": "national",
-   "capsule": "Life and work of Dr. Martin Luther King Jr.",
-   "dateRule": "Third Monday in January.",
+   "capsule": "State and federal holiday honoring Dr. Martin Luther King Jr., on the third Monday in January.",
+   "dateRule": "Third Monday in January (Minn. Stat. 645.44).",
    "dates": [
     {
      "year": 2026,
@@ -24972,20 +24874,29 @@
      "verified": true
     }
    ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Life and work of Dr. Martin Luther King Jr.",
-   "howCelebratedInMinnesota": null,
+   "dateCertainty": "calculated",
+   "whatItMarks": "The life and work of Dr. Martin Luther King Jr.",
+   "howCelebratedInMinnesota": "MPR News reported in 2012 that General Mills hosted an annual community breakfast for about 2,000 people at the Minneapolis Convention Center on the holiday; whether it continues was not confirmed.",
    "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
+   "workplaceNote": "Listed as a legal holiday in Minn. Stat. 645.44.",
+   "sources": [
+    {
+     "title": "Minn. Stat. 645.44",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "MPR News, Newcomers say it's 'nice,' but not warm (2012)",
+     "url": "https://www.mprnews.org/story/2012/03/12/outsiders1-is-minnesota-nice-to-newcomers",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "minnesota--juneteenth",
    "observanceKey": "juneteenth",
    "name": "Juneteenth",
-   "alsoKnownAs": [
-    "Juneteenth National Independence Day"
-   ],
+   "alsoKnownAs": [],
    "communities": [
     "minnesota"
    ],
@@ -24996,16 +24907,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
    "kind": "national",
-   "capsule": "June 19, 1865, when enslaved people in Galveston, Texas, were told of their freedom.",
-   "dateRule": "June 19.",
+   "capsule": "Marks the end of slavery in the United States; a Minnesota legal holiday on June 19.",
+   "dateRule": "June 19. When it falls on a Saturday the state holiday is the Friday before; on a Sunday, the Monday after.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-06-19",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "source": "Minn. Stat. 645.44",
      "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
@@ -25013,7 +24924,7 @@
      "year": 2027,
      "date": "2027-06-19",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "source": "Minn. Stat. 645.44",
      "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
@@ -25021,17 +24932,23 @@
      "year": 2028,
      "date": "2028-06-19",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "source": "Minn. Stat. 645.44",
      "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "June 19, 1865, when enslaved people in Galveston, Texas, were told of their freedom.",
+   "whatItMarks": "June 19, 1865, when news of emancipation reached enslaved people in Galveston, Texas; observed as a celebration of freedom.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
+   "workplaceNote": "Listed as a legal holiday in Minn. Stat. 645.44.",
+   "sources": [
+    {
+     "title": "Minn. Stat. 645.44",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "minnesota--independence-day-united-states",
@@ -25050,16 +24967,16 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
    "kind": "national",
-   "capsule": "The 1776 Declaration of Independence.",
-   "dateRule": "July 4.",
+   "capsule": "National holiday marking the 1776 Declaration of Independence; a Minnesota legal holiday.",
+   "dateRule": "July 4, with weekend shifts as set in Minn. Stat. 645.44.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-07-04",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "source": "Minn. Stat. 645.44",
      "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
@@ -25067,7 +24984,7 @@
      "year": 2027,
      "date": "2027-07-04",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "source": "Minn. Stat. 645.44",
      "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     },
@@ -25075,23 +24992,44 @@
      "year": 2028,
      "date": "2028-07-04",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "source": "Minn. Stat. 645.44",
      "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The 1776 Declaration of Independence.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
+   "whatItMarks": "The adoption of the Declaration of Independence, July 4, 1776.",
+   "howCelebratedInMinnesota": "In 2026, the nation's 250th year, the Minnesota Historical Society displayed the state's two original constitutions through July 5 at the Minnesota History Center, timed to Statehood Day and the semiquincentennial.",
+   "minnesotaEvents": [
+    {
+     "name": "Display of Minnesota's two original constitutions",
+     "place": "Minnesota History Center, St. Paul",
+     "link": "https://www.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesota",
+     "organizerDates": "May 6 to July 5, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": "Listed as a legal holiday in Minn. Stat. 645.44.",
+   "sources": [
+    {
+     "title": "Minn. Stat. 645.44",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Historical Society, Handwritten History Documenting Minnesota's Founding on Display",
+     "url": "https://www.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesota",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "minnesota--thanksgiving",
    "observanceKey": "thanksgiving",
    "name": "Thanksgiving",
-   "alsoKnownAs": [],
+   "alsoKnownAs": [
+    "Thanksgiving Day"
+   ],
    "communities": [
     "minnesota"
    ],
@@ -25102,10 +25040,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
    "kind": "national",
-   "capsule": "United States harvest and thanksgiving holiday.",
-   "dateRule": "Fourth Thursday in November.",
+   "capsule": "National harvest and family holiday on the fourth Thursday of November; state offices also close the following Friday.",
+   "dateRule": "Fourth Thursday in November (Minn. Stat. 645.44).",
    "dates": [
     {
      "year": 2026,
@@ -25132,17 +25070,23 @@
      "verified": true
     }
    ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "United States harvest and thanksgiving holiday.",
+   "dateCertainty": "calculated",
+   "whatItMarks": "A national day of thanks, usually observed with a family meal.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
+   "workplaceNote": "Minn. Stat. 645.44 makes the Friday after Thanksgiving a holiday for the state executive branch; other branches and local governments decide for themselves.",
+   "sources": [
+    {
+     "title": "Minn. Stat. 645.44",
+     "url": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "minnesota--george-floyd-remembrance",
-   "observanceKey": "george-floyd-remembrance",
-   "name": "George Floyd remembrance",
+   "id": "minnesota--minnesota-statehood-day",
+   "observanceKey": "minnesota-statehood-day",
+   "name": "Minnesota Statehood Day",
    "alsoKnownAs": [],
    "communities": [
     "minnesota"
@@ -25154,17 +25098,168 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "national",
+   "capsule": "Anniversary of Minnesota's admission as the 32nd state on May 11, 1858.",
+   "dateRule": "May 11.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-11",
+     "endDate": null,
+     "source": "Minnesota Historical Society; KSTP",
+     "sourceUrl": "https://www.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesota",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-11",
+     "endDate": null,
+     "source": "Fixed anniversary stated by Minnesota Historical Society",
+     "sourceUrl": "https://www.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesota",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-11",
+     "endDate": null,
+     "source": "Fixed anniversary stated by Minnesota Historical Society",
+     "sourceUrl": "https://www.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesota",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Congress's approval of Minnesota statehood on May 11, 1858. KSTP, citing the Historical Society, says word reached Minnesota on May 13.",
+   "howCelebratedInMinnesota": "Not a legal holiday. In 2026 the Minnesota Historical Society displayed the two original state constitutions at the Minnesota History Center from May 6 to July 5, timed to Statehood Day.",
+   "minnesotaEvents": [
+    {
+     "name": "Display of Minnesota's two original constitutions",
+     "place": "Minnesota History Center, St. Paul",
+     "link": "https://www.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesota",
+     "organizerDates": "May 6 to July 5, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Historical Society, May 4, 2026",
+     "url": "https://www.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesota",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "KSTP, Minnesota celebrates 163rd Statehood Day",
+     "url": "https://kstp.com/kstp-news/top-news/minnesota-celebrates-163rd-statehood-day/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--syttende-mai",
+   "observanceKey": "syttende-mai",
+   "name": "Syttende Mai",
+   "alsoKnownAs": [
+    "Norwegian Constitution Day"
+   ],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "heritage",
+   "capsule": "Norwegian Constitution Day, celebrated in Minnesota with festivals such as Spring Grove's, held the weekend nearest May 17.",
+   "dateRule": "May 17; Spring Grove's festival is the weekend nearest May 17, with a homecoming held instead every ten years.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-17",
+     "endDate": null,
+     "source": "Fixed date; Spring Grove community calendar",
+     "sourceUrl": "https://www.springgrovemn.com/sgmn-community-calendar",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-17",
+     "endDate": null,
+     "source": "Fixed date; Spring Grove community calendar",
+     "sourceUrl": "https://www.springgrovemn.com/sgmn-community-calendar",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-17",
+     "endDate": "2028-05-21",
+     "source": "Spring Grove Syttende Mai organizer",
+     "sourceUrl": "https://www.sgsyttendemai.com/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Norway's constitution of May 17, 1814.",
+   "howCelebratedInMinnesota": "Spring Grove holds a Syttende Mai festival with a parade and Norwegian food and crafts, supported by its Sons of Norway lodge; every ten years the town holds a homecoming instead. The organizer's next listed festival is May 17 to 21, 2028.",
+   "minnesotaEvents": [
+    {
+     "name": "Spring Grove Syttende Mai",
+     "place": "Spring Grove",
+     "link": "https://www.sgsyttendemai.com/",
+     "organizerDates": "May 17 to 21, 2028",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Spring Grove Syttende Mai",
+     "url": "https://www.sgsyttendemai.com/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "City of Spring Grove, Heritage",
+     "url": "https://www.springgrovemn.com/heritage",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Spring Grove community calendar",
+     "url": "https://www.springgrovemn.com/sgmn-community-calendar",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--george-floyd-remembrance",
+   "observanceKey": "george-floyd-remembrance",
+   "name": "George Floyd remembrance",
+   "alsoKnownAs": [
+    "Rise and Remember"
+   ],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
    "kind": "remembrance",
-   "capsule": "The May 25, 2020 murder of George Floyd in Minneapolis.",
-   "dateRule": "May 25.",
+   "capsule": "Anniversary of George Floyd's murder by a Minneapolis police officer on May 25, 2020, marked at George Floyd Square.",
+   "dateRule": "May 25 anniversary; organizers set events each year.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-05-25",
      "endDate": null,
-     "source": "U.S. Department of Justice, Office of the Inspector General, Report 24-085, review of the response to protest activity",
-     "sourceUrl": "https://oig.justice.gov/sites/default/files/reports/24-085.pdf",
+     "source": "KAAL report on the 2026 Rise and Remember festival",
+     "sourceUrl": "https://www.kaaltv.com/news/george-floyd-square-hosts-annual-festival-six-years-after-his-death/",
      "verified": true
     },
     {
@@ -25184,64 +25279,31 @@
      "verified": true
     }
    ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The May 25, 2020 murder of George Floyd in Minneapolis.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "minnesota--black-history-month-begins",
-   "observanceKey": "black-history-month-begins",
-   "name": "Black History Month (begins)",
-   "alsoKnownAs": [],
-   "communities": [
-    "minnesota"
-   ],
-   "briefLinks": [
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The killing of George Floyd at 38th Street and Chicago Avenue in Minneapolis on May 25, 2020, and the movement that followed.",
+   "howCelebratedInMinnesota": "The annual Rise and Remember festival at George Floyd Square offers music and art focused on healing and racial justice and ends with a candlelight vigil. Reconstruction of the square was set to begin June 8, 2026, and last two years.",
+   "minnesotaEvents": [
     {
-     "community": "minnesota",
-     "title": "Minnesota culture",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+     "name": "Rise and Remember festival",
+     "place": "George Floyd Square, Minneapolis",
+     "link": "https://www.kaaltv.com/news/george-floyd-square-hosts-annual-festival-six-years-after-his-death/",
+     "organizerDates": "Held Monday, May 25, 2026",
+     "dateChecked": "2026-10-31"
     }
    ],
-   "profileLink": null,
-   "kind": "heritage",
-   "capsule": "Month of Black history, February.",
-   "dateRule": "February 1.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-02-01",
-     "endDate": null,
-     "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
-     "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-02-01",
-     "endDate": null,
-     "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
-     "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-02-01",
-     "endDate": null,
-     "source": "The White House (archives), Presidential Proclamation, National African American History Month, 2016",
-     "sourceUrl": "https://obamawhitehouse.archives.gov/the-press-office/2016/01/29/presidential-proclamation-national-african-american-history-month-2016",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Month of Black history, February.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "KAAL, George Floyd Square hosts annual festival six years after his death",
+     "url": "https://www.kaaltv.com/news/george-floyd-square-hosts-annual-festival-six-years-after-his-death/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "MPR News, May 21, 2026",
+     "url": "https://www.mprnews.org/story/2026/05/21/city-minneapolis-george-floyd-square-agape-peoples-way",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "minnesota--rondo-days",
@@ -25258,24 +25320,24 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
    "kind": "community festival",
-   "capsule": "The Black St. Paul neighborhood of Rondo, divided by Interstate 94.",
-   "dateRule": "Third Saturday of July in St. Paul, as set by the organizers.",
+   "capsule": "St. Paul festival honoring the historic Black Rondo neighborhood, divided by Interstate 94.",
+   "dateRule": "Set by organizers; traditionally a Saturday in mid-July.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-07-18",
      "endDate": null,
-     "source": "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year",
-     "sourceUrl": null,
-     "verified": false
+     "source": "MPR News, July 15, 2026 (festival 'returns Saturday')",
+     "sourceUrl": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+     "verified": true
     },
     {
      "year": 2027,
      "date": "2027-07-17",
      "endDate": null,
-     "source": "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year",
+     "source": "Seed calculation (third Saturday of July); not announced",
      "sourceUrl": null,
      "verified": false
     },
@@ -25283,17 +25345,849 @@
      "year": 2028,
      "date": "2028-07-15",
      "endDate": null,
-     "source": "Calculated from the usual third-Saturday-of-July pattern; the organizers confirm each year",
+     "source": "Seed calculation (third Saturday of July); not announced",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "announced each year",
-   "whatItMarks": "The Black St. Paul neighborhood of Rondo, divided by Interstate 94.",
+   "whatItMarks": "The history of St. Paul's Rondo neighborhood and the families displaced by I-94 construction between 1956 and 1968.",
+   "howCelebratedInMinnesota": "Begun in the 1980s; the 2026 festival at the Martin Luther King Jr. Recreation Center featured music, food trucks, art and sports.",
+   "minnesotaEvents": [
+    {
+     "name": "Rondo Days",
+     "place": "Martin Luther King Jr. Recreation Center, St. Paul",
+     "link": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+     "organizerDates": "Saturday, July 18, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MPR News, July 15, 2026",
+     "url": "https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "MNopedia, Rondo Neighborhood, St. Paul",
+     "url": "https://www.mnhs.org/mnopedia/search/index/place/rondo-neighborhood-st-paul",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--minnesota-state-fair",
+   "observanceKey": "minnesota-state-fair",
+   "name": "Minnesota State Fair",
+   "alsoKnownAs": [
+    "The Great Minnesota Get-Together"
+   ],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "community festival",
+   "capsule": "Twelve-day state fair ending on Labor Day, one of the largest in the world, in Falcon Heights.",
+   "dateRule": "Twelve days ending on Labor Day.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-27",
+     "endDate": "2026-09-07",
+     "source": "FOX 9 daily attendance report",
+     "sourceUrl": "https://www.fox9.com/news/minnesota-state-fair-attendance-how-many-people-went-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-26",
+     "endDate": "2027-09-06",
+     "source": "Minnesota State Fair",
+     "sourceUrl": "https://www.mnstatefair.org/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Minnesota agriculture, art and industry; held since 1859, growing out of an 1855 territorial fair.",
+   "howCelebratedInMinnesota": "On 322 acres between Minneapolis and St. Paul, financially self-supporting since 1949. The 2026 fair counted 1,923,325 visits, its seventh-highest total. The fair publishes pages in Spanish, Hmong and Somali.",
+   "minnesotaEvents": [
+    {
+     "name": "2027 Minnesota State Fair",
+     "place": "Minnesota State Fairgrounds, Falcon Heights",
+     "link": "https://www.mnstatefair.org/",
+     "organizerDates": "Aug. 26 to Labor Day, Sept. 6, 2027",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota State Fair",
+     "url": "https://www.mnstatefair.org/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota State Fair, About the Fair",
+     "url": "https://www.mnstatefair.org/about",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "FOX 9, 2026 attendance",
+     "url": "https://www.fox9.com/news/minnesota-state-fair-attendance-how-many-people-went-2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--saint-paul-winter-carnival",
+   "observanceKey": "saint-paul-winter-carnival",
+   "name": "Saint Paul Winter Carnival",
+   "alsoKnownAs": [],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "community festival",
+   "capsule": "St. Paul's annual winter festival, centered on the King Boreas Grande Day Parade.",
+   "dateRule": "Set each year by the Saint Paul Festival and Heritage Foundation; late January to early February.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "2026 dates not found in an opened source",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-28",
+     "endDate": "2027-02-07",
+     "source": "Saint Paul Winter Carnival FAQ",
+     "sourceUrl": "https://www.wintercarnival.com/p/rentals/faqs",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Winter in St. Paul.",
+   "howCelebratedInMinnesota": "Most events are free or low-cost, some requiring a carnival button; the King Boreas Grande Day Parade is the centerpiece.",
+   "minnesotaEvents": [
+    {
+     "name": "King Boreas Grande Day Parade",
+     "place": "St. Paul",
+     "link": "https://www.wintercarnival.com/p/rentals/faqs",
+     "organizerDates": "Saturday, Jan. 30, 2027, 2 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Saint Paul Winter Carnival, FAQs",
+     "url": "https://www.wintercarnival.com/p/rentals/faqs",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--governors-fishing-opener",
+   "observanceKey": "governors-fishing-opener",
+   "name": "Governor's Fishing Opener",
+   "alsoKnownAs": [
+    "Fishing opener"
+   ],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "cultural",
+   "capsule": "Statewide opening weekend of walleye fishing season, marked since 1948 by a governor's event in a host town.",
+   "dateRule": "Opening weekend of the walleye season in May; the host town and dates are announced by the governor's office.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-08",
+     "endDate": "2026-05-09",
+     "source": "KTTC, Aug. 27, 2025",
+     "sourceUrl": "https://www.kttc.com/2025/08/27/gov-walz-announces-2026-minnesota-fishing-opener-location/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-14",
+     "endDate": "2027-05-15",
+     "source": "KTTC, June 25, 2026",
+     "sourceUrl": "https://www.kttc.com/2026/06/25/cold-springs-host-2027-governors-fishing-opener/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of the open-water fishing season; the walleye became the state fish on opening day in 1965.",
+   "howCelebratedInMinnesota": "The 78th Governor's Fishing Opener was held in Stillwater on the St. Croix River in 2026; the 79th is set for Cold Spring in 2027.",
+   "minnesotaEvents": [
+    {
+     "name": "79th Governor's Fishing Opener",
+     "place": "Cold Spring",
+     "link": "https://www.kttc.com/2026/06/25/cold-springs-host-2027-governors-fishing-opener/",
+     "organizerDates": "May 14-15, 2027",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "KTTC, 2026 opener",
+     "url": "https://www.kttc.com/2025/08/27/gov-walz-announces-2026-minnesota-fishing-opener-location/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "KTTC, 2027 opener",
+     "url": "https://www.kttc.com/2026/06/25/cold-springs-host-2027-governors-fishing-opener/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "MNopedia, Walleye",
+     "url": "https://www.mnhs.org/mnopedia/search/index/thing/walleye",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--firearms-deer-season-opener",
+   "observanceKey": "firearms-deer-season-opener",
+   "name": "Firearms deer season opener",
+   "alsoKnownAs": [
+    "Deer opener"
+   ],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "cultural",
+   "capsule": "Opening weekend of the statewide firearms deer season in early November.",
+   "dateRule": "Set each year by the Minnesota DNR; a Saturday in early November.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-07",
+     "endDate": "2026-11-08",
+     "source": "Minnesota DNR, opening weekend",
+     "sourceUrl": "https://www.dnr.state.mn.us/hunting/deer/index.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of the firearms deer season.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Minnesota DNR, Deer hunting",
+     "url": "https://www.dnr.state.mn.us/hunting/deer/index.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--governors-pheasant-hunting-opener",
+   "observanceKey": "governors-pheasant-hunting-opener",
+   "name": "Governor's Pheasant Hunting Opener",
+   "alsoKnownAs": [],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "cultural",
+   "capsule": "Annual governor's event, begun in 2011, marking the pheasant season opener in a host town.",
+   "dateRule": "October; host town and dates announced by the governor's office.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-09",
+     "endDate": "2026-10-10",
+     "source": "KTTC, Oct. 14, 2025",
+     "sourceUrl": "https://www.kttc.com/2025/10/14/2026-governers-pheasant-hunting-opener-be-held-northfield/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of pheasant season.",
+   "howCelebratedInMinnesota": "The 14th opener was held in Northfield in 2026, after the Northfield Chamber of Commerce applied to host.",
+   "minnesotaEvents": [
+    {
+     "name": "14th Governor's Pheasant Hunting Opener",
+     "place": "Northfield",
+     "link": "https://www.kttc.com/2025/10/14/2026-governers-pheasant-hunting-opener-be-held-northfield/",
+     "organizerDates": "Oct. 9-10, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "KTTC, Oct. 14, 2025",
+     "url": "https://www.kttc.com/2025/10/14/2026-governers-pheasant-hunting-opener-be-held-northfield/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--anoka-halloween",
+   "observanceKey": "anoka-halloween",
+   "name": "Anoka Halloween",
+   "alsoKnownAs": [
+    "Halloween Capital of the World"
+   ],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "community festival",
+   "capsule": "Month-long Halloween festival in Anoka, which took the title 'Halloween Capital of the World' in 1937.",
+   "dateRule": "Events through October, ending on Halloween, October 31.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-31",
+     "endDate": null,
+     "source": "Anoka Halloween Inc. event listings",
+     "sourceUrl": "https://anokahalloween.com/halloween/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-31",
+     "endDate": null,
+     "source": "Halloween date; schedule not announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-31",
+     "endDate": null,
+     "source": "Halloween date; schedule not announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Halloween, and Anoka's century-old citywide celebration begun to discourage pranks.",
+   "howCelebratedInMinnesota": "Parades and events through October; the organizer called 2026 its 106th festival season.",
+   "minnesotaEvents": [
+    {
+     "name": "Anoka Halloween 2026 festival season",
+     "place": "Anoka",
+     "link": "https://anokahalloween.com/halloween/",
+     "organizerDates": "October 2026, with events on Oct. 30 and 31",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Anoka Halloween Inc.",
+     "url": "https://anokahalloween.com/halloween/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "MNopedia, Anoka Halloween Celebration",
+     "url": "https://www.mnhs.org/mnopedia/search/index/event/anoka-halloween-celebration",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--grand-old-day",
+   "observanceKey": "grand-old-day",
+   "name": "Grand Old Day",
+   "alsoKnownAs": [],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "community festival",
+   "capsule": "Street festival on St. Paul's Grand Avenue on the first Sunday in June.",
+   "dateRule": "First Sunday in June.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-07",
+     "endDate": null,
+     "source": "Grand Avenue Business Association",
+     "sourceUrl": "https://www.grandave.com/grand-old-day/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-06",
+     "endDate": null,
+     "source": "Calculated from the date rule",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-04",
+     "endDate": null,
+     "source": "Calculated from the date rule",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Early summer on Grand Avenue.",
+   "howCelebratedInMinnesota": "Held 9 a.m. to 6 p.m. on Grand Avenue in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Grand Old Day 2026",
+     "place": "Grand Avenue, St. Paul",
+     "link": "https://www.grandave.com/grand-old-day/",
+     "organizerDates": "Sunday, June 7, 2026, 9 a.m. to 6 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Grand Avenue Business Association, Grand Old Day",
+     "url": "https://www.grandave.com/grand-old-day/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--twin-cities-pride-festival",
+   "observanceKey": "twin-cities-pride-festival",
+   "name": "Twin Cities Pride Festival",
+   "alsoKnownAs": [],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "community festival",
+   "capsule": "Free LGBTQ Pride festival in Minneapolis's Loring Park, which bills itself as Minnesota's second-largest festival.",
+   "dateRule": "Last full weekend of June, as announced by Twin Cities Pride.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-26",
+     "endDate": "2026-06-28",
+     "source": "Minnesota Public Radio",
+     "sourceUrl": "https://www.mpr.org/pride",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "LGBTQ pride and community.",
+   "howCelebratedInMinnesota": "Three stages and more than 650 vendors in Loring Park, with a Friday youth night.",
+   "minnesotaEvents": [
+    {
+     "name": "Twin Cities Pride Festival 2026",
+     "place": "Loring Park, Minneapolis",
+     "link": "https://loringpark.org/events/twin-cities-pride-festival-2026/",
+     "organizerDates": "June 26-28, 2026 (Saturday 10 a.m.-7 p.m.)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Public Radio at Twin Cities Pride",
+     "url": "https://www.mpr.org/pride",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Citizens for a Loring Park Community",
+     "url": "https://loringpark.org/events/twin-cities-pride-festival-2026/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--twin-cities-marathon-weekend",
+   "observanceKey": "twin-cities-marathon-weekend",
+   "name": "Twin Cities Marathon weekend",
+   "alsoKnownAs": [
+    "Medtronic Twin Cities Marathon"
+   ],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "community festival",
+   "capsule": "October running weekend from Minneapolis to St. Paul.",
+   "dateRule": "First weekend of October, as announced by Twin Cities in Motion.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-02",
+     "endDate": "2026-10-04",
+     "source": "Twin Cities in Motion",
+     "sourceUrl": "https://www.tcmevents.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A community running festival.",
+   "howCelebratedInMinnesota": "5K, 10K and family events on Saturday, Oct. 3, 2026; 10 mile, half marathon and marathon on Sunday, Oct. 4.",
+   "minnesotaEvents": [
+    {
+     "name": "Twin Cities Marathon",
+     "place": "Minneapolis and St. Paul",
+     "link": "https://www.tcmevents.org/",
+     "organizerDates": "Oct. 2-4, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Twin Cities in Motion",
+     "url": "https://www.tcmevents.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--annunciation-shooting-remembrance",
+   "observanceKey": "annunciation-shooting-remembrance",
+   "name": "Annunciation shooting remembrance",
+   "alsoKnownAs": [],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "remembrance",
+   "capsule": "Remembers the Aug. 27, 2025, shooting at Annunciation Catholic Church and School in Minneapolis.",
+   "dateRule": "August 27, the anniversary of the 2025 shooting.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-27",
+     "endDate": null,
+     "source": "MPR News, Aug. 27, 2026",
+     "sourceUrl": "https://www.mprnews.org/story/2026/08/27/annunciation-shooting-victims-honored-one-year-later-acts-of-service",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-27",
+     "endDate": null,
+     "source": "Anniversary date; no 2027 declaration found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-27",
+     "endDate": null,
+     "source": "Anniversary date; no 2028 declaration found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The mass shooting at Annunciation Catholic Church and School that killed two children and injured 29 others.",
+   "howCelebratedInMinnesota": "In 2026 local elected officials hosted a day of service and remembrance at Pearl Park in Minneapolis, at the Annunciation community's request; Annunciation held private events.",
+   "minnesotaEvents": [
+    {
+     "name": "Day of Service and Remembrance",
+     "place": "Pearl Park and Annunciation Church, Minneapolis",
+     "link": "https://www.mprnews.org/story/2026/08/27/annunciation-shooting-victims-honored-one-year-later-acts-of-service",
+     "organizerDates": "Aug. 27, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MPR News, Aug. 27, 2026",
+     "url": "https://www.mprnews.org/story/2026/08/27/annunciation-shooting-victims-honored-one-year-later-acts-of-service",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--minneapolis-aquatennial",
+   "observanceKey": "minneapolis-aquatennial",
+   "name": "Minneapolis Aquatennial",
+   "alsoKnownAs": [],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "community festival",
+   "capsule": "Minneapolis summer festival since 1940, celebrating the 'City of Lakes.'",
+   "dateRule": "Four days in July, set by the Minneapolis Downtown Council.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "Dates not found in an opened source",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Dates not found in an opened source",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Dates not found in an opened source",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Minneapolis's lakes, rivers and parks.",
+   "howCelebratedInMinnesota": "Started in 1940 by business leaders to rival St. Paul's Winter Carnival, with parades and lake events.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MNopedia, Minneapolis Aquatennial",
+     "url": "https://www.mnhs.org/mnopedia/search/index/event/minneapolis-aquatennial",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Mpls Downtown Council, Aquatennial",
+     "url": "https://www.mplsdowntown.com/locations/aquatennial/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "minnesota--festival-of-nations",
+   "observanceKey": "festival-of-nations",
+   "name": "Festival of Nations",
+   "alsoKnownAs": [],
+   "communities": [
+    "minnesota"
+   ],
+   "briefLinks": [
+    {
+     "community": "minnesota",
+     "title": "Minnesota culture",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/minnesota"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/minnesota/profile.md",
+   "kind": "heritage",
+   "capsule": "St. Paul multicultural festival begun in 1936 by the International Institute of Minnesota.",
+   "dateRule": "Set each year by the International Institute of Minnesota; spring.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "Dates not found in an opened source",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Dates not found in an opened source",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Dates not found in an opened source",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The many cultures of Minnesota's residents.",
+   "howCelebratedInMinnesota": "MNopedia says it has grown to reflect the state's increasing diversity.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "MNopedia, Festival of Nations",
+     "url": "https://www.mnhs.org/mnopedia/search/index/event/festival-nations",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "nigerian--nigerian-independence-day",

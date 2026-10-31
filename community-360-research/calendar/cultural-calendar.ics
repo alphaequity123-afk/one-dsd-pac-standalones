@@ -362,7 +362,7 @@ DESCRIPTION:Month of Black history\, February. Date: February 1. Source:
   American History Month\, 2016 https://obamawhitehouse.archives.gov/the-p
  ress-office/2016/01/29/presidential-proclamation-national-african-america
  n-history-month-2016 Communities: African American Minnesota\, American c
- ulture\, Minnesota culture
+ ulture
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1181,10 +1181,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260510
 SUMMARY:Governor's Fishing Opener
-DESCRIPTION:Tourism and the host town's lakes. Date: Host and dates annou
- nced each year. Source: KAAL\, DNR https://www.kaaltv.com/?p=935157 Commu
- nities: Rural and Greater Minnesota
-CATEGORIES:community festival
+DESCRIPTION:The start of the open-water fishing season\; the walleye beca
+ me the state fish on opening day in 1965. Date: Opening weekend of the wa
+ lleye season in May\; the host town and dates are announced by the govern
+ or's office. Source: KTTC\, Aug. 27\, 2025 https://www.kttc.com/2025/08/2
+ 7/gov-walz-announces-2026-minnesota-fishing-opener-location/ Communities:
+  Minnesota culture\, Rural and Greater Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1248,11 +1251,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
 SUMMARY:Minnesota Statehood Day
-DESCRIPTION:Minnesota became a state on May 11\, 1858. Date: May 11. Sour
- ce: Office of Governor Mark Dayton\, Minnesota Statehood Day proclamation
-  (May 11\, 2017)\, hosted by the Minnesota Legislative Reference Library 
- https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2017_05_11_
- minnesota_statehood_day_tcm1055-294318.pdf Communities: Minnesota culture
+DESCRIPTION:Congress's approval of Minnesota statehood on May 11\, 1858. 
+ KSTP\, citing the Historical Society\, says word reached Minnesota on May
+  13. Date: May 11. Source: Minnesota Historical Society\; KSTP https://ww
+ w.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesot
+ a Communities: Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1529,6 +1532,18 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:grand-old-day-2026-06-07@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:Grand Old Day
+DESCRIPTION:Early summer on Grand Avenue. Date: First Sunday in June. Sou
+ rce: Grand Avenue Business Association https://www.grandave.com/grand-old
+ -day/ Communities: Minnesota culture
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:philippine-independence-day-2026-06-12@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260612
@@ -1595,6 +1610,18 @@ DESCRIPTION:Quebec's national holiday and the feast of St. John the Bapti
  ies June 23 and 24) https://www.quebec.ca/culture/fete-nationale Communit
  ies: French-speaking Minnesota
 CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:twin-cities-pride-festival-2026-06-26@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260629
+SUMMARY:Twin Cities Pride Festival
+DESCRIPTION:LGBTQ pride and community. Date: Last full weekend of June\, 
+ as announced by Twin Cities Pride. Source: Minnesota Public Radio https:/
+ /www.mpr.org/pride Communities: Minnesota culture
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1817,7 +1844,7 @@ DESCRIPTION:The Rondo neighborhood and its families\, displaced by I-94 c
  rce: MPR News\, July 15\, 2026\, says 'Saturday' that weekend\, which is 
  July 18 https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-
  celebrate-the-history-of-st-pauls-iconic-neighborhood Communities: Africa
- n American Minnesota
+ n American Minnesota\, Minnesota culture
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2496,11 +2523,26 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260908
 SUMMARY:Minnesota State Fair
-DESCRIPTION:A statewide gathering with deep farm roots. Date: Twelve days
-  ending on Labor Day\; organizer announces. Source: Explore Minnesota htt
- ps://www.exploreminnesota.com/event/minnesota-state-fair/1624 Communities
- : Rural and Greater Minnesota
+DESCRIPTION:Minnesota agriculture\, art and industry\; held since 1859\, 
+ growing out of an 1855 territorial fair. Date: Twelve days ending on Labo
+ r Day. Source: FOX 9 daily attendance report https://www.fox9.com/news/mi
+ nnesota-state-fair-attendance-how-many-people-went-2026 Communities: Minn
+ esota culture\, Rural and Greater Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:annunciation-shooting-remembrance-2026-08-27@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Annunciation shooting remembrance
+DESCRIPTION:The mass shooting at Annunciation Catholic Church and School 
+ that killed two children and injured 29 others. Date: August 27\, the ann
+ iversary of the 2025 shooting. Source: MPR News\, Aug. 27\, 2026 https://
+ www.mprnews.org/story/2026/08/27/annunciation-shooting-victims-honored-on
+ e-year-later-acts-of-service Communities: Minnesota culture
+CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3056,6 +3098,18 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:twin-cities-marathon-weekend-2026-10-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+SUMMARY:Twin Cities Marathon weekend
+DESCRIPTION:A community running festival. Date: First weekend of October\
+ , as announced by Twin Cities in Motion. Source: Twin Cities in Motion ht
+ tps://www.tcmevents.org/ Communities: Minnesota culture
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:latino-business-week-2026-10-05@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261005
@@ -3081,6 +3135,19 @@ DESCRIPTION:Each person incarcerated in World War II\, honored by name. D
  peoples-lives-book-recognizes-people-of-japanese-descent-incarcerated-dur
  ing-wwii/ Communities: Japanese Minnesota
 CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:governors-pheasant-hunting-opener-2026-10-09@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+SUMMARY:Governor's Pheasant Hunting Opener
+DESCRIPTION:The start of pheasant season. Date: October\; host town and d
+ ates announced by the governor's office. Source: KTTC\, Oct. 14\, 2025 ht
+ tps://www.kttc.com/2025/10/14/2026-governers-pheasant-hunting-opener-be-h
+ eld-northfield/ Communities: Minnesota culture
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3264,6 +3331,19 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:anoka-halloween-2026-10-31@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Anoka Halloween
+DESCRIPTION:Halloween\, and Anoka's century-old citywide celebration begu
+ n to discourage pranks. Date: Events through October\, ending on Hallowee
+ n\, October 31. Source: Anoka Halloween Inc. event listings https://anoka
+ halloween.com/halloween/ Communities: Minnesota culture
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:all-saints-and-all-souls-days-2026-11-01@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261101
@@ -3384,6 +3464,19 @@ DESCRIPTION:Black-owned businesses\, in the awards' second year. Date: An
  ttps://spokesman-recorder.com/2026/07/17/best-of-black-business-2026-fina
  lists/ Communities: African American Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:firearms-deer-season-opener-2026-11-07@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Firearms deer season opener
+DESCRIPTION:The start of the firearms deer season. Date: Set each year by
+  the Minnesota DNR\; a Saturday in early November. Source: Minnesota DNR\
+ , opening weekend https://www.dnr.state.mn.us/hunting/deer/index.html Com
+ munities: Minnesota culture
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4058,6 +4151,19 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:saint-paul-winter-carnival-2027-01-28@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270208
+SUMMARY:Saint Paul Winter Carnival
+DESCRIPTION:Winter in St. Paul. Date: Set each year by the Saint Paul Fes
+ tival and Heritage Foundation\; late January to early February. Source: S
+ aint Paul Winter Carnival FAQ https://www.wintercarnival.com/p/rentals/fa
+ qs Communities: Minnesota culture
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:karen-revolution-day-2027-01-31@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270131
@@ -4081,7 +4187,7 @@ DESCRIPTION:Month of Black history\, February. Date: February 1. Source:
   American History Month\, 2016 https://obamawhitehouse.archives.gov/the-p
  ress-office/2016/01/29/presidential-proclamation-national-african-america
  n-history-month-2016 Communities: African American Minnesota\, American c
- ulture\, Minnesota culture
+ ulture
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4491,11 +4597,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:Minnesota Statehood Day
-DESCRIPTION:Minnesota became a state on May 11\, 1858. Date: May 11. Sour
- ce: Office of Governor Mark Dayton\, Minnesota Statehood Day proclamation
-  (May 11\, 2017)\, hosted by the Minnesota Legislative Reference Library 
- https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2017_05_11_
- minnesota_statehood_day_tcm1055-294318.pdf Communities: Minnesota culture
+DESCRIPTION:Congress's approval of Minnesota statehood on May 11\, 1858. 
+ KSTP\, citing the Historical Society\, says word reached Minnesota on May
+  13. Date: May 11. Source: Fixed anniversary stated by Minnesota Historic
+ al Society https://www.mnhs.org/media/news/handwritten-history-spotlights
+ -founding-of-minnesota Communities: Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4522,10 +4628,13 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270516
 SUMMARY:Governor's Fishing Opener
-DESCRIPTION:Tourism and the host town's lakes. Date: Host and dates annou
- nced each year. Source: KSTP https://kstp.com/?p=3961279 Communities: Rur
- al and Greater Minnesota
-CATEGORIES:community festival
+DESCRIPTION:The start of the open-water fishing season\; the walleye beca
+ me the state fish on opening day in 1965. Date: Opening weekend of the wa
+ lleye season in May\; the host town and dates are announced by the govern
+ or's office. Source: KTTC\, June 25\, 2026 https://www.kttc.com/2026/06/2
+ 5/cold-springs-host-2027-governors-fishing-opener/ Communities: Minnesota
+  culture\, Rural and Greater Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5032,9 +5141,10 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270826
 DTEND;VALUE=DATE:20270907
 SUMMARY:Minnesota State Fair
-DESCRIPTION:A statewide gathering with deep farm roots. Date: Twelve days
-  ending on Labor Day\; organizer announces. Source: Minnesota State Fair 
- https://www.mnstatefair.org/faq Communities: Rural and Greater Minnesota
+DESCRIPTION:Minnesota agriculture\, art and industry\; held since 1859\, 
+ growing out of an 1855 territorial fair. Date: Twelve days ending on Labo
+ r Day. Source: Minnesota State Fair https://www.mnstatefair.org/ Communit
+ ies: Minnesota culture\, Rural and Greater Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5837,7 +5947,7 @@ DESCRIPTION:Month of Black history\, February. Date: February 1. Source:
   American History Month\, 2016 https://obamawhitehouse.archives.gov/the-p
  ress-office/2016/01/29/presidential-proclamation-national-african-america
  n-history-month-2016 Communities: African American Minnesota\, American c
- ulture\, Minnesota culture
+ ulture
 CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6195,11 +6305,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280511
 DTEND;VALUE=DATE:20280512
 SUMMARY:Minnesota Statehood Day
-DESCRIPTION:Minnesota became a state on May 11\, 1858. Date: May 11. Sour
- ce: Office of Governor Mark Dayton\, Minnesota Statehood Day proclamation
-  (May 11\, 2017)\, hosted by the Minnesota Legislative Reference Library 
- https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2017_05_11_
- minnesota_statehood_day_tcm1055-294318.pdf Communities: Minnesota culture
+DESCRIPTION:Congress's approval of Minnesota statehood on May 11\, 1858. 
+ KSTP\, citing the Historical Society\, says word reached Minnesota on May
+  13. Date: May 11. Source: Fixed anniversary stated by Minnesota Historic
+ al Society https://www.mnhs.org/media/news/handwritten-history-spotlights
+ -founding-of-minnesota Communities: Minnesota culture
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6240,9 +6350,21 @@ DTEND;VALUE=DATE:20280518
 SUMMARY:Syttende Mai
 DESCRIPTION:The 1814 Norwegian constitution. Date: May 17. Source: Lovdat
  a (Norway)\, Lov om 1. og 17. mai som høgtidsdager https://lovdata.no/do
- kument/NL/lov/1947-04-26-1 Communities: European American Minnesota\, Min
- nesota culture
+ kument/NL/lov/1947-04-26-1 Communities: European American Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:syttende-mai-2028-05-17@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280517
+DTEND;VALUE=DATE:20280522
+SUMMARY:Syttende Mai
+DESCRIPTION:Norway's constitution of May 17\, 1814. Date: May 17\; Spring
+  Grove's festival is the weekend nearest May 17\, with a homecoming held 
+ instead every ten years. Source: Spring Grove Syttende Mai organizer http
+ s://www.sgsyttendemai.com/ Communities: Minnesota culture
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
