@@ -10,6 +10,7 @@ All 39 communities are finished, each with a profile, business list, corrections
 
 - **Communities (39):** african-american, american, amharic, arabic-speaking, bosnian, burmese, chinese, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, ethiopian, european-american, filipino, french, guatemalan, hmong, indian, japanese, karen, kenyan, khmer, korean, lao, latino, lebanese, liberian, mexican, minnesota, nigerian, oromo, puerto-rican, rural, russian-speaking, salvadoran, somali, thai, ukrainian, vietnamese.
 - `cross-cutting/small-communities-methods.md`.
+- **Course "The Water We Swim In":** six modules of about 20 minutes each, plus the full essay, built as static pages in `calendar/course/` so the cultural-calendar Railway service publishes them at its address plus `/course/`. Sources are in `cross-cutting/minnesota-culture/course/` (one Markdown file per module); rebuild with `python cross-cutting/minnesota-culture/course/build_course.py` from `community-360-research/`. Every fact links to a source in the essay; scenarios are labeled composites; checkmarks and notes are saved only in each viewer's browser; the Intercultural Development Inventory is not mentioned. Still open: who reviews the six scenarios before staff use the course, and the Employee Assistance Program's current link (mn.gov blocked automated reading, and the state put the program out for new bids in 2025, so the pages name it without a phone number or link).
 - `cross-cutting/content-notes-audit.md`: every content note in the profiles and essay, and each borderline passage left without one, with reasons.
 - `cross-cutting/minnesota-culture/essay.md`: a sourced essay on Minnesota's mainstream culture (Minnesota nice, history, race, political culture, institutions, disability history) as the base for a staff course. 94 opened sources. Not established: Minnesota's score on Vandello and Cohen's 1999 state individualism index, any Minnesota or DHS results on the Intercultural Development Inventory, and where state or DHS staff grew up.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
@@ -17,7 +18,7 @@ All 39 communities are finished, each with a profile, business list, corrections
 
 ## In progress
 
-- `cross-cutting/minnesota-culture/course-outline.md`: an outline of a six-module course (about 20 minutes each) built from the essay; Gary approved all six modules on October 31, 2026. How it is hosted and five smaller decisions are still open. It will be hosted on Railway and does not mention the Intercultural Development Inventory, which is covered elsewhere in the app. The Railway `cultural-calendar` service is connected to this branch, so nothing on Railway is changed.
+- Nothing running. The course is built and waiting for Gary's review.
 
 ## Still to do on the calendar
 
