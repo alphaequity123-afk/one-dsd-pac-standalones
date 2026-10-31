@@ -4,18 +4,17 @@
 
 ## Where things stand
 
-10 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian and rural have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+11 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- On Gary's computer: indian.
 - In the cloud session (started October 31, 2026): the 28 communities listed under Not started, a few at a time.
 
 ## Not started
@@ -40,6 +39,7 @@ Hmong and the methods note could not open these: Star Tribune, Christian Century
 
 ## Could not be established so far
 
+- **Indian:** web search reached its limit partway. 73 of 89 businesses could not be confirmed open, and most of that list comes from an undated directory. Not established: 2026 dates for the Woodbury Diwali, Gujarati Samaj Garba, Vaisakhi, Gurpurab, Onam and any Indian-organized Eid, Mar Thoma, Orthodox and other Christian congregations beyond the Syro-Malabar mission, any mosque described as Indian-rooted, state disability data for Indian residents, faith counts, caste, working-class evidence and current elected officials.
 - **Rural:** web search reached its limit partway, so religion, small-town civic life and immigrant-owned businesses are thin. Not established: counts of closed or merged rural congregations, any page on rural mosques, synods or Amish communities, 2026 direct support vacancies and assessment waits by county, dates for King Turkey Day and the pheasant and waterfowl openers, and exact USDA farm totals and producer race. 19 of 58 businesses could not be confirmed open. Greater Minnesota totals are added up from Census county tables.
 - **Ethiopian:** web search reached its limit partway. Not established: current Minnesota reaction to the renewed fighting of October 2026, Tigrayan or Amhara Minnesotan voices on the war, separate counts for Amhara, Tigrayan or Gurage people, occupation data, Ethiopian-owned law, tax, accounting, clinic and salon businesses, named mosques, and disability evidence beyond one Compass figure. 14 of 30 businesses could not be confirmed open.
 - **Oromo:** web search reached a limit of 200 searches for the working session, so sections 3, 4, 7 and 11 and parts of 5, 9 and 12 are thin, and law, tax, travel, salon, grocery and clinic businesses were not surveyed (13 businesses listed, 5 unconfirmed). Not established: an actual Oromo count (estimates run from 8,500 to over 100,000; the firmest figure is 3,297 students with Oromo as home language, 2024-25), any Minnesota Waaqeffanna congregation, current faith shares, a confirmed Oromo elected official, and Oromo-specific income, health or disability data.

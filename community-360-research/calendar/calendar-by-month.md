@@ -220,7 +220,7 @@ A plain date has an opened source stating it. "About" means the day is not yet c
 ## November 2026
 
 - Sunday, November 1: **Carver Diwali**. Volunteer neighbors' Diwali show and dinner in Eden Prairie. [Indian (Asian Indian) Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian)
-- Sunday, November 1: **SAPNA Diyas and Dandiyas**. SEWA-AIFW's Diwali-season gathering for neurodivergent families in Brooklyn Center. [Indian (Asian Indian) Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian)
+- Sunday, November 1: **SAPNA Diyas and Dandiyas**. A Diwali-season event from SEWA-AIFW's neurodiversity program in Brooklyn Center. [Indian (Asian Indian) Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian)
 - Monday, November 2: **Día de los Muertos**. Remembrance of the dead (observed November 1 and 2). [Guatemalan Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan), [Latino Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/latino), [Mexican Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/mexican)
 - Saturday, November 7: **Best of Black Business Awards**. Spokesman-Recorder awards celebrating Black-owned businesses chosen by community voting. [African American Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american)
 - Saturday, November 7 to November 22: **Firearms deer opener**. Saturday in November when many Minnesota families head to deer camp. [Rural and Greater Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/rural)
@@ -572,7 +572,7 @@ A plain date has an opened source stating it. "About" means the day is not yet c
 - **Dec. 13, 2003 Gambella killings** (Ethiopian Minnesota): Fixed date of the event. No organized annual Minnesota observance was found, so none is claimed and no calendar dates are given.
 - **Twin Ports and Brooklyn Park Hmong New Year gatherings** (Hmong Minnesota): Set locally each year. Brooklyn Park held its event on Dec. 13, 2025. The University of Minnesota Duluth Hmong Student Association held one in 2025 and planned to return.
 - **Hindu Society of Minnesota Diwali** (Indian (Asian Indian) Minnesota): Set each year by the Hindu Society. 2026 date not found.
-- **Vaisakhi** (Indian (Asian Indian) Minnesota): Mid-April. Local gatherings are set by the gurdwara and Punjabi groups.
+- **Vaisakhi** (Indian (Asian Indian) Minnesota): Traditionally mid-April; no page I opened states a date. Local gatherings are set by the gurdwara and Punjabi groups.
 - **Pongal** (Indian (Asian Indian) Minnesota): Mid-January. Local date set by the group.
 - **Bonalu** (Indian (Asian Indian) Minnesota): Set locally. 2026 date not found.
 - **Ganesh Utsav** (Indian (Asian Indian) Minnesota): Set locally by the association.
