@@ -33677,6 +33677,323 @@
    ]
   },
   {
+   "id": "rural--king-turkey-day",
+   "observanceKey": "king-turkey-day",
+   "name": "King Turkey Day",
+   "alsoKnownAs": [
+    "KTD",
+    "Great Gobbler Gallop"
+   ],
+   "communities": [
+    "rural"
+   ],
+   "briefLinks": [
+    {
+     "community": "rural",
+     "title": "Rural and Greater Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/rural"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/rural/profile.md",
+   "kind": "community festival",
+   "capsule": "Worthington's September festival with a turkey race against Cuero, Texas, a parade, pancakes and a 10K.",
+   "dateRule": "Second Saturday after Labor Day, per FORWARD Worthington.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": null,
+     "source": "King Turkey Day 5K/10K registration page linked by FORWARD Worthington",
+     "sourceUrl": "https://raceroster.com/events/2026/116401/king-turkey-day-5k10k",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-18",
+     "endDate": null,
+     "source": "FORWARD Worthington",
+     "sourceUrl": "https://forwardworthington.com/king-turkey-day-races/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Worthington's turkey industry and town pride.",
+   "howCelebratedInMinnesota": "A volunteer board names parade marshals and an Honorary Turkey at a downtown mixer. Traditions include serving pancakes, the 5K and 10K runs around Lake Okabena, the Great Gobbler Gallop on 10th Street in which Worthington's turkey Paycheck races Cuero, Texas' Ruby Begonia, and an afternoon parade (2 p.m. in the race schedule).",
+   "minnesotaEvents": [
+    {
+     "name": "King Turkey Day races",
+     "place": "Downtown Worthington",
+     "link": "https://raceroster.com/events/2026/116401/king-turkey-day-5k10k",
+     "organizerDates": "Saturday, Sept. 19, 2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "King Turkey Day races",
+     "place": "Downtown Worthington",
+     "link": "https://forwardworthington.com/king-turkey-day-races/",
+     "organizerDates": "Saturday, Sept. 18, 2027; parade begins 2 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Great Gobbler Gallop, first heat",
+     "place": "10th Street, downtown Worthington",
+     "link": "https://www.dglobe.com/news/local/cuero-worthington-turkey-teams-prepare-for-the-great-gobbler-gallop",
+     "organizerDates": "1:30 p.m. Saturday, Sept. 13, 2025 (as reported)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "King Turkey Day Races",
+     "url": "https://forwardworthington.com/king-turkey-day-races/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "2026 King Turkey Day 5K/10K",
+     "url": "https://raceroster.com/events/2026/116401/king-turkey-day-5k10k",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "King Turkey Day parade marshals, Honorary Turkey named",
+     "url": "https://www.dglobe.com/news/local/ktd-2025-parade-marshals-honorary-turkey-named",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Cuero, Worthington turkey teams prepare for the Great Gobbler Gallop",
+     "url": "https://www.dglobe.com/news/local/cuero-worthington-turkey-teams-prepare-for-the-great-gobbler-gallop",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "rural--pheasant-season-opener",
+   "observanceKey": "pheasant-season-opener",
+   "name": "Pheasant season opener",
+   "alsoKnownAs": [
+    "Pheasant opener"
+   ],
+   "communities": [
+    "rural"
+   ],
+   "briefLinks": [
+    {
+     "community": "rural",
+     "title": "Rural and Greater Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/rural"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/rural/profile.md",
+   "kind": "community festival",
+   "capsule": "Saturday in October when pheasant season opens across southern, central and western Minnesota.",
+   "dateRule": "Set by the DNR each year; opens at 9 a.m. on a Saturday in mid-October.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-10",
+     "endDate": "2027-01-03",
+     "source": "Minnesota DNR",
+     "sourceUrl": "https://www.dnr.state.mn.us/news/2026/09/29/dnr-fish-and-wildlife-almanac-sept-29",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of the fall pheasant hunt.",
+   "howCelebratedInMinnesota": "The DNR's 2026 roadside count was 90 pheasants per 100 miles, up nearly 20 percent from 2025, with the best prospects in the west central and southwest regions.",
+   "minnesotaEvents": [
+    {
+     "name": "Pheasant season",
+     "place": "Statewide",
+     "link": "https://www.dnr.state.mn.us/news/2026/09/29/dnr-fish-and-wildlife-almanac-sept-29",
+     "organizerDates": "Oct. 10, 2026 through Jan. 3, 2027",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Pheasant index up nearly 20% from 2025",
+     "url": "https://www.dnr.state.mn.us/news/2026/09/08/pheasant-index-nearly-20-2025",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "DNR Fish and Wildlife Almanac, Sept. 29",
+     "url": "https://www.dnr.state.mn.us/news/2026/09/29/dnr-fish-and-wildlife-almanac-sept-29",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "rural--governors-pheasant-hunting-opener",
+   "observanceKey": "governors-pheasant-hunting-opener",
+   "name": "Governor's Pheasant Hunting Opener",
+   "alsoKnownAs": [],
+   "communities": [
+    "rural"
+   ],
+   "briefLinks": [
+    {
+     "community": "rural",
+     "title": "Rural and Greater Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/rural"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/rural/profile.md",
+   "kind": "community festival",
+   "capsule": "Yearly opener weekend hosted by a different Minnesota town; Northfield hosted in 2026.",
+   "dateRule": "Held on pheasant opening weekend in a host town chosen by application.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-09",
+     "endDate": "2026-10-10",
+     "source": "Minnesota DNR",
+     "sourceUrl": "https://www.dnr.state.mn.us/news/2026/09/21/northfield-readies-2026-minnesota-governors-pheasant-hunting-opener",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Pheasant hunting, public hunting lands and the host community.",
+   "howCelebratedInMinnesota": "In 2026 Northfield hosted, with a Rooster Round-Up street dance and food trucks in Bridge Square on Oct. 9 and hunting on Oct. 10. The DNR noted the 75th anniversary of wildlife management areas.",
+   "minnesotaEvents": [
+    {
+     "name": "Governor's Pheasant Hunting Opener",
+     "place": "Northfield",
+     "link": "https://www.dnr.state.mn.us/news/2026/09/21/northfield-readies-2026-minnesota-governors-pheasant-hunting-opener",
+     "organizerDates": "Oct. 9 to 10, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Northfield readies for 2026 Minnesota Governor's Pheasant Hunting Opener",
+     "url": "https://www.dnr.state.mn.us/news/2026/09/21/northfield-readies-2026-minnesota-governors-pheasant-hunting-opener",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "rural--waterfowl-season-opener",
+   "observanceKey": "waterfowl-season-opener",
+   "name": "Waterfowl season opener",
+   "alsoKnownAs": [
+    "Duck opener"
+   ],
+   "communities": [
+    "rural"
+   ],
+   "briefLinks": [
+    {
+     "community": "rural",
+     "title": "Rural and Greater Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/rural"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/rural/profile.md",
+   "kind": "community festival",
+   "capsule": "Late-September Saturday when Minnesota's regular duck and goose seasons open.",
+   "dateRule": "Set by the DNR each year; regular season opens 30 minutes before sunrise on a late-September Saturday. Early teal and goose seasons start earlier.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-26",
+     "endDate": null,
+     "source": "Minnesota DNR",
+     "sourceUrl": "https://www.dnr.state.mn.us/news/2026/09/21/dnr-fish-and-wildlife-almanac-sept-21",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": null,
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of the regular duck and goose hunting seasons.",
+   "howCelebratedInMinnesota": "In 2026 duck seasons ran Sept. 26 to Nov. 24 in the North zone, with split seasons in the Central and South zones. The DNR asked early-season hunters to take care around wild rice beds and harvesters, and to follow Tribal restrictions on three reservations.",
+   "minnesotaEvents": [
+    {
+     "name": "Early teal season",
+     "place": "Statewide",
+     "link": "https://www.dnr.state.mn.us/news/2026/08/31/waterfowl-hunting-seasons-are-horizon",
+     "organizerDates": "Sept. 5 to 9, 2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Regular duck season, North zone",
+     "place": "Northern Minnesota",
+     "link": "https://www.dnr.state.mn.us/news/2026/08/31/waterfowl-hunting-seasons-are-horizon",
+     "organizerDates": "Sept. 26 to Nov. 24, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Waterfowl hunting seasons are on the horizon",
+     "url": "https://www.dnr.state.mn.us/news/2026/08/31/waterfowl-hunting-seasons-are-horizon",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "DNR Fish and Wildlife Almanac, Sept. 21",
+     "url": "https://www.dnr.state.mn.us/news/2026/09/21/dnr-fish-and-wildlife-almanac-sept-21",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
    "id": "russian-speaking--orthodox-christmas-julian-calendar",
    "observanceKey": "orthodox-christmas-julian-calendar",
    "name": "Orthodox Christmas (Julian calendar)",

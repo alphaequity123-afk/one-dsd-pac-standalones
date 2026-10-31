@@ -3118,6 +3118,20 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:king-turkey-day-2026-09-19@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:King Turkey Day
+DESCRIPTION:Worthington's turkey industry and town pride. Date: Second Sa
+ turday after Labor Day\, per FORWARD Worthington. Source: King Turkey Day
+  5K/10K registration page linked by FORWARD Worthington https://raceroste
+ r.com/events/2026/116401/king-turkey-day-5k10k Communities: Rural and Gre
+ ater Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:minnesothai-thai-street-food-festival-2026-09-19@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260919
@@ -3261,6 +3275,21 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:waterfowl-season-opener-2026-09-26@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Waterfowl season opener
+DESCRIPTION:The start of the regular duck and goose hunting seasons. Date
+ : Set by the DNR each year\; regular season opens 30 minutes before sunri
+ se on a late-September Saturday. Early teal and goose seasons start earli
+ er. Source: Minnesota DNR https://www.dnr.state.mn.us/news/2026/09/21/dnr
+ -fish-and-wildlife-almanac-sept-21 Communities: Rural and Greater Minneso
+ ta
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:meskel-2026-09-27@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260927
@@ -3394,7 +3423,8 @@ SUMMARY:Governor's Pheasant Hunting Opener
 DESCRIPTION:The start of pheasant season. Date: October\; host town and d
  ates announced by the governor's office. Source: KTTC\, Oct. 14\, 2025 ht
  tps://www.kttc.com/2025/10/14/2026-governers-pheasant-hunting-opener-be-h
- eld-northfield/ Communities: Minnesota culture
+ eld-northfield/ Communities: Minnesota culture\, Rural and Greater Minnes
+ ota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3426,6 +3456,19 @@ DESCRIPTION:The end of a two-week period of offerings and prayers to ance
  . 167) https://kh.andersen.com/publications/cambodia-sets-official-2026-p
  ublic-holiday-schedule/ Communities: Cambodian Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pheasant-season-opener-2026-10-10@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20270104
+SUMMARY:Pheasant season opener
+DESCRIPTION:The start of the fall pheasant hunt. Date: Set by the DNR eac
+ h year\; opens at 9 a.m. on a Saturday in mid-October. Source: Minnesota 
+ DNR https://www.dnr.state.mn.us/news/2026/09/29/dnr-fish-and-wildlife-alm
+ anac-sept-29 Communities: Rural and Greater Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5641,6 +5684,19 @@ DESCRIPTION:A celebration and sharing of Ukrainian culture\; donations su
  eptember\, announced each year by the festival organizers. Source: Ukrain
  ian Festival MN https://ukrainianfestivalmn.com/ Communities: Ukrainian M
  innesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:king-turkey-day-2027-09-18@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:King Turkey Day
+DESCRIPTION:Worthington's turkey industry and town pride. Date: Second Sa
+ turday after Labor Day\, per FORWARD Worthington. Source: FORWARD Worthin
+ gton https://forwardworthington.com/king-turkey-day-races/ Communities: R
+ ural and Greater Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT

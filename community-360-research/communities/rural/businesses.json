@@ -64,20 +64,20 @@
   "type": "electronics distributor",
   "neighborhoodOrCity": "Thief River Falls",
   "whatItIs": "Electronic parts distributor begun in 1972; reports 4,700+ employees.",
-  "link": "https://www.digikey.com/en/resources/about-digikey",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Only a 2026 copyright footer and a local office address; no dated item."
+  "link": "https://evertiq.com/news/2026-07-30-digikey-adds-over-27000-new-parts-to-in-stock-product-lineup",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Evertiq article dated July 30, 2026 reports DigiKey expanded its stocked products in Q2 2026."
  },
  {
   "name": "Paul Bunyan Communications",
   "type": "telephone and broadband provider",
   "neighborhoodOrCity": "Bemidji and Grand Rapids",
   "whatItIs": "Fiber internet provider with a Cooperative section on its site.",
-  "link": "https://www.paulbunyan.net/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "2026 footer and 2026 image files; its news section held placeholder text."
+  "link": "https://blandinonbroadband.org/2026/07/21/update-from-paul-bunyan-communications-on-broadband-expansion-in-itasca-and-st-louis-counties/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Blandin on Broadband post dated July 21, 2026: the cooperative started construction in late April on fiber to over 600 more locations in Itasca and St. Louis counties."
  },
  {
   "name": "East Central Energy",
@@ -94,40 +94,40 @@
   "type": "electric cooperative",
   "neighborhoodOrCity": "Minnesota",
   "whatItIs": "Member-owner electric cooperative.",
-  "link": "https://www.greatriverenergy.com/about-us/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Page describes member-owners but shows no dated item."
+  "link": "https://greatriverenergy.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Home page lists company news dated Aug. 13, Sept. 9 and Oct. 14, 2026."
  },
  {
   "name": "Steele-Waseca Cooperative Electric",
   "type": "electric cooperative",
   "neighborhoodOrCity": "Steele and Waseca area",
   "whatItIs": "Member-owned electric utility.",
-  "link": "https://www.ruralmn.org/in-praise-of-cooperatives/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Only source is a 2019 post by its general manager."
+  "link": "https://swce.coop/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Co-op site lists upcoming office closures for Nov. 26 and Dec. 24, 2026, and a harvest-season safety post."
  },
  {
   "name": "CHS",
   "type": "farmer-owned cooperative",
   "neighborhoodOrCity": "Inver Grove Heights, serving rural communities",
   "whatItIs": "Cooperative owned by farmers and local co-ops; operates in over 450 U.S. communities by its own count.",
-  "link": "https://www.chsinc.com/about-us",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "2026 footer and image files, no dated post."
+  "link": "https://www.chsinc.com/news-and-stories/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "News page lists items dated August through Oct. 7, 2026."
  },
  {
   "name": "Bongards Creameries",
   "type": "farmer-owned dairy cooperative",
   "neighborhoodOrCity": "Retail stores in Bongards and Perham",
   "whatItIs": "Cheese and whey cooperative dating to 1908.",
-  "link": "https://www.bongards.com/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Only a 2026 copyright footer."
+  "link": "https://cclocalnews.org/2026/08/18/bongards-creameries-announces-135-million-expansion/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Carver County Local News, Aug. 18, 2026: the farmer-owned co-op plans a $135 million expansion of its process cheese plant in Bongards, construction to start in the fourth quarter of 2026."
  },
  {
   "name": "Harmony Foods Co-op",
@@ -175,9 +175,9 @@
   "neighborhoodOrCity": "Willmar",
   "whatItIs": "Indoor mall offered at public auction.",
   "link": "https://www.wctrib.com/news/local/uptown-willmar-mall-did-not-sell-at-public-auction",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Did not sell at auction Oct. 28, 2026; article names no tenants."
+  "evidence": "Did not sell at auction Oct. 28, 2026; article names no tenants. Rechecked Oct. 31, 2026: the Oct. 28, 2026 article covers the failed sale of the property and does not say whether tenants are operating."
  },
  {
   "name": "Paul Bunyan Mall",
@@ -185,19 +185,19 @@
   "neighborhoodOrCity": "Bemidji",
   "whatItIs": "One-level shopping mall.",
   "link": "https://www.paulbunyanmall.com/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Footer reads 2019; no dated listings."
+  "evidence": "Footer reads 2019; no dated listings. Rechecked Oct. 31, 2026: the mall site refused the request (403), and no dated page was found."
  },
  {
   "name": "Betty's Pies",
   "type": "restaurant",
   "neighborhoodOrCity": "Two Harbors",
   "whatItIs": "Pie shop and cafe that traces its roots to the 1950s.",
-  "link": "https://bettyspies.com/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Footer reads 2020 and hours are referred to Facebook."
+  "link": "https://www.minnesotamonthly.com/general/pie-pie-me-oh-my/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Minnesota Monthly, Jan. 23, 2026, lists Betty's Pies among bakeries for National Pie Day 2026; own site carries an hours section."
  },
  {
   "name": "Franke's Bakery",
@@ -205,9 +205,9 @@
   "neighborhoodOrCity": "Montgomery",
   "whatItIs": "Makes kolaches sold at Kolacky Days.",
   "link": "https://www.mprnews.org/episode/2024/07/24/summer-festival-spotlight-kolacky-days",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Only source is from July 2024."
+  "evidence": "Only source is from July 2024. Rechecked Oct. 31, 2026: no 2025 or 2026 dated page was found."
  },
  {
   "name": "Hoot & Ole's",
@@ -235,9 +235,9 @@
   "neighborhoodOrCity": "Greater Minnesota",
   "whatItIs": "Business, agricultural and personal banking.",
   "link": "https://www.minnwestbank.com/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Only a 2026 copyright footer."
+  "evidence": "Only a 2026 copyright footer. Rechecked Oct. 31, 2026: the bank site lists locations and careers but shows no dated post."
  },
  {
   "name": "AgCountry Farm Credit Services",
@@ -255,19 +255,19 @@
   "neighborhoodOrCity": "Cold Spring",
   "whatItIs": "Natural stone quarrier and fabricator.",
   "link": "https://www.coldspringusa.com/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Only a 2026 copyright footer."
+  "evidence": "Only a 2026 copyright footer. Rechecked Oct. 31, 2026: the company site shows only a 2026 copyright line; no dated post was found."
  },
  {
   "name": "Jennie-O Turkey Store",
   "type": "food manufacturer",
   "neighborhoodOrCity": "Location not stated on the page",
   "whatItIs": "Turkey brand tied to Hormel by its footer links.",
-  "link": "https://www.jennieo.com/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Only a 2026 copyright footer; Willmar not mentioned."
+  "link": "https://www.hormelfoods.com/newsroom/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Hormel Foods newsroom, with posts dated Oct. 30, 2026, lists Jennie-O as a current brand. Plant locations are not stated on that page."
  },
  {
   "name": "JBS Worthington",
@@ -295,9 +295,9 @@
   "neighborhoodOrCity": "Austin",
   "whatItIs": "Pork plant employing immigrants.",
   "link": "https://sahanjournal.com/immigration/us-2020-census-minnesota-diversity-immigrants-worthington-austin/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Newest source is from 2021."
+  "evidence": "Newest source is from 2021. Rechecked Oct. 31, 2026: the company site recruits workers but shows no dated post; a KAAL report on a sanitation contract shows no date."
  },
  {
   "name": "Select Foods",
@@ -305,19 +305,19 @@
   "neighborhoodOrCity": "Albert Lea",
   "whatItIs": "Named as an employer of Karen workers.",
   "link": "https://sahanjournal.com/immigration/lured-by-jobs-and-housing-karen-refugees-spread-across-minnesota/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Only source is from 2019."
+  "evidence": "Only source is from 2019. Rechecked Oct. 31, 2026: no 2025 or 2026 dated page was found."
  },
  {
   "name": "Viracon",
   "type": "glass manufacturer",
   "neighborhoodOrCity": "Owatonna",
   "whatItIs": "Named as an employer of Karen workers.",
-  "link": "https://sahanjournal.com/immigration/lured-by-jobs-and-housing-karen-refugees-spread-across-minnesota/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Only source is from 2019."
+  "link": "https://viracon.com/newsroom/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Newsroom posts dated July 31 and Aug. 28, 2025, datelined Owatonna."
  },
  {
   "name": "Hibbing Taconite",
@@ -385,9 +385,9 @@
   "neighborhoodOrCity": "Bagley, Fosston and Kelliher",
   "whatItIs": "Rural nursing care provider.",
   "link": "https://www.ruralmn.org/wp-content/uploads/2024/11/The-declining-capacity-of-nursing-facility-beds-in-rural-Minnesota.pdf",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Only source is from November 2024."
+  "evidence": "Only source is from November 2024. Rechecked Oct. 31, 2026: no 2025 or 2026 dated page was found."
  },
  {
   "name": "United Community Action Partnership",
@@ -404,10 +404,10 @@
   "type": "disability services",
   "neighborhoodOrCity": "Mankato, Fairmont, New Ulm, Waseca",
   "whatItIs": "Independent living center serving Region 9.",
-  "link": "https://www.smilescil.org/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Lists offices and services but no dated item."
+  "link": "https://smilescil.org/events/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Events page posts monthly event calendars for August through November 2026."
  },
  {
   "name": "Access North",
@@ -554,10 +554,10 @@
   "type": "museum",
   "neighborhoodOrCity": "Chisholm",
   "whatItIs": "Museum and research center on the Iron Range.",
-  "link": "https://www.mndiscoverycenter.org/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Describes programs but shows no dated item on the page."
+  "link": "https://www.pbs.org/video/minnesota-discovery-center-tby1ha/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "PBS segment dated March 2, 2026, on the center and its new Hall of Geology opening April 10."
  },
  {
   "name": "Hibbing Area Chamber of Commerce",
@@ -578,5 +578,135 @@
   "dateChecked": "2026-10-30",
   "status": "open",
   "evidence": "Events through Nov. 10, 2026."
+ },
+ {
+  "name": "Tienda y Taqueria Guerrero",
+  "type": "grocery and restaurant",
+  "neighborhoodOrCity": "Austin, 301 4th Ave. NE",
+  "whatItIs": "Family-owned Mexican grocery and taqueria, per its chamber listing.",
+  "link": "https://business.austincoc.com/list/member/tienda-y-taqueria-guerrero-12155",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Austin Area Chamber member listing (2026) gives current daily hours, Mon-Thu 8 a.m. to 8 p.m."
+ },
+ {
+  "name": "Enat Ethiopian Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rochester",
+  "whatItIs": "Ethiopian restaurant; its assistant manager told KTTC the owners are immigrants from Ethiopia.",
+  "link": "https://www.kttc.com/2026/02/03/new-immigrant-owned-restaurants-open-rochester-despite-industry-difficulties",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "KTTC, Feb. 3, 2026: opened about a month earlier."
+ },
+ {
+  "name": "Stir Fry Express",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rochester (also Duluth and Sioux Falls)",
+  "whatItIs": "Self-serve Asian restaurant opened by a Bosnian American family, per KTTC.",
+  "link": "https://www.kttc.com/2026/02/03/new-immigrant-owned-restaurants-open-rochester-despite-industry-difficulties",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "KTTC, Feb. 3, 2026: grand opening that day, open 11 to 8 daily."
+ },
+ {
+  "name": "El Tapatio",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Mexican restaurant.",
+  "link": "https://www.uppermichiganssource.com/2026/01/18/ice-agents-detain-workers-mexican-restaurant-after-visiting-business-lunch",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "WCCO report carried Jan. 18, 2026: closed early after federal immigration agents detained its owners and a worker; a family member planned to reopen it. No later page found."
+ },
+ {
+  "name": "FORWARD Worthington",
+  "type": "chamber of commerce and economic development",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Combined chamber, visitors bureau and regional economic development group; runs the King Turkey Day races.",
+  "link": "https://forwardworthington.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Site has a post dated June 22, 2026 and lists the Sept. 18, 2027 King Turkey Day race."
+ },
+ {
+  "name": "Jebena Ethiopian Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Ethiopian restaurant, 1632 Oxford St.",
+  "link": "https://forwardworthington.com/visit-worthington-mn/dining/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed with a street address in FORWARD Worthington's current dining directory (site footer 2026). The listing is undated and does not say who owns the business."
+ },
+ {
+  "name": "The Thompson Mexican Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Mexican restaurant in the former Thompson Hotel, 310 10th St.; AP reported in 2024 that it is managed by a man who came from El Salvador.",
+  "link": "https://forwardworthington.com/visit-worthington-mn/dining/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed with a street address in FORWARD Worthington's current dining directory (site footer 2026). The listing is undated and does not say who owns the business."
+ },
+ {
+  "name": "Panaderia Mi Tierra Bakery",
+  "type": "bakery",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Bakery, 424 10th St.",
+  "link": "https://forwardworthington.com/visit-worthington-mn/dining/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed with a street address in FORWARD Worthington's current dining directory (site footer 2026). The listing is undated and does not say who owns the business."
+ },
+ {
+  "name": "Top Asian Food Deli",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Asian deli, 312 10th St.",
+  "link": "https://forwardworthington.com/visit-worthington-mn/dining/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed with a street address in FORWARD Worthington's current dining directory (site footer 2026). The listing is undated and does not say who owns the business."
+ },
+ {
+  "name": "El Rinconcito",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Restaurant, 300 10th St.",
+  "link": "https://forwardworthington.com/visit-worthington-mn/dining/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed with a street address in FORWARD Worthington's current dining directory (site footer 2026). The listing is undated and does not say who owns the business."
+ },
+ {
+  "name": "El Azteca",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Mexican restaurant, 223 10th St.",
+  "link": "https://forwardworthington.com/visit-worthington-mn/dining/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed with a street address in FORWARD Worthington's current dining directory (site footer 2026). The listing is undated and does not say who owns the business."
+ },
+ {
+  "name": "El Taco Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Restaurant, 418 10th St.",
+  "link": "https://forwardworthington.com/visit-worthington-mn/dining/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed with a street address in FORWARD Worthington's current dining directory (site footer 2026). The listing is undated and does not say who owns the business."
+ },
+ {
+  "name": "Lupita's Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Restaurant, 1906 Oxford St.",
+  "link": "https://forwardworthington.com/visit-worthington-mn/dining/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed with a street address in FORWARD Worthington's current dining directory (site footer 2026). The listing is undated and does not say who owns the business."
  }
 ]
