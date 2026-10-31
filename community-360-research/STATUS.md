@@ -15,7 +15,7 @@
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): all 28 communities are finished. Second pass done on karen; running on somali, african-american and latino (of the 10 thin communities below).
+- In the cloud session (started October 31, 2026): all 28 communities are finished. Second pass done on karen; running on somali, african-american, latino, mexican and vietnamese (of the 10 thin communities below).
 
 ## Next, after the 28 communities
 
