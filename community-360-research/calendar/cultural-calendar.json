@@ -4704,9 +4704,7 @@
    "observanceKey": "start-of-ramadan",
    "name": "Start of Ramadan",
    "alsoKnownAs": [
-    "Ramadan",
-    "Ramazan",
-    "Soomaan"
+    "Ramadan"
    ],
    "communities": [
     "ethiopian"
@@ -4720,14 +4718,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "religious",
-   "capsule": "Start of the month of daytime fasting.",
-   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+   "capsule": "The month of daytime fasting begins for Ethiopian Muslim Minnesotans, as for Muslims here generally.",
+   "dateRule": "First day of the ninth month of the Islamic lunar calendar; decided by moon sighting or adopted calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
      "sourceUrl": null,
      "verified": false
     },
@@ -4735,7 +4733,7 @@
      "year": 2027,
      "date": "2027-02-08",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
      "sourceUrl": null,
      "verified": false
     },
@@ -4743,7 +4741,7 @@
      "year": 2028,
      "date": "2028-01-28",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
      "sourceUrl": null,
      "verified": false
     }
@@ -4753,17 +4751,19 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "ethiopian--eid-alfitr",
    "observanceKey": "eid-alfitr",
    "name": "Eid al-Fitr",
-   "alsoKnownAs": [
-    "Ciid Yare",
-    "Ramazanski Bajram",
-    "Id el Fitr"
-   ],
+   "alsoKnownAs": [],
    "communities": [
     "ethiopian"
    ],
@@ -4776,14 +4776,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "religious",
-   "capsule": "End of Ramadan.",
-   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+   "capsule": "Celebration that closes Ramadan, observed by Ethiopian Muslim Minnesotans among others.",
+   "dateRule": "First day of the tenth Islamic month, after Ramadan; decided by moon sighting or adopted calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.; Fiqh Council of North America, Calendar lists 2026-03-20",
      "sourceUrl": null,
      "verified": false
     },
@@ -4791,7 +4791,7 @@
      "year": 2027,
      "date": "2027-03-09",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
      "sourceUrl": null,
      "verified": false
     },
@@ -4799,7 +4799,7 @@
      "year": 2028,
      "date": "2028-02-26",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
      "sourceUrl": null,
      "verified": false
     }
@@ -4809,17 +4809,19 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "ethiopian--eid-aladha",
    "observanceKey": "eid-aladha",
    "name": "Eid al-Adha",
-   "alsoKnownAs": [
-    "Ciid Weyn",
-    "Kurban Bajram",
-    "Id el Kabir"
-   ],
+   "alsoKnownAs": [],
    "communities": [
     "ethiopian"
    ],
@@ -4832,14 +4834,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "religious",
-   "capsule": "Festival of sacrifice, during the Hajj season.",
-   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+   "capsule": "Festival of sacrifice during the Hajj season, observed by Ethiopian Muslim Minnesotans among others.",
+   "dateRule": "Tenth day of the twelfth Islamic month; decided by moon sighting or adopted calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -4847,7 +4849,7 @@
      "year": 2027,
      "date": "2027-05-16",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
      "sourceUrl": null,
      "verified": false
     },
@@ -4855,7 +4857,7 @@
      "year": 2028,
      "date": "2028-05-05",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
      "sourceUrl": null,
      "verified": false
     }
@@ -4865,15 +4867,20 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "ethiopian--mawlid-annabi",
    "observanceKey": "mawlid-annabi",
    "name": "Mawlid an-Nabi",
    "alsoKnownAs": [
-    "Mawlid",
-    "Mawliid"
+    "Mawlid"
    ],
    "communities": [
     "ethiopian"
@@ -4887,14 +4894,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "religious",
-   "capsule": "Birthday of the Prophet Muhammad.",
-   "dateRule": "Twelfth day of the third Islamic month (Rabi al-Awwal); not observed by all Muslims.",
+   "capsule": "Birthday of the Prophet Muhammad; not observed by all Muslims. No Minnesota Ethiopian observance found.",
+   "dateRule": "Twelfth day of the third Islamic month; decided by moon sighting or adopted calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-08-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
      "sourceUrl": null,
      "verified": false
     },
@@ -4902,7 +4909,7 @@
      "year": 2027,
      "date": "2027-08-14",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
      "sourceUrl": null,
      "verified": false
     },
@@ -4910,7 +4917,7 @@
      "year": 2028,
      "date": "2028-08-03",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Projected with a tabular Islamic calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one.",
      "sourceUrl": null,
      "verified": false
     }
@@ -4920,7 +4927,13 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "ethiopian--enkutatash",
@@ -4942,22 +4955,22 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "cultural",
-   "capsule": "Start of the Ethiopian year.",
+   "capsule": "The Ethiopian New Year, on the first day of Meskerem in September.",
    "dateRule": "Meskerem 1 on the Ethiopian calendar: September 11, or September 12 in the Gregorian year before a Gregorian leap year.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-09-11",
      "endDate": null,
-     "source": "Royal Norwegian Embassy in Addis Ababa, Embassy Closing Days 2026",
-     "sourceUrl": "https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy/2026/",
+     "source": "Ethiopia Visitors Hub",
+     "sourceUrl": "https://ethiopiavisitorshub.com/ethiopian-september-holidays-guide/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-09-12",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-12",
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-12",
      "sourceUrl": null,
      "verified": false
     },
@@ -4965,17 +4978,94 @@
      "year": 2028,
      "date": "2028-09-11",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-11",
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-11",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
    "whatItMarks": "Start of the Ethiopian year.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "The Ethiopian Community in Minnesota has held public celebrations, including one at Matthews Park in 2011 and one at Highland Park Pavilion in 2026. See the separate entry.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Ethiopian September holidays guide, Ethiopia Visitors Hub",
+     "url": "https://ethiopiavisitorshub.com/ethiopian-september-holidays-guide/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Ethiopian Community in Minnesota home page",
+     "url": "https://ethiopiancommunitymn.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "ethiopian--ethiopian-community-in-minnesota-new-year-celebration",
+   "observanceKey": "ethiopian-community-in-minnesota-new-year-celebration",
+   "name": "Ethiopian Community in Minnesota New Year Celebration",
+   "alsoKnownAs": [],
+   "communities": [
+    "ethiopian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ethiopian",
+     "title": "Ethiopian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
+   "kind": "community festival",
+   "capsule": "Free New Year gathering in St. Paul with Ethiopian food, music and dance; traditional dress encouraged.",
+   "dateRule": "Set by the Ethiopian Community in Minnesota; the 2026 event fell two days after Enkutatash.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-13",
+     "endDate": null,
+     "source": "Mefthe listing of the Ethiopian Community in Minnesota's invitation",
+     "sourceUrl": "https://mefthe.com/events/celebrate-ethiopian-new-year-in-minnesota/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The Ethiopian New Year, in a public community setting.",
+   "howCelebratedInMinnesota": "On Sept. 13, 2026, 2 to 7 p.m., at Highland Park Pavilion, 1200 Montreal Ave., St. Paul. Free, with food, traditional music and live dance.",
+   "minnesotaEvents": [
+    {
+     "name": "Ethiopian New Year celebration",
+     "place": "Highland Park Pavilion, St. Paul",
+     "link": "https://mefthe.com/events/celebrate-ethiopian-new-year-in-minnesota/",
+     "organizerDates": "Sunday, Sept. 13, 2026, 2 to 7 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian New Year in Minnesota, Mefthe",
+     "url": "https://mefthe.com/events/celebrate-ethiopian-new-year-in-minnesota/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "ethiopian--meskel",
@@ -4983,7 +5073,7 @@
    "name": "Meskel",
    "alsoKnownAs": [
     "Finding of the True Cross",
-    "Demera"
+    "Demera (eve bonfire)"
    ],
    "communities": [
     "ethiopian"
@@ -4997,22 +5087,22 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "religious",
-   "capsule": "Ethiopian Orthodox feast of the finding of the True Cross.",
-   "dateRule": "Meskerem 17 on the Ethiopian calendar: September 27, or September 28 in leap-adjacent years.",
+   "capsule": "Orthodox feast of the finding of the True Cross, marked with a Demera bonfire.",
+   "dateRule": "Meskerem 17 on the Ethiopian calendar: September 27, or September 28 in the year Enkutatash falls on September 12. The Demera bonfire is the evening before.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-09-27",
      "endDate": null,
-     "source": "German Embassy Addis Ababa, Public holidays (2026)",
-     "sourceUrl": "https://addis-abeba.diplo.de/et-en/about-us/public-holidays-2629598",
+     "source": "Ethiopia Visitors Hub",
+     "sourceUrl": "https://ethiopiavisitorshub.com/ethiopian-september-holidays-guide/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-09-28",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-28",
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-28",
      "sourceUrl": null,
      "verified": false
     },
@@ -5020,17 +5110,36 @@
      "year": 2028,
      "date": "2028-09-27",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-27",
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-27",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Ethiopian Orthodox feast of the finding of the True Cross.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "Ethiopian Orthodox feast of the finding of the True Cross. The Post Bulletin notes the belief that smoke from a bonfire led Queen Eleni to the cross.",
+   "howCelebratedInMinnesota": "In Rochester in 2021 and 2022, Orthodox Christians marked it at Cascade Lake Beach on the nearest Sunday so more could attend, with a service, a procession and a Demera. More than 100 attended on Sept. 25, 2022. A 2021 cross was misread as a possible cross burning and dismantled, Eyob Adehane told the Post Bulletin.",
+   "minnesotaEvents": [
+    {
+     "name": "Meskel and Demera at Cascade Lake",
+     "place": "Cascade Lake Beach, Rochester",
+     "link": "https://www.postbulletin.com/news/local/smoke-leads-the-way-rochester-ethiopians-mark-the-finding-of-the-cross",
+     "organizerDates": "Held Sept. 25, 2022; no later date found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Smoke leads the way, Post Bulletin",
+     "url": "https://www.postbulletin.com/news/local/smoke-leads-the-way-rochester-ethiopians-mark-the-finding-of-the-cross",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Ethiopian September holidays guide, Ethiopia Visitors Hub",
+     "url": "https://ethiopiavisitorshub.com/ethiopian-september-holidays-guide/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "ethiopian--genna",
@@ -5052,7 +5161,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "religious",
-   "capsule": "Christmas in the Ethiopian Orthodox Tewahedo Church.",
+   "capsule": "Christmas in the Ethiopian Orthodox Tewahedo Church, usually January 7.",
    "dateRule": "Tahsas 29 on the Ethiopian calendar, usually January 7.",
    "dates": [
     {
@@ -5067,7 +5176,7 @@
      "year": 2027,
      "date": "2027-01-07",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-07",
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-07",
      "sourceUrl": null,
      "verified": false
     },
@@ -5075,7 +5184,7 @@
      "year": 2028,
      "date": "2028-01-07",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-07",
+     "source": "Calculated from the Ethiopian calendar; no opened page states this date for this year.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-07",
      "sourceUrl": null,
      "verified": false
     }
@@ -5085,15 +5194,20 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "This Minnesota Church Celebrates Christmas in January, YouTube (title only; church not shown)",
+     "url": "https://www.youtube.com/shorts/o2AkWDp4Ah4",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
-   "id": "ethiopian--timkat",
-   "observanceKey": "timkat",
-   "name": "Timkat",
+   "id": "ethiopian--abiy-tsom-great-lent",
+   "observanceKey": "abiy-tsom-great-lent",
+   "name": "Abiy Tsom (Great Lent)",
    "alsoKnownAs": [
-    "Ethiopian Epiphany",
-    "Timket"
+    "55-day Lenten fast"
    ],
    "communities": [
     "ethiopian"
@@ -5107,40 +5221,130 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "religious",
-   "capsule": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
-   "dateRule": "Tir 11 on the Ethiopian calendar, usually January 19 (January 20 in some years).",
+   "capsule": "Orthodox fast of 55 days before Fasika, without meat, eggs or dairy.",
+   "dateRule": "Fifty-five days ending at Fasika; start date calculated from Eastern Orthodox Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-16",
+     "endDate": "2026-04-11",
+     "source": "Calculated: 55 days before Fasika. Stratis Health states the length, not these dates.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-08",
+     "endDate": "2027-05-01",
+     "source": "Calculated: 55 days before Fasika.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-21",
+     "endDate": "2028-04-15",
+     "source": "Calculated: 55 days before Fasika.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The long fast before Easter.",
+   "howCelebratedInMinnesota": "Stratis Health describes Orthodox Christians avoiding meat, eggs and dairy on Wednesdays, Fridays and for 55 days at Easter. Mpls.St.Paul Magazine reports observant members fast about 180 days a year, and chef Tigist Feyisa saw a market among them for her vegan restaurant.",
+   "minnesotaEvents": [],
+   "workplaceNote": "Stratis Health's Culture Care Connection says fasting may affect how medications are taken.",
+   "sources": [
+    {
+     "title": "Ethiopian, Culture Care Connection",
+     "url": "https://culturecareconnection.org/cultural-responsiveness/ethiopians/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "The New Ethiopian Scene, Mpls.St.Paul Magazine",
+     "url": "https://mspmag.com/eat-and-drink/the-new-ethiopian-scene/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "ethiopian--timkat",
+   "observanceKey": "timkat",
+   "name": "Timkat",
+   "alsoKnownAs": [
+    "Timket",
+    "Ethiopian Epiphany"
+   ],
+   "communities": [
+    "ethiopian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ethiopian",
+     "title": "Ethiopian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
+   "kind": "religious",
+   "capsule": "Orthodox feast of the baptism of Jesus, usually January 19, with processions the day before.",
+   "dateRule": "Tir 11 on the Ethiopian calendar, usually January 19. One guide says always January 19; the calendar calculation gives January 20 in 2028.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-01-19",
      "endDate": null,
-     "source": "Royal Norwegian Embassy in Addis Ababa, Embassy Closing Days 2026",
-     "sourceUrl": "https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy/2026/",
+     "source": "Endalkachew Chala in MinnPost gives Timket as Jan. 19.",
+     "sourceUrl": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-01-19",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-19",
-     "sourceUrl": null,
-     "verified": false
+     "source": "We Blog The World",
+     "sourceUrl": "https://weblogtheworld.com/countries/africa-africa/timkat-ethiopia-epiphany-sacred-water-festival",
+     "verified": true
     },
     {
      "year": 2028,
      "date": "2028-01-20",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-19; Calendarific (commercial, no official source found), Ethiopia holidays 2028 lists 2028-01-20",
+     "source": "Calculated; one guide's general rule would give Jan. 19. Unresolved.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-19; Calendarific (commercial, no official source found), Ethiopia holidays 2028 lists 2028-01-20",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "calculated",
    "whatItMarks": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "howCelebratedInMinnesota": "Chala writes that on Timket in 2026 many families watched immigration agents' movements on WhatsApp instead of walking to church. Selassie Cathedral once announced a joint two-day celebration in Minnesota on Jan. 17 and 18; its page gives no year.",
+   "minnesotaEvents": [
+    {
+     "name": "Joint Timket celebration",
+     "place": "Minnesota; venue not stated",
+     "link": "http://minnesotaselassie.org/index.php/announcements/60-timket",
+     "organizerDates": "January 17 and 18, year not stated",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebrate Ethiopian resilience at local soccer tourney, MinnPost",
+     "url": "https://www.minnpost.com/community-voices/2026/06/celebrate-ethiopians-and-resilience-at-twin-cities-soccer-tourney-ethiopian-sport-federation/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Timket announcement, Selassie Cathedral",
+     "url": "http://minnesotaselassie.org/index.php/announcements/60-timket",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Timkat in Ethiopia, We Blog The World",
+     "url": "https://weblogtheworld.com/countries/africa-africa/timkat-ethiopia-epiphany-sacred-water-festival",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "ethiopian--fasika",
@@ -5161,14 +5365,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "religious",
-   "capsule": "Easter in the Ethiopian Orthodox tradition.",
+   "capsule": "Easter in the Ethiopian Orthodox tradition, ending the long Lenten fast.",
    "dateRule": "Same date as Eastern Orthodox Easter.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-04-12",
      "endDate": null,
-     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026 lists 2026-04-12",
+     "source": "Calculated with the Julian Easter rule; no opened page states this date.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026 lists 2026-04-12",
      "sourceUrl": null,
      "verified": false
     },
@@ -5176,7 +5380,7 @@
      "year": 2027,
      "date": "2027-05-02",
      "endDate": null,
-     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027 lists 2027-05-02",
+     "source": "Calculated with the Julian Easter rule; no opened page states this date.; Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027 lists 2027-05-02",
      "sourceUrl": null,
      "verified": false
     },
@@ -5184,7 +5388,7 @@
      "year": 2028,
      "date": "2028-04-16",
      "endDate": null,
-     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-04-16",
+     "source": "Calculated with the Julian Easter rule; no opened page states this date.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-04-16",
      "sourceUrl": null,
      "verified": false
     }
@@ -5194,7 +5398,13 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Ethiopian, Culture Care Connection",
+     "url": "https://culturecareconnection.org/cultural-responsiveness/ethiopians/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "ethiopian--adwa-victory-day",
@@ -5213,14 +5423,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
    "kind": "national",
-   "capsule": "The 1896 Ethiopian victory at Adwa.",
+   "capsule": "The 1896 Ethiopian victory at Adwa. No Minnesota observance found.",
    "dateRule": "March 2 (Yekatit 23).",
    "dates": [
     {
      "year": 2026,
      "date": "2026-03-02",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2026-03-02",
+     "source": "Fixed date carried from the starting calendar; no opened page states it.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2026-03-02",
      "sourceUrl": null,
      "verified": false
     },
@@ -5228,7 +5438,7 @@
      "year": 2027,
      "date": "2027-03-02",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2027-03-02",
+     "source": "Fixed date carried from the starting calendar; no opened page states it.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2027-03-02",
      "sourceUrl": null,
      "verified": false
     },
@@ -5236,7 +5446,7 @@
      "year": 2028,
      "date": "2028-03-02",
      "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-03-02",
+     "source": "Fixed date carried from the starting calendar; no opened page states it.; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-03-02",
      "sourceUrl": null,
      "verified": false
     }
@@ -5247,6 +5457,283 @@
    "minnesotaEvents": [],
    "workplaceNote": null,
    "sources": []
+  },
+  {
+   "id": "ethiopian--ashenda",
+   "observanceKey": "ashenda",
+   "name": "Ashenda",
+   "alsoKnownAs": [],
+   "communities": [
+    "ethiopian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ethiopian",
+     "title": "Ethiopian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
+   "kind": "cultural",
+   "capsule": "End of the 15-day Filseta fast, a holiday for many Tigrayan women and girls. No Minnesota celebration confirmed.",
+   "dateRule": "At the end of the 15-day Filseta fast in August. Africanews reported it on Aug. 23, 2026 without an exact date, so none is stated here.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No exact date stated in an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No exact date stated in an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No exact date stated in an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The end of the Filseta fast; originally tied to the Assumption of Mary and, Africanews says, now beyond religion.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Tigrayan women celebrate Ashenda, Africanews",
+     "url": "https://www.africanews.com/amp/2026/08/23/ethiopia-tigrayan-women-celebrate-ashenda-amid-fears-of-new-war/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "ethiopian--ethiopian-sports-federation-in-north-america-tournament",
+   "observanceKey": "ethiopian-sports-federation-in-north-america-tournament",
+   "name": "Ethiopian Sports Federation in North America Tournament",
+   "alsoKnownAs": [
+    "ESFNA tournament"
+   ],
+   "communities": [
+    "ethiopian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ethiopian",
+     "title": "Ethiopian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
+   "kind": "community festival",
+   "capsule": "Week-long soccer and culture gathering that came to Eagan in 2026; the host city rotates each year.",
+   "dateRule": "Announced each year by the federation in a rotating host city.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-27",
+     "endDate": "2026-07-04",
+     "source": "Ethiopian Sports Federation in North America",
+     "sourceUrl": "https://esfna.org/tournament/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "An annual gathering of Ethiopian teams from the United States and Canada, first held in 1984.",
+   "howCelebratedInMinnesota": "In 2026 at TCO Stadium, Eagan, and Saint Thomas Academy, with 32 teams, about 30 vendors, nonprofit and church booths, and a concert at the Omni Hotel. Organizers expected more than 20,000 visitors.",
+   "minnesotaEvents": [
+    {
+     "name": "43rd annual tournament",
+     "place": "TCO Stadium, Eagan; Saint Thomas Academy",
+     "link": "https://esfna.org/tournament/",
+     "organizerDates": "June 27 to July 4, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Tournament, ESFNA",
+     "url": "https://esfna.org/tournament/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Thousands set to gather, MPR News",
+     "url": "https://www.mprnews.org/episode/2026/06/25/ethiopian-soccer-tournament-twin-cities",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Despite immigration fears, MPR News",
+     "url": "https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "ethiopian--ethiopian-day-in-minnesota",
+   "observanceKey": "ethiopian-day-in-minnesota",
+   "name": "Ethiopian Day in Minnesota",
+   "alsoKnownAs": [
+    "Ethiopian Heritage Day"
+   ],
+   "communities": [
+    "ethiopian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ethiopian",
+     "title": "Ethiopian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
+   "kind": "heritage",
+   "capsule": "Gov. Tim Walz declared July 3, 2026 Ethiopian Day during the soccer tournament in Eagan.",
+   "dateRule": "Declared for 2026. No opened source says it recurs, so later years are left empty.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-03",
+     "endDate": null,
+     "source": "MPR News; ESFNA lists Ethiopian Day on July 3, 2026",
+     "sourceUrl": "https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Recognition of Ethiopian Minnesotans by the governor in 2026.",
+   "howCelebratedInMinnesota": "Tournament events at TCO Stadium, Eagan, on July 3, 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "Ethiopian Day at the tournament",
+     "place": "TCO Stadium, Eagan",
+     "link": "https://esfna.org/event/ethiopian-day-2/",
+     "organizerDates": "July 3, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ethiopian Day, ESFNA",
+     "url": "https://esfna.org/event/ethiopian-day-2/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Despite immigration fears, MPR News",
+     "url": "https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "National Ethiopian soccer tournament, Power 104.7",
+     "url": "https://www.power1047.fm/post/national-ethiopian-soccer-tournament-comes-to-minnesota",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "ethiopian--dec-13-2003-gambella-killings",
+   "observanceKey": "dec-13-2003-gambella-killings",
+   "name": "Dec. 13, 2003 Gambella killings",
+   "alsoKnownAs": [],
+   "communities": [
+    "ethiopian"
+   ],
+   "briefLinks": [
+    {
+     "community": "ethiopian",
+     "title": "Ethiopian Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ethiopian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/ethiopian/profile.md",
+   "kind": "remembrance",
+   "capsule": "Anuak Minnesotans have spoken publicly of the killings that began in Gambella town on December 13, 2003.",
+   "dateRule": "Fixed date of the event. No organized annual Minnesota observance was found, so none is claimed and no calendar dates are given.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota observance found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota observance found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota observance found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Attacks on Anuak people in Gambella; human rights groups say more than 400 were killed.",
+   "howCelebratedInMinnesota": "No organized observance found. In 2008, many at a Minneapolis forum with Gambella's governor wanted to speak about it, and others boycotted.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Anuak reporting, MPR News",
+     "url": "https://www.mprnews.org/story/2008/05/30/anuak",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Exiled Anuak meet official, MPR News via AP",
+     "url": "https://www.mprnews.org/story/2008/05/31/ethopia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "european-american--easter",
@@ -7504,9 +7991,7 @@
    "observanceKey": "start-of-ramadan",
    "name": "Start of Ramadan",
    "alsoKnownAs": [
-    "Ramadan",
-    "Ramazan",
-    "Soomaan"
+    "Ramzan"
    ],
    "communities": [
     "indian"
@@ -7520,8 +8005,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "religious",
-   "capsule": "Start of the month of daytime fasting.",
-   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+   "capsule": "Muslim month of fasting begins; Indian Muslims here observe it alongside many communities.",
+   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar. Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
    "dates": [
     {
      "year": 2026,
@@ -7549,7 +8034,7 @@
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Start of the month of daytime fasting.",
+   "whatItMarks": "The start of the Muslim month of fasting.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -7560,9 +8045,8 @@
    "observanceKey": "eid-alfitr",
    "name": "Eid al-Fitr",
    "alsoKnownAs": [
-    "Ciid Yare",
-    "Ramazanski Bajram",
-    "Id el Fitr"
+    "Ramzan Eid",
+    "Meethi Eid"
    ],
    "communities": [
     "indian"
@@ -7576,8 +8060,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "religious",
-   "capsule": "End of Ramadan.",
-   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+   "capsule": "Muslim festival ending Ramadan, marked at mosques across the metro.",
+   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends. Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
    "dates": [
     {
      "year": 2026,
@@ -7605,20 +8089,33 @@
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "End of Ramadan.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The end of Ramadan.",
+   "howCelebratedInMinnesota": "No event organized specifically by Indian Minnesotans was found. Northwest Islamic Community Center in Plymouth drew an estimated 3,000 people for Eid prayers on April 21, 2023; the report does not say where worshippers came from.",
+   "minnesotaEvents": [
+    {
+     "name": "Eid prayers",
+     "place": "Northwest Islamic Community Center, Plymouth",
+     "link": "https://ccxmedia.org/news/muslims-celebrate-eid-in-plymouth-building-renovation-planned/",
+     "organizerDates": "April 21, 2023, as reported",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "CCX Media",
+     "url": "https://ccxmedia.org/news/muslims-celebrate-eid-in-plymouth-building-renovation-planned/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "indian--eid-aladha",
    "observanceKey": "eid-aladha",
    "name": "Eid al-Adha",
    "alsoKnownAs": [
-    "Ciid Weyn",
-    "Kurban Bajram",
-    "Id el Kabir"
+    "Bakrid",
+    "Bakra Eid"
    ],
    "communities": [
     "indian"
@@ -7632,8 +8129,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "religious",
-   "capsule": "Festival of sacrifice, during the Hajj season.",
-   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+   "capsule": "Muslim festival of sacrifice, marked at mosques and large shared gatherings.",
+   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah). Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
    "dates": [
     {
      "year": 2026,
@@ -7661,11 +8158,25 @@
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "The festival of sacrifice.",
+   "howCelebratedInMinnesota": "No event organized specifically by Indian Minnesotans was found. A capacity crowd in the tens of thousands gathered at the Minneapolis Convention Center on June 28, 2023; the report does not identify attendees by background.",
+   "minnesotaEvents": [
+    {
+     "name": "Eid al-Adha prayer",
+     "place": "Minneapolis Convention Center",
+     "link": "https://www.cbsnews.com/amp/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/",
+     "organizerDates": "June 28, 2023, as reported",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "WCCO",
+     "url": "https://www.cbsnews.com/amp/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "indian--islamic-new-year",
@@ -7687,8 +8198,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "religious",
-   "capsule": "Start of the Hijri year.",
-   "dateRule": "First day of the first Islamic month (Muharram).",
+   "capsule": "First day of the Muslim lunar year.",
+   "dateRule": "First day of the first Islamic month (Muharram). Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
    "dates": [
     {
      "year": 2026,
@@ -7716,7 +8227,7 @@
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Start of the Hijri year.",
+   "whatItMarks": "The first day of the Islamic year.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -7726,7 +8237,9 @@
    "id": "indian--ashura",
    "observanceKey": "ashura",
    "name": "Ashura",
-   "alsoKnownAs": [],
+   "alsoKnownAs": [
+    "Muharram"
+   ],
    "communities": [
     "indian"
    ],
@@ -7739,8 +8252,8 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "religious",
-   "capsule": "A day observed differently in Sunni and Shia practice.",
-   "dateRule": "Tenth day of Muharram.",
+   "capsule": "Tenth day of Muharram, a day of remembrance for Muslims.",
+   "dateRule": "Tenth day of Muharram. Estimated date. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ.",
    "dates": [
     {
      "year": 2026,
@@ -7768,7 +8281,7 @@
     }
    ],
    "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "A day observed differently in Sunni and Shia practice.",
+   "whatItMarks": "A day of remembrance on the tenth of Muharram.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
@@ -7793,15 +8306,15 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "religious",
-   "capsule": "Festival of lights.",
+   "capsule": "The festival of lights, kept by Hindus, Jains and Sikhs with lamps, prayer and community shows.",
    "dateRule": "New moon (Amavasya) of the Hindu lunar month Kartika (Ashvin in the amanta reckoning), usually October or November.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-11-08",
      "endDate": null,
-     "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 03.07.2025, holidays for 2026 (Annexure I, as reproduced by StaffNews)",
-     "sourceUrl": "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html",
+     "source": "HinduTone, Minneapolis timing, updated Oct. 21, 2026",
+     "sourceUrl": "https://hindutone.com/festivals/diwali-2026-usa-celebrations/",
      "verified": true
     },
     {
@@ -7822,11 +8335,796 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Festival of lights.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "A five-day festival of lights; Sahan Journal describes lamps and rangoli said to guide Lakshmi into homes.",
+   "howCelebratedInMinnesota": "Many events, not one. Temples, language groups and neighborhood volunteers each hold their own, often on weekends around the date, from Eden Prairie to Woodbury to Byron. See the separate entries for announced dates.",
+   "minnesotaEvents": [
+    {
+     "name": "Geeta Ashram Diwali Celebration",
+     "place": "Eden Prairie High School",
+     "link": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
+     "organizerDates": "Oct. 24, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Carver Diwali",
+     "place": "Eden Prairie High School",
+     "link": "https://carverdiwali.org/",
+     "organizerDates": "Nov. 1, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Diwali Puja at Milan Mandir",
+     "place": "Farmington",
+     "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "organizerDates": "Nov. 8, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "Marathi Association Diwali",
+     "place": "Hopkins High School",
+     "link": "https://www.mnmarathi.org/events",
+     "organizerDates": "Nov. 14, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "ICAM Diwali Cultural Program",
+     "place": "Byron High School",
+     "link": "https://icamn.org/",
+     "organizerDates": "Nov. 14, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "HinduTone Diwali 2026 USA",
+     "url": "https://hindutone.com/festivals/diwali-2026-usa-celebrations/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Sahan Journal, Woodbury Diwali 2025",
+     "url": "https://sahanjournal.com/?p=75984",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--geeta-ashram-diwali-celebration",
+   "observanceKey": "geeta-ashram-diwali-celebration",
+   "name": "Geeta Ashram Diwali Celebration",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "Geeta Ashram's evening Diwali show at Eden Prairie High School.",
+   "dateRule": "Set each year by Geeta Ashram MN.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-24",
+     "endDate": null,
+     "source": "Sulekha listing, Geeta Ashram MN",
+     "sourceUrl": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "Doors at 6 p.m., show about three hours.",
+   "minnesotaEvents": [
+    {
+     "name": "Geeta Ashram Diwali Celebration",
+     "place": "Eden Prairie High School",
+     "link": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
+     "organizerDates": "Oct. 24, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sulekha listing, Geeta Ashram MN",
+     "url": "https://events.sulekha.com/geeta-ashram-diwali-celebration-2026_event-in_eden-prairie-mn_402138",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--carver-diwali",
+   "observanceKey": "carver-diwali",
+   "name": "Carver Diwali",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "Volunteer neighbors' Diwali show and dinner in Eden Prairie.",
+   "dateRule": "Set each year by the volunteer team.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-01",
+     "endDate": null,
+     "source": "Carver Diwali team",
+     "sourceUrl": "https://carverdiwali.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "Performances and dinner, 3:30 to 10 p.m., by family registration. An informal volunteer group.",
+   "minnesotaEvents": [
+    {
+     "name": "Carver Diwali",
+     "place": "Eden Prairie High School Auditorium",
+     "link": "https://carverdiwali.org/",
+     "organizerDates": "Nov. 1, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Carver Diwali team",
+     "url": "https://carverdiwali.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--sapna-diyas-and-dandiyas",
+   "observanceKey": "sapna-diyas-and-dandiyas",
+   "name": "SAPNA Diyas and Dandiyas",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "SEWA-AIFW's Diwali-season gathering for neurodivergent families in Brooklyn Center.",
+   "dateRule": "Set by SEWA-AIFW. Page says Sunday, Nov. 1, with no year; Nov. 1 is a Sunday in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-01",
+     "endDate": null,
+     "source": "SEWA-AIFW",
+     "sourceUrl": "https://www.sewa-aifw.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The Diwali season.",
+   "howCelebratedInMinnesota": "1 to 4 p.m., RSVP through SEWA-AIFW.",
+   "minnesotaEvents": [
+    {
+     "name": "SAPNA Diyas and Dandiyas",
+     "place": "SEWA-AIFW, Brooklyn Center",
+     "link": "https://www.sewa-aifw.org/",
+     "organizerDates": "Sunday, Nov. 1, 1 to 4 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "SEWA-AIFW",
+     "url": "https://www.sewa-aifw.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--diwali-puja-at-milan-mandir",
+   "observanceKey": "diwali-puja-at-milan-mandir",
+   "name": "Diwali Puja at Milan Mandir",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Diwali prayers at Milan Mandir in Farmington.",
+   "dateRule": "Listed by Jai Mata. The listing also mentions a Nov. 14 fundraiser.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-08",
+     "endDate": null,
+     "source": "LocalFiles listing",
+     "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Diwali Puja at Milan Mandir",
+     "place": "Milan Mandir, Farmington",
+     "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "organizerDates": "Nov. 8, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "LocalFiles listing",
+     "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--jain-diwali-nirvan-pooja",
+   "observanceKey": "jain-diwali-nirvan-pooja",
+   "name": "Jain Diwali Nirvan Pooja",
+   "alsoKnownAs": [
+    "Diwali Nirvan"
+   ],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Jain Center's Diwali prayer at Maple Grove.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation. The page prints Saturday beside Nov. 8, which is a Sunday in 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-08",
+     "endDate": null,
+     "source": "Jain Center of Minnesota, proposed schedule",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali for Jains, called Nirvan on the schedule.",
+   "howCelebratedInMinnesota": "8 a.m. to 2 p.m., proposed.",
+   "minnesotaEvents": [
+    {
+     "name": "Jain Diwali Nirvan Pooja",
+     "place": "Jain Mandir, Hindu Temple of Minnesota",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "Nov. 8, 2026, proposed",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota, proposed schedule",
+     "url": "https://jaincentermn.org/2026-events",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--marathi-association-diwali",
+   "observanceKey": "marathi-association-diwali",
+   "name": "Marathi Association Diwali",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "Marathi Association of Minnesota's all-day Diwali at Hopkins High School.",
+   "dateRule": "Set each year by the association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-14",
+     "endDate": null,
+     "source": "Marathi Association of Minnesota",
+     "sourceUrl": "https://www.mnmarathi.org/events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "8 a.m. to 5 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Marathi Association Diwali",
+     "place": "Hopkins High School, Minnetonka",
+     "link": "https://www.mnmarathi.org/events",
+     "organizerDates": "Nov. 14, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Marathi Association of Minnesota",
+     "url": "https://www.mnmarathi.org/events",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--icam-diwali-cultural-program",
+   "observanceKey": "icam-diwali-cultural-program",
+   "name": "ICAM Diwali Cultural Program",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "Rochester-area Diwali show of local music and dance at Byron High School.",
+   "dateRule": "Set each year by the Indian Cultural Association of Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-14",
+     "endDate": null,
+     "source": "ICAM",
+     "sourceUrl": "https://icamn.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "4 p.m. An earlier year used Mayo Civic Center in Rochester.",
+   "minnesotaEvents": [
+    {
+     "name": "ICAM Diwali Cultural Program",
+     "place": "Byron High School Auditorium",
+     "link": "https://icamn.org/",
+     "organizerDates": "Nov. 14, 2026, 4 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "ICAM",
+     "url": "https://icamn.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "KAAL",
+     "url": "https://www.kaaltv.com/news/diwali/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--diwali-dinner-and-cultural-entertainment-farmington",
+   "observanceKey": "diwali-dinner-and-cultural-entertainment-farmington",
+   "name": "Diwali Dinner and Cultural Entertainment, Farmington",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "Diwali dinner and entertainment in Farmington.",
+   "dateRule": "From a community listing.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-14",
+     "endDate": null,
+     "source": "LocalFiles listing",
+     "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Diwali Dinner and Cultural Entertainment, Farmington",
+     "place": "Farmington auditorium",
+     "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "organizerDates": "Nov. 14, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "LocalFiles listing",
+     "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--deepavali-and-rajyotsava",
+   "observanceKey": "deepavali-and-rajyotsava",
+   "name": "Deepavali and Rajyotsava",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "Kannada community's combined Deepavali and Rajyotsava at the Maple Grove temple.",
+   "dateRule": "Set each year by Sangeetha Kannada Koota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-21",
+     "endDate": null,
+     "source": "Sangeetha Kannada Koota",
+     "sourceUrl": "http://www.kannadamn.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Deepavali together with Rajyotsava.",
+   "howCelebratedInMinnesota": "11 a.m. to 7 p.m., banana leaf meals, in the group's 50th year.",
+   "minnesotaEvents": [
+    {
+     "name": "Deepavali and Rajyotsava",
+     "place": "Hindu Temple of Minnesota, Maple Grove",
+     "link": "http://www.kannadamn.org/",
+     "organizerDates": "Nov. 21, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sangeetha Kannada Koota",
+     "url": "http://www.kannadamn.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--tcta-deepavali-tamil-live-orchestra",
+   "observanceKey": "tcta-deepavali-tamil-live-orchestra",
+   "name": "TCTA Deepavali Tamil Live Orchestra",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "Twin Cities Tamil Association's Deepavali concert in Hopkins.",
+   "dateRule": "Set each year by the association. The listing garbles the venue address.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-21",
+     "endDate": null,
+     "source": "LocalFiles listing",
+     "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Deepavali.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "TCTA Deepavali Tamil Live Orchestra",
+     "place": "Hopkins",
+     "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "organizerDates": "Nov. 21, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "LocalFiles listing",
+     "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--hindu-society-of-minnesota-diwali",
+   "observanceKey": "hindu-society-of-minnesota-diwali",
+   "name": "Hindu Society of Minnesota Diwali",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "Hindu Society's large public Diwali at a Woodbury sports center, held since 2011.",
+   "dateRule": "Set each year by the Hindu Society. 2026 date not found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 date found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Diwali.",
+   "howCelebratedInMinnesota": "As many as 1,000 people each year per Sahan Journal, with Dhol Tasha drumming, street food and about 20 vendors. Held Saturday, Oct. 18, 2025.",
+   "minnesotaEvents": [
+    {
+     "name": "Hindu Society Diwali",
+     "place": "M Health Fairview Sports Center, Woodbury",
+     "link": "https://sahanjournal.com/?p=75984",
+     "organizerDates": "Oct. 18, 2025 (past); 2026 not found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sahan Journal",
+     "url": "https://sahanjournal.com/?p=75984",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Hindu Society Diwali page",
+     "url": "https://www.hindutemplemn.org/diwali",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "indian--holi",
@@ -7845,15 +9143,15 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "religious",
-   "capsule": "Spring festival of colors.",
+   "capsule": "Spring festival of colors, with a bonfire and thrown powder.",
    "dateRule": "Day after the full moon of the Hindu month Phalguna, usually March.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-03-04",
      "endDate": null,
-     "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 03.07.2025, holidays for 2026 (Annexure I, as reproduced by StaffNews)",
-     "sourceUrl": "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html",
+     "source": "HinduTone guide",
+     "sourceUrl": "https://hindutone.com/festivals/ganesh-chaturthi-2026-usa-state-by-state/",
      "verified": true
     },
     {
@@ -7874,11 +9172,30 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Spring festival of colors.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "Spring, rebirth and releasing negative energy, per MPR News.",
+   "howCelebratedInMinnesota": "Marathi Association of Minnesota held Holi at the Hindu Temple of Minnesota on March 30, 2024, with a Holika Dahan fire and colored powder. No 2026 Minnesota date found.",
+   "minnesotaEvents": [
+    {
+     "name": "Holi",
+     "place": "Hindu Temple of Minnesota, Maple Grove",
+     "link": "https://www.mprnews.org/story/2024/03/30/photos-maple-grove-celebrates-holi-the-hindu-festival-of-colors",
+     "organizerDates": "March 30, 2024 (past)",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "MPR News",
+     "url": "https://www.mprnews.org/story/2024/03/30/photos-maple-grove-celebrates-holi-the-hindu-festival-of-colors",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "HinduTone",
+     "url": "https://hindutone.com/festivals/ganesh-chaturthi-2026-usa-state-by-state/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "indian--republic-day-india",
@@ -7897,7 +9214,7 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "national",
-   "capsule": "Adoption of the Constitution of India in 1950.",
+   "capsule": "Marks India's constitution taking effect in 1950.",
    "dateRule": "January 26.",
    "dates": [
     {
@@ -7936,7 +9253,9 @@
    "id": "indian--independence-day-india",
    "observanceKey": "independence-day-india",
    "name": "Independence Day (India)",
-   "alsoKnownAs": [],
+   "alsoKnownAs": [
+    "India Day"
+   ],
    "communities": [
     "indian"
    ],
@@ -7949,47 +9268,141 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "national",
-   "capsule": "Indian independence in 1947.",
-   "dateRule": "August 15.",
+   "capsule": "Marks India's independence in 1947; Minnesota marks it through IndiaFest.",
+   "dateRule": "August 15. IAM says Minnesota recognizes this date as India Day.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-08-15",
      "endDate": null,
-     "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
-     "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+     "source": "India Association of Minnesota",
+     "sourceUrl": "https://iamn.org/?p=493",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-08-15",
      "endDate": null,
-     "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
-     "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+     "source": "India Association of Minnesota",
+     "sourceUrl": "https://iamn.org/?p=493",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-08-15",
      "endDate": null,
-     "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
-     "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
+     "source": "India Association of Minnesota",
+     "sourceUrl": "https://iamn.org/?p=493",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "Indian independence in 1947.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "howCelebratedInMinnesota": "IndiaFest, with flag hoisting and national anthem at the Capitol. In 2026 the festival fell on August 15 itself.",
+   "minnesotaEvents": [
+    {
+     "name": "IndiaFest",
+     "place": "Minnesota State Capitol grounds",
+     "link": "https://iamn.org/event/indiafest-2026/",
+     "organizerDates": "Aug. 15, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "IAM IndiaFest page",
+     "url": "https://iamn.org/?p=493",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--indiafest",
+   "observanceKey": "indiafest",
+   "name": "IndiaFest",
+   "alsoKnownAs": [
+    "India Day"
+   ],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "community festival",
+   "capsule": "Free one-day festival at the State Capitol with parade, dance, food and a Bollywood night.",
+   "dateRule": "Set each year by the India Association of Minnesota, around Independence Day.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-15",
+     "endDate": null,
+     "source": "India Association of Minnesota",
+     "sourceUrl": "https://iamn.org/event/indiafest-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Indian culture and Independence Day.",
+   "howCelebratedInMinnesota": "11 a.m. to about 8:30 p.m., over 100 booths, expected about 25,000 by the organizer. Sources disagree on first year: 1983 per IAM and MNopedia, 1985 per Sahan Journal.",
+   "minnesotaEvents": [
+    {
+     "name": "IndiaFest",
+     "place": "Minnesota State Capitol grounds, St. Paul",
+     "link": "https://iamn.org/event/indiafest-2026/",
+     "organizerDates": "Aug. 15, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "IAM",
+     "url": "https://iamn.org/event/indiafest-2026/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Sahan Journal, 2024",
+     "url": "https://sahanjournal.com/arts-culture/indiafest-afrocentric-music-japanese-obon-festival-como-park/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/ganges-ten-thousand-lakes-immigration-india-minnesota",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "indian--navaratri-and-dussehra",
    "observanceKey": "navaratri-and-dussehra",
    "name": "Navaratri and Dussehra",
    "alsoKnownAs": [
-    "Vijayadashami"
+    "Navratri",
+    "Vijayadashami",
+    "Dasara"
    ],
    "communities": [
     "indian"
@@ -8003,15 +9416,15 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "religious",
-   "capsule": "Victory of good over evil.",
+   "capsule": "Nine nights of worship and dance, ending in Dussehra, the victory of good.",
    "dateRule": "Dussehra is the tenth day of the bright half of the Hindu month Ashvin, usually October; the nine nights of Navaratri come before it.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-10-20",
-     "endDate": null,
-     "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 03.07.2025, holidays for 2026 (Annexure I, as reproduced by StaffNews)",
-     "sourceUrl": "https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.html",
+     "date": "2026-10-11",
+     "endDate": "2026-10-20",
+     "source": "HinduTone, Minneapolis reckoning: Navaratri begins Oct. 11, Dussehra Oct. 20",
+     "sourceUrl": "https://hindutone.com/festivals/dussehra-2026-minneapolis/",
      "verified": true
     },
     {
@@ -8032,16 +9445,109 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Victory of good over evil.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "Nine nights, then the victory of good over evil.",
+   "howCelebratedInMinnesota": "Gujarati Samaj of Minnesota says it holds Navratri yearly; Garba ran Oct. 18 and 19, 2024, in Woodbury. No 2026 Minnesota Garba date found.",
+   "minnesotaEvents": [
+    {
+     "name": "Navratri Garba",
+     "place": "M Health Fairview Sports Center, Woodbury",
+     "link": "https://woodburynewsnet.org/?p=962",
+     "organizerDates": "Oct. 18 and 19, 2024 (past); 2026 not found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "HinduTone",
+     "url": "https://hindutone.com/festivals/dussehra-2026-minneapolis/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Woodbury News",
+     "url": "https://woodburynewsnet.org/?p=962",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Gujarati Samaj",
+     "url": "http://mngujaratisamaj.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
-   "id": "indian--guru-nanak-gurpurab",
-   "observanceKey": "guru-nanak-gurpurab",
-   "name": "Guru Nanak Gurpurab",
+   "id": "indian--durga-puja-bengali-association-of-minnesota",
+   "observanceKey": "durga-puja-bengali-association-of-minnesota",
+   "name": "Durga Puja, Bengali Association of Minnesota",
+   "alsoKnownAs": [
+    "Durgotsav",
+    "Sharodotsav"
+   ],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Bengali community's three-day worship of Durga at an Eden Prairie school.",
+   "dateRule": "Set each year by the Bengali Association. 2025 was Sept. 26 to 28.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-16",
+     "endDate": "2026-10-18",
+     "source": "Bengali Association of Minnesota",
+     "sourceUrl": "https://mnbangali.org/events/durga-puja-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Worship of the goddess Durga.",
+   "howCelebratedInMinnesota": "Starts 6 p.m. on Oct. 16.",
+   "minnesotaEvents": [
+    {
+     "name": "Durga Puja, Bengali Association of Minnesota",
+     "place": "Central Middle School, Eden Prairie",
+     "link": "https://mnbangali.org/events/durga-puja-2026/",
+     "organizerDates": "Oct. 16 to 18, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bengali Association of Minnesota",
+     "url": "https://mnbangali.org/events/durga-puja-2026/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--kojagori-lokhi-pujo",
+   "observanceKey": "kojagori-lokhi-pujo",
+   "name": "Kojagori Lokhi Pujo",
    "alsoKnownAs": [],
    "communities": [
     "indian"
@@ -8055,7 +9561,141 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Guru Nanak, founder of Sikhism.",
+   "capsule": "Bengali worship of Lokhi on Kojagori Purnima.",
+   "dateRule": "Set each year by the Bengali Association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-24",
+     "endDate": null,
+     "source": "Bengali Association of Minnesota",
+     "sourceUrl": "https://mnbangali.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Worship of Lokhi on Kojagori Purnima.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Kojagori Lokhi Pujo",
+     "place": "Not listed",
+     "link": "https://mnbangali.org/",
+     "organizerDates": "Oct. 24, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bengali Association of Minnesota",
+     "url": "https://mnbangali.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--sri-radha-kalyanam",
+   "observanceKey": "sri-radha-kalyanam",
+   "name": "Sri Radha Kalyanam",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "A Hindu ceremony held at the Maple Grove temple.",
+   "dateRule": "Listed by a community directory.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-31",
+     "endDate": null,
+     "source": "LocalFiles listing",
+     "sourceUrl": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Hindu temple ceremony.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Sri Radha Kalyanam",
+     "place": "Hindu Temple of Minnesota",
+     "link": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "organizerDates": "Oct. 31, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "LocalFiles listing",
+     "url": "http://www.localfiles.com/indian/minneapolis/classifieds/events/list_1.htm",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--guru-nanak-gurpurab",
+   "observanceKey": "guru-nanak-gurpurab",
+   "name": "Guru Nanak Gurpurab",
+   "alsoKnownAs": [
+    "Gurpurab"
+   ],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Birthday of Guru Nanak, founder of Sikhism.",
    "dateRule": "Full moon of the Hindu month Kartika, usually November.",
    "dates": [
     {
@@ -8085,10 +9725,654 @@
    ],
    "dateCertainty": "calculated",
    "whatItMarks": "Birth of Guru Nanak, founder of Sikhism.",
+   "howCelebratedInMinnesota": "No Minnesota date could be read on the Sikh Society events page.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Sikh Society events",
+     "url": "https://www.mnsikhs.com/events.html",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--vaisakhi",
+   "observanceKey": "vaisakhi",
+   "name": "Vaisakhi",
+   "alsoKnownAs": [
+    "Baisakhi"
+   ],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Sikh and Punjabi spring observance.",
+   "dateRule": "Mid-April. Local gatherings are set by the gurdwara and Punjabi groups.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Sikh and Punjabi spring observance.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Sikh Society events",
+     "url": "https://www.mnsikhs.com/events.html",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Minnesota Punjabi Society",
+     "url": "https://www.mpsmn.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--mahavir-janma-kalyanak",
+   "observanceKey": "mahavir-janma-kalyanak",
+   "name": "Mahavir Janma Kalyanak",
+   "alsoKnownAs": [
+    "Mahavir Jayanti"
+   ],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Birth of Mahavir, marked by the Jain Center at Maple Grove.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-25",
+     "endDate": null,
+     "source": "Jain Center of Minnesota",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Birth of Mahavir.",
+   "howCelebratedInMinnesota": "8 a.m. to 2 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Mahavir Janma Kalyanak",
+     "place": "Hindu Temple of Minnesota campus",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "April 25, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota",
+     "url": "https://jaincentermn.org/2026-events",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--paryushan-mahaparva",
+   "observanceKey": "paryushan-mahaparva",
+   "name": "Paryushan Mahaparva",
+   "alsoKnownAs": [
+    "Paryushan"
+   ],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Jain period of observance at the Maple Grove center.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-09",
+     "endDate": "2026-09-15",
+     "source": "Jain Center of Minnesota",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Jain period of observance.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Paryushan Mahaparva",
+     "place": "Jain Center of Minnesota",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "Sept. 9 to 15, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota",
+     "url": "https://jaincentermn.org/2026-events",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--das-lakshan-mahaparva",
+   "observanceKey": "das-lakshan-mahaparva",
+   "name": "Das Lakshan Mahaparva",
+   "alsoKnownAs": [
+    "Das Lakshan"
+   ],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Jain observance following Paryushan on the center's schedule.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-16",
+     "endDate": "2026-09-25",
+     "source": "Jain Center of Minnesota",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Jain period of observance.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [
+    {
+     "name": "Das Lakshan Mahaparva",
+     "place": "Jain Center of Minnesota",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "Sept. 16 to 25, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota",
+     "url": "https://jaincentermn.org/2026-events",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--kshamavani",
+   "observanceKey": "kshamavani",
+   "name": "Kshamavani",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Jain day on the center's schedule after Das Lakshan.",
+   "dateRule": "Proposed by the Jain Center, subject to confirmation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-26",
+     "endDate": null,
+     "source": "Jain Center of Minnesota",
+     "sourceUrl": "https://jaincentermn.org/2026-events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Jain observance.",
+   "howCelebratedInMinnesota": "8 a.m. to 2 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Kshamavani",
+     "place": "Jain Center of Minnesota",
+     "link": "https://jaincentermn.org/2026-events",
+     "organizerDates": "Sept. 26, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Jain Center of Minnesota",
+     "url": "https://jaincentermn.org/2026-events",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--onam",
+   "observanceKey": "onam",
+   "name": "Onam",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "cultural",
+   "capsule": "Kerala festival kept by the Minnesota Malayalee Association.",
+   "dateRule": "Thiruvonam star. Dates vary by place and source.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-26",
+     "endDate": null,
+     "source": "Drik Panchang, New Delhi reckoning",
+     "sourceUrl": "https://www.drikpanchang.com/festivals/onam/onam-calendar.html?year=2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not checked",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not checked",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A Kerala festival.",
+   "howCelebratedInMinnesota": "A state-funded IAM report names the Minnesota Malayalee Association's Onam in 2022 to 2023. No 2026 date found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Legacy",
+     "url": "https://www.legacy.mn.gov/node/10031097",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Drik Panchang",
+     "url": "https://www.drikpanchang.com/festivals/onam/onam-calendar.html?year=2026",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--pongal",
+   "observanceKey": "pongal",
+   "name": "Pongal",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "cultural",
+   "capsule": "Tamil festival kept by Minnesota Tamil Sangam.",
+   "dateRule": "Mid-January. Local date set by the group.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Tamil festival.",
+   "howCelebratedInMinnesota": "Listed among Minnesota Tamil Sangam events without a date.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Tamil Sangam",
+     "url": "https://www.mntamilsangam.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--ugadi-and-gudi-padwa",
+   "observanceKey": "ugadi-and-gudi-padwa",
+   "name": "Ugadi and Gudi Padwa",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "New year prayers at the Maple Grove temple.",
+   "dateRule": "New year on the Hindu lunar calendar.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-19",
+     "endDate": null,
+     "source": "HinduTone",
+     "sourceUrl": "https://hindutone.com/global-hindu-presence/usa/ugadi-celebrations-usa-state-wise-city-wise-guide/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not checked",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not checked",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "New year.",
+   "howCelebratedInMinnesota": "HinduTone lists prayers at the Hindu Temple of Minnesota, without a date.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "HinduTone",
+     "url": "https://hindutone.com/global-hindu-presence/usa/ugadi-celebrations-usa-state-wise-city-wise-guide/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--bonalu",
+   "observanceKey": "bonalu",
+   "name": "Bonalu",
+   "alsoKnownAs": [],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "cultural",
+   "capsule": "Telangana festival held by the Minnesota Area Telangana Association.",
+   "dateRule": "Set locally. 2026 date not found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A Telangana festival.",
+   "howCelebratedInMinnesota": "Named in a state-funded IAM program report for 2022 to 2023.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Legacy",
+     "url": "https://www.legacy.mn.gov/node/10031097",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "MATA",
+     "url": "https://www.telanganamn.org/upcoming-events/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "indian--ganesh-utsav",
+   "observanceKey": "ganesh-utsav",
+   "name": "Ganesh Utsav",
+   "alsoKnownAs": [
+    "Ganesh Chaturthi",
+    "Ganapati"
+   ],
+   "communities": [
+    "indian"
+   ],
+   "briefLinks": [
+    {
+     "community": "indian",
+     "title": "Indian (Asian Indian) Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/indian/profile.md",
+   "kind": "religious",
+   "capsule": "Marathi Association's festival of Ganesha; its 2026 photo albums are online without dates.",
+   "dateRule": "Set locally by the association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No Minnesota date found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The festival of Ganesha.",
+   "howCelebratedInMinnesota": "The Marathi Association shows Ganapati Sthapana and Visarjan 2026 albums.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Marathi Association",
+     "url": "https://www.mnmarathi.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "japanese--shōgatsu",
@@ -14420,13 +16704,558 @@
    "sources": []
   },
   {
+   "id": "oromo--irreecha-traditional-thanksgiving",
+   "observanceKey": "irreecha",
+   "name": "Irreecha (traditional thanksgiving)",
+   "alsoKnownAs": [
+    "Irreechaa",
+    "Irreessa",
+    "Eretcha",
+    "Irreechaa Malkaa",
+    "Oromo Thanksgiving"
+   ],
+   "communities": [
+    "oromo"
+   ],
+   "briefLinks": [
+    {
+     "community": "oromo",
+     "title": "Oromo Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
+   "kind": "cultural",
+   "capsule": "Oromo thanksgiving at the end of the rainy season, marked with prayer for peace at water; Minnesota organizers set their own dates.",
+   "dateRule": "A traditional date at the end of the rainy season, usually September or October. A religious leader traditionally announces it by watching the sky and lunar calendar, Teferi Tafa told Ampers. Minnesota dates are set by organizers and are listed as separate entries.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Thanks to Waaqa for past blessings, prayer for peace and reconciliation, and the end of the rains and start of the Birraa harvest season. Ethiopia banned it for over a century, MNopedia says, and many remember the 2016 deaths at the Arsadi gathering.",
+   "howCelebratedInMinnesota": "Families gather at a Twin Cities park or lake in cultural clothing to pray, sing, dance and share food such as badenna. MNopedia names Lake Nokomis each September; for 2026, the organizer's listing and Oromo Diaspora Media name Powderhorn Park, while one lone report says Lake Nokomis. OPride reported an Oct. 3, 2009 celebration at Lake Nokomis. Attendance figures were not found.",
+   "minnesotaEvents": [
+    {
+     "name": "Irreecha in Minnesota, 2025",
+     "place": "Minnesota; venue not named in the post",
+     "link": "https://oromodiasporamedia.org/irreechaa-oromoo-minisootaa/",
+     "organizerDates": "Reported in a post dated Oct. 6, 2025; the day is not given",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrating Irreechaa in Minnesota, Ampers",
+     "url": "https://ampers.org/celebrating-irreechaa-in-minnesota/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Irreeechaa in Minnesota, OPride",
+     "url": "https://www.opride.com/2009/10/03/irreeechaa-in-minnesota-a-tradition-continues/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Irreechaa Oromoo-Minisootaa, Oromo Diaspora Media",
+     "url": "https://oromodiasporamedia.org/irreechaa-oromoo-minisootaa/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "oromo--irreechaa-malkaa-at-powderhorn-park",
+   "observanceKey": "irreechaa-malkaa-at-powderhorn-park",
+   "name": "Irreechaa Malkaa at Powderhorn Park",
+   "alsoKnownAs": [
+    "Ireechaa Malka",
+    "Irreechaa by the Water",
+    "Ayyaana Irreechaa MN"
+   ],
+   "communities": [
+    "oromo"
+   ],
+   "briefLinks": [
+    {
+     "community": "oromo",
+     "title": "Oromo Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
+   "kind": "community festival",
+   "capsule": "Minnesota Irreecha by the water at Powderhorn Park, listed by Oromo Irreecha Minnesota for September 19, 2026.",
+   "dateRule": "Set each year by Oromo Irreecha Minnesota. Later years have not been announced.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": null,
+     "source": "Oromo Irreecha Minnesota, irreechaa.org; Oromo Diaspora Media",
+     "sourceUrl": "https://irreechaa.org/event/ireechaa-by-the-water-sept-19-2026-at-powderhorn-park-lake-in-minneapolis/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Irreecha, the Oromo thanksgiving.",
+   "howCelebratedInMinnesota": "Listed 10:30 a.m. to 7 p.m. at 3400 15th Ave. S., Minneapolis. Oromo Diaspora Media reported it was held there and thanked an organizing committee, the Minnesota Humanities Center and the City of Minneapolis.",
+   "minnesotaEvents": [
+    {
+     "name": "Ireechaa Malka",
+     "place": "Powderhorn Park, 3400 15th Ave S, Minneapolis",
+     "link": "https://irreechaa.org/event/ireechaa-by-the-water-sept-19-2026-at-powderhorn-park-lake-in-minneapolis/",
+     "organizerDates": "September 19, 2026, 10:30 am to 7:00 pm",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ireechaa Malka listing, irreechaa.org",
+     "url": "https://irreechaa.org/event/ireechaa-by-the-water-sept-19-2026-at-powderhorn-park-lake-in-minneapolis/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Ayyaana Irreechaa MN, Oromo Diaspora Media",
+     "url": "https://oromodiasporamedia.org/ayyaana-irreechaa-mn-fulbaana-19-2026/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "oromo--irreecha-at-lake-nokomis-hawaasa-oromoo-minnesota",
+   "observanceKey": "irreecha-at-lake-nokomis-hawaasa-oromoo-minnesota",
+   "name": "Irreecha at Lake Nokomis (Hawaasa Oromoo Minnesota)",
+   "alsoKnownAs": [
+    "Irreecha Minnesota"
+   ],
+   "communities": [
+    "oromo"
+   ],
+   "briefLinks": [
+    {
+     "community": "oromo",
+     "title": "Oromo Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
+   "kind": "community festival",
+   "capsule": "One lone report places an Irreecha at Lake Nokomis on September 19, 2026; other sources name Powderhorn Park, so this is unconfirmed.",
+   "dateRule": "As reported for 2026 by one write-up only. It conflicts with sources placing the day's event at Powderhorn Park, and no organizer notice was found, so the date is not treated as confirmed. It may be a second gathering or a mistaken place.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": null,
+     "source": "One lone report on an Australian advocacy website; it conflicts with sources placing the event at Powderhorn Park",
+     "sourceUrl": "https://advocacy4oromia.org/2026/09/20/minnesota-oromo-community-celebrates-irreecha-with-gratitude-unity-and-hope/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Irreecha, the Oromo thanksgiving, with remembrance of those killed at Arsadi in 2016.",
+   "howCelebratedInMinnesota": "The one write-up describes prayers, performances, traditional attire, elders, youth and children, and names no speakers or attendance. Because it conflicts with sources naming Powderhorn Park, it should not be read as confirmed.",
+   "minnesotaEvents": [
+    {
+     "name": "Irreecha, Hawaasa Oromoo Minnesota",
+     "place": "Lake Nokomis, Minneapolis, as reported",
+     "link": "https://advocacy4oromia.org/2026/09/20/minnesota-oromo-community-celebrates-irreecha-with-gratitude-unity-and-hope/",
+     "organizerDates": "September 19, 2026, reported after the event by one source and unconfirmed; the organizer's own notice was not found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Oromo Community Celebrates Irreecha, Advocacy for Oromia",
+     "url": "https://advocacy4oromia.org/2026/09/20/minnesota-oromo-community-celebrates-irreecha-with-gratitude-unity-and-hope/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Irreechaa 2026 celebrations, Advocacy for Oromia",
+     "url": "https://advocacy4oromia.org/2026/09/26/irreechaa-2026-celebrations-in-the-global-cultural-event/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "oromo--irreechaa-tulluu",
+   "observanceKey": "irreechaa-tulluu",
+   "name": "Irreechaa Tulluu",
+   "alsoKnownAs": [
+    "Irreechaa on the mountain"
+   ],
+   "communities": [
+    "oromo"
+   ],
+   "briefLinks": [
+    {
+     "community": "oromo",
+     "title": "Oromo Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
+   "kind": "community festival",
+   "capsule": "Spring Irreecha, traditionally on a mountaintop, marking the end of the dry season; held at Powderhorn Park on May 2, 2026.",
+   "dateRule": "Set each year by the Irreechaa Organization in Minnesota, in May. Later years have not been announced.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-02",
+     "endDate": null,
+     "source": "Irreechaa Organization, irreechaa.org",
+     "sourceUrl": "https://irreechaa.org/irreechaa-tulluu-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The end of the dry season, with prayers for summer rain, peace and good harvests.",
+   "howCelebratedInMinnesota": "Held at Powderhorn Park on May 2, 2026. Ampers also reports May gatherings at a selected Twin Cities park.",
+   "minnesotaEvents": [
+    {
+     "name": "Irreechaa Tulluu 2026",
+     "place": "Powderhorn Park, Minneapolis",
+     "link": "https://irreechaa.org/irreechaa-tulluu-2026/",
+     "organizerDates": "May 2, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Irreechaa Tulluu 2026, irreechaa.org",
+     "url": "https://irreechaa.org/irreechaa-tulluu-2026/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Celebrating Irreechaa in Minnesota, Ampers",
+     "url": "https://ampers.org/celebrating-irreechaa-in-minnesota/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "oromo--oromo-week-and-the-osfna-tournament",
+   "observanceKey": "oromo-week-and-the-osfna-tournament",
+   "name": "Oromo Week and the OSFNA tournament",
+   "alsoKnownAs": [
+    "Oromo Sports Federation in North America tournament",
+    "OSFNA"
+   ],
+   "communities": [
+    "oromo"
+   ],
+   "briefLinks": [
+    {
+     "community": "oromo",
+     "title": "Oromo Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
+   "kind": "community festival",
+   "capsule": "A week of Oromo soccer, music and family gathering; St. Paul hosted August 1 to 8, 2026, marking 30 years.",
+   "dateRule": "Annual summer tournament that rotates among North American cities. Check the federation each year; a Minnesota date is not guaranteed.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-01",
+     "endDate": "2026-08-08",
+     "source": "Oromo Community of Georgia listing; Allianz Field for the Aug. 8 final",
+     "sourceUrl": "https://oromoga.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A gathering of Oromo clubs and families. The federation dates its first tournament to Toronto in 1996.",
+   "howCelebratedInMinnesota": "For 2026, listings show a festival at Central High School in St. Paul, nightly matches and a final at Allianz Field on August 8. MNopedia says St. Paul first hosted in 2011 and both cities' mayors declared Oromo Week.",
+   "minnesotaEvents": [
+    {
+     "name": "OSFNA 2026 Tournament",
+     "place": "St. Paul",
+     "link": "https://oromoga.org/",
+     "organizerDates": "August 1 to 8, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "OSFNA 30 Year Anniversary Celebration",
+     "place": "Central High School, St. Paul",
+     "link": "https://www.eventbrite.com/e/osfna-30-year-anniversary-celebration-sports-unity-family-festival-tickets-1993887127071",
+     "organizerDates": "August 1 to August 7; the listing gives no year and has ended",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "OSFNA final",
+     "place": "Allianz Field, St. Paul",
+     "link": "https://www.allianzfield.com/events/osfna-2026",
+     "organizerDates": "August 8, 2026, kickoff 7:30 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Community events, Oromo Community of Georgia",
+     "url": "https://oromoga.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "OSFNA 2026, Allianz Field",
+     "url": "https://www.allianzfield.com/events/osfna-2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "OSFNA anniversary, Eventbrite",
+     "url": "https://www.eventbrite.com/e/osfna-30-year-anniversary-celebration-sports-unity-family-festival-tickets-1993887127071",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Culture and Athletic, OSFNA",
+     "url": "https://osfna.org/2026/01/01/culture-and-athletic/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "oromo--oromo-studies-association-annual-conference",
+   "observanceKey": "oromo-studies-association-annual-conference",
+   "name": "Oromo Studies Association annual conference",
+   "alsoKnownAs": [
+    "OSA conference"
+   ],
+   "communities": [
+    "oromo"
+   ],
+   "briefLinks": [
+    {
+     "community": "oromo",
+     "title": "Oromo Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
+   "kind": "cultural",
+   "capsule": "Annual Oromo scholars' gathering, held in Minneapolis and online from July 31 to August 2, 2026.",
+   "dateRule": "Set each year by the association. The place can change, and later years were not found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-31",
+     "endDate": "2026-08-02",
+     "source": "Oromo Studies Association",
+     "sourceUrl": "https://oromostudies.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Scholarship on Oromo life. The 2026 theme was \"Oromos on the Global Landscape.\"",
+   "howCelebratedInMinnesota": "In person in Minneapolis and online in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "OSA 2026 Annual Conference",
+     "place": "Minneapolis and online",
+     "link": "https://oromostudies.org/",
+     "organizerDates": "July 31 to August 2, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Oromo Studies Association",
+     "url": "https://oromostudies.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "oromo--ayyaana-gubaa-in-minneapolis",
+   "observanceKey": "ayyaana-gubaa-in-minneapolis",
+   "name": "Ayyaana Gubaa in Minneapolis",
+   "alsoKnownAs": [
+    "Gubaa"
+   ],
+   "communities": [
+    "oromo"
+   ],
+   "briefLinks": [
+    {
+     "community": "oromo",
+     "title": "Oromo Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
+   "kind": "community festival",
+   "capsule": "An Oromo Gubaa celebration reported in Minneapolis on September 17, 2026; the report does not say what it marks.",
+   "dateRule": "As reported for 2026. No rule for other years could be found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-17",
+     "endDate": null,
+     "source": "Oromo Diaspora Media",
+     "sourceUrl": "https://oromodiasporamedia.org/ayyaanni-gubaa-fulbaana-17-2026-minisootaatti-kabajame/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Not stated in the report opened.",
+   "howCelebratedInMinnesota": "Reported in Minneapolis, organized by a group the post calls Kutaa Bulchiinsa MN.",
+   "minnesotaEvents": [
+    {
+     "name": "Ayyaanni Gubaa",
+     "place": "Minneapolis",
+     "link": "https://oromodiasporamedia.org/ayyaanni-gubaa-fulbaana-17-2026-minisootaatti-kabajame/",
+     "organizerDates": "September 17, 2026, as reported Sept. 21, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ayyaanni Gubaa, Oromo Diaspora Media",
+     "url": "https://oromodiasporamedia.org/ayyaanni-gubaa-fulbaana-17-2026-minisootaatti-kabajame/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
    "id": "oromo--start-of-ramadan",
    "observanceKey": "start-of-ramadan",
    "name": "Start of Ramadan",
    "alsoKnownAs": [
-    "Ramadan",
-    "Ramazan",
-    "Soomaan"
+    "Ramadan"
    ],
    "communities": [
     "oromo"
@@ -14440,14 +17269,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
    "kind": "religious",
-   "capsule": "Start of the month of daytime fasting.",
-   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+   "capsule": "The start of the month of daytime fasting for Muslims, including many Oromo Minnesotans.",
+   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar. Each mosque decides by moon sighting or calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
      "sourceUrl": null,
      "verified": false
     },
@@ -14455,7 +17284,7 @@
      "year": 2027,
      "date": "2027-02-08",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -14463,25 +17292,107 @@
      "year": 2028,
      "date": "2028-01-28",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
    ],
    "dateCertainty": "moon-sighted or announced",
    "whatItMarks": "Start of the month of daytime fasting.",
-   "howCelebratedInMinnesota": null,
+   "howCelebratedInMinnesota": "Oromo-founded centers include the Tawfiq Islamic Center and Bilal Oromo Dawa Center. Their Ramadan schedules could not be opened; see the iftar entry.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "id": "oromo--ramadan-night-prayers-and-community-iftars",
+   "observanceKey": "ramadan-night-prayers-and-community-iftars",
+   "name": "Ramadan night prayers and community iftars",
+   "alsoKnownAs": [],
+   "communities": [
+    "oromo"
+   ],
+   "briefLinks": [
+    {
+     "community": "oromo",
+     "title": "Oromo Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
+   "kind": "community festival",
+   "capsule": "Shared fast-breaking meals in Ramadan, including at the Oromo Community of Minnesota and Tawfiq Islamic Center.",
+   "dateRule": "Announced by each mosque and community group during Ramadan.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Shared fast-breaking meals and evening prayers during Ramadan.",
+   "howCelebratedInMinnesota": "In 2025 the Oromo Community of Minnesota listed an iftar at its St. Paul office, and the Augsburg Oromo Student Union sought volunteers to serve iftar at Tawfiq Islamic Center. No 2026 notices were found.",
+   "minnesotaEvents": [
+    {
+     "name": "Ramadan Iftar",
+     "place": "465 N Mackubin St., St. Paul",
+     "link": "https://oromocommunitymn.org/events/",
+     "organizerDates": "March 21, 2025, 6:00 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "AOSU x Tawfiq Islamic Center masjid volunteering",
+     "place": "Masjid Tawfiq, Minneapolis",
+     "link": "https://calendar.augsburg.edu/event/aosu-x-tawfiq-islamic-center-masjid-volunteering/",
+     "organizerDates": "March 26, 2025, 6 to 8 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Events, Oromo Community of Minnesota",
+     "url": "https://oromocommunitymn.org/events/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "AOSU x Tawfiq, Augsburg University",
+     "url": "https://calendar.augsburg.edu/event/aosu-x-tawfiq-islamic-center-masjid-volunteering/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "oromo--eid-alfitr",
    "observanceKey": "eid-alfitr",
    "name": "Eid al-Fitr",
    "alsoKnownAs": [
-    "Ciid Yare",
-    "Ramazanski Bajram",
     "Id el Fitr"
    ],
    "communities": [
@@ -14496,14 +17407,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
    "kind": "religious",
-   "capsule": "End of Ramadan.",
-   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+   "capsule": "The festival ending Ramadan, kept by Muslim Oromo Minnesotans; Oromo-specific local prayer times were not found.",
+   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends. Decided by moon sighting or calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.; Fiqh Council of North America, Calendar lists 2026-03-20",
      "sourceUrl": null,
      "verified": false
     },
@@ -14511,7 +17422,7 @@
      "year": 2027,
      "date": "2027-03-09",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -14519,7 +17430,7 @@
      "year": 2028,
      "date": "2028-02-26",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
@@ -14529,15 +17440,19 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Mobile cafes, Sahan Journal",
+     "url": "https://sahanjournal.com/business-work/minnesota-mobile-cafes-women-entrepreneurs-oromo-somali/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "oromo--eid-aladha",
    "observanceKey": "eid-aladha",
    "name": "Eid al-Adha",
    "alsoKnownAs": [
-    "Ciid Weyn",
-    "Kurban Bajram",
     "Id el Kabir"
    ],
    "communities": [
@@ -14552,14 +17467,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
    "kind": "religious",
-   "capsule": "Festival of sacrifice, during the Hajj season.",
-   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+   "capsule": "The festival of sacrifice during the Hajj season, kept by Muslim Oromo Minnesotans; local prayer times were not found.",
+   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah). Decided by moon sighting or calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -14567,7 +17482,7 @@
      "year": 2027,
      "date": "2027-05-16",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -14575,7 +17490,7 @@
      "year": 2028,
      "date": "2028-05-05",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
@@ -14585,7 +17500,13 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "oromo--islamic-new-year",
@@ -14607,14 +17528,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
    "kind": "religious",
-   "capsule": "Start of the Hijri year.",
-   "dateRule": "First day of the first Islamic month (Muharram).",
+   "capsule": "First day of the Islamic year; no Oromo-specific Minnesota observance was found.",
+   "dateRule": "First day of the first Islamic month (Muharram). Decided by moon sighting or calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.; Fiqh Council of North America, Calendar lists 2026-06-16",
      "sourceUrl": null,
      "verified": false
     },
@@ -14622,7 +17543,7 @@
      "year": 2027,
      "date": "2027-06-06",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -14630,7 +17551,7 @@
      "year": 2028,
      "date": "2028-05-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
@@ -14640,15 +17561,20 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
   },
   {
    "id": "oromo--mawlid-annabi",
    "observanceKey": "mawlid-annabi",
    "name": "Mawlid an-Nabi",
    "alsoKnownAs": [
-    "Mawlid",
-    "Mawliid"
+    "Mawlid"
    ],
    "communities": [
     "oromo"
@@ -14662,14 +17588,14 @@
    ],
    "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
    "kind": "religious",
-   "capsule": "Birthday of the Prophet Muhammad.",
-   "dateRule": "Twelfth day of the third Islamic month (Rabi al-Awwal); not observed by all Muslims.",
+   "capsule": "Birthday of the Prophet Muhammad, not observed by all Muslims; no Oromo-specific Minnesota observance was found.",
+   "dateRule": "Twelfth day of the third Islamic month (Rabi al-Awwal); not observed by all Muslims. Decided by moon sighting or calculation.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-08-25",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -14677,7 +17603,7 @@
      "year": 2027,
      "date": "2027-08-14",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     },
@@ -14685,7 +17611,7 @@
      "year": 2028,
      "date": "2028-08-03",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
      "sourceUrl": null,
      "verified": false
     }
@@ -14695,384 +17621,13 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "oromo--enkutatash",
-   "observanceKey": "enkutatash",
-   "name": "Enkutatash",
-   "alsoKnownAs": [
-    "Ethiopian New Year",
-    "Meskerem 1"
-   ],
-   "communities": [
-    "oromo"
-   ],
-   "briefLinks": [
+   "sources": [
     {
-     "community": "oromo",
-     "title": "Oromo Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
     }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
-   "kind": "cultural",
-   "capsule": "Start of the Ethiopian year.",
-   "dateRule": "Meskerem 1 on the Ethiopian calendar: September 11, or September 12 in the Gregorian year before a Gregorian leap year.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-09-11",
-     "endDate": null,
-     "source": "Royal Norwegian Embassy in Addis Ababa, Embassy Closing Days 2026",
-     "sourceUrl": "https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy/2026/",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-09-12",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-12",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": "2028-09-11",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-11",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "Start of the Ethiopian year.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "oromo--genna",
-   "observanceKey": "genna",
-   "name": "Genna",
-   "alsoKnownAs": [
-    "Ethiopian Christmas",
-    "Ledet"
-   ],
-   "communities": [
-    "oromo"
-   ],
-   "briefLinks": [
-    {
-     "community": "oromo",
-     "title": "Oromo Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
-   "kind": "religious",
-   "capsule": "Christmas in the Ethiopian Orthodox Tewahedo Church.",
-   "dateRule": "Tahsas 29 on the Ethiopian calendar, usually January 7.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-01-07",
-     "endDate": null,
-     "source": "Royal Norwegian Embassy in Addis Ababa, Embassy Closing Days 2026",
-     "sourceUrl": "https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy/2026/",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-01-07",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-07",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": "2028-01-07",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-07",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "Christmas in the Ethiopian Orthodox Tewahedo Church.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "oromo--timkat",
-   "observanceKey": "timkat",
-   "name": "Timkat",
-   "alsoKnownAs": [
-    "Ethiopian Epiphany",
-    "Timket"
-   ],
-   "communities": [
-    "oromo"
-   ],
-   "briefLinks": [
-    {
-     "community": "oromo",
-     "title": "Oromo Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
-   "kind": "religious",
-   "capsule": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
-   "dateRule": "Tir 11 on the Ethiopian calendar, usually January 19 (January 20 in some years).",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-01-19",
-     "endDate": null,
-     "source": "Royal Norwegian Embassy in Addis Ababa, Embassy Closing Days 2026",
-     "sourceUrl": "https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy/2026/",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-01-19",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-19",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": "2028-01-20",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-19; Calendarific (commercial, no official source found), Ethiopia holidays 2028 lists 2028-01-20",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "Baptism of Jesus in the Ethiopian Orthodox tradition.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "oromo--fasika",
-   "observanceKey": "fasika",
-   "name": "Fasika",
-   "alsoKnownAs": [
-    "Ethiopian Easter"
-   ],
-   "communities": [
-    "oromo"
-   ],
-   "briefLinks": [
-    {
-     "community": "oromo",
-     "title": "Oromo Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
-   "kind": "religious",
-   "capsule": "Easter in the Ethiopian Orthodox tradition.",
-   "dateRule": "Same date as Eastern Orthodox Easter.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-04-12",
-     "endDate": null,
-     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026 lists 2026-04-12",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2027,
-     "date": "2027-05-02",
-     "endDate": null,
-     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027 lists 2027-05-02",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": "2028-04-16",
-     "endDate": null,
-     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-04-16",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "Easter in the Ethiopian Orthodox tradition.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "oromo--adwa-victory-day",
-   "observanceKey": "adwa-victory-day",
-   "name": "Adwa Victory Day",
-   "alsoKnownAs": [],
-   "communities": [
-    "oromo"
-   ],
-   "briefLinks": [
-    {
-     "community": "oromo",
-     "title": "Oromo Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
-   "kind": "national",
-   "capsule": "The 1896 Ethiopian victory at Adwa.",
-   "dateRule": "March 2 (Yekatit 23).",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-03-02",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2026-03-02",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2027,
-     "date": "2027-03-02",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2027-03-02",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": "2028-03-02",
-     "endDate": null,
-     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-03-02",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1896 Ethiopian victory at Adwa.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "oromo--irreecha",
-   "observanceKey": "irreecha",
-   "name": "Irreecha",
-   "alsoKnownAs": [
-    "Irreessa"
-   ],
-   "communities": [
-    "oromo"
-   ],
-   "briefLinks": [
-    {
-     "community": "oromo",
-     "title": "Oromo Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
-   "kind": "cultural",
-   "capsule": "Oromo thanksgiving at the end of the rainy season.",
-   "dateRule": "Announced each year; held around the end of the Ethiopian rainy season, usually on a weekend in late September or early October.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": null,
-     "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2027,
-     "date": null,
-     "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": null,
-     "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "announced each year",
-   "whatItMarks": "Oromo thanksgiving at the end of the rainy season.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "oromo--ramadan-night-prayers-and-community-iftars",
-   "observanceKey": "ramadan-night-prayers-and-community-iftars",
-   "name": "Ramadan night prayers and community iftars",
-   "alsoKnownAs": [],
-   "communities": [
-    "oromo"
-   ],
-   "briefLinks": [
-    {
-     "community": "oromo",
-     "title": "Oromo Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/oromo"
-    }
-   ],
-   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/oromo/profile.md",
-   "kind": "community festival",
-   "capsule": "Shared fast-breaking meals and evening prayers during Ramadan.",
-   "dateRule": "Announced by each mosque and community group during Ramadan.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": null,
-     "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2027,
-     "date": null,
-     "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": null,
-     "endDate": null,
-     "source": "Not yet announced or not yet checked against an opened announcement",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "announced each year",
-   "whatItMarks": "Shared fast-breaking meals and evening prayers during Ramadan.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
+   ]
   },
   {
    "id": "puerto-rican--easter",

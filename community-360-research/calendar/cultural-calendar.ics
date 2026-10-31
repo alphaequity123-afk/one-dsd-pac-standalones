@@ -136,7 +136,7 @@ DESCRIPTION:Christmas in the Ethiopian Orthodox Tewahedo Church. Date: Ta
  hsas 29 on the Ethiopian calendar\, usually January 7. Source: Royal Norw
  egian Embassy in Addis Ababa\, Embassy Closing Days 2026 https://www.norw
  ay.no/en/ethiopia/norway-ethiopia/about-embassy/2026/ Communities: Amhari
- c-speaking Minnesota\, Ethiopian Minnesota\, Oromo Minnesota
+ c-speaking Minnesota\, Ethiopian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -206,8 +206,7 @@ DESCRIPTION:Baptism of Jesus in the Ethiopian Orthodox tradition. Date: T
  ir 11 on the Ethiopian calendar\, usually January 19 (January 20 in some 
  years). Source: Royal Norwegian Embassy in Addis Ababa\, Embassy Closing 
  Days 2026 https://www.norway.no/en/ethiopia/norway-ethiopia/about-embassy
- /2026/ Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota\, Or
- omo Minnesota
+ /2026/ Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -448,12 +447,10 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
 SUMMARY:Holi
-DESCRIPTION:Spring festival of colors. Date: Day after the full moon of t
- he Hindu month Phalguna\, usually March. Source: Government of India\, Do
- P&T O.M. F.No.12/2/2023-JCA dated 03.07.2025\, holidays for 2026 (Annexur
- e I\, as reproduced by StaffNews) https://www.staffnews.in/2025/07/list-o
- f-holidays-2026-closed-holidays.html Communities: Indian (Asian Indian) M
- innesota
+DESCRIPTION:Spring\, rebirth and releasing negative energy\, per MPR News
+ . Date: Day after the full moon of the Hindu month Phalguna\, usually Mar
+ ch. Source: HinduTone guide https://hindutone.com/festivals/ganesh-chatur
+ thi-2026-usa-state-by-state/ Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -468,6 +465,19 @@ DESCRIPTION:Feast of Saint Patrick. Date: March 17. Source: United States
   the USA 2027 https://www.usccb.org/resources/2027cal.pdf Communities: Am
  erican culture\, European American Minnesota
 CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ugadi-and-gudi-padwa-2026-03-19@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Ugadi and Gudi Padwa
+DESCRIPTION:New year. Date: New year on the Hindu lunar calendar. Source:
+  HinduTone https://hindutone.com/global-hindu-presence/usa/ugadi-celebrat
+ ions-usa-state-wise-city-wise-guide/ Communities: Indian (Asian Indian) M
+ innesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -661,6 +671,18 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:mahavir-janma-kalyanak-2026-04-25@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:Mahavir Janma Kalyanak
+DESCRIPTION:Birth of Mahavir. Date: Proposed by the Jain Center\, subject
+  to confirmation. Source: Jain Center of Minnesota https://jaincentermn.o
+ rg/2026-events Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hùng-kings-commemoration-2026-04-26@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260426
@@ -699,6 +721,20 @@ DESCRIPTION:On the West Side\, a yearly celebration of Mexican heritage a
  round May 5. Source: Sahan Journal\, April 29\, 2026 https://sahanjournal
  .com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recove
  ry/ Communities: Latino Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:irreechaa-tulluu-2026-05-02@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Irreechaa Tulluu
+DESCRIPTION:The end of the dry season\, with prayers for summer rain\, pe
+ ace and good harvests. Date: Set each year by the Irreechaa Organization 
+ in Minnesota\, in May. Later years have not been announced. Source: Irree
+ chaa Organization\, irreechaa.org https://irreechaa.org/irreechaa-tulluu-
+ 2026/ Communities: Oromo Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -995,6 +1031,19 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ethiopian-sports-federation-in-north-america-tournament-2026-06-27@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260705
+SUMMARY:Ethiopian Sports Federation in North America Tournament
+DESCRIPTION:An annual gathering of Ethiopian teams from the United States
+  and Canada\, first held in 1984. Date: Announced each year by the federa
+ tion in a rotating host city. Source: Ethiopian Sports Federation in Nort
+ h America https://esfna.org/tournament/ Communities: Ethiopian Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hmong-international-freedom-festival-2026-06-27@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260627
@@ -1035,6 +1084,21 @@ DESCRIPTION:The union of northern and southern regions into the Republic
  nal.com/arts-culture/somali-week-independence-minnesota-events-2025/ Comm
  unities: Somali Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ethiopian-day-in-minnesota-2026-07-03@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Ethiopian Day in Minnesota
+DESCRIPTION:Recognition of Ethiopian Minnesotans by the governor in 2026.
+  Date: Declared for 2026. No opened source says it recurs\, so later year
+ s are left empty. Source: MPR News\; ESFNA lists Ethiopian Day on July 3\
+ , 2026 https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tourname
+ nt-draws-thousands-despite-immigration-fears Communities: Ethiopian Minne
+ sota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1186,6 +1250,34 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:oromo-studies-association-annual-conference-2026-07-31@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260803
+SUMMARY:Oromo Studies Association annual conference
+DESCRIPTION:Scholarship on Oromo life. The 2026 theme was "Oromos on the 
+ Global Landscape." Date: Set each year by the association. The place can 
+ change\, and later years were not found. Source: Oromo Studies Associatio
+ n https://oromostudies.org/ Communities: Oromo Minnesota
+CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:oromo-week-and-the-osfna-tournament-2026-08-01@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260809
+SUMMARY:Oromo Week and the OSFNA tournament
+DESCRIPTION:A gathering of Oromo clubs and families. The federation dates
+  its first tournament to Toronto in 1996. Date: Annual summer tournament 
+ that rotates among North American cities. Check the federation each year\
+ ; a Minnesota date is not guaranteed. Source: Oromo Community of Georgia 
+ listing\; Allianz Field for the Aug. 8 final https://oromoga.org/ Communi
+ ties: Oromo Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:st-cloud-somali-festival-2026-08-01@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260801
@@ -1259,12 +1351,23 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:Independence Day (India)
-DESCRIPTION:Indian independence in 1947. Date: August 15. Source: Governm
- ent of India\, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026\, holidays 
- for 2027 (Annexure I\, as reproduced by StaffNews) https://www.staffnews.
- in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html Communities: 
- Indian (Asian Indian) Minnesota
+DESCRIPTION:Indian independence in 1947. Date: August 15. IAM says Minnes
+ ota recognizes this date as India Day. Source: India Association of Minne
+ sota https://iamn.org/?p=493 Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:indiafest-2026-08-15@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:IndiaFest
+DESCRIPTION:Indian culture and Independence Day. Date: Set each year by t
+ he India Association of Minnesota\, around Independence Day. Source: Indi
+ a Association of Minnesota https://iamn.org/event/indiafest-2026/ Communi
+ ties: Indian (Asian Indian) Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1327,6 +1430,19 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:onam-2026-08-26@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Onam
+DESCRIPTION:A Kerala festival. Date: Thiruvonam star. Dates vary by place
+  and source. Source: Drik Panchang\, New Delhi reckoning https://www.drik
+ panchang.com/festivals/onam/onam-calendar.html?year=2026 Communities: Ind
+ ian (Asian Indian) Minnesota
+CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:march-on-washington-anniversary-2026-08-28@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260828
@@ -1368,6 +1484,18 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:paryushan-mahaparva-2026-09-09@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260916
+SUMMARY:Paryushan Mahaparva
+DESCRIPTION:A Jain period of observance. Date: Proposed by the Jain Cente
+ r\, subject to confirmation. Source: Jain Center of Minnesota https://jai
+ ncentermn.org/2026-events Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:enkutatash-2026-09-11@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260911
@@ -1378,7 +1506,7 @@ DESCRIPTION:Start of the Ethiopian year. Date: Meskerem 1 on the Ethiopia
   Gregorian leap year. Source: Royal Norwegian Embassy in Addis Ababa\, Em
  bassy Closing Days 2026 https://www.norway.no/en/ethiopia/norway-ethiopia
  /about-embassy/2026/ Communities: Amharic-speaking Minnesota\, Ethiopian 
- Minnesota\, Oromo Minnesota
+ Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1392,6 +1520,20 @@ DESCRIPTION:Music and Rondo's cultural life. Date: Announced each year. S
  ource: Spokesman-Recorder https://spokesman-recorder.com/2026/09/30/saint
  -paul-restores-street-co-naming-to-honor-elder-mahmoud-el-kati/ Communiti
  es: African American Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ethiopian-community-in-minnesota-new-year-celebration-2026-09-13@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Ethiopian Community in Minnesota New Year Celebration
+DESCRIPTION:The Ethiopian New Year\, in a public community setting. Date:
+  Set by the Ethiopian Community in Minnesota\; the 2026 event fell two da
+ ys after Enkutatash. Source: Mefthe listing of the Ethiopian Community in
+  Minnesota's invitation https://mefthe.com/events/celebrate-ethiopian-new
+ -year-in-minnesota/ Communities: Ethiopian Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1440,6 +1582,18 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:das-lakshan-mahaparva-2026-09-16@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260926
+SUMMARY:Das Lakshan Mahaparva
+DESCRIPTION:A Jain period of observance. Date: Proposed by the Jain Cente
+ r\, subject to confirmation. Source: Jain Center of Minnesota https://jai
+ ncentermn.org/2026-events Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:mexican-independence-day-2026-09-16@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260916
@@ -1455,6 +1609,19 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:ayyaana-gubaa-in-minneapolis-2026-09-17@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Ayyaana Gubaa in Minneapolis
+DESCRIPTION:Not stated in the report opened. Date: As reported for 2026. 
+ No rule for other years could be found. Source: Oromo Diaspora Media http
+ s://oromodiasporamedia.org/ayyaanni-gubaa-fulbaana-17-2026-minisootaatti-
+ kabajame/ Communities: Oromo Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:fiesta-latina-2026-09-19@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260919
@@ -1463,6 +1630,20 @@ SUMMARY:Fiesta Latina
 DESCRIPTION:A public celebration of Latino culture and community during H
  eritage Month. Date: Set each year by CLUES. Source: CLUES https://clues.
  org/fiesta-latina/ Communities: Latino Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:irreechaa-malkaa-at-powderhorn-park-2026-09-19@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Irreechaa Malkaa at Powderhorn Park
+DESCRIPTION:Irreecha\, the Oromo thanksgiving. Date: Set each year by Oro
+ mo Irreecha Minnesota. Later years have not been announced. Source: Oromo
+  Irreecha Minnesota\, irreechaa.org\; Oromo Diaspora Media https://irreec
+ haa.org/event/ireechaa-by-the-water-sept-19-2026-at-powderhorn-park-lake-
+ in-minneapolis/ Communities: Oromo Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1519,6 +1700,18 @@ DESCRIPTION:Autumn harvest festival. Date: Fifteenth day of the eighth mo
   월력요항) https://astro.kasi.re.kr/life/post/calendarData?year=2026 
  Communities: Korean Minnesota
 CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kshamavani-2026-09-26@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Kshamavani
+DESCRIPTION:A Jain observance. Date: Proposed by the Jain Center\, subjec
+ t to confirmation. Source: Jain Center of Minnesota https://jaincentermn.
+ org/2026-events Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1592,6 +1785,34 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:navaratri-and-dussehra-2026-10-11@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261021
+SUMMARY:Navaratri and Dussehra
+DESCRIPTION:Nine nights\, then the victory of good over evil. Date: Dusse
+ hra is the tenth day of the bright half of the Hindu month Ashvin\, usual
+ ly October\; the nine nights of Navaratri come before it. Source: HinduTo
+ ne\, Minneapolis reckoning: Navaratri begins Oct. 11\, Dussehra Oct. 20 h
+ ttps://hindutone.com/festivals/dussehra-2026-minneapolis/ Communities: In
+ dian (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:durga-puja-bengali-association-of-minnesota-2026-10-16@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY:Durga Puja\, Bengali Association of Minnesota
+DESCRIPTION:Worship of the goddess Durga. Date: Set each year by the Beng
+ ali Association. 2025 was Sept. 26 to 28. Source: Bengali Association of 
+ Minnesota https://mnbangali.org/events/durga-puja-2026/ Communities: Indi
+ an (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:hmong-new-year-in-southwest-minnesota-2026-10-17@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261017
@@ -1603,22 +1824,6 @@ DESCRIPTION:Hmong New Year\, held locally for a southwest Minnesota commu
  ong Southwest Minnesota https://www.unitedhmongswmn.org/ Communities: Hmo
  ng Minnesota
 CATEGORIES:community festival
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:navaratri-and-dussehra-2026-10-20@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Navaratri and Dussehra
-DESCRIPTION:Victory of good over evil. Date: Dussehra is the tenth day of
-  the bright half of the Hindu month Ashvin\, usually October\; the nine n
- ights of Navaratri come before it. Source: Government of India\, DoP&T O.
- M. F.No.12/2/2023-JCA dated 03.07.2025\, holidays for 2026 (Annexure I\, 
- as reproduced by StaffNews) https://www.staffnews.in/2025/07/list-of-holi
- days-2026-closed-holidays.html Communities: Indian (Asian Indian) Minneso
- ta
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1646,6 +1851,68 @@ DESCRIPTION:Hmong arts and culture\, for older and younger generations to
  rent https://www.minnesotaparent.com/event/hmong-arts-celebration-at-the-
  mall-of-america-2026/ Communities: Hmong Minnesota
 CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:geeta-ashram-diwali-celebration-2026-10-24@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Geeta Ashram Diwali Celebration
+DESCRIPTION:Diwali. Date: Set each year by Geeta Ashram MN. Source: Sulek
+ ha listing\, Geeta Ashram MN https://events.sulekha.com/geeta-ashram-diwa
+ li-celebration-2026_event-in_eden-prairie-mn_402138 Communities: Indian (
+ Asian Indian) Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:kojagori-lokhi-pujo-2026-10-24@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Kojagori Lokhi Pujo
+DESCRIPTION:Worship of Lokhi on Kojagori Purnima. Date: Set each year by 
+ the Bengali Association. Source: Bengali Association of Minnesota https:/
+ /mnbangali.org/ Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sri-radha-kalyanam-2026-10-31@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Sri Radha Kalyanam
+DESCRIPTION:A Hindu temple ceremony. Date: Listed by a community director
+ y. Source: LocalFiles listing http://www.localfiles.com/indian/minneapoli
+ s/classifieds/events/list_1.htm Communities: Indian (Asian Indian) Minnes
+ ota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:carver-diwali-2026-11-01@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Carver Diwali
+DESCRIPTION:Diwali. Date: Set each year by the volunteer team. Source: Ca
+ rver Diwali team https://carverdiwali.org/ Communities: Indian (Asian Ind
+ ian) Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sapna-diyas-and-dandiyas-2026-11-01@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:SAPNA Diyas and Dandiyas
+DESCRIPTION:The Diwali season. Date: Set by SEWA-AIFW. Page says Sunday\,
+  Nov. 1\, with no year\; Nov. 1 is a Sunday in 2026. Source: SEWA-AIFW ht
+ tps://www.sewa-aifw.org/ Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1696,13 +1963,76 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Diwali
-DESCRIPTION:Festival of lights. Date: New moon (Amavasya) of the Hindu lu
- nar month Kartika (Ashvin in the amanta reckoning)\, usually October or N
- ovember. Source: Government of India\, DoP&T O.M. F.No.12/2/2023-JCA date
- d 03.07.2025\, holidays for 2026 (Annexure I\, as reproduced by StaffNews
- ) https://www.staffnews.in/2025/07/list-of-holidays-2026-closed-holidays.
- html Communities: Indian (Asian Indian) Minnesota
+DESCRIPTION:A five-day festival of lights\; Sahan Journal describes lamps
+  and rangoli said to guide Lakshmi into homes. Date: New moon (Amavasya) 
+ of the Hindu lunar month Kartika (Ashvin in the amanta reckoning)\, usual
+ ly October or November. Source: HinduTone\, Minneapolis timing\, updated 
+ Oct. 21\, 2026 https://hindutone.com/festivals/diwali-2026-usa-celebratio
+ ns/ Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:diwali-puja-at-milan-mandir-2026-11-08@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Diwali Puja at Milan Mandir
+DESCRIPTION:Diwali. Date: Listed by Jai Mata. The listing also mentions a
+  Nov. 14 fundraiser. Source: LocalFiles listing http://www.localfiles.com
+ /indian/minneapolis/classifieds/events/list_1.htm Communities: Indian (As
+ ian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jain-diwali-nirvan-pooja-2026-11-08@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Jain Diwali Nirvan Pooja
+DESCRIPTION:Diwali for Jains\, called Nirvan on the schedule. Date: Propo
+ sed by the Jain Center\, subject to confirmation. The page prints Saturda
+ y beside Nov. 8\, which is a Sunday in 2026. Source: Jain Center of Minne
+ sota\, proposed schedule https://jaincentermn.org/2026-events Communities
+ : Indian (Asian Indian) Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marathi-association-diwali-2026-11-14@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Marathi Association Diwali
+DESCRIPTION:Diwali. Date: Set each year by the association. Source: Marat
+ hi Association of Minnesota https://www.mnmarathi.org/events Communities:
+  Indian (Asian Indian) Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icam-diwali-cultural-program-2026-11-14@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:ICAM Diwali Cultural Program
+DESCRIPTION:Diwali. Date: Set each year by the Indian Cultural Associatio
+ n of Minnesota. Source: ICAM https://icamn.org/ Communities: Indian (Asia
+ n Indian) Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:diwali-dinner-and-cultural-entertainment-farmington-2026-11-14@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Diwali Dinner and Cultural Entertainment\, Farmington
+DESCRIPTION:Diwali. Date: From a community listing. Source: LocalFiles li
+ sting http://www.localfiles.com/indian/minneapolis/classifieds/events/lis
+ t_1.htm Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1717,6 +2047,31 @@ DESCRIPTION:Columbus's 1493 landing\; marked in some public life. Date: N
   de Puerto Rico https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/P
  DF/91-1938.pdf Communities: Puerto Rican Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deepavali-and-rajyotsava-2026-11-21@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Deepavali and Rajyotsava
+DESCRIPTION:Deepavali together with Rajyotsava. Date: Set each year by Sa
+ ngeetha Kannada Koota. Source: Sangeetha Kannada Koota http://www.kannada
+ mn.org/ Communities: Indian (Asian Indian) Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tcta-deepavali-tamil-live-orchestra-2026-11-21@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:TCTA Deepavali Tamil Live Orchestra
+DESCRIPTION:Deepavali. Date: Set each year by the association. The listin
+ g garbles the venue address. Source: LocalFiles listing http://www.localf
+ iles.com/indian/minneapolis/classifieds/events/list_1.htm Communities: In
+ dian (Asian Indian) Minnesota
+CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2088,6 +2443,21 @@ DESCRIPTION:Life and work of Dr. Martin Luther King Jr. Date: Third Monda
   Communities: African American Minnesota\, American culture\, Minnesota c
  ulture
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:timkat-2027-01-19@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Timkat
+DESCRIPTION:Baptism of Jesus in the Ethiopian Orthodox tradition. Date: T
+ ir 11 on the Ethiopian calendar\, usually January 19. One guide says alwa
+ ys January 19\; the calendar calculation gives January 20 in 2028. Source
+ : We Blog The World https://weblogtheworld.com/countries/africa-africa/ti
+ mkat-ethiopia-epiphany-sacred-water-festival Communities: Ethiopian Minne
+ sota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2783,11 +3153,9 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:Independence Day (India)
-DESCRIPTION:Indian independence in 1947. Date: August 15. Source: Governm
- ent of India\, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026\, holidays 
- for 2027 (Annexure I\, as reproduced by StaffNews) https://www.staffnews.
- in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html Communities: 
- Indian (Asian Indian) Minnesota
+DESCRIPTION:Indian independence in 1947. Date: August 15. IAM says Minnes
+ ota recognizes this date as India Day. Source: India Association of Minne
+ sota https://iamn.org/?p=493 Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2965,13 +3333,13 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 SUMMARY:Navaratri and Dussehra
-DESCRIPTION:Victory of good over evil. Date: Dussehra is the tenth day of
-  the bright half of the Hindu month Ashvin\, usually October\; the nine n
- ights of Navaratri come before it. Source: Government of India\, DoP&T O.
- M. F.No.12/2/2023-JCA dated 16.07.2026\, holidays for 2027 (Annexure I\, 
- as reproduced by StaffNews) https://www.staffnews.in/2026/07/list-of-holi
- days-for-the-year-2027-gazetted.html Communities: Indian (Asian Indian) M
- innesota
+DESCRIPTION:Nine nights\, then the victory of good over evil. Date: Dusse
+ hra is the tenth day of the bright half of the Hindu month Ashvin\, usual
+ ly October\; the nine nights of Navaratri come before it. Source: Governm
+ ent of India\, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026\, holidays 
+ for 2027 (Annexure I\, as reproduced by StaffNews) https://www.staffnews.
+ in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html Communities: 
+ Indian (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3008,12 +3376,13 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
 SUMMARY:Diwali
-DESCRIPTION:Festival of lights. Date: New moon (Amavasya) of the Hindu lu
- nar month Kartika (Ashvin in the amanta reckoning)\, usually October or N
- ovember. Source: Government of India\, DoP&T O.M. F.No.12/2/2023-JCA date
- d 16.07.2026\, holidays for 2027 (Annexure I\, as reproduced by StaffNews
- ) https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gaz
- etted.html Communities: Indian (Asian Indian) Minnesota
+DESCRIPTION:A five-day festival of lights\; Sahan Journal describes lamps
+  and rangoli said to guide Lakshmi into homes. Date: New moon (Amavasya) 
+ of the Hindu lunar month Kartika (Ashvin in the amanta reckoning)\, usual
+ ly October or November. Source: Government of India\, DoP&T O.M. F.No.12/
+ 2/2023-JCA dated 16.07.2026\, holidays for 2027 (Annexure I\, as reproduc
+ ed by StaffNews) https://www.staffnews.in/2026/07/list-of-holidays-for-th
+ e-year-2027-gazetted.html Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3553,11 +3922,12 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280311
 DTEND;VALUE=DATE:20280312
 SUMMARY:Holi
-DESCRIPTION:Spring festival of colors. Date: Day after the full moon of t
- he Hindu month Phalguna\, usually March. Source: Drik Panchang (almanac s
- ite\, not a government source)\, 2028 Holi\, Rangwali Holi\, Dhulandi dat
- e for New Delhi https://www.drikpanchang.com/festivals/holi/festivals-hol
- i-rangwali.html?year=2028 Communities: Indian (Asian Indian) Minnesota
+DESCRIPTION:Spring\, rebirth and releasing negative energy\, per MPR News
+ . Date: Day after the full moon of the Hindu month Phalguna\, usually Mar
+ ch. Source: Drik Panchang (almanac site\, not a government source)\, 2028
+  Holi\, Rangwali Holi\, Dhulandi date for New Delhi https://www.drikpanch
+ ang.com/festivals/holi/festivals-holi-rangwali.html?year=2028 Communities
+ : Indian (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4031,11 +4401,9 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280815
 DTEND;VALUE=DATE:20280816
 SUMMARY:Independence Day (India)
-DESCRIPTION:Indian independence in 1947. Date: August 15. Source: Governm
- ent of India\, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026\, holidays 
- for 2027 (Annexure I\, as reproduced by StaffNews) https://www.staffnews.
- in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html Communities: 
- Indian (Asian Indian) Minnesota
+DESCRIPTION:Indian independence in 1947. Date: August 15. IAM says Minnes
+ ota recognizes this date as India Day. Source: India Association of Minne
+ sota https://iamn.org/?p=493 Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4156,12 +4524,12 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280927
 DTEND;VALUE=DATE:20280928
 SUMMARY:Navaratri and Dussehra
-DESCRIPTION:Victory of good over evil. Date: Dussehra is the tenth day of
-  the bright half of the Hindu month Ashvin\, usually October\; the nine n
- ights of Navaratri come before it. Source: Drik Panchang (almanac site\, 
- not a government source)\, 2028 Hindu Festivals Calendar for New Delhi ht
- tps://www.drikpanchang.com/calendars/hindu/hinducalendar.html?year=2028 C
- ommunities: Indian (Asian Indian) Minnesota
+DESCRIPTION:Nine nights\, then the victory of good over evil. Date: Dusse
+ hra is the tenth day of the bright half of the Hindu month Ashvin\, usual
+ ly October\; the nine nights of Navaratri come before it. Source: Drik Pa
+ nchang (almanac site\, not a government source)\, 2028 Hindu Festivals Ca
+ lendar for New Delhi https://www.drikpanchang.com/calendars/hindu/hinduca
+ lendar.html?year=2028 Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4226,12 +4594,13 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20281017
 DTEND;VALUE=DATE:20281018
 SUMMARY:Diwali
-DESCRIPTION:Festival of lights. Date: New moon (Amavasya) of the Hindu lu
- nar month Kartika (Ashvin in the amanta reckoning)\, usually October or N
- ovember. Source: Drik Panchang (almanac site\, not a government source)\,
-  2028 Diwali Puja Calendar for New Delhi https://www.drikpanchang.com/diw
- ali/diwali-puja-calendar.html?year=2028 Communities: Indian (Asian Indian
- ) Minnesota
+DESCRIPTION:A five-day festival of lights\; Sahan Journal describes lamps
+  and rangoli said to guide Lakshmi into homes. Date: New moon (Amavasya) 
+ of the Hindu lunar month Kartika (Ashvin in the amanta reckoning)\, usual
+ ly October or November. Source: Drik Panchang (almanac site\, not a gover
+ nment source)\, 2028 Diwali Puja Calendar for New Delhi https://www.drikp
+ anchang.com/diwali/diwali-puja-calendar.html?year=2028 Communities: India
+ n (Asian Indian) Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT

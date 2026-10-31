@@ -1,0 +1,797 @@
+{
+ "community": "oromo",
+ "entries": [
+  {
+   "seedId": "irreecha",
+   "name": "Irreecha (traditional thanksgiving)",
+   "alsoKnownAs": [
+    "Irreechaa",
+    "Irreessa",
+    "Eretcha",
+    "Irreechaa Malkaa",
+    "Oromo Thanksgiving"
+   ],
+   "kind": "cultural",
+   "capsule": "Oromo thanksgiving at the end of the rainy season, marked with prayer for peace at water; Minnesota organizers set their own dates.",
+   "dateRule": "A traditional date at the end of the rainy season, usually September or October. A religious leader traditionally announces it by watching the sky and lunar calendar, Teferi Tafa told Ampers. Minnesota dates are set by organizers and are listed as separate entries.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Thanks to Waaqa for past blessings, prayer for peace and reconciliation, and the end of the rains and start of the Birraa harvest season. Ethiopia banned it for over a century, MNopedia says, and many remember the 2016 deaths at the Arsadi gathering.",
+   "howCelebratedInMinnesota": "Families gather at a Twin Cities park or lake in cultural clothing to pray, sing, dance and share food such as badenna. MNopedia names Lake Nokomis each September; for 2026, the organizer's listing and Oromo Diaspora Media name Powderhorn Park, while one lone report says Lake Nokomis. OPride reported an Oct. 3, 2009 celebration at Lake Nokomis. Attendance figures were not found.",
+   "minnesotaEvents": [
+    {
+     "name": "Irreecha in Minnesota, 2025",
+     "place": "Minnesota; venue not named in the post",
+     "link": "https://oromodiasporamedia.org/irreechaa-oromoo-minisootaa/",
+     "organizerDates": "Reported in a post dated Oct. 6, 2025; the day is not given",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrating Irreechaa in Minnesota, Ampers",
+     "url": "https://ampers.org/celebrating-irreechaa-in-minnesota/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Irreeechaa in Minnesota, OPride",
+     "url": "https://www.opride.com/2009/10/03/irreeechaa-in-minnesota-a-tradition-continues/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Irreechaa Oromoo-Minisootaa, Oromo Diaspora Media",
+     "url": "https://oromodiasporamedia.org/irreechaa-oromoo-minisootaa/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Irreechaa Malkaa at Powderhorn Park",
+   "alsoKnownAs": [
+    "Ireechaa Malka",
+    "Irreechaa by the Water",
+    "Ayyaana Irreechaa MN"
+   ],
+   "kind": "community festival",
+   "capsule": "Minnesota Irreecha by the water at Powderhorn Park, listed by Oromo Irreecha Minnesota for September 19, 2026.",
+   "dateRule": "Set each year by Oromo Irreecha Minnesota. Later years have not been announced.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": null,
+     "source": "Oromo Irreecha Minnesota, irreechaa.org; Oromo Diaspora Media",
+     "sourceUrl": "https://irreechaa.org/event/ireechaa-by-the-water-sept-19-2026-at-powderhorn-park-lake-in-minneapolis/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Irreecha, the Oromo thanksgiving.",
+   "howCelebratedInMinnesota": "Listed 10:30 a.m. to 7 p.m. at 3400 15th Ave. S., Minneapolis. Oromo Diaspora Media reported it was held there and thanked an organizing committee, the Minnesota Humanities Center and the City of Minneapolis.",
+   "minnesotaEvents": [
+    {
+     "name": "Ireechaa Malka",
+     "place": "Powderhorn Park, 3400 15th Ave S, Minneapolis",
+     "link": "https://irreechaa.org/event/ireechaa-by-the-water-sept-19-2026-at-powderhorn-park-lake-in-minneapolis/",
+     "organizerDates": "September 19, 2026, 10:30 am to 7:00 pm",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ireechaa Malka listing, irreechaa.org",
+     "url": "https://irreechaa.org/event/ireechaa-by-the-water-sept-19-2026-at-powderhorn-park-lake-in-minneapolis/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Ayyaana Irreechaa MN, Oromo Diaspora Media",
+     "url": "https://oromodiasporamedia.org/ayyaana-irreechaa-mn-fulbaana-19-2026/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Irreecha at Lake Nokomis (Hawaasa Oromoo Minnesota)",
+   "alsoKnownAs": [
+    "Irreecha Minnesota"
+   ],
+   "kind": "community festival",
+   "capsule": "One lone report places an Irreecha at Lake Nokomis on September 19, 2026; other sources name Powderhorn Park, so this is unconfirmed.",
+   "dateRule": "As reported for 2026 by one write-up only. It conflicts with sources placing the day's event at Powderhorn Park, and no organizer notice was found, so the date is not treated as confirmed. It may be a second gathering or a mistaken place.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": null,
+     "source": "One lone report on an Australian advocacy website; it conflicts with sources placing the event at Powderhorn Park",
+     "sourceUrl": "https://advocacy4oromia.org/2026/09/20/minnesota-oromo-community-celebrates-irreecha-with-gratitude-unity-and-hope/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Irreecha, the Oromo thanksgiving, with remembrance of those killed at Arsadi in 2016.",
+   "howCelebratedInMinnesota": "The one write-up describes prayers, performances, traditional attire, elders, youth and children, and names no speakers or attendance. Because it conflicts with sources naming Powderhorn Park, it should not be read as confirmed.",
+   "minnesotaEvents": [
+    {
+     "name": "Irreecha, Hawaasa Oromoo Minnesota",
+     "place": "Lake Nokomis, Minneapolis, as reported",
+     "link": "https://advocacy4oromia.org/2026/09/20/minnesota-oromo-community-celebrates-irreecha-with-gratitude-unity-and-hope/",
+     "organizerDates": "September 19, 2026, reported after the event by one source and unconfirmed; the organizer's own notice was not found",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Oromo Community Celebrates Irreecha, Advocacy for Oromia",
+     "url": "https://advocacy4oromia.org/2026/09/20/minnesota-oromo-community-celebrates-irreecha-with-gratitude-unity-and-hope/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Irreechaa 2026 celebrations, Advocacy for Oromia",
+     "url": "https://advocacy4oromia.org/2026/09/26/irreechaa-2026-celebrations-in-the-global-cultural-event/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Irreechaa Tulluu",
+   "alsoKnownAs": [
+    "Irreechaa on the mountain"
+   ],
+   "kind": "community festival",
+   "capsule": "Spring Irreecha, traditionally on a mountaintop, marking the end of the dry season; held at Powderhorn Park on May 2, 2026.",
+   "dateRule": "Set each year by the Irreechaa Organization in Minnesota, in May. Later years have not been announced.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-02",
+     "endDate": null,
+     "source": "Irreechaa Organization, irreechaa.org",
+     "sourceUrl": "https://irreechaa.org/irreechaa-tulluu-2026/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The end of the dry season, with prayers for summer rain, peace and good harvests.",
+   "howCelebratedInMinnesota": "Held at Powderhorn Park on May 2, 2026. Ampers also reports May gatherings at a selected Twin Cities park.",
+   "minnesotaEvents": [
+    {
+     "name": "Irreechaa Tulluu 2026",
+     "place": "Powderhorn Park, Minneapolis",
+     "link": "https://irreechaa.org/irreechaa-tulluu-2026/",
+     "organizerDates": "May 2, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Irreechaa Tulluu 2026, irreechaa.org",
+     "url": "https://irreechaa.org/irreechaa-tulluu-2026/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Celebrating Irreechaa in Minnesota, Ampers",
+     "url": "https://ampers.org/celebrating-irreechaa-in-minnesota/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Oromo Week and the OSFNA tournament",
+   "alsoKnownAs": [
+    "Oromo Sports Federation in North America tournament",
+    "OSFNA"
+   ],
+   "kind": "community festival",
+   "capsule": "A week of Oromo soccer, music and family gathering; St. Paul hosted August 1 to 8, 2026, marking 30 years.",
+   "dateRule": "Annual summer tournament that rotates among North American cities. Check the federation each year; a Minnesota date is not guaranteed.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-01",
+     "endDate": "2026-08-08",
+     "source": "Oromo Community of Georgia listing; Allianz Field for the Aug. 8 final",
+     "sourceUrl": "https://oromoga.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A gathering of Oromo clubs and families. The federation dates its first tournament to Toronto in 1996.",
+   "howCelebratedInMinnesota": "For 2026, listings show a festival at Central High School in St. Paul, nightly matches and a final at Allianz Field on August 8. MNopedia says St. Paul first hosted in 2011 and both cities' mayors declared Oromo Week.",
+   "minnesotaEvents": [
+    {
+     "name": "OSFNA 2026 Tournament",
+     "place": "St. Paul",
+     "link": "https://oromoga.org/",
+     "organizerDates": "August 1 to 8, 2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "OSFNA 30 Year Anniversary Celebration",
+     "place": "Central High School, St. Paul",
+     "link": "https://www.eventbrite.com/e/osfna-30-year-anniversary-celebration-sports-unity-family-festival-tickets-1993887127071",
+     "organizerDates": "August 1 to August 7; the listing gives no year and has ended",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "OSFNA final",
+     "place": "Allianz Field, St. Paul",
+     "link": "https://www.allianzfield.com/events/osfna-2026",
+     "organizerDates": "August 8, 2026, kickoff 7:30 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Community events, Oromo Community of Georgia",
+     "url": "https://oromoga.org/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "OSFNA 2026, Allianz Field",
+     "url": "https://www.allianzfield.com/events/osfna-2026",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "OSFNA anniversary, Eventbrite",
+     "url": "https://www.eventbrite.com/e/osfna-30-year-anniversary-celebration-sports-unity-family-festival-tickets-1993887127071",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Culture and Athletic, OSFNA",
+     "url": "https://osfna.org/2026/01/01/culture-and-athletic/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Oromo Studies Association annual conference",
+   "alsoKnownAs": [
+    "OSA conference"
+   ],
+   "kind": "cultural",
+   "capsule": "Annual Oromo scholars' gathering, held in Minneapolis and online from July 31 to August 2, 2026.",
+   "dateRule": "Set each year by the association. The place can change, and later years were not found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-31",
+     "endDate": "2026-08-02",
+     "source": "Oromo Studies Association",
+     "sourceUrl": "https://oromostudies.org/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Scholarship on Oromo life. The 2026 theme was \"Oromos on the Global Landscape.\"",
+   "howCelebratedInMinnesota": "In person in Minneapolis and online in 2026.",
+   "minnesotaEvents": [
+    {
+     "name": "OSA 2026 Annual Conference",
+     "place": "Minneapolis and online",
+     "link": "https://oromostudies.org/",
+     "organizerDates": "July 31 to August 2, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Oromo Studies Association",
+     "url": "https://oromostudies.org/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Ayyaana Gubaa in Minneapolis",
+   "alsoKnownAs": [
+    "Gubaa"
+   ],
+   "kind": "community festival",
+   "capsule": "An Oromo Gubaa celebration reported in Minneapolis on September 17, 2026; the report does not say what it marks.",
+   "dateRule": "As reported for 2026. No rule for other years could be found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-17",
+     "endDate": null,
+     "source": "Oromo Diaspora Media",
+     "sourceUrl": "https://oromodiasporamedia.org/ayyaanni-gubaa-fulbaana-17-2026-minisootaatti-kabajame/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Not stated in the report opened.",
+   "howCelebratedInMinnesota": "Reported in Minneapolis, organized by a group the post calls Kutaa Bulchiinsa MN.",
+   "minnesotaEvents": [
+    {
+     "name": "Ayyaanni Gubaa",
+     "place": "Minneapolis",
+     "link": "https://oromodiasporamedia.org/ayyaanni-gubaa-fulbaana-17-2026-minisootaatti-kabajame/",
+     "organizerDates": "September 17, 2026, as reported Sept. 21, 2026",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Ayyaanni Gubaa, Oromo Diaspora Media",
+     "url": "https://oromodiasporamedia.org/ayyaanni-gubaa-fulbaana-17-2026-minisootaatti-kabajame/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "start-of-ramadan",
+   "name": "Start of Ramadan",
+   "alsoKnownAs": [
+    "Ramadan"
+   ],
+   "kind": "religious",
+   "capsule": "The start of the month of daytime fasting for Muslims, including many Oromo Minnesotans.",
+   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar. Each mosque decides by moon sighting or calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-28",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the month of daytime fasting.",
+   "howCelebratedInMinnesota": "Oromo-founded centers include the Tawfiq Islamic Center and Bilal Oromo Dawa Center. Their Ramadan schedules could not be opened; see the iftar entry.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "ramadan-night-prayers-and-community-iftars",
+   "name": "Ramadan night prayers and community iftars",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Shared fast-breaking meals in Ramadan, including at the Oromo Community of Minnesota and Tawfiq Islamic Center.",
+   "dateRule": "Announced by each mosque and community group during Ramadan.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Shared fast-breaking meals and evening prayers during Ramadan.",
+   "howCelebratedInMinnesota": "In 2025 the Oromo Community of Minnesota listed an iftar at its St. Paul office, and the Augsburg Oromo Student Union sought volunteers to serve iftar at Tawfiq Islamic Center. No 2026 notices were found.",
+   "minnesotaEvents": [
+    {
+     "name": "Ramadan Iftar",
+     "place": "465 N Mackubin St., St. Paul",
+     "link": "https://oromocommunitymn.org/events/",
+     "organizerDates": "March 21, 2025, 6:00 p.m.",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "name": "AOSU x Tawfiq Islamic Center masjid volunteering",
+     "place": "Masjid Tawfiq, Minneapolis",
+     "link": "https://calendar.augsburg.edu/event/aosu-x-tawfiq-islamic-center-masjid-volunteering/",
+     "organizerDates": "March 26, 2025, 6 to 8 p.m.",
+     "dateChecked": "2026-10-30"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Events, Oromo Community of Minnesota",
+     "url": "https://oromocommunitymn.org/events/",
+     "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "AOSU x Tawfiq, Augsburg University",
+     "url": "https://calendar.augsburg.edu/event/aosu-x-tawfiq-islamic-center-masjid-volunteering/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-alfitr",
+   "name": "Eid al-Fitr",
+   "alsoKnownAs": [
+    "Id el Fitr"
+   ],
+   "kind": "religious",
+   "capsule": "The festival ending Ramadan, kept by Muslim Oromo Minnesotans; Oromo-specific local prayer times were not found.",
+   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends. Decided by moon sighting or calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-20",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-26",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "End of Ramadan.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Mobile cafes, Sahan Journal",
+     "url": "https://sahanjournal.com/business-work/minnesota-mobile-cafes-women-entrepreneurs-oromo-somali/",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-aladha",
+   "name": "Eid al-Adha",
+   "alsoKnownAs": [
+    "Id el Kabir"
+   ],
+   "kind": "religious",
+   "capsule": "The festival of sacrifice during the Hajj season, kept by Muslim Oromo Minnesotans; local prayer times were not found.",
+   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah). Decided by moon sighting or calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "islamic-new-year",
+   "name": "Islamic New Year",
+   "alsoKnownAs": [
+    "Hijri New Year",
+    "Muharram"
+   ],
+   "kind": "religious",
+   "capsule": "First day of the Islamic year; no Oromo-specific Minnesota observance was found.",
+   "dateRule": "First day of the first Islamic month (Muharram). Decided by moon sighting or calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-16",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-06",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-25",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the Hijri year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": "mawlid-annabi",
+   "name": "Mawlid an-Nabi",
+   "alsoKnownAs": [
+    "Mawlid"
+   ],
+   "kind": "religious",
+   "capsule": "Birthday of the Prophet Muhammad, not observed by all Muslims; no Oromo-specific Minnesota observance was found.",
+   "dateRule": "Twelfth day of the third Islamic month (Rabi al-Awwal); not observed by all Muslims. Decided by moon sighting or calculation.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-25",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-14",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-03",
+     "endDate": null,
+     "source": "Estimated from the Umm al-Qura calendar. Minnesota mosques decide by moon sighting or an adopted calculation, so the day can differ by one day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Birthday of the Prophet Muhammad.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Oromos in Minnesota, MNopedia",
+     "url": "https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia",
+     "dateChecked": "2026-10-30"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": [
+  {
+   "id": "enkutatash",
+   "reason": "No opened source shows Oromo Minnesotans keeping this day. It stays with the Ethiopian and Amharic communities; restore it if a source appears."
+  },
+  {
+   "id": "genna",
+   "reason": "The Oromo churches found here are Lutheran or evangelical, and no opened source shows Oromo Minnesotans keeping this Orthodox date."
+  },
+  {
+   "id": "timkat",
+   "reason": "No opened source shows Oromo Minnesotans keeping this Orthodox day."
+  },
+  {
+   "id": "fasika",
+   "reason": "No opened source shows Oromo Minnesotans keeping this Orthodox date."
+  },
+  {
+   "id": "adwa-victory-day",
+   "reason": "No opened source shows Oromo Minnesotans observing it. It is an Ethiopian national day; MNopedia describes Abyssinian rule over Oromo lands in that same era, so listing it as Oromo without evidence could mislead."
+  }
+ ]
+}
