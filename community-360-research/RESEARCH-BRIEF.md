@@ -94,6 +94,16 @@ Do not guess at web addresses and then report them as blocked: search for the re
 - Immigration: report at group level from public sources only. Never speculate on an individual's status. Enforcement news must be dated and attributed.
 - Inline citation: end each factual claim or small cluster with a markdown link to the source itself, e.g. ([Minnesota Compass, checked Oct. 30, 2026](url)), in addition to the Sources list. Every link in the file must be a page you opened.
 
+## Content notes (binding)
+
+Some material is distressing, and readers deserve to know before they reach it. Use a content note only for material that is distressing, not merely uncomfortable: genocide, massacres and war atrocities; lynchings, police killings and other racial violence; mass shootings and political violence; deaths in immigration enforcement or custody; abuse or neglect in institutions; sexual violence; suicide; torture. Do not add notes for ordinary discussion of racism, poverty, disability, immigration, politics or religion.
+
+Format: a single short line directly under the section heading (or before the paragraph, if only one paragraph is affected), factual and specific, with no apology and no warning-label tone:
+
+> **Content note:** This section describes [what, briefly]. Readers may pause or skip to [next section].
+
+Keep the writing itself restrained: state what happened, with sources, without graphic detail. Most profiles will need none or one or two notes. Never use the words "trigger warning" or "disclaimer".
+
 ## businesses.json
 
 A JSON array. Each: `{"name","type","neighborhoodOrCity","whatItIs","link","dateChecked":"YYYY-MM-DD","status":"open"|"could not confirm open"|"closed","evidence":"what on the opened page shows that status"}`. Aim for a real survey across types: restaurants, groceries, markets, professional firms, media, chambers, malls, not just a few well-known places. Do not cap it. For large communities, keep going well past the first couple dozen: search by neighborhood and by type (groceries, bakeries, law and accounting firms, clinics, insurance, tax, travel, salons, media, chambers). Small communities may be short; say so in the profile.
