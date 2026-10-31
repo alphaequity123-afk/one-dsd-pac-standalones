@@ -155,7 +155,7 @@ TITLES = json.loads((ROOT / 'calendar' / 'tools' / 'community-titles.json').read
 def deeper_link(text):
     m = re.match(r'Essay, section (\d+)', text)
     if m and m.group(1) in ESSAY_IDS:
-        return '<li><a href="essay.html#%s">%s</a></li>' % (ESSAY_IDS[m.group(1)], inline(text))
+        return '<li><a href="/course/essay.html#%s">%s</a></li>' % (ESSAY_IDS[m.group(1)], inline(text))
     m = re.match(r'Community profile: (.+)', text)
     if m:
         name = m.group(1).strip().rstrip('.')
@@ -218,7 +218,7 @@ def essay_html():
 
 
 def page(title, body, active=None, extra_head=''):
-    nav = ''.join('<li><a href="module-%d.html"%s>Module %d</a></li>' % (i, ' aria-current="page"' if active == i else '', i) for i in range(1, 7))
+    nav = ''.join('<li><a href="/course/module-%d.html"%s>Module %d</a></li>' % (i, ' aria-current="page"' if active == i else '', i) for i in range(1, 7))
     return '''<!doctype html>
 <html lang="en">
 <head>
@@ -228,15 +228,15 @@ def page(title, body, active=None, extra_head=''):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@500;600;700;800&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
-<link rel="stylesheet" href="course.css">
+<link rel="stylesheet" href="/course/course.css">
 %s</head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
-<header class="bar"><div class="bar-in"><a class="home" href="index.html">%s</a><nav aria-label="Modules"><ol class="mods">%s<li><a href="essay.html"%s>Essay</a></li></ol></nav></div></header>
+<header class="bar"><div class="bar-in"><a class="home" href="/course/">%s</a><nav aria-label="Modules"><ol class="mods">%s<li><a href="/course/essay.html"%s>Essay</a></li></ol></nav></div></header>
 <main id="main" class="wrap">
 %s
 </main>
-<script src="course.js"></script>
+<script src="/course/course.js"></script>
 </body>
 </html>
 ''' % (html.escape(title), extra_head, COURSE, nav, ' aria-current="page"' if active == 'essay' else '', body)
@@ -253,8 +253,8 @@ def build():
         meta, body, has_note = module_html(src.read_text(encoding='utf-8'), n)
         mods.append((n, meta))
         support = '<aside class="support">%s</aside>' % SUPPORT if has_note else ''
-        prev_link = '<a href="module-%d.html">&larr; Module %d</a>' % (n - 1, n - 1) if n > 1 else '<a href="index.html">&larr; Course home</a>'
-        next_link = '<a href="module-%d.html">Module %d &rarr;</a>' % (n + 1, n + 1) if n < 6 else '<a href="index.html">Course home &rarr;</a>'
+        prev_link = '<a href="/course/module-%d.html">&larr; Module %d</a>' % (n - 1, n - 1) if n > 1 else '<a href="/course/">&larr; Course home</a>'
+        next_link = '<a href="/course/module-%d.html">Module %d &rarr;</a>' % (n + 1, n + 1) if n < 6 else '<a href="/course/">Course home &rarr;</a>'
         content = '''<article class="module">
 <p class="kicker">Module %d of 6 &middot; About %s minutes</p>
 <h1>%s</h1>
@@ -266,7 +266,7 @@ def build():
 </article>''' % (n, html.escape(meta.get('minutes', '20')), inline(meta.get('title', 'Module %d' % n)), inline(meta.get('goal', '')),
                  support, body, n, n, prev_link, next_link)
         (OUT / ('module-%d.html' % n)).write_text(page('Module %d: %s' % (n, meta.get('title', '')), content, n), encoding='utf-8')
-    cards = ''.join('''<li class="card"><a href="module-%d.html"><span class="num">%d</span><span class="ct"><strong>%s</strong><span>%s</span></span><span class="status" data-status="%d">Not finished</span></a></li>''' % (
+    cards = ''.join('''<li class="card"><a href="/course/module-%d.html"><span class="num">%d</span><span class="ct"><strong>%s</strong><span>%s</span></span><span class="status" data-status="%d">Not finished</span></a></li>''' % (
         n, n, inline(m.get('title', '')), inline(m.get('goal', '')), n) for n, m in mods)
     index = '''<section class="intro">
 <p class="kicker">A voluntary course for Minnesota Department of Human Services staff</p>
@@ -284,7 +284,7 @@ def build():
 <li><strong>Frameworks are mirrors.</strong> The research describes averages and tendencies. It never tells you who any one person is.</li>
 </ul>
 <p class="support">%s</p>
-<p>The course is drawn from <a href="essay.html">the full essay</a>, which has every source, and from the Community 360 profiles of 39 Minnesota communities.</p>
+<p>The <a href="/">Minnesota cultural calendar</a> is part of the same research. The course is drawn from <a href="/course/essay.html">the full essay</a>, which has every source, and from the Community 360 profiles of 39 Minnesota communities.</p>
 </section>''' % (COURSE, cards, SUPPORT)
     (OUT / 'index.html').write_text(page(COURSE, index), encoding='utf-8')
     toc_html = ''.join('<li><a href="#%s">%s</a></li>' % (sid, inline(t)) for sid, t in toc)
