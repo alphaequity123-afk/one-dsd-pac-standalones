@@ -34,20 +34,20 @@
   "type": "restaurant",
   "neighborhoodOrCity": "Downtown St. Paul (367 Wabasha St. N.)",
   "whatItIs": "Thai and Lao restaurant founded in 1989; owned since late 2018 by Nia Rasavong, who came to Minnesota from a Thai refugee camp; reopened downtown in 2024.",
-  "link": "https://www.visitsaintpaul.com/directory/ruam-mit/",
+  "link": "https://order.spoton.com/65d78d8fdaafe9aff3f8317b/pickup",
   "dateChecked": "2026-10-31",
-  "status": "could not confirm open",
-  "evidence": "Visit Saint Paul directory listing (undated) gives address and phone; newest dated article opened is from July 2024 (Power 104.7 FM). No 2025 or 2026 dated item opened."
+  "status": "open",
+  "evidence": "Its online ordering page, opened Oct. 31, 2026, takes pickup and delivery orders from 367 Wabasha St. N. and lists Lao dishes such as khao piek sen, khao poon, nam khao and mok pa; a restaurant guide refreshed Oct. 30, 2026 (spinach.guide) lists daily hours at that address."
  },
  {
   "name": "Lat14 Asian Eatery",
   "type": "restaurant",
   "neighborhoodOrCity": "Golden Valley",
-  "whatItIs": "Asian restaurant in Golden Valley, per its own website title.",
+  "whatItIs": "Southeast Asian restaurant Chef Ann Ahmed opened in Golden Valley in 2018, where, Twin Cities Business wrote, her Laotian heritage took the stage.",
   "link": "https://www.lat14.com/",
   "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Website loads with menu headings but shows no hours, dates or current content."
+  "evidence": "Website loads with menu headings but shows no hours, dates or current content; a menu page returned 404 on Oct. 31, 2026. No 2025 or 2026 dated item opened."
  },
  {
   "name": "Top Asian Food",
@@ -68,5 +68,55 @@
   "dateChecked": "2026-10-31",
   "status": "could not confirm open",
   "evidence": "Mentioned in an Oct. 1, 2024 article; no 2025 or 2026 source opened; not confirmed as Lao-owned."
+ },
+ {
+  "name": "Lemon Grass Thai Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brooklyn Park (8600 Edinburgh Center Dr.)",
+  "whatItIs": "Chef Ann Ahmed's first restaurant, a Thai restaurant with Lao dishes, run by Laotian owners and chefs.",
+  "link": "https://ccxmedia.org/news/lemon-grass-thai-cuisine-closing-march-25-after-18-year-run/",
+  "dateChecked": "2026-10-31",
+  "status": "closed",
+  "evidence": "CCX Media reported on March 24, 2023 that it was closing that Saturday, March 25, 2023, after 18 years."
+ },
+ {
+  "name": "1st of Thai",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Faribault",
+  "whatItIs": "Family Thai restaurant owned by Hom Sithisack, who came from Laos in 1985 after time in a camp in Nong Khai, Thailand; the family opened in Albertville (2002), Plymouth (2005) and Faribault (about 2010).",
+  "link": "https://www.southernminn.com/faribault_daily_news/news/faces-of-faribault-1st-of-thai-boasts-unique-family-culture/article_3b13a1ff-23db-5df2-a7ba-df3f962203bb.html",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Faribault Daily News profile (undated, about 2016) and a Carleton College student interview with the owner's son; no 2025 or 2026 dated item or own website opened."
+ },
+ {
+  "name": "Lao Thai (Family Lao Thai Restaurant)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Avenue, St. Paul (501 University Ave. W.)",
+  "whatItIs": "Long-running family Lao and Thai restaurant on University Avenue, reviewed by Heavy Table in 2013 and Mpls.St.Paul Magazine.",
+  "link": "https://myannoyingopinions.com/2018/03/13/lao-thai-st-paul/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "The reviewer later added on the same page that the restaurant had closed or been sold (comment undated); its listed website did not load on Oct. 31, 2026."
+ },
+ {
+  "name": "Viet Hoa Lao market",
+  "type": "grocery",
+  "neighborhoodOrCity": "Eagan (1964 Rahncliff Ct.)",
+  "whatItIs": "Southeast Asian grocery with produce, rice, frozen meats and seafood and a small kitchen; ownership not stated.",
+  "link": "https://myannoyingopinions.com/2018/10/28/viet-hoa-lao-eagan-mn/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only source opened is an October 2018 blog visit; not confirmed as Lao-owned."
+ },
+ {
+  "name": "Sahtu Press",
+  "type": "media / publisher",
+  "neighborhoodOrCity": "Minnesota",
+  "whatItIs": "Lao American book publisher founded in 2013, with poet Bryan Thao Worra among its founders; says its books are printed in Minnesota.",
+  "link": "https://sahtu.press/articles",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Articles page lists posts dated Jan. 2, Sept. 30 and Oct. 19, 2026, and a 2026 publishing plan."
  }
 ]

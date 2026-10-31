@@ -750,9 +750,10 @@ SUMMARY:Lao New Year (Pi Mai Lao)
 DESCRIPTION:The start of the traditional Lao year. Date: Mid-April\, usua
  lly April 14 to 16\, as set each year by the Lao government. Minnesota ce
  lebrations are often held on a nearby weekend\, sometimes weeks later. So
- urce: Vientiane Times\, report on the Prime Minister's Office list of 202
- 6 public holidays https://www.vientianetimes.org.la/freefreenews/freecont
- ent_251_Dates_y25.php Communities: Lao Minnesota
+ urce: Vientiane Times (official April 14 to 16 dates)\; Lao News Agency (
+ KPL) reports celebrations launched April 14\, 2026 https://vientianetimes
+ .org.la/freefreenews/freecontent_043_Grand_Pi_Mai_y26.php Communities: La
+ o Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1823,6 +1824,21 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:colors-of-southeast-asia-fest-cosa-fest-2026-08-29@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Colors of Southeast Asia Fest (COSA Fest)
+DESCRIPTION:Southeast Asian diaspora culture in Minnesota\; the 2025 edit
+ ion marked 50 years. Date: Announced each year by The SEAD Project with t
+ he cities of Brooklyn Park and Brooklyn Center\; held June 7 in 2025 and 
+ August 29 in 2026. Source: City of Brooklyn Park: Saturday\, August 29\, 
+ 2026\, noon to 6 p.m.\, Mississippi Gateway Regional Park https://www.bro
+ oklynpark.org/cosa-fest/ Communities: Lao Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:đại-lễ-vu-lan-at-chùa-phật-ân-2026-08-30@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260830
@@ -2358,6 +2374,23 @@ DESCRIPTION:Community fellowship and\, in 2026\, the chapter's 80th anniv
  6 https://www.tcjacl.org/wp/wp-content/uploads/2026/10/TCJACL-Rice-Paper-
  10-2026.pdf Communities: Japanese Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:boun-ok-phansa-end-of-buddhist-lent-2026-10-26@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Boun Ok Phansa (end of Buddhist Lent)
+DESCRIPTION:The end of the monks' rains retreat (Buddhist Lent)\, after w
+ hich monks may travel again\; in Laos it is followed by boat races. Date:
+  Full moon of the eleventh lunar month\, usually October\, three lunar mo
+ nths after Khao Phansa\; announced in Laos each year. Robe-offering (kath
+ in) ceremonies at temples follow in the weeks after. Source: The Star (Vi
+ entiane Times via ANN): Boun Ork Phansa falls on October 26 this year htt
+ ps://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/buddhist-lent
+ -ends-with-colourful-river-traditions-in-laos Communities: Lao Minnesota
+CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

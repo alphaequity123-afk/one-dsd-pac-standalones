@@ -190,6 +190,7 @@ A plain date has an opened source stating it. "About" means the day is not yet c
 - Wednesday, August 26: **Onam**. Kerala festival kept by the Minnesota Malayalee Association. [Indian (Asian Indian) Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian)
 - Thursday, August 27 to September 7: **Minnesota State Fair**. Twelve days ending on Labor Day at the St. Paul fairgrounds, a yearly meeting of farm and city. [Rural and Greater Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/rural)
 - Friday, August 28: **March on Washington anniversary**. Anniversary of the August 28, 1963 March on Washington. [African American Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/african-american)
+- Saturday, August 29: **Colors of Southeast Asia Fest (COSA Fest)**. SEAD Project festival celebrating Hmong, Khmer, Lao and Vietnamese Minnesotans with performances, vendors and food. [Lao Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao)
 - Sunday, August 30: **Đại Lễ Vu Lan at Chùa Phật Ân**. A Roseville temple's day of honoring parents and ancestors. [Vietnamese Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/vietnamese)
 
 ## September 2026
@@ -236,6 +237,7 @@ A plain date has an opened source stating it. "About" means the day is not yet c
 - Saturday, October 24: **Hmong Arts Celebration at Mall of America**. An October afternoon of Hmong performance, dress, music and storytelling at Mall of America, in its second year. [Hmong Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/hmong)
 - Saturday, October 24: **Kojagori Lokhi Pujo**. Bengali worship of Lokhi on Kojagori Purnima. [Indian (Asian Indian) Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian)
 - Saturday, October 24: **Twin Cities JACL Chrysanthemum Banquet**. The Twin Cities JACL's fall banquet; in 2026 it celebrated the chapter's 80th year with guest Tamlyn Tomita. [Japanese Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/japanese)
+- Monday, October 26: **Boun Ok Phansa (end of Buddhist Lent)**. Ends the three-month rains retreat; families bring food and gifts to monks, and in Laos float lighted boats on rivers. [Lao Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao)
 - Saturday, October 31: **Sri Radha Kalyanam**. A Hindu ceremony held at the Maple Grove temple. [Indian (Asian Indian) Minnesota](https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/indian)
 
 ## November 2026
@@ -628,7 +630,6 @@ A plain date has an opened source stating it. "About" means the day is not yet c
 - **Buddhist New Year / Water Festival** (Karen Minnesota): Mid-April, per KOM; exact date not stated on any opened page.
 - **Novitiate Ceremony (Harris)** (Karen Minnesota): Announced by organizers; only the 2025 date was found. Whether it happens every year is not established.
 - **Boun Pha Vet (King Vessantara festival)** (Lao Minnesota): Set by each organizer; no fixed Minnesota date was found.
-- **Colors of Southeast Asia Fest (COSA Fest)** (Lao Minnesota): Announced each year by The SEAD Project; held in early June in 2025.
 - **Latine Day at the Capitol** (Latino Minnesota): Set each year by the Minnesota Council on Latino Affairs during session.
 - **Irreecha (traditional thanksgiving)** (Oromo Minnesota): A traditional date at the end of the rainy season, usually September or October. A religious leader traditionally announces it by watching the sky and lunar calendar, Teferi Tafa told Ampers. Minnesota dates are set by organizers and are listed as separate entries.
 - **Ramadan night prayers and community iftars** (Oromo Minnesota): Announced by each mosque and community group during Ramadan.

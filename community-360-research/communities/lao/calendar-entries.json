@@ -16,9 +16,9 @@
      "year": 2026,
      "date": "2026-04-14",
      "endDate": "2026-04-16",
-     "source": "Calculated (python-holidays, Laos module); no opened page states the 2026 dates",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Vientiane Times (official April 14 to 16 dates); Lao News Agency (KPL) reports celebrations launched April 14, 2026",
+     "sourceUrl": "https://vientianetimes.org.la/freefreenews/freecontent_043_Grand_Pi_Mai_y26.php",
+     "verified": true
     },
     {
      "year": 2027,
@@ -39,7 +39,7 @@
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "The start of the traditional Lao year.",
-   "howCelebratedInMinnesota": "Long hosted by Lao temples; in 2013 younger leaders brought more than 20 organizations together in Crystal for a community-wide celebration with a pageant (MPR News). In southwestern Minnesota, the Worthington temple community celebrated on a weekend after mid-April at the Brewster American Legion Hall, with free food and Lao music (2015). The United Senior Lao American Association sought a state grant for Lao New Year 2025. No 2026 announcement was found.",
+   "howCelebratedInMinnesota": "Long hosted by Lao temples; in 2013 younger leaders brought more than 20 organizations together in Crystal for a community-wide celebration with a pageant (MPR News). In southwestern Minnesota, the Worthington temple community celebrated on a weekend after mid-April at the Brewster American Legion Hall, with free food and Lao music (2015). The United Senior Lao American Association sought a state grant for Lao New Year 2025. No Minnesota announcement for 2026 was found; in Laos the 2026 holiday ran April 14 to 16.",
    "minnesotaEvents": [
     {
      "name": "Lao New Year celebration (second annual community-wide)",
@@ -71,6 +71,16 @@
     {
      "title": "Commemorate 50 Years of Southeast Asians in MN, FY25 Applicant List",
      "url": "https://www.mnhs.org/sites/default/files/2024-11/fy25-sea50-hrac-applicant-list.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Grand Pi Mai Lao celebrations set to light up six provinces",
+     "url": "https://vientianetimes.org.la/freefreenews/freecontent_043_Grand_Pi_Mai_y26.php",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Savannakhet Celebrates Lao New Year B.E. 2569 with Grand Festivities",
+     "url": "https://kpl.gov.la/detail.aspx?id=97793",
      "dateChecked": "2026-10-31"
     }
    ]
@@ -170,15 +180,15 @@
    ],
    "kind": "religious",
    "capsule": "Marks the Buddha's first sermon and the start of the three-month rains retreat for monks.",
-   "dateRule": "Full moon of the eighth lunar month, usually July; the rains retreat starts the next day.",
+   "dateRule": "Full moon of the eighth lunar month, usually July. In Laos, Boun Khao Phansa is observed on that full-moon day (Lao News Agency, 2026), which begins the three-month rains retreat; Thai calendars place the start of Lent on the following day.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-07-29",
      "endDate": null,
-     "source": "Calculated date carried from the seed calendar (python-holidays, Thailand module); not confirmed by an opened page",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Lao News Agency (KPL): Buddhists across Laos marked Boun Khao Phansa on July 29, 2026",
+     "sourceUrl": "https://kpl.gov.la/detail.aspx?id=102480",
+     "verified": true
     },
     {
      "year": 2027,
@@ -202,7 +212,68 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Buddhists Across Laos Mark Beginning of Buddhist Lent",
+     "url": "https://kpl.gov.la/detail.aspx?id=102480",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Boun Ok Phansa (end of Buddhist Lent)",
+   "alsoKnownAs": [
+    "Boun Ork Phansa",
+    "Ok Phansa",
+    "End of Buddhist Lent"
+   ],
+   "kind": "religious",
+   "capsule": "Ends the three-month rains retreat; families bring food and gifts to monks, and in Laos float lighted boats on rivers.",
+   "dateRule": "Full moon of the eleventh lunar month, usually October, three lunar months after Khao Phansa; announced in Laos each year. Robe-offering (kathin) ceremonies at temples follow in the weeks after.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-26",
+     "endDate": null,
+     "source": "The Star (Vientiane Times via ANN): Boun Ork Phansa falls on October 26 this year",
+     "sourceUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/buddhist-lent-ends-with-colourful-river-traditions-in-laos",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement yet",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement yet",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "The end of the monks' rains retreat (Buddhist Lent), after which monks may travel again; in Laos it is followed by boat races.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Buddhist Lent ends with colourful river traditions in Laos",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/buddhist-lent-ends-with-colourful-river-traditions-in-laos",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Buddhists Across Laos Mark Beginning of Buddhist Lent",
+     "url": "https://kpl.gov.la/detail.aspx?id=102480",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "seedId": null,
@@ -261,13 +332,13 @@
    ],
    "kind": "heritage",
    "capsule": "A month recognizing Lao American artists; a Minnesota governor issued a proclamation, and Lao exhibits have opened during it.",
-   "dateRule": "August, as implied by Sahtu Press describing an August 1 opening as 'during Lao American Artists Heritage Month'. The proclamation's text and year were not found.",
+   "dateRule": "August. Sahtu Press posted 'Lao American Artist Heritage Month 2024' on Aug. 30, 2024, calling it the 12th year the community observed the month, and described an Aug. 1 opening as during the month.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-08-01",
      "endDate": "2026-08-31",
-     "source": "Inferred from Sahtu Press (2024); not stated as a fixed rule on an opened page",
+     "source": "August observance described by Sahtu Press (2024); no 2026 proclamation opened",
      "sourceUrl": "https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41",
      "verified": false
     },
@@ -275,7 +346,7 @@
      "year": 2027,
      "date": "2027-08-01",
      "endDate": "2027-08-31",
-     "source": "Inferred from Sahtu Press (2024); not stated as a fixed rule on an opened page",
+     "source": "August observance described by Sahtu Press (2024); no 2026 proclamation opened",
      "sourceUrl": "https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41",
      "verified": false
     },
@@ -283,14 +354,14 @@
      "year": 2028,
      "date": "2028-08-01",
      "endDate": "2028-08-31",
-     "source": "Inferred from Sahtu Press (2024); not stated as a fixed rule on an opened page",
+     "source": "August observance described by Sahtu Press (2024); no 2026 proclamation opened",
      "sourceUrl": "https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41",
      "verified": false
     }
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Contributions of Lao American artists.",
-   "howCelebratedInMinnesota": "Former Gov. Mark Dayton issued a Lao Artists Heritage Month proclamation honoring playwright Saymoukda Duangphouxay Vongsay (University of Minnesota CCAPS, 2022). Laomerica 50 opened at Minneapolis Central Library on Aug. 1, 2024, during the month (Sahtu Press).",
+   "howCelebratedInMinnesota": "Former Gov. Mark Dayton issued a Lao Artists Heritage Month proclamation honoring playwright Saymoukda Duangphouxay Vongsay (University of Minnesota CCAPS, 2022). Laomerica 50 opened at Minneapolis Central Library on Aug. 1, 2024, during the month (Sahtu Press). Sahtu Press said in 2024 that the proclamation's wording changes from year to year.",
    "minnesotaEvents": [
     {
      "name": "Laomerica 50: Democracy and Diaspora exhibit",
@@ -311,6 +382,11 @@
      "title": "Jai Khang (Heart Hard)",
      "url": "https://ccaps.umn.edu/story/jai-khang-heart-hard",
      "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Lao American Artist Heritage Month 2024",
+     "url": "https://sahtu.press/articles/laoamartheritage24",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -320,15 +396,15 @@
    "alsoKnownAs": [],
    "kind": "community festival",
    "capsule": "SEAD Project festival celebrating Hmong, Khmer, Lao and Vietnamese Minnesotans with performances, vendors and food.",
-   "dateRule": "Announced each year by The SEAD Project; held in early June in 2025.",
+   "dateRule": "Announced each year by The SEAD Project with the cities of Brooklyn Park and Brooklyn Center; held June 7 in 2025 and August 29 in 2026.",
    "dates": [
     {
      "year": 2026,
-     "date": null,
+     "date": "2026-08-29",
      "endDate": null,
-     "source": "SEAD Project home page lists COSA Fest 2026 but no date could be opened",
-     "sourceUrl": "https://www.theseadproject.org/",
-     "verified": false
+     "source": "City of Brooklyn Park: Saturday, August 29, 2026, noon to 6 p.m., Mississippi Gateway Regional Park",
+     "sourceUrl": "https://www.brooklynpark.org/cosa-fest/",
+     "verified": true
     },
     {
      "year": 2027,
@@ -349,13 +425,20 @@
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Southeast Asian diaspora culture in Minnesota; the 2025 edition marked 50 years.",
-   "howCelebratedInMinnesota": "Held June 7, 2025, noon to 4 p.m., at Centennial Park, Brooklyn Center, with the theme 'Woven' (Hoodline). The 2026 theme is 'Rooted in Healing, Growing in Unity' (SEAD Project).",
+   "howCelebratedInMinnesota": "Held June 7, 2025, at Centennial Park, Brooklyn Center, with the theme 'Woven' (Hoodline). Set for Aug. 29, 2026, at Mississippi Gateway Regional Park, Brooklyn Park, with the theme 'Rooted in Healing, Growing in Unity' (City of Brooklyn Park; CCX Media).",
    "minnesotaEvents": [
     {
      "name": "COSA Fest 2025",
      "place": "Centennial Park, 6301 Shingle Creek Pkwy, Brooklyn Center",
      "link": "https://hoodline.com/2025/05/minnesota-marks-50th-anniversary-of-colors-of-southeast-asia-fest-with-woven-theme-in-brooklyn-center/",
      "organizerDates": "Saturday, June 7, 2025, 12 to 4 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "COSA Fest 2026",
+     "place": "Mississippi Gateway Regional Park, 10360 W River Rd, Brooklyn Park",
+     "link": "https://www.brooklynpark.org/cosa-fest/",
+     "organizerDates": "Saturday, Aug. 29, 2026, 12 to 6 p.m. (one family listing gave 12 to 4 p.m.)",
      "dateChecked": "2026-10-31"
     }
    ],
@@ -369,6 +452,16 @@
     {
      "title": "Minnesota marks 50th anniversary of Colors of Southeast Asia Fest",
      "url": "https://hoodline.com/2025/05/minnesota-marks-50th-anniversary-of-colors-of-southeast-asia-fest-with-woven-theme-in-brooklyn-center/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Colors of Southeast Asia Fest (COSA Fest)",
+     "url": "https://www.brooklynpark.org/cosa-fest/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "COSA Fest - Brooklyn Center and Brooklyn Park",
+     "url": "https://ccxmedia.org/event/cosa-fest-brooklyn-center-and-brooklyn-park/",
      "dateChecked": "2026-10-31"
     }
    ]
