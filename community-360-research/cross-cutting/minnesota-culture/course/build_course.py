@@ -253,8 +253,8 @@ def build():
         meta, body, has_note = module_html(src.read_text(encoding='utf-8'), n)
         mods.append((n, meta))
         support = '<aside class="support">%s</aside>' % SUPPORT if has_note else ''
-        prev_link = '<a href="module-%d.html">Back to Module %d</a>' % (n - 1, n - 1) if n > 1 else '<a href="index.html">Back to the course home</a>'
-        next_link = '<a href="module-%d.html">On to Module %d</a>' % (n + 1, n + 1) if n < 6 else '<a href="index.html">Back to the course home</a>'
+        prev_link = '<a href="module-%d.html">&larr; Module %d</a>' % (n - 1, n - 1) if n > 1 else '<a href="index.html">&larr; Course home</a>'
+        next_link = '<a href="module-%d.html">Module %d &rarr;</a>' % (n + 1, n + 1) if n < 6 else '<a href="index.html">Course home &rarr;</a>'
         content = '''<article class="module">
 <p class="kicker">Module %d of 6 &middot; About %s minutes</p>
 <h1>%s</h1>
