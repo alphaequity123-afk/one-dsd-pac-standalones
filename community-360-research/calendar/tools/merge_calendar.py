@@ -36,11 +36,28 @@ def norm_date(d):
                 sourceUrl=d.get('sourceUrl'), verified=bool(d.get('verified')))
 
 
+COMMERCIAL = ('calendarlabs.com', 'calendarific.com', 'officeholidays.com', 'qppstudio.net', 'timeanddate.com')
 checks = {}
-cp = CAL / 'tools' / 'date-checks.json'
+cp =CAL / 'tools' / 'date-checks.json'
 if cp.exists():
     for c in json.loads(cp.read_text(encoding='utf-8'))['checks']:
-        checks[(c['seedId'], c['year'])] = c
+        checks.setdefault((c['seedId'], c['year']), []).append(c)
+
+
+def apply_check(d, found, certainty):
+    """Official sources verify a date. Commercial calendar sites only add a note, and sources that disagree verify nothing."""
+    official = [c for c in found if not any(h in (c['sourceUrl'] or '') for h in COMMERCIAL)]
+    if certainty == 'moon-sighted or announced' or len({c['date'] for c in official}) != 1:
+        official = []
+    if official:
+        c = official[0]
+        d.update(date=c['date'], source=c['source'], sourceUrl=c['sourceUrl'], verified=True)
+        return
+    others = sorted({f"{c['source']} lists {c['date']}" for c in found})
+    if d['date'] is None and certainty != 'moon-sighted or announced' and len({c['date'] for c in found}) == 1:
+        d['date'] = found[0]['date']
+    d['source'] = '; '.join(filter(None, [d['source'], *others]))
+
 
 entries, seen = [], set()
 for cid in IDS:
@@ -66,10 +83,10 @@ for cid in IDS:
         seen.add(eid)
         dates = [norm_date(d) for d in r.get('dates', [])]
         for d in dates:
-            c = checks.get((r.get('seedId'), d['year']))
+            found = checks.get((r.get('seedId'), d['year']))
             # A check replaces a date only if the entry has not got its own organizer-verified date.
-            if c and not d['verified']:
-                d.update(date=c['date'], source=c['source'], sourceUrl=c['sourceUrl'], verified=True)
+            if found and not d['verified']:
+                apply_check(d, found, r.get('dateCertainty'))
         e = dict(r, id=eid, observanceKey=key, communities=[cid], dates=dates,
                  briefLinks=[dict(community=cid, title=TITLES.get(cid, cid), url=BRIEF + cid)],
                  profileLink=PROFILE.format(cid) if (ROOT / 'communities' / cid / 'profile.md').exists() else None,

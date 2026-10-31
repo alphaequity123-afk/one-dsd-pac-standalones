@@ -30,9 +30,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -86,9 +86,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -142,7 +142,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -1267,17 +1267,17 @@
      "year": 2027,
      "date": "2027-09-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-12",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-09-11",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-11",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -1322,17 +1322,17 @@
      "year": 2027,
      "date": "2027-09-28",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-28",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-09-27",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-27",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -1377,17 +1377,17 @@
      "year": 2027,
      "date": "2027-01-07",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-07",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-01-07",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-07",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -1432,17 +1432,17 @@
      "year": 2027,
      "date": "2027-01-19",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-19",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-01-20",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/ET",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-19; Calendarific (commercial, no official source found), Ethiopia holidays 2028 lists 2028-01-20",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -1478,25 +1478,25 @@
      "year": 2026,
      "date": "2026-04-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2026",
-     "verified": true
+     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026 lists 2026-04-12",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-05-02",
      "endDate": null,
-     "source": "Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027",
-     "sourceUrl": "https://www.qppstudio.net/publicholidays2027/ethiopia.htm",
-     "verified": true
+     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027 lists 2027-05-02",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-04-16",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-04-16",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -1530,25 +1530,25 @@
      "year": 2026,
      "date": "2026-03-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2026-03-02",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-03-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2027-03-02",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-03-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-03-02",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -1586,9 +1586,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -1642,9 +1642,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -1698,7 +1698,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -1753,9 +1753,9 @@
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -2076,9 +2076,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -2132,9 +2132,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -2188,7 +2188,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -2243,9 +2243,9 @@
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -2576,17 +2576,17 @@
      "year": 2027,
      "date": "2027-04-13",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2027 lists 2027-04-13",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-04-13",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028 lists 2028-04-13",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -2639,9 +2639,9 @@
      "year": 2028,
      "date": "2028-05-08",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-05-08",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -2683,17 +2683,17 @@
      "year": 2027,
      "date": "2027-02-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2028",
-     "verified": true
+     "source": "Fixed Gregorian date; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028 lists 2027-02-12",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-02-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2028",
-     "verified": true
+     "source": "Fixed Gregorian date; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028 lists 2028-02-12",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -2745,9 +2745,9 @@
      "year": 2028,
      "date": "2028-07-06",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/TH",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-07-07; Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028 lists 2028-07-06",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -4086,9 +4086,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -4142,9 +4142,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -4198,7 +4198,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -4316,17 +4316,17 @@
      "year": 2027,
      "date": "2027-09-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-12",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-09-11",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-11",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -4371,17 +4371,17 @@
      "year": 2027,
      "date": "2027-09-28",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-28",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-09-27",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-27",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -4426,17 +4426,17 @@
      "year": 2027,
      "date": "2027-01-07",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-07",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-01-07",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-07",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -4481,17 +4481,17 @@
      "year": 2027,
      "date": "2027-01-19",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-19",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-01-20",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/ET",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-19; Calendarific (commercial, no official source found), Ethiopia holidays 2028 lists 2028-01-20",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -4527,25 +4527,25 @@
      "year": 2026,
      "date": "2026-04-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2026",
-     "verified": true
+     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026 lists 2026-04-12",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-05-02",
      "endDate": null,
-     "source": "Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027",
-     "sourceUrl": "https://www.qppstudio.net/publicholidays2027/ethiopia.htm",
-     "verified": true
+     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027 lists 2027-05-02",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-04-16",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-04-16",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -4579,25 +4579,25 @@
      "year": 2026,
      "date": "2026-03-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2026-03-02",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-03-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2027-03-02",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-03-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-03-02",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -6886,9 +6886,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -6942,9 +6942,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -6998,7 +6998,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -7053,9 +7053,9 @@
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -7217,11 +7217,11 @@
     },
     {
      "year": 2027,
-     "date": "2027-03-23",
+     "date": "2027-03-22",
      "endDate": null,
-     "source": "Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews)",
-     "sourceUrl": "https://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted.html",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry; Drik Panchang (almanac site, not a government source), 2027 Holi, Rangwali Holi, Dhulandi date for New Delhi lists 2027-03-22; Government of India, DoP&T O.M. F.No.12/2/2023-JCA dated 16.07.2026, holidays for 2027 (Annexure I, as reproduced by StaffNews) lists 2027-03-23",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
@@ -7437,9 +7437,9 @@
      "year": 2028,
      "date": "2028-11-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), India holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/india/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, India module (country IN); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), India holidays 2028 lists 2028-11-02",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -7644,17 +7644,17 @@
      "year": 2027,
      "date": "2027-01-08",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2027 lists 2027-01-08",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-12-19",
+     "date": "2028-12-16",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found; marked provisional forecast), Myanmar holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/MM",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Myanmar module (country MM); first matching holiday entry; Calendarific (commercial, no official source found; marked provisional forecast), Myanmar holidays 2028 lists 2028-12-19",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -7752,17 +7752,17 @@
      "year": 2027,
      "date": "2027-02-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2028",
-     "verified": true
+     "source": "Fixed Gregorian date; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028 lists 2027-02-12",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-02-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/myanmar/2028",
-     "verified": true
+     "source": "Fixed Gregorian date; CalendarLabs (commercial calendar site, no official source found), Myanmar holidays 2028 lists 2028-02-12",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -7908,9 +7908,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -7964,9 +7964,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -8020,7 +8020,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -8075,9 +8075,9 @@
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -8462,17 +8462,17 @@
      "year": 2027,
      "date": "2027-04-14",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/cambodia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2027 lists 2027-04-14",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-04-14",
+     "date": "2028-04-13",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/KH",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry; Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028 lists 2028-04-14",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "announced each year",
@@ -8525,9 +8525,9 @@
      "year": 2028,
      "date": "2028-05-08",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-05-08",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -8631,9 +8631,9 @@
      "year": 2028,
      "date": "2028-09-17",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/KH",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Cambodia module (country KH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Cambodia holidays 2028 lists 2028-10-07; Calendarific (commercial, no official source found; dates marked provisional), Cambodia holidays 2028 lists 2028-09-17",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -8685,9 +8685,9 @@
      "year": 2028,
      "date": "2028-02-10",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-02-10",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -8739,9 +8739,9 @@
      "year": 2028,
      "date": "2028-07-06",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/TH",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-07-07; Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028 lists 2028-07-06",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -9114,17 +9114,17 @@
      "year": 2027,
      "date": "2027-04-14",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Laos holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/laos/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Laos module (country LA); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Laos holidays 2027 lists 2027-04-14",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-04-14",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found; dates marked provisional), Laos holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/la",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Laos module (country LA); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Laos holidays 2028 lists 2028-04-13; Calendarific (commercial, no official source found; dates marked provisional), Laos holidays 2028 lists 2028-04-14",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "announced each year",
@@ -9177,9 +9177,9 @@
      "year": 2028,
      "date": "2028-05-08",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-05-08",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -9283,9 +9283,9 @@
      "year": 2028,
      "date": "2028-02-10",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-02-10",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -9337,9 +9337,9 @@
      "year": 2028,
      "date": "2028-07-06",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/TH",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-07-07; Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028 lists 2028-07-06",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -10082,9 +10082,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -10138,9 +10138,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -10194,7 +10194,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -10249,9 +10249,9 @@
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -11977,9 +11977,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -12033,9 +12033,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -12089,7 +12089,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -12144,9 +12144,9 @@
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -12474,9 +12474,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -12530,9 +12530,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -12586,7 +12586,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -12641,9 +12641,9 @@
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -12759,17 +12759,17 @@
      "year": 2027,
      "date": "2027-09-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-09-12",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-09-11",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-09-11",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -12814,17 +12814,17 @@
      "year": 2027,
      "date": "2027-01-07",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-07",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-01-07",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-07",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -12869,17 +12869,17 @@
      "year": 2027,
      "date": "2027-01-19",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2027 lists 2027-01-19",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-01-20",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/ET",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-01-19; Calendarific (commercial, no official source found), Ethiopia holidays 2028 lists 2028-01-20",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -12915,25 +12915,25 @@
      "year": 2026,
      "date": "2026-04-12",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2026",
-     "verified": true
+     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2026 lists 2026-04-12",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-05-02",
      "endDate": null,
-     "source": "Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027",
-     "sourceUrl": "https://www.qppstudio.net/publicholidays2027/ethiopia.htm",
-     "verified": true
+     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; Q++ Studio Public Holidays (commercial, no official source found), Ethiopia September 2026 to August 2027 lists 2027-05-02",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-04-16",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated: Julian Easter computus converted to Gregorian (python-dateutil 2.9), Fasika; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-04-16",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -12967,25 +12967,25 @@
      "year": 2026,
      "date": "2026-03-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2026-03-02",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
      "date": "2027-03-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2027-03-02",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-03-02",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/ethiopia/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Ethiopia module (country ET); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Ethiopia holidays 2028 lists 2028-03-02",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -14215,9 +14215,9 @@
      "year": 2026,
      "date": "2026-02-18",
      "endDate": null,
-     "source": "Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration)",
-     "sourceUrl": "https://www.moroccoworldnews.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-tomorrow/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -14271,9 +14271,9 @@
      "year": 2026,
      "date": "2026-03-20",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -14327,7 +14327,7 @@
      "year": 2026,
      "date": "2026-05-27",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
      "sourceUrl": null,
      "verified": false
     },
@@ -14382,9 +14382,9 @@
      "year": 2026,
      "date": "2026-06-16",
      "endDate": null,
-     "source": "Fiqh Council of North America, Calendar",
-     "sourceUrl": "https://fiqhcouncil.org/calendar/",
-     "verified": true
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2027,
@@ -14665,9 +14665,9 @@
      "year": 2028,
      "date": "2028-04-13",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-04-13",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
@@ -14720,9 +14720,9 @@
      "year": 2028,
      "date": "2028-05-08",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-05-08",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -14772,9 +14772,9 @@
      "year": 2028,
      "date": "2028-08-12",
      "endDate": null,
-     "source": "Fixed Gregorian date",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+     "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf",
+     "verified": true
     }
    ],
    "dateCertainty": "fixed",
@@ -14824,9 +14824,9 @@
      "year": 2028,
      "date": "2028-12-05",
      "endDate": null,
-     "source": "Fixed Gregorian date",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+     "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf",
+     "verified": true
     }
    ],
    "dateCertainty": "fixed",
@@ -14878,9 +14878,9 @@
      "year": 2028,
      "date": "2028-02-10",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/thailand/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-02-10",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -14932,9 +14932,9 @@
      "year": 2028,
      "date": "2028-07-06",
      "endDate": null,
-     "source": "Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028",
-     "sourceUrl": "https://calendarific.com/holidays/2028/TH",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Thailand module (country TH); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Thailand holidays 2028 lists 2028-07-07; Calendarific (commercial, no official source found; dates marked provisional), Thailand holidays 2028 lists 2028-07-06",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -15409,17 +15409,17 @@
      "year": 2027,
      "date": "2027-02-06",
      "endDate": null,
-     "source": "OfficeHolidays (commercial, no official source opened that states these dates), National Holidays in Vietnam in 2027",
-     "sourceUrl": "https://www.officeholidays.com/countries/vietnam/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry; OfficeHolidays (commercial, no official source opened that states these dates), National Holidays in Vietnam in 2027 lists 2027-02-06",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-01-26",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Vietnam holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/vietnam/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Vietnam holidays 2028 lists 2028-01-26",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",
@@ -15573,17 +15573,17 @@
      "year": 2027,
      "date": "2027-04-16",
      "endDate": null,
-     "source": "OfficeHolidays (commercial, no official source opened that states these dates), National Holidays in Vietnam in 2027",
-     "sourceUrl": "https://www.officeholidays.com/countries/vietnam/2027",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry; OfficeHolidays (commercial, no official source opened that states these dates), National Holidays in Vietnam in 2027 lists 2027-04-16",
+     "sourceUrl": null,
+     "verified": false
     },
     {
      "year": 2028,
      "date": "2028-04-04",
      "endDate": null,
-     "source": "CalendarLabs (commercial calendar site, no official source found), Vietnam holidays 2028",
-     "sourceUrl": "https://www.calendarlabs.com/holidays/vietnam/2028",
-     "verified": true
+     "source": "Calculated with python-holidays 0.107, Vietnam module (country VN); first matching holiday entry; CalendarLabs (commercial calendar site, no official source found), Vietnam holidays 2028 lists 2028-04-04",
+     "sourceUrl": null,
+     "verified": false
     }
    ],
    "dateCertainty": "calculated",

@@ -2306,6 +2306,30 @@
    "source": "Novyny.LIVE (Ukrainian news site; no government page could be opened), День вишиванки 2026",
    "sourceUrl": "https://novyny.live/svyata/den-vishivanki-2026-koli-ta-iak-sviatkuiut-v-ukrayini-322903.html",
    "note": "Third Thursday of May"
+  },
+  {
+   "seedId": "eid-aladha",
+   "year": 2026,
+   "date": "2026-05-27",
+   "source": "Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA)",
+   "sourceUrl": "https://al-dirassa.com/en/eid-al-adha-2026-date-prayer-traditions",
+   "note": "States the United States date as confirmed, Wednesday 27 May 2026. FCNA calendar lists Dhul-Hijjah 1 as May 18, 2026. No post-event Minnesota report found."
+  },
+  {
+   "seedId": "thai-mothers-day",
+   "year": 2028,
+   "date": "2028-08-12",
+   "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+   "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf",
+   "note": "Fixed Gregorian date; notification names August 12 as Mother's Day in its 2027 list. No 2028 list exists yet."
+  },
+  {
+   "seedId": "thai-fathers-day",
+   "year": 2028,
+   "date": "2028-12-05",
+   "source": "Bank of Thailand, Notification No. 37/2569, Financial institutions holidays for B.E. 2570 (2027)",
+   "sourceUrl": "https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf",
+   "note": "Fixed Gregorian date; notification names December 5 as Father's Day in its 2027 list. No 2028 list exists yet."
   }
  ],
  "disagreements": [

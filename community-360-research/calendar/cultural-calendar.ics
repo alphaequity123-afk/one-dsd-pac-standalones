@@ -245,24 +245,6 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:start-of-ramadan-2026-02-18@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20260218
-DTEND;VALUE=DATE:20260219
-SUMMARY:Start of Ramadan
-DESCRIPTION:Start of the month of daytime fasting. Date: First day of the
-  ninth month of the Islamic (Hijri) lunar calendar. Source: Morocco World
-  News\, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (repor
- ts Fiqh Council of North America declaration) https://www.moroccoworldnew
- s.com/2026/02/279178/muslims-in-us-will-start-celebrating-ramadan-2026-to
- morrow/ Communities: African American Minnesota\, Arabic-speaking Minneso
- ta\, Bosnian Minnesota\, Ethiopian Minnesota\, Indian (Asian Indian) Minn
- esota\, Kenyan Minnesota\, Lebanese Minnesota\, Nigerian Minnesota\, Orom
- o Minnesota\, Somali Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:ash-wednesday-2026-02-18@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260218
@@ -329,20 +311,6 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:adwa-victory-day-2026-03-02@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20260302
-DTEND;VALUE=DATE:20260303
-SUMMARY:Adwa Victory Day
-DESCRIPTION:The 1896 Ethiopian victory at Adwa. Date: March 2 (Yekatit 23
- ). Source: CalendarLabs (commercial calendar site\, no official source fo
- und)\, Ethiopia holidays 2028 https://www.calendarlabs.com/holidays/ethio
- pia/2028 Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota\, 
- Oromo Minnesota
-CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:makha-bucha-2026-03-03@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20260303
@@ -383,21 +351,6 @@ DESCRIPTION:Feast of Saint Patrick. Date: March 17. Source: United States
   the USA 2027 https://www.usccb.org/resources/2027cal.pdf Communities: Am
  erican culture\, European American Minnesota
 CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:eid-alfitr-2026-03-20@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260321
-SUMMARY:Eid al-Fitr
-DESCRIPTION:End of Ramadan. Date: First day of the tenth Islamic month (S
- hawwal)\, after Ramadan ends. Source: Fiqh Council of North America\, Cal
- endar https://fiqhcouncil.org/calendar/ Communities: African American Min
- nesota\, Arabic-speaking Minnesota\, Bosnian Minnesota\, Ethiopian Minnes
- ota\, Indian (Asian Indian) Minnesota\, Kenyan Minnesota\, Lebanese Minne
- sota\, Nigerian Minnesota\, Oromo Minnesota\, Somali Minnesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -474,20 +427,6 @@ DESCRIPTION:Day for tending family graves and honoring ancestors. Date: S
  regorian-Lunar Calendar Conversion Table 2026 https://www.hko.gov.hk/en/g
  ts/time/calendar/text/files/T2026e.txt Communities: Chinese Minnesota
 CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fasika-2026-04-12@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-SUMMARY:Fasika
-DESCRIPTION:Easter in the Ethiopian Orthodox tradition. Date: Same date a
- s Eastern Orthodox Easter. Source: CalendarLabs (commercial calendar site
- \, no official source found)\, Ethiopia holidays 2026 https://www.calenda
- rlabs.com/holidays/ethiopia/2026 Communities: Amharic-speaking Minnesota\
- , Ethiopian Minnesota\, Oromo Minnesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -785,20 +724,6 @@ DESCRIPTION:The 1898 declaration of independence. Date: June 12. Source:
   2026\, via LawPhil https://lawphil.net/executive/proc/proc2025/proc_1006
  _2025.html Communities: Filipino Minnesota
 CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:islamic-new-year-2026-06-16@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-SUMMARY:Islamic New Year
-DESCRIPTION:Start of the Hijri year. Date: First day of the first Islamic
-  month (Muharram). Source: Fiqh Council of North America\, Calendar https
- ://fiqhcouncil.org/calendar/ Communities: Arabic-speaking Minnesota\, Bos
- nian Minnesota\, Indian (Asian Indian) Minnesota\, Kenyan Minnesota\, Leb
- anese Minnesota\, Nigerian Minnesota\, Oromo Minnesota\, Somali Minnesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1589,20 +1514,6 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:genna-2027-01-07@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270108
-SUMMARY:Genna
-DESCRIPTION:Christmas in the Ethiopian Orthodox Tewahedo Church. Date: Ta
- hsas 29 on the Ethiopian calendar\, usually January 7. Source: CalendarLa
- bs (commercial calendar site\, no official source found)\, Ethiopia holid
- ays 2027 https://www.calendarlabs.com/holidays/ethiopia/2027 Communities:
-  Amharic-speaking Minnesota\, Ethiopian Minnesota\, Oromo Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:orthodox-christmas-julian-calendar-2027-01-07@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270107
@@ -1616,20 +1527,6 @@ DESCRIPTION:Christmas for churches on the Julian calendar. Date: December
  ons_doc_LAW_34683/98ef2900507766e70ff29c0b9d8e2353ea80a1cf/ Communities: 
  Bosnian Minnesota\, Russian-speaking Minnesota\, Ukrainian Minnesota
 CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:karen-new-year-2027-01-08@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270108
-DTEND;VALUE=DATE:20270109
-SUMMARY:Karen New Year
-DESCRIPTION:Karen new year. Date: First day of the Karen month of Thalay 
- (Pyatho waxing moon)\, usually in late December or January. Source: Calen
- darLabs (commercial calendar site\, no official source found)\, Myanmar h
- olidays 2027 https://www.calendarlabs.com/holidays/myanmar/2027 Communiti
- es: Karen Minnesota
-CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1671,21 +1568,6 @@ DESCRIPTION:Life and work of Dr. Martin Luther King Jr. Date: Third Monda
   Communities: African American Minnesota\, American culture\, Minnesota c
  ulture
 CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:timkat-2027-01-19@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
-SUMMARY:Timkat
-DESCRIPTION:Baptism of Jesus in the Ethiopian Orthodox tradition. Date: T
- ir 11 on the Ethiopian calendar\, usually January 19 (January 20 in some 
- years). Source: CalendarLabs (commercial calendar site\, no official sour
- ce found)\, Ethiopia holidays 2027 https://www.calendarlabs.com/holidays/
- ethiopia/2027 Communities: Amharic-speaking Minnesota\, Ethiopian Minneso
- ta\, Oromo Minnesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1732,21 +1614,6 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tết-nguyên-đán-2027-02-06@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-SUMMARY:Tết Nguyên Đán
-DESCRIPTION:Start of the lunisolar year. Date: First day of the first mon
- th of the Vietnamese lunisolar calendar (usually the same day as Chinese 
- New Year\; rare one-day differences come from the time zone used). Source
- : OfficeHolidays (commercial\, no official source opened that states thes
- e dates)\, National Holidays in Vietnam in 2027 https://www.officeholiday
- s.com/countries/vietnam/2027 Communities: Vietnamese Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:seollal-2027-02-07@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270207
@@ -1772,19 +1639,6 @@ DESCRIPTION:Start of Lent. Date: 46 days before Western Easter. Source: U
  munities: European American Minnesota\, Filipino Minnesota\, Guatemalan M
  innesota\, Latino Minnesota\, Mexican Minnesota\, Salvadoran Minnesota
 CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:union-day-myanmar-2027-02-12@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270213
-SUMMARY:Union Day (Myanmar)
-DESCRIPTION:The 1947 Panglong Agreement. Date: February 12. Source: Calen
- darLabs (commercial calendar site\, no official source found)\, Myanmar h
- olidays 2028 https://www.calendarlabs.com/holidays/myanmar/2028 Communiti
- es: Burmese Minnesota\, Karen Minnesota
-CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1855,20 +1709,6 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:adwa-victory-day-2027-03-02@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270303
-SUMMARY:Adwa Victory Day
-DESCRIPTION:The 1896 Ethiopian victory at Adwa. Date: March 2 (Yekatit 23
- ). Source: CalendarLabs (commercial calendar site\, no official source fo
- und)\, Ethiopia holidays 2028 https://www.calendarlabs.com/holidays/ethio
- pia/2028 Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota\, 
- Oromo Minnesota
-CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:st-patricks-day-2027-03-17@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270317
@@ -1879,21 +1719,6 @@ DESCRIPTION:Feast of Saint Patrick. Date: March 17. Source: United States
   the USA 2027 https://www.usccb.org/resources/2027cal.pdf Communities: Am
  erican culture\, European American Minnesota
 CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:holi-2027-03-23@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270324
-SUMMARY:Holi
-DESCRIPTION:Spring festival of colors. Date: Day after the full moon of t
- he Hindu month Phalguna\, usually March. Source: Government of India\, Do
- P&T O.M. F.No.12/2/2023-JCA dated 16.07.2026\, holidays for 2027 (Annexur
- e I\, as reproduced by StaffNews) https://www.staffnews.in/2026/07/list-o
- f-holidays-for-the-year-2027-gazetted.html Communities: Indian (Asian Ind
- ian) Minnesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1973,19 +1798,6 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:thingyan-2027-04-13@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270414
-SUMMARY:Thingyan
-DESCRIPTION:Traditional Burmese new year. Date: Mid-April\, calculated fr
- om the traditional Myanmar calendar. Source: CalendarLabs (commercial cal
- endar site\, no official source found)\, Myanmar holidays 2027 https://ww
- w.calendarlabs.com/holidays/myanmar/2027 Communities: Burmese Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:songkran-2027-04-13@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270413
@@ -1996,47 +1808,6 @@ DESCRIPTION:Traditional Thai new year. Date: April 13 to 15 as set by the
   Notification No. 37/2569\, Financial institutions holidays for B.E. 2570
   (2027) https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/En
  gPDF/25690175.pdf Communities: Thai Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:choul-chnam-thmey-2027-04-14@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
-SUMMARY:Choul Chnam Thmey
-DESCRIPTION:Traditional Khmer new year. Date: Mid-April\, usually April 1
- 3 or 14 to 16\, set each year by the Cambodian government from the tradit
- ional astronomical calendar. Source: CalendarLabs (commercial calendar si
- te\, no official source found)\, Cambodia holidays 2027 https://www.calen
- darlabs.com/holidays/cambodia/2027 Communities: Cambodian Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pi-mai-lao-2027-04-14@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
-SUMMARY:Pi Mai Lao
-DESCRIPTION:Traditional Lao new year. Date: Mid-April\, usually April 14 
- to 16 as set by the Lao government. Source: CalendarLabs (commercial cale
- ndar site\, no official source found)\, Laos holidays 2027 https://www.ca
- lendarlabs.com/holidays/laos/2027 Communities: Lao Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:hùng-kings-commemoration-2027-04-16@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
-SUMMARY:Hùng Kings Commemoration
-DESCRIPTION:Commemoration of the legendary founding kings. Date: Tenth da
- y of the third lunar month. Source: OfficeHolidays (commercial\, no offic
- ial source opened that states these dates)\, National Holidays in Vietnam
-  in 2027 https://www.officeholidays.com/countries/vietnam/2027 Communitie
- s: Vietnamese Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2065,20 +1836,6 @@ DESCRIPTION:April 30\, 1975\, the end of the Republic of Vietnam\; grief
  1969-1973 https://history.state.gov/milestones/1969-1976/ending-vietnam C
  ommunities: Vietnamese Minnesota
 CATEGORIES:remembrance
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fasika-2027-05-02@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270502
-DTEND;VALUE=DATE:20270503
-SUMMARY:Fasika
-DESCRIPTION:Easter in the Ethiopian Orthodox tradition. Date: Same date a
- s Eastern Orthodox Easter. Source: Q++ Studio Public Holidays (commercial
- \, no official source found)\, Ethiopia September 2026 to August 2027 htt
- ps://www.qppstudio.net/publicholidays2027/ethiopia.htm Communities: Amhar
- ic-speaking Minnesota\, Ethiopian Minnesota\, Oromo Minnesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2468,21 +2225,6 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:enkutatash-2027-09-12@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270912
-DTEND;VALUE=DATE:20270913
-SUMMARY:Enkutatash
-DESCRIPTION:Start of the Ethiopian year. Date: Meskerem 1 on the Ethiopia
- n calendar: September 11\, or September 12 in the Gregorian year before a
-  Gregorian leap year. Source: CalendarLabs (commercial calendar site\, no
-  official source found)\, Ethiopia holidays 2027 https://www.calendarlabs
- .com/holidays/ethiopia/2027 Communities: Amharic-speaking Minnesota\, Eth
- iopian Minnesota\, Oromo Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:midautumn-festival-2027-09-15@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20270915
@@ -2565,21 +2307,6 @@ DESCRIPTION:United Nations day for sign languages. Date: September 23. So
  .org/en/observances/sign-languages-day Communities: Deaf\, DeafBlind and 
  Hard of Hearing Minnesotans
 CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:meskel-2027-09-28@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20270928
-DTEND;VALUE=DATE:20270929
-SUMMARY:Meskel
-DESCRIPTION:Ethiopian Orthodox feast of the finding of the True Cross. Da
- te: Meskerem 17 on the Ethiopian calendar: September 27\, or September 28
-  in leap-adjacent years. Source: CalendarLabs (commercial calendar site\,
-  no official source found)\, Ethiopia holidays 2027 https://www.calendarl
- abs.com/holidays/ethiopia/2027 Communities: Amharic-speaking Minnesota\, 
- Ethiopian Minnesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2936,20 +2663,6 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:genna-2028-01-07@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280107
-DTEND;VALUE=DATE:20280108
-SUMMARY:Genna
-DESCRIPTION:Christmas in the Ethiopian Orthodox Tewahedo Church. Date: Ta
- hsas 29 on the Ethiopian calendar\, usually January 7. Source: CalendarLa
- bs (commercial calendar site\, no official source found)\, Ethiopia holid
- ays 2028 https://www.calendarlabs.com/holidays/ethiopia/2028 Communities:
-  Amharic-speaking Minnesota\, Ethiopian Minnesota\, Oromo Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:orthodox-christmas-julian-calendar-2028-01-07@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280107
@@ -3007,20 +2720,6 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:timkat-2028-01-20@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280120
-DTEND;VALUE=DATE:20280121
-SUMMARY:Timkat
-DESCRIPTION:Baptism of Jesus in the Ethiopian Orthodox tradition. Date: T
- ir 11 on the Ethiopian calendar\, usually January 19 (January 20 in some 
- years). Source: Calendarific (commercial\, no official source found)\, Et
- hiopia holidays 2028 https://calendarific.com/holidays/2028/ET Communitie
- s: Amharic-speaking Minnesota\, Ethiopian Minnesota\, Oromo Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:lunar-new-year-2028-01-26@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280126
@@ -3046,21 +2745,6 @@ DESCRIPTION:Adoption of the Constitution of India in 1950. Date: January
  ps://www.staffnews.in/2026/07/list-of-holidays-for-the-year-2027-gazetted
  .html Communities: Indian (Asian Indian) Minnesota
 CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:tết-nguyên-đán-2028-01-26@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280126
-DTEND;VALUE=DATE:20280127
-SUMMARY:Tết Nguyên Đán
-DESCRIPTION:Start of the lunisolar year. Date: First day of the first mon
- th of the Vietnamese lunisolar calendar (usually the same day as Chinese 
- New Year\; rare one-day differences come from the time zone used). Source
- : CalendarLabs (commercial calendar site\, no official source found)\, Vi
- etnam holidays 2028 https://www.calendarlabs.com/holidays/vietnam/2028 Co
- mmunities: Vietnamese Minnesota
-CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3090,33 +2774,6 @@ DESCRIPTION:Month of Black history\, February. Date: February 1. Source:
  n-history-month-2016 Communities: African American Minnesota\, American c
  ulture\, Minnesota culture
 CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:makha-bucha-2028-02-10@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280210
-DTEND;VALUE=DATE:20280211
-SUMMARY:Makha Bucha
-DESCRIPTION:A Theravada Buddhist holy day. Date: Full moon of the third l
- unar month\, usually February or March. Source: CalendarLabs (commercial 
- calendar site\, no official source found)\, Thailand holidays 2028 https:
- //www.calendarlabs.com/holidays/thailand/2028 Communities: Cambodian Minn
- esota\, Lao Minnesota\, Thai Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:union-day-myanmar-2028-02-12@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280212
-DTEND;VALUE=DATE:20280213
-SUMMARY:Union Day (Myanmar)
-DESCRIPTION:The 1947 Panglong Agreement. Date: February 12. Source: Calen
- darLabs (commercial calendar site\, no official source found)\, Myanmar h
- olidays 2028 https://www.calendarlabs.com/holidays/myanmar/2028 Communiti
- es: Burmese Minnesota\, Karen Minnesota
-CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3183,20 +2840,6 @@ DESCRIPTION:The 1919 March First Movement. Date: March 1. Source: Republi
  c of Korea\, Ministry of Personnel Management\, Public Holiday System htt
  ps://www.mpm.go.kr/english/system/infoService/bizService03/ Communities: 
  Korean Minnesota
-CATEGORIES:national
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:adwa-victory-day-2028-03-02@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280302
-DTEND;VALUE=DATE:20280303
-SUMMARY:Adwa Victory Day
-DESCRIPTION:The 1896 Ethiopian victory at Adwa. Date: March 2 (Yekatit 23
- ). Source: CalendarLabs (commercial calendar site\, no official source fo
- und)\, Ethiopia holidays 2028 https://www.calendarlabs.com/holidays/ethio
- pia/2028 Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota\, 
- Oromo Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3268,46 +2911,6 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:hùng-kings-commemoration-2028-04-04@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280404
-DTEND;VALUE=DATE:20280405
-SUMMARY:Hùng Kings Commemoration
-DESCRIPTION:Commemoration of the legendary founding kings. Date: Tenth da
- y of the third lunar month. Source: CalendarLabs (commercial calendar sit
- e\, no official source found)\, Vietnam holidays 2028 https://www.calenda
- rlabs.com/holidays/vietnam/2028 Communities: Vietnamese Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:thingyan-2028-04-13@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280413
-DTEND;VALUE=DATE:20280414
-SUMMARY:Thingyan
-DESCRIPTION:Traditional Burmese new year. Date: Mid-April\, calculated fr
- om the traditional Myanmar calendar. Source: CalendarLabs (commercial cal
- endar site\, no official source found)\, Myanmar holidays 2028 https://ww
- w.calendarlabs.com/holidays/myanmar/2028 Communities: Burmese Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:songkran-2028-04-13@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280413
-DTEND;VALUE=DATE:20280414
-SUMMARY:Songkran
-DESCRIPTION:Traditional Thai new year. Date: April 13 to 15 as set by the
-  Thai government (traditional solar new year). Source: CalendarLabs (comm
- ercial calendar site\, no official source found)\, Thailand holidays 2028
-  https://www.calendarlabs.com/holidays/thailand/2028 Communities: Thai Mi
- nnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:good-friday-2028-04-14@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280414
@@ -3322,33 +2925,6 @@ DESCRIPTION:The crucifixion of Jesus. Date: The Friday before Western Eas
   Minnesota\, Mexican Minnesota\, Nigerian Minnesota\, Puerto Rican Minnes
  ota\, Salvadoran Minnesota
 CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:choul-chnam-thmey-2028-04-14@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280414
-DTEND;VALUE=DATE:20280415
-SUMMARY:Choul Chnam Thmey
-DESCRIPTION:Traditional Khmer new year. Date: Mid-April\, usually April 1
- 3 or 14 to 16\, set each year by the Cambodian government from the tradit
- ional astronomical calendar. Source: Calendarific (commercial\, no offici
- al source found\; dates marked provisional)\, Cambodia holidays 2028 http
- s://calendarific.com/holidays/2028/KH Communities: Cambodian Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:pi-mai-lao-2028-04-14@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280414
-DTEND;VALUE=DATE:20280415
-SUMMARY:Pi Mai Lao
-DESCRIPTION:Traditional Lao new year. Date: Mid-April\, usually April 14 
- to 16 as set by the Lao government. Source: Calendarific (commercial\, no
-  official source found\; dates marked provisional)\, Laos holidays 2028 h
- ttps://calendarific.com/holidays/2028/la Communities: Lao Minnesota
-CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3369,20 +2945,6 @@ DESCRIPTION:Resurrection of Jesus in Western Christian tradition. Date: F
  sota\, Liberian Minnesota\, Mexican Minnesota\, Minnesota culture\, Niger
  ian Minnesota\, Puerto Rican Minnesota\, Salvadoran Minnesota\, Ukrainian
   Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:fasika-2028-04-16@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280416
-DTEND;VALUE=DATE:20280417
-SUMMARY:Fasika
-DESCRIPTION:Easter in the Ethiopian Orthodox tradition. Date: Same date a
- s Eastern Orthodox Easter. Source: CalendarLabs (commercial calendar site
- \, no official source found)\, Ethiopia holidays 2028 https://www.calenda
- rlabs.com/holidays/ethiopia/2028 Communities: Amharic-speaking Minnesota\
- , Ethiopian Minnesota\, Oromo Minnesota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3427,22 +2989,6 @@ DESCRIPTION:April 30\, 1975\, the end of the Republic of Vietnam\; grief
  1969-1973 https://history.state.gov/milestones/1969-1976/ending-vietnam C
  ommunities: Vietnamese Minnesota
 CATEGORIES:remembrance
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:visakha-bucha-2028-05-08@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280508
-DTEND;VALUE=DATE:20280509
-SUMMARY:Visakha Bucha
-DESCRIPTION:Birth\, enlightenment and death of the Buddha in Theravada tr
- adition. Date: Full moon of the sixth lunar month in the Thai and Cambodi
- an calendars\, usually in May\; temples may choose a nearby weekend. Sour
- ce: CalendarLabs (commercial calendar site\, no official source found)\, 
- Thailand holidays 2028 https://www.calendarlabs.com/holidays/thailand/202
- 8 Communities: Burmese Minnesota\, Cambodian Minnesota\, Lao Minnesota\, 
- Thai Minnesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3638,21 +3184,6 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:asanha-bucha-and-start-of-buddhist-lent-2028-07-06@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280706
-DTEND;VALUE=DATE:20280707
-SUMMARY:Asanha Bucha and start of Buddhist Lent
-DESCRIPTION:The Buddha's first sermon\, and the start of the three-month 
- rains retreat. Date: Full moon of the eighth lunar month\, usually July\;
-  the rains retreat starts the next day. Source: Calendarific (commercial\
- , no official source found\; dates marked provisional)\, Thailand holiday
- s 2028 https://calendarific.com/holidays/2028/TH Communities: Burmese Min
- nesota\, Cambodian Minnesota\, Lao Minnesota\, Thai Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:srebrenica-genocide-memorial-day-2028-07-11@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280711
@@ -3732,6 +3263,20 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:thai-mothers-day-2028-08-12@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20280812
+DTEND;VALUE=DATE:20280813
+SUMMARY:Thai Mother's Day
+DESCRIPTION:Birthday of Queen Mother Sirikit\, kept as Mother's Day in Th
+ ailand. Date: August 12. Source: Bank of Thailand\, Notification No. 37/2
+ 569\, Financial institutions holidays for B.E. 2570 (2027) https://www.bo
+ t.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf Comm
+ unities: Thai Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:independence-day-india-2028-08-15@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280815
@@ -3785,21 +3330,6 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:enkutatash-2028-09-11@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280911
-DTEND;VALUE=DATE:20280912
-SUMMARY:Enkutatash
-DESCRIPTION:Start of the Ethiopian year. Date: Meskerem 1 on the Ethiopia
- n calendar: September 11\, or September 12 in the Gregorian year before a
-  Gregorian leap year. Source: CalendarLabs (commercial calendar site\, no
-  official source found)\, Ethiopia holidays 2028 https://www.calendarlabs
- .com/holidays/ethiopia/2028 Communities: Amharic-speaking Minnesota\, Eth
- iopian Minnesota\, Oromo Minnesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:hispanic-heritage-month-begins-2028-09-15@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280915
@@ -3844,20 +3374,6 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:pchum-ben-2028-09-17@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280917
-DTEND;VALUE=DATE:20280918
-SUMMARY:Pchum Ben
-DESCRIPTION:The fortnight when families make offerings for the dead. Date
- : Last of fifteen days at the end of the Khmer lunar month Photrobot\, us
- ually September or October. Source: Calendarific (commercial\, no officia
- l source found\; dates marked provisional)\, Cambodia holidays 2028 https
- ://calendarific.com/holidays/2028/KH Communities: Cambodian Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:international-day-of-sign-languages-2028-09-23@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20280923
@@ -3868,21 +3384,6 @@ DESCRIPTION:United Nations day for sign languages. Date: September 23. So
  .org/en/observances/sign-languages-day Communities: Deaf\, DeafBlind and 
  Hard of Hearing Minnesotans
 CATEGORIES:heritage
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:meskel-2028-09-27@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20280927
-DTEND;VALUE=DATE:20280928
-SUMMARY:Meskel
-DESCRIPTION:Ethiopian Orthodox feast of the finding of the True Cross. Da
- te: Meskerem 17 on the Ethiopian calendar: September 27\, or September 28
-  in leap-adjacent years. Source: CalendarLabs (commercial calendar site\,
-  no official source found)\, Ethiopia holidays 2028 https://www.calendarl
- abs.com/holidays/ethiopia/2028 Communities: Amharic-speaking Minnesota\, 
- Ethiopian Minnesota
-CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3999,20 +3500,6 @@ CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:guru-nanak-gurpurab-2028-11-02@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20281102
-DTEND;VALUE=DATE:20281103
-SUMMARY:Guru Nanak Gurpurab
-DESCRIPTION:Birth of Guru Nanak\, founder of Sikhism. Date: Full moon of 
- the Hindu month Kartika\, usually November. Source: CalendarLabs (commerc
- ial calendar site\, no official source found)\, India holidays 2028 https
- ://www.calendarlabs.com/holidays/india/2028 Communities: Indian (Asian In
- dian) Minnesota
-CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:discovery-of-puerto-rico-day-2028-11-19@community-360-research
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20281119
@@ -4063,6 +3550,20 @@ DESCRIPTION:Founding of the Lao PDR in 1975. Date: December 2. Source: Vi
  entiane Times\, report on the Prime Minister's Office list of 2026 public
   holidays https://www.vientianetimes.org.la/freefreenews/freecontent_251_
  Dates_y25.php Communities: Lao Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:thai-fathers-day-2028-12-05@community-360-research
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20281205
+DTEND;VALUE=DATE:20281206
+SUMMARY:Thai Father's Day
+DESCRIPTION:Birthday of King Bhumibol\, kept as Father's Day in Thailand.
+  Date: December 5. Source: Bank of Thailand\, Notification No. 37/2569\, 
+ Financial institutions holidays for B.E. 2570 (2027) https://www.bot.or.t
+ h/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf Communitie
+ s: Thai Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4118,20 +3619,6 @@ DESCRIPTION:Nine nights (December 16 to 24) re-enacting Mary and Joseph's
  ic.cultura.gob.mx/ficha.php?table=festividad&table_id=115 Communities: Gu
  atemalan Minnesota\, Latino Minnesota\, Mexican Minnesota
 CATEGORIES:religious
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:karen-new-year-2028-12-19@community-360-research
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20281219
-DTEND;VALUE=DATE:20281220
-SUMMARY:Karen New Year
-DESCRIPTION:Karen new year. Date: First day of the Karen month of Thalay 
- (Pyatho waxing moon)\, usually in late December or January. Source: Calen
- darific (commercial\, no official source found\; marked provisional forec
- ast)\, Myanmar holidays 2028 https://calendarific.com/holidays/2028/MM Co
- mmunities: Karen Minnesota
-CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
