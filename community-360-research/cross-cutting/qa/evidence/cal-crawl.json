@@ -1,0 +1,122 @@
+[
+ {
+  "path": "/",
+  "status": 200,
+  "ms": 1399,
+  "title": "Minnesota Cultural Calendar",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 0,
+  "error": null,
+  "h1": "Minnesota Cultural Calendar"
+ },
+ {
+  "path": "/course/",
+  "status": 200,
+  "ms": 1479,
+  "title": "The Water We Swim In",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 16,
+  "error": null,
+  "h1": "The Water We Swim In"
+ },
+ {
+  "path": "/course/essay.html",
+  "status": 200,
+  "ms": 983,
+  "title": "The Water We Swim In: the essay",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 292,
+  "error": null,
+  "h1": "The Water We Swim In"
+ },
+ {
+  "path": "/course/index.html",
+  "status": 200,
+  "ms": 792,
+  "title": "The Water We Swim In",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 16,
+  "error": null,
+  "h1": "The Water We Swim In"
+ },
+ {
+  "path": "/course/module-1.html",
+  "status": 200,
+  "ms": 785,
+  "title": "Module 1: The water we swim in",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 36,
+  "error": null,
+  "h1": "The water we swim in"
+ },
+ {
+  "path": "/course/module-2.html",
+  "status": 200,
+  "ms": 775,
+  "title": "Module 2: Minnesota nice, decoded",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 43,
+  "error": null,
+  "h1": "Minnesota nice, decoded"
+ },
+ {
+  "path": "/course/module-3.html",
+  "status": 200,
+  "ms": 765,
+  "title": "Module 3: Where it comes from",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 46,
+  "error": null,
+  "h1": "Where it comes from"
+ },
+ {
+  "path": "/course/module-4.html",
+  "status": 200,
+  "ms": 829,
+  "title": "Module 4: Seen from the other side",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 50,
+  "error": null,
+  "h1": "Seen from the other side"
+ },
+ {
+  "path": "/course/module-5.html",
+  "status": 200,
+  "ms": 747,
+  "title": "Module 5: Culture in the system we run",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 42,
+  "error": null,
+  "h1": "Culture in the system we run"
+ },
+ {
+  "path": "/course/module-6.html",
+  "status": 200,
+  "ms": 745,
+  "title": "Module 6: Seeing across difference",
+  "consoleErrors": [],
+  "failedRequests": [],
+  "brokenImages": [],
+  "links": 42,
+  "error": null,
+  "h1": "Seeing across difference"
+ }
+]

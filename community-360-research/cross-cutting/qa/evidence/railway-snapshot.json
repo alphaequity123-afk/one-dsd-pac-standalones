@@ -1,0 +1,93 @@
+{
+ "project": {
+  "name": "one-dhs-dsd-pac",
+  "id": "93b7e865-8bf8-4d6c-b6ed-77f3fea181ad",
+  "environment": "production"
+ },
+ "services": [
+  {
+   "name": "one-dsd-people-access-culture",
+   "role": "main app",
+   "source": "none connected (deployed by direct upload)",
+   "domain": "one-dsd-people-access-culture-production.up.railway.app",
+   "latestDeployment": "2026-10-31T00:59:57Z SUCCESS",
+   "failedDeploymentsLast7Days": 12,
+   "volumeGB": 50,
+   "variableCount": 57,
+   "healthcheck": "/ (300 s timeout)",
+   "startCommand": "node scripts/verify-clone-agent-pilot.mjs && npm run start"
+  },
+  {
+   "name": "cultural-calendar",
+   "role": "calendar site and course",
+   "source": "GitHub alphaequity123-afk/one-dsd-pac-standalones, branch community-360-research, root /community-360-research/calendar",
+   "domain": "cultural-calendar-production.up.railway.app",
+   "latestDeployment": "2026-10-31T06:06:45Z SUCCESS (triggered by reconnecting the source)"
+  },
+  {
+   "name": "Postgres",
+   "role": "database",
+   "image": "ghcr.io/railwayapp-templates/postgres-ssl:18",
+   "latestDeployment": "2026-10-05 SUCCESS",
+   "volumeGB": 50,
+   "errorsSince2026-10-25": 0,
+   "errorsOn2026-10-24": [
+    "password authentication failed for user postgres (x4)",
+    "relation pac.runtime_rate_limits does not exist"
+   ]
+  },
+  {
+   "name": "pac-daily-orchestrator",
+   "role": "scheduled orchestration",
+   "source": "image node:24-alpine",
+   "startCommand": "node -e \"console.log('Scheduled orchestration disabled')\"",
+   "note": "does nothing; orchestration is switched off"
+  },
+  {
+   "name": "one-dhs-pac-clone",
+   "role": "older copy",
+   "responds": "200, full copy of the app",
+   "volumeGB": 50
+  },
+  {
+   "name": "one-dhs-dsd-restored",
+   "role": "older copy",
+   "responds": "200",
+   "source": "GitHub Gary-design63/one-dsd-web",
+   "volumeGB": 50
+  },
+  {
+   "name": "one-dsd-prototype",
+   "role": "older copy",
+   "responds": "200"
+  },
+  {
+   "name": "one-dhs-dsd-demo",
+   "role": "older copy",
+   "responds": "200"
+  }
+ ],
+ "mainAppMetrics7Days": {
+  "requests": 51738,
+  "serverErrors": 35,
+  "serverErrorRate": "0.07%",
+  "clientErrors": 466,
+  "pageLatencyMs": {
+   "typicalP50": "13-29",
+   "p99": "up to 163"
+  },
+  "voiceWorkerLongPollMs": 15130,
+  "memoryGB": {
+   "average": 0.88,
+   "max": 2.99,
+   "limit": 24
+  },
+  "cpuAverage": 0.002,
+  "diskGB": 0.8
+ },
+ "webhooks": [],
+ "repositoryCollaborators": [
+  "alphaequity123-afk (admin)"
+ ],
+ "autodeployDiagnosis": "No skipped, waiting or approval-pending deployments exist for cultural-calendar; pushes never reach Railway. Railway documentation: autodeploy works only when a project member has a connected GitHub account with contributor access to the repository. The Railway project's connected GitHub identity appears to be Gary-design63 (source of one-dhs-dsd-restored), which is not a collaborator on alphaequity123-afk/one-dsd-pac-standalones."
+}

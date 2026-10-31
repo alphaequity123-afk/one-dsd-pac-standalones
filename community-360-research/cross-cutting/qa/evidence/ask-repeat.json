@@ -1,0 +1,52 @@
+[
+ {
+  "q": "What does the Disability Services Division do?",
+  "ms": 153947,
+  "answered": false,
+  "postStatuses": [
+   502
+  ],
+  "firstPostMs": 33268,
+  "errText": "We couldn't finish that answer just now"
+ },
+ {
+  "q": "How should I prepare for a meeting with a family who uses an interpreter?",
+  "ms": 24220,
+  "answered": true,
+  "postStatuses": [
+   200
+  ],
+  "firstPostMs": 19906,
+  "errText": ""
+ },
+ {
+  "q": "What is the Olmstead plan in one paragraph?",
+  "ms": 27247,
+  "answered": true,
+  "postStatuses": [
+   200
+  ],
+  "firstPostMs": 22557,
+  "errText": ""
+ },
+ {
+  "q": "Where can I find the cultural calendar?",
+  "ms": 30214,
+  "answered": true,
+  "postStatuses": [
+   200
+  ],
+  "firstPostMs": 25855,
+  "errText": ""
+ },
+ {
+  "q": "What is cultural humility?",
+  "ms": 36223,
+  "answered": true,
+  "postStatuses": [
+   200
+  ],
+  "firstPostMs": 31532,
+  "errText": ""
+ }
+]

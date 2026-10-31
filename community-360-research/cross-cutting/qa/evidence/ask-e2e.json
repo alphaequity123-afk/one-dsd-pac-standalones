@@ -1,0 +1,68 @@
+{
+ "steps": [
+  {
+   "name": "open",
+   "title": "Ask | One DSD People, Access and Culture"
+  },
+  {
+   "name": "question1",
+   "q": "In plain words, what is person-centered planning and why does it matter in disability services?",
+   "ms": 20194,
+   "answered": true,
+   "chars": 82,
+   "tail": "low-up questions are welcome. Ask uses up to four recent answers from this conversation to understand what you mean.\nPublic information is shown apart from program resources so you can tell them apart. Before you act on an important detail, check it at the original source.\nAsk can help you think your work through, but it does not set official policy or make decisions for you.\nWhen a decision belongs to a person, Ask points you to the person or office responsible for it.\nYou can review or clear your question history at any time in My work.\n\nWhen you need more than an answer\n\nFind the right person shows you who is responsible when a decision calls for someone's judgment.\n\nFind the right person"
+  },
+  {
+   "name": "followup",
+   "q": "Can you give one example of how a family that prefers to decide things together might experience it?",
+   "ms": 26186,
+   "answered": true,
+   "chars": 3937,
+   "tail": "low-up questions are welcome. Ask uses up to four recent answers from this conversation to understand what you mean.\nPublic information is shown apart from program resources so you can tell them apart. Before you act on an important detail, check it at the original source.\nAsk can help you think your work through, but it does not set official policy or make decisions for you.\nWhen a decision belongs to a person, Ask points you to the person or office responsible for it.\nYou can review or clear your question history at any time in My work.\n\nWhen you need more than an answer\n\nFind the right person shows you who is responsible when a decision calls for someone's judgment.\n\nFind the right person"
+  },
+  {
+   "name": "clear",
+   "textAfter": "Support\nAsk\nMinnesota communities\nContribute\n\nYour conversation\n\nAsk\n\nAsk a question in your own words, whether it concerns your work, a resource, or an idea you are still shaping. Ask draws on the pr"
+  }
+ ],
+ "network": [
+  {
+   "url": "/api/ask/voice",
+   "method": "GET",
+   "status": 200
+  },
+  {
+   "url": "/api/page-text?route=%2Fask",
+   "method": "GET",
+   "status": 200
+  },
+  {
+   "url": "/api/ask/voice",
+   "method": "GET",
+   "status": 200
+  },
+  {
+   "url": "/api/ask",
+   "method": "POST",
+   "status": 502
+  },
+  {
+   "url": "/api/ask/voice",
+   "method": "GET",
+   "status": 200
+  },
+  {
+   "url": "/api/ask",
+   "method": "POST",
+   "status": 200
+  },
+  {
+   "url": "/api/ask/voice",
+   "method": "GET",
+   "status": 200
+  }
+ ],
+ "consoleErrors": [
+  "Failed to load resource: the server responded with a status of 502 (Bad Gateway)"
+ ]
+}
