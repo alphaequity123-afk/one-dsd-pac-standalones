@@ -1,0 +1,572 @@
+[
+ {
+  "name": "El Burrito Mercado",
+  "type": "grocery, restaurant, catering",
+  "neighborhoodOrCity": "West Side, St. Paul (175 Cesar Chavez St.)",
+  "whatItIs": "Mexican market and restaurant serving since 1979, a three-generation business.",
+  "link": "https://www.elburritomercado.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, April 29, 2026, reports it operating with reduced staff; WSCO lists its parking lot as a Nov. 3, 2026 voting site."
+ },
+ {
+  "name": "Boca Chica Restaurante",
+  "type": "restaurant",
+  "neighborhoodOrCity": "West Side, St. Paul (11 Cesar Chavez St.)",
+  "whatItIs": "Mexican and Tex-Mex restaurant opened in 1964 by Guillermo and Gloria Frías.",
+  "link": "https://www.bocachicarestaurant.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Its own site lists hours and links menus dated July and September 2026."
+ },
+ {
+  "name": "Boca Chica Taco House",
+  "type": "fast food",
+  "neighborhoodOrCity": "West Side, St. Paul",
+  "whatItIs": "Satellite spot of Boca Chica where the deep-fried taco was first served, per its owner.",
+  "link": "https://racketmn.com/lets-eat-some-st-paul-bar-tacos",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Racket, March 8, 2022, describes it as operating; nothing newer was opened."
+ },
+ {
+  "name": "Mercado Central",
+  "type": "market hall",
+  "neighborhoodOrCity": "East Lake Street, Minneapolis",
+  "whatItIs": "Latino marketplace with 35 tenants, opened July 1999.",
+  "link": "https://tcbmag.com/tcb-show/the-story-of-mercado-central-and-25-years-in-the-heart-of-south-minneapolis/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "MPR News, Oct. 6, 2026, reports Latino Business Week kickoff and a Sunday celebration there."
+ },
+ {
+  "name": "Tortillería La Perla",
+  "type": "tortillería, restaurant",
+  "neighborhoodOrCity": "Mercado Central and Minneapolis",
+  "whatItIs": "Family tortilla maker with a restaurant inside Mercado Central.",
+  "link": "https://www.mprnews.org/story/2026/10/06/minneapolis-shops-invite-customers-for-latino-business-week-amid-ice-surge",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "MPR News, Oct. 6, 2026, names it as a current Mercado Central business."
+ },
+ {
+  "name": "Plaza Mexico",
+  "type": "shopping mall",
+  "neighborhoodOrCity": "East Lake Street and Fifth Avenue, Minneapolis",
+  "whatItIs": "Indoor mall of small stalls.",
+  "link": "https://www.cbsnews.com/minnesota/news/twin-cities-latino-somali-businesses-struggling-ice-operation-metro-surge",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "WCCO, Dec. 12, 2025, describes it operating with several stalls closed; nothing newer was opened."
+ },
+ {
+  "name": "Manny's Tortas",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Midtown Global Market, 920 E. Lake St. #125, Minneapolis",
+  "whatItIs": "Mexican sandwich counter open since 1999, with a State Fair presence.",
+  "link": "https://www.mannystortas.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Its own site lists current hours, ordering links and a 2026 footer."
+ },
+ {
+  "name": "Marsu Pizzeria and Taqueria",
+  "type": "restaurant",
+  "neighborhoodOrCity": "East Lake Street, Minneapolis",
+  "whatItIs": "Pizzeria and taqueria owned by Luis Martinez.",
+  "link": "https://sahanjournal.com/business-work/cinco-de-mayo-st-paul-west-side-latino-business-recovery/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, April 29, 2026, reports it open with a staff of four."
+ },
+ {
+  "name": "Colonial Market (Bloomington)",
+  "type": "grocery",
+  "neighborhoodOrCity": "Bloomington",
+  "whatItIs": "Latino grocery chain founded by Daniel Hernandez. His Mexican roots are not stated in the page.",
+  "link": "https://sahanjournal.com/?p=85331",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, June 26, 2026: the Bloomington location remains open."
+ },
+ {
+  "name": "Colonial Market (north Minneapolis)",
+  "type": "grocery",
+  "neighborhoodOrCity": "North Minneapolis",
+  "whatItIs": "Second remaining store of the chain.",
+  "link": "https://sahanjournal.com/?p=85331",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, June 26, 2026: remains open."
+ },
+ {
+  "name": "Colonial Market and Restaurant (Lake Street)",
+  "type": "grocery, restaurant",
+  "neighborhoodOrCity": "2100 E. Lake St., Minneapolis",
+  "whatItIs": "Former store in the Hi-Lake Shopping Center.",
+  "link": "https://sahanjournal.com/?p=85331",
+  "dateChecked": "2026-10-30",
+  "status": "closed",
+  "evidence": "Sahan Journal, June 26, 2026: closed June 14, 2026; restaurant closed in March 2026."
+ },
+ {
+  "name": "Bymore Supermercado",
+  "type": "grocery",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Grocery serving Latino customers; delivered food free during the surge. Owners' roots not stated.",
+  "link": "https://www.cbsnews.com/minnesota/news/twin-cities-latino-somali-businesses-struggling-ice-operation-metro-surge",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "WCCO, Dec. 12, 2025, reports it open daily 8 a.m. to 9 p.m.; nothing newer was opened."
+ },
+ {
+  "name": "Nixta",
+  "type": "tortillería, takeout",
+  "neighborhoodOrCity": "1222 2nd St. NE, Minneapolis",
+  "whatItIs": "Tortilla shop started by Gustavo and Kate Romero.",
+  "link": "https://www.nixtampls.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Its own site lists address, contact and current ordering; Oro page lists current hours."
+ },
+ {
+  "name": "Oro by Nixta",
+  "type": "restaurant",
+  "neighborhoodOrCity": "1222 2nd St. NE, Minneapolis",
+  "whatItIs": "Masa-focused restaurant, 2024 James Beard nominee for Best New Restaurant.",
+  "link": "https://www.nixtampls.com/oro",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Its own page lists hours, Wednesday to Saturday, 4 to 9 p.m., and current reservations."
+ },
+ {
+  "name": "Tixtli by Nixta",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Graze food hall, Minneapolis",
+  "whatItIs": "Casual stand with a shorter menu, opened 2025.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "El Mexicano No. 3",
+  "type": "grocery",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Grocery opened in 2011 by Efrain Patino.",
+  "link": "https://siouxfalls.business/?p=167029",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sioux Falls Business, April 8, 2025, describes it among stores he owns."
+ },
+ {
+  "name": "El Mexicano restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Patino's restaurant, opened 2014.",
+  "link": "https://siouxfalls.business/?p=167029",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sioux Falls Business, April 8, 2025, says he operates it."
+ },
+ {
+  "name": "Patino ice cream store",
+  "type": "ice cream",
+  "neighborhoodOrCity": "Worthington",
+  "whatItIs": "Ice cream store owned by Efrain Patino; its name is not given.",
+  "link": "https://siouxfalls.business/?p=167029",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sioux Falls Business, April 8, 2025, says he owns it."
+ },
+ {
+  "name": "Nico's Taco and Tequila Bar",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Taco and tequila bar holding a Día de los Muertos event.",
+  "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Meet Minneapolis lists a Nov. 1, 2026 event there."
+ },
+ {
+  "name": "Monarca Thrift Club",
+  "type": "thrift store",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Shop hosting a Día de los Muertos pop-up. Owners' roots not stated.",
+  "link": "http://www.minneapolis.org/calendar/holidays/dia-de-los-muertos/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Meet Minneapolis lists a Nov. 1, 2026 event there."
+ },
+ {
+  "name": "Midtown Global Market",
+  "type": "market hall",
+  "neighborhoodOrCity": "920 E. Lake St., Minneapolis",
+  "whatItIs": "Multicultural market where Manny's Tortas and the CLUES Día de Muertos are found; not Mexican-specific.",
+  "link": "https://midtownglobalmarket.org/new-events/2026/10/31/dia-de-muertos",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Its site lists a Nov. 1, 2026 event."
+ },
+ {
+  "name": "Contreras Edin Law, PA",
+  "type": "law firm",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Law firm sponsoring Festival de las Calaveras; ownership roots and practice not stated on the page opened.",
+  "link": "https://app.opendate.io/e/festival-de-las-calaveras-2026-october-31-2026-718151",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Named as a 2026 festival sponsor; the firm's own site was not opened."
+ },
+ {
+  "name": "La Raza 95.7 FM",
+  "type": "radio",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Spanish-language radio from Santamaria Broadcasting.",
+  "link": "https://laraza1400.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Its site shows a current daily schedule."
+ },
+ {
+  "name": "La Prensa de Minnesota",
+  "type": "newspaper",
+  "neighborhoodOrCity": "Minneapolis area",
+  "whatItIs": "Spanish-language news, founded 1991 by Mario Duarte; LCN Media sister of Vida y Sabor and New Prensa.",
+  "link": "https://www.laprensademn.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Site shows a story dated Oct. 30, 2026."
+ },
+ {
+  "name": "Radio Jornalera",
+  "type": "radio",
+  "neighborhoodOrCity": "3702 E. Lake St., Minneapolis",
+  "whatItIs": "Online station run through COPAL since 2019.",
+  "link": "https://radiojornaleramn.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Site lists daily live programs and a 2026 footer."
+ },
+ {
+  "name": "La Voz Latina and St. Paul Voice",
+  "type": "newspaper",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Community newspapers from St. Paul Publishing.",
+  "link": "https://www.stpaulpublishing.com/new-west-side-brand-unveiled-vote-soon-to-rename-cesar-chavez-street/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Stories dated August and Sept. 18, 2026."
+ },
+ {
+  "name": "La Gran America",
+  "type": "newspaper",
+  "neighborhoodOrCity": "Willmar",
+  "whatItIs": "Bilingual Willmar paper that ran a Latino and Somali business directory.",
+  "link": "https://www.mprnews.org/story/2009/07/13/willmar_directory",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2009 MPR story was opened."
+ },
+ {
+  "name": "Latino Chamber of Commerce Minnesota",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Chamber begun in 2016 after the Hispanic Chamber of Commerce of Minnesota ceased.",
+  "link": "https://www.latinochambermn.com/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Site has a 2026 footer, member login and events calendar, though event dates carry no year."
+ },
+ {
+  "name": "Latino Economic Development Center",
+  "type": "lender, business advising",
+  "neighborhoodOrCity": "990 Payne Ave., St. Paul",
+  "whatItIs": "Nonprofit lender and adviser for small businesses and farmers.",
+  "link": "https://ledcmn.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Site carries items uploaded October 2026."
+ },
+ {
+  "name": "Plaza del Sol",
+  "type": "food hall, event center",
+  "neighborhoodOrCity": "Payne Avenue, St. Paul",
+  "whatItIs": "Food hall and commissary kitchen run by LEDC.",
+  "link": "https://ledcmn.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Listed as a current LEDC initiative on its 2026 site."
+ },
+ {
+  "name": "Los Ocampo Restaurant & Bar, Frogtown",
+  "type": "restaurant",
+  "neighborhoodOrCity": "615 University Ave. W, St. Paul",
+  "whatItIs": "Mexican restaurant and bar, part of a Twin Cities group.",
+  "link": "https://www.visitsaintpaul.com/directory/los-ocampo-restaurant-bar-frogtown/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Directory lists regular hours but no date; group site names locations without saying which are open."
+ },
+ {
+  "name": "Taqueria Los Ocampo group",
+  "type": "restaurants",
+  "neighborhoodOrCity": "Minneapolis and St. Paul",
+  "whatItIs": "Taqueria group with locations listed from Lake Plaza onward.",
+  "link": "https://www.taquerialosocampo.com/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Its site tells the story of locations but does not state current status."
+ },
+ {
+  "name": "La Michoacana Purépecha",
+  "type": "ice cream, snacks",
+  "neighborhoodOrCity": "701 E. Lake St., Minneapolis, and about 10 sites",
+  "whatItIs": "Paleta and ice cream shops from a family from Michoacán.",
+  "link": "https://www.ndc-mn.org/news-events/spotlighting-ricardo-espinoza-founder-of-la-michoacana/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Own site's latest item is dated 2024; a development center profile mentions a May 2025 location, year not printed."
+ },
+ {
+  "name": "La Michoacana Purépecha (Rochester)",
+  "type": "ice cream",
+  "neighborhoodOrCity": "28 Ninth St. SE, Rochester",
+  "whatItIs": "Co-owned Rochester shop, opened August 2022.",
+  "link": "https://www.postbulletin.com/business/new-rochester-ice-cream-shop-with-a-mexican-twist-to-open-thursday",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2022 article was opened."
+ },
+ {
+  "name": "El Taco Riendo (Crystal)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "5101 36th Ave. N, Crystal",
+  "whatItIs": "Restaurant opened 2019 by Miguel Cruz Gomez.",
+  "link": "https://ccxmedia.org/news/el-taco-riendo-offers-up-traditional-mexican-food-in-crystal/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2022 article was opened."
+ },
+ {
+  "name": "El Taco Riendo (Northeast)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Central Avenue, Northeast Minneapolis",
+  "whatItIs": "Taqueria open since 2009.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "Alborada Market",
+  "type": "grocery, taqueria",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Full-service Latin market with a taqueria.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "Homi",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Avenue, St. Paul",
+  "whatItIs": "Mexican soups such as pozole and menudo.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "La Poblanita Tortilleria and Taqueria",
+  "type": "tortillería",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Tortilla maker and taqueria.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "Los Cactus",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Central Avenue NE, Columbia Heights",
+  "whatItIs": "Fast-casual taqueria.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "Maya Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Central Avenue and other sites, Minneapolis",
+  "whatItIs": "Scratch-made Mexican food, founded 2012.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "Pollo Movil Mexican Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "East Lake Street, Minneapolis",
+  "whatItIs": "Charcoal-grilled chicken.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "Taco Taxi",
+  "type": "restaurant, food trucks",
+  "neighborhoodOrCity": "1511 E. Lake St., Minneapolis",
+  "whatItIs": "Street tacos; Visit Lake Street traces its origin to Jalisco.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "Taqueria La Hacienda",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Several sites",
+  "whatItIs": "Known for al pastor tacos.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "Taqueria & Birrieria Las Cuatro Milpas",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Several sites",
+  "whatItIs": "Quesabirria and aguas frescas.",
+  "link": "https://www.exploreminnesota.com/food-drink/best-mexican-food-minneapolis-st-paul",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Named in an Explore Minnesota guide with a 2026 footer and no publication date; no dated page or current hours for this business was opened."
+ },
+ {
+  "name": "Valerie's Carniceria",
+  "type": "grocery, butcher",
+  "neighborhoodOrCity": "3149 Nicollet Ave., Minneapolis",
+  "whatItIs": "Meat, groceries and home goods.",
+  "link": "https://www.visitlakestreet.com/buy-latinx-on-lake",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Featured on Visit Lake Street's undated list of Latinx-owned businesses; no dated page or current hours was opened."
+ },
+ {
+  "name": "La Mexicana Supermercado",
+  "type": "supermarket",
+  "neighborhoodOrCity": "Lake Street, Minneapolis",
+  "whatItIs": "Supermarket on the Lake Street list.",
+  "link": "https://www.visitlakestreet.com/buy-latinx-on-lake",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Featured on Visit Lake Street's undated list of Latinx-owned businesses; no dated page or current hours was opened."
+ },
+ {
+  "name": "Panaderia San Miguel",
+  "type": "bakery",
+  "neighborhoodOrCity": "Lake Street area, Minneapolis",
+  "whatItIs": "Bakery.",
+  "link": "https://www.visitlakestreet.com/buy-latinx-on-lake",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Featured on Visit Lake Street's undated list of Latinx-owned businesses; no dated page or current hours was opened."
+ },
+ {
+  "name": "Gorditas El Gordo",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Lake Street area, Minneapolis",
+  "whatItIs": "Restaurant.",
+  "link": "https://www.visitlakestreet.com/buy-latinx-on-lake",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Featured on Visit Lake Street's undated list of Latinx-owned businesses; no dated page or current hours was opened."
+ },
+ {
+  "name": "Floreria Yare",
+  "type": "florist",
+  "neighborhoodOrCity": "Lake Street area, Minneapolis",
+  "whatItIs": "Flower shop.",
+  "link": "https://www.visitlakestreet.com/buy-latinx-on-lake",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Featured on Visit Lake Street's undated list of Latinx-owned businesses; no dated page or current hours was opened."
+ },
+ {
+  "name": "Ruby's Boutique",
+  "type": "gifts, ceremonial dress",
+  "neighborhoodOrCity": "417 E. Lake St., Minneapolis",
+  "whatItIs": "Gifts, flowers and ceremonial dresses.",
+  "link": "https://www.visitlakestreet.com/buy-latinx-on-lake",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Featured on Visit Lake Street's undated list of Latinx-owned businesses; no dated page or current hours was opened."
+ },
+ {
+  "name": "Novedades Krystal",
+  "type": "shop",
+  "neighborhoodOrCity": "Lake Street area, Minneapolis",
+  "whatItIs": "Shop on the Latinx-owned list; goods not stated.",
+  "link": "https://www.visitlakestreet.com/buy-latinx-on-lake",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Featured on Visit Lake Street's undated list of Latinx-owned businesses; no dated page or current hours was opened."
+ },
+ {
+  "name": "Circulo de Amigos Child Care Center",
+  "type": "child care",
+  "neighborhoodOrCity": "Lake Street area, Minneapolis",
+  "whatItIs": "Child care center.",
+  "link": "https://www.visitlakestreet.com/buy-latinx-on-lake",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Featured on Visit Lake Street's undated list of Latinx-owned businesses; no dated page or current hours was opened."
+ },
+ {
+  "name": "Dulceria La Piñata",
+  "type": "candy, piñatas",
+  "neighborhoodOrCity": "Mercado Central, Minneapolis",
+  "whatItIs": "Piñatas and candy, owned by Leopoldo Sanchez.",
+  "link": "https://sahanjournal.com/business-work/mercado-central-lake-street-minneapolis-loan-forgiven-immigration/",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Open in an April 2025 article; some Mercado Central businesses closed in the 2026 surge."
+ },
+ {
+  "name": "Luceritos Fashion",
+  "type": "clothing",
+  "neighborhoodOrCity": "Mercado Central, Minneapolis",
+  "whatItIs": "Clothing stall owned by Marina Lopez.",
+  "link": "https://sahanjournal.com/business-work/mercado-central-lake-street-minneapolis-loan-forgiven-immigration/",
+  "dateChecked": "2026-10-30",
+  "status": "closed",
+  "evidence": "Sahan Journal, April 28, 2025: closed February 2025, with some online sales."
+ },
+ {
+  "name": "Mi Linda Tierra",
+  "type": "grocery, meat market",
+  "neighborhoodOrCity": "Frogtown, St. Paul",
+  "whatItIs": "Mexican grocery and meat market.",
+  "link": "https://www.mprnews.org/story/2011/04/14/astrain",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2011 commentary was opened."
+ },
+ {
+  "name": "Taco Youlis",
+  "type": "food truck",
+  "neighborhoodOrCity": "Austin",
+  "whatItIs": "Food truck run by Jorge Pozos in 2010.",
+  "link": "https://www.mprnews.org/story/2010/08/09/austin-at-a-crossroads-part2",
+  "dateChecked": "2026-10-30",
+  "status": "could not confirm open",
+  "evidence": "Only a 2010 article was opened."
+ }
+]
