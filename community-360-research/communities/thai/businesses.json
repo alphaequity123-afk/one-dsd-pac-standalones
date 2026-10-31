@@ -1,0 +1,542 @@
+[
+ {
+  "name": "Sawatdee Thai Restaurants",
+  "type": "restaurant group",
+  "neighborhoodOrCity": "Minneapolis (607 Washington Ave S), St. Paul (486 Robert St N), Maple Grove (7885 Main St N), Bloomington (8501 Lyndale Ave S), plus a food truck",
+  "whatItIs": "Restaurant company founded by Supenn Harrison (Siam Cafe 1979; first Sawatdee 1983), now run by her daughters.",
+  "link": "https://www.sawatdee.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists four restaurants with addresses, phone numbers, online ordering, posted hours and a food truck schedule line; Mpls.St.Paul Magazine (June 23, 2024) describes the restaurants as run by Cyndy Harrison and Jenny Reilly."
+ },
+ {
+  "name": "Amazing Thailand",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Uptown, Minneapolis (3024 Hennepin Ave S)",
+  "whatItIs": "Thai restaurant open since 2007, per CCX Media; site of the Thai ambassador's May 2025 community dinner.",
+  "link": "https://www.amazingthailandusa.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Royal Thai Embassy report dated May 2025 says the ambassador hosted a dinner there; own site shows reservations and catering links."
+ },
+ {
+  "name": "Bangkok Thai Deli",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Ave W, St. Paul (333 University Ave W)",
+  "whatItIs": "Thai restaurant with take-out, catering and party trays.",
+  "link": "https://bangkokthaideli.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts weekly operating hours and 'Now OPEN on TUESDAYS!'"
+ },
+ {
+  "name": "Basil Cafe Thai Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Ave W, St. Paul (585 University Ave W)",
+  "whatItIs": "Thai and Lao dishes (menu includes kao piak sen) with pick-up, delivery and catering.",
+  "link": "https://www.585basilcafe.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site: 'Open 7 Days a Week!' with menu."
+ },
+ {
+  "name": "On's Kitchen Thai Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Midway, St. Paul (1613 University Ave W)",
+  "whatItIs": "Thai restaurant of chef-owner On Khumchaya, who began cooking at eight in Thailand.",
+  "link": "https://www.minnesotamonthly.com/directory/dining/ons-kitchen-thai-cuisine/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own website (onskitchen.com) did not load; Minnesota Monthly directory entry is undated."
+ },
+ {
+  "name": "On's Thai Express",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Highland Park, St. Paul (718 Cleveland Ave S)",
+  "whatItIs": "Quick-service Thai restaurant.",
+  "link": "https://onsthaiexpress.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows a March 15, 2026 weather-closure notice, menu, job openings and copyright 2026."
+ },
+ {
+  "name": "Lanna Thai Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "St. Anthony Park, St. Paul (2295 Como Ave)",
+  "whatItIs": "Small family-run restaurant; owner from Chiang Mai; northern 'Lanna Specials'.",
+  "link": "https://lannathaimn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists menu, daily lunch specials 11 a.m. to 2 p.m., dine-in, take-out and delivery."
+ },
+ {
+  "name": "Krungthep Thai",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rice Street, St. Paul (1141 Rice St)",
+  "whatItIs": "Family-owned Thai fusion restaurant with party trays and an event room.",
+  "link": "https://www.krungthepthai.co/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site: open every day except Tuesdays and Thanksgiving, 10:30 a.m. to 8 p.m., 'OPEN during Rice Street Reconstruction!'"
+ },
+ {
+  "name": "Moon House Thai Cuisine (listed by ThaiAM as Thai Street Market)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rice Street, St. Paul (1665 Rice St)",
+  "whatItIs": "Thai street-food restaurant at the address ThaiAM lists for Thai Street Market; the site now carries the Moon House name.",
+  "link": "https://thaistreetmarket.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows copyright 2026, take-out ordering and a hiring notice."
+ },
+ {
+  "name": "Pad Thai Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Macalester-Groveland, St. Paul (1681 Grand Ave)",
+  "whatItIs": "Thai restaurant with online ordering.",
+  "link": "https://padthaisp.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts that it will be closed Nov. 1, 2026 for a private event."
+ },
+ {
+  "name": "Taste of Thailand and Kanom Thai",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Selby Ave, St. Paul (1671 Selby Ave)",
+  "whatItIs": "Thai restaurant and Thai sweets (kanom).",
+  "link": "https://tasteofthailandselby.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site: open for dine-in and take-out with posted hours, closed Mondays."
+ },
+ {
+  "name": "Coconut Thai (Edina and Grand Ave)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Edina (3948 W 50th St); St. Paul (720 Grand Ave)",
+  "whatItIs": "Two-location Thai restaurant.",
+  "link": "https://coconutthaimn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site shows only navigation and copyright 2024; second load was rate-limited; no current hours seen."
+ },
+ {
+  "name": "Khun Nai Thai Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Whittier, Minneapolis (2523 Nicollet Ave)",
+  "whatItIs": "Thai restaurant with dine-in and online ordering.",
+  "link": "https://www.khunnaithaicuisine.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site says it serves 'seven days a week' and offers online ordering; no dated post seen."
+ },
+ {
+  "name": "Karta Thai",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (1025 Currie Ave) and Roseville (1889 Perimeter Dr)",
+  "whatItIs": "Two-location Thai restaurant.",
+  "link": "https://www.kartathai.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site offers online delivery and takeout ordering for both locations."
+ },
+ {
+  "name": "Nong's Thai Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Golden Valley (2520 Hillsboro Ave N)",
+  "whatItIs": "Family-run Thai restaurant open since 2010; owner Pallop Ratnasingsa (CCX Media, May 24, 2022).",
+  "link": "https://www.nongsthaicuisine.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site shows ordering links but copyright 2023 and no hours or dated post."
+ },
+ {
+  "name": "Thai Table",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Plymouth (10100 6th Ave N, Unit 115)",
+  "whatItIs": "Thai restaurant.",
+  "link": "https://www.thai-table.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts hours Monday through Sunday; copyright 2024."
+ },
+ {
+  "name": "Plymouth Thai Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Plymouth (Rockford Road Plaza, 4190 Vinewood Ln N #113)",
+  "whatItIs": "Thai restaurant.",
+  "link": "https://www.plymouththaikitchen.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site: open Monday to Saturday 11 a.m. to 8:30 p.m., closed Sundays, with online ordering."
+ },
+ {
+  "name": "Chaska Thai Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Chaska (2 River Bend Pl)",
+  "whatItIs": "Thai restaurant with online carryout ordering.",
+  "link": "https://www.chaskathairestaurant.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists business hours and online ordering."
+ },
+ {
+  "name": "Joy's Thai Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Lakeville (7704 160th St W)",
+  "whatItIs": "Thai restaurant; owner Joy cooked in Thailand; Pattaya beach-themed dining rooms.",
+  "link": "https://www.joysthaicuisine.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site: open for dine-in Monday to Sunday 10:30 a.m. to 9 p.m., delivery and online orders."
+ },
+ {
+  "name": "Joy's Pattaya Thai Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Richfield (7545 Lyndale Ave S)",
+  "whatItIs": "Thai restaurant listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Its listed website returns a domain-connection error; no current page found."
+ },
+ {
+  "name": "Sala Thai Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Lakeville (17617 Glasgow Ave)",
+  "whatItIs": "Thai restaurant with carryout.",
+  "link": "https://www.SalathaikitchenMN.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts business hours Monday to Saturday 11 a.m. to 8:30 p.m., closed Sunday."
+ },
+ {
+  "name": "Ban Thai Restaurant",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Downtown White Bear Lake (2186 3rd St, Ste 111)",
+  "whatItIs": "Family-run Thai restaurant in place more than 17 years, focused on takeout since COVID.",
+  "link": "https://banthaionline.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows hours and copyright 2026."
+ },
+ {
+  "name": "Sam Thai Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "White Bear Lake (4440 Hwy 61 N)",
+  "whatItIs": "Thai restaurant listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No own website was given or opened."
+ },
+ {
+  "name": "Jay's Kitchen Thai Street Food",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Chisago City (11506 Brink Ave)",
+  "whatItIs": "Thai street-food restaurant near Brink's Market.",
+  "link": "https://www.Jayskitchenthaistreetfoodmn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts business and carryout hours Monday to Saturday."
+ },
+ {
+  "name": "Grab Thai",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Hopkins (525 Blake Rd N)",
+  "whatItIs": "Fast-casual Thai restaurant listed by ThaiAM.",
+  "link": "https://www.grabthaimn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loaded with no readable content."
+ },
+ {
+  "name": "Hot Grainz Thai Street Food",
+  "type": "restaurant",
+  "neighborhoodOrCity": "West Seventh, St. Paul (882 7th St W, Ste 12)",
+  "whatItIs": "Thai street-food restaurant listed by ThaiAM.",
+  "link": "https://www.hotgrainz.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loaded with only a title, no hours or menu text."
+ },
+ {
+  "name": "Thai Delicious",
+  "type": "restaurant",
+  "neighborhoodOrCity": "West St. Paul (1307 Robert St S)",
+  "whatItIs": "Thai restaurant listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed website did not load."
+ },
+ {
+  "name": "Thai Pepper (West St. Paul)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "West St. Paul (Robert St, former Top Dog space)",
+  "whatItIs": "Carry-out and drive-thru Thai restaurant opened late 2019 by Paul (Pornchai) Chaiyamart.",
+  "link": "https://weststpaulreader.com/2020/05/01/paul-chaiyamart-thai-pepper/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only source is a May 1, 2020 interview; no current page found."
+ },
+ {
+  "name": "Thai Pepper (Minneapolis and Bloomington)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (5455 Nicollet Ave); Bloomington (9350 Ensign Ave S)",
+  "whatItIs": "Thai restaurants listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Minneapolis site did not load; Bloomington site returned 'Not Found'."
+ },
+ {
+  "name": "ThaiPop",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Downtown Rochester (4 3rd St SW)",
+  "whatItIs": "Thai restaurant; reviews credit chef Annie Balow.",
+  "link": "https://www.thaipopmn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site offers reservations, take-out, gift cards, tasting menu and job listings."
+ },
+ {
+  "name": "Thai-riffic",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rochester (2nd St SW, across from Mayo Clinic-Saint Marys)",
+  "whatItIs": "Quick-service Thai restaurant that opened in May 2025; owner identified as Pen. Owner's heritage not stated.",
+  "link": "https://www.kttc.com/2025/05/08/monks-bless-opening-new-thai-restaurant-downtown-rochester/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "KTTC, May 8, 2025, reported its opening; no later page checked."
+ },
+ {
+  "name": "The Blue Oyster Bar and Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brainerd (612 Front St) and Bemidji (116 4th St NW)",
+  "whatItIs": "Thai-American fusion restaurants founded by a chef from Thailand who also runs a mushroom farm.",
+  "link": "https://www.blueoysterrestaurant.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows menu, happy hour, 'Join Our Team' and copyright 2026."
+ },
+ {
+  "name": "Chick N Rice / Drunken Noodle",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Brainerd (603 Laurel St)",
+  "whatItIs": "Thai restaurant listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No own website opened."
+ },
+ {
+  "name": "Jade Garden",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Sartell (101 7th St N, Ste 2)",
+  "whatItIs": "Asian restaurant listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No own website opened."
+ },
+ {
+  "name": "Keziah's Kitchen",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Pine City (515 8th Ave SE)",
+  "whatItIs": "Restaurant listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site blocked automated access. Link given is the ThaiAM listing; own site https://keziahskitchen.com/ did not open."
+ },
+ {
+  "name": "Thai Cuisine by Paan",
+  "type": "food truck",
+  "neighborhoodOrCity": "Ely",
+  "whatItIs": "Thai food truck listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed website did not load."
+ },
+ {
+  "name": "Pranee's Kitchen",
+  "type": "food truck",
+  "neighborhoodOrCity": "Cloquet area",
+  "whatItIs": "Thai food truck listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No website given."
+ },
+ {
+  "name": "Tong Thai Street Food",
+  "type": "food truck",
+  "neighborhoodOrCity": "Coon Rapids area",
+  "whatItIs": "Thai food truck listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed website did not load."
+ },
+ {
+  "name": "MinneBun",
+  "type": "farmers market stand",
+  "neighborhoodOrCity": "St. Paul Farmers' Market (290 5th St E)",
+  "whatItIs": "Bao stand whose fillings include pork Thai basil and chicken green curry.",
+  "link": "https://www.minnebun.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists Saturday 7 a.m. to 1 p.m. and Sunday 8 a.m. to 1 p.m. at the St. Paul Farmers' Market; no dated post."
+ },
+ {
+  "name": "Krua Thai",
+  "type": "restaurant",
+  "neighborhoodOrCity": "University Ave W, St. Paul (432 University Ave W, as of an undated article)",
+  "whatItIs": "Restaurant opened in 2001 by retired Bangkok attorney Vat Pinipat and his daughter.",
+  "link": "https://tcbmag.com/family-thai/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only source is an undated Twin Cities Business review from the Pawlenty era; no current page found."
+ },
+ {
+  "name": "88 Oriental Foods",
+  "type": "grocery",
+  "neighborhoodOrCity": "Frogtown, St. Paul (291 University Ave W)",
+  "whatItIs": "Asian grocery listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No own website opened."
+ },
+ {
+  "name": "Prime Grocery and Deli",
+  "type": "grocery",
+  "neighborhoodOrCity": "St. Paul (560 Como Ave, Suite B)",
+  "whatItIs": "Grocery and deli listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No own website opened."
+ },
+ {
+  "name": "Top Asian Food, Inc.",
+  "type": "grocery",
+  "neighborhoodOrCity": "Worthington (312 10th St)",
+  "whatItIs": "Asian grocery listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No own website opened."
+ },
+ {
+  "name": "Healthland Thai Massage",
+  "type": "massage",
+  "neighborhoodOrCity": "Savage (6001 Egan Dr, Suite 110)",
+  "whatItIs": "Thai massage business listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Listed website returns a domain-connection error. Link given is the ThaiAM listing; own site https://healthlandthaimn.com/ did not open."
+ },
+ {
+  "name": "Sky Thai Massage",
+  "type": "massage",
+  "neighborhoodOrCity": "White Bear Lake (3634 White Bear Ave)",
+  "whatItIs": "Thai massage business listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No own website opened."
+ },
+ {
+  "name": "Massage Therapy by Konnisa",
+  "type": "massage",
+  "neighborhoodOrCity": "Mound (2347 Commerce Blvd)",
+  "whatItIs": "Massage therapy listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No own website opened."
+ },
+ {
+  "name": "1 2 3 Brush Dental",
+  "type": "dental clinic",
+  "neighborhoodOrCity": "Maplewood (1670 Beam Ave, Suite 202)",
+  "whatItIs": "Dental practice of Dr. Vacharee Peterson, listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site blocked automated access. Link given is the ThaiAM listing; own site https://www.123brushdental.com/ did not open."
+ },
+ {
+  "name": "Veero Auto Group",
+  "type": "car dealership",
+  "neighborhoodOrCity": "Morris (205 State Hwy 9)",
+  "whatItIs": "Ford and Chrysler-Dodge-Jeep-Ram dealership; ThaiAM lists Art Veerothai as contact.",
+  "link": "https://www.veeroautogroup.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows current new and used inventory, financing and service pages."
+ },
+ {
+  "name": "Dee's Auto Repairs",
+  "type": "auto repair",
+  "neighborhoodOrCity": "Bloomington (8945 Lyndale Ave S)",
+  "whatItIs": "Auto repair shop; ThaiAM lists Dee Noree, Wat Promwachirayan's president, as contact.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No own website opened."
+ },
+ {
+  "name": "Creative Carving",
+  "type": "arts and crafts / instruction",
+  "neighborhoodOrCity": "Twin Cities (contact Nuntana Erickson)",
+  "whatItIs": "Thai fruit and vegetable carving classes, DVDs and carved pieces.",
+  "link": "https://www.creative-carving.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists products, upcoming classes and copyright 2026."
+ },
+ {
+  "name": "Minneapolis Thai Interpreting Services",
+  "type": "interpreting",
+  "neighborhoodOrCity": "Minneapolis (contact Kantarose Woolley)",
+  "whatItIs": "Thai interpreting service listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only a Facebook page is listed; not opened."
+ },
+ {
+  "name": "Wat Photography LLC",
+  "type": "photography",
+  "neighborhoodOrCity": "Twin Cities (contact Wiwat Wiphusit)",
+  "whatItIs": "Photography business listed by ThaiAM.",
+  "link": "https://www.watphotography.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site shows only 'Coming Soon'."
+ },
+ {
+  "name": "HomeStart Realty (Piyanud Montgomery)",
+  "type": "real estate",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Realtor listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only an email and phone are listed; no page opened."
+ },
+ {
+  "name": "Thai Lao American Karaoke & DJ services",
+  "type": "music / DJ",
+  "neighborhoodOrCity": "Twin Cities (contact Nikhom Khatthavong)",
+  "whatItIs": "Karaoke and DJ service listed by ThaiAM.",
+  "link": "https://www.thaiofmn.org/resource/business-listing",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only a Facebook page is listed; not opened."
+ }
+]

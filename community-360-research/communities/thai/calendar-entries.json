@@ -1,0 +1,979 @@
+{
+ "community": "thai",
+ "entries": [
+  {
+   "seedId": "songkran",
+   "name": "Songkran",
+   "alsoKnownAs": [
+    "Thai New Year",
+    "Songkran Day"
+   ],
+   "kind": "cultural",
+   "capsule": "Thai New Year, April 13 to 15: merit-making at the temple, water poured over elders' hands, family visits and water play.",
+   "dateRule": "April 13 to 15 each year, a fixed public holiday in Thailand. Minnesota's temple keeps it on or near April 13; the large public festival is held separately in May (see Minnesota Songkran Festival).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-13",
+     "endDate": "2026-04-15",
+     "source": "Singapore Embassy in Bangkok, Thai public holiday list 2026; Human Resources Online 2026 list",
+     "sourceUrl": "https://isomer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Updated%20May%202026.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-04-13",
+     "endDate": "2027-04-15",
+     "source": "Fixed date (April 13-15); 2027 holiday list not yet opened",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-13",
+     "endDate": "2028-04-15",
+     "source": "Fixed date (April 13-15); 2028 holiday list not yet opened",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The traditional Thai solar new year. The Tourism Authority of Thailand describes it as marked by merit-making, water-pouring rituals for elders and temple visits, and notes UNESCO recognition as intangible cultural heritage.",
+   "howCelebratedInMinnesota": "Wat Promwachirayan in St. Louis Park held a Songkran Day service on Sunday, April 13, 2025, 10 a.m. to 3 p.m. The temple's first St. Louis Park open house, April 9, 2017, was also a Songkran celebration open to the whole community. The large public celebration is held in May as the Minnesota Songkran Festival.",
+   "minnesotaEvents": [
+    {
+     "name": "Songkran Day",
+     "place": "Wat Promwachirayan, 2544 Highway 100 S, St. Louis Park",
+     "link": "https://www.watthaimn.us/wat-thai-events",
+     "organizerDates": "Sunday, April 13, 2025, 10 a.m. to 3 p.m. (temple calendar)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Songkran open house",
+     "place": "Wat Thai (Wat Promwachirayan), St. Louis Park",
+     "link": "https://slpecho.com/news/2017/05/02/temple-strives-to-include-community/",
+     "organizerDates": "Sunday, April 9, 2017 (The Echo, May 2, 2017)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Thai Public Holidays 2026 (Singapore Embassy in Bangkok)",
+     "url": "https://isomer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Updated%20May%202026.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Full list of Thailand's 2026 public holidays",
+     "url": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Songkran festival 2026 to proceed nationwide (TAT Newsroom)",
+     "url": "https://www.tatnews.org/2026/03/songkran-festival-2026-to-proceed-nationwide-welcoming-global-visitors-to-thailands-unesco-recognised-new-year-celebration/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Wat Promwachirayan events",
+     "url": "https://www.watthaimn.us/wat-thai-events",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Temple strives to include community (The Echo)",
+     "url": "https://slpecho.com/news/2017/05/02/temple-strives-to-include-community/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Minnesota Songkran Festival",
+   "alsoKnownAs": [
+    "MN Songkran Festival",
+    "Songkran for All"
+   ],
+   "kind": "community festival",
+   "capsule": "Free two-day Thai New Year festival each May: food, dance, Muay Thai, parades and a Buddhist alms offering; open to all.",
+   "dateRule": "Set each year by the Thai Cultural Council of Minnesota and Wat Promwachirayan; held on a mid- or late-May weekend since 2022.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-16",
+     "endDate": "2026-05-17",
+     "source": "Northern Star Scouting 2026 outreach events calendar (third-party listing; no organizer page found); not confirmed by the organizer",
+     "sourceUrl": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A public celebration of Thai New Year, held in May in Minnesota, presented by organizers as a festival for all Southeast Asian and Asian American communities.",
+   "howCelebratedInMinnesota": "First held May 28-29, 2022 in front of the State Capitol; May 27-28, 2023 at the Capitol; May 18-19, 2024 at the Capitol, with an alms offering, a Four Regions of Thailand parade, Muay Thai, a Loy Krathong lantern segment, a Baai Sri Su Kwan blessing parade, a papaya salad contest and a drag show, and an estimated 40,000 attendees by the Thai consulate's count; May 10-11, 2025 at the Capitol, opened by Thailand's ambassador with a governor's proclamation presented by Public Safety Commissioner Bob Jacobson. The 2026 edition was listed for Wat Promwachirayan in St. Louis Park, Saturday 11 a.m. to 8 p.m. and Sunday 11 a.m. to 6 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Minnesota Songkran Festival 2026",
+     "place": "Wat Promwachirayan, 2544 Highway 100 S, St. Louis Park",
+     "link": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf",
+     "organizerDates": "Sat. May 16, 2026 11 a.m.-8 p.m.; Sun. May 17, 2026 11 a.m.-6 p.m. (third-party calendar)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Minnesota Songkran Festival 2025",
+     "place": "Minnesota State Capitol, St. Paul",
+     "link": "https://www.mfa.go.th/en/content/chicago-300425-4",
+     "organizerDates": "May 10-11, 2025 (as scheduled, Thai consulate report Jan. 2025; opening May 10 per embassy)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Minnesota Songkran Festival 2024",
+     "place": "Minnesota State Capitol grounds, St. Paul",
+     "link": "https://www.lrl.mn.gov/archive/minutes/senate/2024/comm/20240319/Comm_20240319_SF5050-Songkran-2024-Full-Version.pdf",
+     "organizerDates": "Saturday May 18 and Sunday May 19, 2024 (festival booklet agenda)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Minnesota Songkran Festival 2023",
+     "place": "Minnesota State Capitol, St. Paul",
+     "link": "https://mspmag.com/arts-and-culture/minnesota-songkran-festival/",
+     "organizerDates": "May 27 and 28, 2023 (Mpls.St.Paul Magazine)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Minnesota Songkran Festival 2022 (first)",
+     "place": "Minnesota State Capitol, St. Paul",
+     "link": "https://ccxmedia.org/news/brooklyn-park-resident-shares-thai-culture-at-minnesota-songkran-festival/",
+     "organizerDates": "May 28 (11 a.m.-9 p.m.) and May 29 (11 a.m.-6 p.m.), 2022 (CCX Media)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "2026 Outreach Cultural Events (Northern Star Scouting)",
+     "url": "https://www.northernstar.org/Portals/0/2026%20Outreach_Web_Cultural%20Events_260415a.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Royal Thai Consulate met Thai Cultural Council of Minnesota on Songkran 2025",
+     "url": "https://www.mfa.go.th/en/content/chicago-300425-4",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Ambassador attended opening of Minnesota Songkran Festival 2025",
+     "url": "https://www.mfa.go.th/en/content/chicago-230525-3",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Songkran Festival 2024 (Thai MFA)",
+     "url": "https://www.mfa.go.th/en/content/pr-chicago-06052024-2",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Songkran Festival 2024 booklet",
+     "url": "https://www.lrl.mn.gov/archive/minutes/senate/2024/comm/20240319/Comm_20240319_SF5050-Songkran-2024-Full-Version.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Songkran Festival Celebrates Thai Culture (Mpls.St.Paul Magazine)",
+     "url": "https://mspmag.com/arts-and-culture/minnesota-songkran-festival/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Wat Promwachirayan, About Us",
+     "url": "https://www.watthaimn.us/about-us",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "CCX Media, May 27, 2022",
+     "url": "https://ccxmedia.org/news/brooklyn-park-resident-shares-thai-culture-at-minnesota-songkran-festival/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "MinnesoThai Thai Street Food Festival",
+   "alsoKnownAs": [
+    "MinnesoThai",
+    "Thai Street Food Festival"
+   ],
+   "kind": "community festival",
+   "capsule": "Free fall Thai street-food festival at Wat Thai of Minnesota in St. Louis Park, with performances, vendors and family activities.",
+   "dateRule": "Announced each year by the Thai Cultural Council of Minnesota; held on a September weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-19",
+     "endDate": "2026-09-20",
+     "source": "Thai Cultural Council of Minnesota",
+     "sourceUrl": "https://www.thaiculturemn.us/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A community food and culture festival; proceeds support Wat Promwachirayan and the local Thai community, per the organizer.",
+   "howCelebratedInMinnesota": "Saturday 11 a.m. to 8 p.m. and Sunday 11 a.m. to 6 p.m. at Wat Promwachirayan, free admission and parking, with street food, desserts, music, dance, vendors and crafts. A 2024 edition (weekend of Sept. 13-15, 2024) included a beer and wine garden, a drag show and a papaya-eating contest, per FOX 9.",
+   "minnesotaEvents": [
+    {
+     "name": "MinnesoThai 2026",
+     "place": "Wat Promwachirayan, 2544 Highway 100 S, St. Louis Park",
+     "link": "https://www.thaiculturemn.us/",
+     "organizerDates": "September 19-20, 2026 (organizer)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "MinnesoThai Street Food Festival 2024",
+     "place": "St. Louis Park",
+     "link": "https://www.fox9.com/news/what-do-minnesota-things-do-weekend-sept-13-15",
+     "organizerDates": "Weekend of Sept. 13-15, 2024 (FOX 9 weekend guide)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Thai Cultural Council of Minnesota home page",
+     "url": "https://www.thaiculturemn.us/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "FOX 9, things to do Sept. 13-15",
+     "url": "https://www.fox9.com/news/what-do-minnesota-things-do-weekend-sept-13-15",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "KSTP, Minnesothai Festival",
+     "url": "https://kstp.com/special-coverage/minnesota-live/minnesothai-festival/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "makha-bucha",
+   "name": "Makha Bucha",
+   "alsoKnownAs": [
+    "Magha Puja",
+    "Magha Puja Day"
+   ],
+   "kind": "religious",
+   "capsule": "Buddhist holy day at the full moon of the third lunar month; candle-lit processions and merit-making at temples.",
+   "dateRule": "Full moon of the third Thai lunar month (in a leap-month year, the fourth), usually February or March. The Minnesota temple holds it on a nearby weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-03",
+     "endDate": null,
+     "source": "Singapore Embassy in Bangkok, Thai public holiday list 2026",
+     "sourceUrl": "https://isomer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Updated%20May%202026.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-21",
+     "endDate": null,
+     "source": "Seed calculation (python-holidays, Thailand); not confirmed against an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-10",
+     "endDate": null,
+     "source": "Seed calculation (python-holidays, Thailand); not confirmed against an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A Theravada Buddhist holy day.",
+   "howCelebratedInMinnesota": "Wat Promwachirayan held Magha Puja Day on Saturday, Feb. 8, 2025, 10 a.m. to 1 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Magha Puja Day",
+     "place": "Wat Promwachirayan, St. Louis Park",
+     "link": "https://www.watthaimn.us/wat-thai-events",
+     "organizerDates": "Saturday, Feb. 8, 2025 (temple calendar)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Thai Public Holidays 2026",
+     "url": "https://isomer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Updated%20May%202026.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Wat Promwachirayan events",
+     "url": "https://www.watthaimn.us/wat-thai-events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "visakha-bucha",
+   "name": "Visakha Bucha",
+   "alsoKnownAs": [
+    "Vesak",
+    "Vesakha Puja",
+    "Buddha Day"
+   ],
+   "kind": "religious",
+   "capsule": "Theravada holy day marking the Buddha's birth, enlightenment and passing; temple services and merit-making.",
+   "dateRule": "Full moon of the sixth Thai lunar month (seventh in a leap-month year), usually May or early June. Temples may choose a nearby weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-31",
+     "endDate": null,
+     "source": "Human Resources Online, 2026 Thai holiday list (substitution holiday June 1 for Visakha Bucha on Sunday May 31)",
+     "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-20",
+     "endDate": null,
+     "source": "Seed calculation (python-holidays, Thailand); not confirmed against an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-08",
+     "endDate": null,
+     "source": "Seed calculation (python-holidays, Thailand); not confirmed against an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The birth, enlightenment and death of the Buddha in Theravada tradition.",
+   "howCelebratedInMinnesota": "Wat Promwachirayan held Vesakha Puja Day on Sunday, May 11, 2025, 10 a.m. to 1 p.m. In 2017 the temple's treasurer named a Visakha Bucha ceremony among its planned events.",
+   "minnesotaEvents": [
+    {
+     "name": "Vesakha Puja Day",
+     "place": "Wat Promwachirayan, St. Louis Park",
+     "link": "https://www.watthaimn.us/wat-thai-events",
+     "organizerDates": "Sunday, May 11, 2025 (temple calendar)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Full list of Thailand's 2026 public holidays",
+     "url": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Wat Promwachirayan events",
+     "url": "https://www.watthaimn.us/wat-thai-events",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "The Echo, May 2, 2017",
+     "url": "https://slpecho.com/news/2017/05/02/temple-strives-to-include-community/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "asanha-bucha-and-start-of-buddhist-lent",
+   "name": "Asanha Bucha and start of Buddhist Lent",
+   "alsoKnownAs": [
+    "Asalha Puja",
+    "Asarnha Bucha",
+    "Khao Phansa",
+    "Buddhist Lent Day"
+   ],
+   "kind": "religious",
+   "capsule": "Holy day of the Buddha's first sermon, followed the next day by the start of the three-month rains retreat.",
+   "dateRule": "Asanha Bucha is the full moon of the eighth Thai lunar month (the second eighth month in a leap-month year), usually July; Khao Phansa begins the next day. The Minnesota temple observes both on a nearby weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-29",
+     "endDate": "2026-07-30",
+     "source": "Singapore Embassy in Bangkok, Thai public holiday list 2026 (Asarnha Bucha July 29; Buddhist Lent Day July 30)",
+     "sourceUrl": "https://isomer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Updated%20May%202026.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-18",
+     "endDate": null,
+     "source": "Seed calculation (python-holidays, Thailand); not confirmed against an opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-06",
+     "endDate": null,
+     "source": "Seed calculation (python-holidays, Thailand); not confirmed against an opened page",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The Buddha's first sermon, and the start of the three-month rains retreat.",
+   "howCelebratedInMinnesota": "Wat Promwachirayan held Asalha Puja Day and Buddhist Lent Day together on Saturday, July 12, 2025, 10 a.m. to 1 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Asalha Puja Day and Buddhist Lent Day",
+     "place": "Wat Promwachirayan, St. Louis Park",
+     "link": "https://www.watthaimn.us/wat-thai-events",
+     "organizerDates": "Saturday, July 12, 2025 (temple calendar)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Thai Public Holidays 2026",
+     "url": "https://isomer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Updated%20May%202026.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Wat Promwachirayan events",
+     "url": "https://www.watthaimn.us/wat-thai-events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "End of Buddhist Lent and Kathina season",
+   "alsoKnownAs": [
+    "Ok Phansa",
+    "Awk Phansa",
+    "Thot Kathin",
+    "Royal Kathina Ceremony"
+   ],
+   "kind": "religious",
+   "capsule": "End of the three-month rains retreat, followed by a month of Kathina ceremonies offering new robes to monks.",
+   "dateRule": "Ok Phansa is the full moon of the eleventh Thai lunar month, about three lunar months after Khao Phansa; Kathina ceremonies follow within one month and are scheduled by each temple. Projected dates are not confirmed.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-26",
+     "endDate": null,
+     "source": "Projected from the lunar rule (three lunar months after the July 29, 2026 Asanha Bucha); not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-15",
+     "endDate": null,
+     "source": "Projected from the lunar rule; not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-03",
+     "endDate": null,
+     "source": "Projected from the lunar rule; not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The close of the monks' three-month rains retreat. Kathina is an offering of robes and supplies to monks after the retreat.",
+   "howCelebratedInMinnesota": "Wat Promwachirayan held Buddhist Lent Ending Day on Sunday, Oct. 12, 2025, 10 a.m. to 3 p.m. A Royal Kathina ceremony was held there on Oct. 27, 2024, with Thailand's deputy consul-general, the Thai community and Friends of Thailand; Dr. Tatpicha Nunta was the main contributor and also donated to the Thai Arts and Culture School of Minnesota.",
+   "minnesotaEvents": [
+    {
+     "name": "Buddhist Lent Ending Day",
+     "place": "Wat Promwachirayan, St. Louis Park",
+     "link": "https://www.watthaimn.us/wat-thai-events",
+     "organizerDates": "Sunday, Oct. 12, 2025 (temple calendar)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Royal Kathina Ceremony",
+     "place": "Wat Promwachirayan, St. Louis Park",
+     "link": "https://www.mfa.go.th/en/content/pr-chicago-10302024-2",
+     "organizerDates": "October 27, 2024 (Thai consulate report)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Wat Promwachirayan events",
+     "url": "https://www.watthaimn.us/wat-thai-events",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Royal Kathina Ceremony at Wat Promwachirayan (Thai MFA)",
+     "url": "https://www.mfa.go.th/en/content/pr-chicago-10302024-2",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Sart Thai",
+   "alsoKnownAs": [
+    "Salakkapat offering",
+    "Thai autumn merit-making festival"
+   ],
+   "kind": "religious",
+   "capsule": "Merit-making at the end of the tenth lunar month, with food offerings to monks and lot-drawn (Salakkapat) offerings.",
+   "dateRule": "Last day (new moon) of the tenth Thai lunar month, usually September or October; the Minnesota temple holds it on a nearby Sunday. Projected dates are not confirmed.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-10",
+     "endDate": null,
+     "source": "Projected from the lunar rule; not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-30",
+     "endDate": null,
+     "source": "Projected from the lunar rule; not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-18",
+     "endDate": null,
+     "source": "Projected from the lunar rule; not confirmed",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "A merit-making observance at the end of the tenth Thai lunar month with offerings to monks, which the Minnesota temple pairs with Salakkapat offerings. No opened source gives a fuller account.",
+   "howCelebratedInMinnesota": "Wat Promwachirayan held a 'Sart Thai Ceremony and offering Salakkapat' on Sunday, Sept. 21, 2025, 10 a.m. to 2 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Sart Thai Ceremony and offering Salakkapat",
+     "place": "Wat Promwachirayan, St. Louis Park",
+     "link": "https://www.watthaimn.us/wat-thai-events",
+     "organizerDates": "Sunday, Sept. 21, 2025 (temple calendar)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Wat Promwachirayan events",
+     "url": "https://www.watthaimn.us/wat-thai-events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "loy-krathong",
+   "name": "Loy Krathong",
+   "alsoKnownAs": [
+    "Festival of lights and lanterns"
+   ],
+   "kind": "cultural",
+   "capsule": "Full-moon night in November when people float small decorated offerings (krathong) on water.",
+   "dateRule": "Full moon of the twelfth Thai lunar month, usually November. Not a fixed date; sources differ by a day for 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-24",
+     "endDate": null,
+     "source": "Projected full moon of the twelfth lunar month; a travel guide (UME Travel) gives Nov. 25, 2026",
+     "sourceUrl": "https://www.umetravel.com/loy-krathong-festival/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-14",
+     "endDate": null,
+     "source": "UME Travel guide gives Nov. 14, 2027; not confirmed",
+     "sourceUrl": "https://www.umetravel.com/loy-krathong-festival/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Floating offerings on water.",
+   "howCelebratedInMinnesota": "No stand-alone Minnesota Loy Krathong event was found for 2025 or 2026. A 'Loy Krathong - Festival of Lights and Lanterns' segment ran at 6 p.m. on May 18, 2024 at the Minnesota Songkran Festival, and Loy Krathong was the Thai Association of Minnesota's award-winning Festival of Nations exhibit theme in 2012.",
+   "minnesotaEvents": [
+    {
+     "name": "Loy Krathong segment, Minnesota Songkran Festival",
+     "place": "Minnesota State Capitol grounds, St. Paul",
+     "link": "https://www.lrl.mn.gov/archive/minutes/senate/2024/comm/20240319/Comm_20240319_SF5050-Songkran-2024-Full-Version.pdf",
+     "organizerDates": "6 p.m., Saturday May 18, 2024 (festival agenda)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Lantern Festival Thailand 2026 & 2027 (UME Travel)",
+     "url": "https://www.umetravel.com/loy-krathong-festival/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Songkran Festival 2024 booklet",
+     "url": "https://www.lrl.mn.gov/archive/minutes/senate/2024/comm/20240319/Comm_20240319_SF5050-Songkran-2024-Full-Version.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "ThaiAM, Festival of Nations",
+     "url": "https://www.thaiofmn.org/gallery/festival-of-nations",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "thai-mothers-day",
+   "name": "Thai Mother's Day",
+   "alsoKnownAs": [
+    "Queen Sirikit's birthday",
+    "Wan Mae"
+   ],
+   "kind": "national",
+   "capsule": "August 12, the birthday of Queen Mother Sirikit, kept as Mother's Day and a public holiday in Thailand.",
+   "dateRule": "August 12 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-12",
+     "endDate": null,
+     "source": "Human Resources Online and Singapore Embassy 2026 lists",
+     "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-12",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-12",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birthday anniversary of Queen Mother Sirikit, kept as Mother's Day in Thailand.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Full list of Thailand's 2026 public holidays",
+     "url": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Thai Public Holidays 2026",
+     "url": "https://isomer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Updated%20May%202026.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "thai-fathers-day",
+   "name": "Thai Father's Day and National Day",
+   "alsoKnownAs": [
+    "King Bhumibol's birthday",
+    "Wan Pho",
+    "National Day of the Kingdom of Thailand"
+   ],
+   "kind": "national",
+   "capsule": "December 5, the birthday of the late King Bhumibol, kept as Thailand's National Day and Father's Day.",
+   "dateRule": "December 5 each year; Thailand gives a substitute holiday when it falls on a weekend. The Minnesota temple holds it on a nearby Sunday.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-05",
+     "endDate": null,
+     "source": "Human Resources Online 2026 list (substitute holiday Monday Dec. 7, 2026)",
+     "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-05",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-05",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birthday of King Bhumibol Adulyadej the Great, Thailand's National Day and Father's Day.",
+   "howCelebratedInMinnesota": "Wat Promwachirayan held 'Thailand's National Day and Father's Day' on Sunday, Dec. 7, 2025, 1 to 2 p.m.",
+   "minnesotaEvents": [
+    {
+     "name": "Thailand's National Day and Father's Day",
+     "place": "Wat Promwachirayan, St. Louis Park",
+     "link": "https://www.watthaimn.us/wat-thai-events/2025/12/7/thailands-national-day-and-fathers-day",
+     "organizerDates": "Sunday, Dec. 7, 2025, 1-2 p.m. (temple calendar)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Full list of Thailand's 2026 public holidays",
+     "url": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Wat Promwachirayan events",
+     "url": "https://www.watthaimn.us/wat-thai-events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Birthday of King Vajiralongkorn",
+   "alsoKnownAs": [
+    "King's Birthday (Thailand)"
+   ],
+   "kind": "national",
+   "capsule": "July 28, the birthday of King Maha Vajiralongkorn (Rama X), a public holiday in Thailand.",
+   "dateRule": "July 28 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-28",
+     "endDate": null,
+     "source": "Human Resources Online 2026 list",
+     "sourceUrl": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-28",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-28",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The reigning king's birthday.",
+   "howCelebratedInMinnesota": "At the Minnesota Songkran Festival on May 18, 2024, Thailand's consul-general in Chicago hosted a ceremony commemorating the king's July 28 birthday.",
+   "minnesotaEvents": [
+    {
+     "name": "Ceremony for His Majesty the King's birthday, at the Minnesota Songkran Festival",
+     "place": "Minnesota State Capitol, St. Paul",
+     "link": "https://mfa.go.th/en/content/pr-chicago-05312024-2",
+     "organizerDates": "May 18, 2024 (Thai consulate report)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Full list of Thailand's 2026 public holidays",
+     "url": "https://www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Songkran Festival 2024 (Thai MFA, May 31, 2024)",
+     "url": "https://mfa.go.th/en/content/pr-chicago-05312024-2",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Birthday of Queen Suthida",
+   "alsoKnownAs": [
+    "Her Majesty the Queen's Birthday"
+   ],
+   "kind": "national",
+   "capsule": "June 3, the birthday of Queen Suthida, a public holiday in Thailand; the Minnesota temple has marked it.",
+   "dateRule": "June 3 each year; the Minnesota temple observed it on a nearby Sunday in 2025.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-03",
+     "endDate": null,
+     "source": "Singapore Embassy in Bangkok, Thai public holiday list 2026",
+     "sourceUrl": "https://isomer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Updated%20May%202026.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-03",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-03",
+     "endDate": null,
+     "source": "Fixed date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birthday anniversary of Queen Suthida.",
+   "howCelebratedInMinnesota": "Wat Promwachirayan listed a 'Her Majesty Queen' observance on Sunday, June 8, 2025, 11 a.m. to noon, the same day as its 22nd anniversary celebration.",
+   "minnesotaEvents": [
+    {
+     "name": "Her Majesty Queen",
+     "place": "Wat Promwachirayan, St. Louis Park",
+     "link": "https://www.watthaimn.us/wat-thai-events",
+     "organizerDates": "Sunday, June 8, 2025 (temple calendar)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Thai Public Holidays 2026",
+     "url": "https://isomer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Updated%20May%202026.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Wat Promwachirayan events",
+     "url": "https://www.watthaimn.us/wat-thai-events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Thai Picnic",
+   "alsoKnownAs": [
+    "ThaiAM Thai Picnic"
+   ],
+   "kind": "community festival",
+   "capsule": "The Thai Association of Minnesota's late-summer family picnic with Thai food, music, games and children's activities.",
+   "dateRule": "Announced each year by the Thai Association of Minnesota; recent picnics fell on a late-August Sunday.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No 2026 announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A community gathering held for decades, according to the association, at Island Lake County Park; for years it also hosted the Thai consulate's mobile consular service.",
+   "howCelebratedInMinnesota": "Held Aug. 27, 2023 (the first after a COVID pause), Aug. 25, 2024 and Aug. 24, 2025, with a Children's Market where children ran their own stalls and card-making for hospitalized children and, in 2025, for Thai soldiers on the Thai-Cambodian border.",
+   "minnesotaEvents": [
+    {
+     "name": "Thai Picnic 2025",
+     "place": "Island Lake County Park area (venue per ThaiAM's description of past picnics)",
+     "link": "https://www.thaiofmn.org/event/thaiam",
+     "organizerDates": "August 24, 2025 (ThaiAM)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Thai Picnic 2024",
+     "place": "as above",
+     "link": "https://www.thaiofmn.org/event/thaiam",
+     "organizerDates": "August 25, 2024 (ThaiAM)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "ThaiAM events",
+     "url": "https://www.thaiofmn.org/event/thaiam",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "ThaiAM, What We Do",
+     "url": "https://www.thaiofmn.org/About-Us/what-we-do",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": []
+}

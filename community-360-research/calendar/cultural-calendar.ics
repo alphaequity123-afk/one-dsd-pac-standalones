@@ -718,13 +718,18 @@ BEGIN:VEVENT
 UID:songkran-2026-04-13@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260416
 SUMMARY:Songkran
-DESCRIPTION:Traditional Thai new year. Date: April 13 to 15 as set by the
-  Thai government (traditional solar new year). Source: Human Resources On
- line\, Full list of Thailand's 2026 public holidays (reports the Bank of 
- Thailand list) https://www.humanresourcesonline.net/full-list-of-thailand
- -s-2026-public-holidays Communities: Thai Minnesota
+DESCRIPTION:The traditional Thai solar new year. The Tourism Authority of
+  Thailand describes it as marked by merit-making\, water-pouring rituals 
+ for elders and temple visits\, and notes UNESCO recognition as intangible
+  cultural heritage. Date: April 13 to 15 each year\, a fixed public holid
+ ay in Thailand. Minnesota's temple keeps it on or near April 13\; the lar
+ ge public festival is held separately in May (see Minnesota Songkran Fest
+ ival). Source: Singapore Embassy in Bangkok\, Thai public holiday list 20
+ 26\; Human Resources Online 2026 list https://isomer-user-content.by.gov.
+ sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Thai%20Public%20Holidays%20Up
+ dated%20May%202026.pdf Communities: Thai Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1181,6 +1186,21 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:birthday-of-queen-suthida-2026-06-03@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:Birthday of Queen Suthida
+DESCRIPTION:The birthday anniversary of Queen Suthida. Date: June 3 each 
+ year\; the Minnesota temple observed it on a nearby Sunday in 2025. Sourc
+ e: Singapore Embassy in Bangkok\, Thai public holiday list 2026 https://i
+ somer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Tha
+ i%20Public%20Holidays%20Updated%20May%202026.pdf Communities: Thai Minnes
+ ota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:sweet-beet-5k-2026-06-06@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260606
@@ -1538,6 +1558,18 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:birthday-of-king-vajiralongkorn-2026-07-28@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Birthday of King Vajiralongkorn
+DESCRIPTION:The reigning king's birthday. Date: July 28 each year. Source
+ : Human Resources Online 2026 list https://www.humanresourcesonline.net/f
+ ull-list-of-thailand-s-2026-public-holidays Communities: Thai Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:asanha-bucha-and-start-of-buddhist-lent-2026-07-29@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260729
@@ -1549,7 +1581,25 @@ DESCRIPTION:The Buddha's first sermon\, and the start of the three-month
  Full list of Thailand's 2026 public holidays (reports the Bank of Thailan
  d list) https://www.humanresourcesonline.net/full-list-of-thailand-s-2026
  -public-holidays Communities: Burmese Minnesota\, Cambodian Minnesota\, L
- ao Minnesota\, Thai Minnesota
+ ao Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:asanha-bucha-and-start-of-buddhist-lent-2026-07-29@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260731
+SUMMARY:Asanha Bucha and start of Buddhist Lent
+DESCRIPTION:The Buddha's first sermon\, and the start of the three-month 
+ rains retreat. Date: Asanha Bucha is the full moon of the eighth Thai lun
+ ar month (the second eighth month in a leap-month year)\, usually July\; 
+ Khao Phansa begins the next day. The Minnesota temple observes both on a 
+ nearby weekend. Source: Singapore Embassy in Bangkok\, Thai public holida
+ y list 2026 (Asarnha Bucha July 29\; Buddhist Lent Day July 30) https://i
+ somer-user-content.by.gov.sg/251/8e1ca282-3965-4e24-8b61-764cc74923bd/Tha
+ i%20Public%20Holidays%20Updated%20May%202026.pdf Communities: Thai Minnes
+ ota
 CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1679,11 +1729,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
 SUMMARY:Thai Mother's Day
-DESCRIPTION:Birthday of Queen Mother Sirikit\, kept as Mother's Day in Th
- ailand. Date: August 12. Source: Human Resources Online\, Full list of Th
- ailand's 2026 public holidays (reports the Bank of Thailand list) https:/
- /www.humanresourcesonline.net/full-list-of-thailand-s-2026-public-holiday
- s Communities: Thai Minnesota
+DESCRIPTION:The birthday anniversary of Queen Mother Sirikit\, kept as Mo
+ ther's Day in Thailand. Date: August 12 each year. Source: Human Resource
+ s Online and Singapore Embassy 2026 lists https://www.humanresourcesonlin
+ e.net/full-list-of-thailand-s-2026-public-holidays Communities: Thai Minn
+ esota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2112,6 +2162,20 @@ DESCRIPTION:Irreecha\, the Oromo thanksgiving. Date: Set each year by Oro
   Irreecha Minnesota\, irreechaa.org\; Oromo Diaspora Media https://irreec
  haa.org/event/ireechaa-by-the-water-sept-19-2026-at-powderhorn-park-lake-
  in-minneapolis/ Communities: Oromo Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:minnesothai-thai-street-food-festival-2026-09-19@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+SUMMARY:MinnesoThai Thai Street Food Festival
+DESCRIPTION:A community food and culture festival\; proceeds support Wat 
+ Promwachirayan and the local Thai community\, per the organizer. Date: An
+ nounced each year by the Thai Cultural Council of Minnesota\; held on a S
+ eptember weekend. Source: Thai Cultural Council of Minnesota https://www.
+ thaiculturemn.us/ Communities: Thai Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2721,20 +2785,6 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:loy-krathong-2026-11-24@community-360-research
-DTSTAMP:20261031T000000Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Loy Krathong
-DESCRIPTION:Floating offerings on water. Date: Full moon of the twelfth T
- hai lunar month\, usually November. Source: Sanook Campus\, วันล
- อยกระทง 2569 (Thai news site\; no government list covers th
- is non-holiday) https://www.sanook.com/campus/910912/ Communities: Thai M
- innesota
-CATEGORIES:cultural
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:thanksgiving-2026-11-26@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261126
@@ -2784,12 +2834,14 @@ UID:thai-fathers-day-2026-12-05@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-SUMMARY:Thai Father's Day
-DESCRIPTION:Birthday of King Bhumibol\, kept as Father's Day in Thailand.
-  Date: December 5. Source: Human Resources Online\, Full list of Thailand
- 's 2026 public holidays (reports the Bank of Thailand list) https://www.h
- umanresourcesonline.net/full-list-of-thailand-s-2026-public-holidays Comm
- unities: Thai Minnesota
+SUMMARY:Thai Father's Day and National Day
+DESCRIPTION:The birthday of King Bhumibol Adulyadej the Great\, Thailand'
+ s National Day and Father's Day. Date: December 5 each year\; Thailand gi
+ ves a substitute holiday when it falls on a weekend. The Minnesota temple
+  holds it on a nearby Sunday. Source: Human Resources Online 2026 list (s
+ ubstitute holiday Monday Dec. 7\, 2026) https://www.humanresourcesonline.
+ net/full-list-of-thailand-s-2026-public-holidays Communities: Thai Minnes
+ ota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3358,13 +3410,18 @@ BEGIN:VEVENT
 UID:songkran-2027-04-13@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270416
 SUMMARY:Songkran
-DESCRIPTION:Traditional Thai new year. Date: April 13 to 15 as set by the
-  Thai government (traditional solar new year). Source: Bank of Thailand\,
-  Notification No. 37/2569\, Financial institutions holidays for B.E. 2570
-  (2027) https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/En
- gPDF/25690175.pdf Communities: Thai Minnesota
+DESCRIPTION:The traditional Thai solar new year. The Tourism Authority of
+  Thailand describes it as marked by merit-making\, water-pouring rituals 
+ for elders and temple visits\, and notes UNESCO recognition as intangible
+  cultural heritage. Date: April 13 to 15 each year\, a fixed public holid
+ ay in Thailand. Minnesota's temple keeps it on or near April 13\; the lar
+ ge public festival is held separately in May (see Minnesota Songkran Fest
+ ival). Source: Bank of Thailand\, Notification No. 37/2569\, Financial in
+ stitutions holidays for B.E. 2570 (2027) https://www.bot.or.th/content/da
+ m/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf Communities: Thai Minn
+ esota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3868,11 +3925,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
 SUMMARY:Thai Mother's Day
-DESCRIPTION:Birthday of Queen Mother Sirikit\, kept as Mother's Day in Th
- ailand. Date: August 12. Source: Bank of Thailand\, Notification No. 37/2
- 569\, Financial institutions holidays for B.E. 2570 (2027) https://www.bo
- t.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf Comm
- unities: Thai Minnesota
+DESCRIPTION:The birthday anniversary of Queen Mother Sirikit\, kept as Mo
+ ther's Day in Thailand. Date: August 12 each year. Source: Bank of Thaila
+ nd\, Notification No. 37/2569\, Financial institutions holidays for B.E. 
+ 2570 (2027) https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/256
+ 9/EngPDF/25690175.pdf Communities: Thai Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4270,12 +4327,14 @@ UID:thai-fathers-day-2027-12-05@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271205
 DTEND;VALUE=DATE:20271206
-SUMMARY:Thai Father's Day
-DESCRIPTION:Birthday of King Bhumibol\, kept as Father's Day in Thailand.
-  Date: December 5. Source: Bank of Thailand\, Notification No. 37/2569\, 
- Financial institutions holidays for B.E. 2570 (2027) https://www.bot.or.t
- h/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf Communitie
- s: Thai Minnesota
+SUMMARY:Thai Father's Day and National Day
+DESCRIPTION:The birthday of King Bhumibol Adulyadej the Great\, Thailand'
+ s National Day and Father's Day. Date: December 5 each year\; Thailand gi
+ ves a substitute holiday when it falls on a weekend. The Minnesota temple
+  holds it on a nearby Sunday. Source: Bank of Thailand\, Notification No.
+  37/2569\, Financial institutions holidays for B.E. 2570 (2027) https://w
+ ww.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf
+  Communities: Thai Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5231,11 +5290,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280812
 DTEND;VALUE=DATE:20280813
 SUMMARY:Thai Mother's Day
-DESCRIPTION:Birthday of Queen Mother Sirikit\, kept as Mother's Day in Th
- ailand. Date: August 12. Source: Bank of Thailand\, Notification No. 37/2
- 569\, Financial institutions holidays for B.E. 2570 (2027) https://www.bo
- t.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf Comm
- unities: Thai Minnesota
+DESCRIPTION:The birthday anniversary of Queen Mother Sirikit\, kept as Mo
+ ther's Day in Thailand. Date: August 12 each year. Source: Bank of Thaila
+ nd\, Notification No. 37/2569\, Financial institutions holidays for B.E. 
+ 2570 (2027) https://www.bot.or.th/content/dam/bot/fipcs/documents/FPG/256
+ 9/EngPDF/25690175.pdf Communities: Thai Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5575,12 +5634,14 @@ UID:thai-fathers-day-2028-12-05@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281205
 DTEND;VALUE=DATE:20281206
-SUMMARY:Thai Father's Day
-DESCRIPTION:Birthday of King Bhumibol\, kept as Father's Day in Thailand.
-  Date: December 5. Source: Bank of Thailand\, Notification No. 37/2569\, 
- Financial institutions holidays for B.E. 2570 (2027) https://www.bot.or.t
- h/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf Communitie
- s: Thai Minnesota
+SUMMARY:Thai Father's Day and National Day
+DESCRIPTION:The birthday of King Bhumibol Adulyadej the Great\, Thailand'
+ s National Day and Father's Day. Date: December 5 each year\; Thailand gi
+ ves a substitute holiday when it falls on a weekend. The Minnesota temple
+  holds it on a nearby Sunday. Source: Bank of Thailand\, Notification No.
+  37/2569\, Financial institutions holidays for B.E. 2570 (2027) https://w
+ ww.bot.or.th/content/dam/bot/fipcs/documents/FPG/2569/EngPDF/25690175.pdf
+  Communities: Thai Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
