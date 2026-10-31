@@ -17,7 +17,7 @@ All 39 communities are finished, each with a profile, business list, corrections
 
 ## In progress
 
-- A course outline built from the Minnesota culture essay, for Gary to review. The Railway `cultural-calendar` service is connected to this branch, so nothing on Railway is changed.
+- `cross-cutting/minnesota-culture/course-outline.md`: a draft outline of a six-module course (about 20 minutes each) built from the essay, waiting for Gary's review. It will be hosted on Railway and does not mention the Intercultural Development Inventory, which is covered elsewhere in the app. The Railway `cultural-calendar` service is connected to this branch, so nothing on Railway is changed.
 
 ## Still to do on the calendar
 
