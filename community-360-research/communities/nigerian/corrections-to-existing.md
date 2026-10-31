@@ -1,0 +1,71 @@
+# Corrections to the existing Nigerian Minnesota page
+
+Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/nigerian
+Checked: October 31, 2026. Each item gives the claim, what the opened source says, the link and the date checked.
+
+## Errors or outdated claims
+
+1. **Claim:** Minnesota Compass (ACS 2019 to 2023) counts about 18,141 Nigerian Minnesotans, 87.6 percent in the Twin Cities and 12.4 percent in Greater Minnesota; 29.9 percent 17 or younger, 8.2 percent 65+, 60.3 percent foreign-born, 55.7 percent speaking a language other than English, 7.6 percent speaking English less than "very well," 96.1 percent high school or higher, 54.0 percent bachelor's or higher, median household income about $88,194, poverty 6.8 percent, 53.8 percent owners, household size 2.63, disability 8.9 percent.
+   **Source says:** Compass now shows ACS 2020 to 2024. Its best estimate of size is 25,310 (2024, plus or minus 9,024); the profile population is 21,206 (plus or minus 3,847). Twin Cities 81.7 percent, Greater Minnesota 18.3 percent; 33.4 percent 17 or younger; 6.8 percent 65+; 59.0 percent foreign-born; 59.3 percent language other than English; 11.3 percent English less than "very well"; 95.8 percent high school or higher; 55.3 percent bachelor's or higher; median household income $76,000 in 2024 dollars (plus or minus $22,344); share below poverty suppressed; 45.0 percent owners, 55.0 percent renters; household size 2.92; disability 7.3 percent. Every figure on the page should be replaced and dated, with margins of error, which are wide.
+   **Link:** https://www.mncompass.org/topics/demographics/cultural-communities/nigerian . Checked Oct. 31, 2026.
+
+2. **Claim:** "We did not find a reliable count of Nigerian Minnesotans."
+   **Source says:** The page contradicts itself: it cites Compass elsewhere, and Compass publishes a count with margins of error (item 1). Compass also reports that 32 percent of Nigerian-born Minnesotans have been in the U.S. five years or fewer, the highest share among the immigrant groups it lists.
+   **Links:** https://www.mncompass.org/topics/demographics/cultural-communities/nigerian ; https://www.mncompass.org/data-insights/articles/10-things-know-about-immigration-minnesota . Checked Oct. 31, 2026.
+
+3. **Claim:** The Minnesota Institute for Nigeria's Development: "We did not find a website, so ask about its current work"; MIND described as "historically an umbrella."
+   **Source says:** MIND has a current website under the name Minnesota Institute for Nigerian Development. It calls itself the umbrella for the Nigerian community in Minnesota since 1994, holds an open general meeting the first Sunday of each month at Camphor Memorial Methodist Church in St. Paul, lists an October Independence celebration and a summer picnic, and is raising money for a community center. It is current, not only historical.
+   **Links:** https://www.mindmn.org/ ; https://www.mindmn.org/faq/ ; https://www.mindmn.org/events/ . Checked Oct. 31, 2026.
+
+4. **Claim:** "We did not find a Minnesota Yoruba, Edo or Nigerian women's association."
+   **Source says:** MIND lists the Igbo Women League of Minnesota (about 30 years old), the Egba Descendants Association of Minnesota (founded 2002), Egbe Omo Oduduwa Minnesota (a Yoruba association founded 1995), the Edo Association of Minnesota, the Anioma Cultural Association, the Ibadan Descendants' Union, the Ijebu Descendants Association and Ekitileto. Eko Club Minnesota, an association of Lagosians, was founded in 2004.
+   **Links:** https://www.mindmn.org/naija-groups/ ; https://igbowomenleaguemn.org/ ; https://egbamn.org/about-us ; https://oduduwamn.org/past-presidents/ ; https://www.lrl.mn.gov/docs/2018/other/181224/governor/images/eko_day2014.pdf . Checked Oct. 31, 2026.
+
+5. **Claim:** The Redeemed Christian Church of God has a Minneapolis parish, Strong Tower, at 697 Northeast 13th Avenue (status unknown).
+   **Source says:** RCCG North America's 2020 list of "Parishes No Longer In RCCG (USA)" includes "Strong Tower Parish, Minneapolis," ZIP 55413. It should not be presented as an RCCG parish.
+   **Link:** https://www.rccgna.org/wp-content/uploads/2020/07/Copy-of-Churches-that-have-left-RCCG-Updated.pdf . Checked Oct. 31, 2026.
+
+6. **Claim:** Compass average household size 2.63, "smaller than the Kenyan, Liberian, and Ethiopian Compass rows."
+   **Source says:** Compass now gives 2.92 (2020 to 2024). The comparison with other communities was not rechecked and should be dropped or redone.
+   **Link:** https://www.mncompass.org/topics/demographics/cultural-communities/nigerian . Checked Oct. 31, 2026.
+
+7. **Claim (Fatima Lawson):** She earned "a master's degree and a Ph.D. at the University of Minnesota"; Books For Africa board officer.
+   **Source says:** The 2023 Margaret McNamara profile says she earned a Ph.D. in education policy and administration at the University of Minnesota in 1995 and does not mention a Minnesota master's degree; it calls her Secretary of the Books For Africa board, while Books For Africa's 2024 page calls her Treasurer. The Highwood Hills page cited for the 2026 Bush Fellowship did not display readable text, so that claim could not be confirmed.
+   **Links:** https://www.mmeg.org/women-building-a-bettter-world-1/2023/4/12/fatima-lawson ; https://www.booksforafrica.org/news/star-tribune-fatima-lawson-2024.html . Checked Oct. 31, 2026.
+
+8. **Claim:** A source labeled "Minnesota House of Representatives, Rep. Esther Agbaje" links to publichealthlawcenter.org.
+   **Source says:** The label and link do not match. The Legislative Reference Library record confirms birth in St. Paul on March 19, 1985, House District 59B, service from 2021 and the 2025 to 2026 term, and that her "parents came to Minnesota from Nigeria."
+   **Link:** https://www.lrl.mn.gov/legdb/fulldetail.aspx?ID=15551 . Checked Oct. 31, 2026.
+
+## Missing from the page
+
+9. **Nigerian Catholic Mass.** The Archdiocese of St. Paul and Minneapolis began a monthly Nigerian Mass at St. Peter Claver in St. Paul on Aug. 27, 2017, organized by a committee of Nigerian Catholics, with parts in a Nigerian language. In July 2026 The Catholic Spirit reported that Father Bruno Nwachukwu still celebrates it every fourth Sunday and is chaplain of the Nigerian Catholic Community of Minnesota.
+   **Links:** https://www.thecatholicspirit.com/news/local-news/nigerian-mass-begins-st-paul/ ; https://www.thecatholicspirit.com/news/local-news/special-sections/world-mission-sunday/an-african-irish-priest-shares-his-mission-in-the-archdiocese/ ; https://www.thecatholicspirit.com/news/local-news/black-catholic-ministry-commission-seeks-unity-in-diversity/ . Checked Oct. 31, 2026.
+
+10. **Federal entry restrictions.** The page speaks of an "enforcement climate" but not of the Dec. 16, 2025, proclamation (effective Jan. 1, 2026) that placed Nigeria under a partial entry suspension for immigrant and B, F, M and J visas, or the July 2025 move to single-entry, three-month visitor visas. A Nigerian finalist for the June 2026 Great American Think-Off in New York Mills was denied entry under the proclamation.
+   **Links:** https://www.stonybrook.edu/visa/resources/news-and-events/immigration-policy-updates/presidential-proclamation-expanding-us-entry-restrictions-12-16-2025.html ; https://www.nbcnews.com/news/nbcblk/new-limits-nigerian-travelers-squeeze-families-businesses-us-rcna218756 ; https://ottertaillakescountry.com/blog/great-american-think-off-announces-finalist-change-for-2026-debate/ . Checked Oct. 31, 2026.
+
+11. **Minnesota people.** Most named profiles on the page (Hakeem Olajuwon, Bennet Omalu, Uzo Aduba, Nnedi Okorafor, Teju Cole, Babatunde Olatunji, Tope Awotona, Ijeoma Oluo, Ngozi Ezike, Wale, Elijah Akinyemi) are not Minnesotans. Minnesota figures documented in opened sources include architect Wale Falade (FIHAN), principal Dr. Fatima Lawson, nurse practitioner Adejoke Adedeji (Nexus of Hope), musician Obi Original, The Purposed Parent's founders, Father Bruno Nwachukwu and Zoma House founder Uzoma Ngwu.
+   **Links:** https://sahanjournal.com/climate-environment/wale-falade-fihan-north-commons-park-nigerian-architect-minneapolis/ ; https://www.mprnews.org/story/2023/09/15/practitioner-works-to-erase-stigma-some-african-immigrants-feel-about-mental-health-care ; https://sahanjournal.com/arts-culture/obi-original-afrobeats-nigerian-musician/ . Checked Oct. 31, 2026.
+
+## Claims checked and supported
+
+- IgboFest: Umunne formed 1985; first IgboFest 1994; 31st festival Aug. 8, 2026, at North Hennepin Community College; free; co-sponsored by the City of Brooklyn Park, Minneapolis Northwest Tourism and the Minnesota Humanities Center; Minneapolis Northwest Tourism reports more than 5,000 attendees (the association's president told Sahan Journal about 10,000). https://www.nhcc.edu/news/igbofest-2026 ; https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2016_08_10_igbo_day_tcm1055-252051.pdf ; https://www.minneapolisnorthwest.com/events/annual-events-and-festivals/igbofest/ . Checked Oct. 31, 2026.
+- 2016 proclamation's "thousands of Igbo residents." Same link. Checked Oct. 31, 2026.
+- CCX Media 2019: Brooklyn Park and Brooklyn Center together have one of the largest African populations in the state. https://ccxmedia.org/news/celebrate-west-african-culture-at-igbofest-in-brooklyn-park/ . Checked Oct. 31, 2026.
+- Esther Agbaje: first Nigerian American in the Minnesota House (Voice of America, 2021); defeated Raymond Dehn with 48 percent on Aug. 11, 2020; father an Episcopal priest; Shattuck-St. Mary's, George Washington, Penn and Harvard Law. https://www.voanews.com/a/usa_us-politics_daughter-nigerian-immigrants-hopes-lead-example-minnesota-legislature/6201049.html ; https://www.lrl.mn.gov/legdb/fulldetail.aspx?ID=15551 . Checked Oct. 31, 2026.
+- Brooklyn Park sister cities in Liberia, The Gambia and Nigeria since 2012; Udu approved 2023. https://www.brooklynpark.org/sister-cities/ ; https://ccxmedia.org/news/brooklyn-park-approves-sister-city-relationship-with-udu-nigeria/ . Checked Oct. 31, 2026.
+- Nigerians in Diaspora Organisation Americas unification meeting, Nov. 16, 2024, Bloomington. https://www.thisdaylive.com/2024/11/22/nigerian-groups-in-the-americas-resolve-dispute-unite/ . Checked Oct. 31, 2026.
+- Association of Nigerian Nurses in Minnesota: umbrella of Nigerian nurses associations, 20th anniversary gala, continuing education through Dec. 31, 2026. https://annimn.nursingnetwork.com/ . Checked Oct. 31, 2026.
+- Minnesota Community of African People with Disabilities: founded 2014 by two physically disabled East African Americans; pan-African, not Nigerian-specific. https://mncapd.org/ . Checked Oct. 31, 2026.
+- Fatima Lawson: born and raised in Kano; University of Ife degrees in French/Portuguese and linguistics; principal for 12 years of an immersion school she helped start; MIND vice president (2023). https://www.mmeg.org/women-building-a-bettter-world-1/2023/4/12/fatima-lawson . Checked Oct. 31, 2026.
+
+## Claims that could not be supported from opened sources
+
+- Agbaje "understands Yoruba," her parents "met as students at the University of Minnesota," and she is co-vice chair of House Ways and Means: not stated in the pages opened.
+- Fatima Lawson as board chair of Minnesota Africans United and the 2026 Bush Fellowship: source pages were not readable.
+- University of Minnesota Nigerian Student Association "6 officers and 21 members": the GopherLink page opened did not show these counts.
+- Mshale reporting (Udu celebration and Richard Mofe-Damijo honor, 2024) and the 2022 Peoples Gazette passport outreach report: Mshale blocked access, and the Peoples Gazette article was not opened.
+- CDC hepatitis B screening guidance naming Nigeria: the CDC page blocked access.
+- The page's general statements about Islam "in Hausa-Fulani rooms," traditional religion, FGC, colorism, titles, Pidgin and dress have no Minnesota source; no Minnesota source was found to support or contradict them.
+- Athlete profiles (Josh Okogie, Daniel Oturu, Ifeadi Odenigbo) were not rechecked.

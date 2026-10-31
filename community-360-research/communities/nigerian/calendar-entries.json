@@ -1,0 +1,628 @@
+{
+ "community": "nigerian",
+ "entries": [
+  {
+   "seedId": "nigerian-independence-day",
+   "name": "Nigerian Independence Day",
+   "alsoKnownAs": [
+    "Independence Day (Nigeria)"
+   ],
+   "kind": "national",
+   "capsule": "Marks Nigeria's independence on Oct. 1, 1960; Minnesota's Nigerian umbrella group holds an Independence celebration each October.",
+   "dateRule": "October 1 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-01",
+     "endDate": null,
+     "source": "Fixed date; Gov. Mark Dayton's 2014 proclamation names Oct. 1 as the anniversary of Nigerian independence",
+     "sourceUrl": "https://www.leg.mn.gov/docs/2018/Other/181224/old_original/governor/images/Nigerian_Independence_Day.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-10-01",
+     "endDate": null,
+     "source": "Fixed date; Gov. Mark Dayton's 2014 proclamation names Oct. 1 as the anniversary of Nigerian independence",
+     "sourceUrl": "https://www.leg.mn.gov/docs/2018/Other/181224/old_original/governor/images/Nigerian_Independence_Day.pdf",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-10-01",
+     "endDate": null,
+     "source": "Fixed date; Gov. Mark Dayton's 2014 proclamation names Oct. 1 as the anniversary of Nigerian independence",
+     "sourceUrl": "https://www.leg.mn.gov/docs/2018/Other/181224/old_original/governor/images/Nigerian_Independence_Day.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Nigeria's independence from Britain in 1960 (the 2014 proclamation marked the 54th anniversary).",
+   "howCelebratedInMinnesota": "The Minnesota Institute for Nigerian Development lists an 'Independence Celebration in October' among its yearly events; no date or place for 2026 was published on the pages opened. Gov. Mark Dayton proclaimed Oct. 1, 2014, Nigerian Independence Day in Minnesota.",
+   "minnesotaEvents": [
+    {
+     "name": "MIND Independence Celebration",
+     "place": "Not stated",
+     "link": "https://www.mindmn.org/events/",
+     "organizerDates": "October each year; 2026 date not published",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Nigerian Independence Day proclamation, 2014 (Office of Gov. Mark Dayton)",
+     "url": "https://www.leg.mn.gov/docs/2018/Other/181224/old_original/governor/images/Nigerian_Independence_Day.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "MIND Events",
+     "url": "https://www.mindmn.org/events/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "IgboFest",
+   "alsoKnownAs": [
+    "Igbo Festival",
+    "Igbo Day (when proclaimed by the governor)"
+   ],
+   "kind": "community festival",
+   "capsule": "Free festival of Igbo culture in Brooklyn Park, held each August since 1994 by the Umunne Cultural Association.",
+   "dateRule": "Announced each year by the Umunne Cultural Association; a Saturday in August.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-08",
+     "endDate": null,
+     "source": "North Hennepin Community College; CCX Media; Minneapolis Northwest Tourism",
+     "sourceUrl": "https://www.nhcc.edu/news/igbofest-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Igbo culture and heritage; the 2026 festival was the 31st.",
+   "howCelebratedInMinnesota": "Held on the grounds of North Hennepin Community College, Brooklyn Park, 11 a.m. to 7 p.m. in 2026, with masquerades, dances by children and women, clothing and bead vendors and Igbo food; free. Governors proclaimed the festival Saturday as Igbo Day in 2016, 2019 and 2022.",
+   "minnesotaEvents": [
+    {
+     "name": "31st annual IgboFest",
+     "place": "North Hennepin Community College, 7411 85th Ave. N., Brooklyn Park",
+     "link": "https://www.nhcc.edu/news/igbofest-2026",
+     "organizerDates": "Saturday, Aug. 8, 2026, 11 a.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "IgboFest 2026, North Hennepin Community College",
+     "url": "https://www.nhcc.edu/news/igbofest-2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "IgboFest Returns To Brooklyn Park Aug. 8, CCX Media (July 31, 2026)",
+     "url": "https://ccxmedia.org/news/igbofest-returns-to-brooklyn-park-aug-8-celebrating-nigerian-culture/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "IgboFest, Minneapolis Northwest Tourism",
+     "url": "https://www.minneapolisnorthwest.com/events/annual-events-and-festivals/igbofest/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Igbo Day proclamation 2016",
+     "url": "https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2016_08_10_igbo_day_tcm1055-252051.pdf",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Igbo Day proclamation 2019",
+     "url": "https://mn.gov/governor/assets/08.10.19%20Igbo%20Day_tcm1055-398324.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "IgboFest Gala Night",
+   "alsoKnownAs": [
+    "IgboFest Gala"
+   ],
+   "kind": "community festival",
+   "capsule": "Evening gala on the eve of IgboFest, with guests in traditional Igbo attire; it has included the Ada Igbo pageant.",
+   "dateRule": "Announced each year; the Friday before IgboFest.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-07",
+     "endDate": null,
+     "source": "Minneapolis Northwest Tourism; Sahan Journal",
+     "sourceUrl": "https://www.minneapolisnorthwest.com/events/annual-events-and-festivals/igbofest/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Opening of the IgboFest weekend.",
+   "howCelebratedInMinnesota": "In 2026 at the Brooklyn Park Activity Center, 5600 85th Ave. N., with guests invited to wear traditional Igbo attire. In 2022 the gala was held at Banquets of Minnesota and included the Ada Igbo beauty pageant.",
+   "minnesotaEvents": [
+    {
+     "name": "IgboFest Gala Night 2026",
+     "place": "Brooklyn Park Activity Center, 5600 85th Ave. N., Brooklyn Park",
+     "link": "https://sahanjournal.com/news/minnesota-african-cultural-igbo-fest-lets-gidi-yama-fest/",
+     "organizerDates": "Friday, Aug. 7, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "IgboFest, Minneapolis Northwest Tourism",
+     "url": "https://www.minneapolisnorthwest.com/events/annual-events-and-festivals/igbofest/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Five festivals celebrate Minnesota's connection to the diaspora, Sahan Journal (Aug. 4, 2026)",
+     "url": "https://sahanjournal.com/news/minnesota-african-cultural-igbo-fest-lets-gidi-yama-fest/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "How the Igbo culture is gaining acceptance in Minnesota, ICIR (Aug. 26, 2022)",
+     "url": "https://www.icirnigeria.org/how-the-igbo-culture-is-gaining-acceptance-in-the-us-state-of-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Let's Gidi Fest",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "Outdoor Afrobeats and African food festival in downtown Minneapolis, started in 2025 by a Nigerian-founded lounge and production company.",
+   "dateRule": "Announced each year by Gidi Bar & Lounge and Bel Curv Management Group.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-08",
+     "endDate": null,
+     "source": "Sahan Journal",
+     "sourceUrl": "https://sahanjournal.com/news/minnesota-african-cultural-igbo-fest-lets-gidi-yama-fest/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "African music and culture, with Nigerian headliners.",
+   "howCelebratedInMinnesota": "Second year in 2026: noon to 10 p.m. in the Gidi parking lot, 322 N. 1st Ave., Minneapolis, with Nigerian artists Flavour and Lojay and Kenyan, Nigerian and Jamaican food vendors.",
+   "minnesotaEvents": [
+    {
+     "name": "Let's Gidi Fest 2026",
+     "place": "Gidi parking lot, 322 N. 1st Ave., Minneapolis",
+     "link": "https://sahanjournal.com/news/minnesota-african-cultural-igbo-fest-lets-gidi-yama-fest/",
+     "organizerDates": "Saturday, Aug. 8, 2026, noon to 10 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Five festivals celebrate Minnesota's connection to the diaspora, Sahan Journal (Aug. 4, 2026)",
+     "url": "https://sahanjournal.com/news/minnesota-african-cultural-igbo-fest-lets-gidi-yama-fest/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Yoruba Fest (Egbe Omo Oduduwa Minnesota)",
+   "alsoKnownAs": [
+    "YorubaFest"
+   ],
+   "kind": "community festival",
+   "capsule": "Yoruba cultural festival organized by the Minnesota Yoruba association Egbe Omo Oduduwa; the 2026 date was not published on pages opened.",
+   "dateRule": "Announced by Egbe Omo Oduduwa Minnesota.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "Organizer invited vendors for a 2026 Yoruba Fest; no date found",
+     "sourceUrl": "https://oduduwamn.org/egbe-omo-oduduwa-mn-2026-yoruba-fest-arts-and-craftvendor-application-form/",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Yoruba culture and heritage.",
+   "howCelebratedInMinnesota": "The association's 2026 vendor form refers to food and arts-and-craft vendors at Yoruba Fest; date and place were not stated.",
+   "minnesotaEvents": [
+    {
+     "name": "2026 Yoruba Fest",
+     "place": "Not stated",
+     "link": "https://oduduwamn.org/egbe-omo-oduduwa-mn-2026-yoruba-fest-arts-and-craftvendor-application-form/",
+     "organizerDates": "2026; date not stated",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Egbe Omo Oduduwa MN, 2026 Yoruba Fest vendor application form",
+     "url": "https://oduduwamn.org/egbe-omo-oduduwa-mn-2026-yoruba-fest-arts-and-craftvendor-application-form/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "christmas",
+   "name": "Christmas",
+   "alsoKnownAs": [
+    "Navidad",
+    "Noël",
+    "Pasko"
+   ],
+   "kind": "religious",
+   "capsule": "Christmas, the birth of Jesus, kept by Nigerian Christians; no Minnesota source describes a community-wide Nigerian Christmas gathering.",
+   "dateRule": "December 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Fixed Gregorian date",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Fixed Gregorian date",
+     "url": null,
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "good-friday",
+   "name": "Good Friday",
+   "alsoKnownAs": [
+    "Viernes Santo",
+    "Biyernes Santo"
+   ],
+   "kind": "religious",
+   "capsule": "Good Friday, the crucifixion of Jesus, kept by Nigerian Christians; no Minnesota Nigerian-specific observance was found.",
+   "dateRule": "The Friday before Western Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-03",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-26",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-14",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The crucifixion of Jesus.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Good Friday",
+     "url": null,
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "Pascua",
+    "Pâques",
+    "Pasko ng Pagkabuhay"
+   ],
+   "kind": "religious",
+   "capsule": "Easter, the resurrection of Jesus, kept by Nigerian Christians; no Minnesota Nigerian-specific observance was found.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Calculated: Gregorian Easter computus (python-dateutil 2.9), Western Easter",
+     "url": null,
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "start-of-ramadan",
+   "name": "Start of Ramadan",
+   "alsoKnownAs": [
+    "Ramadan",
+    "Ramazan",
+    "Soomaan"
+   ],
+   "kind": "religious",
+   "capsule": "Start of the Muslim month of fasting, kept by Nigerian Muslims; no Minnesota Nigerian Muslim gathering was found.",
+   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-28",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the month of daytime fasting.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "url": null,
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-alfitr",
+   "name": "Eid al-Fitr",
+   "alsoKnownAs": [
+    "Ciid Yare",
+    "Ramazanski Bajram",
+    "Id el Fitr"
+   ],
+   "kind": "religious",
+   "capsule": "Eid al-Fitr ends Ramadan; kept by Nigerian Muslims, but no Minnesota Nigerian Muslim gathering was found.",
+   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-20",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-26",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "End of Ramadan.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "url": null,
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": "eid-aladha",
+   "name": "Eid al-Adha",
+   "alsoKnownAs": [
+    "Ciid Weyn",
+    "Kurban Bajram",
+    "Id el Kabir"
+   ],
+   "kind": "religious",
+   "capsule": "Eid al-Adha, the festival of sacrifice; kept by Nigerian Muslims, but no Minnesota Nigerian Muslim gathering was found.",
+   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "url": null,
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  }
+ ],
+ "droppedSeedEntries": [
+  {
+   "id": "islamic-new-year",
+   "reason": "No Minnesota source ties this observance to Nigerian Minnesotans; kept off to avoid inventing a local practice."
+  },
+  {
+   "id": "mawlid-annabi",
+   "reason": "No Minnesota source ties this observance to Nigerian Minnesotans; not observed by all Muslims, and no local Nigerian gathering was found."
+  }
+ ]
+}

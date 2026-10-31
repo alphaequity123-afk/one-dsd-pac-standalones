@@ -1943,6 +1943,19 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:igbofest-gala-night-2026-08-07@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:IgboFest Gala Night
+DESCRIPTION:Opening of the IgboFest weekend. Date: Announced each year\; 
+ the Friday before IgboFest. Source: Minneapolis Northwest Tourism\; Sahan
+  Journal https://www.minneapolisnorthwest.com/events/annual-events-and-fe
+ stivals/igbofest/ Communities: Nigerian Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:minnesota-black-chamber-of-commerce-gala-2026-08-08@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260808
@@ -1952,6 +1965,33 @@ DESCRIPTION:Black business achievement. Date: Announced each year by the
  chamber. Source: Spokesman-Recorder https://spokesman-recorder.com/2026/0
  8/13/minnesota-black-business-hall-of-fame-inaugural-class/ Communities: 
  African American Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:igbofest-2026-08-08@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:IgboFest
+DESCRIPTION:Igbo culture and heritage\; the 2026 festival was the 31st. D
+ ate: Announced each year by the Umunne Cultural Association\; a Saturday 
+ in August. Source: North Hennepin Community College\; CCX Media\; Minneap
+ olis Northwest Tourism https://www.nhcc.edu/news/igbofest-2026 Communitie
+ s: Nigerian Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lets-gidi-fest-2026-08-08@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Let's Gidi Fest
+DESCRIPTION:African music and culture\, with Nigerian headliners. Date: A
+ nnounced each year by Gidi Bar & Lounge and Bel Curv Management Group. So
+ urce: Sahan Journal https://sahanjournal.com/news/minnesota-african-cultu
+ ral-igbo-fest-lets-gidi-yama-fest/ Communities: Nigerian Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2641,11 +2681,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Nigerian Independence Day
-DESCRIPTION:Independence in 1960. Date: October 1. Source: Federal Republ
- ic of Nigeria\, Federal Ministry of Information and National Orientation\
- , FG declares Thursday October 1st 2026 public holiday https://fmino.gov.
- ng/fg-declares-thursday-october-1st-2026-public-holiday-to-mark-nigerias-
- 66th-independence-anniversary/ Communities: Nigerian Minnesota
+DESCRIPTION:Nigeria's independence from Britain in 1960 (the 2014 proclam
+ ation marked the 54th anniversary). Date: October 1 each year. Source: Fi
+ xed date\; Gov. Mark Dayton's 2014 proclamation names Oct. 1 as the anniv
+ ersary of Nigerian independence https://www.leg.mn.gov/docs/2018/Other/18
+ 1224/old_original/governor/images/Nigerian_Independence_Day.pdf Communiti
+ es: Nigerian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4662,11 +4703,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
 SUMMARY:Nigerian Independence Day
-DESCRIPTION:Independence in 1960. Date: October 1. Source: Federal Republ
- ic of Nigeria\, Federal Ministry of Information and National Orientation\
- , FG declares Thursday October 1st 2026 public holiday https://fmino.gov.
- ng/fg-declares-thursday-october-1st-2026-public-holiday-to-mark-nigerias-
- 66th-independence-anniversary/ Communities: Nigerian Minnesota
+DESCRIPTION:Nigeria's independence from Britain in 1960 (the 2014 proclam
+ ation marked the 54th anniversary). Date: October 1 each year. Source: Fi
+ xed date\; Gov. Mark Dayton's 2014 proclamation names Oct. 1 as the anniv
+ ersary of Nigerian independence https://www.leg.mn.gov/docs/2018/Other/18
+ 1224/old_original/governor/images/Nigerian_Independence_Day.pdf Communiti
+ es: Nigerian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6077,11 +6119,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281001
 DTEND;VALUE=DATE:20281002
 SUMMARY:Nigerian Independence Day
-DESCRIPTION:Independence in 1960. Date: October 1. Source: Federal Republ
- ic of Nigeria\, Federal Ministry of Information and National Orientation\
- , FG declares Thursday October 1st 2026 public holiday https://fmino.gov.
- ng/fg-declares-thursday-october-1st-2026-public-holiday-to-mark-nigerias-
- 66th-independence-anniversary/ Communities: Nigerian Minnesota
+DESCRIPTION:Nigeria's independence from Britain in 1960 (the 2014 proclam
+ ation marked the 54th anniversary). Date: October 1 each year. Source: Fi
+ xed date\; Gov. Mark Dayton's 2014 proclamation names Oct. 1 as the anniv
+ ersary of Nigerian independence https://www.leg.mn.gov/docs/2018/Other/18
+ 1224/old_original/governor/images/Nigerian_Independence_Day.pdf Communiti
+ es: Nigerian Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
