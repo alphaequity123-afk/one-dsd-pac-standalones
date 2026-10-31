@@ -1,0 +1,282 @@
+[
+ {
+  "name": "Patisserie 46",
+  "type": "bakery",
+  "neighborhoodOrCity": "South Minneapolis (4552 Grand Ave. S.)",
+  "whatItIs": "French bakery and patisserie founded by chef John Kraus; sister shop Rose Street Patisserie in St. Paul.",
+  "link": "https://patisserie46.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site advertises Thanksgiving preorders and Galette des Rois preorders; a Jan. 22, 2026 Counselor Realty guide lists Tuesday-Sunday hours."
+ },
+ {
+  "name": "Rose Street Patisserie",
+  "type": "bakery",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Sister patisserie of Patisserie 46, French breads and pastries.",
+  "link": "https://patisserie46.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Shares the Patisserie 46 site, which lists Rose Street hours and location and current seasonal preorders."
+ },
+ {
+  "name": "Marc Heu Patisserie Paris",
+  "type": "bakery",
+  "neighborhoodOrCity": "St. Paul (156 Dale St. N.)",
+  "whatItIs": "Paris-style patisserie run by Marc and Gaosong Heu; Marc Heu is a French-born Hmong pastry chef raised in French Guiana and trained at École Lenôtre.",
+  "link": "https://www.buzzsprout.com/2614919/episodes/19406714-between-2-urns-marc-heu",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Ramsey County podcast dated June 26, 2026 describes him sharing pastry at his St. Paul shop; Sahan Journal (2023) gives the Dale Street address."
+ },
+ {
+  "name": "Patrick's Bakery & Café",
+  "type": "bakery and café",
+  "neighborhoodOrCity": "Richfield, Edina (Southdale Square) and Maple Grove",
+  "whatItIs": "French bakery-café ('We bring France to you!') with pastries, chocolates and bistro dishes.",
+  "link": "https://patricksbakerycafe.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current locations and reservations, copyright 2026."
+ },
+ {
+  "name": "Trung Nam French Bakery",
+  "type": "bakery",
+  "neighborhoodOrCity": "St. Paul (739 University Ave. W.)",
+  "whatItIs": "Longtime Vietnamese French bakery known for baguettes, pastries and banh mi.",
+  "link": "https://vsiskin.counselorrealty.com/blog/2026/01/22/wintertime-cafes-and-bakeries-locals-love-around-the-twin-cities",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Listed as a current winter favorite in a Jan. 22, 2026 Twin Cities guide."
+ },
+ {
+  "name": "Bûcheron",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "French-and-Minnesotan restaurant by Adam Ritter and Jeanie Janas Ritter; James Beard Award for Best New Restaurant, 2025.",
+  "link": "https://mspmag.com/eat-and-drink/the-best-restaurants-in-the-twin-cities-2026/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Named among Mpls.St.Paul Magazine's 50 best restaurants of 2026."
+ },
+ {
+  "name": "Thérèse",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Edina (50th and France, Nolan Mains)",
+  "whatItIs": "Classic French bistro from chef Daniel del Prado.",
+  "link": "https://mspmag.com/eat-and-drink/restaurant-review-therese-french-arrival/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Mpls.St.Paul Magazine review published March 29, 2026 describes it as open and serving brunch, lunch and dinner."
+ },
+ {
+  "name": "Oh Crêpe!",
+  "type": "restaurant / crêperie",
+  "neighborhoodOrCity": "Edina-Minneapolis border (4408 France Ave. S.)",
+  "whatItIs": "Breton-style crêperie serving buckwheat galettes and sweet crêpes.",
+  "link": "https://www.ohcrepemn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site posts hours and 'Fall 2026' food and drink menus."
+ },
+ {
+  "name": "Barbette",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Uptown Minneapolis (1600 W. Lake St.)",
+  "whatItIs": "Self-described organic French brasserie.",
+  "link": "https://www.barbette.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current brunch, happy hour and dinner hours and reservations."
+ },
+ {
+  "name": "Salut Bar Américain",
+  "type": "restaurant",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "French-American brasserie.",
+  "link": "https://www.salutbaramericain.com/",
+  "dateChecked": "2026-10-31",
+  "status": "closed",
+  "evidence": "Own site states: 'Salut is now permanently closed.'"
+ },
+ {
+  "name": "Meritage",
+  "type": "restaurant",
+  "neighborhoodOrCity": "St. Paul (410 St. Peter St., per 2020-21 directory)",
+  "whatItIs": "French-style restaurant and oyster bar.",
+  "link": "https://meritage-stpaul.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loads only a title with no hours or menu readable; no 2025-2026 article was found."
+ },
+ {
+  "name": "Valerie's French Kitchen",
+  "type": "personal chef / caterer",
+  "neighborhoodOrCity": "Minneapolis area",
+  "whatItIs": "Personal chef and catering service run by a native of France; catered the French-American Heritage Foundation's anniversary event.",
+  "link": "https://valeriesfrenchkitchen.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site describes services but shows no dated post, hours or 2025-2026 activity."
+ },
+ {
+  "name": "Mademoiselle Miel",
+  "type": "chocolatier",
+  "neighborhoodOrCity": "St. Paul (308 Prince St.)",
+  "whatItIs": "Honey bonbons and chocolates; listed in the Alliance Française's French Resource Directory.",
+  "link": "https://www.mademoisellemiel.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site and shop page load but show no dated activity."
+ },
+ {
+  "name": "Patisserie Margo",
+  "type": "bakery",
+  "neighborhoodOrCity": "Edina",
+  "whatItIs": "French-style patisserie listed in the 2020-2021 French Resource Directory.",
+  "link": "https://patisseriemargomn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site shows only a title and an empty 'Contact and Hours' heading."
+ },
+ {
+  "name": "Grand Café",
+  "type": "restaurant",
+  "neighborhoodOrCity": "South Minneapolis (3804 Grand Ave. S., per 2020-21 directory)",
+  "whatItIs": "French-style café listed in the 2020-2021 directory.",
+  "link": "https://www.afmsp.org/s/frdtopost.pdf",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "The domain grandcafempls.com now shows an unrelated French food blog; no current page for the restaurant was found."
+ },
+ {
+  "name": "Saint Genevieve",
+  "type": "restaurant",
+  "neighborhoodOrCity": "South Minneapolis (5003 Bryant Ave. S., per 2020-21 directory)",
+  "whatItIs": "French-inspired restaurant listed in the 2020-2021 directory.",
+  "link": "https://www.afmsp.org/s/frdtopost.pdf",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "No working website or current listing was found."
+ },
+ {
+  "name": "Crêpe and Spoon",
+  "type": "restaurant / crêperie",
+  "neighborhoodOrCity": "Northeast Minneapolis (339 22nd Ave. NE, per 2020-21 directory)",
+  "whatItIs": "Crêpe café listed in the 2020-2021 directory.",
+  "link": "https://www.afmsp.org/s/frdtopost.pdf",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Its website returned a DNS error on Oct. 31, 2026."
+ },
+ {
+  "name": "Bali African Market",
+  "type": "grocery",
+  "neighborhoodOrCity": "New Hope",
+  "whatItIs": "Market of African-sourced ingredients run by a Cameroonian family, per Sahan Journal (2024).",
+  "link": "https://sahanjournal.com/immigration/minnesota-cameroonian-community-more-than-doubles/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only a June 2024 article was found; no current listing."
+ },
+ {
+  "name": "Savorous (Chef Armelle)",
+  "type": "caterer / cooking instruction",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Chef who taught Togolese fonio dishes at the Alliance Française in 2024.",
+  "link": "https://www.afmsp.org/mois-de-la-francophonie-2024",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only the 2024 Alliance Française event listing was found."
+ },
+ {
+  "name": "Mes Amis French School",
+  "type": "school (private)",
+  "neighborhoodOrCity": "Hopkins / Minnetonka",
+  "whatItIs": "French immersion preschool, toddler and after-school programs; founded 2005 by Rose Mingo-Holtz, originally from Haiti.",
+  "link": "https://mesamisfrenchschool.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site describes current programs; MPR News (July 16, 2026) describes the founder as current director."
+ },
+ {
+  "name": "The French Académie",
+  "type": "school (private)",
+  "neighborhoodOrCity": "Minnetonka (12301 Whitewater Dr.)",
+  "whatItIs": "French immersion daycare, preschool and elementary; says it is AEFE-accredited.",
+  "link": "https://www.thefrenchacademie.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows admissions open for the 2025-2026 school year."
+ },
+ {
+  "name": "Notre École",
+  "type": "school (private)",
+  "neighborhoodOrCity": "Golden Valley",
+  "whatItIs": "K-5 French immersion STEAM school with staff from France, Canada and the Francophone world.",
+  "link": "https://www.notreecole.org/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site calendar lists events for late October and early November 2026."
+ },
+ {
+  "name": "Alliance Française Mpls/St Paul",
+  "type": "language school and cultural center (nonprofit)",
+  "neighborhoodOrCity": "North Minneapolis, Harrison neighborhood (227 Colfax Ave. N.); also Rochester",
+  "whatItIs": "French classes, events, gallery, boutique, Honorary Consul of France office.",
+  "link": "https://www.afmsp.org/mission",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists fall 2026 events (Oct. 8, Nov. 12, Dec. 9, 2026) and its 2026 Bastille Day."
+ },
+ {
+  "name": "Concordia Language Villages, Lac du Bois",
+  "type": "immersion camp",
+  "neighborhoodOrCity": "Near Bemidji (Turtle River Lake)",
+  "whatItIs": "French Language Village since 1962, with the Les Voyageurs canoe program.",
+  "link": "https://www.concordialanguagevillages.org/languages/french/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site advertises summer program registration as open."
+ },
+ {
+  "name": "Minnesota Accueil",
+  "type": "media / newcomer network",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Volunteer French-language website, newsletter and Facebook groups welcoming French speakers; lists francophone addresses and events.",
+  "link": "https://www.minnesotaaccueil.com/actualites.html",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "News posts dated through Aug. 25, 2026."
+ },
+ {
+  "name": "Bonjour Minnesota (KFAI)",
+  "type": "media / radio program",
+  "neighborhoodOrCity": "Minneapolis (KFAI community radio)",
+  "whatItIs": "Weekly French-language music, culture and news program on the air since the 1980s, per Minnesota Accueil.",
+  "link": "https://www.minnesotaaccueil.com/actualites.html",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Minnesota Accueil post dated March 16, 2026 describes the program's spring pledge drive; KFAI's own page did not load."
+ },
+ {
+  "name": "French-American Chamber of Commerce, Minnesota Chapter",
+  "type": "chamber of commerce",
+  "neighborhoodOrCity": "Minneapolis (610 9th St. SE, per 2020-21 directory)",
+  "whatItIs": "Business network supporting French and American companies and entrepreneurs.",
+  "link": "https://www.afmsp.org/s/frdtopost.pdf",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Its site faccmn.com returned 'Service Unavailable' on Oct. 31, 2026."
+ },
+ {
+  "name": "Minneapolis Cider Company",
+  "type": "cider taproom (event venue)",
+  "neighborhoodOrCity": "Minneapolis (701 SE 9th St.)",
+  "whatItIs": "Taproom that hosts the annual Breizh Fest celebrating Brittany; earlier home of Crêperie Breizh.",
+  "link": "https://minneapoliscider.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows taproom hours and copyright 2026; Minnesota Accueil announced Breizh Fest there for June 5, 2026. Not French-owned as far as available sources show."
+ }
+]

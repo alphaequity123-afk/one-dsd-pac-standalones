@@ -10763,9 +10763,7 @@
    "observanceKey": "easter",
    "name": "Easter",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "Pâques"
    ],
    "communities": [
     "french"
@@ -10777,10 +10775,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
-   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "capsule": "The Christian feast of the Resurrection, central to Catholic and Protestant families of French and French Canadian heritage.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian; Western churches).",
    "dates": [
     {
      "year": 2026,
@@ -10808,20 +10806,24 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "whatItMarks": "The resurrection of Jesus in Western Christian tradition.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Calculated date from seed calendar (Gregorian Easter computus)",
+     "url": "",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "french--christmas",
    "observanceKey": "christmas",
    "name": "Christmas",
    "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
+    "Noël"
    ],
    "communities": [
     "french"
@@ -10833,10 +10835,10 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
-   "dateRule": "December 25.",
+   "capsule": "Christian feast of the birth of Jesus, observed December 25 by Catholic and Protestant families.",
+   "dateRule": "December 25 each year.",
    "dates": [
     {
      "year": 2026,
@@ -10864,18 +10866,25 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+   "whatItMarks": "The birth of Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Fixed date from seed calendar",
+     "url": "",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "french--haitian-independence-day",
    "observanceKey": "haitian-independence-day",
    "name": "Haitian Independence Day",
    "alsoKnownAs": [
-    "Jour de l'Indépendance"
+    "Jour de l'Indépendance",
+    "Fèt Endepandans"
    ],
    "communities": [
     "french"
@@ -10887,47 +10896,544 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
    "kind": "national",
-   "capsule": "Haitian independence in 1804.",
-   "dateRule": "January 1.",
+   "capsule": "January 1 marks Haiti's 1804 independence, celebrated with soup joumou; Haiti was the first Black republic.",
+   "dateRule": "January 1 each year.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-01-01",
      "endDate": null,
-     "source": "Embassy of the Republic of Haiti in Washington, Key Dates",
-     "sourceUrl": "https://www.haiti.org/key-dates/",
+     "source": "Embassy of Haiti (states Jan. 1, 1804, as Independence Day)",
+     "sourceUrl": "https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-01-01",
      "endDate": null,
-     "source": "Embassy of the Republic of Haiti in Washington, Key Dates",
-     "sourceUrl": "https://www.haiti.org/key-dates/",
+     "source": "Embassy of Haiti (states Jan. 1, 1804, as Independence Day)",
+     "sourceUrl": "https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-01-01",
      "endDate": null,
-     "source": "Embassy of the Republic of Haiti in Washington, Key Dates",
-     "sourceUrl": "https://www.haiti.org/key-dates/",
+     "source": "Embassy of Haiti (states Jan. 1, 1804, as Independence Day)",
+     "sourceUrl": "https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Haitian independence in 1804.",
+   "whatItMarks": "Haiti's independence on January 1, 1804, which the Embassy of Haiti describes as making it the first Black republic and the first country in the Western Hemisphere to abolish slavery.",
+   "howCelebratedInMinnesota": "No public Minnesota event was found for 2026. The Embassy describes eating soup joumou as an integral part of the day.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebration of Haiti's 212th Year of Independence",
+     "url": "https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--ancestors-day-haiti",
+   "observanceKey": "ancestors-day-haiti",
+   "name": "Ancestors' Day (Haiti)",
+   "alsoKnownAs": [
+    "Jour des Aïeux"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "national",
+   "capsule": "January 2, the day after Haitian Independence Day, honors the founders of Haiti and those who died for independence.",
+   "dateRule": "January 2 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-02",
+     "endDate": null,
+     "source": "Embassy of Haiti (first two days of the year dedicated to Independence Day and Ancestors' Day)",
+     "sourceUrl": "https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-02",
+     "endDate": null,
+     "source": "Embassy of Haiti (first two days of the year dedicated to Independence Day and Ancestors' Day)",
+     "sourceUrl": "https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-02",
+     "endDate": null,
+     "source": "Embassy of Haiti (first two days of the year dedicated to Independence Day and Ancestors' Day)",
+     "sourceUrl": "https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Remembrance of Haiti's founders and those who sacrificed their lives in the fight for independence.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebration of Haiti's 212th Year of Independence",
+     "url": "https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "french--haiti-earthquake-remembrance",
    "observanceKey": "haiti-earthquake-remembrance",
    "name": "Haiti earthquake remembrance",
+   "alsoKnownAs": [
+    "12 janvier",
+    "Goudougoudou"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "remembrance",
+   "capsule": "Anniversary of the January 12, 2010 magnitude 7.0 earthquake near Léogâne, Haiti; for many families, the start of TPS.",
+   "dateRule": "January 12 each year (anniversary of the 2010 earthquake).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-12",
+     "endDate": null,
+     "source": "U.S. Geological Survey event record (Jan. 12, 2010)",
+     "sourceUrl": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h&format=geojson",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-12",
+     "endDate": null,
+     "source": "U.S. Geological Survey event record (Jan. 12, 2010)",
+     "sourceUrl": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h&format=geojson",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-12",
+     "endDate": null,
+     "source": "U.S. Geological Survey event record (Jan. 12, 2010)",
+     "sourceUrl": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h&format=geojson",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The 2010 earthquake in Haiti. Sahan Journal reports that many Haitians held Temporary Protected Status from shortly after it until TPS for Haiti ended in 2026.",
+   "howCelebratedInMinnesota": "No Minnesota remembrance event was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "M 7.0 - 10 km SE of Léogâne, Haiti",
+     "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h&format=geojson",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota's Haitian community at risk for deportation as Trump ends TPS designation",
+     "url": "https://sahanjournal.com/immigration/tps-ends-haiti-minnesota-deportation/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--haitian-flag-day",
+   "observanceKey": "haitian-flag-day",
+   "name": "Haitian Flag Day",
+   "alsoKnownAs": [
+    "Fête du Drapeau",
+    "Fèt Drapo"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "national",
+   "capsule": "May 18 honors the blue and red Haitian flag, created in 1803 at Arcahaie, with music, dance and food.",
+   "dateRule": "May 18 each year; community events may fall on a nearby weekend.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-18",
+     "endDate": null,
+     "source": "Embassy of Haiti (flag created May 18, 1803; celebrated each year on May 18)",
+     "sourceUrl": "https://www.haiti.org/national-haitian-flag-day-celebration-2015-activities-in-the-u-s/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-18",
+     "endDate": null,
+     "source": "Embassy of Haiti (flag created May 18, 1803; celebrated each year on May 18)",
+     "sourceUrl": "https://www.haiti.org/national-haitian-flag-day-celebration-2015-activities-in-the-u-s/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-18",
+     "endDate": null,
+     "source": "Embassy of Haiti (flag created May 18, 1803; celebrated each year on May 18)",
+     "sourceUrl": "https://www.haiti.org/national-haitian-flag-day-celebration-2015-activities-in-the-u-s/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Creation of the Haitian flag on May 18, 1803, in Arcahaie.",
+   "howCelebratedInMinnesota": "Afoutayi Haitian Dance, Music and Arts Company held a Flag Day celebration on Saturday, May 17, 2025, at New Branches Church in Minneapolis, with performances, dance and drumming workshops, storytelling, a costume contest and Haitian food. Afoutayi announced it was moving to Toronto by summer 2026; no 2026 Minnesota event was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Afoutayi Ayiti - Haiti Flag Day Celebration",
+     "place": "New Branches Church, Minneapolis",
+     "link": "https://dancemn.org/submissions/afoutayi-ayiti-haiti-flag-day-celebration/",
+     "organizerDates": "Saturday, May 17, 2025, 3:00 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "National Haitian Flag Day Celebration: 2015 Activities in the U.S.",
+     "url": "https://www.haiti.org/national-haitian-flag-day-celebration-2015-activities-in-the-u-s/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Afoutayi Ayiti - Haiti Flag Day Celebration (DanceMN)",
+     "url": "https://dancemn.org/submissions/afoutayi-ayiti-haiti-flag-day-celebration/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Afoutayi home page (move to Toronto)",
+     "url": "https://www.afoutayidmaco.com/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--bastille-day",
+   "observanceKey": "bastille-day",
+   "name": "Bastille Day",
+   "alsoKnownAs": [
+    "Le 14 juillet",
+    "Fête nationale française"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "national",
+   "capsule": "France's national day, July 14, marked in Minneapolis by the Alliance Française's annual outdoor celebration.",
+   "dateRule": "July 14 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-14",
+     "endDate": null,
+     "source": "Alliance Française Mpls/St Paul (celebration July 14, 2026; says the holiday is July 14 each year)",
+     "sourceUrl": "https://www.afmsp.org/bastille-day-2026-afmsp",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-14",
+     "endDate": null,
+     "source": "Alliance Française Mpls/St Paul (celebration July 14, 2026; says the holiday is July 14 each year)",
+     "sourceUrl": "https://www.afmsp.org/bastille-day-2026-afmsp",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-14",
+     "endDate": null,
+     "source": "Alliance Française Mpls/St Paul (celebration July 14, 2026; says the holiday is July 14 each year)",
+     "sourceUrl": "https://www.afmsp.org/bastille-day-2026-afmsp",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The storming of the Bastille in 1789, a step toward the French Revolution.",
+   "howCelebratedInMinnesota": "The Alliance Française Mpls/St Paul holds an annual celebration at 227 Colfax Ave. N., Minneapolis. In 2026 it ran Tuesday, July 14, 5 to 8 p.m., with live music, traditional French food, games, team competitions and family entertainment.",
+   "minnesotaEvents": [
+    {
+     "name": "Bastille Day 2026",
+     "place": "Alliance Française, 227 Colfax Ave. N., Minneapolis",
+     "link": "https://www.afmsp.org/bastille-day-2026-afmsp",
+     "organizerDates": "Tuesday, July 14, 2026, 5 to 8 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Bastille Day 2026",
+     "url": "https://www.afmsp.org/bastille-day-2026-afmsp",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--canadian-days-little-canada",
+   "observanceKey": "canadian-days-little-canada",
+   "name": "Canadian Days (Little Canada)",
+   "alsoKnownAs": [
+    "Little Canada Canadian Days"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "community festival",
+   "capsule": "Little Canada's volunteer-run summer festival, held every year since 1977, celebrating the city's French Canadian founding.",
+   "dateRule": "Set each year by the volunteer Canadian Days committee; held in late July or early August.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-31",
+     "endDate": null,
+     "source": "City of Little Canada (festival at Spooner Park, July 31, 2026)",
+     "sourceUrl": "https://www.canadiandays.org/m/newsflash/home/detail/653",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.canadiandays.org/m/newsflash/home/detail/653",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.canadiandays.org/m/newsflash/home/detail/653",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The city's heritage as a French Canadian settlement founded by Benjamin Gervais in 1844.",
+   "howCelebratedInMinnesota": "Held every year since 1977 by volunteers. The 2026 festival, themed 'Where 50 Years Feels Like Home,' was at Spooner Park in Little Canada and opened July 31, 2026. The organizer's pages do not state the closing date.",
+   "minnesotaEvents": [
+    {
+     "name": "Canadian Days 2026",
+     "place": "Spooner Park, Little Canada",
+     "link": "https://www.canadiandays.org/m/newsflash/home/detail/653",
+     "organizerDates": "Opened July 31, 2026 (closing date not stated)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Penny Press Machine (Canadian Days news)",
+     "url": "https://www.canadiandays.org/m/newsflash/home/detail/653",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "About Us, Canadian Days",
+     "url": "https://www.canadiandays.org/433/About-Us",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Photo Gallery, Canadian Days",
+     "url": "https://www.canadiandays.org/449/Photo-Gallery",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--mois-de-la-francophonie",
+   "observanceKey": "mois-de-la-francophonie",
+   "name": "Mois de la Francophonie",
+   "alsoKnownAs": [
+    "Month of the Francophonie"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "cultural",
+   "capsule": "Each March the Alliance Française features one French-speaking country: Togo in 2024, Laos in 2025, Tunisia in 2026.",
+   "dateRule": "The month of March; program announced each year by the Alliance Française Mpls/St Paul.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-01",
+     "endDate": "2026-03-31",
+     "source": "Alliance Française Mpls/St Paul (March 2026, celebrating Tunisia)",
+     "sourceUrl": "https://www.afmsp.org/mois-de-la-francophonie-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.afmsp.org/mois-de-la-francophonie-2026",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.afmsp.org/mois-de-la-francophonie-2026",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The diversity of the French-speaking world.",
+   "howCelebratedInMinnesota": "A month of cooking classes, art exhibits, talks, music and children's programs at the Alliance Française in Minneapolis. 2026 featured Tunisia, with a Tunisian tagine cooking class on March 3; 2024 featured Togo with the Twin Cities Togolese community.",
+   "minnesotaEvents": [
+    {
+     "name": "Mois de la Francophonie 2026: Tunisia",
+     "place": "Alliance Française, Minneapolis",
+     "link": "https://www.afmsp.org/mois-de-la-francophonie-2026",
+     "organizerDates": "March 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Mois de la Francophonie 2026",
+     "url": "https://www.afmsp.org/mois-de-la-francophonie-2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Mois de la Francophonie 2024",
+     "url": "https://www.afmsp.org/mois-de-la-francophonie-2024",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--fête-nationale-du-québec-saintjeanbaptiste",
+   "observanceKey": "fête-nationale-du-québec-saintjeanbaptiste",
+   "name": "Fête nationale du Québec (Saint-Jean-Baptiste)",
+   "alsoKnownAs": [
+    "Saint-Jean-Baptiste",
+    "La Saint-Jean"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "heritage",
+   "capsule": "Quebec's national holiday, June 24, the feast of St. John the Baptist; historically marked by French Canadian societies.",
+   "dateRule": "June 24 each year; Quebec's public activities run June 23 and 24.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-24",
+     "endDate": null,
+     "source": "Gouvernement du Québec (activities June 23 and 24)",
+     "sourceUrl": "https://www.quebec.ca/culture/fete-nationale",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-24",
+     "endDate": null,
+     "source": "Gouvernement du Québec (activities June 23 and 24)",
+     "sourceUrl": "https://www.quebec.ca/culture/fete-nationale",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-24",
+     "endDate": null,
+     "source": "Gouvernement du Québec (activities June 23 and 24)",
+     "sourceUrl": "https://www.quebec.ca/culture/fete-nationale",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Quebec's national holiday and the feast of St. John the Baptist, patron of French Canadians.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Fête nationale du Québec",
+     "url": "https://www.quebec.ca/culture/fete-nationale",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Echo de l'Ouest (Société St. Jean Baptiste, Duluth, 1887)",
+     "url": "https://www.mnhs.org/newspapers/hub/echo-de-louest",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--voyageur-day-snake-river-fur-post",
+   "observanceKey": "voyageur-day-snake-river-fur-post",
+   "name": "Voyageur Day, Snake River Fur Post",
    "alsoKnownAs": [],
    "communities": [
     "french"
@@ -10939,42 +11445,637 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
     }
    ],
-   "profileLink": null,
-   "kind": "remembrance",
-   "capsule": "The January 12, 2010 earthquake in Haiti.",
-   "dateRule": "January 12.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "heritage",
+   "capsule": "MNHS summer event near Pine City showing the work and daily lives of French Canadian voyageurs in the early 1800s.",
+   "dateRule": "Set each year by the Minnesota Historical Society; first held July 18, 2026.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-01-12",
+     "date": "2026-07-18",
      "endDate": null,
-     "source": "U.S. Geological Survey, The Mw 7.0 Haiti Earthquake of January 12, 2010, USGS/EERI Advance Reconnaissance Team Report",
-     "sourceUrl": "https://www.usgs.gov/publications/mw-70-haiti-earthquake-january-12-2010-usgseeri-advance-reconnaissance-team-report",
+     "source": "Minnesota Historical Society news release, June 29, 2026",
+     "sourceUrl": "https://www.mnhs.org/media/news/snake-river-fur-post-introduce-new-summer-event",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-01-12",
+     "date": null,
      "endDate": null,
-     "source": "U.S. Geological Survey, The Mw 7.0 Haiti Earthquake of January 12, 2010, USGS/EERI Advance Reconnaissance Team Report",
-     "sourceUrl": "https://www.usgs.gov/publications/mw-70-haiti-earthquake-january-12-2010-usgseeri-advance-reconnaissance-team-report",
-     "verified": true
+     "source": "No announcement found",
+     "sourceUrl": "https://www.mnhs.org/media/news/snake-river-fur-post-introduce-new-summer-event",
+     "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-01-12",
+     "date": null,
      "endDate": null,
-     "source": "U.S. Geological Survey, The Mw 7.0 Haiti Earthquake of January 12, 2010, USGS/EERI Advance Reconnaissance Team Report",
-     "sourceUrl": "https://www.usgs.gov/publications/mw-70-haiti-earthquake-january-12-2010-usgseeri-advance-reconnaissance-team-report",
+     "source": "No announcement found",
+     "sourceUrl": "https://www.mnhs.org/media/news/snake-river-fur-post-introduce-new-summer-event",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The voyageurs of the fur trade.",
+   "howCelebratedInMinnesota": "11 a.m. to 4 p.m. at 12551 Voyageur Lane, Pine City, with reenactors from La Compagnie des Hivernants de la Rivière Saint Pierre, historic foodways, trade goods and paddling a replica fur-trade canoe.",
+   "minnesotaEvents": [
+    {
+     "name": "Voyageur Day",
+     "place": "Snake River Fur Post, Pine City",
+     "link": "https://www.mnhs.org/media/news/snake-river-fur-post-introduce-new-summer-event",
+     "organizerDates": "Saturday, July 18, 2026, 11 a.m. to 4 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Snake River Fur Post to Introduce New Summer Event",
+     "url": "https://www.mnhs.org/media/news/snake-river-fur-post-introduce-new-summer-event",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--winter-frolic-snake-river-fur-post",
+   "observanceKey": "winter-frolic-snake-river-fur-post",
+   "name": "Winter Frolic, Snake River Fur Post",
+   "alsoKnownAs": [],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "heritage",
+   "capsule": "Annual MNHS winter day of fur-trade era games, curling stones, snowshoeing and voyageur reenactors near Pine City.",
+   "dateRule": "Set each year by the Minnesota Historical Society, usually a Saturday in January.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-24",
+     "endDate": null,
+     "source": "Minnesota Historical Society news release, Dec. 18, 2025",
+     "sourceUrl": "https://www.mnhs.org/media/news/winter-frolic-2026-snake-river-fur-post",
      "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.mnhs.org/media/news/winter-frolic-2026-snake-river-fur-post",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.mnhs.org/media/news/winter-frolic-2026-snake-river-fur-post",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "How fur traders, voyageurs and local Ojibwe experienced winter.",
+   "howCelebratedInMinnesota": "Traditional games, curling-stone tossing, snowshoeing and reenactors from La Compagnie des Hivernants de la Rivière Saint Pierre at the Snake River Fur Post.",
+   "minnesotaEvents": [
+    {
+     "name": "Winter Frolic",
+     "place": "Snake River Fur Post, Pine City",
+     "link": "https://www.mnhs.org/media/news/winter-frolic-2026-snake-river-fur-post",
+     "organizerDates": "January 24, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Experience Traditional Winter Fun at the Snake River Fur Post",
+     "url": "https://www.mnhs.org/media/news/winter-frolic-2026-snake-river-fur-post",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--breizh-fest-fest-noz",
+   "observanceKey": "breizh-fest-fest-noz",
+   "name": "Breizh Fest (Fest Noz)",
+   "alsoKnownAs": [
+    "Fest Noz"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "community festival",
+   "capsule": "An evening celebrating Brittany with Breton music and dancing, galettes, crêpes and cider at Minneapolis Cider Company.",
+   "dateRule": "Announced each year; the sixth edition was set for Friday, June 5, 2026.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-05",
+     "endDate": null,
+     "source": "Minnesota Accueil announcement (May 7, 2026); organizer's own page not found",
+     "sourceUrl": "https://www.minnesotaaccueil.com/actualites.html",
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.minnesotaaccueil.com/actualites.html",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.minnesotaaccueil.com/actualites.html",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Breton culture from the Brittany region of France.",
+   "howCelebratedInMinnesota": "Minnesota Accueil announced the sixth Breizh Fest for 5 to 9 p.m. on June 5, 2026, at Minneapolis Cider Company, with dancing to the biniou (Breton bagpipe), galettes, crêpes and cider.",
+   "minnesotaEvents": [
+    {
+     "name": "Breizh Fest (6th edition)",
+     "place": "Minneapolis Cider Company, 701 SE 9th St., Minneapolis",
+     "link": "https://www.minnesotaaccueil.com/actualites.html",
+     "organizerDates": "Friday, June 5, 2026, 5 to 9 p.m., as announced by Minnesota Accueil",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Accueil, Actualités",
+     "url": "https://www.minnesotaaccueil.com/actualites.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--francophone-spring-picnic",
+   "observanceKey": "francophone-spring-picnic",
+   "name": "Francophone spring picnic",
+   "alsoKnownAs": [
+    "Pique-nique de printemps"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "community festival",
+   "capsule": "Minnesota Accueil's potluck picnic for French speakers and their families each spring.",
+   "dateRule": "Announced each year by Minnesota Accueil.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-31",
+     "endDate": null,
+     "source": "Minnesota Accueil (organizer), April 30 and May 25, 2026 posts",
+     "sourceUrl": "https://www.minnesotaaccueil.com/actualites.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.minnesotaaccueil.com/actualites.html",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.minnesotaaccueil.com/actualites.html",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A social gathering for French speakers in Minnesota.",
+   "howCelebratedInMinnesota": "Potluck from noon at Bryant Lake Park, Eden Prairie, with volunteer grill chefs.",
+   "minnesotaEvents": [
+    {
+     "name": "Pique-nique de printemps",
+     "place": "Bryant Lake Park, 6800 Rowland Rd., Eden Prairie",
+     "link": "https://www.minnesotaaccueil.com/actualites.html",
+     "organizerDates": "Sunday, May 31, 2026, from noon",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Accueil, Actualités",
+     "url": "https://www.minnesotaaccueil.com/actualites.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--francophone-backtoschool-picnic",
+   "observanceKey": "francophone-backtoschool-picnic",
+   "name": "Francophone back-to-school picnic",
+   "alsoKnownAs": [
+    "Pique-nique de rentrée"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "community festival",
+   "capsule": "Minnesota Accueil's late-summer potluck picnic welcoming French-speaking families before the school year.",
+   "dateRule": "Announced each year by Minnesota Accueil.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-30",
+     "endDate": null,
+     "source": "Minnesota Accueil (organizer), July 30 and Aug. 25, 2026 posts",
+     "sourceUrl": "https://www.minnesotaaccueil.com/actualites.html",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.minnesotaaccueil.com/actualites.html",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://www.minnesotaaccueil.com/actualites.html",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The start of the school year (la rentrée) and a welcome for newcomers.",
+   "howCelebratedInMinnesota": "Potluck from noon at Kenwood Park, Minneapolis.",
+   "minnesotaEvents": [
+    {
+     "name": "Pique-nique de rentrée",
+     "place": "Kenwood Park, 2101 W. Franklin Ave., Minneapolis",
+     "link": "https://www.minnesotaaccueil.com/actualites.html",
+     "organizerDates": "Sunday, Aug. 30, 2026, from noon",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Minnesota Accueil, Actualités",
+     "url": "https://www.minnesotaaccueil.com/actualites.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--lumières-françaises-french-film-series",
+   "observanceKey": "lumières-françaises-french-film-series",
+   "name": "Lumières Françaises (French film series)",
+   "alsoKnownAs": [],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "cultural",
+   "capsule": "MSP Film's annual summer series of French cinema; 2026 showed Éric Rohmer's Six Moral Tales.",
+   "dateRule": "Set each year by MSP Film.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-31",
+     "endDate": "2026-08-06",
+     "source": "MSP Film (organizer)",
+     "sourceUrl": "https://mspfilm.org/series/lumieres-francaises/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://mspfilm.org/series/lumieres-francaises/",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": "https://mspfilm.org/series/lumieres-francaises/",
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "French film culture.",
+   "howCelebratedInMinnesota": "Screenings at The Main Cinema, 115 SE Main St., Minneapolis.",
+   "minnesotaEvents": [
+    {
+     "name": "Lumières Françaises Presents: Eric Rohmer's Six Moral Tales",
+     "place": "The Main Cinema, Minneapolis",
+     "link": "https://mspfilm.org/series/lumieres-francaises/",
+     "organizerDates": "July 31 to Aug. 6, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Lumières Françaises Archives - MSP Film",
+     "url": "https://mspfilm.org/series/lumieres-francaises/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--frenchamerican-heritage-month",
+   "observanceKey": "frenchamerican-heritage-month",
+   "name": "French-American Heritage Month",
+   "alsoKnownAs": [],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "heritage",
+   "capsule": "July is recognized as French-American Heritage Month; the University of Minnesota lists it among its 2026 heritage months.",
+   "dateRule": "The month of July.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-01",
+     "endDate": "2026-07-31",
+     "source": "University of Minnesota Office for Equity and Diversity page titled 'French-American Heritage Month - July 2026'",
+     "sourceUrl": "https://diversity.umn.edu/french-american-heritage-month-july-2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-01",
+     "endDate": "2027-07-31",
+     "source": "University of Minnesota Office for Equity and Diversity page titled 'French-American Heritage Month - July 2026'",
+     "sourceUrl": "https://diversity.umn.edu/french-american-heritage-month-july-2026",
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-01",
+     "endDate": "2028-07-31",
+     "source": "University of Minnesota Office for Equity and Diversity page titled 'French-American Heritage Month - July 2026'",
+     "sourceUrl": "https://diversity.umn.edu/french-american-heritage-month-july-2026",
+     "verified": false
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The January 12, 2010 earthquake in Haiti.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "Contributions of French Americans.",
+   "howCelebratedInMinnesota": "Bastille Day at the Alliance Française falls within the month; no other Minnesota program tied to the month was found.",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "French-American Heritage Month - July 2026",
+     "url": "https://diversity.umn.edu/french-american-heritage-month-july-2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--epiphany-and-galette-des-rois",
+   "observanceKey": "epiphany-and-galette-des-rois",
+   "name": "Epiphany and Galette des Rois",
+   "alsoKnownAs": [
+    "Fête des Rois",
+    "Jour des Rois"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "religious",
+   "capsule": "Epiphany in early January, when French families share a galette des rois with a hidden charm; Twin Cities patisseries bake them.",
+   "dateRule": "Epiphany is January 6 in the Western calendar (in France often kept the first Sunday of January); galettes are sold through early January.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-06",
+     "endDate": null,
+     "source": "Fixed liturgical date; not confirmed by an outside source",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-06",
+     "endDate": null,
+     "source": "Fixed liturgical date; not confirmed by an outside source",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-06",
+     "endDate": null,
+     "source": "Fixed liturgical date; not confirmed by an outside source",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The visit of the Magi in Christian tradition.",
+   "howCelebratedInMinnesota": "Patisserie 46 and Rose Street Patisserie take Galette des Rois preorders for pickup in early January (Jan. 5 to 14, as posted on their site).",
+   "minnesotaEvents": [
+    {
+     "name": "Galette des Rois preorders",
+     "place": "Patisserie 46 (Minneapolis) and Rose Street Patisserie (St. Paul)",
+     "link": "https://patisserie46.com/",
+     "organizerDates": "Pickup Jan. 5 to 14 (year not stated on page)",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Patisserie 46 & Rose Street Patisserie",
+     "url": "https://patisserie46.com/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--cameroonian-community-soccer-tournament",
+   "observanceKey": "cameroonian-community-soccer-tournament",
+   "name": "Cameroonian community soccer tournament",
+   "alsoKnownAs": [
+    "MINCAM tournament"
+   ],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "community festival",
+   "capsule": "An August soccer tournament in the Twin Cities that has drawn Cameroonians from around the country, with business showcases and cultural events.",
+   "dateRule": "Held in August; dates set each year by the host.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Community gathering of Cameroonians in the U.S.",
+   "howCelebratedInMinnesota": "Sahan Journal (June 2024) reported the tournament is hosted by the Minnesota Cameroon Community (MINCAM) and that a weekend cultural event with performances, vendors and a gala was typically held during the final match. The group was described as in a transitional period; no 2026 dates were found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Small in numbers, Cameroonian community is beginning to make a mark on Minnesota",
+     "url": "https://sahanjournal.com/immigration/minnesota-cameroonian-community-more-than-doubles/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "french--senegalese-association-of-minnesota-cultural-festival",
+   "observanceKey": "senegalese-association-of-minnesota-cultural-festival",
+   "name": "Senegalese Association of Minnesota Cultural Festival",
+   "alsoKnownAs": [],
+   "communities": [
+    "french"
+   ],
+   "briefLinks": [
+    {
+     "community": "french",
+     "title": "French-speaking Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/french/profile.md",
+   "kind": "community festival",
+   "capsule": "The Senegalese Association of Minnesota's biggest yearly celebration, with music, dance and Senegalese food for more than 800 people.",
+   "dateRule": "Set each year by the association.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Senegalese heritage in Minnesota.",
+   "howCelebratedInMinnesota": "The association describes an annual cultural festival drawing more than 800 community members (photo labeled Cultural Festival 2024). No 2026 date was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Senegalese Association of Minnesota",
+     "url": "https://senegalesemn.com/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "guatemalan--easter",

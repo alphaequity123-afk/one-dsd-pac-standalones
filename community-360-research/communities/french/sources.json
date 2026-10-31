@@ -1,0 +1,667 @@
+[
+ {
+  "title": "French-speaking Minnesota (current page)",
+  "publisher": "One DSD People, Access and Culture",
+  "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Page checked for corrections"
+ },
+ {
+  "title": "People Reporting Ancestry, Minnesota (B04006), ACS 2025 1-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT1Y2025.B04006?g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French, French Canadian, Belgian, Swiss, Canadian, Haitian ancestry counts"
+ },
+ {
+  "title": "People Reporting Ancestry, Minnesota and counties (B04006), ACS 2020-2024 5-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT5Y2024.B04006?g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Five-year ancestry counts; county distribution"
+ },
+ {
+  "title": "Place of Birth for the Foreign-Born Population (B05006), Minnesota, ACS 2020-2024 5-year and 2025 1-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT5Y2024.B05006?g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Minnesotans born in France, Canada, Haiti, Cameroon, Congo, Togo, Senegal, Ivory Coast, Morocco"
+ },
+ {
+  "title": "Language Spoken at Home (B16001), Minnesota, ACS 2020-2024 5-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT5Y2024.B16001?g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French and Haitian speakers at home and English ability"
+ },
+ {
+  "title": "Language Spoken at Home (C16001), Minnesota, ACS 2025 1-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT1Y2025.C16001?g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French, Haitian or Cajun speakers, 2025"
+ },
+ {
+  "title": "Selected Population Profile (S0201), French (except Basque) ancestry, Minnesota, ACS 2025 and 2024 1-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSSPP1Y2025.S0201?g=040XX00US27&t=533",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Age, income, poverty, education, occupation, housing, disability for French-ancestry Minnesotans"
+ },
+ {
+  "title": "La Société Canadienne-Française du Minnesota",
+  "publisher": "Chez Nous (Dick Bernard)",
+  "url": "https://chez-nous.net/aboutla.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "History of the society founded 1979, now inactive"
+ },
+ {
+  "title": "La Société Events",
+  "publisher": "Chez Nous",
+  "url": "https://chez-nous.net/fc_events.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2002 student video on Minnesota French heritage"
+ },
+ {
+  "title": "Generations of Minnesotans are now Canadian citizens through their ancestry and don't know it yet",
+  "publisher": "CIC News",
+  "url": "https://www.cicnews.com/2026/10/generations-of-minnesotans-may-now-be-canadian-citizens-through-their-ancestry-and-not-know-it-yet-1081081.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Little Canada, Bill C-3 citizenship by descent (Oct. 7, 2026)"
+ },
+ {
+  "title": "Echo de l'Ouest",
+  "publisher": "Minnesota Historical Society, Minnesota Digital Newspaper Hub",
+  "url": "https://www.mnhs.org/newspapers/hub/echo-de-louest",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French-language press, 70,000 French Canadians by 1895, Notre Dame de Lourdes 1877"
+ },
+ {
+  "title": "Bastille Day 2026",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/bastille-day-2026-afmsp",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Bastille Day July 14, 2026, 5 to 8 p.m."
+ },
+ {
+  "title": "Mission & History",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/mission",
+  "dateChecked": "2026-10-31",
+  "usedFor": "History, members, students, Mois de la Francophonie"
+ },
+ {
+  "title": "AFMSP50",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/afmsp50",
+  "dateChecked": "2026-10-31",
+  "usedFor": "50th anniversary of incorporation Oct. 29, 2025"
+ },
+ {
+  "title": "Honorary Consul of France",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/honorary-consul-of-france",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Honorary consul services"
+ },
+ {
+  "title": "2020-2021 French Resource Directory",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/s/frdtopost.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Leads for businesses, schools, organizations, congregations (2020-21 listing)"
+ },
+ {
+  "title": "Come Celebrate the French-American Heritage Foundation's 10-Year Anniversary",
+  "publisher": "Church of St. Louis, King of France",
+  "url": "https://stlouiskingoffrance.org/calendar/come-celebrate-the-french-american-heritage-foundations-10-year-anniversary/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "FAHF anniversary event; church address"
+ },
+ {
+  "title": "Fur Trade in Minnesota",
+  "publisher": "MNopedia, Minnesota Historical Society",
+  "url": "https://www.mnhs.org/mnopedia/search/index/fur-trade-minnesota",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Voyageurs, French Canadian paddlers, Grand Portage, American Fur Company"
+ },
+ {
+  "title": "Our Lady of Lourdes Catholic Church",
+  "publisher": "Archdiocese of Saint Paul and Minneapolis",
+  "url": "https://www.archspm.org/location/our-lady-of-lourdes-catholic-church/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "1877 French Canadian purchase, oldest continuously used church, Mass schedule"
+ },
+ {
+  "title": "History of Our Church",
+  "publisher": "Church of St. Louis, King of France",
+  "url": "https://stlouiskingoffrance.org/our-church/history-of-our-church/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "First exclusive French church in St. Paul, 1868; Ecole St. Louis 1873; 1909 church by Masqueray"
+ },
+ {
+  "title": "St Louis, King of France Catholic Church",
+  "publisher": "Archdiocese of Saint Paul and Minneapolis",
+  "url": "https://www.archspm.org/location/st-louis-king-of-france-catholic-church/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Founded 1868 for French-speaking Catholics; English Mass schedule"
+ },
+ {
+  "title": "TPS ruling is a blow to Minnesota's Haitian community, with some already leaving",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/immigration/supreme-court-ends-tps-haiti-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Haitian TPS end, about 4,000 Haitians in MN, Vanse, Mes Amis, Afoutayi move (July 2, 2026)"
+ },
+ {
+  "title": "Minnesota's Haitian community at risk for deportation as Trump ends TPS designation",
+  "publisher": "Sahan Journal",
+  "url": "https://sahanjournal.com/immigration/tps-ends-haiti-minnesota-deportation/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Vanse, David Policard, job losses (July 2, 2025)"
+ },
+ {
+  "title": "Minnesota Haitians worry about what comes as next as TPS protections end",
+  "publisher": "MPR News",
+  "url": "https://www.mprnews.org/story/2026/07/16/minnesota-haitians-worry-about-what-comes-as-next-as-tps-protections-end",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mes Amis French School founder; 4,000 Haitians estimate (July 16, 2026)"
+ },
+ {
+  "title": "Afoutayi Ayiti - Haiti Flag Day Celebration - May 17",
+  "publisher": "DanceMN",
+  "url": "https://dancemn.org/submissions/afoutayi-ayiti-haiti-flag-day-celebration/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Haitian Flag Day 2025 at New Branches Church, Minneapolis"
+ },
+ {
+  "title": "Afoutayi Haitian Dance, Music and Arts Company (home page)",
+  "publisher": "Afoutayi",
+  "url": "https://www.afoutayidmaco.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Move to Toronto by summer 2026; final free virtual workshop Feb. 2026"
+ },
+ {
+  "title": "Mes Amis French School",
+  "publisher": "Mes Amis French School",
+  "url": "https://mesamisfrenchschool.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French immersion preschool and after-school, owner Rose"
+ },
+ {
+  "title": "L'Etoile du Nord French Immersion",
+  "publisher": "Saint Paul Public Schools",
+  "url": "https://frenchimmersion.spps.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Public French immersion elementary, St. Paul"
+ },
+ {
+  "title": "Notre École",
+  "publisher": "Notre École",
+  "url": "https://www.notreecole.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "K-5 French immersion STEAM school, Golden Valley; staff from France, Canada, Francophone world"
+ },
+ {
+  "title": "Normandale Elementary School",
+  "publisher": "Edina Public Schools",
+  "url": "https://normandale.edinaschools.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French immersion K-5, Edina"
+ },
+ {
+  "title": "Lac du Bois French Language Village",
+  "publisher": "Concordia Language Villages",
+  "url": "https://www.concordialanguagevillages.org/languages/french/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French immersion village since 1962, Les Voyageurs canoe program"
+ },
+ {
+  "title": "Minnesota Accueil (home and Actualités)",
+  "publisher": "Minnesota Accueil",
+  "url": "https://www.minnesotaaccueil.com/actualites.html",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Francophone newcomer volunteer group; 2026 picnics, Breizh Fest, consular elections, KFAI Bonjour Minnesota, film"
+ },
+ {
+  "title": "Lumières Françaises Presents: Eric Rohmer's Six Moral Tales",
+  "publisher": "MSP Film",
+  "url": "https://mspfilm.org/series/lumieres-francaises/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Annual French film series, July 31 to Aug. 6, 2026"
+ },
+ {
+  "title": "About Us, Canadian Days",
+  "publisher": "City of Little Canada",
+  "url": "https://www.canadiandays.org/433/About-Us",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Canadian Days held every year since 1977"
+ },
+ {
+  "title": "Penny Press Machine (news, Oct. 22, 2026)",
+  "publisher": "City of Little Canada",
+  "url": "https://www.canadiandays.org/m/newsflash/home/detail/653",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Canadian Days 2026 at Spooner Park, July 31, 2026"
+ },
+ {
+  "title": "Photo Gallery, Canadian Days",
+  "publisher": "City of Little Canada",
+  "url": "https://www.canadiandays.org/449/Photo-Gallery",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2026 theme Where 50 Years Feels Like Home; 2022 Rendezvous theme"
+ },
+ {
+  "title": "Historical Society",
+  "publisher": "City of Little Canada",
+  "url": "https://www.canadiandays.org/244/Historical-Society",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Little Canada Historical Society, French-Canadian genealogy, Gervais descendants"
+ },
+ {
+  "title": "Little Canada's History",
+  "publisher": "City of Little Canada / Little Canada Historical Society",
+  "url": "https://www.canadiandays.org/284/Little-Canadas-History",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Gervais claim 1844, French-language school 1850, township 1858"
+ },
+ {
+  "title": "Gervais Grist Mill Site",
+  "publisher": "City of Little Canada",
+  "url": "https://www.canadiandays.org/262/Gervais-Grist-Mill-Site",
+  "dateChecked": "2026-10-31",
+  "usedFor": "First commercial grist mill 1844, Benjamin Gervais"
+ },
+ {
+  "title": "Les parlers français oubliés d'Amérique : le franco-minnesotain et le franco-dakotain (Papen, RCLA/CJAL 9,2)",
+  "publisher": "Canadian Journal of Applied Linguistics, University of New Brunswick",
+  "url": "https://journals.lib.unb.ca/index.php/CJAL/article/download/19766/21474/26177",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French settlement of Polk and Red Lake counties, Kapper 1984 Red Lake Falls language study"
+ },
+ {
+  "title": "Les ouvriers canadiens-français du Capitole du Minnesota (1895-1905) / The French-Canadian Workers of the Minnesota Capitol",
+  "publisher": "Université de Saint-Boniface, Migrations francophones (Yves Frenette and John Willis, Feb. 6, 2018)",
+  "url": "https://migrationsfrancophones.ustboniface.ca/wp-content/uploads/2024/01/Vignette1_Capitol_18mars18.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French-Canadian Capitol workers and stone carvers"
+ },
+ {
+  "title": "Language Blocks (LB) Required in Documents Available to the General Public policy",
+  "publisher": "Minnesota Department of Human Services",
+  "url": "https://mn.gov/dhs/assets/language-block-required-documents-available-general-public_tcm1053-646949.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "DHS language block in 15 languages, including French; Haitian Creole not listed"
+ },
+ {
+  "title": "Study of Translated Material Needs, Driver and Vehicle Services (January 2026)",
+  "publisher": "Minnesota Department of Public Safety, via Legislative Reference Library",
+  "url": "https://www.lrl.mn.gov/docs/2026/mandated/260600/Report.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French speakers 16,313 (4,819 less than very well); Haitian 1,578; DVS French translations and requests"
+ },
+ {
+  "title": "Small in numbers, Cameroonian community is beginning to make a mark on Minnesota",
+  "publisher": "Sahan Journal (June 5, 2024)",
+  "url": "https://sahanjournal.com/immigration/minnesota-cameroonian-community-more-than-doubles/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Cameroon-born 1,400 (2016) to 3,600 (2022); MINCAM; Bali African Market; Anglophone crisis"
+ },
+ {
+  "title": "Mois de la Francophonie 2024",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/mois-de-la-francophonie-2024",
+  "dateChecked": "2026-10-31",
+  "usedFor": "March 2024 celebration of Togo with Twin Cities Togolese community"
+ },
+ {
+  "title": "Senegalese Association of Minnesota (home)",
+  "publisher": "Senegalese Association of Minnesota",
+  "url": "https://senegalesemn.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Wolof classes, annual celebration of 800+"
+ },
+ {
+  "title": "Diaspora Forces (home)",
+  "publisher": "Diaspora Forces",
+  "url": "https://diasporaforces.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Togolese and African community organization, Minneapolis"
+ },
+ {
+  "title": "Jean-Baptiste Faribault",
+  "publisher": "Minnesota Historical Society, Historic Sibley Site",
+  "url": "https://www.mnhs.org/sibley/learn/jean-baptiste-faribault",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Faribault biography, 1833 purchase of enslaved woman, stone house"
+ },
+ {
+  "title": "Minneapolis Tours Sister Cities",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/mplstours-sistercities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Minneapolis-Tours sister city, 35th anniversary, now an AF committee"
+ },
+ {
+  "title": "Mois de la Francophonie 2026 (Tunisia) and 2025 (Laos)",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/mois-de-la-francophonie-2026",
+  "dateChecked": "2026-10-31",
+  "usedFor": "March 2026 Mois de la Francophonie featuring Tunisia"
+ },
+ {
+  "title": "Hmong pastry chef Marc Heu wants to share his love of French pastries with new audiences",
+  "publisher": "Sahan Journal (2023)",
+  "url": "https://sahanjournal.com/business-work/marc-heu-patisserie-paris-st-paul-dale-street-hmong-chef/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Marc Heu Patisserie Paris, 156 Dale St. N., French-born chef raised in French Guiana"
+ },
+ {
+  "title": "Between 2 Urns: Marc Heu (June 26, 2026)",
+  "publisher": "Ramsey County, Between 2 Urns podcast (Buzzsprout)",
+  "url": "https://www.buzzsprout.com/2614919/episodes/19406714-between-2-urns-marc-heu",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Marc Heu biography; shop operating in 2026"
+ },
+ {
+  "title": "Wintertime Cafés and Bakeries Locals Love Around the Twin Cities (Jan. 22, 2026)",
+  "publisher": "Counselor Realty blog",
+  "url": "https://vsiskin.counselorrealty.com/blog/2026/01/22/wintertime-cafes-and-bakeries-locals-love-around-the-twin-cities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Patisserie 46 hours; Trung Nam French Bakery"
+ },
+ {
+  "title": "The 50 Best Restaurants in Minneapolis and St. Paul (2026)",
+  "publisher": "Mpls.St.Paul Magazine",
+  "url": "https://mspmag.com/eat-and-drink/the-best-restaurants-in-the-twin-cities-2026/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Bûcheron (James Beard Best New Restaurant 2025), French-Minnesotan menu"
+ },
+ {
+  "title": "Thérèse's French Arrival (review)",
+  "publisher": "Mpls.St.Paul Magazine",
+  "url": "https://mspmag.com/eat-and-drink/restaurant-review-therese-french-arrival/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Thérèse French bistro, Edina, Daniel del Prado"
+ },
+ {
+  "title": "Oh Crêpe! (home)",
+  "publisher": "Oh Crêpe!",
+  "url": "https://www.ohcrepemn.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Breton crêperie, 4408 France Ave S, fall 2026 menus"
+ },
+ {
+  "title": "Patisserie 46 & Rose Street Patisserie (home)",
+  "publisher": "Patisserie 46",
+  "url": "https://patisserie46.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "John Kraus patisseries, Thanksgiving preorders, Galette des Rois"
+ },
+ {
+  "title": "Patrick's Bakery & Café (home)",
+  "publisher": "Patrick's Bakery & Café",
+  "url": "https://patricksbakerycafe.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French bakery-café, Richfield/Edina/Maple Grove, 2026"
+ },
+ {
+  "title": "Valerie's French Kitchen (home)",
+  "publisher": "Valerie's French Kitchen",
+  "url": "https://valeriesfrenchkitchen.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Personal chef native of France"
+ },
+ {
+  "title": "Salut Bar Americain (home)",
+  "publisher": "Salut Bar Americain",
+  "url": "https://www.salutbaramericain.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Permanently closed"
+ },
+ {
+  "title": "Minneapolis Cider Company (home)",
+  "publisher": "Minneapolis Cider Company",
+  "url": "https://minneapoliscider.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Taproom; host of Breizh Fest"
+ },
+ {
+  "title": "People Reporting Ancestry (B04006), Minnesota, ACS 2006-2010 and 2011-2015 5-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT5Y2015.B04006?g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Trend in French, French Canadian and Haitian ancestry"
+ },
+ {
+  "title": "Little Canada—Heritage from the French (Margaret Whitney Wall), Ramsey County History vol. 1 no. 2, Fall 1964",
+  "publisher": "Ramsey County Historical Society",
+  "url": "https://rchs.com/wp-content/uploads/2015/11/RCHS_Fall1964_Wall.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Gervais family, Pig's Eye Parrant, Galtier chapel land, French-language school 1850"
+ },
+ {
+  "title": "Place of Birth for the Foreign-Born Population (B05006), Minnesota, ACS 2025 1-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT1Y2025.B05006?g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2025 birthplace estimates"
+ },
+ {
+  "title": "People Reporting Ancestry (B04006), Minnesota, ACS 2006-2010 5-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT5Y2010.B04006?g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2006-2010 baseline ancestry counts"
+ },
+ {
+  "title": "People Reporting Ancestry (B04006), Minnesota, ACS 2024 1-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSDT1Y2024.B04006?g=040XX00US27",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2024 ancestry incl. Haitian 3,942"
+ },
+ {
+  "title": "From Pig's Eye to Saint Paul: 175 Years of the Catholic Church in Minnesota",
+  "publisher": "Archdiocese of Saint Paul and Minneapolis",
+  "url": "https://www.archspm.org/from-pigs-eye-to-saint-paul-175-years-of-the-catholic-church-in-minnesota/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Crétin named first bishop July 19, 1850; 175th anniversary"
+ },
+ {
+  "title": "Most Reverend Joseph Crétin",
+  "publisher": "Archdiocese of Saint Paul and Minneapolis",
+  "url": "https://www.archspm.org/past-bishops/most-reverend-joseph-cretin/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Crétin born in France 1799, ordained bishop Jan. 26, 1851"
+ },
+ {
+  "title": "Minnesota parishes, relief organizations mobilize to support Haiti (CNS, 2021)",
+  "publisher": "The Central Minnesota Catholic",
+  "url": "https://thecentralminnesotacatholic.org/minnesota-parishes-relief-organizations-mobilize-to-support-haiti/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Minnesota Catholic parish partnerships with Haiti"
+ },
+ {
+  "title": "Partnership in Practice: Co-Developing Dementia Outreach with the African Immigrant Community",
+  "publisher": "University of Minnesota Office for Public Engagement",
+  "url": "https://engagement.umn.edu/content/partnership-practice-co-developing-dementia-outreach-african-immigrant-community",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Dementia outreach with African diaspora communities (Nkimbeng)"
+ },
+ {
+  "title": "The Immigrant Memory Collaborative (Nkimbeng et al., IJERPH 2022)",
+  "publisher": "MDPI, International Journal of Environmental Research and Public Health",
+  "url": "https://mdpi-res.com/d_attachment/ijerph/ijerph-19-04075/article_deploy/ijerph-19-04075.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "African immigrant families and dementia in Minnesota; language barriers"
+ },
+ {
+  "title": "French Heritage in Mendota (event flyer, Aug. 10, 2018)",
+  "publisher": "Dakota County Historical Society / City of Mendota",
+  "url": "https://www.mendotadakota.org/wp-content/uploads/2018/07/French-in-Mendota-Flyer.pdf",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Mark Labine, president of the French-American Heritage Foundation; books They Spoke French and In the Beginning There Was a Chapel"
+ },
+ {
+  "title": "Consulate General of Canada in Minneapolis",
+  "publisher": "Government of Canada",
+  "url": "https://www.international.gc.ca/country-pays/us-eu/minneapolis.aspx?lang=eng",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Consulate serving Minnesota and four states; proof of citizenship services"
+ },
+ {
+  "title": "Snake River Fur Post to Introduce New Summer Event (June 29, 2026)",
+  "publisher": "Minnesota Historical Society",
+  "url": "https://www.mnhs.org/media/news/snake-river-fur-post-introduce-new-summer-event",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Voyageur Day July 18, 2026, Pine City; La Compagnie des Hivernants"
+ },
+ {
+  "title": "Experience Traditional Winter Fun at the Snake River Fur Post (Dec. 18, 2025)",
+  "publisher": "Minnesota Historical Society",
+  "url": "https://www.mnhs.org/media/news/winter-frolic-2026-snake-river-fur-post",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Winter Frolic Jan. 24, 2026; reenactors"
+ },
+ {
+  "title": "National Haitian Flag Day Celebration: 2015 Activities in the U.S.",
+  "publisher": "Embassy of Haiti",
+  "url": "https://www.haiti.org/national-haitian-flag-day-celebration-2015-activities-in-the-u-s/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Flag Day May 18, flag created May 18, 1803"
+ },
+ {
+  "title": "Celebration of Haiti's 212th Year of Independence",
+  "publisher": "Embassy of Haiti",
+  "url": "https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Jan. 1, 1804 independence; soup joumou; Ancestors' Day Jan. 2"
+ },
+ {
+  "title": "M 7.0 - 10 km SE of Léogâne, Haiti (event usp000h60h)",
+  "publisher": "U.S. Geological Survey",
+  "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h&format=geojson",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Haiti earthquake date, Jan. 12, 2010"
+ },
+ {
+  "title": "Barbette (home)",
+  "publisher": "Barbette",
+  "url": "https://www.barbette.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French brasserie, 1600 W Lake St, current hours"
+ },
+ {
+  "title": "The French Académie (home)",
+  "publisher": "The French Académie",
+  "url": "https://www.thefrenchacademie.org/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "AEFE-accredited French immersion school, Minnetonka"
+ },
+ {
+  "title": "For Haitian Minnesotans, false claims targeting community are a familiar playbook",
+  "publisher": "Sahan Journal (Oct. 7, 2024)",
+  "url": "https://sahanjournal.com/democracy-politics/haitian-minnesotans-springfield-ohio-rumors-backlash/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Reaction to 2024 rumors; Mes Amis founded 2005; Beaudelaine Pierre on TPS"
+ },
+ {
+  "title": "An earthquake brought Djenane Saint Juste to Minnesota where she's built a life teaching Haitian dance",
+  "publisher": "Sahan Journal (July 3, 2024)",
+  "url": "https://sahanjournal.com/culture-community/afoutayi-haitian-dance-djenane-saint-juste/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Afoutayi, COMPAS teaching artist, Creole and French in schools, children's book"
+ },
+ {
+  "title": "Cultural communities (index)",
+  "publisher": "Minnesota Compass",
+  "url": "https://www.mncompass.org/topics/demographics/cultural-communities",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Confirms no French, French Canadian, Haitian or francophone African profile"
+ },
+ {
+  "title": "Respected guide, hunter Pierre Bottineau's legacy in Northeast",
+  "publisher": "Northeaster",
+  "url": "https://www.mynortheaster.com/news/respected-guide-hunter-pierre-bottineaus-legacy-in-northeast/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Checked existing-page Bottineau claims; French-speaking children at St. Anthony school"
+ },
+ {
+  "title": "Selected Population Profile (S0201), French (except Basque) ancestry, Minnesota, ACS 2024 1-year",
+  "publisher": "U.S. Census Bureau",
+  "url": "https://data.census.gov/table/ACSSPP1Y2024.S0201?g=040XX00US27&t=533",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2024 disability, income, age for French ancestry"
+ },
+ {
+  "title": "Les Petits Livres (home)",
+  "publisher": "Les Petits Livres",
+  "url": "https://www.lespetitslivres.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "French children's book lending by mail"
+ },
+ {
+  "title": "International AF Soccer Tournament - Postponed",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/events/soccertournament",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Planned international 3v3 soccer tournament, postponed"
+ },
+ {
+  "title": "French Resource Directory (page)",
+  "publisher": "Alliance Française Mpls/St Paul",
+  "url": "https://www.afmsp.org/french-resource-directory",
+  "dateChecked": "2026-10-31",
+  "usedFor": "2026 directory listings invited"
+ },
+ {
+  "title": "Minnesota Accueil (home)",
+  "publisher": "Minnesota Accueil",
+  "url": "https://www.minnesotaaccueil.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Volunteer welcome site for French speakers"
+ },
+ {
+  "title": "St. John the Evangelist Catholic Church",
+  "publisher": "City of Little Canada",
+  "url": "https://www.canadiandays.org/267/St-John-the-Evangelist-Catholic-Church",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Church built 1852"
+ },
+ {
+  "title": "Fête nationale du Québec",
+  "publisher": "Gouvernement du Québec",
+  "url": "https://www.quebec.ca/culture/fete-nationale",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Fête nationale activities June 23 and 24"
+ },
+ {
+  "title": "French-American Heritage Month - July 2026",
+  "publisher": "University of Minnesota Office for Equity and Diversity",
+  "url": "https://diversity.umn.edu/french-american-heritage-month-july-2026",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Page title lists July 2026 as French-American Heritage Month (body not readable)"
+ },
+ {
+  "title": "Meritage Restaurant & Oyster Bar (home)",
+  "publisher": "Meritage",
+  "url": "https://meritage-stpaul.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Site loads title only; status unconfirmed"
+ },
+ {
+  "title": "Patisserie Margo (home)",
+  "publisher": "Patisserie Margo",
+  "url": "https://patisseriemargomn.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Site loads without hours; status unconfirmed"
+ },
+ {
+  "title": "Mademoiselle Miel (home and shop)",
+  "publisher": "Mademoiselle Miel",
+  "url": "https://www.mademoisellemiel.com/",
+  "dateChecked": "2026-10-31",
+  "usedFor": "Chocolatier site, 308 Prince St.; no dated activity"
+ }
+]

@@ -62,9 +62,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:Haitian Independence Day
-DESCRIPTION:Haitian independence in 1804. Date: January 1. Source: Embass
- y of the Republic of Haiti in Washington\, Key Dates https://www.haiti.or
- g/key-dates/ Communities: French-speaking Minnesota
+DESCRIPTION:Haiti's independence on January 1\, 1804\, which the Embassy 
+ of Haiti describes as making it the first Black republic and the first co
+ untry in the Western Hemisphere to abolish slavery. Date: January 1 each 
+ year. Source: Embassy of Haiti (states Jan. 1\, 1804\, as Independence Da
+ y) https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independenc
+ e/ Communities: French-speaking Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -112,6 +115,20 @@ DESCRIPTION:The new year\; in Soviet times it replaced Christmas as the m
  utes/cite/645.44 Communities: Russian-speaking Minnesota\, Ukrainian Minn
  esota
 CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ancestors-day-haiti-2026-01-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Ancestors' Day (Haiti)
+DESCRIPTION:Remembrance of Haiti's founders and those who sacrificed thei
+ r lives in the fight for independence. Date: January 2 each year. Source:
+  Embassy of Haiti (first two days of the year dedicated to Independence D
+ ay and Ancestors' Day) https://www.haiti.org/celebration-of-haiti-s-212th
+ -year-of-independence/ Communities: French-speaking Minnesota
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -167,11 +184,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
 SUMMARY:Haiti earthquake remembrance
-DESCRIPTION:The January 12\, 2010 earthquake in Haiti. Date: January 12. 
- Source: U.S. Geological Survey\, The Mw 7.0 Haiti Earthquake of January 1
- 2\, 2010\, USGS/EERI Advance Reconnaissance Team Report https://www.usgs.
- gov/publications/mw-70-haiti-earthquake-january-12-2010-usgseeri-advance-
- reconnaissance-team-report Communities: French-speaking Minnesota
+DESCRIPTION:The 2010 earthquake in Haiti. Sahan Journal reports that many
+  Haitians held Temporary Protected Status from shortly after it until TPS
+  for Haiti ended in 2026. Date: January 12 each year (anniversary of the 
+ 2010 earthquake). Source: U.S. Geological Survey event record (Jan. 12\, 
+ 2010) https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h
+ &format=geojson Communities: French-speaking Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -262,6 +280,20 @@ DESCRIPTION:The baptism of Jesus in the Ethiopian Orthodox tradition. Dat
  ing Days 2026 https://www.norway.no/en/ethiopia/norway-ethiopia/about-emb
  assy/2026/ Communities: Amharic-speaking Minnesota\, Ethiopian Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-frolic-snake-river-fur-post-2026-01-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:Winter Frolic\, Snake River Fur Post
+DESCRIPTION:How fur traders\, voyageurs and local Ojibwe experienced wint
+ er. Date: Set each year by the Minnesota Historical Society\, usually a S
+ aturday in January. Source: Minnesota Historical Society news release\, D
+ ec. 18\, 2025 https://www.mnhs.org/media/news/winter-frolic-2026-snake-ri
+ ver-fur-post Communities: French-speaking Minnesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -606,6 +638,20 @@ DESCRIPTION:The 1992 independence referendum (63.4 percent turnout\, 99.7
  s/bosnia-and-herzegovina-marks-independence-day/ Communities: Bosnian Min
  nesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mois-de-la-francophonie-2026-03-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260401
+SUMMARY:Mois de la Francophonie
+DESCRIPTION:The diversity of the French-speaking world. Date: The month o
+ f March\; program announced each year by the Alliance Française Mpls/St 
+ Paul. Source: Alliance Française Mpls/St Paul (March 2026\, celebrating 
+ Tunisia) https://www.afmsp.org/mois-de-la-francophonie-2026 Communities: 
+ French-speaking Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1286,6 +1332,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:haitian-flag-day-2026-05-18@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Haitian Flag Day
+DESCRIPTION:Creation of the Haitian flag on May 18\, 1803\, in Arcahaie. 
+ Date: May 18 each year\; community events may fall on a nearby weekend. S
+ ource: Embassy of Haiti (flag created May 18\, 1803\; celebrated each yea
+ r on May 18) https://www.haiti.org/national-haitian-flag-day-celebration-
+ 2015-activities-in-the-u-s/ Communities: French-speaking Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:somaliland-may-18-2026-05-18@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260518
@@ -1401,6 +1461,19 @@ CATEGORIES:religious
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:francophone-spring-picnic-2026-05-31@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Francophone spring picnic
+DESCRIPTION:A social gathering for French speakers in Minnesota. Date: An
+ nounced each year by Minnesota Accueil. Source: Minnesota Accueil (organi
+ zer)\, April 30 and May 25\, 2026 posts https://www.minnesotaaccueil.com/
+ actualites.html Communities: French-speaking Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:madaraka-day-2026-06-01@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260601
@@ -1511,6 +1584,20 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fête-nationale-du-québec-saintjeanbaptiste-2026-06-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Fête nationale du Québec (Saint-Jean-Baptiste)
+DESCRIPTION:Quebec's national holiday and the feast of St. John the Bapti
+ st\, patron of French Canadians. Date: June 24 each year\; Quebec's publi
+ c activities run June 23 and 24. Source: Gouvernement du Québec (activit
+ ies June 23 and 24) https://www.quebec.ca/culture/fete-nationale Communit
+ ies: French-speaking Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:somaliland-independence-june-26-2026-06-26@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260626
@@ -1578,6 +1665,20 @@ DESCRIPTION:Somali Independence Day\, celebrated locally. Date: Announced
   each year by the organizer. Source: Sahan Journal 2026 guide https://wis
  consinmuslimjournal.org/?p=53623 Communities: Somali Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:frenchamerican-heritage-month-2026-07-01@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260801
+SUMMARY:French-American Heritage Month
+DESCRIPTION:Contributions of French Americans. Date: The month of July. S
+ ource: University of Minnesota Office for Equity and Diversity page title
+ d 'French-American Heritage Month - July 2026' https://diversity.umn.edu/
+ french-american-heritage-month-july-2026 Communities: French-speaking Min
+ nesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1679,6 +1780,20 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:bastille-day-2026-07-14@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Bastille Day
+DESCRIPTION:The storming of the Bastille in 1789\, a step toward the Fren
+ ch Revolution. Date: July 14 each year. Source: Alliance Française Mpls/
+ St Paul (celebration July 14\, 2026\; says the holiday is July 14 each ye
+ ar) https://www.afmsp.org/bastille-day-2026-afmsp Communities: French-spe
+ aking Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:wabasha-county-fair-2026-07-15@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260715
@@ -1704,6 +1819,20 @@ DESCRIPTION:The Rondo neighborhood and its families\, displaced by I-94 c
  celebrate-the-history-of-st-pauls-iconic-neighborhood Communities: Africa
  n American Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:voyageur-day-snake-river-fur-post-2026-07-18@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:Voyageur Day\, Snake River Fur Post
+DESCRIPTION:The voyageurs of the fur trade. Date: Set each year by the Mi
+ nnesota Historical Society\; first held July 18\, 2026. Source: Minnesota
+  Historical Society news release\, June 29\, 2026 https://www.mnhs.org/me
+ dia/news/snake-river-fur-post-introduce-new-summer-event Communities: Fre
+ nch-speaking Minnesota
+CATEGORIES:heritage
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1975,6 +2104,33 @@ DESCRIPTION:Town life and local history. Date: Set by organizers. Source:
   KROC News https://krocnews.com/ixp/719/p/minnesota-festivals-worth-the-d
  rive/ Communities: Rural and Greater Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:canadian-days-little-canada-2026-07-31@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Canadian Days (Little Canada)
+DESCRIPTION:The city's heritage as a French Canadian settlement founded b
+ y Benjamin Gervais in 1844. Date: Set each year by the volunteer Canadian
+  Days committee\; held in late July or early August. Source: City of Litt
+ le Canada (festival at Spooner Park\, July 31\, 2026) https://www.canadia
+ ndays.org/m/newsflash/home/detail/653 Communities: French-speaking Minnes
+ ota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lumières-françaises-french-film-series-2026-07-31@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260807
+SUMMARY:Lumières Françaises (French film series)
+DESCRIPTION:French film culture. Date: Set each year by MSP Film. Source:
+  MSP Film (organizer) https://mspfilm.org/series/lumieres-francaises/ Com
+ munities: French-speaking Minnesota
+CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2372,6 +2528,19 @@ DESCRIPTION:Southeast Asian diaspora culture in Minnesota\; the 2025 edit
  August 29 in 2026. Source: City of Brooklyn Park: Saturday\, August 29\, 
  2026\, noon to 6 p.m.\, Mississippi Gateway Regional Park https://www.bro
  oklynpark.org/cosa-fest/ Communities: Lao Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:francophone-backtoschool-picnic-2026-08-30@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Francophone back-to-school picnic
+DESCRIPTION:The start of the school year (la rentrée) and a welcome for 
+ newcomers. Date: Announced each year by Minnesota Accueil. Source: Minnes
+ ota Accueil (organizer)\, July 30 and Aug. 25\, 2026 posts https://www.mi
+ nnesotaaccueil.com/actualites.html Communities: French-speaking Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3682,9 +3851,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Haitian Independence Day
-DESCRIPTION:Haitian independence in 1804. Date: January 1. Source: Embass
- y of the Republic of Haiti in Washington\, Key Dates https://www.haiti.or
- g/key-dates/ Communities: French-speaking Minnesota
+DESCRIPTION:Haiti's independence on January 1\, 1804\, which the Embassy 
+ of Haiti describes as making it the first Black republic and the first co
+ untry in the Western Hemisphere to abolish slavery. Date: January 1 each 
+ year. Source: Embassy of Haiti (states Jan. 1\, 1804\, as Independence Da
+ y) https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independenc
+ e/ Communities: French-speaking Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3716,6 +3888,20 @@ DESCRIPTION:The new year\; in Soviet times it replaced Christmas as the m
  utes/cite/645.44 Communities: Russian-speaking Minnesota\, Ukrainian Minn
  esota
 CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ancestors-day-haiti-2027-01-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Ancestors' Day (Haiti)
+DESCRIPTION:Remembrance of Haiti's founders and those who sacrificed thei
+ r lives in the fight for independence. Date: January 2 each year. Source:
+  Embassy of Haiti (first two days of the year dedicated to Independence D
+ ay and Ancestors' Day) https://www.haiti.org/celebration-of-haiti-s-212th
+ -year-of-independence/ Communities: French-speaking Minnesota
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -3773,11 +3959,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Haiti earthquake remembrance
-DESCRIPTION:The January 12\, 2010 earthquake in Haiti. Date: January 12. 
- Source: U.S. Geological Survey\, The Mw 7.0 Haiti Earthquake of January 1
- 2\, 2010\, USGS/EERI Advance Reconnaissance Team Report https://www.usgs.
- gov/publications/mw-70-haiti-earthquake-january-12-2010-usgseeri-advance-
- reconnaissance-team-report Communities: French-speaking Minnesota
+DESCRIPTION:The 2010 earthquake in Haiti. Sahan Journal reports that many
+  Haitians held Temporary Protected Status from shortly after it until TPS
+  for Haiti ended in 2026. Date: January 12 each year (anniversary of the 
+ 2010 earthquake). Source: U.S. Geological Survey event record (Jan. 12\, 
+ 2010) https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h
+ &format=geojson Communities: French-speaking Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4367,6 +4554,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:haitian-flag-day-2027-05-18@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Haitian Flag Day
+DESCRIPTION:Creation of the Haitian flag on May 18\, 1803\, in Arcahaie. 
+ Date: May 18 each year\; community events may fall on a nearby weekend. S
+ ource: Embassy of Haiti (flag created May 18\, 1803\; celebrated each yea
+ r on May 18) https://www.haiti.org/national-haitian-flag-day-celebration-
+ 2015-activities-in-the-u-s/ Communities: French-speaking Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:somaliland-may-18-2027-05-18@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270518
@@ -4508,6 +4709,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fête-nationale-du-québec-saintjeanbaptiste-2027-06-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Fête nationale du Québec (Saint-Jean-Baptiste)
+DESCRIPTION:Quebec's national holiday and the feast of St. John the Bapti
+ st\, patron of French Canadians. Date: June 24 each year\; Quebec's publi
+ c activities run June 23 and 24. Source: Gouvernement du Québec (activit
+ ies June 23 and 24) https://www.quebec.ca/culture/fete-nationale Communit
+ ies: French-speaking Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:henderson-sauerkraut-days-2027-06-25@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270625
@@ -4587,6 +4802,20 @@ DESCRIPTION:Korean culture and adoption community for families. Date: Tra
  ditionally the second week of July\, Monday to Friday. Source: Kamp Kimch
  ee https://kampkimchee.org/ Communities: Korean Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bastille-day-2027-07-14@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:Bastille Day
+DESCRIPTION:The storming of the Bastille in 1789\, a step toward the Fren
+ ch Revolution. Date: July 14 each year. Source: Alliance Française Mpls/
+ St Paul (celebration July 14\, 2026\; says the holiday is July 14 each ye
+ ar) https://www.afmsp.org/bastille-day-2026-afmsp Communities: French-spe
+ aking Minnesota
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5360,9 +5589,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280101
 DTEND;VALUE=DATE:20280102
 SUMMARY:Haitian Independence Day
-DESCRIPTION:Haitian independence in 1804. Date: January 1. Source: Embass
- y of the Republic of Haiti in Washington\, Key Dates https://www.haiti.or
- g/key-dates/ Communities: French-speaking Minnesota
+DESCRIPTION:Haiti's independence on January 1\, 1804\, which the Embassy 
+ of Haiti describes as making it the first Black republic and the first co
+ untry in the Western Hemisphere to abolish slavery. Date: January 1 each 
+ year. Source: Embassy of Haiti (states Jan. 1\, 1804\, as Independence Da
+ y) https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independenc
+ e/ Communities: French-speaking Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5394,6 +5626,20 @@ DESCRIPTION:The new year\; in Soviet times it replaced Christmas as the m
  utes/cite/645.44 Communities: Russian-speaking Minnesota\, Ukrainian Minn
  esota
 CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ancestors-day-haiti-2028-01-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:Ancestors' Day (Haiti)
+DESCRIPTION:Remembrance of Haiti's founders and those who sacrificed thei
+ r lives in the fight for independence. Date: January 2 each year. Source:
+  Embassy of Haiti (first two days of the year dedicated to Independence D
+ ay and Ancestors' Day) https://www.haiti.org/celebration-of-haiti-s-212th
+ -year-of-independence/ Communities: French-speaking Minnesota
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -5435,11 +5681,12 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280112
 DTEND;VALUE=DATE:20280113
 SUMMARY:Haiti earthquake remembrance
-DESCRIPTION:The January 12\, 2010 earthquake in Haiti. Date: January 12. 
- Source: U.S. Geological Survey\, The Mw 7.0 Haiti Earthquake of January 1
- 2\, 2010\, USGS/EERI Advance Reconnaissance Team Report https://www.usgs.
- gov/publications/mw-70-haiti-earthquake-january-12-2010-usgseeri-advance-
- reconnaissance-team-report Communities: French-speaking Minnesota
+DESCRIPTION:The 2010 earthquake in Haiti. Sahan Journal reports that many
+  Haitians held Temporary Protected Status from shortly after it until TPS
+  for Haiti ended in 2026. Date: January 12 each year (anniversary of the 
+ 2010 earthquake). Source: U.S. Geological Survey event record (Jan. 12\, 
+ 2010) https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h
+ &format=geojson Communities: French-speaking Minnesota
 CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5999,6 +6246,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:haitian-flag-day-2028-05-18@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280518
+DTEND;VALUE=DATE:20280519
+SUMMARY:Haitian Flag Day
+DESCRIPTION:Creation of the Haitian flag on May 18\, 1803\, in Arcahaie. 
+ Date: May 18 each year\; community events may fall on a nearby weekend. S
+ ource: Embassy of Haiti (flag created May 18\, 1803\; celebrated each yea
+ r on May 18) https://www.haiti.org/national-haitian-flag-day-celebration-
+ 2015-activities-in-the-u-s/ Communities: French-speaking Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:somaliland-may-18-2028-05-18@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280518
@@ -6123,6 +6384,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:fête-nationale-du-québec-saintjeanbaptiste-2028-06-24@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280624
+DTEND;VALUE=DATE:20280625
+SUMMARY:Fête nationale du Québec (Saint-Jean-Baptiste)
+DESCRIPTION:Quebec's national holiday and the feast of St. John the Bapti
+ st\, patron of French Canadians. Date: June 24 each year\; Quebec's publi
+ c activities run June 23 and 24. Source: Gouvernement du Québec (activit
+ ies June 23 and 24) https://www.quebec.ca/culture/fete-nationale Communit
+ ies: French-speaking Minnesota
+CATEGORIES:heritage
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:somaliland-independence-june-26-2028-06-26@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280626
@@ -6178,6 +6453,20 @@ DESCRIPTION:The July 1995 genocide at Srebrenica\, when Bosnian Serb forc
  brenica-genocide-annually-which-serbs-vehemently-oppose/ Communities: Bos
  nian Minnesota
 CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bastille-day-2028-07-14@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280714
+DTEND;VALUE=DATE:20280715
+SUMMARY:Bastille Day
+DESCRIPTION:The storming of the Bastille in 1789\, a step toward the Fren
+ ch Revolution. Date: July 14 each year. Source: Alliance Française Mpls/
+ St Paul (celebration July 14\, 2026\; says the holiday is July 14 each ye
+ ar) https://www.afmsp.org/bastille-day-2026-afmsp Communities: French-spe
+ aking Minnesota
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
