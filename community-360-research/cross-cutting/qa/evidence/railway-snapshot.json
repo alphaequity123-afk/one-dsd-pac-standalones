@@ -89,5 +89,15 @@
  "repositoryCollaborators": [
   "alphaequity123-afk (admin)"
  ],
- "autodeployDiagnosis": "No skipped, waiting or approval-pending deployments exist for cultural-calendar; pushes never reach Railway. Railway documentation: autodeploy works only when a project member has a connected GitHub account with contributor access to the repository. The Railway project's connected GitHub identity appears to be Gary-design63 (source of one-dhs-dsd-restored), which is not a collaborator on alphaequity123-afk/one-dsd-pac-standalones."
+ "autodeployDiagnosis": "No skipped, waiting or approval-pending deployments exist for cultural-calendar; pushes never reach Railway. Railway documentation: autodeploy works only when a project member has a connected GitHub account with contributor access to the repository. The Railway project's connected GitHub identity appears to be Gary-design63 (source of one-dhs-dsd-restored), which is not a collaborator on alphaequity123-afk/one-dsd-pac-standalones.",
+ "stressWindowMetrics": {
+  "window": "2026-10-31T06:21:32Z to 06:26:33Z",
+  "railwayHomeP50Ms": 929,
+  "railwayHomeP99Ms": 3763,
+  "railwayServerErrors": 0,
+  "railwayRequestsInWindow": 10732,
+  "cpuPeakVcpu": 1.388,
+  "memoryPeakGB": 4.16,
+  "memoryBaselineGB": 0.88
+ }
 }
