@@ -25317,13 +25317,11 @@
    ]
   },
   {
-   "id": "puerto-rican--easter",
-   "observanceKey": "easter",
-   "name": "Easter",
+   "id": "puerto-rican--christmas",
+   "observanceKey": "christmas",
+   "name": "Christmas",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "Navidad"
    ],
    "communities": [
     "puerto-rican"
@@ -25335,9 +25333,295 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
+   "capsule": "Birth of Jesus; part of a long Puerto Rican holiday season that runs through Three Kings Day.",
+   "dateRule": "December 25.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-12-25",
+     "endDate": null,
+     "source": "Platea PR 2026 Puerto Rico holiday calendar",
+     "sourceUrl": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-12-25",
+     "endDate": null,
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-12-25",
+     "endDate": null,
+     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
+     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birth of Jesus. BORIKEN board co-chair Kenneth Ortiz told AMPERS that Puerto Rico has the longest Christmas season in the world.",
+   "howCelebratedInMinnesota": "The BORIKEN Cultural Center gathers the season into one free community day, La Parranda Boricua (see separate entry). No other Minnesota Puerto Rican Christmas event was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "See the 2026 Puerto Rico holiday calendar (Platea PR)",
+     "url": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "La Parranda Boricua Brings a Puerto Rican Christmas to Minnesota (AMPERS, Dec. 18, 2025)",
+     "url": "https://ampers.org/la-parranda-boricua-brings-a-puerto-rican-christmas-to-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "puerto-rican--la-parranda-boricua-boriken-cultural-center",
+   "observanceKey": "la-parranda-boricua-boriken-cultural-center",
+   "name": "La Parranda Boricua (BORIKEN Cultural Center)",
+   "alsoKnownAs": [
+    "Parranda Boricua"
+   ],
+   "communities": [
+    "puerto-rican"
+   ],
+   "briefLinks": [
+    {
+     "community": "puerto-rican",
+     "title": "Puerto Rican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
+   "kind": "community festival",
+   "capsule": "BORIKEN Cultural Center's free Puerto Rican Christmas party in the Twin Cities: live music, parranda visiting songs and the Three Kings.",
+   "dateRule": "Set each winter by the BORIKEN Cultural Center; no fixed date was found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Puerto Rico's Christmas season and the parranda custom of visiting friends with music, ending with the Three Kings.",
+   "howCelebratedInMinnesota": "Free event open to all, with live music, parranda traditions, and the Reyes Magos bringing candy and gifts for children (AMPERS, Dec. 2025). BORIKEN often hosts larger gatherings in Shoreview. The Minnesota State Arts Board awarded $35,000 in FY2026 for the annual Parranda Boricua.",
+   "minnesotaEvents": [
+    {
+     "name": "La Parranda Boricua",
+     "place": "Twin Cities (larger BORIKEN gatherings often in Shoreview); 2026 venue not announced",
+     "link": "https://www.arts.state.mn.us/grants/2026/2026-awarded-ce.htm",
+     "organizerDates": "Annual; 2026 date not announced as of Oct. 31, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "La Parranda Boricua Brings a Puerto Rican Christmas to Minnesota (AMPERS, Dec. 18, 2025)",
+     "url": "https://ampers.org/la-parranda-boricua-brings-a-puerto-rican-christmas-to-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota State Arts Board FY2026 grants awarded",
+     "url": "https://www.arts.state.mn.us/grants/2026/2026-awarded-ce.htm",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "BORIKEN Cultural Center (GiveMN)",
+     "url": "https://www.givemn.org/organization/Boriken-Cultural-Center",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "puerto-rican--día-de-los-reyes",
+   "observanceKey": "día-de-los-reyes",
+   "name": "Día de los Reyes",
+   "alsoKnownAs": [
+    "Three Kings Day",
+    "Día de Reyes",
+    "Epiphany"
+   ],
+   "communities": [
+    "puerto-rican"
+   ],
+   "briefLinks": [
+    {
+     "community": "puerto-rican",
+     "title": "Puerto Rican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
+   "kind": "religious",
+   "capsule": "The Three Kings' visit to the infant Jesus; a public holiday in Puerto Rico and a big gift day for many families.",
+   "dateRule": "January 6.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-06",
+     "endDate": null,
+     "source": "Platea PR 2026 holiday calendar (Tuesday, Jan. 6, 2026)",
+     "sourceUrl": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-06",
+     "endDate": null,
+     "source": "Fixed date (January 6); El Nuevo Día lists Jan. 6 as a Puerto Rico holiday",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-06",
+     "endDate": null,
+     "source": "Fixed date (January 6); El Nuevo Día lists Jan. 6 as a Puerto Rico holiday",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The visit of the Magi; in Puerto Rico it is a public holiday and the culmination of the Christmas season.",
+   "howCelebratedInMinnesota": "The Three Kings appear at BORIKEN's Parranda Boricua, bringing candy and gifts for children (AMPERS, 2025). A Roseau family told the Star Tribune in 2020 that the day, celebrated loudly at home, passed without notice in their new town.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "See the 2026 Puerto Rico holiday calendar (Platea PR)",
+     "url": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Días feriados en Puerto Rico 2026",
+     "url": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "La Parranda Boricua Brings a Puerto Rican Christmas to Minnesota (AMPERS, Dec. 18, 2025)",
+     "url": "https://ampers.org/la-parranda-boricua-brings-a-puerto-rican-christmas-to-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Puerto Rican connection brings workers, diversity to Roseau (Star Tribune, March 7, 2020, via goroseau.com)",
+     "url": "https://goroseau.com/star-tribune-puerto-rican-workers-bring-diversity-to-roseau/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "puerto-rican--good-friday",
+   "observanceKey": "good-friday",
+   "name": "Good Friday",
+   "alsoKnownAs": [
+    "Viernes Santo"
+   ],
+   "communities": [
+    "puerto-rican"
+   ],
+   "briefLinks": [
+    {
+     "community": "puerto-rican",
+     "title": "Puerto Rican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
+   "kind": "religious",
+   "capsule": "The crucifixion of Jesus; a public holiday in Puerto Rico.",
+   "dateRule": "The Friday before Western Easter.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-03",
+     "endDate": null,
+     "source": "Platea PR 2026 holiday calendar",
+     "sourceUrl": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-26",
+     "endDate": null,
+     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-14",
+     "endDate": null,
+     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
+     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "The crucifixion of Jesus. El Nuevo Día notes that some businesses in Puerto Rico must stay closed on Good Friday and Easter Sunday.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "See the 2026 Puerto Rico holiday calendar (Platea PR)",
+     "url": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Días feriados en Puerto Rico 2026",
+     "url": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "puerto-rican--easter",
+   "observanceKey": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "Pascua",
+    "Domingo de Resurrección"
+   ],
+   "communities": [
+    "puerto-rican"
+   ],
+   "briefLinks": [
+    {
+     "community": "puerto-rican",
+     "title": "Puerto Rican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
+   "kind": "religious",
+   "capsule": "The resurrection of Jesus in Western Christian tradition.",
    "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
    "dates": [
     {
@@ -25366,19 +25650,24 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "whatItMarks": "The resurrection of Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Días feriados en Puerto Rico 2026",
+     "url": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "puerto-rican--good-friday",
-   "observanceKey": "good-friday",
-   "name": "Good Friday",
+   "id": "puerto-rican--american-citizenship-day-puerto-rico",
+   "observanceKey": "american-citizenship-day-puerto-rico",
+   "name": "American Citizenship Day (Puerto Rico)",
    "alsoKnownAs": [
-    "Viernes Santo",
-    "Biyernes Santo"
+    "Día de la Ciudadanía Americana"
    ],
    "communities": [
     "puerto-rican"
@@ -25390,42 +25679,118 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
     }
    ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "The crucifixion of Jesus.",
-   "dateRule": "The Friday before Western Easter.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
+   "kind": "national",
+   "capsule": "Marks March 2, 1917, when the Jones-Shafroth Act made Puerto Ricans U.S. citizens; a public holiday in Puerto Rico.",
+   "dateRule": "March 2 (Puerto Rico may observe some holidays on a nearby Monday by proclamation).",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-04-03",
+     "date": "2026-03-02",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
-     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "source": "Platea PR 2026 holiday calendar (Monday, March 2, 2026)",
+     "sourceUrl": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-03-26",
+     "date": "2027-03-02",
      "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "source": "Fixed date (March 2) per El Nuevo Día",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-04-14",
+     "date": "2028-03-02",
      "endDate": null,
-     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
-     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "source": "Fixed date (March 2) per El Nuevo Día",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
      "verified": true
     }
    ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "The crucifixion of Jesus.",
+   "dateCertainty": "fixed",
+   "whatItMarks": "The 1917 law granting U.S. citizenship to Puerto Ricans.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "See the 2026 Puerto Rico holiday calendar (Platea PR)",
+     "url": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Días feriados en Puerto Rico 2026",
+     "url": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Jones-Shafroth Act (1917), Immigration History",
+     "url": "https://immigrationhistory.org/item/jones-shafroth-act/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "puerto-rican--abolition-of-slavery-day-puerto-rico",
+   "observanceKey": "abolition-of-slavery-day-puerto-rico",
+   "name": "Abolition of Slavery Day (Puerto Rico)",
+   "alsoKnownAs": [
+    "Día de la Abolición de la Esclavitud"
+   ],
+   "communities": [
+    "puerto-rican"
+   ],
+   "briefLinks": [
+    {
+     "community": "puerto-rican",
+     "title": "Puerto Rican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
+   "kind": "remembrance",
+   "capsule": "Puerto Rico's public holiday marking the end of slavery on the island; central to Afro-Puerto Rican memory.",
+   "dateRule": "March 22.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-22",
+     "endDate": null,
+     "source": "Platea PR 2026 holiday calendar (Sunday, March 22, 2026)",
+     "sourceUrl": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-22",
+     "endDate": null,
+     "source": "Fixed date (March 22)",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-22",
+     "endDate": null,
+     "source": "Fixed date (March 22)",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The abolition of slavery in Puerto Rico.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "See the 2026 Puerto Rico holiday calendar (Platea PR)",
+     "url": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "puerto-rican--puerto-rico-constitution-day",
@@ -25444,51 +25809,65 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
    "kind": "national",
-   "capsule": "The 1952 Commonwealth constitution.",
+   "capsule": "Public holiday in Puerto Rico marking its commonwealth constitution.",
    "dateRule": "July 25.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-07-25",
      "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+     "source": "Platea PR 2026 holiday calendar (Saturday, July 25, 2026)",
+     "sourceUrl": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-07-25",
      "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+     "source": "Fixed date (July 25) per El Nuevo Día",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-07-25",
      "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
+     "source": "Fixed date (July 25) per El Nuevo Día",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "The 1952 Commonwealth constitution.",
+   "whatItMarks": "Puerto Rico's constitution; Pew notes Puerto Rico has had its own constitution since 1952.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "See the 2026 Puerto Rico holiday calendar (Platea PR)",
+     "url": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Días feriados en Puerto Rico 2026",
+     "url": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Key findings about Puerto Rico (Pew, Feb. 5, 2026)",
+     "url": "https://www.pewresearch.org/short-reads/2026/02/05/key-findings-about-puerto-rico/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "puerto-rican--christmas",
-   "observanceKey": "christmas",
-   "name": "Christmas",
+   "id": "puerto-rican--josé-celso-barbosa-day",
+   "observanceKey": "josé-celso-barbosa-day",
+   "name": "José Celso Barbosa Day",
    "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
+    "Día de José Celso Barbosa"
    ],
    "communities": [
     "puerto-rican"
@@ -25500,154 +25879,193 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
     }
    ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
-   "dateRule": "December 25.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-12-25",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-12-25",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-12-25",
-     "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "puerto-rican--día-de-los-reyes",
-   "observanceKey": "día-de-los-reyes",
-   "name": "Día de los Reyes",
-   "alsoKnownAs": [
-    "Three Kings Day",
-    "Epiphany"
-   ],
-   "communities": [
-    "puerto-rican"
-   ],
-   "briefLinks": [
-    {
-     "community": "puerto-rican",
-     "title": "Puerto Rican Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
-    }
-   ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
-   "dateRule": "January 6.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-01-06",
-     "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-01-06",
-     "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-01-06",
-     "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley 65 de 2000 (días de fiesta oficiales)",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/2/0065-2000.pdf",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The visit of the Magi; a major gift day in many Puerto Rican and Mexican families.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "puerto-rican--discovery-of-puerto-rico-day",
-   "observanceKey": "discovery-of-puerto-rico-day",
-   "name": "Discovery of Puerto Rico Day",
-   "alsoKnownAs": [],
-   "communities": [
-    "puerto-rican"
-   ],
-   "briefLinks": [
-    {
-     "community": "puerto-rican",
-     "title": "Puerto Rican Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
-    }
-   ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
    "kind": "national",
-   "capsule": "Columbus's 1493 landing; marked in some public life.",
+   "capsule": "Puerto Rico public holiday honoring José Celso Barbosa, one of the island's honored historical figures.",
+   "dateRule": "July 27 (observed on a nearby weekday in some years).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-07-27",
+     "endDate": null,
+     "source": "El Nuevo Día holiday list (July 27)",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-27",
+     "endDate": null,
+     "source": "Fixed date (July 27) per El Nuevo Día",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-07-27",
+     "endDate": null,
+     "source": "Fixed date (July 27) per El Nuevo Día",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The birthday of José Celso Barbosa, a Puerto Rican physician and political leader.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Días feriados en Puerto Rico 2026",
+     "url": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "puerto-rican--hurricane-maría-remembrance",
+   "observanceKey": "hurricane-maría-remembrance",
+   "name": "Hurricane María remembrance",
+   "alsoKnownAs": [
+    "Aniversario del huracán María"
+   ],
+   "communities": [
+    "puerto-rican"
+   ],
+   "briefLinks": [
+    {
+     "community": "puerto-rican",
+     "title": "Puerto Rican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
+   "kind": "remembrance",
+   "capsule": "Anniversary of Hurricane María's 2017 landfall, which reshaped Puerto Rico and brought many families to Minnesota.",
+   "dateRule": "September 20, the anniversary of landfall in 2017. Minnesota vigils are organized by community groups when held.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-20",
+     "endDate": null,
+     "source": "Anniversary of Sept. 20, 2017 landfall (Becoming SotaRicans StoryMap); no 2026 Minnesota vigil found",
+     "sourceUrl": "https://storymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-09-20",
+     "endDate": null,
+     "source": "Anniversary date",
+     "sourceUrl": "https://storymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-09-20",
+     "endDate": null,
+     "source": "Anniversary date",
+     "sourceUrl": "https://storymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The September 20, 2017 landfall of Hurricane María, two weeks after Irma, and the deaths and displacement that followed.",
+   "howCelebratedInMinnesota": "On Sept. 20, 2022, the fifth anniversary, about two dozen people held a vigil by the Puerto Rican mural at El Colegio High School in Minneapolis, with members of the Puerto Ricans in Minnesota Committee, and raised money after Hurricane Fiona. No 2025 or 2026 vigil was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Fifth-anniversary vigil for Hurricane María victims",
+     "place": "El Colegio High School, Minneapolis",
+     "link": "https://www.echopress.com/news/minnesota/minnesotans-with-puerto-rico-ties-remember-maria-work-to-help-recovery-from-fiona",
+     "organizerDates": "Held Tuesday, Sept. 20, 2022",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Becoming SotaRicans (StoryMap, 2022)",
+     "url": "https://storymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesotans with Puerto Rico ties remember Maria (Echo Press/MPR, Sept. 2022)",
+     "url": "https://www.echopress.com/news/minnesota/minnesotans-with-puerto-rico-ties-remember-maria-work-to-help-recovery-from-fiona",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "puerto-rican--día-de-la-puertorriqueñidad-discovery-of-puerto-rico-day",
+   "observanceKey": "discovery-of-puerto-rico-day",
+   "name": "Día de la Puertorriqueñidad (Discovery of Puerto Rico Day)",
+   "alsoKnownAs": [
+    "Discovery of Puerto Rico Day",
+    "Descubrimiento de Puerto Rico",
+    "Puerto Rican Heritage Day"
+   ],
+   "communities": [
+    "puerto-rican"
+   ],
+   "briefLinks": [
+    {
+     "community": "puerto-rican",
+     "title": "Puerto Rican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
+   "kind": "national",
+   "capsule": "Puerto Rico public holiday now named for Puerto Rican identity, also marking Columbus's 1493 arrival.",
    "dateRule": "November 19.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-11-19",
      "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley Núm. 91 de 1938, Día de la Puertorriqueñidad, Día del Descubrimiento de Puerto Rico",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/91-1938.pdf",
+     "source": "Platea PR 2026 holiday calendar (Thursday, Nov. 19, 2026)",
+     "sourceUrl": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-11-19",
      "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley Núm. 91 de 1938, Día de la Puertorriqueñidad, Día del Descubrimiento de Puerto Rico",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/91-1938.pdf",
+     "source": "Fixed date (November 19) per El Nuevo Día",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-11-19",
      "endDate": null,
-     "source": "Puerto Rico Oficina de Gerencia y Presupuesto, Ley Núm. 91 de 1938, Día de la Puertorriqueñidad, Día del Descubrimiento de Puerto Rico",
-     "sourceUrl": "https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/91-1938.pdf",
+     "source": "Fixed date (November 19) per El Nuevo Día",
+     "sourceUrl": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Columbus's 1493 landing; marked in some public life.",
+   "whatItMarks": "El Nuevo Día lists the day as Día de la Puertorriqueñidad y el Descubrimiento de Puerto Rico; Platea PR calls it Puerto Rican Heritage Day.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "See the 2026 Puerto Rico holiday calendar (Platea PR)",
+     "url": "https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Días feriados en Puerto Rico 2026",
+     "url": "https://www.elnuevodia.com/dias-feriados-en-puerto-rico/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "puerto-rican--hispanic-heritage-month-begins",
-   "observanceKey": "hispanic-heritage-month-begins",
-   "name": "Hispanic Heritage Month (begins)",
+   "id": "puerto-rican--encuentro-boricua",
+   "observanceKey": "encuentro-boricua",
+   "name": "Encuentro Boricua",
    "alsoKnownAs": [],
    "communities": [
     "puerto-rican"
@@ -25659,9 +26077,69 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
+   "kind": "community festival",
+   "capsule": "Summer gathering of Puerto Ricans from across Minnesota, held in the Twin Cities since 2002.",
+   "dateRule": "Summer; set each year by local organizers. No current dates found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "A celebration of the Puerto Rican community in Minnesota.",
+   "howCelebratedInMinnesota": "The 2022 StoryMap describes an annual summer event begun in 2002 with food, music and dance that draws hundreds of Puerto Ricans from across the state and marked its 20th anniversary in 2022. Whether it continued in 2025 or 2026 could not be confirmed.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Becoming SotaRicans (StoryMap, 2022)",
+     "url": "https://storymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "puerto-rican--hispanic-heritage-month-begins",
+   "observanceKey": "hispanic-heritage-month-begins",
+   "name": "Hispanic Heritage Month (begins)",
+   "alsoKnownAs": [
+    "Latino Heritage Month"
+   ],
+   "communities": [
+    "puerto-rican"
+   ],
+   "briefLinks": [
+    {
+     "community": "puerto-rican",
+     "title": "Puerto Rican Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/puerto-rican/profile.md",
    "kind": "heritage",
-   "capsule": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
+   "capsule": "U.S. heritage month, Sept. 15 to Oct. 15; a Latino umbrella observance, not a Puerto Rican one.",
    "dateRule": "September 15.",
    "dates": [
     {
@@ -25690,11 +26168,17 @@
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "U.S. heritage month, September 15 to October 15, tied to Central American and Mexican independence days.",
-   "howCelebratedInMinnesota": null,
+   "whatItMarks": "A national month for Hispanic and Latino Americans, September 15 to October 15.",
+   "howCelebratedInMinnesota": "No Puerto Rican-specific Minnesota event was found. In 2024 Gov. Tim Walz used the month to speak of Puerto Rican and Latino families in Minnesota and Pennsylvania (Puerto Rico Report).",
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Puerto Rico and Minnesota (Puerto Rico Report, 2024)",
+     "url": "https://puertoricoreport.com/puerto-rico-and-minnesota/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "rural--minnesota-state-fair",

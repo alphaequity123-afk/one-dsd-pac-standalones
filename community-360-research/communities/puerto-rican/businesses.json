@@ -1,0 +1,82 @@
+[
+ {
+  "name": "Bichota Coffee",
+  "type": "coffee shop and roaster",
+  "neighborhoodOrCity": "George Floyd Square, south Minneapolis (3740 Chicago Ave.)",
+  "whatItIs": "Specialty coffee café and roastery with a Puerto Rican owner; the name comes from Puerto Rican slang. Hosts art shows, writing circles and pop-ups; staff unionized soon after opening in 2024.",
+  "link": "https://bichotacoffee.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current coffees and subscriptions and says the café is open at 3740 Chicago Ave. Racket (Oct. 7, 2024) and KSTP covered the opening; Mato venue page lists recent events."
+ },
+ {
+  "name": "Ricardo Levins Morales Art Studio",
+  "type": "art studio and retail store",
+  "neighborhoodOrCity": "Longfellow area, south Minneapolis (3260 Minnehaha Ave.)",
+  "whatItIs": "Studio and store of the Puerto Rican-born artist Ricardo Levins Morales, selling movement posters, prints, buttons and zines.",
+  "link": "https://www.rlmartstudio.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows the Minnehaha Ave. address, a 2026 copyright and 2026 products, including a zine on the 2026 Twin Cities enforcement surge."
+ },
+ {
+  "name": "NewPublica",
+  "type": "public relations and communications firm",
+  "neighborhoodOrCity": "Minneapolis (2909 Bryant Ave. S., Suite 301)",
+  "whatItIs": "Multicultural public relations and strategic communications firm; Twin Cities Business (2024) said former state Sen. Melisa López Franzen, a native of Puerto Rico, had been its president. Edits a Minnesota Hispanic directory.",
+  "link": "https://newpublica.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows the Bryant Ave. address and posts dated March 13 and June 6, 2026."
+ },
+ {
+  "name": "La Prensa de Minnesota",
+  "type": "Spanish-language newspaper (media)",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Spanish-language news outlet serving Latino Minnesotans broadly; listed for context, not as a Puerto Rican-owned business (ownership was not confirmed).",
+  "link": "https://laprensademn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site shows articles dated as recently as Oct. 30, 2026."
+ },
+ {
+  "name": "La Borinqua",
+  "type": "food trailer (Puerto Rican food)",
+  "neighborhoodOrCity": "Albert Lea; served events in southern Minnesota including Owatonna",
+  "whatItIs": "Puerto Rican food trailer run by Amanda Velazquez, with plantain nachos and a mostly gluten-free menu based on family recipes.",
+  "link": "https://www.southernminn.com/owatonna_peoples_press/news/new-food-truck-brings-a-gluten-free-taste-of-puerto-rico-to-downtown-thursday/article_0ec38406-fc95-11ec-a8f5-ebbe049f14fe.html",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "The latest opened article is from 2022 (Owatonna People's Press). No 2025 or 2026 sign of operation was found."
+ },
+ {
+  "name": "El Jibarito Restaurant and food truck",
+  "type": "restaurant and food truck (Puerto Rican food)",
+  "neighborhoodOrCity": "Twin Cities area (exact location not confirmed)",
+  "whatItIs": "Family-owned Puerto Rican restaurant with a food truck and catering, as listed in a 2022 University of Minnesota StoryMap.",
+  "link": "https://storymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only a 2022 listing was found; no own website or recent dated post was found."
+ },
+ {
+  "name": "Sosa Foods & Deli",
+  "type": "takeout deli (Puerto Rican food)",
+  "neighborhoodOrCity": "Minneapolis, near Minnehaha Park",
+  "whatItIs": "Small takeout spot with mofongo and tostones at the center of its menu.",
+  "link": "https://mspmag.com/eat-and-drink/quick-and-tasty-bites/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only a July 1, 2012 Mpls.St.Paul Magazine review was found; no current sign of operation."
+ },
+ {
+  "name": "SotaRico",
+  "type": "production company and record label",
+  "neighborhoodOrCity": "St. Paul",
+  "whatItIs": "Production company and independent record label founded by artist and legislator María Isa Pérez-Vega; the source of the term SotaRican.",
+  "link": "https://sahanjournal.com/democracy-politics/maria-isa-wins-minnesota-house-west-side-st-paul-elections-2022/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Sahan Journal (Nov. 8, 2022) and a 2022 StoryMap describe it; no own site or 2025-2026 activity was found."
+ }
+]

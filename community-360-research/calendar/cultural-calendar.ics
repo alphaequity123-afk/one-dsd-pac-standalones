@@ -622,6 +622,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:american-citizenship-day-puerto-rico-2026-03-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:American Citizenship Day (Puerto Rico)
+DESCRIPTION:The 1917 law granting U.S. citizenship to Puerto Ricans. Date
+ : March 2 (Puerto Rico may observe some holidays on a nearby Monday by pr
+ oclamation). Source: Platea PR 2026 holiday calendar (Monday\, March 2\, 
+ 2026) https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-h
+ oliday-calendar Communities: Puerto Rican Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:makha-bucha-2026-03-03@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260303
@@ -708,6 +722,19 @@ DESCRIPTION:End of the Ramadan fast. In Bosnia the second day is marked a
  osnias-islamic-community-announces-official-schedule-for-eid-al-fitr-2026
   Communities: Bosnian Minnesota
 CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abolition-of-slavery-day-puerto-rico-2026-03-22@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:Abolition of Slavery Day (Puerto Rico)
+DESCRIPTION:The abolition of slavery in Puerto Rico. Date: March 22. Sour
+ ce: Platea PR 2026 holiday calendar (Sunday\, March 22\, 2026) https://ww
+ w.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar 
+ Communities: Puerto Rican Minnesota
+CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1798,10 +1825,11 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260725
 DTEND;VALUE=DATE:20260726
 SUMMARY:Puerto Rico Constitution Day
-DESCRIPTION:The 1952 Commonwealth constitution. Date: July 25. Source: Pu
- erto Rico Oficina de Gerencia y Presupuesto\, Ley 65 de 2000 (días de fi
- esta oficiales) https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/P
- DF/2/0065-2000.pdf Communities: Puerto Rican Minnesota
+DESCRIPTION:Puerto Rico's constitution\; Pew notes Puerto Rico has had it
+ s own constitution since 1952. Date: July 25. Source: Platea PR 2026 holi
+ day calendar (Saturday\, July 25\, 2026) https://www.plateapr.com/en/what
+ -to-know/see-the-2026-puerto-rico-holiday-calendar Communities: Puerto Ri
+ can Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1846,6 +1874,20 @@ DESCRIPTION:Black-owned businesses and economic recovery. Date: Announced
  //www.minneapolismn.gov/things-to-do/events/2026-events/july/black-busine
  ss-week/ Communities: African American Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:josé-celso-barbosa-day-2026-07-27@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:José Celso Barbosa Day
+DESCRIPTION:The birthday of José Celso Barbosa\, a Puerto Rican physicia
+ n and political leader. Date: July 27 (observed on a nearby weekday in so
+ me years). Source: El Nuevo Día holiday list (July 27) https://www.elnue
+ vodia.com/dias-feriados-en-puerto-rico/ Communities: Puerto Rican Minneso
+ ta
+CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2627,6 +2669,22 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:hurricane-maría-remembrance-2026-09-20@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Hurricane María remembrance
+DESCRIPTION:The September 20\, 2017 landfall of Hurricane María\, two we
+ eks after Irma\, and the deaths and displacement that followed. Date: Sep
+ tember 20\, the anniversary of landfall in 2017. Minnesota vigils are org
+ anized by community groups when held. Source: Anniversary of Sept. 20\, 2
+ 017 landfall (Becoming SotaRicans StoryMap)\; no 2026 Minnesota vigil fou
+ nd https://storymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015 
+ Communities: Puerto Rican Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:midautumn-moon-festival-at-landmark-center-2026-09-20@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260920
@@ -3244,12 +3302,12 @@ UID:discovery-of-puerto-rico-day-2026-11-19@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:Discovery of Puerto Rico Day
-DESCRIPTION:Columbus's 1493 landing\; marked in some public life. Date: N
- ovember 19. Source: Puerto Rico Oficina de Gerencia y Presupuesto\, Ley N
- úm. 91 de 1938\, Día de la Puertorriqueñidad\, Día del Descubrimiento
-  de Puerto Rico https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/P
- DF/91-1938.pdf Communities: Puerto Rican Minnesota
+SUMMARY:Día de la Puertorriqueñidad (Discovery of Puerto Rico Day)
+DESCRIPTION:El Nuevo Día lists the day as Día de la Puertorriqueñidad 
+ y el Descubrimiento de Puerto Rico\; Platea PR calls it Puerto Rican Heri
+ tage Day. Date: November 19. Source: Platea PR 2026 holiday calendar (Thu
+ rsday\, Nov. 19\, 2026) https://www.plateapr.com/en/what-to-know/see-the-
+ 2026-puerto-rico-holiday-calendar Communities: Puerto Rican Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3975,6 +4033,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:american-citizenship-day-puerto-rico-2027-03-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:American Citizenship Day (Puerto Rico)
+DESCRIPTION:The 1917 law granting U.S. citizenship to Puerto Ricans. Date
+ : March 2 (Puerto Rico may observe some holidays on a nearby Monday by pr
+ oclamation). Source: Fixed date (March 2) per El Nuevo Día https://www.e
+ lnuevodia.com/dias-feriados-en-puerto-rico/ Communities: Puerto Rican Min
+ nesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:st-patricks-day-2027-03-17@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270317
@@ -4514,10 +4586,10 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 SUMMARY:Puerto Rico Constitution Day
-DESCRIPTION:The 1952 Commonwealth constitution. Date: July 25. Source: Pu
- erto Rico Oficina de Gerencia y Presupuesto\, Ley 65 de 2000 (días de fi
- esta oficiales) https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/P
- DF/2/0065-2000.pdf Communities: Puerto Rican Minnesota
+DESCRIPTION:Puerto Rico's constitution\; Pew notes Puerto Rico has had it
+ s own constitution since 1952. Date: July 25. Source: Fixed date (July 25
+ ) per El Nuevo Día https://www.elnuevodia.com/dias-feriados-en-puerto-ri
+ co/ Communities: Puerto Rican Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4532,6 +4604,20 @@ DESCRIPTION:Liberia's declaration of independence on July 26\, 1847. 2026
  ster on the surrounding weekend\, set by each organizer. Source: Fixed da
  te https://ccxmedia.org/news/residents-celebrate-liberian-independence-da
  y/ Communities: Liberian Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:josé-celso-barbosa-day-2027-07-27@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:José Celso Barbosa Day
+DESCRIPTION:The birthday of José Celso Barbosa\, a Puerto Rican physicia
+ n and political leader. Date: July 27 (observed on a nearby weekday in so
+ me years). Source: Fixed date (July 27) per El Nuevo Día https://www.eln
+ uevodia.com/dias-feriados-en-puerto-rico/ Communities: Puerto Rican Minne
+ sota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4787,6 +4873,21 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:hurricane-maría-remembrance-2027-09-20@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:Hurricane María remembrance
+DESCRIPTION:The September 20\, 2017 landfall of Hurricane María\, two we
+ eks after Irma\, and the deaths and displacement that followed. Date: Sep
+ tember 20\, the anniversary of landfall in 2017. Minnesota vigils are org
+ anized by community groups when held. Source: Anniversary date https://st
+ orymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015 Communities: 
+ Puerto Rican Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:international-day-of-sign-languages-2027-09-23@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270923
@@ -4963,12 +5064,12 @@ UID:discovery-of-puerto-rico-day-2027-11-19@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20271119
 DTEND;VALUE=DATE:20271120
-SUMMARY:Discovery of Puerto Rico Day
-DESCRIPTION:Columbus's 1493 landing\; marked in some public life. Date: N
- ovember 19. Source: Puerto Rico Oficina de Gerencia y Presupuesto\, Ley N
- úm. 91 de 1938\, Día de la Puertorriqueñidad\, Día del Descubrimiento
-  de Puerto Rico https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/P
- DF/91-1938.pdf Communities: Puerto Rican Minnesota
+SUMMARY:Día de la Puertorriqueñidad (Discovery of Puerto Rico Day)
+DESCRIPTION:El Nuevo Día lists the day as Día de la Puertorriqueñidad 
+ y el Descubrimiento de Puerto Rico\; Platea PR calls it Puerto Rican Heri
+ tage Day. Date: November 19. Source: Fixed date (November 19) per El Nuev
+ o Día https://www.elnuevodia.com/dias-feriados-en-puerto-rico/ Communiti
+ es: Puerto Rican Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -5577,6 +5678,20 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:american-citizenship-day-puerto-rico-2028-03-02@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280302
+DTEND;VALUE=DATE:20280303
+SUMMARY:American Citizenship Day (Puerto Rico)
+DESCRIPTION:The 1917 law granting U.S. citizenship to Puerto Ricans. Date
+ : March 2 (Puerto Rico may observe some holidays on a nearby Monday by pr
+ oclamation). Source: Fixed date (March 2) per El Nuevo Día https://www.e
+ lnuevodia.com/dias-feriados-en-puerto-rico/ Communities: Puerto Rican Min
+ nesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:holi-2028-03-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280311
@@ -6030,10 +6145,10 @@ DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280725
 DTEND;VALUE=DATE:20280726
 SUMMARY:Puerto Rico Constitution Day
-DESCRIPTION:The 1952 Commonwealth constitution. Date: July 25. Source: Pu
- erto Rico Oficina de Gerencia y Presupuesto\, Ley 65 de 2000 (días de fi
- esta oficiales) https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/P
- DF/2/0065-2000.pdf Communities: Puerto Rican Minnesota
+DESCRIPTION:Puerto Rico's constitution\; Pew notes Puerto Rico has had it
+ s own constitution since 1952. Date: July 25. Source: Fixed date (July 25
+ ) per El Nuevo Día https://www.elnuevodia.com/dias-feriados-en-puerto-ri
+ co/ Communities: Puerto Rican Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6048,6 +6163,20 @@ DESCRIPTION:Liberia's declaration of independence on July 26\, 1847. 2026
  ster on the surrounding weekend\, set by each organizer. Source: Fixed da
  te https://ccxmedia.org/news/residents-celebrate-liberian-independence-da
  y/ Communities: Liberian Minnesota
+CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:josé-celso-barbosa-day-2028-07-27@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280727
+DTEND;VALUE=DATE:20280728
+SUMMARY:José Celso Barbosa Day
+DESCRIPTION:The birthday of José Celso Barbosa\, a Puerto Rican physicia
+ n and political leader. Date: July 27 (observed on a nearby weekday in so
+ me years). Source: Fixed date (July 27) per El Nuevo Día https://www.eln
+ uevodia.com/dias-feriados-en-puerto-rico/ Communities: Puerto Rican Minne
+ sota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -6233,6 +6362,21 @@ CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:hurricane-maría-remembrance-2028-09-20@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280920
+DTEND;VALUE=DATE:20280921
+SUMMARY:Hurricane María remembrance
+DESCRIPTION:The September 20\, 2017 landfall of Hurricane María\, two we
+ eks after Irma\, and the deaths and displacement that followed. Date: Sep
+ tember 20\, the anniversary of landfall in 2017. Minnesota vigils are org
+ anized by community groups when held. Source: Anniversary date https://st
+ orymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015 Communities: 
+ Puerto Rican Minnesota
+CATEGORIES:remembrance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:international-day-of-sign-languages-2028-09-23@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280923
@@ -6394,12 +6538,12 @@ UID:discovery-of-puerto-rico-day-2028-11-19@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20281119
 DTEND;VALUE=DATE:20281120
-SUMMARY:Discovery of Puerto Rico Day
-DESCRIPTION:Columbus's 1493 landing\; marked in some public life. Date: N
- ovember 19. Source: Puerto Rico Oficina de Gerencia y Presupuesto\, Ley N
- úm. 91 de 1938\, Día de la Puertorriqueñidad\, Día del Descubrimiento
-  de Puerto Rico https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/P
- DF/91-1938.pdf Communities: Puerto Rican Minnesota
+SUMMARY:Día de la Puertorriqueñidad (Discovery of Puerto Rico Day)
+DESCRIPTION:El Nuevo Día lists the day as Día de la Puertorriqueñidad 
+ y el Descubrimiento de Puerto Rico\; Platea PR calls it Puerto Rican Heri
+ tage Day. Date: November 19. Source: Fixed date (November 19) per El Nuev
+ o Día https://www.elnuevodia.com/dias-feriados-en-puerto-rico/ Communiti
+ es: Puerto Rican Minnesota
 CATEGORIES:national
 TRANSP:TRANSPARENT
 END:VEVENT
