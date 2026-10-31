@@ -17806,13 +17806,12 @@
    ]
   },
   {
-   "id": "lebanese--start-of-ramadan",
-   "observanceKey": "start-of-ramadan",
-   "name": "Start of Ramadan",
+   "id": "lebanese--st-maron-lebanese-festival",
+   "observanceKey": "st-maron-lebanese-festival",
+   "name": "St. Maron Lebanese Festival",
    "alsoKnownAs": [
-    "Ramadan",
-    "Ramazan",
-    "Soomaan"
+    "Lebanese Fall Festival",
+    "St. Maron's Lebanese Festival"
    ],
    "communities": [
     "lebanese"
@@ -17824,51 +17823,85 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
     }
    ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Start of the month of daytime fasting.",
-   "dateRule": "First day of the ninth month of the Islamic (Hijri) lunar calendar.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "community festival",
+   "capsule": "St. Maron Maronite Catholic Church's yearly Lebanese food, music and dabke festival in Northeast Minneapolis, held since 1990.",
+   "dateRule": "Set each year by St. Maron parish; recent years fell on a mid- to late-September weekend.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-02-18",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
-     "sourceUrl": null,
-     "verified": false
+     "date": "2026-09-18",
+     "endDate": "2026-09-20",
+     "source": "Northeaster event listing",
+     "sourceUrl": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/2026-09-19/",
+     "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-02-08",
+     "date": null,
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-01-28",
+     "date": null,
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     }
    ],
-   "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Start of the month of daytime fasting.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Lebanese culture and the parish community; Racket reports it began in 1990 to change how people saw Lebanon during wartime.",
+   "howCelebratedInMinnesota": "At the church, 600-602 University Ave. NE, Minneapolis. 2026: Friday Sept. 18, 6-9 p.m. (bingo), Saturday noon-8 p.m., Sunday 11 a.m.-6 p.m., with Lebanese food, beer and wine, live music, dabke by youth and adult groups at 2 and 4 p.m., a Lebanese store and church tours. 2025: Sept. 13-14 with the Cedars Dabke Dance Group. CBS called the 2024 festival the 33rd. Volunteers span three generations and include Syrian, Jordanian, Turkish, Iraqi and Palestinian parishioners.",
+   "minnesotaEvents": [
+    {
+     "name": "St. Maron Lebanese Festival 2026",
+     "place": "St. Maron Catholic Church, 602 University Ave. NE, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/2026-09-19/",
+     "organizerDates": "Sept. 18, 19 and 20, 2026, as listed",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "St. Maron Lebanese Festival 2025 (held)",
+     "place": "St. Maron Maronite Catholic Church, 600 University Ave. NE, Minneapolis",
+     "link": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-5/2025-09-13/",
+     "organizerDates": "Sept. 13-14, 2025, as listed",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "St. Maron Lebanese Festival 2026 listing, Northeaster",
+     "url": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/2026-09-19/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "St. Maron Lebanese Festival 2025 listing, Northeaster",
+     "url": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-5/2025-09-13/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "This Weekend's Lebanese Festival..., Racket, Sept. 15, 2022",
+     "url": "https://racketmn.com/st-marons-lebanese-festival-northeast-minneapolis",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minneapolis church hosts annual Lebanese Festival, CBS Minnesota, Sept. 23, 2024",
+     "url": "https://www.cbsnews.com/minnesota/news/minneapolis-church-lebanese-festival/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "lebanese--eid-alfitr",
-   "observanceKey": "eid-alfitr",
-   "name": "Eid al-Fitr",
+   "id": "lebanese--st-george-middle-eastern-festival",
+   "observanceKey": "st-george-middle-eastern-festival",
+   "name": "St. George Middle Eastern Festival",
    "alsoKnownAs": [
-    "Ciid Yare",
-    "Ramazanski Bajram",
-    "Id el Fitr"
+    "Mid East Fest"
    ],
    "communities": [
     "lebanese"
@@ -17880,158 +17913,71 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
     }
    ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "End of Ramadan.",
-   "dateRule": "First day of the tenth Islamic month (Shawwal), after Ramadan ends.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "community festival",
+   "capsule": "St. George Antiochian Orthodox Church's summer festival of Middle Eastern food, music, dance and pastries in West St. Paul.",
+   "dateRule": "Set each year by St. George parish; held on a July weekend in 2026.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-03-20",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-03-20",
-     "sourceUrl": null,
-     "verified": false
+     "date": "2026-07-18",
+     "endDate": "2026-07-19",
+     "source": "St. George Middle Eastern Festival",
+     "sourceUrl": "https://www.mideastfest.com/",
+     "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-03-09",
+     "date": null,
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-02-26",
+     "date": null,
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     }
    ],
-   "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "End of Ramadan.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Hospitality and heritage of a parish founded in 1913 by Syrian and Lebanese immigrants.",
+   "howCelebratedInMinnesota": "16th annual festival, Saturday July 18, noon-10 p.m., and Sunday July 19, noon-6 p.m., 2026, at 1250 Oakdale Ave., West St. Paul, rain or shine under a big tent with free admission: Middle Eastern food and pastries, Lebanese wines, the St. George Dabke Dance Group, a Lebanese singer and band, church tours, a Saturday Vespers service, a marketplace, children's games and camel rides.",
+   "minnesotaEvents": [
+    {
+     "name": "16th Annual St. George Middle Eastern Festival",
+     "place": "St. George Antiochian Orthodox Church, 1250 Oakdale Ave., West St. Paul",
+     "link": "https://www.mideastfest.com/",
+     "organizerDates": "July 18-19, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "The St. George Middle Eastern Festival",
+     "url": "https://www.mideastfest.com/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Who We Are, St. George",
+     "url": "https://www.mideastfest.com/who-we-are/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Festival Highlights, St. George Middle Eastern Festival",
+     "url": "https://www.mideastfest.com/festival-highlights/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "lebanese--eid-aladha",
-   "observanceKey": "eid-aladha",
-   "name": "Eid al-Adha",
-   "alsoKnownAs": [
-    "Ciid Weyn",
-    "Kurban Bajram",
-    "Id el Kabir"
-   ],
-   "communities": [
-    "lebanese"
-   ],
-   "briefLinks": [
-    {
-     "community": "lebanese",
-     "title": "Lebanese Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
-    }
-   ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Festival of sacrifice, during the Hajj season.",
-   "dateRule": "Tenth day of the twelfth Islamic month (Dhu al-Hijjah).",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-05-27",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2027,
-     "date": "2027-05-16",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": "2028-05-05",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "lebanese--islamic-new-year",
-   "observanceKey": "islamic-new-year",
-   "name": "Islamic New Year",
-   "alsoKnownAs": [
-    "Hijri New Year",
-    "Muharram"
-   ],
-   "communities": [
-    "lebanese"
-   ],
-   "briefLinks": [
-    {
-     "community": "lebanese",
-     "title": "Lebanese Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
-    }
-   ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Start of the Hijri year.",
-   "dateRule": "First day of the first Islamic month (Muharram).",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-06-16",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.; Fiqh Council of North America, Calendar lists 2026-06-16",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2027,
-     "date": "2027-06-06",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": "2028-05-25",
-     "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "Start of the Hijri year.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "lebanese--ashura",
-   "observanceKey": "ashura",
-   "name": "Ashura",
+   "id": "lebanese--holy-family-maronite-fall-festival",
+   "observanceKey": "holy-family-maronite-fall-festival",
+   "name": "Holy Family Maronite Fall Festival",
    "alsoKnownAs": [],
    "communities": [
     "lebanese"
@@ -18043,51 +17989,122 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
     }
    ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "A day observed differently in Sunni and Shia practice.",
-   "dateRule": "Tenth day of Muharram.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "community festival",
+   "capsule": "Holy Family Maronite Church's one-day fall festival in Mendota Heights, with food, raffles, games and a silent auction.",
+   "dateRule": "Set each year by Holy Family parish; a Saturday in September in 2026.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-06-25",
+     "date": "2026-09-12",
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
-     "sourceUrl": null,
-     "verified": false
+     "source": "Holy Family Maronite Church",
+     "sourceUrl": "https://www.holyfamilymaronitechurch.org/",
+     "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-06-15",
+     "date": null,
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     },
     {
      "year": 2028,
-     "date": "2028-06-03",
+     "date": null,
      "endDate": null,
-     "source": "Estimated with the Umm al-Qura tabular calendar (hijridate 2.6). Minnesota mosques decide the day by local or global moon sighting or by an astronomical calculation they adopt, so the observed day can differ by one day; the date is confirmed close to the time.",
+     "source": "No announcement found",
      "sourceUrl": null,
      "verified": false
     }
    ],
-   "dateCertainty": "moon-sighted or announced",
-   "whatItMarks": "A day observed differently in Sunni and Shia practice.",
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Parish fundraiser and gathering of a Maronite community founded in St. Paul in 1918.",
+   "howCelebratedInMinnesota": "Saturday, Sept. 12, 2026, at 1960 Lexington Ave. S., Mendota Heights; the parish's donation list includes meat, bread, parsley for tabouli, a bake sale, raffle prizes and adult games.",
+   "minnesotaEvents": [
+    {
+     "name": "Holy Family Fall Festival 2026",
+     "place": "Holy Family Maronite Church, 1960 Lexington Ave. S., Mendota Heights",
+     "link": "https://www.holyfamilymaronitechurch.org/",
+     "organizerDates": "Saturday, Sept. 12, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Holy Family Maronite Church home page",
+     "url": "https://www.holyfamilymaronitechurch.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "lebanese--lebanese-independence-day",
+   "observanceKey": "lebanese-independence-day",
+   "name": "Lebanese Independence Day",
+   "alsoKnownAs": [],
+   "communities": [
+    "lebanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "lebanese",
+     "title": "Lebanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "national",
+   "capsule": "November 22 marks Lebanon's independence from the French mandate in 1943; a public holiday in Lebanon.",
+   "dateRule": "November 22 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-11-22",
+     "endDate": null,
+     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-11-22",
+     "endDate": null,
+     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-11-22",
+     "endDate": null,
+     "source": "Fixed date; CalendarLabs lists Independence Day on Nov. 22",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Independence in 1943.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Lebanon public holidays 2026, CalendarLabs",
+     "url": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "lebanese--orthodox-easter",
-   "observanceKey": "orthodox-easter",
-   "name": "Orthodox Easter",
+   "id": "lebanese--feast-of-st-maron",
+   "observanceKey": "feast-of-st-maron",
+   "name": "Feast of St. Maron",
    "alsoKnownAs": [
-    "Pascha",
-    "Velykden",
-    "Paskha"
+    "Mar Maroun",
+    "Saint Maroun's Day"
    ],
    "communities": [
     "lebanese"
@@ -18099,9 +18116,197 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Eastern Christian tradition.",
+   "capsule": "February 9 honors St. Maron, patron of the Maronite Church; a public holiday in Lebanon and St. Maron parish's feast.",
+   "dateRule": "February 9 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-09",
+     "endDate": null,
+     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-09",
+     "endDate": null,
+     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-09",
+     "endDate": null,
+     "source": "Fixed date; CalendarLabs lists Saint Maroun's Day on Feb. 9",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The fourth-century hermit and priest Maron, from whom Maronites take their name.",
+   "howCelebratedInMinnesota": "The first Maronite Mass in Minneapolis was said on Feb. 9, 1903, the feast of St. Maron, at 311 Main Street (Northeaster). No current Minnesota event listing was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Lebanon public holidays 2026, CalendarLabs",
+     "url": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Lebanese came to Northeast in waves, Northeaster",
+     "url": "https://www.mynortheaster.com/news/lebanese-came-to-northeast-in-waves/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Holy Family Maronite Church history",
+     "url": "https://www.holyfamilymaronitechurch.org/history.html",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "lebanese--maronite-ash-monday-start-of-lent",
+   "observanceKey": "maronite-ash-monday-start-of-lent",
+   "name": "Maronite Ash Monday (start of Lent)",
+   "alsoKnownAs": [
+    "Ash Monday"
+   ],
+   "communities": [
+    "lebanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "lebanese",
+     "title": "Lebanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "religious",
+   "capsule": "Maronite Catholics begin Lent on the Monday before the Western Ash Wednesday.",
+   "dateRule": "Monday before Western Ash Wednesday (48 days before Western Easter).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-16",
+     "endDate": null,
+     "source": "Calculated from Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": null,
+     "source": "Calculated from Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-28",
+     "endDate": null,
+     "source": "Calculated from Western Easter",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Start of the Lenten fast.",
+   "howCelebratedInMinnesota": "St. Maron's pastor described Ash Monday, the Benediction of the cross and the Great Friday 'signing of the chalice' in a 2021 radio interview; no dated 2026 service listing was opened.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Chorbishop Maroun describes Maronite Church's Lenten, Easter traditions, The Catholic Spirit, March 18, 2021",
+     "url": "https://www.thecatholicspirit.com/practicing-catholic/chorbishop-maroun-describes-maronite-churchs-lenten-easter-traditions/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "lebanese--easter",
+   "observanceKey": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [],
+   "communities": [
+    "lebanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "lebanese",
+     "title": "Lebanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "religious",
+   "capsule": "Resurrection of Jesus in Western Christian tradition; Minnesota's two Maronite parishes are Catholic.",
+   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-04-05",
+     "endDate": null,
+     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
+     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-28",
+     "endDate": null,
+     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
+     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-04-16",
+     "endDate": null,
+     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
+     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "calculated",
+   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
+   "howCelebratedInMinnesota": "St. Maron's pastor said in 2021 that Maronite Easter includes food like that of Jesus's time; Great Friday has a 'signing of the chalice' liturgy. No 2026 Minnesota listing was opened.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Chorbishop Maroun describes Maronite Church's Lenten, Easter traditions, The Catholic Spirit",
+     "url": "https://www.thecatholicspirit.com/practicing-catholic/chorbishop-maroun-describes-maronite-churchs-lenten-easter-traditions/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "lebanese--orthodox-easter",
+   "observanceKey": "orthodox-easter",
+   "name": "Orthodox Easter",
+   "alsoKnownAs": [
+    "Pascha"
+   ],
+   "communities": [
+    "lebanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "lebanese",
+     "title": "Lebanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "religious",
+   "capsule": "Resurrection of Jesus on the Orthodox calendar; relevant to St. George Antiochian Orthodox Church in West St. Paul.",
    "dateRule": "First Sunday after the first full moon on or after the spring equinox, calculated on the Julian calendar.",
    "dates": [
     {
@@ -18134,68 +18339,18 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Who We Are, St. George",
+     "url": "https://www.mideastfest.com/who-we-are/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "lebanese--easter",
-   "observanceKey": "easter",
-   "name": "Easter",
-   "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
-   ],
-   "communities": [
-    "lebanese"
-   ],
-   "briefLinks": [
-    {
-     "community": "lebanese",
-     "title": "Lebanese Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
-    }
-   ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
-   "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-04-05",
-     "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2026",
-     "sourceUrl": "https://www.usccb.org/resources/2026cal.pdf",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-03-28",
-     "endDate": null,
-     "source": "United States Conference of Catholic Bishops, Liturgical Calendar for the Dioceses of the USA 2027",
-     "sourceUrl": "https://www.usccb.org/resources/2027cal.pdf",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-04-16",
-     "endDate": null,
-     "source": "Diocese of Rapid City, Liturgical Calendar 2026 to 2028",
-     "sourceUrl": "https://www.rapidcitydiocese.org/wp-content/uploads/2026/01/Liturgical-Calendar-2026-to-2028_1540859795023570813.pdf",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "calculated",
-   "whatItMarks": "Resurrection of Jesus in Western Christian tradition.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "lebanese--lebanese-independence-day",
-   "observanceKey": "lebanese-independence-day",
-   "name": "Lebanese Independence Day",
+   "id": "lebanese--christmas",
+   "observanceKey": "christmas",
+   "name": "Christmas",
    "alsoKnownAs": [],
    "communities": [
     "lebanese"
@@ -18207,51 +18362,55 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
     }
    ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "Independence in 1943.",
-   "dateRule": "November 22.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "religious",
+   "capsule": "Birth of Jesus, December 25; a public holiday in Lebanon.",
+   "dateRule": "December 25.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-11-22",
+     "date": "2026-12-25",
      "endDate": null,
-     "source": "Republic of Liberia, Ministry of Foreign Affairs, President Weah Applauds Lebanon on 77th Independence observance",
-     "sourceUrl": "https://mofa.gov.lr/node/6223",
+     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-11-22",
+     "date": "2027-12-25",
      "endDate": null,
-     "source": "Republic of Liberia, Ministry of Foreign Affairs, President Weah Applauds Lebanon on 77th Independence observance",
-     "sourceUrl": "https://mofa.gov.lr/node/6223",
+     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-11-22",
+     "date": "2028-12-25",
      "endDate": null,
-     "source": "Republic of Liberia, Ministry of Foreign Affairs, President Weah Applauds Lebanon on 77th Independence observance",
-     "sourceUrl": "https://mofa.gov.lr/node/6223",
+     "source": "Fixed date; CalendarLabs lists Christmas on Dec. 25",
+     "sourceUrl": "https://www.calendarlabs.com/holidays/lebanon/2026",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Independence in 1943.",
+   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Lebanon public holidays 2026, CalendarLabs",
+     "url": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "lebanese--christmas",
-   "observanceKey": "christmas",
-   "name": "Christmas",
+   "id": "lebanese--beirut-port-explosion-anniversary",
+   "observanceKey": "beirut-port-explosion-anniversary",
+   "name": "Beirut port explosion anniversary",
    "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
+    "August 4"
    ],
    "communities": [
     "lebanese"
@@ -18263,42 +18422,342 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
     }
    ],
-   "profileLink": null,
-   "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
-   "dateRule": "December 25.",
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "remembrance",
+   "capsule": "August 4 recalls the 2020 Beirut port explosion; Minnesota's two Maronite parishes held Masses and prayer that week.",
+   "dateRule": "August 4 each year.",
    "dates": [
     {
      "year": 2026,
-     "date": "2026-12-25",
+     "date": "2026-08-04",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "Date of the 2020 explosion, The Catholic Spirit",
+     "sourceUrl": "https://www.thecatholicspirit.com/news/local-news/mass-at-mendota-heights-parish-to-be-dedicated-to-victims-of-explosion-in-beirut/",
      "verified": true
     },
     {
      "year": 2027,
-     "date": "2027-12-25",
+     "date": "2027-08-04",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "Date of the 2020 explosion, The Catholic Spirit",
+     "sourceUrl": "https://www.thecatholicspirit.com/news/local-news/mass-at-mendota-heights-parish-to-be-dedicated-to-victims-of-explosion-in-beirut/",
      "verified": true
     },
     {
      "year": 2028,
-     "date": "2028-12-25",
+     "date": "2028-08-04",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "Date of the 2020 explosion, The Catholic Spirit",
+     "sourceUrl": "https://www.thecatholicspirit.com/news/local-news/mass-at-mendota-heights-parish-to-be-dedicated-to-victims-of-explosion-in-beirut/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+   "whatItMarks": "Victims of the Aug. 4, 2020 explosion at the port of Beirut.",
+   "howCelebratedInMinnesota": "In 2020, St. Maron held adoration on Aug. 7 and a day of prayer and fasting on Aug. 8; Holy Family held a livestreamed Mass on Aug. 6. No yearly Minnesota remembrance was found.",
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Prayers, Mass at Twin Cities Maronite churches dedicated to victims of Beirut explosions, The Catholic Spirit, Aug. 5, 2020",
+     "url": "https://www.thecatholicspirit.com/news/local-news/mass-at-mendota-heights-parish-to-be-dedicated-to-victims-of-explosion-in-beirut/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "lebanese--start-of-ramadan",
+   "observanceKey": "start-of-ramadan",
+   "name": "Start of Ramadan",
+   "alsoKnownAs": [
+    "Ramadan"
+   ],
+   "communities": [
+    "lebanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "lebanese",
+     "title": "Lebanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "religious",
+   "capsule": "Start of the month of daytime fasting for Muslims, including Lebanese Muslims.",
+   "dateRule": "First day of the ninth Islamic month; moon-sighted or calculated.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-18",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.; Morocco World News, Muslims in US Will Start Celebrating Ramadan 2026 Tomorrow (reports Fiqh Council of North America declaration) lists 2026-02-18",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-02-08",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-28",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the month of daytime fasting.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
    "sources": []
+  },
+  {
+   "id": "lebanese--eid-alfitr",
+   "observanceKey": "eid-alfitr",
+   "name": "Eid al-Fitr",
+   "alsoKnownAs": [
+    "Eid al-Fitr"
+   ],
+   "communities": [
+    "lebanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "lebanese",
+     "title": "Lebanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "religious",
+   "capsule": "Festival ending Ramadan; a public holiday in Lebanon.",
+   "dateRule": "First day of Shawwal, after Ramadan; moon-sighted or calculated.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-20",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.; Fiqh Council of North America, Calendar lists 2026-03-20",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-09",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-02-26",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "End of Ramadan.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Lebanon public holidays 2026, CalendarLabs",
+     "url": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "lebanese--eid-aladha",
+   "observanceKey": "eid-aladha",
+   "name": "Eid al-Adha",
+   "alsoKnownAs": [
+    "Eid al-Adha"
+   ],
+   "communities": [
+    "lebanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "lebanese",
+     "title": "Lebanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "religious",
+   "capsule": "Festival of sacrifice during the Hajj season; a public holiday in Lebanon.",
+   "dateRule": "Tenth day of Dhu al-Hijjah; moon-sighted or calculated.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-27",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.; Al-Dirassa, Eid al-Adha 2026: Date, Prayer and Traditions Around the World (reports ISNA and FCNA) lists 2026-05-27",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-16",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Festival of sacrifice, during the Hajj season.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Lebanon public holidays 2026, CalendarLabs",
+     "url": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "lebanese--islamic-new-year",
+   "observanceKey": "islamic-new-year",
+   "name": "Islamic New Year",
+   "alsoKnownAs": [
+    "Hijri New Year"
+   ],
+   "communities": [
+    "lebanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "lebanese",
+     "title": "Lebanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "religious",
+   "capsule": "Start of the Hijri year; a public holiday in Lebanon.",
+   "dateRule": "First day of Muharram; moon-sighted or calculated.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-16",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.; Fiqh Council of North America, Calendar lists 2026-06-16",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-06",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-25",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "Start of the Hijri year.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Lebanon public holidays 2026, CalendarLabs",
+     "url": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "lebanese--ashura",
+   "observanceKey": "ashura",
+   "name": "Ashura",
+   "alsoKnownAs": [
+    "Ashura"
+   ],
+   "communities": [
+    "lebanese"
+   ],
+   "briefLinks": [
+    {
+     "community": "lebanese",
+     "title": "Lebanese Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lebanese"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/lebanese/profile.md",
+   "kind": "religious",
+   "capsule": "Tenth of Muharram, observed differently in Sunni and Shia practice; a public holiday in Lebanon.",
+   "dateRule": "Tenth day of Muharram; moon-sighted or calculated.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-25",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-06-15",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": "2028-06-03",
+     "endDate": null,
+     "source": "Projected with the Umm al-Qura tabular calendar; the observed day depends on moon sighting or the method a mosque follows and can differ by a day.",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "moon-sighted or announced",
+   "whatItMarks": "A day observed differently in Sunni and Shia practice.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Lebanon public holidays 2026, CalendarLabs",
+     "url": "https://www.calendarlabs.com/holidays/lebanon/2026",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "liberian--easter",

@@ -327,6 +327,19 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:feast-of-st-maron-2026-02-09@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:Feast of St. Maron
+DESCRIPTION:The fourth-century hermit and priest Maron\, from whom Maroni
+ tes take their name. Date: February 9 each year. Source: Fixed date\; Cal
+ endarLabs lists Saint Maroun's Day on Feb. 9 https://www.calendarlabs.com
+ /holidays/lebanon/2026 Communities: Lebanese Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:karen-national-day-2026-02-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260211
@@ -1561,6 +1574,19 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:st-george-middle-eastern-festival-2026-07-18@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260720
+SUMMARY:St. George Middle Eastern Festival
+DESCRIPTION:Hospitality and heritage of a parish founded in 1913 by Syria
+ n and Lebanese immigrants. Date: Set each year by St. George parish\; hel
+ d on a July weekend in 2026. Source: St. George Middle Eastern Festival h
+ ttps://www.mideastfest.com/ Communities: Lebanese Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:plymouth-somali-festival-2026-07-18@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260718
@@ -1769,6 +1795,20 @@ DESCRIPTION:Somali Independence Day\, celebrated locally. Date: Announced
   each year by the organizer. Source: Sahan Journal 2026 guide https://wis
  consinmuslimjournal.org/?p=53623 Communities: Somali Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:beirut-port-explosion-anniversary-2026-08-04@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Beirut port explosion anniversary
+DESCRIPTION:Victims of the Aug. 4\, 2020 explosion at the port of Beirut.
+  Date: August 4 each year. Source: Date of the 2020 explosion\, The Catho
+ lic Spirit https://www.thecatholicspirit.com/news/local-news/mass-at-mend
+ ota-heights-parish-to-be-dedicated-to-victims-of-explosion-in-beirut/ Com
+ munities: Lebanese Minnesota
+CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2150,6 +2190,19 @@ CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:holy-family-maronite-fall-festival-2026-09-12@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Holy Family Maronite Fall Festival
+DESCRIPTION:Parish fundraiser and gathering of a Maronite community found
+ ed in St. Paul in 1918. Date: Set each year by Holy Family parish\; a Sat
+ urday in September in 2026. Source: Holy Family Maronite Church https://w
+ ww.holyfamilymaronitechurch.org/ Communities: Lebanese Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ethiopian-community-in-minnesota-new-year-celebration-2026-09-13@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260913
@@ -2244,6 +2297,21 @@ DESCRIPTION:Not stated in the report opened. Date: As reported for 2026.
  No rule for other years could be found. Source: Oromo Diaspora Media http
  s://oromodiasporamedia.org/ayyaanni-gubaa-fulbaana-17-2026-minisootaatti-
  kabajame/ Communities: Oromo Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:st-maron-lebanese-festival-2026-09-18@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+SUMMARY:St. Maron Lebanese Festival
+DESCRIPTION:Lebanese culture and the parish community\; Racket reports it
+  began in 1990 to change how people saw Lebanon during wartime. Date: Set
+  each year by St. Maron parish\; recent years fell on a mid- to late-Sept
+ ember weekend. Source: Northeaster event listing https://www.mynortheaste
+ r.com/event/st-maron-lebanese-festival-6/2026-09-19/ Communities: Lebanes
+ e Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3411,6 +3479,19 @@ CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:feast-of-st-maron-2027-02-09@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Feast of St. Maron
+DESCRIPTION:The fourth-century hermit and priest Maron\, from whom Maroni
+ tes take their name. Date: February 9 each year. Source: Fixed date\; Cal
+ endarLabs lists Saint Maroun's Day on Feb. 9 https://www.calendarlabs.com
+ /holidays/lebanon/2026 Communities: Lebanese Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:ash-wednesday-2027-02-10@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20270210
@@ -4125,6 +4206,20 @@ DESCRIPTION:Farm business\, politics and policy in one place. Date: Early
  nujournal.com/news/local-news/2026/08/05/2026-farmfest-begins/ Communitie
  s: Rural and Greater Minnesota
 CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:beirut-port-explosion-anniversary-2027-08-04@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Beirut port explosion anniversary
+DESCRIPTION:Victims of the Aug. 4\, 2020 explosion at the port of Beirut.
+  Date: August 4 each year. Source: Date of the 2020 explosion\, The Catho
+ lic Spirit https://www.thecatholicspirit.com/news/local-news/mass-at-mend
+ ota-heights-parish-to-be-dedicated-to-victims-of-explosion-in-beirut/ Com
+ munities: Lebanese Minnesota
+CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4989,6 +5084,19 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:feast-of-st-maron-2028-02-09@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280210
+SUMMARY:Feast of St. Maron
+DESCRIPTION:The fourth-century hermit and priest Maron\, from whom Maroni
+ tes take their name. Date: February 9 each year. Source: Fixed date\; Cal
+ endarLabs lists Saint Maroun's Day on Feb. 9 https://www.calendarlabs.com
+ /holidays/lebanon/2026 Communities: Lebanese Minnesota
+CATEGORIES:religious
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:karen-national-day-2028-02-11@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20280211
@@ -5590,6 +5698,20 @@ DESCRIPTION:Independence in 1847. Date: July 26. Source: Embassy of the R
  essage (July 26\, 2012) https://www.liberianembassyus.org/view/announceme
  nts?page=19 Communities: Liberian Minnesota
 CATEGORIES:national
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:beirut-port-explosion-anniversary-2028-08-04@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20280804
+DTEND;VALUE=DATE:20280805
+SUMMARY:Beirut port explosion anniversary
+DESCRIPTION:Victims of the Aug. 4\, 2020 explosion at the port of Beirut.
+  Date: August 4 each year. Source: Date of the 2020 explosion\, The Catho
+ lic Spirit https://www.thecatholicspirit.com/news/local-news/mass-at-mend
+ ota-heights-parish-to-be-dedicated-to-victims-of-explosion-in-beirut/ Com
+ munities: Lebanese Minnesota
+CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT

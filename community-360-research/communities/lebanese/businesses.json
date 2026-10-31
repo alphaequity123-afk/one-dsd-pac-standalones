@@ -1,0 +1,202 @@
+[
+ {
+  "name": "Emily's Lebanese Deli",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Northeast Minneapolis (641 University Ave. NE)",
+  "whatItIs": "Lebanese deli opened in 1973 by Emily Awaijane, near St. Maron church; known for tabbouleh, kibbeh and grape leaves.",
+  "link": "https://stacker.com/stories/minnesota/minneapolis/highest-rated-middle-eastern-restaurants-minneapolis-diners",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Listed at this address in an Aug. 22, 2025 ranking based on July 2025 Yelp data. History from the Northeaster, Oct. 21, 2021. The deli's own website did not load."
+ },
+ {
+  "name": "Zakia Deli",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Northeast Minneapolis (2412 Kennedy St. NE)",
+  "whatItIs": "Deli opened in 2007 by David Maalouf, named for his mother; Lebanese, Greek and American menu.",
+  "link": "https://racketmn.com/best-budget-bites-9-49-grilled-chicken-sandwich-from-zakia-deli",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Racket review dated March 19, 2025, describes a recent visit and lists hours; also in an Aug. 2025 Stacker ranking."
+ },
+ {
+  "name": "Beirut Lebanese Street Food & Catering",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Rosemount (14873 Robert Trail S.)",
+  "whatItIs": "Fast-casual Lebanese restaurant and caterer opened by John and Madelaine Khoury after 41 years in West St. Paul.",
+  "link": "https://beirutlebmn.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site has a current menu, catering packages and online ordering for the Rosemount address; February 2025 roundup reported the opening. Listed as a 2026 St. George festival sponsor."
+ },
+ {
+  "name": "Beirut Restaurant (West St. Paul)",
+  "type": "restaurant",
+  "neighborhoodOrCity": "West St. Paul (Robert Street)",
+  "whatItIs": "Long-running Lebanese sit-down restaurant.",
+  "link": "https://www.yahoo.com/news/minnesota-restaurant-openings-closings-february-174006345.html",
+  "dateChecked": "2026-10-31",
+  "status": "closed",
+  "evidence": "February 2025 roundup refers to it as West St. Paul's 'former' Beirut Restaurant, with the owners now in Rosemount."
+ },
+ {
+  "name": "Massad's Grille",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Mankato (River Hills Mall, 1850 Adams St. #618)",
+  "whatItIs": "Massad family restaurant known for chicken shawarma ('schwarma') sandwiches; sells bottled sauce.",
+  "link": "https://massadsgrille.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists hours and online ordering; KEYC, May 22, 2026, says Najwa Massad has run the Massad Group since 1984."
+ },
+ {
+  "name": "Najwa's Catering",
+  "type": "catering",
+  "neighborhoodOrCity": "Mankato",
+  "whatItIs": "Catering company of the Massad family, over 20 years in the Mankato area.",
+  "link": "https://www.najwascatering.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site with phone for consultations (undated); part of the Massad Group, which KEYC reported on May 22, 2026, as still run by Najwa Massad."
+ },
+ {
+  "name": "Olives",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Mankato",
+  "whatItIs": "Restaurant listed by Massad's Grille as one of the Massad family businesses.",
+  "link": "https://massadsgrille.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Named on the Massad's Grille site; its own website returned an empty page."
+ },
+ {
+  "name": "Sweet Lou's Craft Sausage and Butchery",
+  "type": "butcher shop and food truck",
+  "neighborhoodOrCity": "St. Louis Park (6318 Minnetonka Blvd.)",
+  "whatItIs": "Butcher shop, breakfast and lunch counter and food truck owned by Louisa Farhat, whose extended family is in Lebanon.",
+  "link": "https://www.sweetlousmeats.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site lists current hours (Tuesday to Sunday) and the St. Louis Park address. MPR News, Oct. 30, 2024, interviewed the owner about Lebanese Red Cross fundraising."
+ },
+ {
+  "name": "Mocol's Supermarket",
+  "type": "grocery",
+  "neighborhoodOrCity": "Mankato (North Broad and Lafayette streets)",
+  "whatItIs": "Family corner grocery opened in 1917 by a Lebanese immigrant; run by the third generation in 2017.",
+  "link": "https://www.mankatofreepress.com/news/at-100-mocols-corner-grocery-still-thriving/article_00f2dc06-47c2-11e7-a0e6-f3425abf920b.html",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Mankato Free Press 2017 centennial story and Blue Earth County Historical Society 2021 post describe it operating; no 2025 or 2026 page found."
+ },
+ {
+  "name": "Cedars Hall at St. Maron",
+  "type": "event venue",
+  "neighborhoodOrCity": "Northeast Minneapolis (602 University Ave. NE)",
+  "whatItIs": "5,600-square-foot parish hall rented for weddings and events, with a 42-by-42-foot dance floor.",
+  "link": "https://www.mynortheaster.com/news/got-an-event-northeast-has-a-place-for-it/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Northeaster, Dec. 2, 2022. The parish website showed only a placeholder on Oct. 31, 2026."
+ },
+ {
+  "name": "Ray J's American Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Minneapolis (500 Central Ave. SE, per 2021 report)",
+  "whatItIs": "Restaurant and bar founded by the Lebanese American Jacob brothers and run by Michael Jacob's sons in 2021.",
+  "link": "https://www.mynortheaster.com/news/lebanese-came-to-northeast-in-waves/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Northeaster 2021 and a Dec. 2022 Northeaster mention; no own site or 2025-2026 page opened."
+ },
+ {
+  "name": "Nye's",
+  "type": "bar",
+  "neighborhoodOrCity": "Minneapolis (112 E. Hennepin Ave., per 2021 report)",
+  "whatItIs": "Bar operated by Rob and Tony Jacob, sons of Lebanese American restaurateur Michael Jacob, as of 2021.",
+  "link": "https://www.mynortheaster.com/news/lebanese-came-to-northeast-in-waves/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Northeaster, Oct. 21, 2021. Its website returned no content."
+ },
+ {
+  "name": "Jacobs Trucking",
+  "type": "trucking",
+  "neighborhoodOrCity": "Northeast Minneapolis",
+  "whatItIs": "Family trucking business that, by the Northeaster's account, grew from Tom Jacobs's ice wagon.",
+  "link": "https://www.mynortheaster.com/news/lebanese-came-to-northeast-in-waves/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Historical mention only (Northeaster, 2021)."
+ },
+ {
+  "name": "Estephan Engineering",
+  "type": "professional firm (engineering)",
+  "neighborhoodOrCity": "Twin Cities",
+  "whatItIs": "Engineering firm; its owner, a St. Maron parishioner born in Ijdabra, Lebanon, organized a 2017 parish fundraiser.",
+  "link": "https://www.estephaneng.com/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Own site loads with project and service pages but shows no date or address. Owner identified in The Catholic Spirit, March 23, 2017."
+ },
+ {
+  "name": "Jacob's 101",
+  "type": "bar",
+  "neighborhoodOrCity": "Minneapolis (101 Main St.)",
+  "whatItIs": "Bar bought by the Jacob brothers in 1971; an after-school hangout for Northeast teachers.",
+  "link": "https://www.mynortheaster.com/news/lebanese-came-to-northeast-in-waves/",
+  "dateChecked": "2026-10-31",
+  "status": "closed",
+  "evidence": "Northeaster 2021: run by the brothers until 1991, then by a nephew until 2005."
+ },
+ {
+  "name": "Abdo's Store",
+  "type": "grocery",
+  "neighborhoodOrCity": "Mankato (127 James Ave.)",
+  "whatItIs": "Neighborhood store of Naiff and Fadwa Abdo, one of Mankato's first Lebanese families.",
+  "link": "https://blueearthcountyhistory.com/2021/08/04/lebanese-immigration-to-mankato/",
+  "dateChecked": "2026-10-31",
+  "status": "closed",
+  "evidence": "Blue Earth County Historical Society: closed in 1980 after almost 70 years."
+ },
+ {
+  "name": "Holy Land (grocery and deli)",
+  "type": "grocery",
+  "neighborhoodOrCity": "Northeast Minneapolis",
+  "whatItIs": "Middle Eastern grocery and restaurant the Northeaster lists as serving Lebanese, Syrian, Egyptian, Palestinian, Afghan and Iranian customers. Not described as Lebanese-owned.",
+  "link": "https://www.mynortheaster.com/news/ethnic-grocers-evoke-feelings-of-home/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Northeaster, June 3, 2021; no newer page opened."
+ },
+ {
+  "name": "Northeaster",
+  "type": "media (neighborhood newspaper)",
+  "neighborhoodOrCity": "Northeast Minneapolis",
+  "whatItIs": "Neighborhood paper that has covered Lebanese Northeast's history, St. Maron and its festival.",
+  "link": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/2026-09-19/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Publishes 2026 event listings, including the Sept. 2026 St. Maron Lebanese Festival listing linked here. Not a Lebanese-owned outlet."
+ },
+ {
+  "name": "St. Maron Lebanese Festival market",
+  "type": "seasonal market",
+  "neighborhoodOrCity": "Northeast Minneapolis",
+  "whatItIs": "Lebanese store, gift shop and food sold at the yearly parish festival.",
+  "link": "https://www.mynortheaster.com/event/st-maron-lebanese-festival-6/2026-09-19/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "2026 festival listing (Sept. 18-20, 2026) mentions a Lebanese store."
+ },
+ {
+  "name": "Byblos Lebanese Grill",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Not established",
+  "whatItIs": "Business listed as a corporate sponsor of the 2026 St. George Middle Eastern Festival.",
+  "link": "https://www.mideastfest.com/our-sponsors/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Named on the festival's sponsor page; its listed website returned an empty page and no address was found."
+ }
+]
