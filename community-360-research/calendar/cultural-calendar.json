@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30",
+ "generated": "2026-10-31",
  "note": "One entry per observance per community. A date marked verified has an opened source stating it; other dates are projections.",
  "entries": [
   {
@@ -12200,7 +12200,8 @@
    "observanceKey": "seollal",
    "name": "Seollal",
    "alsoKnownAs": [
-    "Korean Lunar New Year"
+    "Korean Lunar New Year",
+    "설날"
    ],
    "communities": [
     "korean"
@@ -12212,17 +12213,17 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
    "kind": "cultural",
-   "capsule": "Start of the lunisolar year.",
-   "dateRule": "First day of the first month of the Korean lunisolar calendar.",
+   "capsule": "Korean Lunar New Year: family rites, bowing to elders, tteokguk soup; Minnesota groups hold a public celebration each winter.",
+   "dateRule": "First day of the first month of the Korean lunisolar calendar. In South Korea the holiday spans the day before through the day after.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-02-17",
      "endDate": null,
-     "source": "Korea Astronomy and Space Science Institute, Calendar data 2026 (page states it is not the official 월력요항)",
-     "sourceUrl": "https://astro.kasi.re.kr/life/post/calendarData?year=2026",
+     "source": "Sahan Journal (Year of the Fire Horse began Feb. 17); PublicHolidays.co.kr lists Feb. 16-18 holiday",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/lunar-new-year-horse-celebrate-minnesota/",
      "verified": true
     },
     {
@@ -12243,18 +12244,64 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Start of the lunisolar year.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "Start of the lunisolar year. Sources describe tteokguk (rice cake soup) and saebae, bowing to elders.",
+   "howCelebratedInMinnesota": "A public Seollal celebration with JangmiArts is held each winter in the White Bear Lake area: Feb. 10, 2024 and Feb. 1, 2025 at White Bear Lake High School (CBS named the Korean American Association of Minnesota as co-host; Sahan Journal named the Korean Cultural Association in 2025), and Feb. 21, 2026 at Mariner Middle School with a marketplace, dance and dessert reception. Sejong Academy students hold a Korean New Year program with drumming, saebae and a hanbok walk. AK Connection mentions an annual Seollal gathering for adoptees.",
+   "minnesotaEvents": [
+    {
+     "name": "Seollal Lunar New Year (Korean Cultural Association and Jangmi Arts)",
+     "place": "White Bear Lake Mariner Middle School, 3551 McKnight Road N.",
+     "link": "https://sahanjournal.com/arts-culture/lunar-new-year-horse-celebrate-minnesota/",
+     "organizerDates": "Saturday, Feb. 21, 2026, 11 a.m. to 3 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Seollal Lunar New Year Celebration (Korean Cultural Association, JangMi Arts, Lee's Champion Taekwondo)",
+     "place": "3551 McKnight Road, White Bear Lake",
+     "link": "https://sahanjournal.com/arts-culture/10-ways-to-celebrate-lunar-new-year-minnesota/",
+     "organizerDates": "Saturday, Feb. 1, 2025, 11 a.m. to 5 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Celebrate the Year of the Horse, Sahan Journal (Feb. 18, 2026)",
+     "url": "https://sahanjournal.com/arts-culture/lunar-new-year-horse-celebrate-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrate the Year of the Snake, Sahan Journal (Jan. 30, 2025)",
+     "url": "https://sahanjournal.com/arts-culture/10-ways-to-celebrate-lunar-new-year-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "How Lunar New Year is being celebrated in Minnesota, CBS Minnesota (Jan. 29, 2025)",
+     "url": "https://www.cbsnews.com/minnesota/news/lunar-new-year-minnesota-celebrations/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Celebrate the Lunar New Year this weekend in the Twin Cities, CBS Minnesota (Feb. 9, 2024)",
+     "url": "https://www.cbsnews.com/minnesota/news/lunar-new-year-celebrations-twin-cities/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "At Korean immersion charter school, Karen students find a 'second home', Sahan Journal",
+     "url": "https://sahanjournal.com/education/sejong-academy-maplewood-korean-immersion-karen-students/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Public Holidays in South Korea, 2026-2028",
+     "url": "https://publicholidays.co.kr/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "korean--chuseok",
-   "observanceKey": "chuseok",
-   "name": "Chuseok",
+   "id": "korean--seollal-celebration-in-white-bear-lake-korean-cultural-association-and-jangmiarts",
+   "observanceKey": "seollal-celebration-in-white-bear-lake-korean-cultural-association-and-jangmiarts",
+   "name": "Seollal celebration in White Bear Lake (Korean Cultural Association and JangmiArts)",
    "alsoKnownAs": [
-    "Hangawi"
+    "Seollal Lunar New Year Celebration"
    ],
    "communities": [
     "korean"
@@ -12266,17 +12313,104 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
+   "kind": "community festival",
+   "capsule": "Annual public Korean New Year event near White Bear Lake with dance, drumming, market and Korean food.",
+   "dateRule": "Set by the organizers each year, usually a Saturday in late January or February near Seollal.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-02-21",
+     "endDate": null,
+     "source": "Sahan Journal listing",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/lunar-new-year-horse-celebrate-minnesota/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Public community celebration of Seollal.",
+   "howCelebratedInMinnesota": "Held Feb. 10, 2024 and Feb. 1, 2025 at White Bear Lake High School and Feb. 21, 2026 at Mariner Middle School; performances by JangmiArts, Korean food, vendor market; in 2025 a tteokguk lunch and minhwa folk painting workshop.",
+   "minnesotaEvents": [
+    {
+     "name": "Seollal Lunar New Year",
+     "place": "White Bear Lake Mariner Middle School, 3551 McKnight Road N.",
+     "link": "https://sahanjournal.com/arts-culture/lunar-new-year-horse-celebrate-minnesota/",
+     "organizerDates": "Feb. 21, 2026, 11 a.m. to 3 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Seollal Lunar New Year celebration (KAAM and JangmiArts)",
+     "place": "White Bear Lake High School",
+     "link": "https://www.cbsnews.com/minnesota/news/lunar-new-year-celebrations-twin-cities/",
+     "organizerDates": "Feb. 10, 2024, 11 a.m. to 3 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Celebrate the Year of the Horse, Sahan Journal",
+     "url": "https://sahanjournal.com/arts-culture/lunar-new-year-horse-celebrate-minnesota/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "CBS Minnesota (Jan. 29, 2025)",
+     "url": "https://www.cbsnews.com/minnesota/news/lunar-new-year-minnesota-celebrations/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "CBS Minnesota (Feb. 9, 2024)",
+     "url": "https://www.cbsnews.com/minnesota/news/lunar-new-year-celebrations-twin-cities/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "korean--chuseok",
+   "observanceKey": "chuseok",
+   "name": "Chuseok",
+   "alsoKnownAs": [
+    "Hangawi",
+    "추석",
+    "Korean harvest festival"
+   ],
+   "communities": [
+    "korean"
+   ],
+   "briefLinks": [
+    {
+     "community": "korean",
+     "title": "Korean Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
    "kind": "cultural",
-   "capsule": "Autumn harvest festival.",
-   "dateRule": "Fifteenth day of the eighth month of the Korean lunisolar calendar.",
+   "capsule": "Korean harvest festival honoring ancestors; in Minnesota, AK Connection holds a free public Chuseok Festival.",
+   "dateRule": "Fifteenth day of the eighth month of the Korean lunisolar calendar; the South Korean holiday spans three days.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-09-25",
      "endDate": null,
-     "source": "Korea Astronomy and Space Science Institute, Calendar data 2026 (page states it is not the official 월력요항)",
-     "sourceUrl": "https://astro.kasi.re.kr/life/post/calendarData?year=2026",
+     "source": "PublicHolidays.co.kr lists Sept. 24-26, 2026",
+     "sourceUrl": "https://publicholidays.co.kr/",
      "verified": true
     },
     {
@@ -12297,20 +12431,120 @@
     }
    ],
    "dateCertainty": "calculated",
-   "whatItMarks": "Autumn harvest festival.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "whatItMarks": "Autumn harvest and ancestral remembrance; families gather and set a table for ancestors.",
+   "howCelebratedInMinnesota": "AK Connection's Chuseok Festival, Sept. 26, 2026, 4 to 10 p.m., East Side Neighborhood Services, Minneapolis: free, with a sensory-friendly hour, Korean market, food, noraebang and performances. Adoptee Hub timed its 2024 Kimchi Festival (Sept. 29, 2024, Wolfe Park, St. Louis Park) to Chuseok.",
+   "minnesotaEvents": [
+    {
+     "name": "AK Connection's Chuseok Festival",
+     "place": "East Side Neighborhood Services, Minneapolis",
+     "link": "https://akconnection.org/event/ak-connections-chuseok-festival/",
+     "organizerDates": "Saturday, Sept. 26, 2026, 4 to 10 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Adoptee Hub Kimchi Festival (2nd)",
+     "place": "Wolfe Park, 3700 Monterey Drive, St. Louis Park",
+     "link": "https://www.adopteehub.org/kimchifestival",
+     "organizerDates": "Sunday, Sept. 29, 2024",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "AK Connection's Chuseok Festival",
+     "url": "https://akconnection.org/event/ak-connections-chuseok-festival/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Kimchi Festival, Sahan Journal (Sept. 26, 2024)",
+     "url": "https://sahanjournal.com/arts-culture/kimchi-festival-korean-adoptee-hub-st-louis-park/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Kimchi Festival, Adoptee Hub",
+     "url": "https://www.adopteehub.org/kimchifestival",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Public Holidays in South Korea, 2026-2028",
+     "url": "https://publicholidays.co.kr/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
-   "id": "korean--easter",
-   "observanceKey": "easter",
-   "name": "Easter",
+   "id": "korean--ak-connections-chuseok-festival",
+   "observanceKey": "ak-connections-chuseok-festival",
+   "name": "AK Connection's Chuseok Festival",
+   "alsoKnownAs": [],
+   "communities": [
+    "korean"
+   ],
+   "briefLinks": [
+    {
+     "community": "korean",
+     "title": "Korean Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
+   "kind": "community festival",
+   "capsule": "Free evening festival in Minneapolis for Korean adoptees, Korean Americans and neighbors, with market, food and performances.",
+   "dateRule": "Set by AK Connection each year near Chuseok.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-26",
+     "endDate": null,
+     "source": "AK Connection event page",
+     "sourceUrl": "https://akconnection.org/event/ak-connections-chuseok-festival/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Community celebration of Chuseok.",
+   "howCelebratedInMinnesota": "2026: 4 p.m. young family and sensory-friendly hour, 5 p.m. opening, performances and market until 8 p.m., evening performances, 9 p.m. reception. First 200 registrants received a Chuseok gift.",
+   "minnesotaEvents": [
+    {
+     "name": "AK Connection's Chuseok Festival",
+     "place": "East Side Neighborhood Services, Minneapolis",
+     "link": "https://akconnection.org/event/ak-connections-chuseok-festival/",
+     "organizerDates": "Sept. 26, 2026, 4 to 10 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "AK Connection's Chuseok Festival",
+     "url": "https://akconnection.org/event/ak-connections-chuseok-festival/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "korean--korean-culture-festival-korean-american-association-of-minnesota",
+   "observanceKey": "korean-culture-festival-korean-american-association-of-minnesota",
+   "name": "Korean Culture Festival (Korean American Association of Minnesota)",
    "alsoKnownAs": [
-    "Pascua",
-    "Pâques",
-    "Pasko ng Pagkabuhay"
+    "K-Culture Festival"
    ],
    "communities": [
     "korean"
@@ -12322,9 +12556,483 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
+   "kind": "community festival",
+   "capsule": "Afternoon festival of Korean culture at the Mall of America, hosted by the Korean American Association of Minnesota.",
+   "dateRule": "Set by the association each year; recent years a Saturday in September.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-09-12",
+     "endDate": null,
+     "source": "Korean American Association of Minnesota",
+     "sourceUrl": "https://www.mnkorea.org/post/2026-korean-culture-festival",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Public celebration of Korean culture.",
+   "howCelebratedInMinnesota": "Held at the Mall of America: Sept. 21, 2024; Sept. 20, 2025 (Huntington Bank Rotunda, 1 to 5 p.m.); Sept. 12, 2026 (1 to 5 p.m.).",
+   "minnesotaEvents": [
+    {
+     "name": "2026 Korean Culture Festival",
+     "place": "Mall of America, Bloomington",
+     "link": "https://www.mnkorea.org/post/2026-korean-culture-festival",
+     "organizerDates": "Sept. 12, 2026, 1 to 5 p.m.",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "K-Culture Festival",
+     "place": "Huntington Bank Rotunda, Mall of America",
+     "link": "https://www.mnkorea.org/post/k-culture-festival-saturday-9-20-2025-1-5pm",
+     "organizerDates": "Saturday, Sept. 20, 2025, 1 to 5 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "2026 Korean Culture Festival, KAAM",
+     "url": "https://www.mnkorea.org/post/2026-korean-culture-festival",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "K-Culture Festival 9/20/2025, KAAM",
+     "url": "https://www.mnkorea.org/post/k-culture-festival-saturday-9-20-2025-1-5pm",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "korean--childrens-day",
+   "observanceKey": "childrens-day",
+   "name": "Children's Day",
+   "alsoKnownAs": [
+    "Eorininal",
+    "어린이날"
+   ],
+   "communities": [
+    "korean"
+   ],
+   "briefLinks": [
+    {
+     "community": "korean",
+     "title": "Korean Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
+   "kind": "cultural",
+   "capsule": "Korean Children's Day, May 5; Minnesota adoptee groups hold family gatherings near the date.",
+   "dateRule": "May 5 each year (public holiday in South Korea).",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-05-05",
+     "endDate": null,
+     "source": "PublicHolidays.co.kr (2026 table)",
+     "sourceUrl": "https://publicholidays.co.kr/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-05-05",
+     "endDate": null,
+     "source": "PublicHolidays.co.kr (fixed date)",
+     "sourceUrl": "https://publicholidays.co.kr/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-05-05",
+     "endDate": null,
+     "source": "PublicHolidays.co.kr (fixed date)",
+     "sourceUrl": "https://publicholidays.co.kr/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "A day honoring children.",
+   "howCelebratedInMinnesota": "AK Connection held a family Children's Day gathering May 3, 2026, at Bryant Lake Pavilion, and the Korean Adoptees Ministry Center held its own Children's Day event.",
+   "minnesotaEvents": [
+    {
+     "name": "Children's Day with AK Connection",
+     "place": "Bryant Lake Pavilion",
+     "link": "https://akconnection.org/event/childrens-day/",
+     "organizerDates": "May 3, 2026, noon to 3 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Children's Day, AK Connection",
+     "url": "https://akconnection.org/event/childrens-day/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "April 2026 Newsletter, AK Connection",
+     "url": "https://akconnection.org/2026/04/10/april-2026-updates-from-ak-connection/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Public Holidays in South Korea, 2026-2028",
+     "url": "https://publicholidays.co.kr/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "korean--korean-independence-movement-day",
+   "observanceKey": "korean-independence-movement-day",
+   "name": "Korean Independence Movement Day",
+   "alsoKnownAs": [
+    "Samiljeol",
+    "March 1st Movement Day",
+    "삼일절"
+   ],
+   "communities": [
+    "korean"
+   ],
+   "briefLinks": [
+    {
+     "community": "korean",
+     "title": "Korean Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
+   "kind": "national",
+   "capsule": "Marks the March 1, 1919 independence movement against Japanese rule; no Minnesota commemoration was found.",
+   "dateRule": "March 1.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-01",
+     "endDate": null,
+     "source": "PublicHolidays.co.kr (2026 table)",
+     "sourceUrl": "https://publicholidays.co.kr/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-03-01",
+     "endDate": null,
+     "source": "PublicHolidays.co.kr",
+     "sourceUrl": "https://publicholidays.co.kr/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-03-01",
+     "endDate": null,
+     "source": "PublicHolidays.co.kr",
+     "sourceUrl": "https://publicholidays.co.kr/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The 1919 March First Movement for independence from Japanese colonial rule.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Public Holidays in South Korea, 2026-2028",
+     "url": "https://publicholidays.co.kr/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "korean--korean-liberation-day",
+   "observanceKey": "korean-liberation-day",
+   "name": "Korean Liberation Day",
+   "alsoKnownAs": [
+    "Gwangbokjeol",
+    "광복절"
+   ],
+   "communities": [
+    "korean"
+   ],
+   "briefLinks": [
+    {
+     "community": "korean",
+     "title": "Korean Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
+   "kind": "national",
+   "capsule": "Marks Korea's 1945 liberation from Japanese rule, Aug. 15; no Minnesota commemoration was found.",
+   "dateRule": "August 15.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-08-15",
+     "endDate": null,
+     "source": "PublicHolidays.co.kr (2026 table)",
+     "sourceUrl": "https://publicholidays.co.kr/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-08-15",
+     "endDate": null,
+     "source": "PublicHolidays.co.kr",
+     "sourceUrl": "https://publicholidays.co.kr/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-08-15",
+     "endDate": null,
+     "source": "PublicHolidays.co.kr",
+     "sourceUrl": "https://publicholidays.co.kr/",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "Liberation from Japanese rule in 1945.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Public Holidays in South Korea, 2026-2028",
+     "url": "https://publicholidays.co.kr/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "korean--korean-american-day",
+   "observanceKey": "korean-american-day",
+   "name": "Korean American Day",
+   "alsoKnownAs": [],
+   "communities": [
+    "korean"
+   ],
+   "briefLinks": [
+    {
+     "community": "korean",
+     "title": "Korean Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
+   "kind": "heritage",
+   "capsule": "Jan. 13 marks the anniversary of Korean immigration to the United States; no Minnesota observance was found.",
+   "dateRule": "January 13 each year.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-01-13",
+     "endDate": null,
+     "source": "Wisconsin governor's proclamation states it is observed annually Jan. 13",
+     "sourceUrl": "https://evers.wi.gov/Documents/011326_Acessible%20Proclamation_Korean%20American%20Day.pdf",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": "2027-01-13",
+     "endDate": null,
+     "source": "Fixed annual date per the same proclamation",
+     "sourceUrl": "https://evers.wi.gov/Documents/011326_Acessible%20Proclamation_Korean%20American%20Day.pdf",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": "2028-01-13",
+     "endDate": null,
+     "source": "Fixed annual date per the same proclamation",
+     "sourceUrl": "https://evers.wi.gov/Documents/011326_Acessible%20Proclamation_Korean%20American%20Day.pdf",
+     "verified": true
+    }
+   ],
+   "dateCertainty": "fixed",
+   "whatItMarks": "The anniversary of Korean immigration to the United States and Korean American contributions.",
+   "howCelebratedInMinnesota": null,
+   "minnesotaEvents": [],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Korean American Day proclamation (Wisconsin), Jan. 13, 2026",
+     "url": "https://evers.wi.gov/Documents/011326_Acessible%20Proclamation_Korean%20American%20Day.pdf",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "korean--korean-culture-camp-of-minnesota",
+   "observanceKey": "korean-culture-camp-of-minnesota",
+   "name": "Korean Culture Camp of Minnesota",
+   "alsoKnownAs": [
+    "KCC"
+   ],
+   "communities": [
+    "korean"
+   ],
+   "briefLinks": [
+    {
+     "community": "korean",
+     "title": "Korean Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
+   "kind": "community festival",
+   "capsule": "Week-long summer culture camp founded in 1977 for adoptees, Korean American children and families; 50th celebration set for 2027.",
+   "dateRule": "Set by the camp each year, a week in July.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "2026 dates not found on the camp site",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-19",
+     "endDate": "2027-07-23",
+     "source": "Korean Culture Camp of Minnesota",
+     "sourceUrl": "https://kccmn.org/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Korean culture, history, language, arts and food for children of Korean heritage and their families.",
+   "howCelebratedInMinnesota": "Camp of Korean culture, language, art, dance, martial arts and food; 2027 camp July 19-23 plus a 50th-year celebration on Saturday, July 24, 2027.",
+   "minnesotaEvents": [
+    {
+     "name": "Korean Culture Camp 2027 and 50th Year Celebration",
+     "place": "Minnesota (site not stated on home page)",
+     "link": "https://kccmn.org/",
+     "organizerDates": "July 19-23, 2027; celebration July 24, 2027",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Korean Culture Camp of Minnesota",
+     "url": "https://kccmn.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "korean--kamp-kimchee",
+   "observanceKey": "kamp-kimchee",
+   "name": "Kamp Kimchee",
+   "alsoKnownAs": [],
+   "communities": [
+    "korean"
+   ],
+   "briefLinks": [
+    {
+     "community": "korean",
+     "title": "Korean Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
+   "kind": "community festival",
+   "capsule": "Family Korean culture day camp in Crosslake, held the second week of July.",
+   "dateRule": "Traditionally the second week of July, Monday to Friday.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": null,
+     "endDate": null,
+     "source": "2026 dates not stated on the opened page",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2027,
+     "date": "2027-07-12",
+     "endDate": "2027-07-16",
+     "source": "Kamp Kimchee",
+     "sourceUrl": "https://kampkimchee.org/",
+     "verified": true
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "No announcement found",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Korean culture and adoption community for families.",
+   "howCelebratedInMinnesota": "Classes for ages 4 through 12th grade, daily chef-prepared Korean lunch, parent programs, Crosslake.",
+   "minnesotaEvents": [
+    {
+     "name": "Kamp Kimchee 2027",
+     "place": "Crosslake",
+     "link": "https://kampkimchee.org/",
+     "organizerDates": "July 12-16, 2027",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Kamp Kimchee",
+     "url": "https://kampkimchee.org/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "id": "korean--easter",
+   "observanceKey": "easter",
+   "name": "Easter",
+   "alsoKnownAs": [
+    "부활절"
+   ],
+   "communities": [
+    "korean"
+   ],
+   "briefLinks": [
+    {
+     "community": "korean",
+     "title": "Korean Minnesota",
+     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+    }
+   ],
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
    "kind": "religious",
-   "capsule": "Resurrection of Jesus in Western Christian tradition.",
+   "capsule": "Christian feast of the Resurrection; Minnesota's Korean congregations are Christian, but no Korean-specific Easter event was documented.",
    "dateRule": "First Sunday after the first ecclesiastical full moon on or after March 21 (Gregorian).",
    "dates": [
     {
@@ -12357,124 +13065,20 @@
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "korean--korean-independence-movement-day",
-   "observanceKey": "korean-independence-movement-day",
-   "name": "Korean Independence Movement Day",
-   "alsoKnownAs": [
-    "Samiljeol"
-   ],
-   "communities": [
-    "korean"
-   ],
-   "briefLinks": [
+   "sources": [
     {
-     "community": "korean",
-     "title": "Korean Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
+     "title": "St Andrew Kim Catholic Church (Korean parish)",
+     "url": "https://www.archspm.org/location/st-andrew-kim-catholic-church/",
+     "dateChecked": "2026-10-31"
     }
-   ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "The 1919 March First Movement.",
-   "dateRule": "March 1.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-03-01",
-     "endDate": null,
-     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
-     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-03-01",
-     "endDate": null,
-     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
-     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-03-01",
-     "endDate": null,
-     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
-     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "The 1919 March First Movement.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
-  },
-  {
-   "id": "korean--korean-liberation-day",
-   "observanceKey": "korean-liberation-day",
-   "name": "Korean Liberation Day",
-   "alsoKnownAs": [
-    "Gwangbokjeol"
-   ],
-   "communities": [
-    "korean"
-   ],
-   "briefLinks": [
-    {
-     "community": "korean",
-     "title": "Korean Minnesota",
-     "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
-    }
-   ],
-   "profileLink": null,
-   "kind": "national",
-   "capsule": "Liberation from Japanese rule in 1945.",
-   "dateRule": "August 15.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-08-15",
-     "endDate": null,
-     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
-     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-08-15",
-     "endDate": null,
-     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
-     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": "2028-08-15",
-     "endDate": null,
-     "source": "Republic of Korea, Ministry of Personnel Management, Public Holiday System",
-     "sourceUrl": "https://www.mpm.go.kr/english/system/infoService/bizService03/",
-     "verified": true
-    }
-   ],
-   "dateCertainty": "fixed",
-   "whatItMarks": "Liberation from Japanese rule in 1945.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": []
+   ]
   },
   {
    "id": "korean--christmas",
    "observanceKey": "christmas",
    "name": "Christmas",
    "alsoKnownAs": [
-    "Navidad",
-    "Noël",
-    "Pasko"
+    "성탄절"
    ],
    "communities": [
     "korean"
@@ -12486,42 +13090,48 @@
      "url": "https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/korean"
     }
    ],
-   "profileLink": null,
+   "profileLink": "https://github.com/alphaequity123-afk/one-dsd-pac-standalones/blob/community-360-research/community-360-research/communities/korean/profile.md",
    "kind": "religious",
-   "capsule": "Birth of Jesus (Gregorian calendar).",
+   "capsule": "Christian feast of the Nativity, Dec. 25; also a public holiday in South Korea.",
    "dateRule": "December 25.",
    "dates": [
     {
      "year": 2026,
      "date": "2026-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "PublicHolidays.co.kr (2026 table)",
+     "sourceUrl": "https://publicholidays.co.kr/",
      "verified": true
     },
     {
      "year": 2027,
      "date": "2027-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "PublicHolidays.co.kr",
+     "sourceUrl": "https://publicholidays.co.kr/",
      "verified": true
     },
     {
      "year": 2028,
      "date": "2028-12-25",
      "endDate": null,
-     "source": "Minnesota Revisor of Statutes, Minn. Stat. 645.44 subd. 5 (Holiday definition)",
-     "sourceUrl": "https://www.revisor.mn.gov/statutes/cite/645.44",
+     "source": "PublicHolidays.co.kr",
+     "sourceUrl": "https://publicholidays.co.kr/",
      "verified": true
     }
    ],
    "dateCertainty": "fixed",
-   "whatItMarks": "Birth of Jesus (Gregorian calendar).",
+   "whatItMarks": "Birth of Jesus.",
    "howCelebratedInMinnesota": null,
    "minnesotaEvents": [],
    "workplaceNote": null,
-   "sources": []
+   "sources": [
+    {
+     "title": "Public Holidays in South Korea, 2026-2028",
+     "url": "https://publicholidays.co.kr/",
+     "dateChecked": "2026-10-31"
+    }
+   ]
   },
   {
    "id": "lao--pi-mai-lao",

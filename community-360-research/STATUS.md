@@ -4,18 +4,18 @@
 
 ## Where things stand
 
-11 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
+12 of 39 communities are finished. Karen, Somali, African American, Latino, Mexican, Vietnamese, Oromo, Ethiopian, rural and Indian have gaps listed below, because web search ran out during their research. The research is moving from one computer to a cloud session. `RESEARCH-BRIEF.md` holds the full instructions for each community.
 
 ## Done
 
-- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian.
+- **Communities:** hmong, karen, somali, african-american, latino, mexican, vietnamese, oromo, ethiopian, rural, indian, korean.
 - `cross-cutting/small-communities-methods.md`.
 - **Calendar dates:** checked against opened sources (`calendar/tools/date-checks.json`). 591 of 811 dated entries have an opened source that confirms the date.
 - **Calendar tools:** `calendar/tools/merge_calendar.py` and `build_viewer.py` rebuild the JSON, `.ics`, month view, viewer and index from `calendar/seed-by-community/` and each community's `calendar-entries.json`.
 
 ## In progress
 
-- In the cloud session (started October 31, 2026): the 28 communities listed under Not started, a few at a time.
+- In the cloud session (started October 31, 2026): chinese, filipino, japanese, lao now running. The rest of the 28 are listed under Not started.
 
 ## Next, after the 28 communities
 
@@ -25,7 +25,7 @@ ethiopian, oromo, vietnamese, indian and rural are finished, and nothing is stil
 
 ## Not started
 
-amharic, american, arabic-speaking, bosnian, burmese, chinese, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, european-american, filipino, french, guatemalan, japanese, kenyan, khmer, korean, lao, lebanese, liberian, minnesota, nigerian, puerto-rican, russian-speaking, salvadoran, thai, ukrainian.
+amharic, american, arabic-speaking, bosnian, burmese, colombian, cuban, deaf-deafblind-hard-of-hearing, ecuadorian, european-american, french, guatemalan, kenyan, khmer, lebanese, liberian, minnesota, nigerian, puerto-rican, russian-speaking, salvadoran, thai, ukrainian.
 
 ## Still to do on the calendar
 
@@ -43,8 +43,11 @@ amharic, american, arabic-speaking, bosnian, burmese, chinese, colombian, cuban,
 
 Hmong and the methods note could not open these: Star Tribune, Christian Century, the state charter school directory, Carleton's Religions in Minnesota, mn.gov pages (State Demographic Center, Department of Veterans Affairs), the University of Minnesota Conservancy, state courts, the Senate roster, Department of Education pages, and ICPSR.
 
+- Korean could not open: JangmiArts, the Korean Cultural Association, Adoption Literacy, Minnesota Reformer, Axios, the UMN Conservancy, one Korean Quarterly article, and most Korean church sites. Sahan Journal sometimes refuses requests for a while (too many requests).
+
 ## Could not be established so far
 
+- **Korean:** full depth (105 opened sources, web search worked throughout). Not established: a government count separating Korean adoptees from immigrants (estimates run 10,000 to 15,000), any Korean chamber of commerce or Korean-owned professional firm, a Minnesota group for Korean families with disabilities, and Minnesota data on how Korean immigrant families understand disability. 10 of 21 businesses could not be confirmed open, including Sole Cafe, Hoban and Dong Yang; Young Joni and Kim's have closed.
 - **Indian:** web search reached its limit partway. 73 of 89 businesses could not be confirmed open, and most of that list comes from an undated directory. Not established: 2026 dates for the Woodbury Diwali, Gujarati Samaj Garba, Vaisakhi, Gurpurab, Onam and any Indian-organized Eid, Mar Thoma, Orthodox and other Christian congregations beyond the Syro-Malabar mission, any mosque described as Indian-rooted, state disability data for Indian residents, faith counts, caste, working-class evidence and current elected officials.
 - **Rural:** web search reached its limit partway, so religion, small-town civic life and immigrant-owned businesses are thin. Not established: counts of closed or merged rural congregations, any page on rural mosques, synods or Amish communities, 2026 direct support vacancies and assessment waits by county, dates for King Turkey Day and the pheasant and waterfowl openers, and exact USDA farm totals and producer race. 19 of 58 businesses could not be confirmed open. Greater Minnesota totals are added up from Census county tables.
 - **Ethiopian:** web search reached its limit partway. Not established: current Minnesota reaction to the renewed fighting of October 2026, Tigrayan or Amhara Minnesotan voices on the war, separate counts for Amhara, Tigrayan or Gurage people, occupation data, Ethiopian-owned law, tax, accounting, clinic and salon businesses, named mosques, and disability evidence beyond one Compass figure. 14 of 30 businesses could not be confirmed open.
