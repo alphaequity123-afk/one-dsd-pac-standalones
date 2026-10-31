@@ -1,15 +1,172 @@
 [
- {"name":"Metropolitan Transportation Network (MTN)","type":"school and adult transportation company","neighborhoodOrCity":"Fridley","whatItIs":"School bus and van company founded and led by Tashitaa Tufaa, who grew up in Ethiopia's Oromo region and came to Minnesota as a refugee in 1992.","link":"https://metrotn.com","dateChecked":"2026-10-30","status":"open","evidence":"Own site published Oct. 22, 2026, lists service districts. Republican Eagle, March 27, 2026, reports a new three-year Red Wing contract with the Fridley company."},
- {"name":"Mi'aawaa Bakery and Coffee Cart","type":"bakery and mobile coffee cart","neighborhoodOrCity":"Mobile; owner based in Brooklyn Center","whatItIs":"Chaltu Hassan's cart serving lattes, cookies and Eid boxes. The name means sweet in Oromo.","link":"https://sahanjournal.com/business-work/minnesota-mobile-cafes-women-entrepreneurs-oromo-somali/","dateChecked":"2026-10-30","status":"open","evidence":"Sahan Journal, Sept. 17, 2025, describes it operating, with a photo from Aug. 13, 2025. Mpls.St.Paul Magazine's best new list for 2025 says it appeared at many markets that year. No 2026 page was found."},
- {"name":"Arya Cafe","type":"coffee shop","neighborhoodOrCity":"Nokomis Avenue and 46th Street, Minneapolis","whatItIs":"Coffee shop opened August 2025, described by the magazine as serving Oromian-inflected flavors. The owner is not named, so Oromo ownership is not stated.","link":"https://mspmag.com/eat-and-drink/best-new-restaurants-twin-cities-2025/","dateChecked":"2026-10-30","status":"open","evidence":"Mpls.St.Paul Magazine's 2025 best new restaurants list. No 2026 page was found."},
- {"name":"Mediterranean Deli","type":"restaurant","neighborhoodOrCity":"Cedar Avenue, Cedar-Riverside, Minneapolis","whatItIs":"Meet Minneapolis calls it Oromo-owned and a longtime Cedar Avenue staple with Ethiopian and Middle Eastern entrees and sandwiches.","link":"https://www.minneapolis.org/cultural-districts/districts/cedar-avenue-south/","dateChecked":"2026-10-30","status":"could not confirm open","evidence":"Meet Minneapolis pages are undated, and the West Bank Business Association retail list does not include it. No hours or dated post could be found."},
- {"name":"Sainaa Cafe","type":"coffee shop","neighborhoodOrCity":"West Lake Street, Uptown, Minneapolis","whatItIs":"Family-run Ethiopian coffee shop named for an Oromo word meaning come inside and memories. Oromo ownership is not stated.","link":"https://www.minneapolis.org/media/news-releases/whats-new-in-minneapolis/","dateChecked":"2026-10-30","status":"could not confirm open","evidence":"Only a Sept. 27, 2022 release was opened."},
- {"name":"Community Link Services MN","type":"community services business","neighborhoodOrCity":"Minneapolis, St. Paul and nearby","whatItIs":"Service provider offering information and help to Oromo and other diaspora residents, announced in Oromo Diaspora Media.","link":"https://oromodiasporamedia.org/tajaajila-community-link-services-mn-awol-windissa/","dateChecked":"2026-10-30","status":"open","evidence":"Oromo Diaspora Media post dated Oct. 8, 2026. Its own website could not be opened, and its exact services were not confirmed."},
- {"name":"Oromia Health Care LLC","type":"home care agency","neighborhoodOrCity":"Spring Lake Park","whatItIs":"Listed home care provider for skilled nursing and in-home therapy. The listing does not state ownership or languages.","link":"https://mnseniorguide.com/providers/oromia-health-care-llc","dateChecked":"2026-10-30","status":"could not confirm open","evidence":"A directory listing says its data are current as of August 2026 and advises confirming license status. The provider's own page was not found."},
- {"name":"Oromo Diaspora Media (ODM)","type":"media","neighborhoodOrCity":"Minnesota focus; no address listed","whatItIs":"News and radio stream mainly in Afaan Oromoo, with Minnesota public agencies among listed partners.","link":"https://oromodiasporamedia.org/","dateChecked":"2026-10-30","status":"open","evidence":"Latest post dated Oct. 8, 2026."},
- {"name":"Voice of Oromiyaa, KFAI","type":"media","neighborhoodOrCity":"KFAI, Minneapolis","whatItIs":"Weekly radio program, Sundays 5 to 6 p.m., hosted by Jelil Abdella and Said Ali.","link":"https://www.kfai.org/schedule/","dateChecked":"2026-10-30","status":"open","evidence":"Current KFAI schedule lists it."},
- {"name":"Oromia Media Network","type":"media","neighborhoodOrCity":"1437 Marshall Ave., Suite 200, St. Paul","whatItIs":"Nonprofit news outlet on Oromia, with $213,558 in 2024 revenue and one employee that year.","link":"https://www.causeiq.com/organizations/oromia-media-network,465137810/","dateChecked":"2026-10-30","status":"could not confirm open","evidence":"Cause IQ shows a 2024 filing and a leader listed as of Nov. 17, 2025. No dated 2026 program page was opened."},
- {"name":"Oromia 11","type":"media","neighborhoodOrCity":"Downtown Minneapolis","whatItIs":"TV network startup launched in 2021 with Tashitaa Tufaa as board chair.","link":"https://sahanjournal.com/oromo-in-minnesota/oromia-11-tv-network-minnesota/","dateChecked":"2026-10-30","status":"could not confirm open","evidence":"Only a Feb. 3, 2021 article was opened."},
- {"name":"Oromo Community of Minnesota building rental","type":"event space","neighborhoodOrCity":"465 N. Mackubin St., St. Paul","whatItIs":"Community center rented for gatherings, baby showers and engagement parties.","link":"https://oromocommunitymn.org/","dateChecked":"2026-10-30","status":"open","evidence":"Own site lists hours and facility requests, with statements dated through Jan. 29, 2026 and an event listed for Nov. 28, 2026."},
- {"name":"Bultum Academy","type":"charter school","neighborhoodOrCity":"1555 40th Ave. NE, Columbia Heights","whatItIs":"Charter school that teaches Afaan Oromo alongside regular subjects.","link":"https://www.bultumacademy.org/theoromolanguage","dateChecked":"2026-10-30","status":"open","evidence":"School jobs posted Oct. 19 and 27, 2026, on mnschooljobs.org; own site lists school hours."}
+ {
+  "name": "Metropolitan Transportation Network (MTN)",
+  "type": "school and adult transportation company",
+  "neighborhoodOrCity": "Fridley",
+  "whatItIs": "School bus and van company founded and led by Tashitaa Tufaa, who grew up in Ethiopia's Oromo region and came to Minnesota as a refugee in 1992.",
+  "link": "https://metrotn.com",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site published Oct. 22, 2026, lists service districts. Republican Eagle, March 27, 2026, reports a new three-year Red Wing contract with the Fridley company."
+ },
+ {
+  "name": "Mi'aawaa Bakery and Coffee Cart",
+  "type": "bakery and mobile coffee cart",
+  "neighborhoodOrCity": "Mobile; owner based in Brooklyn Center",
+  "whatItIs": "Chaltu Hassan's cart serving lattes, cookies and Eid boxes. The name means sweet in Oromo.",
+  "link": "https://sahanjournal.com/business-work/minnesota-mobile-cafes-women-entrepreneurs-oromo-somali/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Sahan Journal, Sept. 17, 2025, describes it operating, with a photo from Aug. 13, 2025. Mpls.St.Paul Magazine's best new list for 2025 says it appeared at many markets that year. No 2026 page was found."
+ },
+ {
+  "name": "Arya Cafe",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "Nokomis Avenue and 46th Street, Minneapolis",
+  "whatItIs": "Coffee shop opened August 2025, described by the magazine as serving Oromian-inflected flavors. The owner is not named, so Oromo ownership is not stated.",
+  "link": "https://mspmag.com/eat-and-drink/best-new-restaurants-twin-cities-2025/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Mpls.St.Paul Magazine's 2025 best new restaurants list. No 2026 page was found."
+ },
+ {
+  "name": "Mediterranean Deli",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Cedar Avenue, Cedar-Riverside, Minneapolis",
+  "whatItIs": "Meet Minneapolis calls it Oromo-owned and a longtime Cedar Avenue staple with Ethiopian and Middle Eastern entrees and sandwiches.",
+  "link": "https://www.minneapolis.org/cultural-districts/districts/cedar-avenue-south/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Meet Minneapolis pages are undated, and the West Bank Business Association retail list does not include it. No hours or dated post could be found. Rechecked Oct. 31, 2026: no current Minnesota page found; mediterraneandeli.com belongs to an unrelated North Carolina restaurant."
+ },
+ {
+  "name": "Sainaa Cafe",
+  "type": "coffee shop",
+  "neighborhoodOrCity": "317 W. Lake St., Uptown, Minneapolis",
+  "whatItIs": "Family-run Ethiopian coffee shop named for an Oromo word meaning come inside and memories. Oromo ownership is not stated.",
+  "link": "https://www.sainaacafe.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site, checked Oct. 31, 2026, lists a priced menu, online ordering, the 317 W. Lake St. address and Tuesday-Saturday hours (site footer reads copyright 2024). Meet Minneapolis (Sept. 27, 2022) gives the Oromo meaning of the name."
+ },
+ {
+  "name": "Community Link Services MN",
+  "type": "community services business",
+  "neighborhoodOrCity": "Minneapolis, St. Paul and nearby",
+  "whatItIs": "Service provider offering information and help to Oromo and other diaspora residents, announced in Oromo Diaspora Media.",
+  "link": "https://oromodiasporamedia.org/tajaajila-community-link-services-mn-awol-windissa/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Oromo Diaspora Media post dated Oct. 8, 2026. Its own website could not be opened, and its exact services were not confirmed."
+ },
+ {
+  "name": "Oromia Health Care LLC",
+  "type": "home care agency",
+  "neighborhoodOrCity": "Spring Lake Park",
+  "whatItIs": "Listed home care provider for skilled nursing and in-home therapy. The listing does not state ownership or languages.",
+  "link": "https://mnseniorguide.com/providers/oromia-health-care-llc",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "A directory listing says its data are current as of August 2026 and advises confirming license status. The provider's own page was not found. Rechecked Oct. 31, 2026: no newer page found."
+ },
+ {
+  "name": "Oromo Diaspora Media (ODM)",
+  "type": "media",
+  "neighborhoodOrCity": "Minnesota focus; no address listed",
+  "whatItIs": "News and radio stream mainly in Afaan Oromoo, with Minnesota public agencies among listed partners.",
+  "link": "https://oromodiasporamedia.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Latest post dated Oct. 8, 2026."
+ },
+ {
+  "name": "Voice of Oromiyaa, KFAI",
+  "type": "media",
+  "neighborhoodOrCity": "KFAI, Minneapolis",
+  "whatItIs": "Weekly radio program, Sundays 5 to 6 p.m., hosted by Jelil Abdella and Said Ali.",
+  "link": "https://www.kfai.org/schedule/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Current KFAI schedule lists it."
+ },
+ {
+  "name": "Oromia Media Network",
+  "type": "media",
+  "neighborhoodOrCity": "1437 Marshall Ave., Suite 200, St. Paul",
+  "whatItIs": "Nonprofit news outlet on Oromia, with $213,558 in 2024 revenue and one employee that year.",
+  "link": "https://www.causeiq.com/organizations/oromia-media-network,465137810/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Cause IQ shows a 2024 filing and a leader listed as of Nov. 17, 2025. No dated 2026 program page was opened. Rechecked Oct. 31, 2026: oromiamedia.org now shows unrelated Thai-language content, and no current network page was found."
+ },
+ {
+  "name": "Oromia 11",
+  "type": "media",
+  "neighborhoodOrCity": "Downtown Minneapolis",
+  "whatItIs": "TV network startup launched in 2021 with Tashitaa Tufaa as board chair.",
+  "link": "https://sahanjournal.com/oromo-in-minnesota/oromia-11-tv-network-minnesota/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Only a Feb. 3, 2021 article was opened. Rechecked Oct. 31, 2026: no newer page found."
+ },
+ {
+  "name": "Oromo Community of Minnesota building rental",
+  "type": "event space",
+  "neighborhoodOrCity": "465 N. Mackubin St., St. Paul",
+  "whatItIs": "Community center rented for gatherings, baby showers and engagement parties.",
+  "link": "https://oromocommunitymn.org/",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "Own site lists hours and facility requests, with statements dated through Jan. 29, 2026 and an event listed for Nov. 28, 2026."
+ },
+ {
+  "name": "Bultum Academy",
+  "type": "charter school",
+  "neighborhoodOrCity": "1555 40th Ave. NE, Columbia Heights",
+  "whatItIs": "Charter school that teaches Afaan Oromo alongside regular subjects.",
+  "link": "https://www.bultumacademy.org/theoromolanguage",
+  "dateChecked": "2026-10-30",
+  "status": "open",
+  "evidence": "School jobs posted Oct. 19 and 27, 2026, on mnschooljobs.org; own site lists school hours."
+ },
+ {
+  "name": "Red Wolf Chai",
+  "type": "chai maker and seller (online, farmers markets, coffee shops)",
+  "neighborhoodOrCity": "Minneapolis (kitchen in Seward as of 2021)",
+  "whatItIs": "Chai and chapatis made from the founders' Oromo mother's recipes; named for the Ethiopian wolf of Oromia's Bale Highlands. Founded 2021 by brothers Azhar Abdusebur and Mayzer Muhammad with Mowafag Mohamed.",
+  "link": "https://redwolfchai.com/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Own site, checked Oct. 31, 2026, takes online orders and offers catering. Sahan Journal, July 8, 2021, describes the founding and the Oromo family recipes; Meet Minneapolis's East African food guide features it to highlight Oromo culture."
+ },
+ {
+  "name": "Oromo Mall",
+  "type": "market / shopping center",
+  "neighborhoodOrCity": "1001 Westgate Dr., St. Paul",
+  "whatItIs": "Described by Oromo Diaspora Media as a large Oromo market opening for the first time in Minnesota; the post links the Tawhid Islamic Center of Minnesota beside the address.",
+  "link": "https://oromodiasporamedia.org/oromo-mall-minisootaa-keessatti-hojii-jalqabe/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Oromo Diaspora Media post dated March 30, 2025, announces it has started operating. No own site and no 2026 notice found, so current operation rests on that 2025 post."
+ },
+ {
+  "name": "Adama Restaurant and Awash Bakery",
+  "type": "restaurant and bakery",
+  "neighborhoodOrCity": "3970 Central Ave. NE, Columbia Heights",
+  "whatItIs": "Ethiopian restaurant that Heavy Table reported in 2017 had a focus on Oromo food.",
+  "link": "https://heavytable.com/adama-ethiopian-columbia-heights/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Heavy Table, November 2017. A Franki directory listing updated Aug. 14, 2026 shows daily hours but is unclaimed and aggregated; the restaurant's own site did not load."
+ },
+ {
+  "name": "Northside Grocery and Deli",
+  "type": "grocery and deli",
+  "neighborhoodOrCity": "125th Ave. NE, Blaine",
+  "whatItIs": "Neighborhood store advertised on Oromo Diaspora Media as an African business. Ownership is not stated, so Oromo ownership is not claimed.",
+  "link": "https://oromodiasporamedia.org/northside-grocery-and-deli-african-business-in-blaine/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Oromo Diaspora Media notice dated June 19, 2025, with address and phone. No 2026 page found."
+ }
 ]
