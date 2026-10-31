@@ -1,9 +1,8 @@
 # Filipino in Minnesota
-Checked: October 31, 2026
 
 ## 1. People and place
 
-**How many.** Counts of Filipino Minnesotans differ a great deal, depending on who is counted. Minnesota Compass, using the American Community Survey for 2020 to 2024, puts the population at 26,559, give or take 2,422 ([Minnesota Compass, checked Oct. 31, 2026](https://www.mncompass.org/topics/demographics/cultural-communities/filipino)). A June 2026 presentation by the State Demographic Center lists 28,388 Filipino Minnesotans in the 2024 one-year survey, sixth among Asian groups in the state after Hmong, Asian Indian, Chinese, Korean and Vietnamese Minnesotans ([State of Asian Pacific Minnesotans, June 2026](https://mn.gov/capm/assets/SusanBrower_StateOfAsianPacificMinnesotans_June2026_tcm1051-759113.pdf)). The State Demographic Center's own 2026 chartbook uses a much narrower rule: only people coded as Filipino by race, and not also part of another of its cultural groups. By that rule it counts 11,800, give or take 2,400, for 2019 to 2023 ([Economic Status of Minnesotans 2026](https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf)). Much of the gap comes from definitions: the chartbook places people who belong to more than one of its groups in a separate "multiple cultural groups" category. Any one number leaves some people out. Community groups use their own round figures. The Philippine Consulate General in Chicago spoke of "more than 24,000 Filipinos" in the state in November 2025 ([Philippine Consulate General in Chicago, Nov. 17, 2025](https://chicagopcg.com/pressrelease-details-7125.html)), the Philippine Center of Minnesota uses the same figure ([GiveMN](https://www.givemn.org/organization/Pcm)), and a 2022 radio report gave 20,000 to 25,000 ([Power 104.7 FM, Oct. 27, 2022](https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture)).
+**How many.** Counts of Filipino Minnesotans differ a great deal, depending on who is counted. Minnesota Compass, using the American Community Survey for 2020 to 2024, puts the population at 26,559, give or take 2,422 ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/filipino)). A June 2026 presentation by the State Demographic Center lists 28,388 Filipino Minnesotans in the 2024 one-year survey, sixth among Asian groups in the state after Hmong, Asian Indian, Chinese, Korean and Vietnamese Minnesotans ([State of Asian Pacific Minnesotans, June 2026](https://mn.gov/capm/assets/SusanBrower_StateOfAsianPacificMinnesotans_June2026_tcm1051-759113.pdf)). The State Demographic Center's own 2026 chartbook uses a much narrower rule: only people coded as Filipino by race, and not also part of another of its cultural groups. By that rule it counts 11,800, give or take 2,400, for 2019 to 2023 ([Economic Status of Minnesotans 2026](https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf)). Much of the gap comes from definitions: the chartbook places people who belong to more than one of its groups in a separate "multiple cultural groups" category. Any one number leaves some people out. Community groups use their own round figures. The Philippine Consulate General in Chicago spoke of "more than 24,000 Filipinos" in the state in November 2025 ([Philippine Consulate General in Chicago, Nov. 17, 2025](https://chicagopcg.com/pressrelease-details-7125.html)), the Philippine Center of Minnesota uses the same figure ([GiveMN](https://www.givemn.org/organization/Pcm)), and a 2022 radio report gave 20,000 to 25,000 ([Power 104.7 FM, Oct. 27, 2022](https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture)).
 
 **Growth over time.** Older state proclamations show how small the community once was. A proclamation signed by Gov. Rudy Perpich counted "over 2,500" Philippine Minnesotans ([Legislative Reference Library](https://www.lrl.mn.gov/archive/sos/film/pdf/36719.pdf)), and Gov. Jesse Ventura's 2002 Philippine Day proclamation counted "more than 6,000" ([Minnesota Secretary of State, 2002](https://officialdocuments.sos.mn.gov/Files/GetDocument/38735)). These were proclamations, not surveys, so they show direction rather than exact size.
 
@@ -181,63 +180,63 @@ In Minnesota, the Filipino Catholic Community of Minnesota, formed in 1995, has 
 
 ## Sources
 
-1. Filipino population. Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities/filipino (checked Oct. 31, 2026)
-2. The State of Asian Pacific Minnesotans (Susan Brower, June 2026). Minnesota State Demographic Center via Council on Asian Pacific Minnesotans. https://mn.gov/capm/assets/SusanBrower_StateOfAsianPacificMinnesotans_June2026_tcm1051-759113.pdf (checked Oct. 31, 2026)
-3. The Economic Status of Minnesotans 2026. Minnesota State Demographic Center. https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf (checked Oct. 31, 2026)
-4. PH Consulate General in Chicago strengthens engagement with Minnesota Secretary of State. Philippine Consulate General in Chicago. https://chicagopcg.com/pressrelease-details-7125.html (checked Oct. 31, 2026)
-5. Philippine Center of Minnesota. GiveMN. https://www.givemn.org/organization/Pcm (checked Oct. 31, 2026)
-6. Filipino Minnesotans celebrate rich and vibrant culture. Power 104.7 FM (Center for Broadcast Journalism). https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture (checked Oct. 31, 2026)
-7. Governor Rudy Perpich proclamation (Philippine Minnesotans). Minnesota Legislative Reference Library. https://www.lrl.mn.gov/archive/sos/film/pdf/36719.pdf (checked Oct. 31, 2026)
-8. Governor Jesse Ventura proclamation, Philippine Day, March 24, 2002. Minnesota Secretary of State. https://officialdocuments.sos.mn.gov/Files/GetDocument/38735 (checked Oct. 31, 2026)
-9. Filipino Catholics prepare for Christmas with nine-day Mass devotion. The Catholic Spirit. https://www.thecatholicspirit.com/news/local-news/filipino-catholics-prepare-for-christmas-with-nine-day-mass-devotion/ (checked Oct. 31, 2026)
-10. Fil-Minnesotan Association. MNopedia, Minnesota Historical Society. https://www.mnhs.org/mnopedia/search/index/group/fil-minnesotan-association (checked Oct. 31, 2026)
-11. Cultural Society of Filipino Americans of Minnesota (CSFA). MNopedia, Minnesota Historical Society. https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa (checked Oct. 31, 2026)
-12. Kusina, A Pinoy Turo Turo. Kusina. https://kusinaflavors.com/ (checked Oct. 31, 2026)
-13. Filipino Village Grocery Store offers food from home in Mounds View (Making It in Minnesota). Sahan Journal. https://sahanjournal.com/business-work/filipino-village-grocery-store-making-it-in-minnesota-small-business-entrepreneurship/ (checked Oct. 31, 2026)
-14. 'Pista Sa Nayon' celebration in full swing in Fargo. InForum. https://www.inforum.com/newsmd/pista-sa-nayon-celebration-in-full-swing-in-fargo (checked Oct. 31, 2026)
-15. The Minnesota Connection to the Philippine Centennial. Philippine Study Group of Minnesota (crcworks.org). https://www.crcworks.org/plaquefacts.pdf (checked Oct. 31, 2026)
-16. Comments by Lita Malicsi at the unveiling of the corrective plaque, Feb. 4, 2002. Philippine Study Group of Minnesota (crcworks.org). https://crcworks.org/malicsi.pdf (checked Oct. 31, 2026)
-17. Willmar Public Schools hire educators from abroad to fill positions. Sahan Journal (MPR News partner). https://sahanjournal.com/news-partners/willmar-public-school-hire-teachers-philippines-nicaragua-teacher-shortage-minnesota/ (checked Oct. 31, 2026)
-18. Father Valencia leaves legacy in medical mission trip to Philippines. The Catholic Spirit. https://www.thecatholicspirit.com/news/local-news/father-valencia-leaves-legacy-in-medical-mission-trip-to-philippines/ (checked Oct. 31, 2026)
-19. District 2 Irene Fernando. Hennepin County. https://www.hennepincounty.gov/government/leadership/board-of-commissioners/district-2 (checked Oct. 31, 2026)
-20. Dr. Patrick Simon S. Soria. Twin Cities Business. https://tcbmag.com/notable/dr-patrick-simon-s-soria/ (checked Oct. 31, 2026)
-21. Three local grocery stores worth your time and money. The Minnesota Daily. https://mndaily.com/arts-entertainment/aegrocery/02/06/2020/snoadmin/ (checked Oct. 31, 2026)
-22. Asian Americans: Filipinos in the U.S. fact sheet. Pew Research Center. https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-filipinos-in-the-u-s/ (checked Oct. 31, 2026)
-23. AANHPI Heritage Month Spotlight: Patrick and Nina's Nursing Journey. Minnesota Nurses Association. https://mnnurses.org/aanhpi-heritage-month-spotlight-patrick-ninas-nursing-journey/ (checked Oct. 31, 2026)
-24. Discrimination suit by Filipina American doctor blasts health equity measures. Sahan Journal. https://sahanjournal.com/health/tara-gustilo-ob-gyn-hennepin-healthcare-discrimination-lawsuit/ (checked Oct. 31, 2026)
-25. Sarah Lancaster is first Asian/Pacific Islander educator to win Minnesota Teacher of the Year. Sahan Journal. https://sahanjournal.com/education/sarah-lancaster-minnesota-teacher-of-year-onamia/ (checked Oct. 31, 2026)
-26. Brooklyn Park Woman Opens Filipino Restaurant, Ku-ma-in, in Champlin. CCX Media. https://ccxmedia.org/news/brooklyn-park-woman-opens-filipino-restaurant-kumain-in-champlin/ (checked Oct. 31, 2026)
-27. New Southeast Asian business is the first Filipino restaurant in Rochester. KTTC. https://www.kttc.com/2023/12/06/new-southeast-asian-business-is-first-filipino-restaurant-rochester/ (checked Oct. 31, 2026)
-28. Apoy Eatery Gives Minneapolis a First Taste of Filipino Cuisine. Mpls.St.Paul Magazine. https://mspmag.com/eat-and-drink/apoy-review/ (checked Oct. 31, 2026)
-29. Flavors of home: a celebration of Filipino food in the Twin Cities. The Mac Weekly. https://themacweekly.com/2023/11/flavors-of-home-a-celebration-of-filipino-food-in-the-twin-cities/ (checked Oct. 31, 2026)
-30. United Noodles Asian Market. United Noodles. https://www.unitednoodles.com/ (checked Oct. 31, 2026)
-31. Minnesota State Fair food review: From lumpia to sambusas. Sahan Journal. https://sahanjournal.com/news/minnesota-state-fair-new-foods-reviews-2025/ (checked Oct. 31, 2026)
-32. Minnesota State Fair's new foods for 2026: Photos. FOX 9. https://www.fox9.com/news/minnesota-state-fairs-new-foods-2026 (checked Oct. 31, 2026)
-33. Chicago PCG holds 9th outreach mission for 2025 in Maplewood, Minnesota. Philippine Consulate General in Chicago. https://chicagopcg.com/pressrelease-details-7025.html (checked Oct. 31, 2026)
-34. Taste of the Philippines. Downtown Rochester MN. https://www.downtownrochestermn.com/go/taste-of-the-philippines (checked Oct. 31, 2026)
-35. Pinoy Fusion - Minneapolis. Roaming Hunger. https://roaminghunger.com/pinoy-fusion/ (checked Oct. 31, 2026)
-36. Appetites: Lynne Rossetto Kasper shares her favorite Asian market recipes. MPR News. https://www.mprnews.org/story/2013/09/25/appetites-asian-markets (checked Oct. 31, 2026)
-37. Northwest Metro Hosts Inaugural Minnesota Lumpia Festival. CCX Media. https://ccxmedia.org/news/minnesota-lumpia-festival-happening-this-weekend-in-northwest-metro/ (checked Oct. 31, 2026)
-38. Religion Among Asian Americans. Pew Research Center. https://www.pewresearch.org/religion/2023/10/11/religion-among-asian-americans/ (checked Oct. 31, 2026)
-39. Simbang Gabi Mass. Co-Cathedral of St. John the Evangelist, Rochester. https://www.sj.org/updates-list/simbang-gabi-mass (checked Oct. 31, 2026)
-40. Filipinos gather to celebrate feast of Santo Nino. The Catholic Spirit. https://www.thecatholicspirit.com/news/local-news/filipinos-gather-to-celebrate-feast-of-santo-nino/ (checked Oct. 31, 2026)
-41. Cultural Society of Filipino-Americans. GiveMN. https://www.givemn.org/organization/Csfamn (checked Oct. 31, 2026)
-42. Proclamation No. 1006, s. 2025: Regular holidays and special days for 2026. Lawphil Project (Republic of the Philippines). https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html (checked Oct. 31, 2026)
-43. 2026 Liturgical Calendar. U.S. Conference of Catholic Bishops. https://www.usccb.org/resources/2026cal.pdf (checked Oct. 31, 2026)
-44. Buhay Na Buhay: An Evening Curated by the MN Filipinx Community. Walker Art Center. https://www.walkerart.org/whats-on/buhay-na-buhay-an-evening-curated-by-the-mn-filipinx-community/ (checked Oct. 31, 2026)
-45. International Festival of Minnesota. International Festival of Minnesota. https://www.ifestmn.org/ (checked Oct. 31, 2026)
-46. St. Paul's global party roars back after seven-year timeout. Hoodline. https://hoodline.com/2026/04/st-paul-s-global-party-roars-back-after-seven-year-timeout/ (checked Oct. 31, 2026)
-47. Indigenous Roots case study. Propel Nonprofits. https://propelnonprofits.org/case-studies/indigenous-roots/ (checked Oct. 31, 2026)
-48. Theater Mu. MNopedia, Minnesota Historical Society. https://www.mnhs.org/mnopedia/search/index/group/theater-mu (checked Oct. 31, 2026)
-49. Theater Mu Names Fran de Leon New Artistic Director. American Theatre. https://www.americantheatre.org/2025/06/02/theater-mu-names-fran-de-leon-new-artistic-director/ (checked Oct. 31, 2026)
-50. Courtroom Concert: Thousand Tongues, Music from the Philippines. Landmark Center. https://www.landmarkcenter.org/event/courtroom-concert-thousand-tongues-music-from-the-philippines-isabella-dawis-soprano-paolo-debuque-tenor-walter-tambo-piano/ (checked Oct. 31, 2026)
-51. Isabella Dawis biography. Minnesota Opera. https://mnopera.org/biography/isabella-dawis/ (checked Oct. 31, 2026)
-52. Arts Briefs: Walker Art Center unveils Pacita Abad exhibit. MPR News. https://www.mprnews.org/story/2023/04/14/arts-briefs-walker-art-center-unveils-pacita-abad-exhibit (checked Oct. 31, 2026)
-53. Filipino-Canadian NHL player speaks out against racism in hockey. NBC News. https://www.nbcnews.com/news/asian-america/filipino-canadian-nhl-player-speaks-out-against-racism-hockey-n1232361 (checked Oct. 31, 2026)
-54. Primary Election 2026: Hennepin County Commissioner, District 2. Naomi Kritzer (election blog). https://naomikritzer.com/tag/makeda-zulu/ (checked Oct. 31, 2026)
-55. S.F. 603, 81st Legislature (1999-2000), introduction. Minnesota Office of the Revisor of Statutes. https://www.revisor.mn.gov/bills/81/1999/0/SF/603/versions/latest (checked Oct. 31, 2026)
-56. Asian American Studies student organizations. University of Minnesota College of Liberal Arts. https://cla.umn.edu/asianamerican/undergraduate/organizations (checked Oct. 31, 2026)
-57. The importance of data disaggregation in understanding Minnesota's Asian communities. Minnesota Compass. https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-asian-communities (checked Oct. 31, 2026)
-58. Outreach Services, Maplewood, Minnesota. Philippine Consulate General in Chicago. https://chicagopcg.com/outreachmn.html (checked Oct. 31, 2026)
-59. ICE arrests several individuals in Twin Cities during 'Operation Metro Surge'. FOX 9. https://www.fox9.com/news/ice-arrests-twin-cities-dec-4-2025 (checked Oct. 31, 2026)
-60. What does a scaled-back ICE operation look like?. KSTP. https://kstp.com/kstp-news/top-news/what-does-a-scaled-back-ice-operation-look-like/ (checked Oct. 31, 2026)
+1. Filipino population. Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities/filipino
+2. The State of Asian Pacific Minnesotans (Susan Brower, June 2026). Minnesota State Demographic Center via Council on Asian Pacific Minnesotans. https://mn.gov/capm/assets/SusanBrower_StateOfAsianPacificMinnesotans_June2026_tcm1051-759113.pdf
+3. The Economic Status of Minnesotans 2026. Minnesota State Demographic Center. https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf
+4. PH Consulate General in Chicago strengthens engagement with Minnesota Secretary of State. Philippine Consulate General in Chicago. https://chicagopcg.com/pressrelease-details-7125.html
+5. Philippine Center of Minnesota. GiveMN. https://www.givemn.org/organization/Pcm
+6. Filipino Minnesotans celebrate rich and vibrant culture. Power 104.7 FM (Center for Broadcast Journalism). https://www.power1047.fm/post/filipino-minnesotans-celebrate-rich-and-vibrant-culture
+7. Governor Rudy Perpich proclamation (Philippine Minnesotans). Minnesota Legislative Reference Library. https://www.lrl.mn.gov/archive/sos/film/pdf/36719.pdf
+8. Governor Jesse Ventura proclamation, Philippine Day, March 24, 2002. Minnesota Secretary of State. https://officialdocuments.sos.mn.gov/Files/GetDocument/38735
+9. Filipino Catholics prepare for Christmas with nine-day Mass devotion. The Catholic Spirit. https://www.thecatholicspirit.com/news/local-news/filipino-catholics-prepare-for-christmas-with-nine-day-mass-devotion/
+10. Fil-Minnesotan Association. MNopedia, Minnesota Historical Society. https://www.mnhs.org/mnopedia/search/index/group/fil-minnesotan-association
+11. Cultural Society of Filipino Americans of Minnesota (CSFA). MNopedia, Minnesota Historical Society. https://www.mnhs.org/mnopedia/search/index/group/cultural-society-filipino-americans-minnesota-csfa
+12. Kusina, A Pinoy Turo Turo. Kusina. https://kusinaflavors.com/
+13. Filipino Village Grocery Store offers food from home in Mounds View (Making It in Minnesota). Sahan Journal. https://sahanjournal.com/business-work/filipino-village-grocery-store-making-it-in-minnesota-small-business-entrepreneurship/
+14. 'Pista Sa Nayon' celebration in full swing in Fargo. InForum. https://www.inforum.com/newsmd/pista-sa-nayon-celebration-in-full-swing-in-fargo
+15. The Minnesota Connection to the Philippine Centennial. Philippine Study Group of Minnesota (crcworks.org). https://www.crcworks.org/plaquefacts.pdf
+16. Comments by Lita Malicsi at the unveiling of the corrective plaque, Feb. 4, 2002. Philippine Study Group of Minnesota (crcworks.org). https://crcworks.org/malicsi.pdf
+17. Willmar Public Schools hire educators from abroad to fill positions. Sahan Journal (MPR News partner). https://sahanjournal.com/news-partners/willmar-public-school-hire-teachers-philippines-nicaragua-teacher-shortage-minnesota/
+18. Father Valencia leaves legacy in medical mission trip to Philippines. The Catholic Spirit. https://www.thecatholicspirit.com/news/local-news/father-valencia-leaves-legacy-in-medical-mission-trip-to-philippines/
+19. District 2 Irene Fernando. Hennepin County. https://www.hennepincounty.gov/government/leadership/board-of-commissioners/district-2
+20. Dr. Patrick Simon S. Soria. Twin Cities Business. https://tcbmag.com/notable/dr-patrick-simon-s-soria/
+21. Three local grocery stores worth your time and money. The Minnesota Daily. https://mndaily.com/arts-entertainment/aegrocery/02/06/2020/snoadmin/
+22. Asian Americans: Filipinos in the U.S. fact sheet. Pew Research Center. https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-filipinos-in-the-u-s/
+23. AANHPI Heritage Month Spotlight: Patrick and Nina's Nursing Journey. Minnesota Nurses Association. https://mnnurses.org/aanhpi-heritage-month-spotlight-patrick-ninas-nursing-journey/
+24. Discrimination suit by Filipina American doctor blasts health equity measures. Sahan Journal. https://sahanjournal.com/health/tara-gustilo-ob-gyn-hennepin-healthcare-discrimination-lawsuit/
+25. Sarah Lancaster is first Asian/Pacific Islander educator to win Minnesota Teacher of the Year. Sahan Journal. https://sahanjournal.com/education/sarah-lancaster-minnesota-teacher-of-year-onamia/
+26. Brooklyn Park Woman Opens Filipino Restaurant, Ku-ma-in, in Champlin. CCX Media. https://ccxmedia.org/news/brooklyn-park-woman-opens-filipino-restaurant-kumain-in-champlin/
+27. New Southeast Asian business is the first Filipino restaurant in Rochester. KTTC. https://www.kttc.com/2023/12/06/new-southeast-asian-business-is-first-filipino-restaurant-rochester/
+28. Apoy Eatery Gives Minneapolis a First Taste of Filipino Cuisine. Mpls.St.Paul Magazine. https://mspmag.com/eat-and-drink/apoy-review/
+29. Flavors of home: a celebration of Filipino food in the Twin Cities. The Mac Weekly. https://themacweekly.com/2023/11/flavors-of-home-a-celebration-of-filipino-food-in-the-twin-cities/
+30. United Noodles Asian Market. United Noodles. https://www.unitednoodles.com/
+31. Minnesota State Fair food review: From lumpia to sambusas. Sahan Journal. https://sahanjournal.com/news/minnesota-state-fair-new-foods-reviews-2025/
+32. Minnesota State Fair's new foods for 2026: Photos. FOX 9. https://www.fox9.com/news/minnesota-state-fairs-new-foods-2026
+33. Chicago PCG holds 9th outreach mission for 2025 in Maplewood, Minnesota. Philippine Consulate General in Chicago. https://chicagopcg.com/pressrelease-details-7025.html
+34. Taste of the Philippines. Downtown Rochester MN. https://www.downtownrochestermn.com/go/taste-of-the-philippines
+35. Pinoy Fusion - Minneapolis. Roaming Hunger. https://roaminghunger.com/pinoy-fusion/
+36. Appetites: Lynne Rossetto Kasper shares her favorite Asian market recipes. MPR News. https://www.mprnews.org/story/2013/09/25/appetites-asian-markets
+37. Northwest Metro Hosts Inaugural Minnesota Lumpia Festival. CCX Media. https://ccxmedia.org/news/minnesota-lumpia-festival-happening-this-weekend-in-northwest-metro/
+38. Religion Among Asian Americans. Pew Research Center. https://www.pewresearch.org/religion/2023/10/11/religion-among-asian-americans/
+39. Simbang Gabi Mass. Co-Cathedral of St. John the Evangelist, Rochester. https://www.sj.org/updates-list/simbang-gabi-mass
+40. Filipinos gather to celebrate feast of Santo Nino. The Catholic Spirit. https://www.thecatholicspirit.com/news/local-news/filipinos-gather-to-celebrate-feast-of-santo-nino/
+41. Cultural Society of Filipino-Americans. GiveMN. https://www.givemn.org/organization/Csfamn
+42. Proclamation No. 1006, s. 2025: Regular holidays and special days for 2026. Lawphil Project (Republic of the Philippines). https://lawphil.net/executive/proc/proc2025/proc_1006_2025.html
+43. 2026 Liturgical Calendar. U.S. Conference of Catholic Bishops. https://www.usccb.org/resources/2026cal.pdf
+44. Buhay Na Buhay: An Evening Curated by the MN Filipinx Community. Walker Art Center. https://www.walkerart.org/whats-on/buhay-na-buhay-an-evening-curated-by-the-mn-filipinx-community/
+45. International Festival of Minnesota. International Festival of Minnesota. https://www.ifestmn.org/
+46. St. Paul's global party roars back after seven-year timeout. Hoodline. https://hoodline.com/2026/04/st-paul-s-global-party-roars-back-after-seven-year-timeout/
+47. Indigenous Roots case study. Propel Nonprofits. https://propelnonprofits.org/case-studies/indigenous-roots/
+48. Theater Mu. MNopedia, Minnesota Historical Society. https://www.mnhs.org/mnopedia/search/index/group/theater-mu
+49. Theater Mu Names Fran de Leon New Artistic Director. American Theatre. https://www.americantheatre.org/2025/06/02/theater-mu-names-fran-de-leon-new-artistic-director/
+50. Courtroom Concert: Thousand Tongues, Music from the Philippines. Landmark Center. https://www.landmarkcenter.org/event/courtroom-concert-thousand-tongues-music-from-the-philippines-isabella-dawis-soprano-paolo-debuque-tenor-walter-tambo-piano/
+51. Isabella Dawis biography. Minnesota Opera. https://mnopera.org/biography/isabella-dawis/
+52. Arts Briefs: Walker Art Center unveils Pacita Abad exhibit. MPR News. https://www.mprnews.org/story/2023/04/14/arts-briefs-walker-art-center-unveils-pacita-abad-exhibit
+53. Filipino-Canadian NHL player speaks out against racism in hockey. NBC News. https://www.nbcnews.com/news/asian-america/filipino-canadian-nhl-player-speaks-out-against-racism-hockey-n1232361
+54. Primary Election 2026: Hennepin County Commissioner, District 2. Naomi Kritzer (election blog). https://naomikritzer.com/tag/makeda-zulu/
+55. S.F. 603, 81st Legislature (1999-2000), introduction. Minnesota Office of the Revisor of Statutes. https://www.revisor.mn.gov/bills/81/1999/0/SF/603/versions/latest
+56. Asian American Studies student organizations. University of Minnesota College of Liberal Arts. https://cla.umn.edu/asianamerican/undergraduate/organizations
+57. The importance of data disaggregation in understanding Minnesota's Asian communities. Minnesota Compass. https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-asian-communities
+58. Outreach Services, Maplewood, Minnesota. Philippine Consulate General in Chicago. https://chicagopcg.com/outreachmn.html
+59. ICE arrests several individuals in Twin Cities during 'Operation Metro Surge'. FOX 9. https://www.fox9.com/news/ice-arrests-twin-cities-dec-4-2025
+60. What does a scaled-back ICE operation look like?. KSTP. https://kstp.com/kstp-news/top-news/what-does-a-scaled-back-ice-operation-look-like/

@@ -1,9 +1,8 @@
 # Ecuadorians in Minnesota
-Checked: October 31, 2026
 
 ## 1. People and place
 
-**How many.** Minnesota Compass, using the American Community Survey for 2020 to 2024, counts 19,484 Ecuadorian Minnesotans, give or take 3,601. It places 95.9 percent in the Twin Cities and 4.1 percent in Greater Minnesota, each give or take 1.9 points ([Minnesota Compass, checked Oct. 31, 2026](https://www.mncompass.org/topics/demographics/cultural-communities/ecuadorian)). A narrower Census count, of people who name Ecuadorian as their Hispanic origin, gives 15,993 (give or take 1,980) for the same five years, and 17,722 (give or take 4,752) for 2024 alone ([Census Bureau table B03001 via Census Reporter, 2020-2024](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2712700,16000US2758000); [2024 one-year](https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27,05000US27053)). The counts differ because they ask different questions, and the margins are wide. Some published estimates have run higher: The Catholic Spirit wrote in 2013, without naming a source, that nearly 40,000 Ecuadorian immigrants lived in Minnesota ([Catholic Spirit, March 15, 2013](https://www.thecatholicspirit.com/news/local-news/st-marys-health-clinics-partner-with-ecuadorian-consulate/)), a figure no census count supports. CBS Minnesota, citing the census, used "more than 15,000" in 2024 ([WCCO, Sept. 24, 2024](https://www.cbsnews.com/minnesota/news/ecuadorian-volleyball-picnics-twin-cities/)). COPAL, a Latino organizing group, said in 2024 that Minnesota had the 10th-largest Ecuadorian population in the country; that is the group's own statement ([COPAL, 2024](https://copalmn.org/community-mobilization-leads-to-passage-of-temporary-protected-status-for-ecuador-resolution-in-columbia-heights/)).
+**How many.** Minnesota Compass, using the American Community Survey for 2020 to 2024, counts 19,484 Ecuadorian Minnesotans, give or take 3,601. It places 95.9 percent in the Twin Cities and 4.1 percent in Greater Minnesota, each give or take 1.9 points ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/ecuadorian)). A narrower Census count, of people who name Ecuadorian as their Hispanic origin, gives 15,993 (give or take 1,980) for the same five years, and 17,722 (give or take 4,752) for 2024 alone ([Census Bureau table B03001 via Census Reporter, 2020-2024](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2712700,16000US2758000); [2024 one-year](https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27,05000US27053)). The counts differ because they ask different questions, and the margins are wide. Some published estimates have run higher: The Catholic Spirit wrote in 2013, without naming a source, that nearly 40,000 Ecuadorian immigrants lived in Minnesota ([Catholic Spirit, March 15, 2013](https://www.thecatholicspirit.com/news/local-news/st-marys-health-clinics-partner-with-ecuadorian-consulate/)), a figure no census count supports. CBS Minnesota, citing the census, used "more than 15,000" in 2024 ([WCCO, Sept. 24, 2024](https://www.cbsnews.com/minnesota/news/ecuadorian-volleyball-picnics-twin-cities/)). COPAL, a Latino organizing group, said in 2024 that Minnesota had the 10th-largest Ecuadorian population in the country; that is the group's own statement ([COPAL, 2024](https://copalmn.org/community-mobilization-leads-to-passage-of-temporary-protected-status-for-ecuador-resolution-in-columbia-heights/)).
 
 **Born in Ecuador.** About 9,676 Minnesotans (give or take 1,207) were born in Ecuador, in the 2020 to 2024 survey. Among Latin American birthplaces in Minnesota, that is second only to Mexico (63,133), ahead of El Salvador (8,255) and Guatemala (6,837) ([Census table B05006 via Census Reporter](https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27)). Compass puts the foreign-born share at 53.3 percent, give or take 6.1 points, so roughly half the community was born in the United States ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/ecuadorian)).
 
@@ -202,80 +201,80 @@ No Minnesota organization focused on Ecuadorian people with disabilities, and no
 
 ## Sources
 
-1. Ecuadorian population, Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/ecuadorian, checked Oct. 31, 2026
-2. Minnesota's Ecuadorian community is flourishing, but its future is uncertain, Sahan Journal, https://sahanjournal.com/immigration/minnesota-ecuadorian-community-trump-immigration/, checked Oct. 31, 2026
-3. Ecuadorians fleeing violence and economic distress seek a new start in Minnesota (March 18, 2024), Sahan Journal, https://sahanjournal.com/immigration/ecuadorians-asylum-minnesota/, checked Oct. 31, 2026
-4. Ecuadorians make northeast metro area home (July 21, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ecuadorians-make-northeast-metro-area-home/, checked Oct. 31, 2026
-5. Many Ecuadorian immigrants are placing their hope in Minnesota (Dec. 7, 2023), The Catholic Spirit, https://www.thecatholicspirit.com/news/local-news/many-ecuadorian-immigrants-are-placing-their-hope-in-minnesota/, checked Oct. 31, 2026
-6. Nonprofit COPAL calls on state leaders to support Temporary Protected Status for Ecuador (May 1, 2024), MPR News, https://www.mprnews.org/story/2024/05/01/nonprofit-copal-calls-on-state-leaders-to-support-temporary-protected-status-for-ecuador, checked Oct. 31, 2026
-7. Minneapolis, St. Paul, and Columbia Heights City Councils ... passed a Resolution calling on Federal officials to designate Ecuador for TPS, COPAL, https://copalmn.org/minneapolis-st-paul-and-columbia-heights-city-councils-with-copal-mn-and-the-consulate-of-ecuador-passed-a-resolution-callging-on-federal-officials-to-designate-ecuador-for-tps/, checked Oct. 31, 2026
-8. Community Mobilization Leads to Passage of TPS for Ecuador Resolution in Columbia Heights, COPAL, https://copalmn.org/community-mobilization-leads-to-passage-of-temporary-protected-status-for-ecuador-resolution-in-columbia-heights/, checked Oct. 31, 2026
-9. Chimborazo Ecuadorian Restaurant (home), Chimborazo Restaurant, https://chimborazorestaurant.com/home/, checked Oct. 31, 2026
-10. Chimborazo Minneapolis location, Chimborazo Restaurant, https://chimborazorestaurant.com/home/minneapolis/, checked Oct. 31, 2026
-11. Chimborazo St. Paul location, Chimborazo Restaurant, https://chimborazorestaurant.com/home/stpaul/, checked Oct. 31, 2026
-12. Chimborazo listing, Mpls.St.Paul Magazine, https://mspmag.com/locations/chimborazo/, checked Oct. 31, 2026
-13. Hello to a New Chimborazo ... April Restaurant News, Racket, https://racketmn.com/hello-to-a-new-chimborazo-fool-me-once-flees-and-more-april-restaurant-news, checked Oct. 31, 2026
-14. Bryn Mawr's La Mesa Transports Diners to a Tiny, Tucked-Away Slice of Ecuador (June 21, 2024), Racket, https://racketmn.com/bryn-mawrs-la-mesa-transports-diners-to-a-tiny-tucked-away-slice-of-ecuador, checked Oct. 31, 2026
-15. La Mesa: Neighborhood Bistro with Latin Roots, La Mesa, https://www.lamesampls.com/, checked Oct. 31, 2026
-16. La Mesa listing, Mpls.St.Paul Magazine, https://mspmag.com/locations/la-mesa/, checked Oct. 31, 2026
-17. Chimborazo On Wheels, Chimborazo, https://chimborazoonwheels.com/, checked Oct. 31, 2026
-18. Ecuador says ICE agent was blocked from entering its Minneapolis consulate (Jan. 2026), NBC News, https://www.nbcnews.com/politics/immigration/ice-agent-blocked-ecuador-consulate-minneapolis-trump-immigration-rcna256284, checked Oct. 31, 2026
-19. ICE agent barred from entering Ecuadorian consulate in Minneapolis: Report, FOX 9, https://www.fox9.com/news/ice-agent-consulate-ecuador-minneapolis-attempted-incursion-jan-27-2026, checked Oct. 31, 2026
-20. Lawyer: Father, 5-year-old son detained in Columbia Heights were legal asylum-seekers (Jan. 22, 2026), KSTP, https://kstp.com/kstp-news/top-news/lawyer-father-5-year-old-son-detained-in-columbia-heights-were-legal-asylum-seekers/, checked Oct. 31, 2026
-21. Table B03001 Hispanic or Latino origin by specific origin, ACS 2024 5-year: Minnesota, Minneapolis, St. Paul, Columbia Heights, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2712700,16000US2758000, checked Oct. 31, 2026
-22. Table B03001, ACS 2024 1-year: Minnesota and Hennepin County, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27,05000US27053, checked Oct. 31, 2026
-23. Table B03001, ACS 2024 5-year: 05000US27053, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=05000US27053, checked Oct. 31, 2026
-24. Table B03001, ACS 2024 5-year: 05000US27003, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=05000US27003, checked Oct. 31, 2026
-25. Table B03001, ACS 2024 5-year: 05000US27123, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=05000US27123, checked Oct. 31, 2026
-26. Table B03001, ACS 2024 5-year: 16000US2722814, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2722814, checked Oct. 31, 2026
-27. Table B03001, ACS 2024 5-year: 16000US2707966, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2707966, checked Oct. 31, 2026
-28. Table B05006 Place of birth for the foreign-born population, ACS 2024 5-year: Minnesota, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27, checked Oct. 31, 2026
-29. Families Celebrate Ecuador's Independence with Music, Food and Dance (Aug. 21, 2017), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/families-celebrate-ecuadors-independence-with-music-food-and-dance/, checked Oct. 31, 2026
-30. Ecuadorian Catholics display devotion to Mary (Aug. 30, 2010), The Catholic Spirit, https://www.thecatholicspirit.com/local/overheard/ecuadorian-catholics-display-devotion-to-mary/, checked Oct. 31, 2026
-31. Minnesota International Dance Festival 2026 Celebrate Ecuador, DanceMN, https://dancemn.org/submissions/minnesota-international-dance-festival-2026-celebrate-ecuador/, checked Oct. 31, 2026
-32. Minnesota International Dance Festival, Dance Projects by ME, https://mnidancefestival.org/, checked Oct. 31, 2026
-33. Festival Programming 2026, Minnesota International Dance Festival, https://mnidancefestival.org/festival-program, checked Oct. 31, 2026
-34. Ss Cyril and Methodius Catholic Church, Archdiocese of Saint Paul and Minneapolis, https://www.archspm.org/location/ss-cyril-and-methodius-catholic-church/, checked Oct. 31, 2026
-35. Two Day Minneapolis Itinerary for Latinx Travelers, Meet Minneapolis, https://www.minneapolis.org/latinx-community/two-day-itinerary/, checked Oct. 31, 2026
-36. Sabor Cuencano, Sabor Cuencano, https://www.saborcuencanomn.com/, checked Oct. 31, 2026
-37. Panaderia Ecuatoriana Charito listing, Wanderlog, https://wanderlog.com/place/details/3840290/panaderia-ecuatoriana-charito, checked Oct. 31, 2026
-38. Galapagos Bar and Grill listing, Wanderlog, https://wanderlog.com/place/details/3981096/galapagos-bar-and-grill, checked Oct. 31, 2026
-39. For nearly 30 years, Twin Cities Ecuadorian families connect at volleyball picnics (Sept. 24, 2024), CBS Minnesota (WCCO), https://www.cbsnews.com/minnesota/news/ecuadorian-volleyball-picnics-twin-cities/, checked Oct. 31, 2026
-40. Ecuadorians bring street food vending to Central (Aug. 3, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ecuadorians-bring-street-food-vending-to-central/, checked Oct. 31, 2026
-41. Minneapolis weighs permit system for unlicensed fruit vendors (Sept. 24, 2024), MPR News, https://www.mprnews.org/episode/2024/09/24/minneapolis-weighs-permit-system-unlicensed-fruit-vendors, checked Oct. 31, 2026
-42. EcuaFiesta 2026, Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/ecuafiesta-2026/, checked Oct. 31, 2026
-43. In Business 7/1/26 (June 29, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/in-business-7-1-26/, checked Oct. 31, 2026
-44. Facelift coming for Audubon Park summer of 2025 (June 13, 2024), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/facelift-coming-for-audubon-park-summer-of-2025/, checked Oct. 31, 2026
-45. City's schools reeling from ICE presence (Feb. 17, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/citys-schools-reeling-from-ice-presence/, checked Oct. 31, 2026
-46. John Paul II sees immigrant influx (March 25, 2023), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/john-paul-ii-sees-immigrant-influx/, checked Oct. 31, 2026
-47. Ecuador meets Afghanistan in one of latest murals completed (Oct. 4, 2022), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ecuador-meets-afghanistan-in-one-of-latest-murals-completed/, checked Oct. 31, 2026
-48. Central Ave. labeled as cultural district amidst concerns of franchise takeover (April 5, 2024), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/central-ave-labeled-as-cultural-district-amidst-concerns-of-franchise-takeover/, checked Oct. 31, 2026
-49. NE organizations receive $100,000+ in city grants (May 19, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ne-organizations-receive-100000-in-city-grants/, checked Oct. 31, 2026
-50. Items of Note 11/5/25 (Nov. 7, 2025), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/items-of-note-11-5-25/, checked Oct. 31, 2026
-51. In Business 3/12/25 (March 13, 2025), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/in-business-3-12-25/, checked Oct. 31, 2026
-52. Renovations are now underway at Audubon Park (July 9, 2025), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/renovations-are-now-underway-at-audubon-park/, checked Oct. 31, 2026
-53. Ss. Cyril & Methodius church festival (posted July 24, 2023), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/ss-cyril-methodius-church-festival/, checked Oct. 31, 2026
-54. Lights of Logan (posted Nov. 11, 2025), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/lights-of-logan-3/, checked Oct. 31, 2026
-55. Ethnic grocers evoke feelings of home (June 3, 2021), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ethnic-grocers-evoke-feelings-of-home/, checked Oct. 31, 2026
-56. In Business 5/20/26 (May 19, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/in-business-5-20-26/, checked Oct. 31, 2026
-57. Three new priests serving Holy Cross Catholic parish (Sept. 22, 2017), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/three-new-priests-serving-holy-cross-catholic-parish/, checked Oct. 31, 2026
-58. Atletico San Miguel, Penarol tie 2-2 in futsal (Feb. 1, 2022), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/atletico-san-miguel-penarol-tie-2-2-in-futsal/, checked Oct. 31, 2026
-59. Christmas brunch at St. Cyril's (posted Nov. 20, 2019), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/christmas-brunch-at-st-cyrils/, checked Oct. 31, 2026
-60. Heights cultural festival (posted Sept. 3, 2021), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/heights-cultural-festival/, checked Oct. 31, 2026
-61. Saints Cyril and Methodius Church Festival (posted July 25, 2019), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/saints-cyril-and-methodius-church-festival/, checked Oct. 31, 2026
-62. Los Andes Latin Bistro, Los Andes Latin Bistro, https://losandesmn.com/, checked Oct. 31, 2026
-63. Making Waiver Services More Equitable for all Minnesotans: community-facing findings, NORC at the University of Chicago with Minnesota DHS, https://www.norc.org/content/dam/norc-org/pdf2024/FINAL_HEARD%20Community-Facing%20Findings.pdf, checked Oct. 31, 2026
-64. Bill to end MinnesotaCare eligibility for undocumented adult immigrants goes to governor (June 2025), Minnesota House Session Daily, https://www.house.mn.gov/sessiondaily/Story/18830, checked Oct. 31, 2026
-65. Columbia Heights celebrates influx of migrant students, accepts challenges (Dec. 20, 2024), CBS Minnesota (WCCO), https://www.cbsnews.com/minnesota/news/columbia-heights-migrant-students/, checked Oct. 31, 2026
-66. Catholic elementary school in northeast Minneapolis greets newly arrived Ecuadorians, Ukrainians, The Catholic Spirit, https://www.thecatholicspirit.com/news/local-news/catholic-elementary-school-in-northeast-minneapolis-greets-newly-arrived-ecuadorians-ukrainians/, checked Oct. 31, 2026
-67. Los días exactos de Carnaval 2026, El Universo (Ecuador), https://www.eluniverso.com/noticias/ecuador/los-dias-exactos-de-carnaval-2026-nota/, checked Oct. 31, 2026
-68. ¿Cuántos feriados le quedan a Ecuador en 2026? (calendario oficial), Teleamazonas (Ecuador), https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/, checked Oct. 31, 2026
-69. Table B03001, ACS 2024 5-year: 16000US2756896, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2756896, checked Oct. 31, 2026
-70. Table B03001, ACS 2024 5-year: 16000US2754880, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2754880, checked Oct. 31, 2026
-71. Table B03001, ACS 2024 5-year: 16000US2702908, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2702908, checked Oct. 31, 2026
-72. Sts. Cyril and Methodius Church Festival (posted July 29, 2021), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/sts-cyril-and-methodius-church-festival/, checked Oct. 31, 2026
-73. Ss. Cyril & Methodius Catholic Church Festival (posted Aug. 5, 2016), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/ss-cyril-methodius-catholic-church-church-festival/, checked Oct. 31, 2026
-74. St. Mary's Health Clinics partner with Ecuadorian consulate (March 15, 2013), The Catholic Spirit, https://www.thecatholicspirit.com/news/local-news/st-marys-health-clinics-partner-with-ecuadorian-consulate/, checked Oct. 31, 2026
-75. U employee to head Ecuadorian Consulate (Oct. 12, 2004), The Minnesota Daily, https://mndaily.com/uncategorized/u-employee-head-ecuadorian-consulate/10/12/2004/snoadmin/, checked Oct. 31, 2026
-76. Table B03001, ACS 2024 5-year: Nobles County, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=05000US27105, checked Oct. 31, 2026
-77. Community Mobilization Leads to Passage of TPS for Ecuador Resolution in St. Paul (May 2024), COPAL, https://copalmn.org/community-mobilization-leads-to-passage-of-temporary-protected-status-for-ecuador-resolution-in-st-paul/, checked Oct. 31, 2026
+1. Ecuadorian population, Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/ecuadorian
+2. Minnesota's Ecuadorian community is flourishing, but its future is uncertain, Sahan Journal, https://sahanjournal.com/immigration/minnesota-ecuadorian-community-trump-immigration/
+3. Ecuadorians fleeing violence and economic distress seek a new start in Minnesota (March 18, 2024), Sahan Journal, https://sahanjournal.com/immigration/ecuadorians-asylum-minnesota/
+4. Ecuadorians make northeast metro area home (July 21, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ecuadorians-make-northeast-metro-area-home/
+5. Many Ecuadorian immigrants are placing their hope in Minnesota (Dec. 7, 2023), The Catholic Spirit, https://www.thecatholicspirit.com/news/local-news/many-ecuadorian-immigrants-are-placing-their-hope-in-minnesota/
+6. Nonprofit COPAL calls on state leaders to support Temporary Protected Status for Ecuador (May 1, 2024), MPR News, https://www.mprnews.org/story/2024/05/01/nonprofit-copal-calls-on-state-leaders-to-support-temporary-protected-status-for-ecuador
+7. Minneapolis, St. Paul, and Columbia Heights City Councils .. passed a Resolution calling on Federal officials to designate Ecuador for TPS, COPAL, https://copalmn.org/minneapolis-st-paul-and-columbia-heights-city-councils-with-copal-mn-and-the-consulate-of-ecuador-passed-a-resolution-callging-on-federal-officials-to-designate-ecuador-for-tps/
+8. Community Mobilization Leads to Passage of TPS for Ecuador Resolution in Columbia Heights, COPAL, https://copalmn.org/community-mobilization-leads-to-passage-of-temporary-protected-status-for-ecuador-resolution-in-columbia-heights/
+9. Chimborazo Ecuadorian Restaurant (home), Chimborazo Restaurant, https://chimborazorestaurant.com/home/
+10. Chimborazo Minneapolis location, Chimborazo Restaurant, https://chimborazorestaurant.com/home/minneapolis/
+11. Chimborazo St. Paul location, Chimborazo Restaurant, https://chimborazorestaurant.com/home/stpaul/
+12. Chimborazo listing, Mpls.St.Paul Magazine, https://mspmag.com/locations/chimborazo/
+13. Hello to a New Chimborazo .. April Restaurant News, Racket, https://racketmn.com/hello-to-a-new-chimborazo-fool-me-once-flees-and-more-april-restaurant-news
+14. Bryn Mawr's La Mesa Transports Diners to a Tiny, Tucked-Away Slice of Ecuador (June 21, 2024), Racket, https://racketmn.com/bryn-mawrs-la-mesa-transports-diners-to-a-tiny-tucked-away-slice-of-ecuador
+15. La Mesa: Neighborhood Bistro with Latin Roots, La Mesa, https://www.lamesampls.com/
+16. La Mesa listing, Mpls.St.Paul Magazine, https://mspmag.com/locations/la-mesa/
+17. Chimborazo On Wheels, Chimborazo, https://chimborazoonwheels.com/
+18. Ecuador says ICE agent was blocked from entering its Minneapolis consulate (Jan. 2026), NBC News, https://www.nbcnews.com/politics/immigration/ice-agent-blocked-ecuador-consulate-minneapolis-trump-immigration-rcna256284
+19. ICE agent barred from entering Ecuadorian consulate in Minneapolis: Report, FOX 9, https://www.fox9.com/news/ice-agent-consulate-ecuador-minneapolis-attempted-incursion-jan-27-2026
+20. Lawyer: Father, 5-year-old son detained in Columbia Heights were legal asylum-seekers (Jan. 22, 2026), KSTP, https://kstp.com/kstp-news/top-news/lawyer-father-5-year-old-son-detained-in-columbia-heights-were-legal-asylum-seekers/
+21. Table B03001 Hispanic or Latino origin by specific origin, ACS 2024 5-year: Minnesota, Minneapolis, St. Paul, Columbia Heights, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2712700,16000US2758000
+22. Table B03001, ACS 2024 1-year: Minnesota and Hennepin County, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27,05000US27053
+23. Table B03001, ACS 2024 5-year: 05000US27053, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=05000US27053
+24. Table B03001, ACS 2024 5-year: 05000US27003, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=05000US27003
+25. Table B03001, ACS 2024 5-year: 05000US27123, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=05000US27123
+26. Table B03001, ACS 2024 5-year: 16000US2722814, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2722814
+27. Table B03001, ACS 2024 5-year: 16000US2707966, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2707966
+28. Table B05006 Place of birth for the foreign-born population, ACS 2024 5-year: Minnesota, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27
+29. Families Celebrate Ecuador's Independence with Music, Food and Dance (Aug. 21, 2017), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/families-celebrate-ecuadors-independence-with-music-food-and-dance/
+30. Ecuadorian Catholics display devotion to Mary (Aug. 30, 2010), The Catholic Spirit, https://www.thecatholicspirit.com/local/overheard/ecuadorian-catholics-display-devotion-to-mary/
+31. Minnesota International Dance Festival 2026 Celebrate Ecuador, DanceMN, https://dancemn.org/submissions/minnesota-international-dance-festival-2026-celebrate-ecuador/
+32. Minnesota International Dance Festival, Dance Projects by ME, https://mnidancefestival.org/
+33. Festival Programming 2026, Minnesota International Dance Festival, https://mnidancefestival.org/festival-program
+34. Ss Cyril and Methodius Catholic Church, Archdiocese of Saint Paul and Minneapolis, https://www.archspm.org/location/ss-cyril-and-methodius-catholic-church/
+35. Two Day Minneapolis Itinerary for Latinx Travelers, Meet Minneapolis, https://www.minneapolis.org/latinx-community/two-day-itinerary/
+36. Sabor Cuencano, Sabor Cuencano, https://www.saborcuencanomn.com/
+37. Panaderia Ecuatoriana Charito listing, Wanderlog, https://wanderlog.com/place/details/3840290/panaderia-ecuatoriana-charito
+38. Galapagos Bar and Grill listing, Wanderlog, https://wanderlog.com/place/details/3981096/galapagos-bar-and-grill
+39. For nearly 30 years, Twin Cities Ecuadorian families connect at volleyball picnics (Sept. 24, 2024), CBS Minnesota (WCCO), https://www.cbsnews.com/minnesota/news/ecuadorian-volleyball-picnics-twin-cities/
+40. Ecuadorians bring street food vending to Central (Aug. 3, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ecuadorians-bring-street-food-vending-to-central/
+41. Minneapolis weighs permit system for unlicensed fruit vendors (Sept. 24, 2024), MPR News, https://www.mprnews.org/episode/2024/09/24/minneapolis-weighs-permit-system-unlicensed-fruit-vendors
+42. EcuaFiesta 2026, Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/ecuafiesta-2026/
+43. In Business 7/1/26 (June 29, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/in-business-7-1-26/
+44. Facelift coming for Audubon Park summer of 2025 (June 13, 2024), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/facelift-coming-for-audubon-park-summer-of-2025/
+45. City's schools reeling from ICE presence (Feb. 17, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/citys-schools-reeling-from-ice-presence/
+46. John Paul II sees immigrant influx (March 25, 2023), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/john-paul-ii-sees-immigrant-influx/
+47. Ecuador meets Afghanistan in one of latest murals completed (Oct. 4, 2022), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ecuador-meets-afghanistan-in-one-of-latest-murals-completed/
+48. Central Ave. labeled as cultural district amidst concerns of franchise takeover (April 5, 2024), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/central-ave-labeled-as-cultural-district-amidst-concerns-of-franchise-takeover/
+49. NE organizations receive $100,000+ in city grants (May 19, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ne-organizations-receive-100000-in-city-grants/
+50. Items of Note 11/5/25 (Nov. 7, 2025), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/items-of-note-11-5-25/
+51. In Business 3/12/25 (March 13, 2025), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/in-business-3-12-25/
+52. Renovations are now underway at Audubon Park (July 9, 2025), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/renovations-are-now-underway-at-audubon-park/
+53. Ss. Cyril & Methodius church festival (posted July 24, 2023), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/ss-cyril-methodius-church-festival/
+54. Lights of Logan (posted Nov. 11, 2025), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/lights-of-logan-3/
+55. Ethnic grocers evoke feelings of home (June 3, 2021), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/ethnic-grocers-evoke-feelings-of-home/
+56. In Business 5/20/26 (May 19, 2026), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/in-business-5-20-26/
+57. Three new priests serving Holy Cross Catholic parish (Sept. 22, 2017), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/three-new-priests-serving-holy-cross-catholic-parish/
+58. Atletico San Miguel, Penarol tie 2-2 in futsal (Feb. 1, 2022), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/news/atletico-san-miguel-penarol-tie-2-2-in-futsal/
+59. Christmas brunch at St. Cyril's (posted Nov. 20, 2019), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/christmas-brunch-at-st-cyrils/
+60. Heights cultural festival (posted Sept. 3, 2021), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/heights-cultural-festival/
+61. Saints Cyril and Methodius Church Festival (posted July 25, 2019), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/saints-cyril-and-methodius-church-festival/
+62. Los Andes Latin Bistro, Los Andes Latin Bistro, https://losandesmn.com/
+63. Making Waiver Services More Equitable for all Minnesotans: community-facing findings, NORC at the University of Chicago with Minnesota DHS, https://www.norc.org/content/dam/norc-org/pdf2024/FINAL_HEARD%20Community-Facing%20Findings.pdf
+64. Bill to end MinnesotaCare eligibility for undocumented adult immigrants goes to governor (June 2025), Minnesota House Session Daily, https://www.house.mn.gov/sessiondaily/Story/18830
+65. Columbia Heights celebrates influx of migrant students, accepts challenges (Dec. 20, 2024), CBS Minnesota (WCCO), https://www.cbsnews.com/minnesota/news/columbia-heights-migrant-students/
+66. Catholic elementary school in northeast Minneapolis greets newly arrived Ecuadorians, Ukrainians, The Catholic Spirit, https://www.thecatholicspirit.com/news/local-news/catholic-elementary-school-in-northeast-minneapolis-greets-newly-arrived-ecuadorians-ukrainians/
+67. Los días exactos de Carnaval 2026, El Universo (Ecuador), https://www.eluniverso.com/noticias/ecuador/los-dias-exactos-de-carnaval-2026-nota/
+68. ¿Cuántos feriados le quedan a Ecuador en 2026? (calendario oficial), Teleamazonas (Ecuador), https://www.teleamazonas.com/actualidad/noticias/ecuador/proximos-feriados-ecuador-2026-agosto-diciembre-124862/
+69. Table B03001, ACS 2024 5-year: 16000US2756896, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2756896
+70. Table B03001, ACS 2024 5-year: 16000US2754880, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2754880
+71. Table B03001, ACS 2024 5-year: 16000US2702908, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=16000US2702908
+72. Sts. Cyril and Methodius Church Festival (posted July 29, 2021), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/sts-cyril-and-methodius-church-festival/
+73. Ss. Cyril & Methodius Catholic Church Festival (posted Aug. 5, 2016), Northeaster (MyNortheaster.com), https://www.mynortheaster.com/event/ss-cyril-methodius-catholic-church-church-festival/
+74. St. Mary's Health Clinics partner with Ecuadorian consulate (March 15, 2013), The Catholic Spirit, https://www.thecatholicspirit.com/news/local-news/st-marys-health-clinics-partner-with-ecuadorian-consulate/
+75. U employee to head Ecuadorian Consulate (Oct. 12, 2004), The Minnesota Daily, https://mndaily.com/uncategorized/u-employee-head-ecuadorian-consulate/10/12/2004/snoadmin/
+76. Table B03001, ACS 2024 5-year: Nobles County, Census Reporter (U.S. Census Bureau data), https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B03001&geo_ids=05000US27105
+77. Community Mobilization Leads to Passage of TPS for Ecuador Resolution in St. Paul (May 2024), COPAL, https://copalmn.org/community-mobilization-leads-to-passage-of-temporary-protected-status-for-ecuador-resolution-in-st-paul/

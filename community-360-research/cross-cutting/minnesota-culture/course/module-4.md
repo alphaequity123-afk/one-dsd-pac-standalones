@@ -35,7 +35,7 @@ These voices do not say Minnesotans are unkind. Most say the opposite. What they
 
 ## The Minnesota paradox
 
-Samuel Myers Jr., director of the Roy Wilkins Center at the University of Minnesota's Humphrey School, calls it "the Minnesota Paradox." Minnesota is one of the best places to live in America. Yet by racial gaps in unemployment, income, incarceration, homeownership, test scores, school discipline and more, African Americans are worse off here than in "virtually every other state" ([Humphrey School, checked Oct. 31, 2026](https://www.hhh.umn.edu/research-centers/roy-wilkins-center-human-relations-and-social-justice/minnesota-paradox)).
+Samuel Myers Jr., director of the Roy Wilkins Center at the University of Minnesota's Humphrey School, calls it "the Minnesota Paradox." Minnesota is one of the best places to live in America. Yet by racial gaps in unemployment, income, incarceration, homeownership, test scores, school discipline and more, African Americans are worse off here than in "virtually every other state" ([Humphrey School](https://www.hhh.umn.edu/research-centers/roy-wilkins-center-human-relations-and-social-justice/minnesota-paradox)).
 
 There is a nuance worth holding. A 2020 WCCO report noted that many indicators for Black Minnesotans are not worse than elsewhere. The gaps are wide partly because white Minnesotans do better than average ([CBS Minnesota, June 23, 2020](https://www.cbsnews.com/minnesota/news/the-minnesota-paradox-why-the-land-of-10000-lakes-has-one-of-the-largest-racial-disparities/)).
 

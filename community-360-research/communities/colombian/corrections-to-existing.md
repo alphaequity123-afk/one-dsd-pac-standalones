@@ -1,8 +1,7 @@
 # Corrections to the existing Colombian Minnesota page
 
 Page checked: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/colombian
-All checks made October 31, 2026.
-
+All checks made
 ## Outdated figures (Minnesota Compass has newer data)
 
 The page cites Minnesota Compass "ACS 2019–2023" throughout. The Compass Colombian profile now shows ACS 2020–2024 figures. Source: https://www.mncompass.org/topics/demographics/cultural-communities/colombian
@@ -34,7 +33,7 @@ The older 2019–2023 figures could not be checked against an opened source beca
 
 - "TPS and asylum are possible paths for some" and "for some, Temporary Protected Status as a possible U.S. path." No opened source shows a Temporary Protected Status designation for Colombia. This should be removed unless a current federal source supports it.
 - "In the United States, Florida, New York, and New Jersey hold large Colombian communities." This was not checked. It is national background and needs a source if kept.
-- "Partners are the parishes families name ... CLUES is a Latino door ... CECLC is a department door." No source was found tying a particular parish or organization to Colombian Minnesotans. The only active Colombian-identified nonprofit confirmed is Colombia Live (https://www.givemn.org/organization/Colombia-Live).
+- "Partners are the parishes families name .. CLUES is a Latino door .. CECLC is a department door." No source was found tying a particular parish or organization to Colombian Minnesotans. The only active Colombian-identified nonprofit confirmed is Colombia Live (https://www.givemn.org/organization/Colombia-Live).
 - Religion: "evangelical and Pentecostal churches are large in some rooms" and "Afro-diasporic practice exists in some coastal families." No Minnesota source documents either for Colombians.
 - "Some people send money to relatives in Colombia as an obligation." No Minnesota source was found.
 - "Credentials from Colombia were often high and not always recognized here." No Minnesota source was found.
@@ -42,7 +41,7 @@ The older 2019–2023 figures could not be checked against an opened source beca
 ## Profiles checked
 
 - **Maria's Café.** Supported. The café's own site says María Hoyos arrived from Medellín in 1980, opened Maria's Breakfast Club in 1993, and moved to the Ancient Traders Market at the invitation of the American Indian Business Development Corporation (https://mariascafe.com/). The page's statement that the site "shows breakfast and lunch hours seven days a week" could not be confirmed: the opened page shows the menu, weekend specials and weekend live music, but not a full weekly schedule. The 1979 date attributed to the alley and the 2010 city award were not checked.
-- **Colombia Live.** Supported in substance by MPR News, Dec. 21, 2023 (https://www.mprnews.org/story/2023/12/21/colombia-live-bringing-the-rhythm-and-culture-of-colombia-to-minnesota) and GiveMN (https://www.givemn.org/organization/Colombia-Live). Two details need care. MPR quotes Ordóñez Daniels saying Patricia Torres Ray was happy with the production; the page's paraphrase is fine. MPR does not say "many of its dancers are ... adoptees." It says younger dancers are mostly second-generation Colombian and that adoptive families of children from Colombia "find us and enroll their kids." The Minnesota State Fair dates the group to 2001 (https://www.mnstatefair.org/schedule/colombia-live), while GiveMN dates Fuego Latino to about 23 years before its writing.
+- **Colombia Live.** Supported in substance by MPR News, Dec. 21, 2023 (https://www.mprnews.org/story/2023/12/21/colombia-live-bringing-the-rhythm-and-culture-of-colombia-to-minnesota) and GiveMN (https://www.givemn.org/organization/Colombia-Live). Two details need care. MPR quotes Ordóñez Daniels saying Patricia Torres Ray was happy with the production; the page's paraphrase is fine. MPR does not say "many of its dancers are .. adoptees." It says younger dancers are mostly second-generation Colombian and that adoptive families of children from Colombia "find us and enroll their kids." The Minnesota State Fair dates the group to 2001 (https://www.mnstatefair.org/schedule/colombia-live), while GiveMN dates Fuego Latino to about 23 years before its writing.
 - **Cafe Racer Kitchen.** Supported. The address and current hours are on its site (https://www.caferacermn.com/), and Heavy Table confirms the 2015 move from truck to restaurant and that Patiño is Colombian-born (https://heavytable.com/a-conversation-in-the-cafe/). Meet Minneapolis places the same address in Longfellow rather than Seward (https://www.minneapolis.org/food-drink/international/latin-american/). The building sits near the border of the two neighborhoods.
 - **Anika Fajardo.** Supported. The Loft confirms she was born in Colombia, raised in Minnesota, lives in Minneapolis, is an International Latino Book Award gold medal winner, and was a 2026 Minnesota Book Award finalist (https://loft.org/artists/anika-fajardo). The page could add that she teaches in Augsburg University's MFA program.
 

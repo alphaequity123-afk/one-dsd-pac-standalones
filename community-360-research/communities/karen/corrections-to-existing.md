@@ -1,5 +1,4 @@
 # Corrections to the existing Karen page
-Checked: October 30 and 31, 2026. Page read: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/karen
 
 ## Outdated or needs correcting
 
@@ -51,4 +50,4 @@ The seed's whatItMarks for Karen New Year ("Karen new year") and its dates are t
 |---|---|---|---|
 | Rural isolation "looks like interpreter scarcity, no Karen-language print in the county office, and a church that is the only channel." | This is framed as a general warning, not a sourced fact. Opened sources show more doors in at least one county: Freeborn County Public Health hired a Karen-speaking community health worker in 2023, and Albert Lea schools use Karen success coaches and interpreters. MDH publishes many S'gaw Karen fact sheets that county offices can print. | https://www.albertleatribune.com/news/public-health-hires-community-health-worker-to-assist-karen-residents-786977/ ; https://www.albertleatribune.com/news/man-breaking-down-barriers-for-albert-leas-karen-youth-788309/ ; https://www.health.state.mn.us/communities/translation/karen.html | Oct. 31, 2026 |
 | Greater Minnesota is named, but its community life (churches, New Year) is not described. | Albert Lea held Karen New Year gatherings in January 2018 and December 2025; the Karen Community of Worthington held one Jan. 1, 2024; Worthington Karen Baptist Church opened in Rushmore in November 2023. | https://www.albertleatribune.com/news/celebrating-a-new-year-686123/ ; https://www.albertleatribune.com/news/karen-new-year-celebration-brings-music-culture-fun-639a96a9 ; https://www.dglobe.com/news/local/karen-people-of-southwest-minnesota-celebrate-the-new-year ; https://www.dglobe.com/news/local/new-life-breathed-into-rushmore-church-by-karen-community | Oct. 31, 2026 |
-| "The pattern to follow is ... school-language data." | Current school-language data exist: MDE counted 5,320 students with Karen as primary home language in 2024-25, 3,419 of them English learners. | https://www.lrl.mn.gov/docs/2026/other/261381.pdf | Oct. 31, 2026 |
+| "The pattern to follow is .. school-language data." | Current school-language data exist: MDE counted 5,320 students with Karen as primary home language in 2024-25, 3,419 of them English learners. | https://www.lrl.mn.gov/docs/2026/other/261381.pdf | Oct. 31, 2026 |

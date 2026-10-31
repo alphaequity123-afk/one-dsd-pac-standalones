@@ -1,9 +1,8 @@
 # Corrections to the existing Guatemalan Minnesota page
-Checked: October 31, 2026, against https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/guatemalan
 
 ## Outdated figures
 
-Every Minnesota Compass figure on the current page uses the 2019-2023 survey. Compass now shows 2020-2024 figures ([Minnesota Compass, checked Oct. 31, 2026](https://www.mncompass.org/topics/demographics/cultural-communities/guatemalan)).
+Every Minnesota Compass figure on the current page uses the 2019-2023 survey. Compass now shows 2020-2024 figures ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/guatemalan)).
 
 | Claim as stated on the page (ACS 2019-2023) | What Compass now says (ACS 2020-2024) |
 |---|---|
@@ -26,9 +25,9 @@ The page also omits the uninsured rate, which Compass reports as 27.0 percent (g
 
 ## Claims that are wrong or need correcting
 
-- **"CLUES is a Twin Cities door that does not automatically reach a dairy county" / "CLUES ... offers Twin Cities services, without automatic reach into Greater Minnesota."** CLUES's own site says it has offices in St. Paul, Minneapolis, Willmar and Austin, and served more than 30,000 people across those places and statewide in 2025 ([CLUES, checked Oct. 31, 2026](https://clues.org/)). Willmar and Austin both have Guatemalan populations ([Census Reporter, ACS 2020-2024](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=160|04000US27)). The point that a metro office may not reach every rural county still holds, but CLUES does have Greater Minnesota offices.
+- **"CLUES is a Twin Cities door that does not automatically reach a dairy county" / "CLUES .. offers Twin Cities services, without automatic reach into Greater Minnesota."** CLUES's own site says it has offices in St. Paul, Minneapolis, Willmar and Austin, and served more than 30,000 people across those places and statewide in 2025 ([CLUES](https://clues.org/)). Willmar and Austin both have Guatemalan populations ([Census Reporter, ACS 2020-2024](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=160|04000US27)). The point that a metro office may not reach every rural county still holds, but CLUES does have Greater Minnesota offices.
 - **Place list "Worthington, Willmar, Austin, Albert Lea."** Census estimates support Worthington (about 1,714), Willmar (about 657) and Austin (about 636). Albert Lea does not appear among the top 25 Minnesota cities by Guatemalan-origin count, and Freeborn County is not among the top 20 counties. Places that do appear and are missing from the page include Fairmont (about 419), St. James (about 338, about 7 percent of the city), and Nobles, Watonwan, Kandiyohi, Mower and Martin counties ([Census Reporter, places](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=160|04000US27); [Census Reporter, counties](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,050|04000US27)). All have wide margins of error. Albert Lea should not be named as a Guatemalan center without a source.
-- **Consular services.** The page does not name a consulate. Since a 2023 decision, Minnesota falls under the Guatemalan Consulate General in Omaha, Nebraska, not Chicago ([AGN, May 18, 2023](https://agn.gt/guatemala-abrira-consulados-en-nashville-y-omaha-estados-unidos/); [Living in Guatemala directory, checked Oct. 31, 2026](https://livinginguatemala.com/consulates/omaha/)). Earlier Minnesota sources refer to Chicago ([Center for Rural Affairs, 2022](https://www.cfra.org/blog/guatemalan-consulate-chicago-offers-services-rural-minnesota)).
+- **Consular services.** The page does not name a consulate. Since a 2023 decision, Minnesota falls under the Guatemalan Consulate General in Omaha, Nebraska, not Chicago ([AGN, May 18, 2023](https://agn.gt/guatemala-abrira-consulados-en-nashville-y-omaha-estados-unidos/); [Living in Guatemala directory](https://livinginguatemala.com/consulates/omaha/)). Earlier Minnesota sources refer to Chicago ([Center for Rural Affairs, 2022](https://www.cfra.org/blog/guatemalan-consulate-chicago-offers-services-rural-minnesota)).
 
 ## Claims that could not be supported from a Minnesota source
 

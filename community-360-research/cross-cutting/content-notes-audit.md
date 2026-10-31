@@ -1,5 +1,4 @@
 # Content notes: where they are and why
-Checked: October 31, 2026
 
 This list records every content note in the community profiles and the Minnesota culture essay, and the borderline passages that were read and left without one, so the judgment calls can be seen and changed. The rule is in `RESEARCH-BRIEF.md` under "Content notes (binding)": notes go only before material that describes genocide, massacres or war atrocities; lynchings, police killings or other racial violence; mass shootings or political violence; deaths in immigration enforcement or custody; abuse or neglect in institutions; sexual violence; suicide; or torture.
 

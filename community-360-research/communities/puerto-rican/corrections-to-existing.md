@@ -1,11 +1,10 @@
 # Corrections to the existing Puerto Rican Minnesota page
 
 Page checked: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/puerto-rican
-All checks made October 31, 2026.
-
+All checks made
 ## Outdated or inconsistent figures
 
-1. **The page mixes two Compass survey periods.** Most of the page cites "Compass ACS 2019–2023" figures (21,802 people). Its disability and organizations sections cite 22,925 people and 13.3 percent disability for 2020 to 2024. The live Compass profile now shows only the 2020 to 2024 figures. Source: Minnesota Compass, Puerto Rican population, https://www.mncompass.org/topics/demographics/cultural-communities/puerto-rican (checked Oct. 31, 2026).
+1. **The page mixes two Compass survey periods.** Most of the page cites "Compass ACS 2019–2023" figures (21,802 people). Its disability and organizations sections cite 22,925 people and 13.3 percent disability for 2020 to 2024. The live Compass profile now shows only the 2020 to 2024 figures. Source: Minnesota Compass, Puerto Rican population, https://www.mncompass.org/topics/demographics/cultural-communities/puerto-rican.
 
    | Claim as stated (2019–2023) | Compass now (2020–2024) |
    |---|---|
@@ -29,11 +28,11 @@ All checks made October 31, 2026.
 
 2. **Uninsured rate treated as unavailable.** The page says to "date the Minnesota figures when you have them and do not invent a rate," and offers only the poverty figure. Compass does report an uninsured rate: 5.7 percent (±1.9) without health insurance, 2020 to 2024. Same Compass source.
 
-3. **Disability compared with Mexican, Guatemalan and Salvadoran profiles.** The page says Puerto Rican disability (12.8%) is higher than those profiles "in the same vintage." This still holds in the current Compass period: Puerto Rican 13.3%, Mexican 8.1% (±0.9), Guatemalan 5.4% (±2.3), Salvadoran 3.3% (±1.6). Sources: https://www.mncompass.org/topics/demographics/cultural-communities/mexican, https://www.mncompass.org/topics/demographics/cultural-communities/guatemalan, https://www.mncompass.org/topics/demographics/cultural-communities/salvadoran (checked Oct. 31, 2026). The page should update the number and note the margins.
+3. **Disability compared with Mexican, Guatemalan and Salvadoran profiles.** The page says Puerto Rican disability (12.8%) is higher than those profiles "in the same vintage." This still holds in the current Compass period: Puerto Rican 13.3%, Mexican 8.1% (±0.9), Guatemalan 5.4% (±2.3), Salvadoran 3.3% (±1.6). Sources: https://www.mncompass.org/topics/demographics/cultural-communities/mexican, https://www.mncompass.org/topics/demographics/cultural-communities/guatemalan, https://www.mncompass.org/topics/demographics/cultural-communities/salvadoran. The page should update the number and note the margins.
 
 ## Calendar claims
 
-4. **"25 July ... marks the 1898 U.S. landing and also the Constitution Day."** The opened holiday sources list July 25 as Puerto Rico Constitution Day only. Neither mentions the 1898 landing, and no opened source confirmed that link. Sources: El Nuevo Día, https://www.elnuevodia.com/dias-feriados-en-puerto-rico/; Platea PR, https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar (both checked Oct. 31, 2026). The 1898 part could not be supported from opened sources.
+4. **"25 July .. marks the 1898 U.S. landing and also the Constitution Day."** The opened holiday sources list July 25 as Puerto Rico Constitution Day only. Neither mentions the 1898 landing, and no opened source confirmed that link. Sources: El Nuevo Día, https://www.elnuevodia.com/dias-feriados-en-puerto-rico/; Platea PR, https://www.plateapr.com/en/what-to-know/see-the-2026-puerto-rico-holiday-calendar (both). The 1898 part could not be supported from opened sources.
 
 5. **"19 November is marked in some public life" (as Discovery of Puerto Rico).** This is incomplete. Puerto Rico's holiday is now listed as "Día de la Puertorriqueñidad y el Descubrimiento de Puerto Rico" (El Nuevo Día), and Platea PR calls it "Puerto Rican Heritage Day." It is an official public holiday, not just something marked in some public life. Same sources as item 4.
 
@@ -41,7 +40,7 @@ All checks made October 31, 2026.
 
 ## People and organizations
 
-7. **María Isa Pérez-Vega, outdated.** The page describes her as a sitting House member without noting 2026 changes. The Legislative Reference Library records a House retirement speech on May 18, 2026, and says she filed to run for Ramsey County Commissioner in 2026. Community Reporter profiles her as a candidate for Ramsey County District 5 against Rebecca Noecker, for the seat Rafael Ortega has held since 1995. Sources: https://www.lrl.mn.gov/legdb/fulldetail?id=15574; https://communityreporter.org/2026-election-guide-ramsey-county-commissioner-district-5-maria-isa-perez-vega/; https://communityreporter.org/noecker-perez-vega-announce-runs-for-ramsey-county-board-seat-long-held-by-rafael-ortega/ (checked Oct. 31, 2026). Confirmed with no error: birth date May 1, 1987; District 65B; first openly LGBTQ Latina in the Legislature (LRL, citing the Victory Fund); "proud Boricua" (House newsletter, March 9, 2026).
+7. **María Isa Pérez-Vega, outdated.** The page describes her as a sitting House member without noting 2026 changes. The Legislative Reference Library records a House retirement speech on May 18, 2026, and says she filed to run for Ramsey County Commissioner in 2026. Community Reporter profiles her as a candidate for Ramsey County District 5 against Rebecca Noecker, for the seat Rafael Ortega has held since 1995. Sources: https://www.lrl.mn.gov/legdb/fulldetail?id=15574; https://communityreporter.org/2026-election-guide-ramsey-county-commissioner-district-5-maria-isa-perez-vega/; https://communityreporter.org/noecker-perez-vega-announce-runs-for-ramsey-county-board-seat-long-held-by-rafael-ortega/. Confirmed with no error: birth date May 1, 1987; District 65B; first openly LGBTQ Latina in the Legislature (LRL, citing the Victory Fund); "proud Boricua" (House newsletter, March 9, 2026).
 
 8. **BORIKEN Cultural Center, "Founded in 2019."** GiveMN confirms 2019 as the founding year it gives (https://www.givemn.org/organization/Boriken-Cultural-Center). A 2022 University of Minnesota StoryMap says the center was originally El Arco Iris Center for the Arts, established in 1993 (https://storymaps.arcgis.com/stories/5dadf38cccd64776a9da479542b30015). The page could note both. The Minnesota State Arts Board's 2026 grant list places BORIKEN in Mounds View, and AMPERS (Dec. 2025) describes it as based on St. Paul's West Side, using Academia César Chávez and Shoreview venues. The page's St. Paul description is not wrong, but the address is not settled.
 

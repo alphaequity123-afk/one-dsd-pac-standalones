@@ -1,6 +1,6 @@
 # Studying immigrant, refugee and small communities in Minnesota: a methods note
 
-**Internal note for staff researchers. Checked October 30, 2026.**
+**Internal note for staff researchers..**
 
 **Scope.** This note covers how researchers study immigrant, refugee and other small communities within a state, and how they study change across generations. Minnesota examples come first wherever an opened source supported them. It does not cover the 11 Tribal Nations or American Indian communities. That work belongs with the Office of Indian Affairs and the DHS Tribal offices.
 
@@ -313,7 +313,7 @@ This risk is current. Compass notes that [fear of persecution](https://mncompass
 
 ## Sources
 
-All sources were checked October 30, 2026.
+All sources were.
 
 1. U.S. Census Bureau. [Understanding and Using ACS Data: When to Use 1-year or 5-year Estimates](https://www.census.gov/programs-surveys/acs/guidance/estimates.html).
 2. U.S. Census Bureau. [Table IDs Explained](https://www.census.gov/programs-surveys/acs/data/data-tables/table-ids-explained.html).

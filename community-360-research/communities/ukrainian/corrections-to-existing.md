@@ -1,7 +1,6 @@
 # Corrections to the existing Ukrainian page
 
-Page checked: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian (read in full on Oct. 31, 2026). All dates checked below are Oct. 31, 2026.
-
+Page checked: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/ukrainian (read in full on Oct. 31, 2026). All dates checked below are
 ## Outdated figures
 
 1. **Population and profile figures use the 2019–2023 vintage.**
@@ -10,7 +9,7 @@ Page checked: https://one-dsd-people-access-culture-production.up.railway.app/mi
    - Link: https://www.mncompass.org/topics/demographics/cultural-communities/ukrainian
    - Note: the page's warning that a five-year estimate does not capture all post-2022 arrivals still holds.
 
-2. **"Compass ... about 22,570" versus other counts.** Not an error, but the page could add that the 2024 one-year ACS counts 19,849 (±3,043) Minnesotans of Ukrainian ancestry and 6,647 (±2,021) born in Ukraine, and that the Ukrainian American Community Center told the Legislature in June 2025 the community was "approximately 25,000."
+2. **"Compass .. about 22,570" versus other counts.** Not an error, but the page could add that the 2024 one-year ACS counts 19,849 (±3,043) Minnesotans of Ukrainian ancestry and 6,647 (±2,021) born in Ukraine, and that the Ukrainian American Community Center told the Legislature in June 2025 the community was "approximately 25,000."
    - Links: https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27 ; https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27 ; https://www.house.mn.gov/comm/docs/DhB1hP9jLk2PakdiFQu2CA.pdf
 
 ## Errors

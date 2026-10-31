@@ -152,7 +152,7 @@ function detail(g, key, i){
   h += `<h3>Read more</h3><ul><li><a href="${safe(e.briefLinks[0].url)}" target="_blank" rel="noopener">Full brief: ${esc(title(e))}</a></li>`;
   if (e.profileLink) h += `<li><a href="${safe(e.profileLink)}" target="_blank" rel="noopener">Community profile</a></li>`;
   h += `</ul>`;
-  if (e.sources.length) h += `<details><summary>Sources</summary><ul>` + e.sources.map(s => `<li><a href="${safe(s.url)}" target="_blank" rel="noopener">${esc(s.title || s.url)}</a>${s.dateChecked ? `, checked ${esc(s.dateChecked)}` : ''}</li>`).join('') + `</ul></details>`;
+  if (e.sources.length) h += `<details><summary>Sources</summary><ul>` + e.sources.map(s => `<li><a href="${safe(s.url)}" target="_blank" rel="noopener">${esc(s.title || s.url)}</a></li>`).join('') + `</ul></details>`;
   p.innerHTML = h;
   p.querySelectorAll('#tabs button').forEach(b => b.onclick = () => detail(g, key, +b.dataset.n));
 }

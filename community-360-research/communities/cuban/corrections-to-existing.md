@@ -8,10 +8,10 @@ Date checked: October 31, 2026
 1. **Population figure is outdated, and the page contradicts itself.**
    - As stated: "about 9,406 (ACS 2019–2023)" with 67.3 percent in the Twin Cities and 32.7 percent in Greater Minnesota. Later, in the "Organizations and media" section, the same page says "Minnesota Compass lists 8,775 Cuban Minnesotans in American Community Survey data for 2019–2023."
    - What the opened source says: Minnesota Compass now shows 8,775 (give or take 1,811) for 2020 to 2024, with 69.4 percent in the Twin Cities and 30.6 percent in Greater Minnesota (each give or take 8.7 points). The 8,775 figure belongs to 2020 to 2024, not 2019 to 2023.
-   - Link: https://www.mncompass.org/topics/demographics/cultural-communities/cuban (checked Oct. 31, 2026)
+   - Link: https://www.mncompass.org/topics/demographics/cultural-communities/cuban
    - Note: the Census Bureau's Hispanic-origin count for 2020 to 2024 is lower, 6,536 (give or take 994): https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2758000,05000US27053,05000US27123,05000US27003,05000US27037,05000US27109,05000US27163. The page should say which definition it uses and give margins.
 
-2. **Other Compass figures on the page are from the earlier release.** Current Compass (2020 to 2024) values, all from https://www.mncompass.org/topics/demographics/cultural-communities/cuban (checked Oct. 31, 2026):
+2. **Other Compass figures on the page are from the earlier release.** Current Compass (2020 to 2024) values, all from https://www.mncompass.org/topics/demographics/cultural-communities/cuban:
    - Age 17 or younger: page 34.1 percent; now 31.6 percent (±7.3).
    - Age 65 and older: page 8.9 percent; now 9.9 percent (±4.9).
    - Foreign-born: page 21.9 percent; now 22.8 percent (±7.9).
@@ -27,7 +27,7 @@ Date checked: October 31, 2026
 3. **Victor's 1959 Cafe ownership.**
    - As stated: started by Niki Stavrou and her then-husband, Victor, who was Cuban; Heavy Table named Stavrou as owner in 2010.
    - What the opened source says: Minnesota Monthly (May 8, 2015) says the restaurant "was opened by Victor Valens, a native of Cuba, after he found no other Cuban restaurants in the Twin Cities." No opened page named Niki Stavrou; the Heavy Table and Family Destinations Guide pages cited on the current page were not confirmed. The two accounts may both be partly right, but the page should not state ownership without a current source.
-   - Link: https://www.minnesotamonthly.com/food-drink/eating-cuban-in-the-twin-cities/ (checked Oct. 31, 2026)
+   - Link: https://www.minnesotamonthly.com/food-drink/eating-cuban-in-the-twin-cities/
 
 4. **El Cubano address and location.**
    - As stated: "St. Paul area, 870 Dodd Road."
@@ -36,12 +36,12 @@ Date checked: October 31, 2026
 5. **Cuban Adjustment Act wording.**
    - As stated: "a path some people can use after a year of presence."
    - What the opened sources say: this is correct for current law; the National Immigrant Justice Center (2022) describes a one-year physical presence requirement for Cubans inspected and admitted or paroled. The original 1966 text required two years (Immigration History). Correct as stated; the page may want to note that the requirement changed.
-   - Links: https://immigrationjustice.us/wp-content/uploads/2022/03/Cuban-Adjustment-Practice-Advisory-FINAL.pdf ; https://immigrationhistory.org/item/cuban-adjustment-act-of-1966/ (checked Oct. 31, 2026)
+   - Links: https://immigrationjustice.us/wp-content/uploads/2022/03/Cuban-Adjustment-Practice-Advisory-FINAL.pdf ; https://immigrationhistory.org/item/cuban-adjustment-act-of-1966/
 
 6. **Zoilo Versalles death details.**
    - As stated: "He died at his home in Bloomington on June 9, 1995."
    - What the opened source says: SABR says he was found dead in his rented home on June 11, 1995, and that coroner's tests showed he had apparently died two days earlier; SABR's data lists June 9, 1995, Bloomington. Close to the page, but "rented home" and the discovery date add accuracy.
-   - Link: https://sabr.org/bioproj/person/zoilo-versalles/ (checked Oct. 31, 2026)
+   - Link: https://sabr.org/bioproj/person/zoilo-versalles/
 
 ## Claims checked and supported
 

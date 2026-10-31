@@ -1,15 +1,14 @@
 # European Americans in Minnesota
-Checked: October 31, 2026
 
 This page is for Minnesotans of German, Norwegian, Irish, Swedish, English, Polish, Finnish, Czech, Dutch, Danish, Italian, Scottish, Greek and other European heritage who want to see their own culture described with evidence. It does not repeat the separate pages on Ukrainian, Russian-speaking, Bosnian, French-speaking, American and Minnesota culture. Most people described here have families that arrived generations ago, and many carry several European ancestries at once.
 
 ## 1. People and place
 
-**How many, and how the count works.** The Census Bureau's 2024 American Community Survey (ACS) asks people to write in their ancestry, and a person may give up to two. Those answers show German as by far the most common ancestry in Minnesota, at about 1,609,000 (give or take 22,400). Next come Norwegian (about 662,000), Irish (569,000), English (361,000), Swedish (354,000) and Polish (214,000). Smaller but sizable groups are French (145,000), Italian (132,000), Finnish (93,000), Dutch (79,000), Czech (75,000, plus 8,100 who wrote "Czechoslovakian"), Scottish (73,000) and Danish (59,000). Another 94,000 wrote simply "Scandinavian" and 105,000 "European." All of these are one-year survey estimates with margins of error ([ACS 2024 table B04006 via Census Reporter, checked Oct. 31, 2026](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27)). Because one person can list two ancestries, the groups overlap and cannot be added up. About 1.29 million answers were unclassified or not reported, and about 206,000 people wrote "American," so these counts understate how many Minnesotans have European roots ([same table](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27)).
+**How many, and how the count works.** The Census Bureau's 2024 American Community Survey (ACS) asks people to write in their ancestry, and a person may give up to two. Those answers show German as by far the most common ancestry in Minnesota, at about 1,609,000 (give or take 22,400). Next come Norwegian (about 662,000), Irish (569,000), English (361,000), Swedish (354,000) and Polish (214,000). Smaller but sizable groups are French (145,000), Italian (132,000), Finnish (93,000), Dutch (79,000), Czech (75,000, plus 8,100 who wrote "Czechoslovakian"), Scottish (73,000) and Danish (59,000). Another 94,000 wrote simply "Scandinavian" and 105,000 "European." All of these are one-year survey estimates with margins of error ([ACS 2024 table B04006 via Census Reporter](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27)). Because one person can list two ancestries, the groups overlap and cannot be added up. About 1.29 million answers were unclassified or not reported, and about 206,000 people wrote "American," so these counts understate how many Minnesotans have European roots ([same table](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27)).
 
 Smaller European ancestries also appear in the 2024 table: Welsh (about 20,000), Swiss (16,000), Austrian (16,000), Belgian (13,000), Greek (13,000), Hungarian (11,000), Croatian (9,700), Slovene (8,700), Slovak (6,400), Romanian (5,900), Lithuanian (5,300), Luxembourger (5,000) and Icelander (2,900, give or take 900) ([ACS B04006](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27)).
 
-**Race is a different question.** In the same survey, about 4,355,000 Minnesotans, roughly 76 percent of 5.74 million, identified as white alone and not Hispanic ([ACS 2024 table B03002](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01003,B02001,B03002&geo_ids=04000US27)). Minnesota Compass rounds this to 4.3 million, or 74 percent, and notes the share was 83 percent in 2010. It also shows the change by age: people of color are 7 percent of Minnesotans 80 and older but 42 percent of children under 5 ([Minnesota Compass, checked Oct. 31, 2026](https://www.mncompass.org/topics/demographics/race-ethnicity)). Not every white Minnesotan has European roots, and not every person of European descent marks only "white," so race and ancestry should not be treated as the same thing.
+**Race is a different question.** In the same survey, about 4,355,000 Minnesotans, roughly 76 percent of 5.74 million, identified as white alone and not Hispanic ([ACS 2024 table B03002](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01003,B02001,B03002&geo_ids=04000US27)). Minnesota Compass rounds this to 4.3 million, or 74 percent, and notes the share was 83 percent in 2010. It also shows the change by age: people of color are 7 percent of Minnesotans 80 and older but 42 percent of children under 5 ([Minnesota Compass](https://www.mncompass.org/topics/demographics/race-ethnicity)). Not every white Minnesotan has European roots, and not every person of European descent marks only "white," so race and ancestry should not be treated as the same thing.
 
 **Born here, mostly.** Very few European-heritage Minnesotans are immigrants now. The 2024 ACS counts about 48,000 Minnesota residents born anywhere in Europe, out of 524,000 foreign-born. Many of those were born in Ukraine, Russia, Belarus or Bosnia, which have their own pages. For the older streams the numbers are small: about 5,800 born in Germany, 6,400 in the United Kingdom, 1,300 in Italy, 1,300 in Poland, 1,000 in Sweden and fewer than 1,000 each in Ireland, the Netherlands, Norway and Denmark, most with wide margins of error ([ACS 2024 table B05006](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27)). The median age of white non-Hispanic Minnesotans is 43.6 ([ACS 2024 table B01002H](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01002H&geo_ids=04000US27)).
 
@@ -68,7 +67,7 @@ Heritage businesses are spread thin now, since most families have been here for 
 
 ## 5. Religion and spiritual life
 
-**Lutherans and Catholics, and many with no religion.** Pew Research Center's 2023-24 survey of Minnesota adults of every background found 22 percent in mainline Protestant churches and 20 percent in evangelical churches. Lutherans in both groups add up to about 23 percent, including 12 percent in the Evangelical Lutheran Church in America (ELCA) and 5 percent in the Lutheran Church-Missouri Synod. Catholics were 18 percent. About 29 percent claimed no religion: 5 percent atheist, 9 percent agnostic and 15 percent "nothing in particular." The margin of error is plus or minus 5.7 points, and these figures cover all Minnesotans, not only those of European descent ([Pew Research Center, checked Oct. 31, 2026](https://www.pewresearch.org/religious-landscape-study/state/minnesota/)).
+**Lutherans and Catholics, and many with no religion.** Pew Research Center's 2023-24 survey of Minnesota adults of every background found 22 percent in mainline Protestant churches and 20 percent in evangelical churches. Lutherans in both groups add up to about 23 percent, including 12 percent in the Evangelical Lutheran Church in America (ELCA) and 5 percent in the Lutheran Church-Missouri Synod. Catholics were 18 percent. About 29 percent claimed no religion: 5 percent atheist, 9 percent agnostic and 15 percent "nothing in particular." The margin of error is plus or minus 5.7 points, and these figures cover all Minnesotans, not only those of European descent ([Pew Research Center](https://www.pewresearch.org/religious-landscape-study/state/minnesota/)).
 
 **How the churches were built.** Lutheran congregations were the main source of both unity and dispute in Norwegian towns. One Spring Grove resident joked in the 1970s that you could tell a Norwegian settlement by "two churches close together, preferably on opposite sides of the road." By 1865 there were five separate Norwegian American Lutheran synods ([MNopedia, Norwegian Immigration](https://www.mnhs.org/mnopedia/search/index/norwegian-immigration-minnesota)). Swedes built the Augustana Synod, founded in 1860. Other Swedes joined the Mission Covenant, Methodist, Baptist, Pentecostal and Episcopal churches and the Salvation Army ([MNopedia, Swedish Immigration](https://www.mnhs.org/mnopedia/search/index/swedish-immigration-minnesota)). Grundtvigian Danes at Tyler built a folk school before their church and did not hold English services until 1943 ([MNopedia, Danebod](https://www.mnhs.org/mnopedia/search/index/structure/danebod)). Slovak Lutherans built St. Emmanuel church on Bohemian Flats in 1889 ([MNopedia](https://www.mnhs.org/mnopedia/search/index/place/bohemian-flats-minneapolis)).
 
@@ -196,100 +195,100 @@ Dates for 2026 to 2028 are in the accompanying calendar file. Highlights:
 
 ## Sources
 
-1. People Reporting Ancestry, ACS 2024 1-year table B04006, Minnesota, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27, checked Oct. 31, 2026
-2. Race and Hispanic origin, ACS 2024 tables B01003, B02001, B03002, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01003,B02001,B03002&geo_ids=04000US27, checked Oct. 31, 2026
-3. Median household income, white non-Hispanic householders, ACS 2024 B19013H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19013H&geo_ids=04000US27, checked Oct. 31, 2026
-4. Median household income, all households, ACS 2024 B19013, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19013&geo_ids=04000US27, checked Oct. 31, 2026
-5. Household income distribution, white non-Hispanic, ACS 2024 B19001H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19001H&geo_ids=04000US27, checked Oct. 31, 2026
-6. Per capita income, white non-Hispanic, ACS 2024 B19301H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19301H&geo_ids=04000US27, checked Oct. 31, 2026
-7. Poverty status, white non-Hispanic, ACS 2024 B17001H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B17001H&geo_ids=04000US27, checked Oct. 31, 2026
-8. Poverty status, all, ACS 2024 B17001, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B17001&geo_ids=04000US27, checked Oct. 31, 2026
-9. Tenure, white non-Hispanic, ACS 2024 B25003H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25003H&geo_ids=04000US27, checked Oct. 31, 2026
-10. Tenure, all, ACS 2024 B25003, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25003&geo_ids=04000US27, checked Oct. 31, 2026
-11. Educational attainment, white non-Hispanic, ACS 2024 C15002H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=C15002H&geo_ids=04000US27, checked Oct. 31, 2026
-12. Median age, white non-Hispanic, ACS 2024 B01002H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01002H&geo_ids=04000US27, checked Oct. 31, 2026
-13. Disability by age, white non-Hispanic, ACS 2024 B18101H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B18101H&geo_ids=04000US27, checked Oct. 31, 2026
-14. Disability by age, all, ACS 2024 B18101, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B18101&geo_ids=04000US27, checked Oct. 31, 2026
-15. Language spoken at home, ACS 2024 B16001, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B16001&geo_ids=04000US27, checked Oct. 31, 2026
-16. Place of birth for the foreign-born, ACS 2024 B05006, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27, checked Oct. 31, 2026
-17. County income, poverty and tenure, white non-Hispanic, ACS 2020-2024 five-year, https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B19013H,B17001H,B25003H&geo_ids=05000US27053,05000US27137,05000US27061,05000US27001,05000US27015,05000US27055,05000US27145,05000US27019,05000US27123,05000US27119, checked Oct. 31, 2026
-18. By race and ethnicity, Minnesota Compass, https://www.mncompass.org/topics/demographics/race-ethnicity, checked Oct. 31, 2026
-19. German, Scandinavian ancestry dominates in Minnesota (chart), Star Tribune via Datawrapper, https://datawrapper.dwcdn.net/KT1Mq/3, checked Oct. 31, 2026
-20. Ask a 'sotan: How racially diverse is Minnesota?, MPR News, https://www.mprnews.org/story/2019/06/03/ask-a-sotan-racial-diversity-in-minnesota, checked Oct. 31, 2026
-21. Norwegian Immigration to Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/norwegian-immigration-minnesota, checked Oct. 31, 2026
-22. Swedish Immigration to Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/swedish-immigration-minnesota, checked Oct. 31, 2026
-23. Polish Immigration to Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/polish-immigration-minnesota, checked Oct. 31, 2026
-24. Immigration to the Iron Range, 1880-1930, MNopedia, https://www.mnhs.org/mnopedia/search/index/immigration-iron-range-1880-1930, checked Oct. 31, 2026
-25. Anti-German Nativism, 1917-1919, MNopedia, https://www.mnhs.org/mnopedia/search/index/anti-german-nativism-1917-1919, checked Oct. 31, 2026
-26. Immigration to Goodhue County, MNopedia, https://www.mnhs.org/mnopedia/search/index/immigration-goodhue-county, checked Oct. 31, 2026
-27. Ireland, John (1838-1918), MNopedia, https://www.mnhs.org/mnopedia/search/index/person/ireland-john-1838-1918, checked Oct. 31, 2026
-28. Germanic-American Institute, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/germanic-american-institute, checked Oct. 31, 2026
-29. Sons of Norway in Cottonwood County, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/sons-norway-cottonwood-county, checked Oct. 31, 2026
-30. Daughters of Norway, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/daughters-norway, checked Oct. 31, 2026
-31. St. Paul Sokol, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/st-paul-sokol, checked Oct. 31, 2026
-32. Hermann (German) Monument, New Ulm, MNopedia, https://www.mnhs.org/mnopedia/search/index/structure/hermann-german-monument-new-ulm, checked Oct. 31, 2026
-33. Danebod, MNopedia, https://www.mnhs.org/mnopedia/search/index/structure/danebod, checked Oct. 31, 2026
-34. Hjemkomst (ship), MNopedia, https://www.mnhs.org/mnopedia/search/index/thing/hjemkomst-ship, checked Oct. 31, 2026
-35. Hopperstad Stave Church Replica, MNopedia, https://www.mnhs.org/mnopedia/search/index/structure/hopperstad-stave-church-replica-moorhead, checked Oct. 31, 2026
-36. Mesabi Iron Range Strike, 1916, MNopedia, https://www.mnhs.org/mnopedia/search/index/event/mesabi-iron-range-strike-1916, checked Oct. 31, 2026
-37. Mesabi Iron Range, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/mesabi-iron-range, checked Oct. 31, 2026
-38. Clarks Grove Cooperative Creamery, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/clarks-grove-cooperative-creamery, checked Oct. 31, 2026
-39. Hormel Strike, 1985-1986, MNopedia, https://www.mnhs.org/mnopedia/search/index/event/hormel-strike-1985-1986, checked Oct. 31, 2026
-40. Minneapolis Teamsters Strike of 1934, MNopedia, https://www.mnhs.org/mnopedia/search/index/event/minneapolis-teamsters-strike-1934, checked Oct. 31, 2026
-41. Swede Hollow, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/swede-hollow, checked Oct. 31, 2026
-42. Bohemian Flats, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/bohemian-flats-minneapolis, checked Oct. 31, 2026
-43. Scottish Cultural Organizations in Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/scottish-cultural-organizations-minnesota, checked Oct. 31, 2026
-44. Eugenics in Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/thing/eugenics-minnesota, checked Oct. 31, 2026
-45. Death of Anna Salzer, Rochester State Hospital, 1897, MNopedia, https://www.mnhs.org/mnopedia/search/index/event/death-anna-salzer-rochester-state-hospital-1897, checked Oct. 31, 2026
-46. Fillmore County Poor Farm, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/fillmore-county-poor-farm, checked Oct. 31, 2026
-47. Christopher Columbus Memorial, St. Paul, MNopedia, https://www.mnhs.org/mnopedia/search/index/thing/christopher-columbus-memorial-st-paul, checked Oct. 31, 2026
-48. Religious Landscape Study: Minnesota, Pew Research Center, https://www.pewresearch.org/religious-landscape-study/state/minnesota/, checked Oct. 31, 2026
-49. Minneapolis Area Synod data kit, ELCA, https://cdn.elca.org/cdn/wp-content/uploads/3G_Minneapolis_Area_data_kit.pdf, checked Oct. 31, 2026
-50. Northeastern Minnesota Synod data kit, ELCA, https://cdn.elca.org/cdn/wp-content/uploads/3E_Northeastern_Minnesota_data_kit.pdf, checked Oct. 31, 2026
-51. Southwestern Minnesota Synod data kit, ELCA, https://cdn.elca.org/cdn/wp-content/uploads/3F_Southwestern_Minnesota_data_kit.pdf, checked Oct. 31, 2026
-52. More Mainline churches in decline in Minnesota, Patch, https://patch.com/minnesota/edenprairie/more-mainline-churches-decline-minnesota, checked Oct. 31, 2026
-53. New Prague area Catholics not surprised, The Catholic Spirit, https://thecatholicspirit.com/featured/new-prague-area-catholics-not-surprised-but-many-still-sad-about-merger-announcement/, checked Oct. 31, 2026
-54. Minneapolis Catholic leaders speak out, America magazine/OSV News, https://www.americamagazine.org/news/2026/01/09/minneapolis-ice-shooting-catholic/, checked Oct. 31, 2026
-55. In Minnesota, cardinals and pope's ambassador decry mass deportations, AP via KSAT, https://www.ksat.com/news/politics/2026/02/27/in-minnesota-us-cardinals-and-popes-ambassador-decry-mass-deportations-and-call-for-reconciliation/, checked Oct. 31, 2026
-56. Join Mindekirken for Syttende Mai, The Alley, https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/, checked Oct. 31, 2026
-57. Heritage, City of Spring Grove, https://www.springgrovemn.com/heritage, checked Oct. 31, 2026
-58. What's New at Syttende Mai?, Fillmore County Journal, https://fillmorecountyjournal.com/?p=64544, checked Oct. 31, 2026
-59. Giants of the Earth Heritage Center, https://giantsoftheearth.org/, checked Oct. 31, 2026
-60. Video: Spring Grove carries on Norwegian heritage, Post Bulletin, https://www.postbulletin.com/newsmd/video-spring-grove-carries-on-norwegian-heritage, checked Oct. 31, 2026
-61. Syttende Mai Celebration at Norway House, St. Olaf College calendar, https://wp.stolaf.edu/calendar/event/syttende-mai-celebration-at-the-norway-house/, checked Oct. 31, 2026
-62. First Scandinavian Summer Fest, Nordstjernan, https://nordstjernan.com/news/midwest/7000, checked Oct. 31, 2026
-63. The 3rd Annual Scandinavian Summer Fest, Nordstjernan calendar, https://production.nordstjernan.com/calendar/79-celebration/5094, checked Oct. 31, 2026
-64. St. Paul Oktoberfest, Germanic-American Institute, https://www.gaimn.org/st-paul-oktoberfest, checked Oct. 31, 2026
-65. New Ulm Oktoberfest: USA TODAY 10BEST Nominee 2026, Visit New Ulm, https://www.newulm.com/2026/08/12/new-ulm-oktoberfest-usa-today-10best-2026/, checked Oct. 31, 2026
-66. Coming to New Ulm for Oktoberfest?, Visit New Ulm, https://www.newulm.com/2026/08/20/coming-to-new-ulm-for-oktoberfest-5/, checked Oct. 31, 2026
-67. About FinnFest, FinnFest USA, https://finnfest.us/about/, checked Oct. 31, 2026
-68. FinnFest 2026 Program Overview, FinnFest USA, https://finnfest.us/program-overview/, checked Oct. 31, 2026
-69. FinnFest USA 2026 Attendee Program Guide, FinnFest USA, https://finnfest.us/wp-content/uploads/2026/08/FinnFest_USA_2026_Attendee_Program_Guide-Update-8.9.26.pdf, checked Oct. 31, 2026
-70. Purple and Green to Paint Finland, North Shore Journal, https://northshorejournal.co/community/finland/purple-and-green-to-paint-finland-as-annual-st-urhos-celebration-returns/, checked Oct. 31, 2026
-71. Small Minnesota town honors the legend of St. Urho, CBS Minnesota, https://www.cbsnews.com/minnesota/news/finding-minnesota-st-urho/, checked Oct. 31, 2026
-72. Finnish Americans celebrate St. Urho's Day in Duluth, Northern News Now, https://www.northernnewsnow.com/2025/03/17/finnish-americans-celebrate-st-urhos-day-duluth/, checked Oct. 31, 2026
-73. Saint Paul St. Patrick's Day 2026, Visit Saint Paul, https://www.visitsaintpaul.com/events-calendar/festivals/st-patricks-day/, checked Oct. 31, 2026
-74. Guide to the Twin Cities Irish Fest, Visit Saint Paul, https://www.visitsaintpaul.com/blog/guide-to-the-irish-fest/, checked Oct. 31, 2026
-75. Irish Bars & Restaurants, Visit Saint Paul, https://www.visitsaintpaul.com/blog/irish-bars-restaurants/, checked Oct. 31, 2026
-76. Saint Paul's Irish History, Visit Saint Paul, https://www.visitsaintpaul.com/blog/saint-pauls-irish-history/, checked Oct. 31, 2026
-77. Montgomery Kolacky Days royalty honor Czech heritage, Minnesota Prairie Roots, https://mnprairieroots.com/2025/05/08/montgomery-kolacky-days-royalty-honor-czech-heritage-culture/, checked Oct. 31, 2026
-78. The 40th Dožínky festival, KEYC, https://www.keyc.com/2024/09/20/40th-donky-festival/, checked Oct. 31, 2026
-79. Additional photos from Twin Cities Polish Festival 2019, MyNortheaster, https://www.mynortheaster.com/news/additional-photos-from-twin-cities-polish-festival-2019/, checked Oct. 31, 2026
-80. St. Olaf Christmas Festival, St. Olaf College, https://christmas.stolaf.edu/, checked Oct. 31, 2026
-81. History and heritage, St. Olaf College catalog, https://www.stolaf.edu/catalog/0304/factsandfigures/history-heritage.html, checked Oct. 31, 2026
-82. The American Swedish Institute reveals its 2026 exhibition calendar, Yahoo News, https://www.yahoo.com/news/articles/american-swedish-institute-reveals-2026-233302470.html, checked Oct. 31, 2026
-83. American Swedish Institute Announces 2027 Exhibitions, Mpls.St.Paul Magazine, https://mspmag.com/arts-and-culture/american-swedish-institute-announces-2027-exhibition-schedul/, checked Oct. 31, 2026
-84. Governor Knute Nelson, Minnesota Legislative Reference Library, https://www.lrl.mn.gov/mngov/govbio?govid=27, checked Oct. 31, 2026
-85. Governor Rudy Perpich, Minnesota Legislative Reference Library, https://www.lrl.mn.gov/mngov/govbio?govid=41, checked Oct. 31, 2026
-86. Remembering Rudy Perpich, Duluth News Tribune, https://www.duluthnewstribune.com/news/local/remembering-rudy-perpich-the-governor-who-turned-outstate-into-greater-minnesota, checked Oct. 31, 2026
-87. A Timeline of Italian Food in Minnesota, Heavy Table, https://heavytable.com/timeline-italian-food-minnesota/, checked Oct. 31, 2026
-88. History Revealed: Italians on St. Paul's East Side, Ramsey County Historical Society, https://rchs.com/publishing/catalog/history-revealed-italians-on-st-pauls-east-side/, checked Oct. 31, 2026
-89. History of The Arc in Minnesota, The Arc Minnesota, https://arcminnesota.org/about/why-the-arc/history-of-the-arc-in-minnesota/, checked Oct. 31, 2026
-90. Minnesota hotline works to improve mental health of small farmers, CBS News, https://www.cbsnews.com/news/minnesota-hotline-works-to-improve-mental-health-of-small-farmers/, checked Oct. 31, 2026
-91. BetterLife announces definitive agreement to partner with Sons of Norway, PR Newswire via WOWK, https://digital-release.wowktv.com/business/press-releases/cision/20260506CG52468/betterlife-announces-definitive-agreement-to-partner-with-sons-of-norway-extending-its-presence-to-more-than-400-communities, checked Oct. 31, 2026
-92. Twin Cities German Immersion School, https://www.tcgis.org/, checked Oct. 31, 2026
-93. Concordia Language Villages, https://www.concordialanguagevillages.org/, checked Oct. 31, 2026
-94. Salolampi Foundation, https://www.salolampi.org/, checked Oct. 31, 2026
-95. Lutheran past, mixed present mingle in South Minneapolis, MinnPost, https://www.minnpost.com/stroll/2012/07/lutheran-past-mixed-present-mingle-south-minneapolis/, checked Oct. 31, 2026
+1. People Reporting Ancestry, ACS 2024 1-year table B04006, Minnesota, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B04006&geo_ids=04000US27
+2. Race and Hispanic origin, ACS 2024 tables B01003, B02001, B03002, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01003,B02001,B03002&geo_ids=04000US27
+3. Median household income, white non-Hispanic householders, ACS 2024 B19013H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19013H&geo_ids=04000US27
+4. Median household income, all households, ACS 2024 B19013, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19013&geo_ids=04000US27
+5. Household income distribution, white non-Hispanic, ACS 2024 B19001H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19001H&geo_ids=04000US27
+6. Per capita income, white non-Hispanic, ACS 2024 B19301H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B19301H&geo_ids=04000US27
+7. Poverty status, white non-Hispanic, ACS 2024 B17001H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B17001H&geo_ids=04000US27
+8. Poverty status, all, ACS 2024 B17001, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B17001&geo_ids=04000US27
+9. Tenure, white non-Hispanic, ACS 2024 B25003H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25003H&geo_ids=04000US27
+10. Tenure, all, ACS 2024 B25003, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B25003&geo_ids=04000US27
+11. Educational attainment, white non-Hispanic, ACS 2024 C15002H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=C15002H&geo_ids=04000US27
+12. Median age, white non-Hispanic, ACS 2024 B01002H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01002H&geo_ids=04000US27
+13. Disability by age, white non-Hispanic, ACS 2024 B18101H, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B18101H&geo_ids=04000US27
+14. Disability by age, all, ACS 2024 B18101, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B18101&geo_ids=04000US27
+15. Language spoken at home, ACS 2024 B16001, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B16001&geo_ids=04000US27
+16. Place of birth for the foreign-born, ACS 2024 B05006, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27
+17. County income, poverty and tenure, white non-Hispanic, ACS 2020-2024 five-year, https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B19013H,B17001H,B25003H&geo_ids=05000US27053,05000US27137,05000US27061,05000US27001,05000US27015,05000US27055,05000US27145,05000US27019,05000US27123,05000US27119
+18. By race and ethnicity, Minnesota Compass, https://www.mncompass.org/topics/demographics/race-ethnicity
+19. German, Scandinavian ancestry dominates in Minnesota (chart), Star Tribune via Datawrapper, https://datawrapper.dwcdn.net/KT1Mq/3
+20. Ask a 'sotan: How racially diverse is Minnesota?, MPR News, https://www.mprnews.org/story/2019/06/03/ask-a-sotan-racial-diversity-in-minnesota
+21. Norwegian Immigration to Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/norwegian-immigration-minnesota
+22. Swedish Immigration to Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/swedish-immigration-minnesota
+23. Polish Immigration to Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/polish-immigration-minnesota
+24. Immigration to the Iron Range, 1880-1930, MNopedia, https://www.mnhs.org/mnopedia/search/index/immigration-iron-range-1880-1930
+25. Anti-German Nativism, 1917-1919, MNopedia, https://www.mnhs.org/mnopedia/search/index/anti-german-nativism-1917-1919
+26. Immigration to Goodhue County, MNopedia, https://www.mnhs.org/mnopedia/search/index/immigration-goodhue-county
+27. Ireland, John (1838-1918), MNopedia, https://www.mnhs.org/mnopedia/search/index/person/ireland-john-1838-1918
+28. Germanic-American Institute, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/germanic-american-institute
+29. Sons of Norway in Cottonwood County, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/sons-norway-cottonwood-county
+30. Daughters of Norway, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/daughters-norway
+31. St. Paul Sokol, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/st-paul-sokol
+32. Hermann (German) Monument, New Ulm, MNopedia, https://www.mnhs.org/mnopedia/search/index/structure/hermann-german-monument-new-ulm
+33. Danebod, MNopedia, https://www.mnhs.org/mnopedia/search/index/structure/danebod
+34. Hjemkomst (ship), MNopedia, https://www.mnhs.org/mnopedia/search/index/thing/hjemkomst-ship
+35. Hopperstad Stave Church Replica, MNopedia, https://www.mnhs.org/mnopedia/search/index/structure/hopperstad-stave-church-replica-moorhead
+36. Mesabi Iron Range Strike, 1916, MNopedia, https://www.mnhs.org/mnopedia/search/index/event/mesabi-iron-range-strike-1916
+37. Mesabi Iron Range, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/mesabi-iron-range
+38. Clarks Grove Cooperative Creamery, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/clarks-grove-cooperative-creamery
+39. Hormel Strike, 1985-1986, MNopedia, https://www.mnhs.org/mnopedia/search/index/event/hormel-strike-1985-1986
+40. Minneapolis Teamsters Strike of 1934, MNopedia, https://www.mnhs.org/mnopedia/search/index/event/minneapolis-teamsters-strike-1934
+41. Swede Hollow, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/swede-hollow
+42. Bohemian Flats, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/bohemian-flats-minneapolis
+43. Scottish Cultural Organizations in Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/group/scottish-cultural-organizations-minnesota
+44. Eugenics in Minnesota, MNopedia, https://www.mnhs.org/mnopedia/search/index/thing/eugenics-minnesota
+45. Death of Anna Salzer, Rochester State Hospital, 1897, MNopedia, https://www.mnhs.org/mnopedia/search/index/event/death-anna-salzer-rochester-state-hospital-1897
+46. Fillmore County Poor Farm, MNopedia, https://www.mnhs.org/mnopedia/search/index/place/fillmore-county-poor-farm
+47. Christopher Columbus Memorial, St. Paul, MNopedia, https://www.mnhs.org/mnopedia/search/index/thing/christopher-columbus-memorial-st-paul
+48. Religious Landscape Study: Minnesota, Pew Research Center, https://www.pewresearch.org/religious-landscape-study/state/minnesota/
+49. Minneapolis Area Synod data kit, ELCA, https://cdn.elca.org/cdn/wp-content/uploads/3G_Minneapolis_Area_data_kit.pdf
+50. Northeastern Minnesota Synod data kit, ELCA, https://cdn.elca.org/cdn/wp-content/uploads/3E_Northeastern_Minnesota_data_kit.pdf
+51. Southwestern Minnesota Synod data kit, ELCA, https://cdn.elca.org/cdn/wp-content/uploads/3F_Southwestern_Minnesota_data_kit.pdf
+52. More Mainline churches in decline in Minnesota, Patch, https://patch.com/minnesota/edenprairie/more-mainline-churches-decline-minnesota
+53. New Prague area Catholics not surprised, The Catholic Spirit, https://thecatholicspirit.com/featured/new-prague-area-catholics-not-surprised-but-many-still-sad-about-merger-announcement/
+54. Minneapolis Catholic leaders speak out, America magazine/OSV News, https://www.americamagazine.org/news/2026/01/09/minneapolis-ice-shooting-catholic/
+55. In Minnesota, cardinals and pope's ambassador decry mass deportations, AP via KSAT, https://www.ksat.com/news/politics/2026/02/27/in-minnesota-us-cardinals-and-popes-ambassador-decry-mass-deportations-and-call-for-reconciliation/
+56. Join Mindekirken for Syttende Mai, The Alley, https://alleynews.org/2026/05/join-mindekirken-for-syttende-mai/
+57. Heritage, City of Spring Grove, https://www.springgrovemn.com/heritage
+58. What's New at Syttende Mai?, Fillmore County Journal, https://fillmorecountyjournal.com/?p=64544
+59. Giants of the Earth Heritage Center, https://giantsoftheearth.org/
+60. Video: Spring Grove carries on Norwegian heritage, Post Bulletin, https://www.postbulletin.com/newsmd/video-spring-grove-carries-on-norwegian-heritage
+61. Syttende Mai Celebration at Norway House, St. Olaf College calendar, https://wp.stolaf.edu/calendar/event/syttende-mai-celebration-at-the-norway-house/
+62. First Scandinavian Summer Fest, Nordstjernan, https://nordstjernan.com/news/midwest/7000
+63. The 3rd Annual Scandinavian Summer Fest, Nordstjernan calendar, https://production.nordstjernan.com/calendar/79-celebration/5094
+64. St. Paul Oktoberfest, Germanic-American Institute, https://www.gaimn.org/st-paul-oktoberfest
+65. New Ulm Oktoberfest: USA TODAY 10BEST Nominee 2026, Visit New Ulm, https://www.newulm.com/2026/08/12/new-ulm-oktoberfest-usa-today-10best-2026/
+66. Coming to New Ulm for Oktoberfest?, Visit New Ulm, https://www.newulm.com/2026/08/20/coming-to-new-ulm-for-oktoberfest-5/
+67. About FinnFest, FinnFest USA, https://finnfest.us/about/
+68. FinnFest 2026 Program Overview, FinnFest USA, https://finnfest.us/program-overview/
+69. FinnFest USA 2026 Attendee Program Guide, FinnFest USA, https://finnfest.us/wp-content/uploads/2026/08/FinnFest_USA_2026_Attendee_Program_Guide-Update-8.9.26.pdf
+70. Purple and Green to Paint Finland, North Shore Journal, https://northshorejournal.co/community/finland/purple-and-green-to-paint-finland-as-annual-st-urhos-celebration-returns/
+71. Small Minnesota town honors the legend of St. Urho, CBS Minnesota, https://www.cbsnews.com/minnesota/news/finding-minnesota-st-urho/
+72. Finnish Americans celebrate St. Urho's Day in Duluth, Northern News Now, https://www.northernnewsnow.com/2025/03/17/finnish-americans-celebrate-st-urhos-day-duluth/
+73. Saint Paul St. Patrick's Day 2026, Visit Saint Paul, https://www.visitsaintpaul.com/events-calendar/festivals/st-patricks-day/
+74. Guide to the Twin Cities Irish Fest, Visit Saint Paul, https://www.visitsaintpaul.com/blog/guide-to-the-irish-fest/
+75. Irish Bars & Restaurants, Visit Saint Paul, https://www.visitsaintpaul.com/blog/irish-bars-restaurants/
+76. Saint Paul's Irish History, Visit Saint Paul, https://www.visitsaintpaul.com/blog/saint-pauls-irish-history/
+77. Montgomery Kolacky Days royalty honor Czech heritage, Minnesota Prairie Roots, https://mnprairieroots.com/2025/05/08/montgomery-kolacky-days-royalty-honor-czech-heritage-culture/
+78. The 40th Dožínky festival, KEYC, https://www.keyc.com/2024/09/20/40th-donky-festival/
+79. Additional photos from Twin Cities Polish Festival 2019, MyNortheaster, https://www.mynortheaster.com/news/additional-photos-from-twin-cities-polish-festival-2019/
+80. St. Olaf Christmas Festival, St. Olaf College, https://christmas.stolaf.edu/
+81. History and heritage, St. Olaf College catalog, https://www.stolaf.edu/catalog/0304/factsandfigures/history-heritage.html
+82. The American Swedish Institute reveals its 2026 exhibition calendar, Yahoo News, https://www.yahoo.com/news/articles/american-swedish-institute-reveals-2026-233302470.html
+83. American Swedish Institute Announces 2027 Exhibitions, Mpls.St.Paul Magazine, https://mspmag.com/arts-and-culture/american-swedish-institute-announces-2027-exhibition-schedul/
+84. Governor Knute Nelson, Minnesota Legislative Reference Library, https://www.lrl.mn.gov/mngov/govbio?govid=27
+85. Governor Rudy Perpich, Minnesota Legislative Reference Library, https://www.lrl.mn.gov/mngov/govbio?govid=41
+86. Remembering Rudy Perpich, Duluth News Tribune, https://www.duluthnewstribune.com/news/local/remembering-rudy-perpich-the-governor-who-turned-outstate-into-greater-minnesota
+87. A Timeline of Italian Food in Minnesota, Heavy Table, https://heavytable.com/timeline-italian-food-minnesota/
+88. History Revealed: Italians on St. Paul's East Side, Ramsey County Historical Society, https://rchs.com/publishing/catalog/history-revealed-italians-on-st-pauls-east-side/
+89. History of The Arc in Minnesota, The Arc Minnesota, https://arcminnesota.org/about/why-the-arc/history-of-the-arc-in-minnesota/
+90. Minnesota hotline works to improve mental health of small farmers, CBS News, https://www.cbsnews.com/news/minnesota-hotline-works-to-improve-mental-health-of-small-farmers/
+91. BetterLife announces definitive agreement to partner with Sons of Norway, PR Newswire via WOWK, https://digital-release.wowktv.com/business/press-releases/cision/20260506CG52468/betterlife-announces-definitive-agreement-to-partner-with-sons-of-norway-extending-its-presence-to-more-than-400-communities
+92. Twin Cities German Immersion School, https://www.tcgis.org/
+93. Concordia Language Villages, https://www.concordialanguagevillages.org/
+94. Salolampi Foundation, https://www.salolampi.org/
+95. Lutheran past, mixed present mingle in South Minneapolis, MinnPost, https://www.minnpost.com/stroll/2012/07/lutheran-past-mixed-present-mingle-south-minneapolis/
 
 Business websites, cultural centers and other pages linked above were also read and appear in the source record that accompanies this profile.

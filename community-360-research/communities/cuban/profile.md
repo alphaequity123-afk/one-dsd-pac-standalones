@@ -1,9 +1,8 @@
 # Cubans in Minnesota
-Checked: October 31, 2026
 
 ## 1. People and place
 
-**A small community, counted in different ways.** Minnesota Compass, which builds its cultural community profiles from self-reported origin, ancestry, birthplace and parents' characteristics, counts 8,775 Cuban Minnesotans in American Community Survey data for 2020 to 2024, give or take 1,811 ([Minnesota Compass, checked Oct. 31, 2026](https://www.mncompass.org/topics/demographics/cultural-communities/cuban); [Minnesota Compass, Sept. 18, 2024](https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-hispanic-and-latino-communities)). The Census Bureau's narrower count, people who answer the Hispanic-origin question as Cuban, is 6,536, give or take 994, in the same 2020 to 2024 survey ([Census Reporter, ACS 2024 five-year table B03001, checked Oct. 31, 2026](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2758000,05000US27053,05000US27123,05000US27003,05000US27037,05000US27109,05000US27163)). The single-year 2024 estimate is 5,714, give or take 1,530 ([Census Reporter, ACS 2024 one-year](https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27)), and the Minnesota Council on Latino Affairs reported about 7,100 from the 2021 one-year survey ([MCLA, March 2023](https://mn.gov/mcla/assets/03_31_23%20-%20Demographic%20Report%20-%20MCLA_tcm1099-602196.pdf)). These are sample estimates for a small group; the margins are wide, and the differences between years mostly reflect sampling, not real growth or loss. In 2014, MPR News cited about 3,600 Minnesotans identifying as Cuban, about 1,000 of them born in Cuba ([MPR News, Dec. 18, 2014](https://www.mprnews.org/story/2014/12/18/cuba-minnesota)). Because the methods differ, the 2014 and 2024 figures should not be read as a growth rate. Within the Latino population, Compass lists Cuban Minnesotans after Puerto Rican, Salvadoran, Guatemalan and Ecuadorian Minnesotans in size ([Minnesota Compass](https://www.mncompass.org/data-insights/articles/updated-minnesotas-latinos-numbers-overview-minnesota-compass-data)).
+**A small community, counted in different ways.** Minnesota Compass, which builds its cultural community profiles from self-reported origin, ancestry, birthplace and parents' characteristics, counts 8,775 Cuban Minnesotans in American Community Survey data for 2020 to 2024, give or take 1,811 ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/cuban); [Minnesota Compass, Sept. 18, 2024](https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-hispanic-and-latino-communities)). The Census Bureau's narrower count, people who answer the Hispanic-origin question as Cuban, is 6,536, give or take 994, in the same 2020 to 2024 survey ([Census Reporter, ACS 2024 five-year table B03001](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2758000,05000US27053,05000US27123,05000US27003,05000US27037,05000US27109,05000US27163)). The single-year 2024 estimate is 5,714, give or take 1,530 ([Census Reporter, ACS 2024 one-year](https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27)), and the Minnesota Council on Latino Affairs reported about 7,100 from the 2021 one-year survey ([MCLA, March 2023](https://mn.gov/mcla/assets/03_31_23%20-%20Demographic%20Report%20-%20MCLA_tcm1099-602196.pdf)). These are sample estimates for a small group; the margins are wide, and the differences between years mostly reflect sampling, not real growth or loss. In 2014, MPR News cited about 3,600 Minnesotans identifying as Cuban, about 1,000 of them born in Cuba ([MPR News, Dec. 18, 2014](https://www.mprnews.org/story/2014/12/18/cuba-minnesota)). Because the methods differ, the 2014 and 2024 figures should not be read as a growth rate. Within the Latino population, Compass lists Cuban Minnesotans after Puerto Rican, Salvadoran, Guatemalan and Ecuadorian Minnesotans in size ([Minnesota Compass](https://www.mncompass.org/data-insights/articles/updated-minnesotas-latinos-numbers-overview-minnesota-compass-data)).
 
 **Mostly born in the United States.** Compass puts the foreign-born share at 22.8 percent, give or take 7.9 points ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/cuban)). The Census table on place of birth counts about 1,535 Minnesotans born in Cuba, with a margin of 899 ([Census Reporter, table B05006](https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27)). That makes Minnesota's community very different from the national picture. Pew Research Center counts 2.9 million people of Cuban origin in the U.S. in 2024, and 57 percent of them are immigrants ([Pew, May 7, 2026](https://www.pewresearch.org/short-reads/2026/05/07/10-facts-about-cubans-in-the-u-s/)). In Minnesota, by contrast, roughly three in four Cuban residents were born in the U.S. The Compass profile is young: 31.6 percent are 17 or younger and 9.9 percent are 65 or older ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/cuban)). Nationally, Pew reports a median age of 38.2, the oldest of the Hispanic origin groups ([Pew](https://www.pewresearch.org/short-reads/2026/05/07/10-facts-about-cubans-in-the-u-s/)).
 
@@ -38,7 +37,7 @@ Compass reports that 70.1 percent of Cuban Minnesotans aged 18 to 64 are employe
 
 What the record shows instead is a range of individual work lives over 60 years: a meat distributor's office in 1960s St. Paul ([NBC News](https://www.nbcnews.com/news/latino/cuban-minnesota-engaging-memoir-tells-marisella-veiga-s-family-journey-n583291)); 3M and Control Data, where a 1961 arrival and a 1980 Mariel arrival worked ([MNopedia](https://www.mnhs.org/mnopedia/search/index/group/positively-gay-cuban-refugee-task-force)); a downtown St. Paul shoe repair shop whose Cuban owner, Mario Diaz, spoke with MPR in 1993 about Minnesota business and politics ([MPR Archive, Sept. 25, 1993](https://archive.mpr.org/stories/1993/09/25/a-profile-on-a-cuban-cobbler-in-downtown-st-paul)); IBM in Rochester ([Minnesota Historical Election Archive](https://mn.electionarchives.lib.umn.edu/candidate/consuelo-p-stacy)); sales ([Minnesota Historical Election Archive](https://mn.electionarchives.lib.umn.edu/candidate/jose-luciano)); teaching, communications and professional baseball. These are individual stories, not a profile of the community's work.
 
-**Minnesota's economic ties to Cuba.** Minnesota's members of Congress were unusually active on Cuba policy after the 2014 thaw. A 2015 Twin Cities Business article tied that to export interests in agriculture and medical devices, including Cargill's lobbying, and quoted the Humphrey School's dean as saying Minnesota's lack of a large Cuban American community left its lawmakers freer than those from Florida or New Jersey ([Twin Cities Business, July 3, 2015](https://tcbmag.com/why-is-minnesotas-congressional-delegation-so-focused-on-cuba/)). In 2003 MPR reported a shipment of cattle and bison from Minnesota and other Midwestern states reaching Cuba under the farm-sales exception to the embargo ([MPR Archive search, checked Oct. 31, 2026](https://archive.mpr.org/search?q=cuban)). These are Minnesota's trade interests, not the Cuban community's own views.
+**Minnesota's economic ties to Cuba.** Minnesota's members of Congress were unusually active on Cuba policy after the 2014 thaw. A 2015 Twin Cities Business article tied that to export interests in agriculture and medical devices, including Cargill's lobbying, and quoted the Humphrey School's dean as saying Minnesota's lack of a large Cuban American community left its lawmakers freer than those from Florida or New Jersey ([Twin Cities Business, July 3, 2015](https://tcbmag.com/why-is-minnesotas-congressional-delegation-so-focused-on-cuba/)). In 2003 MPR reported a shipment of cattle and bison from Minnesota and other Midwestern states reaching Cuba under the farm-sales exception to the embargo ([MPR Archive search](https://archive.mpr.org/search?q=cuban)). These are Minnesota's trade interests, not the Cuban community's own views.
 
 **Unions and labor history.** No Minnesota source was found on Cuban Minnesotans in unions or labor organizing.
 
@@ -169,75 +168,75 @@ Rochester appears in Cuban Minnesota partly because of Mayo Clinic. The founder 
 
 ## Sources
 
-1. Cuban Minnesota (current page), One DSD, https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban, checked Oct. 31, 2026
-2. Cuban population, Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/cuban, checked Oct. 31, 2026
-3. The importance of data disaggregation: Minnesota's Hispanic and Latino communities (Sept. 18, 2024), Minnesota Compass, https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-hispanic-and-latino-communities, checked Oct. 31, 2026
-4. Updated: Minnesota's Latinos in numbers, Minnesota Compass, https://www.mncompass.org/data-insights/articles/updated-minnesotas-latinos-numbers-overview-minnesota-compass-data, checked Oct. 31, 2026
-5. Minnesotans with disabilities, Minnesota Compass, https://www.mncompass.org/topics/demographics/disability, checked Oct. 31, 2026
-6. Mexican population, Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/mexican, checked Oct. 31, 2026
-7. ACS 2024 five-year, table B03001, Minnesota, counties and cities, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2758000,05000US27053,05000US27123,05000US27003,05000US27037,05000US27109,05000US27163, checked Oct. 31, 2026
-8. ACS 2024 five-year, table B03001, all Minnesota counties, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=050%7C04000US27, checked Oct. 31, 2026
-9. ACS 2024 one-year, table B03001, Minnesota, Census Reporter, https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27, checked Oct. 31, 2026
-10. ACS 2024 five-year, table B05006 (place of birth), Minnesota, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27, checked Oct. 31, 2026
-11. A Portrait of Hispanic/Latine Minnesotans (March 2023), Minnesota Council on Latino Affairs, https://mn.gov/mcla/assets/03_31_23%20-%20Demographic%20Report%20-%20MCLA_tcm1099-602196.pdf, checked Oct. 31, 2026
-12. 10 facts about Cubans in the U.S. (May 7, 2026), Pew Research Center, https://www.pewresearch.org/short-reads/2026/05/07/10-facts-about-cubans-in-the-u-s/, checked Oct. 31, 2026
-13. Cubans in Minnesota ready for warmer U.S. relations (Dec. 18, 2014), MPR News, https://www.mprnews.org/story/2014/12/18/cuba-minnesota, checked Oct. 31, 2026
-14. Cuban in Minnesota: Engaging Memoir Tells Marisella Veiga's Family Journey, NBC News, https://www.nbcnews.com/news/latino/cuban-minnesota-engaging-memoir-tells-marisella-veiga-s-family-journey-n583291, checked Oct. 31, 2026
-15. Positively Gay Cuban Refugee Task Force, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/group/positively-gay-cuban-refugee-task-force, checked Oct. 31, 2026
-16. From Mariel to Minnesota: Broken Sponsorships and Queer Cuban Exile in the Upper Midwest (2023), American Historical Association, https://studio.m-anage.com/aha/2023/webprogram/Paper34195.html, checked Oct. 31, 2026
-17. Cuban refugees in Minnesota (May 23, 1980), MPR Archive, https://archive.mpr.org/stories/1980/05/23/cuban-refugees-in-minnesota, checked Oct. 31, 2026
-18. Cathy Kennedy - Quie on Cubans (June 10, 1980), MPR Archive, https://archive.mpr.org/stories/1980/06/10/cathy-kennedy-quie-on-cubans, checked Oct. 31, 2026
-19. A profile on a Cuban cobbler in downtown St. Paul (Sept. 25, 1993), MPR Archive, https://archive.mpr.org/stories/1993/09/25/a-profile-on-a-cuban-cobbler-in-downtown-st-paul, checked Oct. 31, 2026
-20. Search results for "cuban", MPR Archive, https://archive.mpr.org/search?q=cuban, checked Oct. 31, 2026
-21. Consuelo P. Stacy, Minnesota Historical Election Archive, https://mn.electionarchives.lib.umn.edu/candidate/consuelo-p-stacy, checked Oct. 31, 2026
-22. Jose Luciano, Minnesota Historical Election Archive, https://mn.electionarchives.lib.umn.edu/candidate/jose-luciano, checked Oct. 31, 2026
-23. Tony Oliva, de camada cubana en Mellizos al Salón, MLB.com en Español, https://www.mlb.com/es/news/tony-oliva-de-camada-cubana-en-mellizos-al-salon, checked Oct. 31, 2026
-24. Black History Month: Tony Oliva, una leyenda cubana de los Twins, Unanimo Deportes, https://unanimodeportes.com/black-history-month-herencia/black-history-month-tony-oliva-una-leyenda-cubana-de-los-twins/, checked Oct. 31, 2026
-25. Twins Announce Plans for 2026 Minnesota State Fair, Minnesota Twins / MLB.com, https://www.mlb.com/press-release/twins-announce-plans-for-2026-minnesota-state-fair, checked Oct. 31, 2026
-26. Zoilo Versalles, SABR Biography Project, https://sabr.org/bioproj/person/zoilo-versalles/, checked Oct. 31, 2026
-27. Camilo Pascual, SABR Biography Project, https://sabr.org/bioproj/person/camilo-pascual/, checked Oct. 31, 2026
-28. Julio Becquer a member of 1961 Minnesota Twins team passes away (Nov. 6, 2020), Twins Trivia, https://twinstrivia.com/2020/11/06/julio-becquer-a-member-of-1961-minnesota-twins-team-passes-away/, checked Oct. 31, 2026
-29. The Cuban Senators and the Twinkie Hall of Famers, The View Level, https://theviewlevel.substack.com/p/the-cuban-senators-and-the-twinkie, checked Oct. 31, 2026
-30. Why Is Minnesota's Congressional Delegation So Focused On Cuba? (July 3, 2015), Twin Cities Business, https://tcbmag.com/why-is-minnesotas-congressional-delegation-so-focused-on-cuba/, checked Oct. 31, 2026
-31. Eating Cuban in the Twin Cities (May 8, 2015), Minnesota Monthly, https://www.minnesotamonthly.com/food-drink/eating-cuban-in-the-twin-cities/, checked Oct. 31, 2026
-32. Victor's 1959 Cafe review, The Infatuation, https://www.theinfatuation.com/minneapolis/reviews/victors-1959-cafe, checked Oct. 31, 2026
-33. Our first Diners, Drive-ins and Dives in Minneapolis was Victors 1959 Cafe, Flavortown USA, https://www.flavortownusa.com/posts/4/our-first-diners-drive-ins-and-dives-in-minneapolis-was-victors-1959-cafe-in-2008, checked Oct. 31, 2026
-34. Guava's Cuban Cafe (own site), https://www.guavascubancafe.com/, checked Oct. 31, 2026
-35. Check out the 3 newest businesses to open in Minneapolis (2018), Hoodline, https://hoodline.com/2018/12/check-out-the-3-newest-businesses-to-open-in-minneapolis/, checked Oct. 31, 2026
-36. Cuban restaurants road trip, Family Destinations Guide, https://familydestinationsguide.com/minnesota-delicious-cuban-restaurants/, checked Oct. 31, 2026
-37. El Cubano (Shoreline, Wash.), Intentionalist, https://intentionalist.com/b/el-cubano/, checked Oct. 31, 2026
-38. Big, authentic tastes from Little Havana (Nov. 11, 2015), Post Bulletin, https://www.postbulletin.com/lifestyle/big-authentic-tastes-from-little-havana, checked Oct. 31, 2026
-39. Francisco's shares authentic Caribbean dishes with Rochester (Feb. 2, 2023), Post Bulletin, https://www.postbulletin.com/business/franciscos-shares-authentic-caribbean-dishes-with-rochester, checked Oct. 31, 2026
-40. Yuma Fritas is open and serving up 'Cubanish' fare (Dec. 22, 2025), Post Bulletin, https://www.postbulletin.com/business/yuma-fritas-is-open-and-serving-up-cubanish-fare, checked Oct. 31, 2026
-41. Nachito Herrera (own site), https://www.nachitoherrera.com/, checked Oct. 31, 2026
-42. World-renowned Minnesota jazz musician to headline music festival in Cuba (Jan. 13, 2022), FOX 9, https://www.fox9.com/news/world-renowned-minnesota-jazz-musician-to-headline-music-festival-in-cuba, checked Oct. 31, 2026
-43. Cuban star power to electrify the Ordway on Sept. 24 (Sept. 7, 2022), Ordway, https://ordway.org/news/cuban-star-power-to-electrify-the-ordway-on-sept-24/, checked Oct. 31, 2026
-44. Caribbean Nights with Charanga Tropical (Sept. 5, 2026 listing), Happening Next, https://happeningnext.com/event/caribbean-nights-with-charanga-tropical-eid1ef0l1ta4uta, checked Oct. 31, 2026
-45. Malamanya moves to Cuban son (Sept. 16, 2011), MPR News, https://www.mprnews.org/story/2011/09/16/malamanya-moves-to-cuban-son, checked Oct. 31, 2026
-46. Yeniel 'Chini' Perez Domenech, McKnight Artist Fellowships for Dancers and Choreographers, https://www.mcknightdancechoreo.org/fellows//chini-perez, checked Oct. 31, 2026
-47. Osnel Delgado, Northrop, University of Minnesota, https://www.northrop.umn.edu/osnel-delgado, checked Oct. 31, 2026
-48. Daymé Arocena: All Saints' Day, Walker Art Center, https://www.walkerart.org/reader/dayme-arocena-the-cedar-terrell-lamarr-review/, checked Oct. 31, 2026
-49. Minnesota-inspired Cuban American Youth Orchestra launches its first tour (May 18, 2019), MPR News, https://www.mprnews.org/story/2019/05/18/minnesota-cuban-american-youth-orchestra-first-tour, checked Oct. 31, 2026
-50. Minnesota Cuban Film Festival archive, MSP Film, https://mspfilm.org/series/minnesota-cuban-film-festival/, checked Oct. 31, 2026
-51. Festival de Cine Cubano de Minnesota tiende puentes (April 5, 2026), Prensa Latina, https://www.prensa-latina.cu/2026/04/05/festival-de-cine-cubano-de-minnesota-tiende-puentes/, checked Oct. 31, 2026
-52. Minnesota Cuban Film Festival: Fostering Cultural Ties Through Cinema, CubaPLUS Magazine, https://cubaplusmagazine.com/en/news/minnesota-cuban-film-festival-fostering-cultural-ties-through-cinema.html, checked Oct. 31, 2026
-53. 16th Minnesota Cuban film festival (2025), MyNortheaster, https://www.mynortheaster.com/event/16th-minnesota-cuban-film-festival/2025-04-30/, checked Oct. 31, 2026
-54. 15th Minnesota Cuban Film Festival (2024), MyNortheaster, https://www.mynortheaster.com/event/15th-minnesota-cuban-film-festival/, checked Oct. 31, 2026
-55. INTERVIEW: Minnesota Cuban Film Festival, KSTP, https://kstp.com/kstp-news/local-news/interview-minnesota-cuba-film-festival/, checked Oct. 31, 2026
-56. Protesters gather in Minneapolis in support of Cuban people amid economic crisis (July 15, 2021), FOX 9, https://www.fox9.com/video/955881, checked Oct. 31, 2026
-57. Why a Cuban Content Creator Chooses a Small Town Over Big City Life (Sept. 9, 2026), CubaHeadlines, https://www.cubaheadlines.com/articles/339930, checked Oct. 31, 2026
-58. Minnesota tag page, CubaHeadlines, https://www.cubaheadlines.com/tags/minnesota, checked Oct. 31, 2026
-59. Young Cuban YouTuber Departs Island, CubaHeadlines, https://www.cubaheadlines.com/articles/303415, checked Oct. 31, 2026
-60. 'Operation Metro Surge' to end in Minnesota (Feb. 12, 2026), NPR, https://www.npr.org/2026/02/12/nx-s1-5712552/operation-metro-surge-to-end-in-minnesota, checked Oct. 31, 2026
-61. Minnesota Refugee Health Report 2024, Minnesota Department of Health, https://www.health.state.mn.us/communities/rih/stats/24rhrpt.pdf, checked Oct. 31, 2026
-62. Minnesota Refugee Health Report 2025, Minnesota Department of Health, https://www.health.state.mn.us/communities/rih/stats/25rhrpt.pdf, checked Oct. 31, 2026
-63. Cuban Adjustment Act Practice Advisory (2022), National Immigrant Justice Center, https://immigrationjustice.us/wp-content/uploads/2022/03/Cuban-Adjustment-Practice-Advisory-FINAL.pdf, checked Oct. 31, 2026
-64. Cuban Adjustment Act of 1966, Immigration History (University of Texas at Austin), https://immigrationhistory.org/item/cuban-adjustment-act-of-1966/, checked Oct. 31, 2026
-65. The Virgen of Charity of Cobre, EWTN, https://www.ewtn.com/catholicism/library/virgen-of-charity-of-cobre--la-virgen-de-la-caridad-del-cobre-8931, checked Oct. 31, 2026
-66. Our Lady of Charity, Caridad del Cobre, New York Latin Culture, https://www.newyorklatinculture.com/our-lady-of-charity-caridad-del-cobre/, checked Oct. 31, 2026
-67. Caridad de Cobre 2025, Mary, Mother of God Parish (Chicago), https://www.motherofgodchicago.org/parish-news/caridad-de-cobre-2025, checked Oct. 31, 2026
-68. Church of the Incarnation / Iglesia de la Encarnación, https://www.incarnationmpls.org/, checked Oct. 31, 2026
-69. National Hispanic Heritage Month: 2026, U.S. Census Bureau, https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html, checked Oct. 31, 2026
-70. Latino Heritage Month proclamation (Sept. 15, 2022), Office of Governor Tim Walz, https://mn.gov/governor/assets/09.15.22%20Latino%20Heritage%20Month%20%28002%29%20Signed_tcm1055-540650.pdf, checked Oct. 31, 2026
-71. Hours and Holidays in Cuba, Cuba Travel, https://www.cuba.travel/en/useful-information/hours-and-holidays, checked Oct. 31, 2026
-72. Cuba Public Holidays in 2026, Calendarific, https://calendarific.com/holidays/2026/CU, checked Oct. 31, 2026
+1. Cuban Minnesota (current page), One DSD, https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/cuban
+2. Cuban population, Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/cuban
+3. The importance of data disaggregation: Minnesota's Hispanic and Latino communities (Sept. 18, 2024), Minnesota Compass, https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-hispanic-and-latino-communities
+4. Updated: Minnesota's Latinos in numbers, Minnesota Compass, https://www.mncompass.org/data-insights/articles/updated-minnesotas-latinos-numbers-overview-minnesota-compass-data
+5. Minnesotans with disabilities, Minnesota Compass, https://www.mncompass.org/topics/demographics/disability
+6. Mexican population, Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/mexican
+7. ACS 2024 five-year, table B03001, Minnesota, counties and cities, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27,16000US2743000,16000US2758000,05000US27053,05000US27123,05000US27003,05000US27037,05000US27109,05000US27163
+8. ACS 2024 five-year, table B03001, all Minnesota counties, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=050%7C04000US27
+9. ACS 2024 one-year, table B03001, Minnesota, Census Reporter, https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B03001&geo_ids=04000US27
+10. ACS 2024 five-year, table B05006 (place of birth), Minnesota, Census Reporter, https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27
+11. A Portrait of Hispanic/Latine Minnesotans (March 2023), Minnesota Council on Latino Affairs, https://mn.gov/mcla/assets/03_31_23%20-%20Demographic%20Report%20-%20MCLA_tcm1099-602196.pdf
+12. 10 facts about Cubans in the U.S. (May 7, 2026), Pew Research Center, https://www.pewresearch.org/short-reads/2026/05/07/10-facts-about-cubans-in-the-u-s/
+13. Cubans in Minnesota ready for warmer U.S. relations (Dec. 18, 2014), MPR News, https://www.mprnews.org/story/2014/12/18/cuba-minnesota
+14. Cuban in Minnesota: Engaging Memoir Tells Marisella Veiga's Family Journey, NBC News, https://www.nbcnews.com/news/latino/cuban-minnesota-engaging-memoir-tells-marisella-veiga-s-family-journey-n583291
+15. Positively Gay Cuban Refugee Task Force, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/group/positively-gay-cuban-refugee-task-force
+16. From Mariel to Minnesota: Broken Sponsorships and Queer Cuban Exile in the Upper Midwest (2023), American Historical Association, https://studio.m-anage.com/aha/2023/webprogram/Paper34195.html
+17. Cuban refugees in Minnesota (May 23, 1980), MPR Archive, https://archive.mpr.org/stories/1980/05/23/cuban-refugees-in-minnesota
+18. Cathy Kennedy - Quie on Cubans (June 10, 1980), MPR Archive, https://archive.mpr.org/stories/1980/06/10/cathy-kennedy-quie-on-cubans
+19. A profile on a Cuban cobbler in downtown St. Paul (Sept. 25, 1993), MPR Archive, https://archive.mpr.org/stories/1993/09/25/a-profile-on-a-cuban-cobbler-in-downtown-st-paul
+20. Search results for "cuban", MPR Archive, https://archive.mpr.org/search?q=cuban
+21. Consuelo P. Stacy, Minnesota Historical Election Archive, https://mn.electionarchives.lib.umn.edu/candidate/consuelo-p-stacy
+22. Jose Luciano, Minnesota Historical Election Archive, https://mn.electionarchives.lib.umn.edu/candidate/jose-luciano
+23. Tony Oliva, de camada cubana en Mellizos al Salón, MLB.com en Español, https://www.mlb.com/es/news/tony-oliva-de-camada-cubana-en-mellizos-al-salon
+24. Black History Month: Tony Oliva, una leyenda cubana de los Twins, Unanimo Deportes, https://unanimodeportes.com/black-history-month-herencia/black-history-month-tony-oliva-una-leyenda-cubana-de-los-twins/
+25. Twins Announce Plans for 2026 Minnesota State Fair, Minnesota Twins / MLB.com, https://www.mlb.com/press-release/twins-announce-plans-for-2026-minnesota-state-fair
+26. Zoilo Versalles, SABR Biography Project, https://sabr.org/bioproj/person/zoilo-versalles/
+27. Camilo Pascual, SABR Biography Project, https://sabr.org/bioproj/person/camilo-pascual/
+28. Julio Becquer a member of 1961 Minnesota Twins team passes away (Nov. 6, 2020), Twins Trivia, https://twinstrivia.com/2020/11/06/julio-becquer-a-member-of-1961-minnesota-twins-team-passes-away/
+29. The Cuban Senators and the Twinkie Hall of Famers, The View Level, https://theviewlevel.substack.com/p/the-cuban-senators-and-the-twinkie
+30. Why Is Minnesota's Congressional Delegation So Focused On Cuba? (July 3, 2015), Twin Cities Business, https://tcbmag.com/why-is-minnesotas-congressional-delegation-so-focused-on-cuba/
+31. Eating Cuban in the Twin Cities (May 8, 2015), Minnesota Monthly, https://www.minnesotamonthly.com/food-drink/eating-cuban-in-the-twin-cities/
+32. Victor's 1959 Cafe review, The Infatuation, https://www.theinfatuation.com/minneapolis/reviews/victors-1959-cafe
+33. Our first Diners, Drive-ins and Dives in Minneapolis was Victors 1959 Cafe, Flavortown USA, https://www.flavortownusa.com/posts/4/our-first-diners-drive-ins-and-dives-in-minneapolis-was-victors-1959-cafe-in-2008
+34. Guava's Cuban Cafe (own site), https://www.guavascubancafe.com/
+35. Check out the 3 newest businesses to open in Minneapolis (2018), Hoodline, https://hoodline.com/2018/12/check-out-the-3-newest-businesses-to-open-in-minneapolis/
+36. Cuban restaurants road trip, Family Destinations Guide, https://familydestinationsguide.com/minnesota-delicious-cuban-restaurants/
+37. El Cubano (Shoreline, Wash.), Intentionalist, https://intentionalist.com/b/el-cubano/
+38. Big, authentic tastes from Little Havana (Nov. 11, 2015), Post Bulletin, https://www.postbulletin.com/lifestyle/big-authentic-tastes-from-little-havana
+39. Francisco's shares authentic Caribbean dishes with Rochester (Feb. 2, 2023), Post Bulletin, https://www.postbulletin.com/business/franciscos-shares-authentic-caribbean-dishes-with-rochester
+40. Yuma Fritas is open and serving up 'Cubanish' fare (Dec. 22, 2025), Post Bulletin, https://www.postbulletin.com/business/yuma-fritas-is-open-and-serving-up-cubanish-fare
+41. Nachito Herrera (own site), https://www.nachitoherrera.com/
+42. World-renowned Minnesota jazz musician to headline music festival in Cuba (Jan. 13, 2022), FOX 9, https://www.fox9.com/news/world-renowned-minnesota-jazz-musician-to-headline-music-festival-in-cuba
+43. Cuban star power to electrify the Ordway on Sept. 24 (Sept. 7, 2022), Ordway, https://ordway.org/news/cuban-star-power-to-electrify-the-ordway-on-sept-24/
+44. Caribbean Nights with Charanga Tropical (Sept. 5, 2026 listing), Happening Next, https://happeningnext.com/event/caribbean-nights-with-charanga-tropical-eid1ef0l1ta4uta
+45. Malamanya moves to Cuban son (Sept. 16, 2011), MPR News, https://www.mprnews.org/story/2011/09/16/malamanya-moves-to-cuban-son
+46. Yeniel 'Chini' Perez Domenech, McKnight Artist Fellowships for Dancers and Choreographers, https://www.mcknightdancechoreo.org/fellows//chini-perez
+47. Osnel Delgado, Northrop, University of Minnesota, https://www.northrop.umn.edu/osnel-delgado
+48. Daymé Arocena: All Saints' Day, Walker Art Center, https://www.walkerart.org/reader/dayme-arocena-the-cedar-terrell-lamarr-review/
+49. Minnesota-inspired Cuban American Youth Orchestra launches its first tour (May 18, 2019), MPR News, https://www.mprnews.org/story/2019/05/18/minnesota-cuban-american-youth-orchestra-first-tour
+50. Minnesota Cuban Film Festival archive, MSP Film, https://mspfilm.org/series/minnesota-cuban-film-festival/
+51. Festival de Cine Cubano de Minnesota tiende puentes (April 5, 2026), Prensa Latina, https://www.prensa-latina.cu/2026/04/05/festival-de-cine-cubano-de-minnesota-tiende-puentes/
+52. Minnesota Cuban Film Festival: Fostering Cultural Ties Through Cinema, CubaPLUS Magazine, https://cubaplusmagazine.com/en/news/minnesota-cuban-film-festival-fostering-cultural-ties-through-cinema.html
+53. 16th Minnesota Cuban film festival (2025), MyNortheaster, https://www.mynortheaster.com/event/16th-minnesota-cuban-film-festival/2025-04-30/
+54. 15th Minnesota Cuban Film Festival (2024), MyNortheaster, https://www.mynortheaster.com/event/15th-minnesota-cuban-film-festival/
+55. INTERVIEW: Minnesota Cuban Film Festival, KSTP, https://kstp.com/kstp-news/local-news/interview-minnesota-cuba-film-festival/
+56. Protesters gather in Minneapolis in support of Cuban people amid economic crisis (July 15, 2021), FOX 9, https://www.fox9.com/video/955881
+57. Why a Cuban Content Creator Chooses a Small Town Over Big City Life (Sept. 9, 2026), CubaHeadlines, https://www.cubaheadlines.com/articles/339930
+58. Minnesota tag page, CubaHeadlines, https://www.cubaheadlines.com/tags/minnesota
+59. Young Cuban YouTuber Departs Island, CubaHeadlines, https://www.cubaheadlines.com/articles/303415
+60. 'Operation Metro Surge' to end in Minnesota (Feb. 12, 2026), NPR, https://www.npr.org/2026/02/12/nx-s1-5712552/operation-metro-surge-to-end-in-minnesota
+61. Minnesota Refugee Health Report 2024, Minnesota Department of Health, https://www.health.state.mn.us/communities/rih/stats/24rhrpt.pdf
+62. Minnesota Refugee Health Report 2025, Minnesota Department of Health, https://www.health.state.mn.us/communities/rih/stats/25rhrpt.pdf
+63. Cuban Adjustment Act Practice Advisory (2022), National Immigrant Justice Center, https://immigrationjustice.us/wp-content/uploads/2022/03/Cuban-Adjustment-Practice-Advisory-FINAL.pdf
+64. Cuban Adjustment Act of 1966, Immigration History (University of Texas at Austin), https://immigrationhistory.org/item/cuban-adjustment-act-of-1966/
+65. The Virgen of Charity of Cobre, EWTN, https://www.ewtn.com/catholicism/library/virgen-of-charity-of-cobre--la-virgen-de-la-caridad-del-cobre-8931
+66. Our Lady of Charity, Caridad del Cobre, New York Latin Culture, https://www.newyorklatinculture.com/our-lady-of-charity-caridad-del-cobre/
+67. Caridad de Cobre 2025, Mary, Mother of God Parish (Chicago), https://www.motherofgodchicago.org/parish-news/caridad-de-cobre-2025
+68. Church of the Incarnation / Iglesia de la Encarnación, https://www.incarnationmpls.org/
+69. National Hispanic Heritage Month: 2026, U.S. Census Bureau, https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html
+70. Latino Heritage Month proclamation (Sept. 15, 2022), Office of Governor Tim Walz, https://mn.gov/governor/assets/09.15.22%20Latino%20Heritage%20Month%20%28002%29%20Signed_tcm1055-540650.pdf
+71. Hours and Holidays in Cuba, Cuba Travel, https://www.cuba.travel/en/useful-information/hours-and-holidays
+72. Cuba Public Holidays in 2026, Calendarific, https://calendarific.com/holidays/2026/CU

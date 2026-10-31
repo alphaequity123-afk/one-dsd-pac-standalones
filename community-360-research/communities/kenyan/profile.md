@@ -1,9 +1,8 @@
 # Kenyans in Minnesota
-Checked: October 31, 2026
 
 ## 1. People and place
 
-**How many, and why the counts differ.** Minnesota Compass, using the American Community Survey (ACS) for 2020 to 2024, counts 20,222 Kenyan Minnesotans, give or take 3,897. It places 71.4 percent in the Twin Cities and 28.6 percent in Greater Minnesota, each give or take 7.9 points ([Minnesota Compass, checked Oct. 31, 2026](https://www.mncompass.org/topics/demographics/cultural-communities/kenyan)). Compass builds its cultural communities from a mix of self-reported race, ancestry, birthplace and parents' characteristics, so its count includes U.S.-born children of Kenyan parents ([Minnesota Compass, cultural communities](https://www.mncompass.org/topics/demographics/cultural-communities)). Its separate immigrant-group page lists 13,699 Kenyan immigrants ([Minnesota Compass, by immigrant group](https://www.mncompass.org/topics/demographics/immigration)).
+**How many, and why the counts differ.** Minnesota Compass, using the American Community Survey (ACS) for 2020 to 2024, counts 20,222 Kenyan Minnesotans, give or take 3,897. It places 71.4 percent in the Twin Cities and 28.6 percent in Greater Minnesota, each give or take 7.9 points ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/kenyan)). Compass builds its cultural communities from a mix of self-reported race, ancestry, birthplace and parents' characteristics, so its count includes U.S.-born children of Kenyan parents ([Minnesota Compass, cultural communities](https://www.mncompass.org/topics/demographics/cultural-communities)). Its separate immigrant-group page lists 13,699 Kenyan immigrants ([Minnesota Compass, by immigrant group](https://www.mncompass.org/topics/demographics/immigration)).
 
 The raw Census tables give two narrower counts. In the 2020 to 2024 ACS, 16,726 Minnesotans (give or take 1,615) were born in Kenya, and 9,342 (give or take 1,381) named Kenyan as an ancestry ([ACS B05006 via Census Reporter](https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27); [ACS B04006 via Census Reporter](https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B04006&geo_ids=04000US27)). The single-year 2024 estimate of Kenya-born Minnesotans is 17,309, give or take 3,334 ([ACS 2024 1-year](https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B05006&geo_ids=04000US27)). These are different questions. "Born in Kenya" includes people of every ethnicity born there, including Somali and other refugees who grew up in Kenyan camps. MinnPost noted in 2008 that many Somalis and Ethiopians lived in refugee camps in northeastern Kenya before coming to Minnesota ([MinnPost, Feb. 2008](https://www.minnpost.com/politics-policy/2008/02/minnesotas-east-african-immigrants-watch-horror-and-wait-news-kenya/)), and a 2015 St. Cloud Times story, for example, profiled two Somali friends who grew up in Kenya's Dadaab camp and settled in St. Cloud ([St. Cloud State TODAY, reprinting the St. Cloud Times, July 13, 2015](https://today.stcloudstate.edu/2015/07/13/kenyan-refugee-camp-friendship-rekindled-in-st-cloud/)). The same is true for Oromo Minnesotans: MNopedia writes that after 1992 a wave of Oromo political refugees fled Ethiopia "mainly for Kenya," many later reaching Minnesota, and that Kenya itself has about half a million Oromo people ([MNopedia](https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia)). No published source explains exactly how Compass sorts a Kenya-born Somali Minnesotan, so the overlap between this page and the Somali and Oromo pages cannot be measured. Kenya-born Somali and Oromo Minnesotans are mentioned here only where the Kenyan connection matters; their community life is described on those pages.
 
@@ -192,76 +191,76 @@ No Minnesota clinic tied specifically to the Kenyan community, no Kenyan-specifi
 
 ## Sources
 
-1. Kenyan Minnesota (current page). One DSD. https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan . Checked Oct. 31, 2026.
-2. Kenyan population - Cultural communities. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/cultural-communities/kenyan . Checked Oct. 31, 2026.
-3. Cultural communities. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/cultural-communities . Checked Oct. 31, 2026.
-4. By immigrant group. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/immigration . Checked Oct. 31, 2026.
-5. ACS 2020-2024 5-year, B05006 Place of birth, Minnesota and states. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=040|01000US . Checked Oct. 31, 2026.
-6. ACS 2020-2024 5-year, B05006 Place of birth for the foreign-born, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27 . Checked Oct. 31, 2026.
-7. ACS 2020-2024 5-year, B05006 Place of birth, Minnesota counties. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=050|04000US27 . Checked Oct. 31, 2026.
-8. ACS 2020-2024 5-year, B05006 Place of birth, Minnesota places. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=160|04000US27 . Checked Oct. 31, 2026.
-9. ACS 2020-2024 5-year, B04006 Ancestry, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B04006&geo_ids=04000US27 . Checked Oct. 31, 2026.
-10. ACS 2024 1-year, B05006 Place of birth, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B05006&geo_ids=04000US27 . Checked Oct. 31, 2026.
-11. ACS 2020-2024 5-year, B16001 Language spoken at home, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B16001&geo_ids=04000US27 . Checked Oct. 31, 2026.
-12. Minnesota elects first Kenyan-born state legislator in the country. CBS Minnesota. https://www.cbsnews.com/minnesota/news/minnesota-elects-first-kenyan-born-legislator/ . Checked Oct. 31, 2026.
-13. Minnesota's longest running newspaper serving African immigrants looks to the future. MPR News. https://www.mprnews.org/episode/2022/06/07/minnesotas-longest-running-newspaper-serving-african-immigrants-looks-to-the-future . Checked Oct. 31, 2026.
-14. KWITU chapters. Kenyan Women in the United States (KWITU). https://www.kwitu.org/Kwitu_state_affairs . Checked Oct. 31, 2026.
-15. Staff-strapped Minnesota nursing homes look to new Americans for help. KAXE (from MinnPost). https://www.kaxe.org/minnesota-news/2025-01-10/staff-strapped-minnesota-nursing-homes-look-to-new-americans-for-help . Checked Oct. 31, 2026.
-16. Exploring Global Workforce Solutions in Nairobi, Kenya. LeadingAge Minnesota. https://www.leadingagemn.org/news-insights/exploring-global-workforce-solutions-in-nairobi-kenya/ . Checked Oct. 31, 2026.
-17. How an Eye-Opening Visit to Kenya Led to New Connections and Recruitment of Nursing Staff. LeadingAge. https://leadingage.org/how-an-eye-opening-visit-to-kenya-led-to-new-connections-and-recruitment-of-nursing-staff/ . Checked Oct. 31, 2026.
-18. About Kenyan Community Seventh-day Adventist Church. Kenyan Community SDA Church. https://kenyancommunitymn.adventistchurch.org/about/ . Checked Oct. 31, 2026.
-19. Calendar. Kenyan Community SDA Church. https://kenyancommunitymn.adventistchurch.org/events/ . Checked Oct. 31, 2026.
-20. Our Partners. Holy Trinity Lutheran Church, Minneapolis. https://htlcmpls.org/our-partners/ . Checked Oct. 31, 2026.
-21. New sounds inside the Mighty Fortress. MPR News. https://www.mprnews.org/story/2006/12/21/newmightyfortress . Checked Oct. 31, 2026.
-22. Tamu Grill and catering - Kenyan Restaurant. Tamu Grill. https://tamugrill.com/ . Checked Oct. 31, 2026.
-23. Tamu Grill: Kenyan Food Spotlight. City Cast Twin Cities. https://twincities.citycast.fm/keep-it-local/tamu-grill-kenyan-food-spotlight . Checked Oct. 31, 2026.
-24. Kenyan Musician Converts 1905 American Building Into a Posh Restaurant. Kenyans.co.ke. https://www.kenyans.co.ke/news/77156-kenyan-musician-converts-1905-american-building-posh-restaurant . Checked Oct. 31, 2026.
-25. A plea for Kenya. MPR News. https://www.mprnews.org/story/2008/01/02/a-plea-for-kenya . Checked Oct. 31, 2026.
-26. Huldah Momanyi-Hiltsley - Legislator Record. Minnesota Legislative Reference Library. https://www.lrl.mn.gov/legdb/fulldetail?id=15634 . Checked Oct. 31, 2026.
-27. Minnesota House District 38A 2026: Momanyi-Hiltsley vs. Kistler. The Ballot Brief. https://theballotbrief.com/state/minnesota/hennepin-county/minnesota-house-district-38a . Checked Oct. 31, 2026.
-28. US-based Kenyan named President of Minnesota Medical Association. Bizna Kenya. https://biznakenya.com/dr-edwin-bogonko/ . Checked Oct. 31, 2026.
-29. Past Presidents. Minnesota Medical Association. https://www.mnmed.org/about-us/governance-and-leadership/past-presidents . Checked Oct. 31, 2026.
-30. Mobile Consular Service - Minneapolis, Minnesota. October 8th, 2026 - October 11th, 2026. Embassy of the Republic of Kenya, Washington, D.C.. https://kenyaembassydc.org/mcs-minnesota/ . Checked Oct. 31, 2026.
-31. Kenya Embassy Washington D.C. home page. Embassy of the Republic of Kenya, Washington, D.C.. https://www.kenyaembassydc.org/ . Checked Oct. 31, 2026.
-32. LeadingAge Minnesota Welcomes Honorable Principal Secretary from the Kenya State Department for Diaspora Affairs at Ebenezer Ridges. LeadingAge Minnesota. https://www.leadingagemn.org/news-insights/leadingage-minnesota-welcomes-honorable-principal-secretary-from-the-kenya-state-department-for-diaspora-affairs-at-ebenezer-ridges/ . Checked Oct. 31, 2026.
-33. Pamoja Kenya - Nonprofit Explorer. ProPublica (IRS Form 990 data). https://projects.propublica.org/nonprofits/organizations/472262327 . Checked Oct. 31, 2026.
-34. Mwanyagetinge - Nonprofit Explorer. ProPublica (IRS Form 990 data). https://projects.propublica.org/nonprofits/organizations/201575846 . Checked Oct. 31, 2026.
-35. Rochester Kenyan Community Association - RKCA - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/422068750 . Checked Oct. 31, 2026.
-36. Southwest Minnesota Kenyan Community Welfare Association - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/814438404 . Checked Oct. 31, 2026.
-37. Kenya Rochester Community - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/994622702 . Checked Oct. 31, 2026.
-38. Kenyan Christian Outreach Church - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/841714912 . Checked Oct. 31, 2026.
-39. Kenya Society For Academic Advancement - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/263290257 . Checked Oct. 31, 2026.
-40. Refugee Health Statistics. Minnesota Department of Health. https://www.health.state.mn.us/communities/rih/stats/index.html . Checked Oct. 31, 2026.
-41. Primary Refugee Arrivals by Country of Origin and County (CSV), 1999-2024. Minnesota Department of Health. https://www.health.state.mn.us/communities/rih/stats/country.csv . Checked Oct. 31, 2026.
-42. Thousands of runners compete in Twin Cities Marathon. MPR News. https://www.mprnews.org/story/2017/10/01/two-kenyans-win-twin-cities-marathon . Checked Oct. 31, 2026.
-43. Global Education Annual Report FY24. Minnesota State University, Mankato. https://mankato.mnsu.edu/globalassets/global-education/global-ed-annual-report-fy24.pdf . Checked Oct. 31, 2026.
-44. African Immigrant Organization Holds COVID-19 Vaccination Event. CCX Media. https://ccxmedia.org/news/african-immigrant-organization-holds-covid-19-vaccination-event/ . Checked Oct. 31, 2026.
-45. Search results for kenyan. CCX Media. https://ccxmedia.org/?s=kenyan . Checked Oct. 31, 2026.
-46. Kenyan Immigrant Organization Demands Peaceful Justice. CCX Media. https://ccxmedia.org/news/kenyan-immigrant-organization-demands-peaceful-justice/ . Checked Oct. 31, 2026.
-47. Kenyan Family in Minnesota Finds Success Serving Local Delights. Business Today Kenya. https://businesstoday.co.ke/kenyan-family-thrives-in-minessota-serving-local-delights/ . Checked Oct. 31, 2026.
-48. Karibu Grocery and Deli. Karibu Grocery and Deli. https://karibudeli.com/ . Checked Oct. 31, 2026.
-49. BIPOC/Multicultural Minneapolis Region Media Directory (updated Oct. 15, 2026). Meet Minneapolis. https://www.minneapolis.org/meetings-events/destination-services/planning-services/bipoc-media/ . Checked Oct. 31, 2026.
-50. News and Notes, spring 2025. Metro State University. https://www.metrostate.edu/buzz/spring-2025/news-and-notes . Checked Oct. 31, 2026.
-51. African Rhythms with Salif Keita, Jojo. KFAI via Spinitron. https://spinitron.com/KFAI/show/12952/African-Rhythms . Checked Oct. 31, 2026.
-52. Fear, uncertainty: Trump's immigration crackdown targets East African communities. The African Mirror. https://theafricanmirror.africa/news/fear-uncertainty-trumps-immigration-crackdown-targets-east-african-communities/ . Checked Oct. 31, 2026.
-53. EBOLA: Held at the edges, raging at the core. The African Mirror. https://theafricanmirror.africa/news/kenyas-ebola-fight-held-at-the-edges-raging-at-the-core/ . Checked Oct. 31, 2026.
-54. Oromos in Minnesota: The Making of Little Oromia. MNopedia (Minnesota Historical Society). https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia . Checked Oct. 31, 2026.
-55. Minnesota Racial and Ethnic Communities Survey 2017 (developmental disabilities attitudes). Minnesota Governor's Council on Developmental Disabilities. https://mn.gov/mnddc/extra/customer-research/MN-Racial-Ethnic-Communities-Survey2017.txt . Checked Oct. 31, 2026.
-56. ACS 2020-2024 5-year, C18108 Disability by age, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C18108&geo_ids=04000US27 . Checked Oct. 31, 2026.
-57. Support Augsburg Professor Mzenga Wanyama (Aug. 17, 2018). Women's March Minnesota. https://www.womensmarchmn.com/blog/support-augsburg-professor-mzenga-wanyama/8/17/2018 . Checked Oct. 31, 2026.
-58. Faculty directory (page for Wanyama, Shekela, with full faculty list). Augsburg University. https://www.augsburg.edu/faculty/wanyama-shekela/ . Checked Oct. 31, 2026.
-59. Ethiopian population - Cultural communities. Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities/ethiopian . Checked Oct. 31, 2026.
-60. Liberian population - Cultural communities. Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities/liberian . Checked Oct. 31, 2026.
-61. Kenya Gazette: Official Public Holidays in Kenya (Aug. 15, 2019). Kenyans.co.ke. https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya . Checked Oct. 31, 2026.
-62. Kenyan refugee camp friendship rekindled in St. Cloud (from St. Cloud Times, July 13, 2015). St. Cloud State TODAY. https://today.stcloudstate.edu/2015/07/13/kenyan-refugee-camp-friendship-rekindled-in-st-cloud/ . Checked Oct. 31, 2026.
-63. 2026 Kenya Holidays. CalendarLabs. https://www.calendarlabs.com/holidays/kenya/2026 . Checked Oct. 31, 2026.
-64. Theft of the Blog: Missing the concert. MPR News. https://www.mprnews.org/story/2017/11/10/theft-of-the-blog-missing-the-concert . Checked Oct. 31, 2026.
-65. Minnesota Kenyan International Development Association - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/200803200 . Checked Oct. 31, 2026.
-66. Transportation of remains of a Deceased Kenyan. Embassy of the Republic of Kenya, Washington, D.C.. https://kenyaembassydc.org/transdeceased/ . Checked Oct. 31, 2026.
-67. Mwanyagetinge: Inside Largest Organised Group of Kenyans in Minnesota (Feb. 20, 2023). Kenyans.co.ke. https://www.kenyans.co.ke/news/85894-mwanyagetinge-inside-largest-organised-group-kenyans-minnesota . Checked Oct. 31, 2026.
-68. Kenyans listed for deportation from the US (Dec. 13, 2025). The Star (Kenya). https://www.the-star.co.ke/news/infographics/2025-12-13-kenyans-listed-for-deportation-from-the-us . Checked Oct. 31, 2026.
-69. Ambassador Lazarus Amayo's visit to Minnesota and Consular services outreach programme, Aug. 5-7, 2022. Embassy of the Republic of Kenya, Washington, D.C.. https://kenyaembassydc.org/?p=5456 . Checked Oct. 31, 2026.
-70. Minnesota's East African immigrants watch in horror and wait for news from Kenya (Feb. 2008). MinnPost. https://www.minnpost.com/politics-policy/2008/02/minnesotas-east-african-immigrants-watch-horror-and-wait-news-kenya/ . Checked Oct. 31, 2026.
-71. Meet 3 Kenyans who Vied for Seats in US Elections (Nov. 5, 2020). Kenyans.co.ke. https://www.kenyans.co.ke/news/58882-meet-3-kenyans-who-vied-seats-us-elections . Checked Oct. 31, 2026.
-72. Kenyan-American Seeks City Council Seat in Minnesota (Nov. 2, 2020). VOA Africa. https://www.voaafrica.com/amp/kenyan-american-candidate-talks-minnesota-city-council-/5645213.html . Checked Oct. 31, 2026.
-73. Ebola Virus Disease. Minnesota Department of Health. https://www.health.state.mn.us/diseases/ebola/index.html . Checked Oct. 31, 2026.
+1. Kenyan Minnesota (current page). One DSD. https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/kenyan .
+2. Kenyan population - Cultural communities. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/cultural-communities/kenyan .
+3. Cultural communities. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/cultural-communities .
+4. By immigrant group. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/immigration .
+5. ACS 2020-2024 5-year, B05006 Place of birth, Minnesota and states. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=040|01000US .
+6. ACS 2020-2024 5-year, B05006 Place of birth for the foreign-born, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=04000US27 .
+7. ACS 2020-2024 5-year, B05006 Place of birth, Minnesota counties. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=050|04000US27 .
+8. ACS 2020-2024 5-year, B05006 Place of birth, Minnesota places. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B05006&geo_ids=160|04000US27 .
+9. ACS 2020-2024 5-year, B04006 Ancestry, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B04006&geo_ids=04000US27 .
+10. ACS 2024 1-year, B05006 Place of birth, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_1yr?table_ids=B05006&geo_ids=04000US27 .
+11. ACS 2020-2024 5-year, B16001 Language spoken at home, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=B16001&geo_ids=04000US27 .
+12. Minnesota elects first Kenyan-born state legislator in the country. CBS Minnesota. https://www.cbsnews.com/minnesota/news/minnesota-elects-first-kenyan-born-legislator/ .
+13. Minnesota's longest running newspaper serving African immigrants looks to the future. MPR News. https://www.mprnews.org/episode/2022/06/07/minnesotas-longest-running-newspaper-serving-african-immigrants-looks-to-the-future .
+14. KWITU chapters. Kenyan Women in the United States (KWITU). https://www.kwitu.org/Kwitu_state_affairs .
+15. Staff-strapped Minnesota nursing homes look to new Americans for help. KAXE (from MinnPost). https://www.kaxe.org/minnesota-news/2025-01-10/staff-strapped-minnesota-nursing-homes-look-to-new-americans-for-help .
+16. Exploring Global Workforce Solutions in Nairobi, Kenya. LeadingAge Minnesota. https://www.leadingagemn.org/news-insights/exploring-global-workforce-solutions-in-nairobi-kenya/ .
+17. How an Eye-Opening Visit to Kenya Led to New Connections and Recruitment of Nursing Staff. LeadingAge. https://leadingage.org/how-an-eye-opening-visit-to-kenya-led-to-new-connections-and-recruitment-of-nursing-staff/ .
+18. About Kenyan Community Seventh-day Adventist Church. Kenyan Community SDA Church. https://kenyancommunitymn.adventistchurch.org/about/ .
+19. Calendar. Kenyan Community SDA Church. https://kenyancommunitymn.adventistchurch.org/events/ .
+20. Our Partners. Holy Trinity Lutheran Church, Minneapolis. https://htlcmpls.org/our-partners/ .
+21. New sounds inside the Mighty Fortress. MPR News. https://www.mprnews.org/story/2006/12/21/newmightyfortress .
+22. Tamu Grill and catering - Kenyan Restaurant. Tamu Grill. https://tamugrill.com/ .
+23. Tamu Grill: Kenyan Food Spotlight. City Cast Twin Cities. https://twincities.citycast.fm/keep-it-local/tamu-grill-kenyan-food-spotlight .
+24. Kenyan Musician Converts 1905 American Building Into a Posh Restaurant. Kenyans.co.ke. https://www.kenyans.co.ke/news/77156-kenyan-musician-converts-1905-american-building-posh-restaurant .
+25. A plea for Kenya. MPR News. https://www.mprnews.org/story/2008/01/02/a-plea-for-kenya .
+26. Huldah Momanyi-Hiltsley - Legislator Record. Minnesota Legislative Reference Library. https://www.lrl.mn.gov/legdb/fulldetail?id=15634 .
+27. Minnesota House District 38A 2026: Momanyi-Hiltsley vs. Kistler. The Ballot Brief. https://theballotbrief.com/state/minnesota/hennepin-county/minnesota-house-district-38a .
+28. US-based Kenyan named President of Minnesota Medical Association. Bizna Kenya. https://biznakenya.com/dr-edwin-bogonko/ .
+29. Past Presidents. Minnesota Medical Association. https://www.mnmed.org/about-us/governance-and-leadership/past-presidents .
+30. Mobile Consular Service - Minneapolis, Minnesota. October 8th, 2026 - October 11th, 2026. Embassy of the Republic of Kenya, Washington, D.C. https://kenyaembassydc.org/mcs-minnesota/ .
+31. Kenya Embassy Washington D.C. home page. Embassy of the Republic of Kenya, Washington, D.C. https://www.kenyaembassydc.org/ .
+32. LeadingAge Minnesota Welcomes Honorable Principal Secretary from the Kenya State Department for Diaspora Affairs at Ebenezer Ridges. LeadingAge Minnesota. https://www.leadingagemn.org/news-insights/leadingage-minnesota-welcomes-honorable-principal-secretary-from-the-kenya-state-department-for-diaspora-affairs-at-ebenezer-ridges/ .
+33. Pamoja Kenya - Nonprofit Explorer. ProPublica (IRS Form 990 data). https://projects.propublica.org/nonprofits/organizations/472262327 .
+34. Mwanyagetinge - Nonprofit Explorer. ProPublica (IRS Form 990 data). https://projects.propublica.org/nonprofits/organizations/201575846 .
+35. Rochester Kenyan Community Association - RKCA - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/422068750 .
+36. Southwest Minnesota Kenyan Community Welfare Association - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/814438404 .
+37. Kenya Rochester Community - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/994622702 .
+38. Kenyan Christian Outreach Church - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/841714912 .
+39. Kenya Society For Academic Advancement - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/263290257 .
+40. Refugee Health Statistics. Minnesota Department of Health. https://www.health.state.mn.us/communities/rih/stats/index.html .
+41. Primary Refugee Arrivals by Country of Origin and County (CSV), 1999-2024. Minnesota Department of Health. https://www.health.state.mn.us/communities/rih/stats/country.csv .
+42. Thousands of runners compete in Twin Cities Marathon. MPR News. https://www.mprnews.org/story/2017/10/01/two-kenyans-win-twin-cities-marathon .
+43. Global Education Annual Report FY24. Minnesota State University, Mankato. https://mankato.mnsu.edu/globalassets/global-education/global-ed-annual-report-fy24.pdf .
+44. African Immigrant Organization Holds COVID-19 Vaccination Event. CCX Media. https://ccxmedia.org/news/african-immigrant-organization-holds-covid-19-vaccination-event/ .
+45. Search results for kenyan. CCX Media. https://ccxmedia.org/?s=kenyan .
+46. Kenyan Immigrant Organization Demands Peaceful Justice. CCX Media. https://ccxmedia.org/news/kenyan-immigrant-organization-demands-peaceful-justice/ .
+47. Kenyan Family in Minnesota Finds Success Serving Local Delights. Business Today Kenya. https://businesstoday.co.ke/kenyan-family-thrives-in-minessota-serving-local-delights/ .
+48. Karibu Grocery and Deli. Karibu Grocery and Deli. https://karibudeli.com/ .
+49. BIPOC/Multicultural Minneapolis Region Media Directory (updated Oct. 15, 2026). Meet Minneapolis. https://www.minneapolis.org/meetings-events/destination-services/planning-services/bipoc-media/ .
+50. News and Notes, spring 2025. Metro State University. https://www.metrostate.edu/buzz/spring-2025/news-and-notes .
+51. African Rhythms with Salif Keita, Jojo. KFAI via Spinitron. https://spinitron.com/KFAI/show/12952/African-Rhythms .
+52. Fear, uncertainty: Trump's immigration crackdown targets East African communities. The African Mirror. https://theafricanmirror.africa/news/fear-uncertainty-trumps-immigration-crackdown-targets-east-african-communities/ .
+53. EBOLA: Held at the edges, raging at the core. The African Mirror. https://theafricanmirror.africa/news/kenyas-ebola-fight-held-at-the-edges-raging-at-the-core/ .
+54. Oromos in Minnesota: The Making of Little Oromia. MNopedia (Minnesota Historical Society). https://www.mnhs.org/mnopedia/search/index/oromos-minnesota-making-little-oromia .
+55. Minnesota Racial and Ethnic Communities Survey 2017 (developmental disabilities attitudes). Minnesota Governor's Council on Developmental Disabilities. https://mn.gov/mnddc/extra/customer-research/MN-Racial-Ethnic-Communities-Survey2017.txt .
+56. ACS 2020-2024 5-year, C18108 Disability by age, Minnesota. U.S. Census Bureau via Census Reporter API. https://api.censusreporter.org/1.0/data/show/acs2024_5yr?table_ids=C18108&geo_ids=04000US27 .
+57. Support Augsburg Professor Mzenga Wanyama (Aug. 17, 2018). Women's March Minnesota. https://www.womensmarchmn.com/blog/support-augsburg-professor-mzenga-wanyama/8/17/2018 .
+58. Faculty directory (page for Wanyama, Shekela, with full faculty list). Augsburg University. https://www.augsburg.edu/faculty/wanyama-shekela/ .
+59. Ethiopian population - Cultural communities. Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities/ethiopian .
+60. Liberian population - Cultural communities. Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities/liberian .
+61. Kenya Gazette: Official Public Holidays in Kenya (Aug. 15, 2019). Kenyans.co.ke. https://www.kenyans.co.ke/news/42837-kenya-gazette-official-public-holidays-kenya .
+62. Kenyan refugee camp friendship rekindled in St. Cloud (from St. Cloud Times, July 13, 2015). St. Cloud State TODAY. https://today.stcloudstate.edu/2015/07/13/kenyan-refugee-camp-friendship-rekindled-in-st-cloud/ .
+63. 2026 Kenya Holidays. CalendarLabs. https://www.calendarlabs.com/holidays/kenya/2026 .
+64. Theft of the Blog: Missing the concert. MPR News. https://www.mprnews.org/story/2017/11/10/theft-of-the-blog-missing-the-concert .
+65. Minnesota Kenyan International Development Association - Nonprofit Explorer. ProPublica (IRS data). https://projects.propublica.org/nonprofits/organizations/200803200 .
+66. Transportation of remains of a Deceased Kenyan. Embassy of the Republic of Kenya, Washington, D.C. https://kenyaembassydc.org/transdeceased/ .
+67. Mwanyagetinge: Inside Largest Organised Group of Kenyans in Minnesota (Feb. 20, 2023). Kenyans.co.ke. https://www.kenyans.co.ke/news/85894-mwanyagetinge-inside-largest-organised-group-kenyans-minnesota .
+68. Kenyans listed for deportation from the US (Dec. 13, 2025). The Star (Kenya). https://www.the-star.co.ke/news/infographics/2025-12-13-kenyans-listed-for-deportation-from-the-us .
+69. Ambassador Lazarus Amayo's visit to Minnesota and Consular services outreach programme, Aug. 5-7, 2022. Embassy of the Republic of Kenya, Washington, D.C. https://kenyaembassydc.org/?p=5456 .
+70. Minnesota's East African immigrants watch in horror and wait for news from Kenya (Feb. 2008). MinnPost. https://www.minnpost.com/politics-policy/2008/02/minnesotas-east-african-immigrants-watch-horror-and-wait-news-kenya/ .
+71. Meet 3 Kenyans who Vied for Seats in US Elections (Nov. 5, 2020). Kenyans.co.ke. https://www.kenyans.co.ke/news/58882-meet-3-kenyans-who-vied-seats-us-elections .
+72. Kenyan-American Seeks City Council Seat in Minnesota (Nov. 2, 2020). VOA Africa. https://www.voaafrica.com/amp/kenyan-american-candidate-talks-minnesota-city-council-/5645213.html .
+73. Ebola Virus Disease. Minnesota Department of Health. https://www.health.state.mn.us/diseases/ebola/index.html .

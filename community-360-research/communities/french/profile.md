@@ -1,11 +1,10 @@
 # French-Heritage and French-Speaking Communities in Minnesota
-Checked: October 31, 2026
 
 This page covers three groups that overlap but are not the same. The largest is Minnesotans whose families came, often many generations ago, from French Canada or France. A much smaller group is recent arrivals from France, Belgium, Switzerland, Quebec and other parts of Canada. A third group speaks French because of where they or their parents grew up, in Haiti or in French-speaking countries of West and Central Africa, where French is often a school and government language alongside another home language. Each group has its own history, and the evidence for each is very different in size and quality.
 
 ## 1. People and place
 
-**How many claim French roots.** The American Community Survey asks people to name their ancestry. In the 2025 one-year survey, 127,624 Minnesotans (give or take 6,530) named French ancestry, other than Basque, and 34,940 (give or take 3,878) named French Canadian. Another 12,303 named Belgian, 14,922 Swiss, 6,130 Canadian and 2,167 Haitian, the last with a wide margin of 1,066 ([U.S. Census Bureau, ACS 2025, table B04006, checked Oct. 31, 2026](https://data.census.gov/table/ACSDT1Y2025.B04006?g=040XX00US27)). People may give two ancestries, so these counts overlap and cannot simply be added. The steadier five-year survey for 2020 to 2024 gives 150,045 French and 41,490 French Canadian ([ACS 2020-2024, B04006](https://data.census.gov/table/ACSDT5Y2024.B04006?g=040XX00US27)).
+**How many claim French roots.** The American Community Survey asks people to name their ancestry. In the 2025 one-year survey, 127,624 Minnesotans (give or take 6,530) named French ancestry, other than Basque, and 34,940 (give or take 3,878) named French Canadian. Another 12,303 named Belgian, 14,922 Swiss, 6,130 Canadian and 2,167 Haitian, the last with a wide margin of 1,066 ([U.S. Census Bureau, ACS 2025, table B04006](https://data.census.gov/table/ACSDT1Y2025.B04006?g=040XX00US27)). People may give two ancestries, so these counts overlap and cannot simply be added. The steadier five-year survey for 2020 to 2024 gives 150,045 French and 41,490 French Canadian ([ACS 2020-2024, B04006](https://data.census.gov/table/ACSDT5Y2024.B04006?g=040XX00US27)).
 
 **Fewer people name it each decade.** In the 2006 to 2010 survey, 214,073 Minnesotans named French ancestry and 54,739 French Canadian ([ACS 2006-2010, B04006](https://data.census.gov/table/ACSDT5Y2010.B04006?g=040XX00US27)). By 2011 to 2015 the counts were 184,336 and 53,052 ([ACS 2011-2015, B04006](https://data.census.gov/table/ACSDT5Y2015.B04006?g=040XX00US27)). Ancestry is self-reported, and the survey does not say why fewer people now name a French line. Over the same years, people naming Haitian ancestry rose from about 710 to about 2,783, though the margins on those small numbers are wide.
 
@@ -15,7 +14,7 @@ This page covers three groups that overlap but are not the same. The largest is 
 
 **Who speaks French at home.** About 16,918 Minnesotans age 5 and older speak French (including Cajun) at home, and 4,906 of them speak English less than "very well." Another 1,914 speak Haitian Creole at home ([ACS 2020-2024, B16001](https://data.census.gov/table/ACSDT5Y2024.B16001?g=040XX00US27)). The 2025 one-year survey, which groups the two, counts 19,643 speakers of "French, Haitian or Cajun," with a margin of 4,986 ([ACS 2025, C16001](https://data.census.gov/table/ACSDT1Y2025.C16001?g=040XX00US27)). Only 2.6 percent of Minnesotans of French ancestry speak a language other than English at home ([ACS 2025, S0201](https://data.census.gov/table/ACSSPP1Y2025.S0201?g=040XX00US27&t=533)). In other words, most people of French descent speak English at home, and many people who speak French at home are not of French descent.
 
-**Where.** In the 2020 to 2024 survey, the largest numbers of people naming French ancestry live in Hennepin (34,876), Ramsey (14,350), Dakota (11,314), Anoka (10,132) and Washington (9,632) counties. As a share of the population, the French imprint is strongest in the northwest. In Red Lake County, 14.6 percent of residents name French ancestry and another 4.5 percent French Canadian. Marshall, Polk and Pennington counties follow, at about 5 to 6 percent French ([ACS 2020-2024, B04006 by county](https://data.census.gov/table/ACSDT5Y2024.B04006?g=040XX00US27)). Place names carry the history: Little Canada in Ramsey County; Gentilly, Terrebonne, Huot, Lambert and Lafontaine in the Polk and Red Lake County area ([Papen, Canadian Journal of Applied Linguistics, checked Oct. 31, 2026](https://journals.lib.unb.ca/index.php/CJAL/article/download/19766/21474/26177)); and Faribault, named for Alexander Faribault, son of a Quebec-born fur trader ([MNHS Historic Sibley Site](https://www.mnhs.org/sibley/learn/jean-baptiste-faribault)).
+**Where.** In the 2020 to 2024 survey, the largest numbers of people naming French ancestry live in Hennepin (34,876), Ramsey (14,350), Dakota (11,314), Anoka (10,132) and Washington (9,632) counties. As a share of the population, the French imprint is strongest in the northwest. In Red Lake County, 14.6 percent of residents name French ancestry and another 4.5 percent French Canadian. Marshall, Polk and Pennington counties follow, at about 5 to 6 percent French ([ACS 2020-2024, B04006 by county](https://data.census.gov/table/ACSDT5Y2024.B04006?g=040XX00US27)). Place names carry the history: Little Canada in Ramsey County; Gentilly, Terrebonne, Huot, Lambert and Lafontaine in the Polk and Red Lake County area ([Papen, Canadian Journal of Applied Linguistics](https://journals.lib.unb.ca/index.php/CJAL/article/download/19766/21474/26177)); and Faribault, named for Alexander Faribault, son of a Quebec-born fur trader ([MNHS Historic Sibley Site](https://www.mnhs.org/sibley/learn/jean-baptiste-faribault)).
 
 **How they came: the fur trade.** MNopedia describes the fur trade that tied this region to Montreal from the 1600s to the 1850s. It was built on alliances with Dakota and Ojibwe nations and later on the North West Company's depot at Grand Portage. MNopedia says most of the voyageurs who paddled the trade goods were French Canadians "from impoverished backgrounds," many of whom ended up in debt to company stores ([MNopedia, Fur Trade in Minnesota](https://www.mnhs.org/mnopedia/search/index/fur-trade-minnesota)).
 
@@ -27,7 +26,7 @@ This page covers three groups that overlap but are not the same. The largest is 
 
 **Generations and language loss.** As early as the 1880s, *Echo de l'Ouest* complained about families who anglicized names, such as Dubois to Wood. Around 1900 an editorial gave three reasons French was fading: jobs required English, politics ran in English, and educated French speakers stayed in Quebec ([MNHS](https://www.mnhs.org/newspapers/hub/echo-de-louest)). Papen reports a 1980 study in Red Lake Falls in which 70 percent of 39 people interviewed said French was their first language. All of them were 50 or older; everyone younger named English ([Papen, CJAL](https://journals.lib.unb.ca/index.php/CJAL/article/download/19766/21474/26177)).
 
-**Newer French speakers.** Today's French-speaking newcomers include people who move for work or study, and a volunteer group called Minnesota Accueil that welcomes French speakers, runs family groups and organizes picnics ([Minnesota Accueil, checked Oct. 31, 2026](https://www.minnesotaaccueil.com/actualites.html)). They also include people from Haiti, Togo, Senegal, Congo, Cameroon and other countries, many of whom use another language at home. The Senegalese Association of Minnesota, for example, teaches Wolof to children ([Senegalese Association of Minnesota](https://senegalesemn.com/)). A Togolese language workshop at the Alliance Française in 2024 covered French, Ewe, Kabye and Aja ([Alliance Française, Mois de la Francophonie 2024](https://www.afmsp.org/mois-de-la-francophonie-2024)).
+**Newer French speakers.** Today's French-speaking newcomers include people who move for work or study, and a volunteer group called Minnesota Accueil that welcomes French speakers, runs family groups and organizes picnics ([Minnesota Accueil](https://www.minnesotaaccueil.com/actualites.html)). They also include people from Haiti, Togo, Senegal, Congo, Cameroon and other countries, many of whom use another language at home. The Senegalese Association of Minnesota, for example, teaches Wolof to children ([Senegalese Association of Minnesota](https://senegalesemn.com/)). A Togolese language workshop at the Alliance Française in 2024 covered French, Ewe, Kabye and Aja ([Alliance Française, Mois de la Francophonie 2024](https://www.afmsp.org/mois-de-la-francophonie-2024)).
 
 ## 2. All walks of life
 
@@ -225,98 +224,98 @@ These dates appear in calendar-entries.json with their sources.
 
 ## Sources
 
-1. French-speaking Minnesota (current page). One DSD People, Access and Culture. https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french . Checked Oct. 31, 2026.
-2. People Reporting Ancestry, Minnesota (B04006), ACS 2025 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT1Y2025.B04006?g=040XX00US27 . Checked Oct. 31, 2026.
-3. People Reporting Ancestry, Minnesota and counties (B04006), ACS 2020-2024 5-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2024.B04006?g=040XX00US27 . Checked Oct. 31, 2026.
-4. Place of Birth for the Foreign-Born Population (B05006), Minnesota, ACS 2020-2024 5-year and 2025 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2024.B05006?g=040XX00US27 . Checked Oct. 31, 2026.
-5. Language Spoken at Home (B16001), Minnesota, ACS 2020-2024 5-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2024.B16001?g=040XX00US27 . Checked Oct. 31, 2026.
-6. Language Spoken at Home (C16001), Minnesota, ACS 2025 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT1Y2025.C16001?g=040XX00US27 . Checked Oct. 31, 2026.
-7. Selected Population Profile (S0201), French (except Basque) ancestry, Minnesota, ACS 2025 and 2024 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSSPP1Y2025.S0201?g=040XX00US27&t=533 . Checked Oct. 31, 2026.
-8. La Société Canadienne-Française du Minnesota. Chez Nous (Dick Bernard). https://chez-nous.net/aboutla.html . Checked Oct. 31, 2026.
-9. La Société Events. Chez Nous. https://chez-nous.net/fc_events.html . Checked Oct. 31, 2026.
-10. Generations of Minnesotans are now Canadian citizens through their ancestry and don't know it yet. CIC News. https://www.cicnews.com/2026/10/generations-of-minnesotans-may-now-be-canadian-citizens-through-their-ancestry-and-not-know-it-yet-1081081.html . Checked Oct. 31, 2026.
-11. Echo de l'Ouest. Minnesota Historical Society, Minnesota Digital Newspaper Hub. https://www.mnhs.org/newspapers/hub/echo-de-louest . Checked Oct. 31, 2026.
-12. Bastille Day 2026. Alliance Française Mpls/St Paul. https://www.afmsp.org/bastille-day-2026-afmsp . Checked Oct. 31, 2026.
-13. Mission & History. Alliance Française Mpls/St Paul. https://www.afmsp.org/mission . Checked Oct. 31, 2026.
-14. AFMSP50. Alliance Française Mpls/St Paul. https://www.afmsp.org/afmsp50 . Checked Oct. 31, 2026.
-15. Honorary Consul of France. Alliance Française Mpls/St Paul. https://www.afmsp.org/honorary-consul-of-france . Checked Oct. 31, 2026.
-16. 2020-2021 French Resource Directory. Alliance Française Mpls/St Paul. https://www.afmsp.org/s/frdtopost.pdf . Checked Oct. 31, 2026.
-17. Come Celebrate the French-American Heritage Foundation's 10-Year Anniversary. Church of St. Louis, King of France. https://stlouiskingoffrance.org/calendar/come-celebrate-the-french-american-heritage-foundations-10-year-anniversary/ . Checked Oct. 31, 2026.
-18. Fur Trade in Minnesota. MNopedia, Minnesota Historical Society. https://www.mnhs.org/mnopedia/search/index/fur-trade-minnesota . Checked Oct. 31, 2026.
-19. Our Lady of Lourdes Catholic Church. Archdiocese of Saint Paul and Minneapolis. https://www.archspm.org/location/our-lady-of-lourdes-catholic-church/ . Checked Oct. 31, 2026.
-20. History of Our Church. Church of St. Louis, King of France. https://stlouiskingoffrance.org/our-church/history-of-our-church/ . Checked Oct. 31, 2026.
-21. St Louis, King of France Catholic Church. Archdiocese of Saint Paul and Minneapolis. https://www.archspm.org/location/st-louis-king-of-france-catholic-church/ . Checked Oct. 31, 2026.
-22. TPS ruling is a blow to Minnesota's Haitian community, with some already leaving. Sahan Journal. https://sahanjournal.com/immigration/supreme-court-ends-tps-haiti-minnesota/ . Checked Oct. 31, 2026.
-23. Minnesota's Haitian community at risk for deportation as Trump ends TPS designation. Sahan Journal. https://sahanjournal.com/immigration/tps-ends-haiti-minnesota-deportation/ . Checked Oct. 31, 2026.
-24. Minnesota Haitians worry about what comes as next as TPS protections end. MPR News. https://www.mprnews.org/story/2026/07/16/minnesota-haitians-worry-about-what-comes-as-next-as-tps-protections-end . Checked Oct. 31, 2026.
-25. Afoutayi Ayiti - Haiti Flag Day Celebration - May 17. DanceMN. https://dancemn.org/submissions/afoutayi-ayiti-haiti-flag-day-celebration/ . Checked Oct. 31, 2026.
-26. Afoutayi Haitian Dance, Music and Arts Company (home page). Afoutayi. https://www.afoutayidmaco.com/ . Checked Oct. 31, 2026.
-27. Mes Amis French School. Mes Amis French School. https://mesamisfrenchschool.org/ . Checked Oct. 31, 2026.
-28. L'Etoile du Nord French Immersion. Saint Paul Public Schools. https://frenchimmersion.spps.org/ . Checked Oct. 31, 2026.
-29. Notre École. Notre École. https://www.notreecole.org/ . Checked Oct. 31, 2026.
-30. Normandale Elementary School. Edina Public Schools. https://normandale.edinaschools.org/ . Checked Oct. 31, 2026.
-31. Lac du Bois French Language Village. Concordia Language Villages. https://www.concordialanguagevillages.org/languages/french/ . Checked Oct. 31, 2026.
-32. Minnesota Accueil (home and Actualités). Minnesota Accueil. https://www.minnesotaaccueil.com/actualites.html . Checked Oct. 31, 2026.
-33. Lumières Françaises Presents: Eric Rohmer's Six Moral Tales. MSP Film. https://mspfilm.org/series/lumieres-francaises/ . Checked Oct. 31, 2026.
-34. About Us, Canadian Days. City of Little Canada. https://www.canadiandays.org/433/About-Us . Checked Oct. 31, 2026.
-35. Penny Press Machine (news, Oct. 22, 2026). City of Little Canada. https://www.canadiandays.org/m/newsflash/home/detail/653 . Checked Oct. 31, 2026.
-36. Photo Gallery, Canadian Days. City of Little Canada. https://www.canadiandays.org/449/Photo-Gallery . Checked Oct. 31, 2026.
-37. Historical Society. City of Little Canada. https://www.canadiandays.org/244/Historical-Society . Checked Oct. 31, 2026.
-38. Little Canada's History. City of Little Canada / Little Canada Historical Society. https://www.canadiandays.org/284/Little-Canadas-History . Checked Oct. 31, 2026.
-39. Gervais Grist Mill Site. City of Little Canada. https://www.canadiandays.org/262/Gervais-Grist-Mill-Site . Checked Oct. 31, 2026.
-40. Les parlers français oubliés d'Amérique : le franco-minnesotain et le franco-dakotain (Papen, RCLA/CJAL 9,2). Canadian Journal of Applied Linguistics, University of New Brunswick. https://journals.lib.unb.ca/index.php/CJAL/article/download/19766/21474/26177 . Checked Oct. 31, 2026.
-41. Les ouvriers canadiens-français du Capitole du Minnesota (1895-1905) / The French-Canadian Workers of the Minnesota Capitol. Université de Saint-Boniface, Migrations francophones (Yves Frenette and John Willis, Feb. 6, 2018). https://migrationsfrancophones.ustboniface.ca/wp-content/uploads/2024/01/Vignette1_Capitol_18mars18.pdf . Checked Oct. 31, 2026.
-42. Language Blocks (LB) Required in Documents Available to the General Public policy. Minnesota Department of Human Services. https://mn.gov/dhs/assets/language-block-required-documents-available-general-public_tcm1053-646949.pdf . Checked Oct. 31, 2026.
-43. Study of Translated Material Needs, Driver and Vehicle Services (January 2026). Minnesota Department of Public Safety, via Legislative Reference Library. https://www.lrl.mn.gov/docs/2026/mandated/260600/Report.pdf . Checked Oct. 31, 2026.
-44. Small in numbers, Cameroonian community is beginning to make a mark on Minnesota. Sahan Journal (June 5, 2024). https://sahanjournal.com/immigration/minnesota-cameroonian-community-more-than-doubles/ . Checked Oct. 31, 2026.
-45. Mois de la Francophonie 2024. Alliance Française Mpls/St Paul. https://www.afmsp.org/mois-de-la-francophonie-2024 . Checked Oct. 31, 2026.
-46. Senegalese Association of Minnesota (home). Senegalese Association of Minnesota. https://senegalesemn.com/ . Checked Oct. 31, 2026.
-47. Diaspora Forces (home). Diaspora Forces. https://diasporaforces.org/ . Checked Oct. 31, 2026.
-48. Jean-Baptiste Faribault. Minnesota Historical Society, Historic Sibley Site. https://www.mnhs.org/sibley/learn/jean-baptiste-faribault . Checked Oct. 31, 2026.
-49. Minneapolis Tours Sister Cities. Alliance Française Mpls/St Paul. https://www.afmsp.org/mplstours-sistercities . Checked Oct. 31, 2026.
-50. Mois de la Francophonie 2026 (Tunisia) and 2025 (Laos). Alliance Française Mpls/St Paul. https://www.afmsp.org/mois-de-la-francophonie-2026 . Checked Oct. 31, 2026.
-51. Hmong pastry chef Marc Heu wants to share his love of French pastries with new audiences. Sahan Journal (2023). https://sahanjournal.com/business-work/marc-heu-patisserie-paris-st-paul-dale-street-hmong-chef/ . Checked Oct. 31, 2026.
-52. Between 2 Urns: Marc Heu (June 26, 2026). Ramsey County, Between 2 Urns podcast (Buzzsprout). https://www.buzzsprout.com/2614919/episodes/19406714-between-2-urns-marc-heu . Checked Oct. 31, 2026.
-53. Wintertime Cafés and Bakeries Locals Love Around the Twin Cities (Jan. 22, 2026). Counselor Realty blog. https://vsiskin.counselorrealty.com/blog/2026/01/22/wintertime-cafes-and-bakeries-locals-love-around-the-twin-cities . Checked Oct. 31, 2026.
-54. The 50 Best Restaurants in Minneapolis and St. Paul (2026). Mpls.St.Paul Magazine. https://mspmag.com/eat-and-drink/the-best-restaurants-in-the-twin-cities-2026/ . Checked Oct. 31, 2026.
-55. Thérèse's French Arrival (review). Mpls.St.Paul Magazine. https://mspmag.com/eat-and-drink/restaurant-review-therese-french-arrival/ . Checked Oct. 31, 2026.
-56. Oh Crêpe! (home). Oh Crêpe!. https://www.ohcrepemn.com/ . Checked Oct. 31, 2026.
-57. Patisserie 46 & Rose Street Patisserie (home). Patisserie 46. https://patisserie46.com/ . Checked Oct. 31, 2026.
-58. Patrick's Bakery & Café (home). Patrick's Bakery & Café. https://patricksbakerycafe.com/ . Checked Oct. 31, 2026.
-59. Valerie's French Kitchen (home). Valerie's French Kitchen. https://valeriesfrenchkitchen.com/ . Checked Oct. 31, 2026.
-60. Salut Bar Americain (home). Salut Bar Americain. https://www.salutbaramericain.com/ . Checked Oct. 31, 2026.
-61. Minneapolis Cider Company (home). Minneapolis Cider Company. https://minneapoliscider.com/ . Checked Oct. 31, 2026.
-62. People Reporting Ancestry (B04006), Minnesota, ACS 2006-2010 and 2011-2015 5-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2015.B04006?g=040XX00US27 . Checked Oct. 31, 2026.
-63. Little Canada—Heritage from the French (Margaret Whitney Wall), Ramsey County History vol. 1 no. 2, Fall 1964. Ramsey County Historical Society. https://rchs.com/wp-content/uploads/2015/11/RCHS_Fall1964_Wall.pdf . Checked Oct. 31, 2026.
-64. Place of Birth for the Foreign-Born Population (B05006), Minnesota, ACS 2025 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT1Y2025.B05006?g=040XX00US27 . Checked Oct. 31, 2026.
-65. People Reporting Ancestry (B04006), Minnesota, ACS 2006-2010 5-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2010.B04006?g=040XX00US27 . Checked Oct. 31, 2026.
-66. People Reporting Ancestry (B04006), Minnesota, ACS 2024 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT1Y2024.B04006?g=040XX00US27 . Checked Oct. 31, 2026.
-67. From Pig's Eye to Saint Paul: 175 Years of the Catholic Church in Minnesota. Archdiocese of Saint Paul and Minneapolis. https://www.archspm.org/from-pigs-eye-to-saint-paul-175-years-of-the-catholic-church-in-minnesota/ . Checked Oct. 31, 2026.
-68. Most Reverend Joseph Crétin. Archdiocese of Saint Paul and Minneapolis. https://www.archspm.org/past-bishops/most-reverend-joseph-cretin/ . Checked Oct. 31, 2026.
-69. Minnesota parishes, relief organizations mobilize to support Haiti (CNS, 2021). The Central Minnesota Catholic. https://thecentralminnesotacatholic.org/minnesota-parishes-relief-organizations-mobilize-to-support-haiti/ . Checked Oct. 31, 2026.
-70. Partnership in Practice: Co-Developing Dementia Outreach with the African Immigrant Community. University of Minnesota Office for Public Engagement. https://engagement.umn.edu/content/partnership-practice-co-developing-dementia-outreach-african-immigrant-community . Checked Oct. 31, 2026.
-71. The Immigrant Memory Collaborative (Nkimbeng et al., IJERPH 2022). MDPI, International Journal of Environmental Research and Public Health. https://mdpi-res.com/d_attachment/ijerph/ijerph-19-04075/article_deploy/ijerph-19-04075.pdf . Checked Oct. 31, 2026.
-72. French Heritage in Mendota (event flyer, Aug. 10, 2018). Dakota County Historical Society / City of Mendota. https://www.mendotadakota.org/wp-content/uploads/2018/07/French-in-Mendota-Flyer.pdf . Checked Oct. 31, 2026.
-73. Consulate General of Canada in Minneapolis. Government of Canada. https://www.international.gc.ca/country-pays/us-eu/minneapolis.aspx?lang=eng . Checked Oct. 31, 2026.
-74. Snake River Fur Post to Introduce New Summer Event (June 29, 2026). Minnesota Historical Society. https://www.mnhs.org/media/news/snake-river-fur-post-introduce-new-summer-event . Checked Oct. 31, 2026.
-75. Experience Traditional Winter Fun at the Snake River Fur Post (Dec. 18, 2025). Minnesota Historical Society. https://www.mnhs.org/media/news/winter-frolic-2026-snake-river-fur-post . Checked Oct. 31, 2026.
-76. National Haitian Flag Day Celebration: 2015 Activities in the U.S.. Embassy of Haiti. https://www.haiti.org/national-haitian-flag-day-celebration-2015-activities-in-the-u-s/ . Checked Oct. 31, 2026.
-77. Celebration of Haiti's 212th Year of Independence. Embassy of Haiti. https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/ . Checked Oct. 31, 2026.
-78. M 7.0 - 10 km SE of Léogâne, Haiti (event usp000h60h). U.S. Geological Survey. https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h&format=geojson . Checked Oct. 31, 2026.
-79. Barbette (home). Barbette. https://www.barbette.com/ . Checked Oct. 31, 2026.
-80. The French Académie (home). The French Académie. https://www.thefrenchacademie.org/ . Checked Oct. 31, 2026.
-81. For Haitian Minnesotans, false claims targeting community are a familiar playbook. Sahan Journal (Oct. 7, 2024). https://sahanjournal.com/democracy-politics/haitian-minnesotans-springfield-ohio-rumors-backlash/ . Checked Oct. 31, 2026.
-82. An earthquake brought Djenane Saint Juste to Minnesota where she's built a life teaching Haitian dance. Sahan Journal (July 3, 2024). https://sahanjournal.com/culture-community/afoutayi-haitian-dance-djenane-saint-juste/ . Checked Oct. 31, 2026.
-83. Cultural communities (index). Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities . Checked Oct. 31, 2026.
-84. Respected guide, hunter Pierre Bottineau's legacy in Northeast. Northeaster. https://www.mynortheaster.com/news/respected-guide-hunter-pierre-bottineaus-legacy-in-northeast/ . Checked Oct. 31, 2026.
-85. Selected Population Profile (S0201), French (except Basque) ancestry, Minnesota, ACS 2024 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSSPP1Y2024.S0201?g=040XX00US27&t=533 . Checked Oct. 31, 2026.
-86. Les Petits Livres (home). Les Petits Livres. https://www.lespetitslivres.com/ . Checked Oct. 31, 2026.
-87. International AF Soccer Tournament - Postponed. Alliance Française Mpls/St Paul. https://www.afmsp.org/events/soccertournament . Checked Oct. 31, 2026.
-88. French Resource Directory (page). Alliance Française Mpls/St Paul. https://www.afmsp.org/french-resource-directory . Checked Oct. 31, 2026.
-89. Minnesota Accueil (home). Minnesota Accueil. https://www.minnesotaaccueil.com/ . Checked Oct. 31, 2026.
-90. St. John the Evangelist Catholic Church. City of Little Canada. https://www.canadiandays.org/267/St-John-the-Evangelist-Catholic-Church . Checked Oct. 31, 2026.
-91. Fête nationale du Québec. Gouvernement du Québec. https://www.quebec.ca/culture/fete-nationale . Checked Oct. 31, 2026.
-92. French-American Heritage Month - July 2026. University of Minnesota Office for Equity and Diversity. https://diversity.umn.edu/french-american-heritage-month-july-2026 . Checked Oct. 31, 2026.
-93. Meritage Restaurant & Oyster Bar (home). Meritage. https://meritage-stpaul.com/ . Checked Oct. 31, 2026.
-94. Patisserie Margo (home). Patisserie Margo. https://patisseriemargomn.com/ . Checked Oct. 31, 2026.
-95. Mademoiselle Miel (home and shop). Mademoiselle Miel. https://www.mademoisellemiel.com/ . Checked Oct. 31, 2026.
+1. French-speaking Minnesota (current page). One DSD People, Access and Culture. https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/french .
+2. People Reporting Ancestry, Minnesota (B04006), ACS 2025 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT1Y2025.B04006?g=040XX00US27 .
+3. People Reporting Ancestry, Minnesota and counties (B04006), ACS 2020-2024 5-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2024.B04006?g=040XX00US27 .
+4. Place of Birth for the Foreign-Born Population (B05006), Minnesota, ACS 2020-2024 5-year and 2025 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2024.B05006?g=040XX00US27 .
+5. Language Spoken at Home (B16001), Minnesota, ACS 2020-2024 5-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2024.B16001?g=040XX00US27 .
+6. Language Spoken at Home (C16001), Minnesota, ACS 2025 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT1Y2025.C16001?g=040XX00US27 .
+7. Selected Population Profile (S0201), French (except Basque) ancestry, Minnesota, ACS 2025 and 2024 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSSPP1Y2025.S0201?g=040XX00US27&t=533 .
+8. La Société Canadienne-Française du Minnesota. Chez Nous (Dick Bernard). https://chez-nous.net/aboutla.html .
+9. La Société Events. Chez Nous. https://chez-nous.net/fc_events.html .
+10. Generations of Minnesotans are now Canadian citizens through their ancestry and don't know it yet. CIC News. https://www.cicnews.com/2026/10/generations-of-minnesotans-may-now-be-canadian-citizens-through-their-ancestry-and-not-know-it-yet-1081081.html .
+11. Echo de l'Ouest. Minnesota Historical Society, Minnesota Digital Newspaper Hub. https://www.mnhs.org/newspapers/hub/echo-de-louest .
+12. Bastille Day 2026. Alliance Française Mpls/St Paul. https://www.afmsp.org/bastille-day-2026-afmsp .
+13. Mission & History. Alliance Française Mpls/St Paul. https://www.afmsp.org/mission .
+14. AFMSP50. Alliance Française Mpls/St Paul. https://www.afmsp.org/afmsp50 .
+15. Honorary Consul of France. Alliance Française Mpls/St Paul. https://www.afmsp.org/honorary-consul-of-france .
+16. 2020-2021 French Resource Directory. Alliance Française Mpls/St Paul. https://www.afmsp.org/s/frdtopost.pdf .
+17. Come Celebrate the French-American Heritage Foundation's 10-Year Anniversary. Church of St. Louis, King of France. https://stlouiskingoffrance.org/calendar/come-celebrate-the-french-american-heritage-foundations-10-year-anniversary/ .
+18. Fur Trade in Minnesota. MNopedia, Minnesota Historical Society. https://www.mnhs.org/mnopedia/search/index/fur-trade-minnesota .
+19. Our Lady of Lourdes Catholic Church. Archdiocese of Saint Paul and Minneapolis. https://www.archspm.org/location/our-lady-of-lourdes-catholic-church/ .
+20. History of Our Church. Church of St. Louis, King of France. https://stlouiskingoffrance.org/our-church/history-of-our-church/ .
+21. St Louis, King of France Catholic Church. Archdiocese of Saint Paul and Minneapolis. https://www.archspm.org/location/st-louis-king-of-france-catholic-church/ .
+22. TPS ruling is a blow to Minnesota's Haitian community, with some already leaving. Sahan Journal. https://sahanjournal.com/immigration/supreme-court-ends-tps-haiti-minnesota/ .
+23. Minnesota's Haitian community at risk for deportation as Trump ends TPS designation. Sahan Journal. https://sahanjournal.com/immigration/tps-ends-haiti-minnesota-deportation/ .
+24. Minnesota Haitians worry about what comes as next as TPS protections end. MPR News. https://www.mprnews.org/story/2026/07/16/minnesota-haitians-worry-about-what-comes-as-next-as-tps-protections-end .
+25. Afoutayi Ayiti - Haiti Flag Day Celebration - May 17. DanceMN. https://dancemn.org/submissions/afoutayi-ayiti-haiti-flag-day-celebration/ .
+26. Afoutayi Haitian Dance, Music and Arts Company (home page). Afoutayi. https://www.afoutayidmaco.com/ .
+27. Mes Amis French School. Mes Amis French School. https://mesamisfrenchschool.org/ .
+28. L'Etoile du Nord French Immersion. Saint Paul Public Schools. https://frenchimmersion.spps.org/ .
+29. Notre École. Notre École. https://www.notreecole.org/ .
+30. Normandale Elementary School. Edina Public Schools. https://normandale.edinaschools.org/ .
+31. Lac du Bois French Language Village. Concordia Language Villages. https://www.concordialanguagevillages.org/languages/french/ .
+32. Minnesota Accueil (home and Actualités). Minnesota Accueil. https://www.minnesotaaccueil.com/actualites.html .
+33. Lumières Françaises Presents: Eric Rohmer's Six Moral Tales. MSP Film. https://mspfilm.org/series/lumieres-francaises/ .
+34. About Us, Canadian Days. City of Little Canada. https://www.canadiandays.org/433/About-Us .
+35. Penny Press Machine (news, Oct. 22, 2026). City of Little Canada. https://www.canadiandays.org/m/newsflash/home/detail/653 .
+36. Photo Gallery, Canadian Days. City of Little Canada. https://www.canadiandays.org/449/Photo-Gallery .
+37. Historical Society. City of Little Canada. https://www.canadiandays.org/244/Historical-Society .
+38. Little Canada's History. City of Little Canada / Little Canada Historical Society. https://www.canadiandays.org/284/Little-Canadas-History .
+39. Gervais Grist Mill Site. City of Little Canada. https://www.canadiandays.org/262/Gervais-Grist-Mill-Site .
+40. Les parlers français oubliés d'Amérique : le franco-minnesotain et le franco-dakotain (Papen, RCLA/CJAL 9,2). Canadian Journal of Applied Linguistics, University of New Brunswick. https://journals.lib.unb.ca/index.php/CJAL/article/download/19766/21474/26177 .
+41. Les ouvriers canadiens-français du Capitole du Minnesota (1895-1905) / The French-Canadian Workers of the Minnesota Capitol. Université de Saint-Boniface, Migrations francophones (Yves Frenette and John Willis, Feb. 6, 2018). https://migrationsfrancophones.ustboniface.ca/wp-content/uploads/2024/01/Vignette1_Capitol_18mars18.pdf .
+42. Language Blocks (LB) Required in Documents Available to the General Public policy. Minnesota Department of Human Services. https://mn.gov/dhs/assets/language-block-required-documents-available-general-public_tcm1053-646949.pdf .
+43. Study of Translated Material Needs, Driver and Vehicle Services (January 2026). Minnesota Department of Public Safety, via Legislative Reference Library. https://www.lrl.mn.gov/docs/2026/mandated/260600/Report.pdf .
+44. Small in numbers, Cameroonian community is beginning to make a mark on Minnesota. Sahan Journal (June 5, 2024). https://sahanjournal.com/immigration/minnesota-cameroonian-community-more-than-doubles/ .
+45. Mois de la Francophonie 2024. Alliance Française Mpls/St Paul. https://www.afmsp.org/mois-de-la-francophonie-2024 .
+46. Senegalese Association of Minnesota (home). Senegalese Association of Minnesota. https://senegalesemn.com/ .
+47. Diaspora Forces (home). Diaspora Forces. https://diasporaforces.org/ .
+48. Jean-Baptiste Faribault. Minnesota Historical Society, Historic Sibley Site. https://www.mnhs.org/sibley/learn/jean-baptiste-faribault .
+49. Minneapolis Tours Sister Cities. Alliance Française Mpls/St Paul. https://www.afmsp.org/mplstours-sistercities .
+50. Mois de la Francophonie 2026 (Tunisia) and 2025 (Laos). Alliance Française Mpls/St Paul. https://www.afmsp.org/mois-de-la-francophonie-2026 .
+51. Hmong pastry chef Marc Heu wants to share his love of French pastries with new audiences. Sahan Journal (2023). https://sahanjournal.com/business-work/marc-heu-patisserie-paris-st-paul-dale-street-hmong-chef/ .
+52. Between 2 Urns: Marc Heu (June 26, 2026). Ramsey County, Between 2 Urns podcast (Buzzsprout). https://www.buzzsprout.com/2614919/episodes/19406714-between-2-urns-marc-heu .
+53. Wintertime Cafés and Bakeries Locals Love Around the Twin Cities (Jan. 22, 2026). Counselor Realty blog. https://vsiskin.counselorrealty.com/blog/2026/01/22/wintertime-cafes-and-bakeries-locals-love-around-the-twin-cities .
+54. The 50 Best Restaurants in Minneapolis and St. Paul (2026). Mpls.St.Paul Magazine. https://mspmag.com/eat-and-drink/the-best-restaurants-in-the-twin-cities-2026/ .
+55. Thérèse's French Arrival (review). Mpls.St.Paul Magazine. https://mspmag.com/eat-and-drink/restaurant-review-therese-french-arrival/ .
+56. Oh Crêpe! (home). Oh Crêpe!. https://www.ohcrepemn.com/ .
+57. Patisserie 46 & Rose Street Patisserie (home). Patisserie 46. https://patisserie46.com/ .
+58. Patrick's Bakery & Café (home). Patrick's Bakery & Café. https://patricksbakerycafe.com/ .
+59. Valerie's French Kitchen (home). Valerie's French Kitchen. https://valeriesfrenchkitchen.com/ .
+60. Salut Bar Americain (home). Salut Bar Americain. https://www.salutbaramericain.com/ .
+61. Minneapolis Cider Company (home). Minneapolis Cider Company. https://minneapoliscider.com/ .
+62. People Reporting Ancestry (B04006), Minnesota, ACS 2006-2010 and 2011-2015 5-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2015.B04006?g=040XX00US27 .
+63. Little Canada—Heritage from the French (Margaret Whitney Wall), Ramsey County History vol. 1 no. 2, Fall 1964. Ramsey County Historical Society. https://rchs.com/wp-content/uploads/2015/11/RCHS_Fall1964_Wall.pdf .
+64. Place of Birth for the Foreign-Born Population (B05006), Minnesota, ACS 2025 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT1Y2025.B05006?g=040XX00US27 .
+65. People Reporting Ancestry (B04006), Minnesota, ACS 2006-2010 5-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT5Y2010.B04006?g=040XX00US27 .
+66. People Reporting Ancestry (B04006), Minnesota, ACS 2024 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSDT1Y2024.B04006?g=040XX00US27 .
+67. From Pig's Eye to Saint Paul: 175 Years of the Catholic Church in Minnesota. Archdiocese of Saint Paul and Minneapolis. https://www.archspm.org/from-pigs-eye-to-saint-paul-175-years-of-the-catholic-church-in-minnesota/ .
+68. Most Reverend Joseph Crétin. Archdiocese of Saint Paul and Minneapolis. https://www.archspm.org/past-bishops/most-reverend-joseph-cretin/ .
+69. Minnesota parishes, relief organizations mobilize to support Haiti (CNS, 2021). The Central Minnesota Catholic. https://thecentralminnesotacatholic.org/minnesota-parishes-relief-organizations-mobilize-to-support-haiti/ .
+70. Partnership in Practice: Co-Developing Dementia Outreach with the African Immigrant Community. University of Minnesota Office for Public Engagement. https://engagement.umn.edu/content/partnership-practice-co-developing-dementia-outreach-african-immigrant-community .
+71. The Immigrant Memory Collaborative (Nkimbeng et al., IJERPH 2022). MDPI, International Journal of Environmental Research and Public Health. https://mdpi-res.com/d_attachment/ijerph/ijerph-19-04075/article_deploy/ijerph-19-04075.pdf .
+72. French Heritage in Mendota (event flyer, Aug. 10, 2018). Dakota County Historical Society / City of Mendota. https://www.mendotadakota.org/wp-content/uploads/2018/07/French-in-Mendota-Flyer.pdf .
+73. Consulate General of Canada in Minneapolis. Government of Canada. https://www.international.gc.ca/country-pays/us-eu/minneapolis.aspx?lang=eng .
+74. Snake River Fur Post to Introduce New Summer Event (June 29, 2026). Minnesota Historical Society. https://www.mnhs.org/media/news/snake-river-fur-post-introduce-new-summer-event .
+75. Experience Traditional Winter Fun at the Snake River Fur Post (Dec. 18, 2025). Minnesota Historical Society. https://www.mnhs.org/media/news/winter-frolic-2026-snake-river-fur-post .
+76. National Haitian Flag Day Celebration: 2015 Activities in the U.S. Embassy of Haiti. https://www.haiti.org/national-haitian-flag-day-celebration-2015-activities-in-the-u-s/ .
+77. Celebration of Haiti's 212th Year of Independence. Embassy of Haiti. https://www.haiti.org/celebration-of-haiti-s-212th-year-of-independence/ .
+78. M 7.0 - 10 km SE of Léogâne, Haiti (event usp000h60h). U.S. Geological Survey. https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=usp000h60h&format=geojson .
+79. Barbette (home). Barbette. https://www.barbette.com/ .
+80. The French Académie (home). The French Académie. https://www.thefrenchacademie.org/ .
+81. For Haitian Minnesotans, false claims targeting community are a familiar playbook. Sahan Journal (Oct. 7, 2024). https://sahanjournal.com/democracy-politics/haitian-minnesotans-springfield-ohio-rumors-backlash/ .
+82. An earthquake brought Djenane Saint Juste to Minnesota where she's built a life teaching Haitian dance. Sahan Journal (July 3, 2024). https://sahanjournal.com/culture-community/afoutayi-haitian-dance-djenane-saint-juste/ .
+83. Cultural communities (index). Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities .
+84. Respected guide, hunter Pierre Bottineau's legacy in Northeast. Northeaster. https://www.mynortheaster.com/news/respected-guide-hunter-pierre-bottineaus-legacy-in-northeast/ .
+85. Selected Population Profile (S0201), French (except Basque) ancestry, Minnesota, ACS 2024 1-year. U.S. Census Bureau. https://data.census.gov/table/ACSSPP1Y2024.S0201?g=040XX00US27&t=533 .
+86. Les Petits Livres (home). Les Petits Livres. https://www.lespetitslivres.com/ .
+87. International AF Soccer Tournament - Postponed. Alliance Française Mpls/St Paul. https://www.afmsp.org/events/soccertournament .
+88. French Resource Directory (page). Alliance Française Mpls/St Paul. https://www.afmsp.org/french-resource-directory .
+89. Minnesota Accueil (home). Minnesota Accueil. https://www.minnesotaaccueil.com/ .
+90. St. John the Evangelist Catholic Church. City of Little Canada. https://www.canadiandays.org/267/St-John-the-Evangelist-Catholic-Church .
+91. Fête nationale du Québec. Gouvernement du Québec. https://www.quebec.ca/culture/fete-nationale .
+92. French-American Heritage Month - July 2026. University of Minnesota Office for Equity and Diversity. https://diversity.umn.edu/french-american-heritage-month-july-2026 .
+93. Meritage Restaurant & Oyster Bar (home). Meritage. https://meritage-stpaul.com/ .
+94. Patisserie Margo (home). Patisserie Margo. https://patisseriemargomn.com/ .
+95. Mademoiselle Miel (home and shop). Mademoiselle Miel. https://www.mademoisellemiel.com/ .

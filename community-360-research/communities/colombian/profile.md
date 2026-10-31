@@ -1,9 +1,8 @@
 # Colombians in Minnesota
-Checked: October 31, 2026
 
 ## 1. People and place
 
-**How many.** The Colombian community in Minnesota is small, and every count has a wide margin of error. Minnesota Compass, using the American Community Survey (ACS) for 2020 to 2024, counts 9,853 Colombian Minnesotans, give or take 1,784 ([Minnesota Compass, checked Oct. 31, 2026](https://www.mncompass.org/topics/demographics/cultural-communities/colombian)). Compass builds its cultural-community counts from a mix of self-reported race, ancestry, birthplace and parents' characteristics, so its number can include people who would not show up in a narrower question ([Minnesota Compass, cultural communities](https://www.mncompass.org/topics/demographics/cultural-communities)).
+**How many.** The Colombian community in Minnesota is small, and every count has a wide margin of error. Minnesota Compass, using the American Community Survey (ACS) for 2020 to 2024, counts 9,853 Colombian Minnesotans, give or take 1,784 ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/colombian)). Compass builds its cultural-community counts from a mix of self-reported race, ancestry, birthplace and parents' characteristics, so its number can include people who would not show up in a narrower question ([Minnesota Compass, cultural communities](https://www.mncompass.org/topics/demographics/cultural-communities)).
 
 Other Census tables give different numbers because they ask different questions:
 
@@ -206,68 +205,68 @@ No Colombian-focused disability organization, Colombian disability advocate or D
 
 ## Sources
 
-1. Colombian population, Cultural communities. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/cultural-communities/colombian. Checked Oct. 31, 2026.
-2. Cultural communities. Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities. Checked Oct. 31, 2026.
-3. ACS 2024 1-year, Table B03001, Minnesota. U.S. Census Bureau via Census Reporter. https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27. Checked Oct. 31, 2026.
-4. ACS 2024 1-year, Table B05006, Minnesota. U.S. Census Bureau via Census Reporter. https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27. Checked Oct. 31, 2026.
-5. ACS 2020–2024 5-year, Tables B03001 and B05006, Minnesota counties and cities. U.S. Census Bureau via Census Reporter. https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001,B05006&geo_ids=04000US27,05000US27053,05000US27123,05000US27037,05000US27003,05000US27139,05000US27163,05000US27109,16000US2743000,16000US2758000,16000US2754880. Checked Oct. 31, 2026.
-6. Foreign consul registration card: Colombia. Minnesota Secretary of State, via Legislative Reference Library. https://www.lrl.mn.gov//archive/sos/cards/pdf/foreign_consul_registrations_0001713246.pdf. Checked Oct. 31, 2026.
-7. Letter from the Consulate of Colombia in St. Paul (filed Dec. 14, 1978). Legislative Reference Library. https://www.lrl.mn.gov/archive/sos/film/pdf/31876.pdf. Checked Oct. 31, 2026.
-8. Secretary of State letter to Dr. Fernando Torres, Consul of Colombia (filed June 29, 1987). Legislative Reference Library. https://www.lrl.mn.gov/archive/sos/film/pdf/37377.pdf. Checked Oct. 31, 2026.
-9. Obituario: Académico Dr. Fernando Torres Restrepo. Academia Nacional de Medicina de Colombia, via encolombia.com. https://encolombia.com/medicina/revistas-medicas/academedicina/va-76/obituariodrtorres/. Checked Oct. 31, 2026.
-10. Raul Eduardo Espinosa, M.D. (1927–2022). Mayo Clinic Alumni Association. https://alumniassociation.mayo.edu/obituaries/raul-eduardo-espinosa-m-d-n-61/. Checked Oct. 31, 2026.
-11. Patricia Torres Ray, Legislator Record. Minnesota Legislative Reference Library. https://www.lrl.mn.gov/legdb/fulldetail?id=15249. Checked Oct. 31, 2026.
-12. Senator Patricia Torres Ray to deliver convocation. Carleton College, Oct. 2, 2024. https://www.carleton.edu/news/stories/senator-patricia-torres-ray-to-deliver-convocation-on-immigration-as-a-statement-of-conscience/. Checked Oct. 31, 2026.
-13. Colombia Live: Bringing the rhythm and culture of Colombia to Minnesota. MPR News, Dec. 21, 2023. https://www.mprnews.org/story/2023/12/21/colombia-live-bringing-the-rhythm-and-culture-of-colombia-to-minnesota. Checked Oct. 31, 2026.
-14. Colombia Live: Llevando el ritmo y la cultura de Colombia a Minnesota. MPR News, Dec. 21, 2023. https://www.mprnews.org/story/2023/12/21/colombia-live-llevando-el-ritmo-y-la-cultura-de-colombia-a-minnesota. Checked Oct. 31, 2026.
-15. Colombia Live. GiveMN. https://www.givemn.org/organization/Colombia-Live. Checked Oct. 31, 2026.
-16. Colombia Live MN. Colombia Live. https://www.colombialivemn.com/. Checked Oct. 31, 2026.
-17. Colombia Live. Minnesota State Fair. https://www.mnstatefair.org/schedule/colombia-live. Checked Oct. 31, 2026.
-18. La Mesa Nacional de la Sociedad Civil para las Migraciones se reúne en Minneapolis en noviembre. Colombia.com, Oct. 31, 2024. https://www.colombia.com/colombianos/estados-unidos/mesa-nacional-de-la-sociedad-civil-para-las-migraciones-tendra-su-espacio-en-minnesota-491739. Checked Oct. 31, 2026.
-19. Consulado colombiano de Chicago dictará en Minnesota charla sobre asuntos de asilo. Colombia.com, Nov. 7, 2024. https://www.colombia.com/colombianos/estados-unidos/consulado-colombiano-de-chicago-dictara-en-minnesota-charla-sobre-asuntos-de-asilo-en-eeuu-492675. Checked Oct. 31, 2026.
-20. Top 5 countries of origin for pending asylum cases in Minnesota (data, January 2024). Sahan Journal / Syracuse University TRAC. https://datawrapper.dwcdn.net/3ZICm/4/dataset.csv. Checked Oct. 31, 2026.
-21. State of immigration: Where new Minnesotans have come from. MinnPost, April 4, 2018. https://www.minnpost.com/new-americans-greater-minnesota/2018/04/state-immigration-where-new-minnesotans-have-come-statehood/. Checked Oct. 31, 2026.
-22. Minnesotanos: Latino journeys in Minnesota. MinnPost / MNopedia, Sept. 18, 2023. https://www.minnpost.com/mnopedia/2023/09/minnesotanos-latino-journeys-in-minnesota/. Checked Oct. 31, 2026.
-23. Adopt From Colombia. Children's Home & Lutheran Social Service. https://chlss.org/adoption/international-adoption/colombia/. Checked Oct. 31, 2026.
-24. Colombia Post Adoption. Children's Home & Lutheran Social Service. https://chlss.org/colombia-post-adoption/. Checked Oct. 31, 2026.
-25. From Colombia to Minnesota, Program Seeks Homes for Older Orphans. Better Care Network (Star Tribune summary, Dec. 3, 2014). https://bettercarenetwork.org/news-updates/news/from-colombia-to-minnesota-program-seeks-homes-for-older-orphans. Checked Oct. 31, 2026.
-26. Finding Home: adoption story (Colombia, 2000s). American RadioWorks. https://americanradioworks.publicradio.org/features/adoption/view_story_128263.html. Checked Oct. 31, 2026.
-27. Finding Home: adoption story (Colombia, 1970s). American RadioWorks. https://americanradioworks.publicradio.org/features/adoption/view_story_128174.html. Checked Oct. 31, 2026.
-28. Minnesota woman recently reunited with birth family killed in crash. FOX 9, Dec. 1, 2016. https://www.fox9.com/news/minnesota-woman-recently-reunited-with-birth-family-killed-in-crash. Checked Oct. 31, 2026.
-29. Latin American Restaurants in Minneapolis. Meet Minneapolis. https://www.minneapolis.org/food-drink/international/latin-american/. Checked Oct. 31, 2026.
-30. The Central Avenue District. Meet Minneapolis. https://minneapolis.org/cultural-districts/districts/central-avenue. Checked Oct. 31, 2026.
-31. Maria's Café. https://mariascafe.com/. Checked Oct. 31, 2026.
-32. Cafe Racer Kitchen. https://www.caferacermn.com/. Checked Oct. 31, 2026.
-33. A Conversation In the Cafe. Heavy Table, Dec. 20, 2021. https://heavytable.com/a-conversation-in-the-cafe/. Checked Oct. 31, 2026.
-34. MACONDO. https://macondomn.com/. Checked Oct. 31, 2026.
-35. Angelo Rodriguez Visits Northeast Restaurant La Colonia. Minnesota United FC. https://www.mnufc.com/news/angelo-rodriguez-visits-northeast-restaurant-la-colonia. Checked Oct. 31, 2026.
-36. La Colonia, Minneapolis (review). My Annoying Opinions, May 3, 2018. https://myannoyingopinions.com/2018/05/03/la-colonia-minneapolis/. Checked Oct. 31, 2026.
-37. Your Community. Carleton College Spanish department. https://www.carleton.edu/spanish/resources/community/. Checked Oct. 31, 2026.
-38. Norte Café. https://nortecafe.shop/. Checked Oct. 31, 2026.
-39. Something New is Brewing. Plymouth Magazine, April 2023. https://plymouthmag.com/something-new-is-brewing/. Checked Oct. 31, 2026.
-40. Mi Cartagena Café. https://micartagenacafe.com/. Checked Oct. 31, 2026.
-41. The Picantes of Uncle Simon's Traditions. Heavy Table, July 17, 2017. https://heavytable.com/picantes-uncle-simons-traditions/. Checked Oct. 31, 2026.
-42. Latino businesses uplifting entrepreneurs in Minneapolis community. KSTP, 2022. https://kstp.com/kstp-news/top-news/latino-businesses-uplifting-entrepreneurs-in-minneapolis-community/. Checked Oct. 31, 2026.
-43. In Colombia, Catholic faith runs deep at Christmas. The Globe (Worthington), Dec. 21, 2014. https://www.dglobe.com/news/in-colombia-catholic-faith-runs-deep-at-christmas. Checked Oct. 31, 2026.
-44. Anika Fajardo. The Loft Literary Center. https://loft.org/artists/anika-fajardo. Checked Oct. 31, 2026.
-45. Anika Fajardo: Meet Me Halfway. Las Musas Books, Sept. 13, 2022. https://www.lasmusasbooks.com/blog/anika-fajardo-meet-me-halfway. Checked Oct. 31, 2026.
-46. Día a Día, 2020: One Day At a Time. Twin Cities PBS / Minnesota PBS. https://video.tpt.org/show/dia-dia-2020-one-day-time/. Checked Oct. 31, 2026.
-47. Entrevista de la serie narrativas: Diana. KYMN Radio, Sept. 3, 2023. https://kymnradio.net/2023/09/03/entrevista-con-diana-camargo/. Checked Oct. 31, 2026.
-48. Talking Timberwolves: new president of basketball operations. MPR News, May 4, 2019. https://www.mprnews.org/story/2019/05/04/talking-timberwolves-new-president-of-basketball-operations. Checked Oct. 31, 2026.
-49. Minnesota United sign Colombian superstar James Rodríguez. MLSSoccer.com, Feb. 6, 2026. https://www.mlssoccer.com/news/minnesota-united-sign-colombian-superstar-james-rodriguez. Checked Oct. 31, 2026.
-50. Minnesota United acquire Colombian winger Mauricio González. MLSSoccer.com, January 2026. https://www.mlssoccer.com/news/minnesota-united-acquire-colombian-winger-mauricio-gonzalez. Checked Oct. 31, 2026.
-51. James llega con compañía: los colombianos que ya están en Minnesota United. Noticias RCN, Feb. 10, 2026. https://www.noticiasrcn.com/deportes/colombianos-en-el-minnesota-united-con-james-rodriguez-990043. Checked Oct. 31, 2026.
-52. El Minnesota United oficializa la salida de James Rodríguez. Excélsior, July 21, 2026. https://www.excelsior.com.mx/deportes/minnesota-united-oficializa-salida-james-rodriguez-futuro-colombiano-aire. Checked Oct. 31, 2026.
-53. Minnesota United anunció qué pasará con el colombiano en el club. NTN24, July 21, 2026. https://www.ntn24.com/noticias-deportes/minnesota-united-anuncio-que-pasara-con-james-rodriguez-en-el-club-635014. Checked Oct. 31, 2026.
-54. Gio Urshela. MLB.com. https://www.mlb.com/player/gio-urshela-570482. Checked Oct. 31, 2026.
-55. MCLA 2026 Legislative Session Report. Minnesota Council on Latino Affairs, via Legislative Reference Library. https://www.lrl.mn.gov/docs/2026/other/261121.pdf. Checked Oct. 31, 2026.
-56. ICE arrestó 7.157 colombianos en tan solo siete meses. Vanguardia, Sept. 27, 2026. https://www.vanguardia.com/mundo/2026/09/27/ice-arresto-7157-colombianos-en-tan-solo-siete-meses/. Checked Oct. 31, 2026.
-57. New PACER Center project will support Latino and Somali families. PACER Center, July 17, 2024. https://www.pacer.org/press-release/new-pacer-center-project-will-support-latino-and-somali-families-with-children-on-the-autism-spectrum/. Checked Oct. 31, 2026.
-58. Connecting Communities. Institute on Community Integration, University of Minnesota, March 2024. https://ici.umn.edu/news/connecting-communities. Checked Oct. 31, 2026.
-59. Colombian Parents of Children with Autism Spectrum Disorder. Northeastern Illinois University Digital Commons, 2022. https://neiudc.neiu.edu/sped-pub/10/. Checked Oct. 31, 2026.
-60. Festivos Colombia 2026. Calendario Colombia. https://www.calendario-colombia.com/festivos/. Checked Oct. 31, 2026.
-61. Día de la independencia, 20 de julio de 2026. Calendario Colombia. https://www.calendario-colombia.com/dia/2026-07-20. Checked Oct. 31, 2026.
-62. Día de las velitas, 7 de diciembre de 2026. Calendario Colombia. https://www.calendario-colombia.com/dia/2026-12-07. Checked Oct. 31, 2026.
-63. Inicio de las novenas de Aguinaldos, 16 de diciembre de 2026. Calendario Colombia. https://www.calendario-colombia.com/dia/2026-12-16. Checked Oct. 31, 2026.
-64. Festivos de julio 2026. La FM. https://www.lafm.com.co/sociedad/festivos-colombia-julio-2026-fecha-origen-404388. Checked Oct. 31, 2026.
-65. National Hispanic American Heritage Month 2026. hispanicheritagemonth.gov. https://hispanicheritagemonth.gov/. Checked Oct. 31, 2026.
+1. Colombian population, Cultural communities. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/cultural-communities/colombian.
+2. Cultural communities. Minnesota Compass. https://www.mncompass.org/topics/demographics/cultural-communities.
+3. ACS 2024 1-year, Table B03001, Minnesota. U.S. Census Bureau via Census Reporter. https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001&geo_ids=04000US27.
+4. ACS 2024 1-year, Table B05006, Minnesota. U.S. Census Bureau via Census Reporter. https://api.censusreporter.org/1.0/data/show/latest?table_ids=B05006&geo_ids=04000US27.
+5. ACS 2020–2024 5-year, Tables B03001 and B05006, Minnesota counties and cities. U.S. Census Bureau via Census Reporter. https://api.censusreporter.org/1.0/data/show/latest?table_ids=B03001,B05006&geo_ids=04000US27,05000US27053,05000US27123,05000US27037,05000US27003,05000US27139,05000US27163,05000US27109,16000US2743000,16000US2758000,16000US2754880.
+6. Foreign consul registration card: Colombia. Minnesota Secretary of State, via Legislative Reference Library. https://www.lrl.mn.gov//archive/sos/cards/pdf/foreign_consul_registrations_0001713246.pdf.
+7. Letter from the Consulate of Colombia in St. Paul (filed Dec. 14, 1978). Legislative Reference Library. https://www.lrl.mn.gov/archive/sos/film/pdf/31876.pdf.
+8. Secretary of State letter to Dr. Fernando Torres, Consul of Colombia (filed June 29, 1987). Legislative Reference Library. https://www.lrl.mn.gov/archive/sos/film/pdf/37377.pdf.
+9. Obituario: Académico Dr. Fernando Torres Restrepo. Academia Nacional de Medicina de Colombia, via encolombia.com. https://encolombia.com/medicina/revistas-medicas/academedicina/va-76/obituariodrtorres/.
+10. Raul Eduardo Espinosa, M.D. (1927–2022). Mayo Clinic Alumni Association. https://alumniassociation.mayo.edu/obituaries/raul-eduardo-espinosa-m-d-n-61/.
+11. Patricia Torres Ray, Legislator Record. Minnesota Legislative Reference Library. https://www.lrl.mn.gov/legdb/fulldetail?id=15249.
+12. Senator Patricia Torres Ray to deliver convocation. Carleton College, Oct. 2, 2024. https://www.carleton.edu/news/stories/senator-patricia-torres-ray-to-deliver-convocation-on-immigration-as-a-statement-of-conscience/.
+13. Colombia Live: Bringing the rhythm and culture of Colombia to Minnesota. MPR News, Dec. 21, 2023. https://www.mprnews.org/story/2023/12/21/colombia-live-bringing-the-rhythm-and-culture-of-colombia-to-minnesota.
+14. Colombia Live: Llevando el ritmo y la cultura de Colombia a Minnesota. MPR News, Dec. 21, 2023. https://www.mprnews.org/story/2023/12/21/colombia-live-llevando-el-ritmo-y-la-cultura-de-colombia-a-minnesota.
+15. Colombia Live. GiveMN. https://www.givemn.org/organization/Colombia-Live.
+16. Colombia Live MN. Colombia Live. https://www.colombialivemn.com/.
+17. Colombia Live. Minnesota State Fair. https://www.mnstatefair.org/schedule/colombia-live.
+18. La Mesa Nacional de la Sociedad Civil para las Migraciones se reúne en Minneapolis en noviembre. Colombia.com, Oct. 31, 2024. https://www.colombia.com/colombianos/estados-unidos/mesa-nacional-de-la-sociedad-civil-para-las-migraciones-tendra-su-espacio-en-minnesota-491739.
+19. Consulado colombiano de Chicago dictará en Minnesota charla sobre asuntos de asilo. Colombia.com, Nov. 7, 2024. https://www.colombia.com/colombianos/estados-unidos/consulado-colombiano-de-chicago-dictara-en-minnesota-charla-sobre-asuntos-de-asilo-en-eeuu-492675.
+20. Top 5 countries of origin for pending asylum cases in Minnesota (data, January 2024). Sahan Journal / Syracuse University TRAC. https://datawrapper.dwcdn.net/3ZICm/4/dataset.csv.
+21. State of immigration: Where new Minnesotans have come from. MinnPost, April 4, 2018. https://www.minnpost.com/new-americans-greater-minnesota/2018/04/state-immigration-where-new-minnesotans-have-come-statehood/.
+22. Minnesotanos: Latino journeys in Minnesota. MinnPost / MNopedia, Sept. 18, 2023. https://www.minnpost.com/mnopedia/2023/09/minnesotanos-latino-journeys-in-minnesota/.
+23. Adopt From Colombia. Children's Home & Lutheran Social Service. https://chlss.org/adoption/international-adoption/colombia/.
+24. Colombia Post Adoption. Children's Home & Lutheran Social Service. https://chlss.org/colombia-post-adoption/.
+25. From Colombia to Minnesota, Program Seeks Homes for Older Orphans. Better Care Network (Star Tribune summary, Dec. 3, 2014). https://bettercarenetwork.org/news-updates/news/from-colombia-to-minnesota-program-seeks-homes-for-older-orphans.
+26. Finding Home: adoption story (Colombia, 2000s). American RadioWorks. https://americanradioworks.publicradio.org/features/adoption/view_story_128263.html.
+27. Finding Home: adoption story (Colombia, 1970s). American RadioWorks. https://americanradioworks.publicradio.org/features/adoption/view_story_128174.html.
+28. Minnesota woman recently reunited with birth family killed in crash. FOX 9, Dec. 1, 2016. https://www.fox9.com/news/minnesota-woman-recently-reunited-with-birth-family-killed-in-crash.
+29. Latin American Restaurants in Minneapolis. Meet Minneapolis. https://www.minneapolis.org/food-drink/international/latin-american/.
+30. The Central Avenue District. Meet Minneapolis. https://minneapolis.org/cultural-districts/districts/central-avenue.
+31. Maria's Café. https://mariascafe.com/.
+32. Cafe Racer Kitchen. https://www.caferacermn.com/.
+33. A Conversation In the Cafe. Heavy Table, Dec. 20, 2021. https://heavytable.com/a-conversation-in-the-cafe/.
+34. MACONDO. https://macondomn.com/.
+35. Angelo Rodriguez Visits Northeast Restaurant La Colonia. Minnesota United FC. https://www.mnufc.com/news/angelo-rodriguez-visits-northeast-restaurant-la-colonia.
+36. La Colonia, Minneapolis (review). My Annoying Opinions, May 3, 2018. https://myannoyingopinions.com/2018/05/03/la-colonia-minneapolis/.
+37. Your Community. Carleton College Spanish department. https://www.carleton.edu/spanish/resources/community/.
+38. Norte Café. https://nortecafe.shop/.
+39. Something New is Brewing. Plymouth Magazine, April 2023. https://plymouthmag.com/something-new-is-brewing/.
+40. Mi Cartagena Café. https://micartagenacafe.com/.
+41. The Picantes of Uncle Simon's Traditions. Heavy Table, July 17, 2017. https://heavytable.com/picantes-uncle-simons-traditions/.
+42. Latino businesses uplifting entrepreneurs in Minneapolis community. KSTP, 2022. https://kstp.com/kstp-news/top-news/latino-businesses-uplifting-entrepreneurs-in-minneapolis-community/.
+43. In Colombia, Catholic faith runs deep at Christmas. The Globe (Worthington), Dec. 21, 2014. https://www.dglobe.com/news/in-colombia-catholic-faith-runs-deep-at-christmas.
+44. Anika Fajardo. The Loft Literary Center. https://loft.org/artists/anika-fajardo.
+45. Anika Fajardo: Meet Me Halfway. Las Musas Books, Sept. 13, 2022. https://www.lasmusasbooks.com/blog/anika-fajardo-meet-me-halfway.
+46. Día a Día, 2020: One Day At a Time. Twin Cities PBS / Minnesota PBS. https://video.tpt.org/show/dia-dia-2020-one-day-time/.
+47. Entrevista de la serie narrativas: Diana. KYMN Radio, Sept. 3, 2023. https://kymnradio.net/2023/09/03/entrevista-con-diana-camargo/.
+48. Talking Timberwolves: new president of basketball operations. MPR News, May 4, 2019. https://www.mprnews.org/story/2019/05/04/talking-timberwolves-new-president-of-basketball-operations.
+49. Minnesota United sign Colombian superstar James Rodríguez. MLSSoccer.com, Feb. 6, 2026. https://www.mlssoccer.com/news/minnesota-united-sign-colombian-superstar-james-rodriguez.
+50. Minnesota United acquire Colombian winger Mauricio González. MLSSoccer.com, January 2026. https://www.mlssoccer.com/news/minnesota-united-acquire-colombian-winger-mauricio-gonzalez.
+51. James llega con compañía: los colombianos que ya están en Minnesota United. Noticias RCN, Feb. 10, 2026. https://www.noticiasrcn.com/deportes/colombianos-en-el-minnesota-united-con-james-rodriguez-990043.
+52. El Minnesota United oficializa la salida de James Rodríguez. Excélsior, July 21, 2026. https://www.excelsior.com.mx/deportes/minnesota-united-oficializa-salida-james-rodriguez-futuro-colombiano-aire.
+53. Minnesota United anunció qué pasará con el colombiano en el club. NTN24, July 21, 2026. https://www.ntn24.com/noticias-deportes/minnesota-united-anuncio-que-pasara-con-james-rodriguez-en-el-club-635014.
+54. Gio Urshela. MLB.com. https://www.mlb.com/player/gio-urshela-570482.
+55. MCLA 2026 Legislative Session Report. Minnesota Council on Latino Affairs, via Legislative Reference Library. https://www.lrl.mn.gov/docs/2026/other/261121.pdf.
+56. ICE arrestó 7.157 colombianos en tan solo siete meses. Vanguardia, Sept. 27, 2026. https://www.vanguardia.com/mundo/2026/09/27/ice-arresto-7157-colombianos-en-tan-solo-siete-meses/.
+57. New PACER Center project will support Latino and Somali families. PACER Center, July 17, 2024. https://www.pacer.org/press-release/new-pacer-center-project-will-support-latino-and-somali-families-with-children-on-the-autism-spectrum/.
+58. Connecting Communities. Institute on Community Integration, University of Minnesota, March 2024. https://ici.umn.edu/news/connecting-communities.
+59. Colombian Parents of Children with Autism Spectrum Disorder. Northeastern Illinois University Digital Commons, 2022. https://neiudc.neiu.edu/sped-pub/10/.
+60. Festivos Colombia 2026. Calendario Colombia. https://www.calendario-colombia.com/festivos/.
+61. Día de la independencia, 20 de julio de 2026. Calendario Colombia. https://www.calendario-colombia.com/dia/2026-07-20.
+62. Día de las velitas, 7 de diciembre de 2026. Calendario Colombia. https://www.calendario-colombia.com/dia/2026-12-07.
+63. Inicio de las novenas de Aguinaldos, 16 de diciembre de 2026. Calendario Colombia. https://www.calendario-colombia.com/dia/2026-12-16.
+64. Festivos de julio 2026. La FM. https://www.lafm.com.co/sociedad/festivos-colombia-julio-2026-fecha-origen-404388.
+65. National Hispanic American Heritage Month 2026. hispanicheritagemonth.gov. https://hispanicheritagemonth.gov/.

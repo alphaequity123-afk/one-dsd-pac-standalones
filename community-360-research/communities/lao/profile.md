@@ -1,11 +1,10 @@
 # Lao in Minnesota
-Checked: October 31, 2026
 
 This page is about ethnic Lao Minnesotans, the lowland Lao people of Laos and their descendants. Laos is home to many peoples. Hmong, Khmu, Iu Mien, Tai Dam and others also came to Minnesota from Laos, and the Hmong community has its own page. Bryan Thao Worra, the Lao Minnesotan poet laureate, told MPR News in 2025 that "Laos isn't monolithic" and spoke of more than 160 ethnic groups affected by the war ([MPR News, Apr. 30, 2025](https://www.mprnews.org/episode/2025/04/30/literary-project-shares-history-of-lao-minnesotans)). Names can mislead. The Lao Family Community of Minnesota, for example, has long organized the St. Paul Hmong New Year ([MPR News archive, Nov. 27, 2004](https://archive.mpr.org/stories/2004/11/27/dao-bay-of-the-lao-family-community-on)).
 
 ## 1. People and place
 
-**How many.** Minnesota Compass, using the American Community Survey for 2020 to 2024, counts 14,918 Lao (non-Hmong) Minnesotans, give or take 2,177. It places 69.0 percent in the Twin Cities and 31.0 percent in Greater Minnesota, each give or take 6.6 points ([Minnesota Compass, checked Oct. 31, 2026](https://www.mncompass.org/topics/demographics/cultural-communities/lao-non-hmong)). Pew Research Center, counting only people who name Laotian alone and no other origin in the 2021 to 2023 survey, reports about 9,000 in Minnesota. That places Minnesota third, after California (45,000) and Texas (13,000), out of about 180,000 nationally ([Pew Research Center, May 1, 2025](https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-laotians-in-the-u-s/)). The two counts differ because they ask different questions; Pew notes that 28 percent of Laotian Americans also name another race or origin, and those people drop out of its count. Both are survey estimates with wide margins.
+**How many.** Minnesota Compass, using the American Community Survey for 2020 to 2024, counts 14,918 Lao (non-Hmong) Minnesotans, give or take 2,177. It places 69.0 percent in the Twin Cities and 31.0 percent in Greater Minnesota, each give or take 6.6 points ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/lao-non-hmong)). Pew Research Center, counting only people who name Laotian alone and no other origin in the 2021 to 2023 survey, reports about 9,000 in Minnesota. That places Minnesota third, after California (45,000) and Texas (13,000), out of about 180,000 nationally ([Pew Research Center, May 1, 2025](https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-laotians-in-the-u-s/)). The two counts differ because they ask different questions; Pew notes that 28 percent of Laotian Americans also name another race or origin, and those people drop out of its count. Both are survey estimates with wide margins.
 
 Other figures circulate. The American Immigration Council wrote in 2022 of "13,000+" Lao rebuilding their lives in Minnesota ([American Immigration Council, 2022](https://www.americanimmigrationcouncil.org/story/lao-refugee-becomes-engaged-community-leader-in-minneapolis/)). Sahtu Press put the estimate at 12,000 in 2015 ([Sahtu Press, 2015](https://sahtu.press/articles/national-lao-american-symposium-and-writers-summit-2015)). A 2020 news report quoted the International Institute of Minnesota as counting 15,000 Laotians in the Twin Cities metro ([Forum News Service, Feb. 2020](https://www.inforum.com/news/mccollum-trump-administration-set-to-deport-minnesota-hmong-lao-refugees)). In 2020, Sahan Journal cited a Minnesota Compass estimate of about 17,800 Lao Americans in the state ([Sahan Journal, Feb. 7, 2020](https://sahanjournal.com/immigration/thousands-of-hmong-and-lao-americans-face-deportation-under-trump-proposal/)). In 2025, WCCO reported "around 16,000 Laotian-born Minnesotans" in recent census data, while Lao Assistance Center director Sunny Chanthanouvong said the true number is "much higher" and that a pandemic-era count left the community undercounted ([CBS Minnesota/WCCO, May 8, 2025](https://www.cbsnews.com/minnesota/news/vietnam-war-50-years-later-minnesota-lao-community/)). The Pioneer Press gave about 16,000 Lao in 2025 ([Pioneer Press, Mar. 26, 2025](https://www.yahoo.com/news/articles/families-cambodians-lao-vietnamese-affected-230000000.html)). Community leaders have long said Minnesota has the third-largest Lao population in the country: Chanida Phaengdara Potter in 2013 ([MPR News, Apr. 14, 2013](https://www.mprnews.org/story/2013/04/14/lao-new-year-unites-groups-to-celebrate-together-for-first-time-in-minn)) and Bryan Thao Worra in 2025 ([MPR News, Apr. 30, 2025](https://www.mprnews.org/episode/2025/04/30/literary-project-shares-history-of-lao-minnesotans)). Pew's ranking agrees.
 
@@ -169,8 +168,7 @@ Two cases drew statewide attention. On May 4, 2026, the Board of Pardons met in 
 
 **Food and visibility.** Khâluna has drawn national acclaim ([Joysauce, 2024](https://joysauce.com/why-lao-food-is-booming-in-the-twin-cities/)), and Gai Noi and Soul Lao appear on a 2026 Twin Cities best-restaurant list ([Mpls.St.Paul Magazine, 2026](https://mspmag.com/eat-and-drink/the-best-restaurants-in-the-twin-cities-2026/)).
 
-**Institutions in transition.** The Lao Assistance Center asked the community in June 2026 how its services should change ([Lao Assistance Center, Events](https://www.laocenter.org/event-calendar)). The website of the Lao Arts and Culture Collective, linked from the existing page, was not working on October 31, 2026.
-
+**Institutions in transition.** The Lao Assistance Center asked the community in June 2026 how its services should change ([Lao Assistance Center, Events](https://www.laocenter.org/event-calendar)). The website of the Lao Arts and Culture Collective, linked from the existing page, was not working on
 ## 14. Strengths and contributions
 
 - **Institution building.** Ethnic Lao refugees founded the Lao Assistance Center in 1983, and it has served Lao Minnesotans for more than 40 years ([Lao Assistance Center](https://www.laocenter.org/about)).
@@ -196,102 +194,102 @@ Two cases drew statewide attention. On May 4, 2026, the Board of Pardons met in 
 
 ## Sources
 
-1. Lao Minnesota (current page), One DSD, https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao, checked Oct. 31, 2026.
-2. Lao (non-Hmong) population, Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/lao-non-hmong, checked Oct. 31, 2026.
-3. The importance of data disaggregation, Minnesota Compass, https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-asian-communities, checked Oct. 31, 2026.
-4. Laotians in the U.S. fact sheet, Pew Research Center, https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-laotians-in-the-u-s/, checked Oct. 31, 2026.
-5. About, Lao Assistance Center of Minnesota, https://www.laocenter.org/about, checked Oct. 31, 2026.
-6. Home page, Lao Assistance Center of Minnesota, https://www.laocenter.org/, checked Oct. 31, 2026.
-7. What We Do, Lao Assistance Center of Minnesota, https://www.laocenter.org/what-we-do, checked Oct. 31, 2026.
-8. Activities and Events Calendar, Lao Assistance Center of Minnesota, https://www.laocenter.org/event-calendar, checked Oct. 31, 2026.
-9. Resources, Lao Assistance Center of Minnesota, https://www.laocenter.org/resources, checked Oct. 31, 2026.
-10. Literary project shares history of Lao Minnesotans, MPR News, https://www.mprnews.org/episode/2025/04/30/literary-project-shares-history-of-lao-minnesotans, checked Oct. 31, 2026.
-11. Lao New Year unites groups to celebrate together for first time in Minn., MPR News, https://www.mprnews.org/story/2013/04/14/lao-new-year-unites-groups-to-celebrate-together-for-first-time-in-minn, checked Oct. 31, 2026.
-12. Laotian refugees in Minnesota (1980), MPR News archive, https://archive.mpr.org/stories/1980/01/07/laotian-refugees-in-minnesota, checked Oct. 31, 2026.
-13. Southeast Asian refugee businesses growing in the Twin Cities (1984), MPR News archive, https://archive.mpr.org/stories/1984/11/16/southeast-asian-refugee-businesses-growing-in-the-twin-cities, checked Oct. 31, 2026.
-14. Dao Bay of the Lao Family Community on Hmong New Year (2004), MPR News archive, https://archive.mpr.org/stories/2004/11/27/dao-bay-of-the-lao-family-community-on, checked Oct. 31, 2026.
-15. Older Refugees Program Report (1989), Minnesota Legislative Reference Library, https://www.leg.mn.gov/docs/2016/other/160681.pdf, checked Oct. 31, 2026.
-16. A Buddhist temple thrives in rural Minnesota, Grand Forks Herald (Worthington Daily Globe), https://www.grandforksherald.com/lifestyle/a-buddhist-temple-thrives-in-rural-minnesota, checked Oct. 31, 2026.
-17. Locals hope to turn a rural Worthington acreage into a temple of their own, The Globe, https://www.dglobe.com/news/local/locals-hope-to-turn-a-rural-worthington-acreage-into-a-temple-of-their-own, checked Oct. 31, 2026.
-18. Mostly minority, mostly for Trump: Worthington mulls its future, MPR News, https://www.mprnews.org/story/2017/02/27/worthington-minn-minority-trump-future, checked Oct. 31, 2026.
-19. Nonprofit Explorer listings for Lao organizations, ProPublica, https://projects.propublica.org/nonprofits/search?q=lao, checked Oct. 31, 2026.
-20. Wat Lao Minnesota Lao Buddhist Temple Minnesota, ProPublica, https://projects.propublica.org/nonprofits/organizations/363423583, checked Oct. 31, 2026.
-21. Lao Temple Vipassana Center of Minnesota, ProPublica, https://projects.propublica.org/nonprofits/organizations/900602632, checked Oct. 31, 2026.
-22. Lao Advancement Organization of America, ProPublica, https://projects.propublica.org/nonprofits/organizations/411651825, checked Oct. 31, 2026.
-23. Wat Lao Xayabhoummaram, Lucido, https://lucidodata.com/en/organizations/wat-lao-xayabhoummaram-472753522, checked Oct. 31, 2026.
-24. Lao Advancement Organization of America, GiveMN, https://www.givemn.org/organization/Lao-Advancement-Organization-Of-America, checked Oct. 31, 2026.
-25. Laotian Church of Peace, Converge, https://converge.org/church/laotian-church-of-peace/, checked Oct. 31, 2026.
-26. Church listing 6608, Christian Reformed Church in North America, https://crcna.org/churches/6608, checked Oct. 31, 2026.
-27. Grantee Spotlight: Lao Culture Dance Fashion MN, Metropolitan Regional Arts Council, https://mrac.org/2024/05/22/grantee-spotlight-lao-culture-dance-fashion-mn/, checked Oct. 31, 2026.
-28. SF2543 handout, Siengkane Lao MN, Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2025/envlegacy/20250325/envlegacy_20250325_SF2543-Siengkane-Lao-handout.pdf, checked Oct. 31, 2026.
-29. Laws of Minnesota 2023, chapter 40, Office of the Revisor of Statutes, https://www.revisor.mn.gov/laws/2023/0/Session+Law/Chapter/40/, checked Oct. 31, 2026.
-30. HF 3887 status, Office of the Revisor of Statutes, https://www.revisor.mn.gov/bills/94/2026/0/HF/3887/?body=house, checked Oct. 31, 2026.
-31. Minnesota Statutes 197.236, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/197.236, checked Oct. 31, 2026.
-32. The SEAD Project home page, https://www.theseadproject.org/, checked Oct. 31, 2026.
-33. About, The SEAD Project, https://www.theseadproject.org/about, checked Oct. 31, 2026.
-34. Raise Our Roots Gala, The SEAD Project, https://www.theseadproject.org/ror2026, checked Oct. 31, 2026.
-35. The Southeast Asian Diaspora Project honors 50 years of history, University of Minnesota, https://cla.umn.edu/liberal-arts-engagement-hub/news-events/story/southeast-asian-diaspora-project-honors-50-years-history-through-archival-storytelling, checked Oct. 31, 2026.
-36. Minnesota marks 50th anniversary of Colors of Southeast Asia Fest, Hoodline, https://hoodline.com/2025/05/minnesota-marks-50th-anniversary-of-colors-of-southeast-asia-fest-with-woven-theme-in-brooklyn-center/, checked Oct. 31, 2026.
-37. Why Lao food is booming in the Twin Cities, Joysauce, https://joysauce.com/why-lao-food-is-booming-in-the-twin-cities/, checked Oct. 31, 2026.
-38. Appetites: Where is all the Lao cuisine in the Twin Cities?, MPR News, https://www.mprnews.org/story/2017/03/08/appetites-where-is-the-lao-food-in-the-twin-cities, checked Oct. 31, 2026.
-39. The 50 Best Restaurants in Minneapolis and St. Paul (2026), Mpls.St.Paul Magazine, https://mspmag.com/eat-and-drink/the-best-restaurants-in-the-twin-cities-2026/, checked Oct. 31, 2026.
-40. Gai Noi, https://www.gainoimpls.com/, checked Oct. 31, 2026.
-41. Khâluna, https://khaluna.com/, checked Oct. 31, 2026.
-42. Lat14 Asian Eatery, https://www.lat14.com/, checked Oct. 31, 2026.
-43. Soul Lao (St. Paul, MN), My Annoying Opinions, https://myannoyingopinions.com/2025/10/29/soul-lao-st-paul-mn/, checked Oct. 31, 2026.
-44. Ruam Mit offers food, culture and connection, Power 104.7 FM, https://www.power1047.fm/post/ruam-mit-offers-food-culture-and-connection, checked Oct. 31, 2026.
-45. Ruam Mit, Visit Saint Paul, https://www.visitsaintpaul.com/directory/ruam-mit/, checked Oct. 31, 2026.
-46. Lao Refugee Becomes Engaged Community Leader in Minneapolis, American Immigration Council, https://www.americanimmigrationcouncil.org/story/lao-refugee-becomes-engaged-community-leader-in-minneapolis/, checked Oct. 31, 2026.
-47. Laomerica 50 Coming to Minneapolis, Sahtu Press, https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41, checked Oct. 31, 2026.
-48. Laomagination 20 Year Retrospective a success, Sahtu Press, https://sahtu.press/articles/laomagination-20-year-retrospective-a-success, checked Oct. 31, 2026.
-49. National Lao American Symposium and Writers Summit 2015, Sahtu Press, https://sahtu.press/articles/national-lao-american-symposium-and-writers-summit-2015, checked Oct. 31, 2026.
-50. Bryan Thao Worra, National Endowment for the Arts, https://www.arts.gov/impact/literary-arts/creative-writing-fellows/bryan-thao-worra, checked Oct. 31, 2026.
-51. Theater Mu and Saymoukda Duangphouxay Vongsay receive Mellon grant, Theater Mu, https://www.theatermu.org/news/theater-mu-and-twin-cities-based-artist-saymoukda-duangphouxay-vongsay-receive-prestigious-mellon-grant, checked Oct. 31, 2026.
-52. Jai Khang (Heart Hard), University of Minnesota CCAPS, https://ccaps.umn.edu/story/jai-khang-heart-hard, checked Oct. 31, 2026.
-53. Chanida Phaengdara Potter, MPR News, https://www.mprnews.org/story/2015/01/23/chanida-phaengdara-potter, checked Oct. 31, 2026.
-54. The Mongoose and the Bird of Paradise, Diverse Elders Coalition, https://diverseelders.org/2015/08/10/the-mongoose-and-the-bird-of-paradise-storytelling-to-help-older-lao-americans-thrive-in-minnesota/, checked Oct. 31, 2026.
-55. What Providers Should Know About Southeast Asian American Family Caregivers, Diverse Elders Coalition, https://www.caregiving.org/wp-content/uploads/2024/07/DEC-FactSheet-SEA-American-0123.pdf, checked Oct. 31, 2026.
-56. Student organizations, University of Minnesota Asian American Studies, https://cla.umn.edu/asianamerican/undergraduate/organizations, checked Oct. 31, 2026.
-57. Lao Student Association #167, University of Minnesota, https://gopherlink.umn.edu/0167/home/, checked Oct. 31, 2026.
-58. English Learners in Minnesota Report 2024-25, Minnesota Department of Education, https://www.lrl.mn.gov/docs/2026/other/261381.pdf, checked Oct. 31, 2026.
-59. Commemorate 50 Years of Southeast Asians in MN, FY25 Applicant List, Minnesota Historical Society, https://www.mnhs.org/sites/default/files/2024-11/fy25-sea50-hrac-applicant-list.pdf, checked Oct. 31, 2026.
-60. Coalition looks to support Southeast Asian Minnesotans facing deportation and detention, MPR News, https://www.mprnews.org/episode/2026/02/24/southeast-asian-minnesotans-deportation-and-detention, checked Oct. 31, 2026.
-61. A Minnesota man has spent 90 days in ICE detention, MPR News, https://www.mprnews.org/story/2026/04/29/at-ricky-chandee-ice-detention-deportation-future-uncertain, checked Oct. 31, 2026.
-62. Minnesota board pardons Laos refugee day before possible deportation, KSTP, https://kstp.com/kstp-news/top-news/minnesota-board-pardons-laos-refugee-day-before-possible-deportation/, checked Oct. 31, 2026.
-63. MN Clemency Review Commission considering case of man facing deportation, FOX 9, https://www.fox9.com/news/mn-clemency-review-commission-considering-case-man-facing-deportaion-aug-7-2026, checked Oct. 31, 2026.
-64. What Southeast Asians in the U.S. need to know about Trump's deportations, Sahan Journal, https://sahanjournal.com/immigration/trump-deportations-southeast-asian-hmong-laos-thailand-vietnam-cambodia/, checked Oct. 31, 2026.
-65. McCollum: Trump administration set to deport Minnesota Hmong, Lao refugees, Forum News Service, https://www.inforum.com/news/mccollum-trump-administration-set-to-deport-minnesota-hmong-lao-refugees, checked Oct. 31, 2026.
-66. Organizations denounce move to increase deportations to Laos, Coalition of Asian American Leaders, https://caalmn.org/2020/02/07/lao-hmong-deportation/, checked Oct. 31, 2026.
-67. Lao Food at Lemon Grass Thai in Brooklyn Park, Heavy Table, https://heavytable.com/lao-food-lemon-grass-thai-brooklyn-park/, checked Oct. 31, 2026.
-68. Lemon Grass Thai Cuisine Closing March 25 After 18-Year Run, CCX Media, https://ccxmedia.org/news/lemon-grass-thai-cuisine-closing-march-25-after-18-year-run/, checked Oct. 31, 2026.
-69. Ann Ahmed (TCB 100), Twin Cities Business, https://tcbmag.com/tcb-100-people/ann-ahmed/, checked Oct. 31, 2026.
-70. Larb at Family Lao-Thai Restaurant, Heavy Table, https://heavytable.com/larb-family-lao-thai-restaurant/, checked Oct. 31, 2026.
-71. Lao Thai, Mpls.St.Paul Magazine, https://mspmag.com/eat-and-drink/lao-thai/, checked Oct. 31, 2026.
-72. Lao Thai (St. Paul), My Annoying Opinions, https://myannoyingopinions.com/2018/03/13/lao-thai-st-paul/, checked Oct. 31, 2026.
-73. Viet Hoa Lao (Eagan, MN), My Annoying Opinions, https://myannoyingopinions.com/2018/10/28/viet-hoa-lao-eagan-mn/, checked Oct. 31, 2026.
-74. Order from Ruam Mit, Ruam Mit (SpotOn ordering), https://order.spoton.com/65d78d8fdaafe9aff3f8317b/pickup, checked Oct. 31, 2026.
-75. Ruam Mit, Spinach Guide, https://spinach.guide/venues/ruam-mit-128813/, checked Oct. 31, 2026.
-76. Faces of Faribault: 1st of Thai boasts unique family culture, Faribault Daily News, https://www.southernminn.com/faribault_daily_news/news/faces-of-faribault-1st-of-thai-boasts-unique-family-culture/article_3b13a1ff-23db-5df2-a7ba-df3f962203bb.html, checked Oct. 31, 2026.
-77. 1st of Thai, Carleton College American Studies, https://www.carleton.edu/american-studies/student-projects/ethnic-food/1stofthai/, checked Oct. 31, 2026.
-78. Vietnam 50 Years Later: Minnesota's Lao community, CBS Minnesota (WCCO), https://www.cbsnews.com/minnesota/news/vietnam-war-50-years-later-minnesota-lao-community/, checked Oct. 31, 2026.
-79. Families of Cambodians, Lao, Vietnamese affected by 'Secret War' seek wider state recognition, Pioneer Press (via Yahoo News), https://www.yahoo.com/news/articles/families-cambodians-lao-vietnamese-affected-230000000.html, checked Oct. 31, 2026.
-80. Thousands of Hmong and Lao Americans face deportation under Trump proposal, Sahan Journal, https://sahanjournal.com/immigration/thousands-of-hmong-and-lao-americans-face-deportation-under-trump-proposal/, checked Oct. 31, 2026.
-81. Minnesota Clemency Commission recommends pardon for immigrant who says deportation means death, FOX 9, https://www.fox9.com/news/minnesota-clemency-commission-recommends-pardon-immigrant-who-says-deportation-means-death-aug-2026, checked Oct. 31, 2026.
-82. New National Report Puts Hmong and Southeast Asian Minnesotans Back at Center of ICE Targeting Story, Hmong Broadcasting Company (3HBC), https://www.hbctv.net/stories/new-national-report-puts-hmong-and-southeast-asian-minnesotans-back-at-center-of, checked Oct. 31, 2026.
-83. Knowledge and behaviors toward hepatitis B and the hepatitis B vaccine in the Laotian community in Minnesota, University of Minnesota Experts (Journal of Immigrant and Minority Health), https://experts.umn.edu/en/publications/knowledge-and-behaviors-toward-hepatitis-b-and-the-hepatitis-b-va/, checked Oct. 31, 2026.
-84. Factors Associated with Reported Colorectal Cancer Screening Among Lao-American Immigrants in Minnesota, University of Minnesota Experts (Journal of Immigrant and Minority Health), https://experts.umn.edu/en/publications/factors-associated-with-reported-colorectal-cancer-screening-amon/, checked Oct. 31, 2026.
-85. HF 4018 (2016), text, Office of the Revisor of Statutes, https://www.revisor.mn.gov/bills/89/2016/0/HF/4018/versions/0, checked Oct. 31, 2026.
-86. New Minn. memorial honors service of soldiers in 'secret war', MPR News, https://www.mprnews.org/story/2016/06/11/lao-hmong-veterans-memorial, checked Oct. 31, 2026.
-87. Lao Assistance Center of Minnesota with Bryan Thao Worra, Joyce Foundation, https://www.joycefdn.org/joyce-awards/lao-assistance-center-of-minnesota-with-bryan-thao-worra, checked Oct. 31, 2026.
-88. Articles, Sahtu Press, https://sahtu.press/articles, checked Oct. 31, 2026.
-89. Lao American Artist Heritage Month 2024, Sahtu Press, https://sahtu.press/articles/laoamartheritage24, checked Oct. 31, 2026.
-90. Nakavi Lao Poet Convention coming: 9/14, Sahtu Press, https://sahtu.press/articles/nakavi2024, checked Oct. 31, 2026.
-91. Laomerica 50: American Laodyssey opens, Sahtu Press, https://sahtu.press/articles/laomerica50laodyssey, checked Oct. 31, 2026.
-92. SatJaDham at 29, Sahtu Press, https://sahtu.press/articles/satjadham-turns-29, checked Oct. 31, 2026.
-93. Colors of Southeast Asia Fest (COSA Fest), City of Brooklyn Park, https://www.brooklynpark.org/cosa-fest/, checked Oct. 31, 2026.
-94. COSA Fest - Brooklyn Center and Brooklyn Park, CCX Media, https://ccxmedia.org/event/cosa-fest-brooklyn-center-and-brooklyn-park/, checked Oct. 31, 2026.
-95. Buddhists Across Laos Mark Beginning of Buddhist Lent, Lao News Agency (KPL), https://kpl.gov.la/detail.aspx?id=102480, checked Oct. 31, 2026.
-96. Savannakhet Celebrates Lao New Year B.E. 2569 with Grand Festivities, Lao News Agency (KPL), https://kpl.gov.la/detail.aspx?id=97793, checked Oct. 31, 2026.
-97. Grand Pi Mai Lao celebrations set to light up six provinces, Vientiane Times, https://vientianetimes.org.la/freefreenews/freecontent_043_Grand_Pi_Mai_y26.php, checked Oct. 31, 2026.
-98. Buddhist Lent ends with colourful river traditions in Laos, The Star (Asia News Network), https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/buddhist-lent-ends-with-colourful-river-traditions-in-laos, checked Oct. 31, 2026.
-99. Nonprofit Explorer: Wat Lao Buddhakhodome of SW MN, ProPublica, https://projects.propublica.org/nonprofits/search?q=Buddhakhodome, checked Oct. 31, 2026.
+1. Lao Minnesota (current page), One DSD, https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/lao.
+2. Lao (non-Hmong) population, Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/lao-non-hmong.
+3. The importance of data disaggregation, Minnesota Compass, https://www.mncompass.org/data-insights/articles/importance-data-disaggregation-minnesotas-asian-communities.
+4. Laotians in the U.S. fact sheet, Pew Research Center, https://www.pewresearch.org/race-and-ethnicity/fact-sheet/asian-americans-laotians-in-the-u-s/.
+5. About, Lao Assistance Center of Minnesota, https://www.laocenter.org/about.
+6. Home page, Lao Assistance Center of Minnesota, https://www.laocenter.org/.
+7. What We Do, Lao Assistance Center of Minnesota, https://www.laocenter.org/what-we-do.
+8. Activities and Events Calendar, Lao Assistance Center of Minnesota, https://www.laocenter.org/event-calendar.
+9. Resources, Lao Assistance Center of Minnesota, https://www.laocenter.org/resources.
+10. Literary project shares history of Lao Minnesotans, MPR News, https://www.mprnews.org/episode/2025/04/30/literary-project-shares-history-of-lao-minnesotans.
+11. Lao New Year unites groups to celebrate together for first time in Minn., MPR News, https://www.mprnews.org/story/2013/04/14/lao-new-year-unites-groups-to-celebrate-together-for-first-time-in-minn.
+12. Laotian refugees in Minnesota (1980), MPR News archive, https://archive.mpr.org/stories/1980/01/07/laotian-refugees-in-minnesota.
+13. Southeast Asian refugee businesses growing in the Twin Cities (1984), MPR News archive, https://archive.mpr.org/stories/1984/11/16/southeast-asian-refugee-businesses-growing-in-the-twin-cities.
+14. Dao Bay of the Lao Family Community on Hmong New Year (2004), MPR News archive, https://archive.mpr.org/stories/2004/11/27/dao-bay-of-the-lao-family-community-on.
+15. Older Refugees Program Report (1989), Minnesota Legislative Reference Library, https://www.leg.mn.gov/docs/2016/other/160681.pdf.
+16. A Buddhist temple thrives in rural Minnesota, Grand Forks Herald (Worthington Daily Globe), https://www.grandforksherald.com/lifestyle/a-buddhist-temple-thrives-in-rural-minnesota.
+17. Locals hope to turn a rural Worthington acreage into a temple of their own, The Globe, https://www.dglobe.com/news/local/locals-hope-to-turn-a-rural-worthington-acreage-into-a-temple-of-their-own.
+18. Mostly minority, mostly for Trump: Worthington mulls its future, MPR News, https://www.mprnews.org/story/2017/02/27/worthington-minn-minority-trump-future.
+19. Nonprofit Explorer listings for Lao organizations, ProPublica, https://projects.propublica.org/nonprofits/search?q=lao.
+20. Wat Lao Minnesota Lao Buddhist Temple Minnesota, ProPublica, https://projects.propublica.org/nonprofits/organizations/363423583.
+21. Lao Temple Vipassana Center of Minnesota, ProPublica, https://projects.propublica.org/nonprofits/organizations/900602632.
+22. Lao Advancement Organization of America, ProPublica, https://projects.propublica.org/nonprofits/organizations/411651825.
+23. Wat Lao Xayabhoummaram, Lucido, https://lucidodata.com/en/organizations/wat-lao-xayabhoummaram-472753522.
+24. Lao Advancement Organization of America, GiveMN, https://www.givemn.org/organization/Lao-Advancement-Organization-Of-America.
+25. Laotian Church of Peace, Converge, https://converge.org/church/laotian-church-of-peace/.
+26. Church listing 6608, Christian Reformed Church in North America, https://crcna.org/churches/6608.
+27. Grantee Spotlight: Lao Culture Dance Fashion MN, Metropolitan Regional Arts Council, https://mrac.org/2024/05/22/grantee-spotlight-lao-culture-dance-fashion-mn/.
+28. SF2543 handout, Siengkane Lao MN, Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2025/envlegacy/20250325/envlegacy_20250325_SF2543-Siengkane-Lao-handout.pdf.
+29. Laws of Minnesota 2023, chapter 40, Office of the Revisor of Statutes, https://www.revisor.mn.gov/laws/2023/0/Session+Law/Chapter/40/.
+30. HF 3887 status, Office of the Revisor of Statutes, https://www.revisor.mn.gov/bills/94/2026/0/HF/3887/?body=house.
+31. Minnesota Statutes 197.236, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/197.236.
+32. The SEAD Project home page, https://www.theseadproject.org/.
+33. About, The SEAD Project, https://www.theseadproject.org/about.
+34. Raise Our Roots Gala, The SEAD Project, https://www.theseadproject.org/ror2026.
+35. The Southeast Asian Diaspora Project honors 50 years of history, University of Minnesota, https://cla.umn.edu/liberal-arts-engagement-hub/news-events/story/southeast-asian-diaspora-project-honors-50-years-history-through-archival-storytelling.
+36. Minnesota marks 50th anniversary of Colors of Southeast Asia Fest, Hoodline, https://hoodline.com/2025/05/minnesota-marks-50th-anniversary-of-colors-of-southeast-asia-fest-with-woven-theme-in-brooklyn-center/.
+37. Why Lao food is booming in the Twin Cities, Joysauce, https://joysauce.com/why-lao-food-is-booming-in-the-twin-cities/.
+38. Appetites: Where is all the Lao cuisine in the Twin Cities?, MPR News, https://www.mprnews.org/story/2017/03/08/appetites-where-is-the-lao-food-in-the-twin-cities.
+39. The 50 Best Restaurants in Minneapolis and St. Paul (2026), Mpls.St.Paul Magazine, https://mspmag.com/eat-and-drink/the-best-restaurants-in-the-twin-cities-2026/.
+40. Gai Noi, https://www.gainoimpls.com/.
+41. Khâluna, https://khaluna.com/.
+42. Lat14 Asian Eatery, https://www.lat14.com/.
+43. Soul Lao (St. Paul, MN), My Annoying Opinions, https://myannoyingopinions.com/2025/10/29/soul-lao-st-paul-mn/.
+44. Ruam Mit offers food, culture and connection, Power 104.7 FM, https://www.power1047.fm/post/ruam-mit-offers-food-culture-and-connection.
+45. Ruam Mit, Visit Saint Paul, https://www.visitsaintpaul.com/directory/ruam-mit/.
+46. Lao Refugee Becomes Engaged Community Leader in Minneapolis, American Immigration Council, https://www.americanimmigrationcouncil.org/story/lao-refugee-becomes-engaged-community-leader-in-minneapolis/.
+47. Laomerica 50 Coming to Minneapolis, Sahtu Press, https://sahtu.press/articles/q7arce0k1hic2yopfa1ckda4g2su41.
+48. Laomagination 20 Year Retrospective a success, Sahtu Press, https://sahtu.press/articles/laomagination-20-year-retrospective-a-success.
+49. National Lao American Symposium and Writers Summit 2015, Sahtu Press, https://sahtu.press/articles/national-lao-american-symposium-and-writers-summit-2015.
+50. Bryan Thao Worra, National Endowment for the Arts, https://www.arts.gov/impact/literary-arts/creative-writing-fellows/bryan-thao-worra.
+51. Theater Mu and Saymoukda Duangphouxay Vongsay receive Mellon grant, Theater Mu, https://www.theatermu.org/news/theater-mu-and-twin-cities-based-artist-saymoukda-duangphouxay-vongsay-receive-prestigious-mellon-grant.
+52. Jai Khang (Heart Hard), University of Minnesota CCAPS, https://ccaps.umn.edu/story/jai-khang-heart-hard.
+53. Chanida Phaengdara Potter, MPR News, https://www.mprnews.org/story/2015/01/23/chanida-phaengdara-potter.
+54. The Mongoose and the Bird of Paradise, Diverse Elders Coalition, https://diverseelders.org/2015/08/10/the-mongoose-and-the-bird-of-paradise-storytelling-to-help-older-lao-americans-thrive-in-minnesota/.
+55. What Providers Should Know About Southeast Asian American Family Caregivers, Diverse Elders Coalition, https://www.caregiving.org/wp-content/uploads/2024/07/DEC-FactSheet-SEA-American-0123.pdf.
+56. Student organizations, University of Minnesota Asian American Studies, https://cla.umn.edu/asianamerican/undergraduate/organizations.
+57. Lao Student Association #167, University of Minnesota, https://gopherlink.umn.edu/0167/home/.
+58. English Learners in Minnesota Report 2024-25, Minnesota Department of Education, https://www.lrl.mn.gov/docs/2026/other/261381.pdf.
+59. Commemorate 50 Years of Southeast Asians in MN, FY25 Applicant List, Minnesota Historical Society, https://www.mnhs.org/sites/default/files/2024-11/fy25-sea50-hrac-applicant-list.pdf.
+60. Coalition looks to support Southeast Asian Minnesotans facing deportation and detention, MPR News, https://www.mprnews.org/episode/2026/02/24/southeast-asian-minnesotans-deportation-and-detention.
+61. A Minnesota man has spent 90 days in ICE detention, MPR News, https://www.mprnews.org/story/2026/04/29/at-ricky-chandee-ice-detention-deportation-future-uncertain.
+62. Minnesota board pardons Laos refugee day before possible deportation, KSTP, https://kstp.com/kstp-news/top-news/minnesota-board-pardons-laos-refugee-day-before-possible-deportation/.
+63. MN Clemency Review Commission considering case of man facing deportation, FOX 9, https://www.fox9.com/news/mn-clemency-review-commission-considering-case-man-facing-deportaion-aug-7-2026.
+64. What Southeast Asians in the U.S. need to know about Trump's deportations, Sahan Journal, https://sahanjournal.com/immigration/trump-deportations-southeast-asian-hmong-laos-thailand-vietnam-cambodia/.
+65. McCollum: Trump administration set to deport Minnesota Hmong, Lao refugees, Forum News Service, https://www.inforum.com/news/mccollum-trump-administration-set-to-deport-minnesota-hmong-lao-refugees.
+66. Organizations denounce move to increase deportations to Laos, Coalition of Asian American Leaders, https://caalmn.org/2020/02/07/lao-hmong-deportation/.
+67. Lao Food at Lemon Grass Thai in Brooklyn Park, Heavy Table, https://heavytable.com/lao-food-lemon-grass-thai-brooklyn-park/.
+68. Lemon Grass Thai Cuisine Closing March 25 After 18-Year Run, CCX Media, https://ccxmedia.org/news/lemon-grass-thai-cuisine-closing-march-25-after-18-year-run/.
+69. Ann Ahmed (TCB 100), Twin Cities Business, https://tcbmag.com/tcb-100-people/ann-ahmed/.
+70. Larb at Family Lao-Thai Restaurant, Heavy Table, https://heavytable.com/larb-family-lao-thai-restaurant/.
+71. Lao Thai, Mpls.St.Paul Magazine, https://mspmag.com/eat-and-drink/lao-thai/.
+72. Lao Thai (St. Paul), My Annoying Opinions, https://myannoyingopinions.com/2018/03/13/lao-thai-st-paul/.
+73. Viet Hoa Lao (Eagan, MN), My Annoying Opinions, https://myannoyingopinions.com/2018/10/28/viet-hoa-lao-eagan-mn/.
+74. Order from Ruam Mit, Ruam Mit (SpotOn ordering), https://order.spoton.com/65d78d8fdaafe9aff3f8317b/pickup.
+75. Ruam Mit, Spinach Guide, https://spinach.guide/venues/ruam-mit-128813/.
+76. Faces of Faribault: 1st of Thai boasts unique family culture, Faribault Daily News, https://www.southernminn.com/faribault_daily_news/news/faces-of-faribault-1st-of-thai-boasts-unique-family-culture/article_3b13a1ff-23db-5df2-a7ba-df3f962203bb.html.
+77. 1st of Thai, Carleton College American Studies, https://www.carleton.edu/american-studies/student-projects/ethnic-food/1stofthai/.
+78. Vietnam 50 Years Later: Minnesota's Lao community, CBS Minnesota (WCCO), https://www.cbsnews.com/minnesota/news/vietnam-war-50-years-later-minnesota-lao-community/.
+79. Families of Cambodians, Lao, Vietnamese affected by 'Secret War' seek wider state recognition, Pioneer Press (via Yahoo News), https://www.yahoo.com/news/articles/families-cambodians-lao-vietnamese-affected-230000000.html.
+80. Thousands of Hmong and Lao Americans face deportation under Trump proposal, Sahan Journal, https://sahanjournal.com/immigration/thousands-of-hmong-and-lao-americans-face-deportation-under-trump-proposal/.
+81. Minnesota Clemency Commission recommends pardon for immigrant who says deportation means death, FOX 9, https://www.fox9.com/news/minnesota-clemency-commission-recommends-pardon-immigrant-who-says-deportation-means-death-aug-2026.
+82. New National Report Puts Hmong and Southeast Asian Minnesotans Back at Center of ICE Targeting Story, Hmong Broadcasting Company (3HBC), https://www.hbctv.net/stories/new-national-report-puts-hmong-and-southeast-asian-minnesotans-back-at-center-of.
+83. Knowledge and behaviors toward hepatitis B and the hepatitis B vaccine in the Laotian community in Minnesota, University of Minnesota Experts (Journal of Immigrant and Minority Health), https://experts.umn.edu/en/publications/knowledge-and-behaviors-toward-hepatitis-b-and-the-hepatitis-b-va/.
+84. Factors Associated with Reported Colorectal Cancer Screening Among Lao-American Immigrants in Minnesota, University of Minnesota Experts (Journal of Immigrant and Minority Health), https://experts.umn.edu/en/publications/factors-associated-with-reported-colorectal-cancer-screening-amon/.
+85. HF 4018 (2016), text, Office of the Revisor of Statutes, https://www.revisor.mn.gov/bills/89/2016/0/HF/4018/versions/0.
+86. New Minn. memorial honors service of soldiers in 'secret war', MPR News, https://www.mprnews.org/story/2016/06/11/lao-hmong-veterans-memorial.
+87. Lao Assistance Center of Minnesota with Bryan Thao Worra, Joyce Foundation, https://www.joycefdn.org/joyce-awards/lao-assistance-center-of-minnesota-with-bryan-thao-worra.
+88. Articles, Sahtu Press, https://sahtu.press/articles.
+89. Lao American Artist Heritage Month 2024, Sahtu Press, https://sahtu.press/articles/laoamartheritage24.
+90. Nakavi Lao Poet Convention coming: 9/14, Sahtu Press, https://sahtu.press/articles/nakavi2024.
+91. Laomerica 50: American Laodyssey opens, Sahtu Press, https://sahtu.press/articles/laomerica50laodyssey.
+92. SatJaDham at 29, Sahtu Press, https://sahtu.press/articles/satjadham-turns-29.
+93. Colors of Southeast Asia Fest (COSA Fest), City of Brooklyn Park, https://www.brooklynpark.org/cosa-fest/.
+94. COSA Fest - Brooklyn Center and Brooklyn Park, CCX Media, https://ccxmedia.org/event/cosa-fest-brooklyn-center-and-brooklyn-park/.
+95. Buddhists Across Laos Mark Beginning of Buddhist Lent, Lao News Agency (KPL), https://kpl.gov.la/detail.aspx?id=102480.
+96. Savannakhet Celebrates Lao New Year B.E. 2569 with Grand Festivities, Lao News Agency (KPL), https://kpl.gov.la/detail.aspx?id=97793.
+97. Grand Pi Mai Lao celebrations set to light up six provinces, Vientiane Times, https://vientianetimes.org.la/freefreenews/freecontent_043_Grand_Pi_Mai_y26.php.
+98. Buddhist Lent ends with colourful river traditions in Laos, The Star (Asia News Network), https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/buddhist-lent-ends-with-colourful-river-traditions-in-laos.
+99. Nonprofit Explorer: Wat Lao Buddhakhodome of SW MN, ProPublica, https://projects.propublica.org/nonprofits/search?q=Buddhakhodome.

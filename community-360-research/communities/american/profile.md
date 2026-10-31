@@ -1,11 +1,10 @@
 # American culture in Minnesota
-Checked: October 31, 2026
 
 This page looks at mainstream American culture as Minnesotans live it: the civic holidays, workplace rules, public schools, churches, food, sports, shopping and family routines that most people in the state share in some form, whatever their background. Separate pages cover Minnesota's own regional identity, European American heritage, rural Minnesota as a place, and African American Minnesotans, so this page does not repeat them. Every general statement below names its source, its place and its date. A pattern in a survey describes a group at one moment. It does not describe the person in front of you.
 
 ## 1. People and place
 
-**Who is "American" here.** On this page "American" means the shared national civic culture, not an ancestry: the holidays, schools, laws and habits that people of every background in Minnesota live inside. Minnesota Compass, using the American Community Survey (ACS) for 2020 to 2024, counts 5,739,445 Minnesotans. It places 55.2 percent in the Twin Cities region and 44.8 percent in Greater Minnesota ([Minnesota Compass, checked Oct. 31, 2026](https://www.mncompass.org/topics/demographics/cultural-communities/minnesota)). Foreign-born residents make up 8.6 percent, give or take 0.2 points, so about 91 percent are counted as native-born (same source).
+**Who is "American" here.** On this page "American" means the shared national civic culture, not an ancestry: the holidays, schools, laws and habits that people of every background in Minnesota live inside. Minnesota Compass, using the American Community Survey (ACS) for 2020 to 2024, counts 5,739,445 Minnesotans. It places 55.2 percent in the Twin Cities region and 44.8 percent in Greater Minnesota ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/minnesota)). Foreign-born residents make up 8.6 percent, give or take 0.2 points, so about 91 percent are counted as native-born (same source).
 
 **Many people stay put.** Stacker's county ranking, built from 2024 five-year Census estimates, shows how rooted some places are. In Morrison County 86.8 percent of residents were born in Minnesota, and every county in its top 50 was above 70 percent ([Stacker, Aug. 7, 2026](https://stacker.com/stories/minnesota/counties-most-born-and-bred-residents-minnesota)). In the Compass profile, 87.8 percent of Minnesotans lived in the same home a year earlier, and 11.8 percent had moved from somewhere else in the U.S. ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/minnesota)). No statewide born-in-Minnesota figure could be opened for this page.
 
@@ -45,7 +44,7 @@ All figures in this section come from the Compass 2020 to 2024 profile, in 2024 
 - Workers earn at least one hour of sick and safe time for every 30 hours worked, up to 48 hours a year ([Minn. Stat. 181.9446](https://www.revisor.mn.gov/statutes/cite/181.9446)).
 - Noncompete clauses in employment agreements are void ([Minn. Stat. 181.988](https://www.revisor.mn.gov/statutes/cite/181.988)).
 - Employees may leave work long enough to vote, on Election Day or during in-person early voting, without penalty or loss of pay ([Minn. Stat. 204C.04](https://www.revisor.mn.gov/statutes/cite/204C.04)).
-- Minnesota Paid Leave began Jan. 1, 2026. In its first six months it drew about 100,000 applications and approved roughly 75,000, paying about $600 million. The average weekly benefit was about $1,083, and medical and bonding leave were most common, a DEED deputy commissioner said ([KTTC, July 7, 2026](https://www.kttc.com/2026/07/07/first-6-months-mn-paid-leave-program-draws-100000-applications/)). Not everyone agrees with it. Republican governor candidate Lisa Demuth has called the mandate "a tax on every business" and wants to roll it back ([MultiState, checked Oct. 31, 2026](https://www.multistate.us/elections/governor-race/minnesota-2026)).
+- Minnesota Paid Leave began Jan. 1, 2026. In its first six months it drew about 100,000 applications and approved roughly 75,000, paying about $600 million. The average weekly benefit was about $1,083, and medical and bonding leave were most common, a DEED deputy commissioner said ([KTTC, July 7, 2026](https://www.kttc.com/2026/07/07/first-6-months-mn-paid-leave-program-draws-100000-applications/)). Not everyone agrees with it. Republican governor candidate Lisa Demuth has called the mandate "a tax on every business" and wants to roll it back ([MultiState](https://www.multistate.us/elections/governor-race/minnesota-2026)).
 
 **The office.** In 2025 large employers pulled office staff back. 3M required non-production workers on site at least four days a week from September 2025 ([KSTP, 2025](https://kstp.com/kstp-news/local-news/3m-to-bring-employees-back-to-office-4-days-a-week-starting-in-september/)). Target asked several departments to come in three days a week, General Mills moved to a Tuesday-through-Thursday schedule, and the Minneapolis Downtown Council estimated peak weekday downtown crowds at about 70 percent of the pre-pandemic level ([Twin Cities Business, July 10, 2025](https://tcbmag.com/target-issues-return-to-office-orders/)). In the Compass profile, 76.5 percent of workers get to work by car, truck or van, 2.0 percent by public transit, and 21.5 percent walk, bike, work at home or use other means ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/minnesota)).
 
@@ -69,7 +68,7 @@ Mainstream American commercial life, from the enclosed mall to the big-box store
 
 ## 5. Religion and spiritual life
 
-**What the numbers show.** Pew Research Center's 2023-24 Religious Landscape Study describes Minnesota adults this way: 22 percent mainline Protestant, 20 percent evangelical Protestant, 18 percent Catholic, 1 percent in historically Black Protestant churches, 3 percent Muslim, and smaller shares of other faiths. Lutherans of all kinds make up about 23 percent: 16 percent in mainline Lutheran bodies, including 12 percent in the Evangelical Lutheran Church in America (ELCA), and 7 percent in evangelical Lutheran bodies, including 5 percent in the Lutheran Church-Missouri Synod. The religiously unaffiliated make up 29 percent: 5 percent atheist, 9 percent agnostic and 15 percent "nothing in particular." Pew gives a margin of error of 5.7 points for Minnesota ([Pew Research Center, checked Oct. 31, 2026](https://www.pewresearch.org/religious-landscape-study/state/minnesota/)). In short, Minnesota's mainstream is still mostly Christian, unusually Lutheran, and home to a large group of people with no religion.
+**What the numbers show.** Pew Research Center's 2023-24 Religious Landscape Study describes Minnesota adults this way: 22 percent mainline Protestant, 20 percent evangelical Protestant, 18 percent Catholic, 1 percent in historically Black Protestant churches, 3 percent Muslim, and smaller shares of other faiths. Lutherans of all kinds make up about 23 percent: 16 percent in mainline Lutheran bodies, including 12 percent in the Evangelical Lutheran Church in America (ELCA), and 7 percent in evangelical Lutheran bodies, including 5 percent in the Lutheran Church-Missouri Synod. The religiously unaffiliated make up 29 percent: 5 percent atheist, 9 percent agnostic and 15 percent "nothing in particular." Pew gives a margin of error of 5.7 points for Minnesota ([Pew Research Center](https://www.pewresearch.org/religious-landscape-study/state/minnesota/)). In short, Minnesota's mainstream is still mostly Christian, unusually Lutheran, and home to a large group of people with no religion.
 
 **Older churches are shrinking.** A 2018 report covered by Patch found the ELCA had nearly 200,000 fewer Minnesota members than in 2000 and had lost about 150 churches, with more than 1,000 of its remaining churches under 50 members. Catholic numbers held steady, but about 80 Catholic churches had closed since 2000. The decline reached rural, suburban and urban churches alike ([Patch, July 9, 2018](https://patch.com/minnesota/southwestminneapolis/minnesota-churches-are-steep-decline-report)). Newer figures for the state could not be opened.
 
@@ -228,128 +227,128 @@ Minnesota law names the legal holidays on which public business stops: New Year'
 
 ## Sources
 
-1. American culture (current page), One DSD, https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american, checked Oct. 31, 2026
-2. Minnesota Statutes 645.44, Words and phrases defined (holidays), Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/645.44, checked Oct. 31, 2026
-3. Cultural communities, Minnesota Compass, https://www.mncompass.org/cultural-communities, checked Oct. 31, 2026
-4. Minnesota population (all Minnesotans), Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/minnesota, checked Oct. 31, 2026
-5. Fewer Minnesotans line up with Nordic, German roots (Sept. 21, 2013), Grand Forks Herald, https://www.grandforksherald.com/newsmd/fewer-minnesotans-line-up-with-nordic-german-roots, checked Oct. 31, 2026
-6. Counties with the most born-and-bred residents in Minnesota (Aug. 7, 2026), Stacker, https://stacker.com/stories/minnesota/counties-most-born-and-bred-residents-minnesota, checked Oct. 31, 2026
-7. Your guide to Fourth of July fireworks and events across Minnesota (June 26, 2026), MPR News, https://www.mprnews.org/story/2026/06/26/fourth-of-july-events-guide-fireworks-parades-in-minnesota, checked Oct. 31, 2026
-8. Commemorate America's 250th Anniversary this Fourth of July (July 1, 2026), Minnesota Historical Society, https://www.mnhs.org/media/news/commemorate-americas-250th-anniversary-fourth-july, checked Oct. 31, 2026
-9. MN250, Minnesota Historical Society, https://www.mnhs.org/mn250, checked Oct. 31, 2026
-10. America 250 event to be held at Mall of America, Dakota County, https://dakotacountymn.gov/government/news/america-250-event-to-be-held-at-mall-of-america, checked Oct. 31, 2026
-11. Minnesota leads US in voter turnout for 2024 election (Nov. 22, 2024), KEYC News Now, https://www.keyc.com/2024/11/22/minnesota-leads-us-voter-turnout-2024-election/, checked Oct. 31, 2026
-12. Minnesota ranks No. 1 for youth voter turnout in 2024 general election (April 18, 2025), Brainerd Dispatch (Forum News Service), https://www.brainerddispatch.com/news/minnesota/minnesota-ranks-number-one-for-youth-voter-turnout-in-2024-general-election, checked Oct. 31, 2026
-13. Number of union members grew by 23,000 in Minnesota in past year (Feb. 28, 2025), Minneapolis Regional Labor Federation, https://minneapolisunions.org/news/mlr2025-02-28-union-members-grew-in-MN, checked Oct. 31, 2026
-14. People in Minnesota, Religious Landscape Study 2023-24, Pew Research Center, https://www.pewresearch.org/religious-landscape-study/state/minnesota/, checked Oct. 31, 2026
-15. In first 6 months, MN Paid Leave program draws 100,000 applications (July 7, 2026), KTTC, https://www.kttc.com/2026/07/07/first-6-months-mn-paid-leave-program-draws-100000-applications/, checked Oct. 31, 2026
-16. Minimum wage in Minnesota, Minnesota Department of Labor and Industry, https://www.dli.mn.gov/minwage, checked Oct. 31, 2026
-17. Fortune 500 List Contains Some Warnings for Minnesota (2025), Twin Cities Business, https://tcbmag.com/fortune-500-list-contains-some-warnings-for-minnesota/, checked Oct. 31, 2026
-18. Minnesota State Fair draws 1.9 million visitors in 2026 (Sept. 8, 2026), KTTC, https://www.kttc.com/2026/09/08/minnesota-state-fair-draws-19-million-visitors-2026/, checked Oct. 31, 2026
-19. 2026 Minnesota State Fair wrap, Minnesota State Fair, https://www.mnstatefair.org/updates/2026-fair, checked Oct. 31, 2026
-20. Minnesota ranks 3rd for volunteering as national rates rebound (2024), InForum, https://www.inforum.com/news/moorhead/minnesota-ranks-3rd-for-volunteering-as-national-rates-rebound-post-pandemic-study-shows, checked Oct. 31, 2026
-21. Turkeys Raised (Sept. 26, 2025), USDA National Agricultural Statistics Service, https://www.nass.usda.gov/Publications/Todays_Reports/reports/tuky0925.pdf, checked Oct. 31, 2026
-22. Minnesota turkey showcased at the State Capitol, WDIO, https://www.wdio.com/top-stories/minnesota-turkey-showcased-at-the-state-capitol/, checked Oct. 31, 2026
-23. Vance Boelter sentenced to two life terms plus 40 years in killing of Hortmans (July 23, 2026), KAXE (Minnesota Reformer), https://www.kaxe.org/minnesota-news/2026-07-23/vance-boelter-sentenced-to-two-life-terms-plus-40-years-in-killing-of-hortmans, checked Oct. 31, 2026
-24. Border Czar Tom Homan announces conclusion of Operation Metro Surge (Feb. 12, 2026), KEYC/KTTC, https://www.keyc.com/2026/02/12/border-czar-tom-homan-announces-conclusion-operation-metro-surge/, checked Oct. 31, 2026
-25. Immigration operation in Minnesota coming to an end (Feb. 12, 2026), ABC News 4 (Sinclair/AP), https://abcnews4.com/news/nation-world/immigration-operation-in-minnesota-coming-to-an-end-tom-homan-immigration-and-customs-enforcement-dhs-operation-metro-surge, checked Oct. 31, 2026
-26. Federal authorities announce an end to the immigration crackdown in Minnesota (Feb. 12, 2026), News9 (AP), https://www.news9.com/national-politics-oklahoma/federal-authorities-announce-end-immigration-crackdown-minnesota, checked Oct. 31, 2026
-27. Minnesota Governor Race 2026: Klobuchar vs. Demuth, MultiState, https://www.multistate.us/elections/governor-race/minnesota-2026, checked Oct. 31, 2026
-28. Minnesota governor's race: Potential Democratic contenders after Walz's exit (Jan. 2026), FOX 9, https://www.fox9.com/news/minnesota-governors-race-potential-democratic-contenders-after-walz-exit, checked Oct. 31, 2026
-29. Minnesota Statutes 120A.40, School calendar, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/120A.40, checked Oct. 31, 2026
-30. Minnesota Statutes 121A.11, United States flag; Pledge of Allegiance, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/121A.11, checked Oct. 31, 2026
-31. Minnesota Statutes 124D.111, School meals policies; free school meals program, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/124D.111, checked Oct. 31, 2026
-32. Minnesota graduation rates hit record high in 2025 (April 3, 2026), MPR News, https://www.mprnews.org/story/2026/04/03/minnesota-graduation-rates-hit-record-high-in-2025, checked Oct. 31, 2026
-33. Minnesota homeschooling leaped during COVID and counts continue to climb (March 18, 2025), Brainerd Dispatch (Forum/Star Tribune), https://www.brainerddispatch.com/news/minnesota/minnesota-homeschooling-leaped-during-covid-and-counts-continue-to-climb, checked Oct. 31, 2026
-34. All you need to know about The Tourney: 2026 boys hockey state tournament (March 4, 2026), Post Bulletin, https://www.postbulletin.com/sports/prep/all-you-need-to-know-about-the-tourney-the-2026-minnesota-boys-hockey-state-tournament, checked Oct. 31, 2026
-35. Minnesota Fans Celebrate High School Hockey At Packed Xcel Energy Center (March 11, 2025), ESPN Sioux Falls, https://espnsiouxfalls.com/ixp/65/p/prep-hockey-championship-draws-more-fans-than-a-nhl-game/, checked Oct. 31, 2026
-36. Minnesota's uninsured rate rises sharply according to latest data (March 10, 2026), Minnesota Department of Health, https://www.health.mn.gov/news/pressrel/2026/uninsured031026.html, checked Oct. 31, 2026
-37. MCIL/ADA Minnesota Submits Comments on Education and Employment to Minnesota Olmstead Plan, Metropolitan Center for Independent Living, https://mcil-mn.org/mcil-ada-minnesota-submits-comments-on-education-and-employment-to-minnesota-olmstead-plan/, checked Oct. 31, 2026
-38. Overdose Deaths in Minnesota Continue to Decrease (Oct. 30, 2025), Minnesota Medical Association, https://www.mnmed.org/news-and-publications/news/overdose-deaths-minnesota-continue-decrease, checked Oct. 31, 2026
-39. Findings from the 2025 Minnesota Health Access Survey (March 2026), Minnesota Department of Health and SHADAC, https://www.health.state.mn.us/data/economics/hasurvey/docs/mnha2025.pdf, checked Oct. 31, 2026
-40. This Billionaire Is Minnesota's Richest Person in 2025 (July 19, 2025), KROC News, https://krocnews.com/this-billionaire-is-minnesotas-richest-person-in-2025/, checked Oct. 31, 2026
-41. Five Minnesotans Now on World Billionaires List in 2025 (April 6, 2025), KROC News, https://krocnews.com/five-minnesotans-now-on-world-billionaires-list-in-2025/, checked Oct. 31, 2026
-42. Black homeownership in Twin Cities fell to 29% (May 10, 2026), CBS Minnesota, https://www.cbsnews.com/minnesota/news/black-homeownership-twin-cities-gap-minneapolis-federal-reserve/, checked Oct. 31, 2026
-43. Minnesota Black homeownership gap rooted in racial covenants (June 17, 2026), KTTC, https://www.kttc.com/2026/06/17/minnesota-black-homeownership-gap-rooted-racial-covenants/, checked Oct. 31, 2026
-44. Minnesotans made 9 million visits to food shelves in 2025 (March 18, 2026), MPR News, https://www.mprnews.org/story/2026/03/18/minnesotans-made-9-million-visits-to-food-shelves-in-2025, checked Oct. 31, 2026
-45. Record 172 million pounds of food distributed to food shelves (Oct. 17, 2026), MPR News, https://www.mprnews.org/story/2026/10/17/record-172-million-pounds-of-food-distributed-to-food-shelves-amid-high-inflation, checked Oct. 31, 2026
-46. Minnesota Statutes 204C.04, Employees; time off to vote, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/204C.04, checked Oct. 31, 2026
-47. Minnesota Statutes 181.9446, Accrual of earned sick and safe time, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/181.9446, checked Oct. 31, 2026
-48. Minnesota Statutes 181.988, Covenants not to compete void, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/181.988, checked Oct. 31, 2026
-49. Grande Day Parade, Anoka Halloween Inc., https://anokahalloween.com/event/grande-day-parade/, checked Oct. 31, 2026
-50. The History of Anoka Halloween, Anoka Halloween Inc., https://anokahalloween.com/history/, checked Oct. 31, 2026
-51. Bentleyville Tour of Lights, Bentleyville Tour of Lights, https://www.bentleyvilleusa.org/, checked Oct. 31, 2026
-52. Fort Snelling to hold wreath-laying ceremony on Memorial Day (May 26, 2025), KTTC, https://www.kttc.com/2025/05/26/fort-snelling-hold-wreath-laying-ceremony-memorial-day/, checked Oct. 31, 2026
-53. Winterapolis (holidazzle.com redirect), Meet Minneapolis, https://www.minneapolis.org/winter-apolis/winterapolis/, checked Oct. 31, 2026
-54. Thousands march through St. Paul in 60th St. Patrick's Day parade (March 17, 2026), MPR News, https://www.mprnews.org/story/2026/03/17/thousands-march-through-st-paul-in-60th-st-patricks-day-parade, checked Oct. 31, 2026
-55. About Mall of America, Mall of America, https://www.mallofamerica.com/about, checked Oct. 31, 2026
-56. Southdale Center, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/structure/southdale-center, checked Oct. 31, 2026
-57. Jax Cafe, Jax Cafe, https://www.jaxcafe.com/, checked Oct. 31, 2026
-58. 3M to bring employees back to office 4 days a week starting in September (2025), KSTP, https://kstp.com/kstp-news/local-news/3m-to-bring-employees-back-to-office-4-days-a-week-starting-in-september/, checked Oct. 31, 2026
-59. Target Issues Return-to-Office Orders (July 10, 2025), Twin Cities Business, https://tcbmag.com/target-issues-return-to-office-orders/, checked Oct. 31, 2026
-60. Minnesota Reformer: Child care costs more in Minnesota than almost any other state (March 15, 2025), Center for Rural Policy and Development, https://www.ruralmn.org/minnesota-reformer-child-care-costs-more-in-minnesota-than-almost-any-other-state-study-finds/, checked Oct. 31, 2026
-61. What a Declining U.S. Birth Rate Could Mean for Minnesota (2021), Twin Cities Business, https://tcbmag.com/what-a-declining-u-s-birth-rate-could-mean-for-minnesota/, checked Oct. 31, 2026
-62. How Americans feel about making English the official language of the U.S. (March 17, 2025), Pew Research Center, https://www.pewresearch.org/short-reads/2025/03/17/how-americans-feel-about-making-english-the-official-language-of-the-us/, checked Oct. 31, 2026
-63. Harris won Minnesota, Trump surpassed 2020 in 84 of 87 counties (Nov. 2024), Duluth News Tribune, https://www.dglobe.com/news/local/harris-won-minnesota-trump-surpassed-2020-in-84-of-87-counties, checked Oct. 31, 2026
-64. President / Vice President, Minnesota Historical Election Archive, University of Minnesota, https://mn.electionarchives.lib.umn.edu/office/president-vice-president/, checked Oct. 31, 2026
-65. Lewis, Harry Sinclair (1885-1951), MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/person/lewis-harry-sinclair-1885-1951, checked Oct. 31, 2026
-66. Prince (1958-2016), MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/person/prince-1958-2016, checked Oct. 31, 2026
-67. Minnesota State Fair: Origins and Traditions, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/event/minnesota-state-fair-origins-and-traditions, checked Oct. 31, 2026
-68. Labor and Labor Organizing in Minnesota, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/labor-and-labor-organizing-minnesota, checked Oct. 31, 2026
-69. Gophers, Vikings, and Saints: Highlights from the History of Minnesota Sports, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/gophers-vikings-and-saints-highlights-history-minnesota-sports, checked Oct. 31, 2026
-70. Minnesota Frost keeps the Walter Cup (May 26, 2025), MPR News, https://www.mprnews.org/story/2025/05/26/minnesota-frost-beat-ottawa-charge-2-1-game-4, checked Oct. 31, 2026
-71. MSHSL maintains spot in Top 10 in NFHS annual participation survey (Aug. 19, 2025), Minnesota State High School League, https://www.mshsl.org/about/news/league-news/mshsl-maintains-spot-top-10-nfhs-annual-participation-survey, checked Oct. 31, 2026
-72. Employment, Minnesota Council on Disability, https://www.disability.state.mn.us/technical-assistance/employment/, checked Oct. 31, 2026
-73. Minnesota Disability Employment Statistics, Metropolitan Center for Independent Living, https://mcil-mn.org/minnesota-disability-employment-statistics/, checked Oct. 31, 2026
-74. Minnesota Churches Are In Steep Decline: Report (July 9, 2018), Patch, https://patch.com/minnesota/southwestminneapolis/minnesota-churches-are-steep-decline-report, checked Oct. 31, 2026
-75. Eagle Brook Church, Eagle Brook Church, https://www.eaglebrookchurch.com/, checked Oct. 31, 2026
-76. Archdiocese of Saint Paul and Minneapolis, Archdiocese of Saint Paul and Minneapolis, https://www.archspm.org/, checked Oct. 31, 2026
-77. Temple Israel Minneapolis, Temple Israel, https://www.templeisrael.com/, checked Oct. 31, 2026
-78. Annunciation Catholic Church and School shooting coverage, MPR News, https://www.mprnews.org/annunciation-catholic-church-and-school-shooting/3, checked Oct. 31, 2026
-79. New Initiative Seeks to Help Families Reclaim the Sabbath (Aug. 27, 2025), National Catholic Register (CNA), https://www.ncregister.com/cna/catholic-families-reclaim-the-sabbath, checked Oct. 31, 2026
-80. Minnesota: Home to nearly 300,000 veterans, latest state data shows (Nov. 11, 2025), KTTC, https://www.kttc.com/2025/11/11/minnesota-home-nearly-300000-veterans-latest-state-data-shows/, checked Oct. 31, 2026
-81. Things to do in Minnesota: 5 things to do this Fourth of July weekend (June 30, 2026), FOX 9, https://www.fox9.com/news/things-do-minnesota-5-things-do-fourth-july-weekend-2026, checked Oct. 31, 2026
-82. Hundreds Gather At State Veterans Day Program, CBS Minnesota, https://www.cbsnews.com/minnesota/news/hundreds-gather-at-state-veterans-day-program/, checked Oct. 31, 2026
-83. Early voting opens in MN midterms as absentee ballots roll in (Oct. 19, 2026), KAXE, https://www.kaxe.org/elections/2026-10-19/early-voting-opens-in-mn-midterms-as-absentee-ballots-roll-in, checked Oct. 31, 2026
-84. General Mills and UNCF Celebrate 36th Annual Dr. Martin Luther King Jr. Holiday Breakfast (Dec. 16, 2025), General Mills, https://www.generalmills.com/news-and-stories/press-releases/general-mills-and-uncf-celebrate-36th-annual-dr-martin-luther-king-jr-holiday-breakfast, checked Oct. 31, 2026
-85. 2026 MLK Jr. Day, St. Olaf College, https://wp.stolaf.edu/mlkday/, checked Oct. 31, 2026
-86. September 2026 Employment Analysis, Minnesota Department of Employment and Economic Development, https://mn.gov/deed/assets/Sep%202026%20Employment%20Analysis_final_tcm1045-283140.pdf, checked Oct. 31, 2026
-87. Health Care and Social Assistance, CareerForce (DEED), https://careerforce.mn.gov/industry/health-care, checked Oct. 31, 2026
-88. Minnesota annual job growth outpaces rest of U.S. (Aug. 20, 2026), KTTC, https://www.kttc.com/2026/08/20/minnesota-annual-job-growth-outpaces-rest-us/, checked Oct. 31, 2026
-89. Here Are the Five Largest Employers in Minnesota in 2025, KROC News, https://krocnews.com/here-are-the-five-largest-employers-in-minnesota-in-2025/, checked Oct. 31, 2026
-90. Juneteenth is now a holiday in Minnesota (Feb. 3, 2023), MPR News, https://www.mprnews.org/story/2023/02/03/juneteenth-is-now-a-holiday-in-minnesota, checked Oct. 31, 2026
-91. Minnesota DNR provides deer hunting outlook and regulation reminders (Oct. 26, 2026), Minnesota Department of Natural Resources, https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders, checked Oct. 31, 2026
-92. Minnesota ends Medicaid-funded housing stabilization program beset by fraud accusations (Oct. 31, 2025), Yahoo News (Pioneer Press), https://www.yahoo.com/news/articles/minnesota-ends-medicaid-funded-housing-214200017.html, checked Oct. 31, 2026
-93. Minnesota DHS moves to terminate Housing Stabilization Services program amid fraud concerns (2025), ABC 6 News KAAL, https://www.kaaltv.com/news/minnesota-dhs-moves-to-terminate-housing-stabilization-services-program-amid-fraud-concerns/, checked Oct. 31, 2026
-94. The Arc Minnesota testimony on SF 2149 (March 10, 2025), Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2025/labor/20250311/labor_20250311_sf2149-testimony-The-Arc-Minnesota.pdf, checked Oct. 31, 2026
-95. SF 4399 combined letters (March 18, 2024), Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2024/human/20240318/Human_20240318_SF4399-Combined-Letters.pdf, checked Oct. 31, 2026
-96. Minnesota Statutes 177.24, Payment of minimum wages, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/177.24, checked Oct. 31, 2026
-97. The Great Migration (1910-1970), National Archives, https://www.archives.gov/research/african-americans/migrations/great-migration, checked Oct. 31, 2026
-98. Mancini's Char House, Mancini's Char House, https://mancinis.com/, checked Oct. 31, 2026
-99. Matt's Bar, Matt's Bar, https://mattsbar.com/, checked Oct. 31, 2026
-100. 5-8 Club, 5-8 Club, https://www.5-8club.com/, checked Oct. 31, 2026
-101. Holiday Stationstores, Holiday Stationstores / Circle K, https://www.holidaystationstores.com/, checked Oct. 31, 2026
-102. Minneapolis Regional Chamber, Minneapolis Regional Chamber, https://www.minneapolischamber.org/, checked Oct. 31, 2026
-103. Minnesota Chamber of Commerce, Minnesota Chamber of Commerce, https://www.mnchamber.com/, checked Oct. 31, 2026
-104. Murray's Steakhouse, Murray's, https://www.murraysrestaurant.com/, checked Oct. 31, 2026
-105. St. Paul Area Chamber, St. Paul Area Chamber, https://www.saintpaulchamber.com/, checked Oct. 31, 2026
-106. SPAM Museum, Hormel Foods, https://www.spam.com/museum, checked Oct. 31, 2026
-107. Target Corporation, Target Corporation, https://corporate.target.com/, checked Oct. 31, 2026
-108. Best Buy Corporate, Best Buy, https://corporate.bestbuy.com/, checked Oct. 31, 2026
-109. Cub, Cub Foods, https://www.cub.com/, checked Oct. 31, 2026
-110. Lunds & Byerlys, Lunds & Byerlys, https://www.lundsandbyerlys.com/, checked Oct. 31, 2026
-111. Valleyfair, Valleyfair, https://www.valleyfair.com/, checked Oct. 31, 2026
-112. Manny's Steakhouse, Manny's, https://www.mannyssteakhouse.com/, checked Oct. 31, 2026
-113. Wiederholt's Supper Club, Wiederholt's Supper Club, https://www.wiederholtssupperclub.com/, checked Oct. 31, 2026
-114. Vali-Hi Drive-In, Vali-Hi Drive-In, https://www.valihi.com/, checked Oct. 31, 2026
-115. U.S. Bank Stadium, U.S. Bank Stadium, https://www.usbankstadium.com/, checked Oct. 31, 2026
-116. Target Center, Target Center, https://www.targetcenter.com/, checked Oct. 31, 2026
-117. Allianz Field, Allianz Field, https://www.allianzfield.com/, checked Oct. 31, 2026
-118. Target Field, Minnesota Twins / MLB, https://www.mlb.com/twins/ballpark, checked Oct. 31, 2026
-119. Grand Casino Arena, Grand Casino Arena, https://www.grandcasinoarena.com/, checked Oct. 31, 2026
-120. KARE 11, KARE 11, https://www.kare11.com/, checked Oct. 31, 2026
-121. Pioneer Press, Pioneer Press, https://www.twincities.com/, checked Oct. 31, 2026
-122. Minnesota Monthly, Minnesota Monthly, https://www.minnesotamonthly.com/, checked Oct. 31, 2026
-123. Mpls.St.Paul Magazine, Mpls.St.Paul Magazine, https://mspmag.com/, checked Oct. 31, 2026
-124. MPR News, Minnesota Public Radio, https://www.mprnews.org/, checked Oct. 31, 2026
-125. Rosedale Center, Rosedale Center, https://www.rosedalecenter.com/, checked Oct. 31, 2026
+1. American culture (current page), One DSD, https://one-dsd-people-access-culture-production.up.railway.app/minnesota-communities/american
+2. Minnesota Statutes 645.44, Words and phrases defined (holidays), Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/645.44
+3. Cultural communities, Minnesota Compass, https://www.mncompass.org/cultural-communities
+4. Minnesota population (all Minnesotans), Minnesota Compass, https://www.mncompass.org/topics/demographics/cultural-communities/minnesota
+5. Fewer Minnesotans line up with Nordic, German roots (Sept. 21, 2013), Grand Forks Herald, https://www.grandforksherald.com/newsmd/fewer-minnesotans-line-up-with-nordic-german-roots
+6. Counties with the most born-and-bred residents in Minnesota (Aug. 7, 2026), Stacker, https://stacker.com/stories/minnesota/counties-most-born-and-bred-residents-minnesota
+7. Your guide to Fourth of July fireworks and events across Minnesota (June 26, 2026), MPR News, https://www.mprnews.org/story/2026/06/26/fourth-of-july-events-guide-fireworks-parades-in-minnesota
+8. Commemorate America's 250th Anniversary this Fourth of July (July 1, 2026), Minnesota Historical Society, https://www.mnhs.org/media/news/commemorate-americas-250th-anniversary-fourth-july
+9. MN250, Minnesota Historical Society, https://www.mnhs.org/mn250
+10. America 250 event to be held at Mall of America, Dakota County, https://dakotacountymn.gov/government/news/america-250-event-to-be-held-at-mall-of-america
+11. Minnesota leads US in voter turnout for 2024 election (Nov. 22, 2024), KEYC News Now, https://www.keyc.com/2024/11/22/minnesota-leads-us-voter-turnout-2024-election/
+12. Minnesota ranks No. 1 for youth voter turnout in 2024 general election (April 18, 2025), Brainerd Dispatch (Forum News Service), https://www.brainerddispatch.com/news/minnesota/minnesota-ranks-number-one-for-youth-voter-turnout-in-2024-general-election
+13. Number of union members grew by 23,000 in Minnesota in past year (Feb. 28, 2025), Minneapolis Regional Labor Federation, https://minneapolisunions.org/news/mlr2025-02-28-union-members-grew-in-MN
+14. People in Minnesota, Religious Landscape Study 2023-24, Pew Research Center, https://www.pewresearch.org/religious-landscape-study/state/minnesota/
+15. In first 6 months, MN Paid Leave program draws 100,000 applications (July 7, 2026), KTTC, https://www.kttc.com/2026/07/07/first-6-months-mn-paid-leave-program-draws-100000-applications/
+16. Minimum wage in Minnesota, Minnesota Department of Labor and Industry, https://www.dli.mn.gov/minwage
+17. Fortune 500 List Contains Some Warnings for Minnesota (2025), Twin Cities Business, https://tcbmag.com/fortune-500-list-contains-some-warnings-for-minnesota/
+18. Minnesota State Fair draws 1.9 million visitors in 2026 (Sept. 8, 2026), KTTC, https://www.kttc.com/2026/09/08/minnesota-state-fair-draws-19-million-visitors-2026/
+19. 2026 Minnesota State Fair wrap, Minnesota State Fair, https://www.mnstatefair.org/updates/2026-fair
+20. Minnesota ranks 3rd for volunteering as national rates rebound (2024), InForum, https://www.inforum.com/news/moorhead/minnesota-ranks-3rd-for-volunteering-as-national-rates-rebound-post-pandemic-study-shows
+21. Turkeys Raised (Sept. 26, 2025), USDA National Agricultural Statistics Service, https://www.nass.usda.gov/Publications/Todays_Reports/reports/tuky0925.pdf
+22. Minnesota turkey showcased at the State Capitol, WDIO, https://www.wdio.com/top-stories/minnesota-turkey-showcased-at-the-state-capitol/
+23. Vance Boelter sentenced to two life terms plus 40 years in killing of Hortmans (July 23, 2026), KAXE (Minnesota Reformer), https://www.kaxe.org/minnesota-news/2026-07-23/vance-boelter-sentenced-to-two-life-terms-plus-40-years-in-killing-of-hortmans
+24. Border Czar Tom Homan announces conclusion of Operation Metro Surge (Feb. 12, 2026), KEYC/KTTC, https://www.keyc.com/2026/02/12/border-czar-tom-homan-announces-conclusion-operation-metro-surge/
+25. Immigration operation in Minnesota coming to an end (Feb. 12, 2026), ABC News 4 (Sinclair/AP), https://abcnews4.com/news/nation-world/immigration-operation-in-minnesota-coming-to-an-end-tom-homan-immigration-and-customs-enforcement-dhs-operation-metro-surge
+26. Federal authorities announce an end to the immigration crackdown in Minnesota (Feb. 12, 2026), News9 (AP), https://www.news9.com/national-politics-oklahoma/federal-authorities-announce-end-immigration-crackdown-minnesota
+27. Minnesota Governor Race 2026: Klobuchar vs. Demuth, MultiState, https://www.multistate.us/elections/governor-race/minnesota-2026
+28. Minnesota governor's race: Potential Democratic contenders after Walz's exit (Jan. 2026), FOX 9, https://www.fox9.com/news/minnesota-governors-race-potential-democratic-contenders-after-walz-exit
+29. Minnesota Statutes 120A.40, School calendar, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/120A.40
+30. Minnesota Statutes 121A.11, United States flag; Pledge of Allegiance, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/121A.11
+31. Minnesota Statutes 124D.111, School meals policies; free school meals program, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/124D.111
+32. Minnesota graduation rates hit record high in 2025 (April 3, 2026), MPR News, https://www.mprnews.org/story/2026/04/03/minnesota-graduation-rates-hit-record-high-in-2025
+33. Minnesota homeschooling leaped during COVID and counts continue to climb (March 18, 2025), Brainerd Dispatch (Forum/Star Tribune), https://www.brainerddispatch.com/news/minnesota/minnesota-homeschooling-leaped-during-covid-and-counts-continue-to-climb
+34. All you need to know about The Tourney: 2026 boys hockey state tournament (March 4, 2026), Post Bulletin, https://www.postbulletin.com/sports/prep/all-you-need-to-know-about-the-tourney-the-2026-minnesota-boys-hockey-state-tournament
+35. Minnesota Fans Celebrate High School Hockey At Packed Xcel Energy Center (March 11, 2025), ESPN Sioux Falls, https://espnsiouxfalls.com/ixp/65/p/prep-hockey-championship-draws-more-fans-than-a-nhl-game/
+36. Minnesota's uninsured rate rises sharply according to latest data (March 10, 2026), Minnesota Department of Health, https://www.health.mn.gov/news/pressrel/2026/uninsured031026.html
+37. MCIL/ADA Minnesota Submits Comments on Education and Employment to Minnesota Olmstead Plan, Metropolitan Center for Independent Living, https://mcil-mn.org/mcil-ada-minnesota-submits-comments-on-education-and-employment-to-minnesota-olmstead-plan/
+38. Overdose Deaths in Minnesota Continue to Decrease (Oct. 30, 2025), Minnesota Medical Association, https://www.mnmed.org/news-and-publications/news/overdose-deaths-minnesota-continue-decrease
+39. Findings from the 2025 Minnesota Health Access Survey (March 2026), Minnesota Department of Health and SHADAC, https://www.health.state.mn.us/data/economics/hasurvey/docs/mnha2025.pdf
+40. This Billionaire Is Minnesota's Richest Person in 2025 (July 19, 2025), KROC News, https://krocnews.com/this-billionaire-is-minnesotas-richest-person-in-2025/
+41. Five Minnesotans Now on World Billionaires List in 2025 (April 6, 2025), KROC News, https://krocnews.com/five-minnesotans-now-on-world-billionaires-list-in-2025/
+42. Black homeownership in Twin Cities fell to 29% (May 10, 2026), CBS Minnesota, https://www.cbsnews.com/minnesota/news/black-homeownership-twin-cities-gap-minneapolis-federal-reserve/
+43. Minnesota Black homeownership gap rooted in racial covenants (June 17, 2026), KTTC, https://www.kttc.com/2026/06/17/minnesota-black-homeownership-gap-rooted-racial-covenants/
+44. Minnesotans made 9 million visits to food shelves in 2025 (March 18, 2026), MPR News, https://www.mprnews.org/story/2026/03/18/minnesotans-made-9-million-visits-to-food-shelves-in-2025
+45. Record 172 million pounds of food distributed to food shelves (Oct. 17, 2026), MPR News, https://www.mprnews.org/story/2026/10/17/record-172-million-pounds-of-food-distributed-to-food-shelves-amid-high-inflation
+46. Minnesota Statutes 204C.04, Employees; time off to vote, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/204C.04
+47. Minnesota Statutes 181.9446, Accrual of earned sick and safe time, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/181.9446
+48. Minnesota Statutes 181.988, Covenants not to compete void, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/181.988
+49. Grande Day Parade, Anoka Halloween Inc., https://anokahalloween.com/event/grande-day-parade/
+50. The History of Anoka Halloween, Anoka Halloween Inc., https://anokahalloween.com/history/
+51. Bentleyville Tour of Lights, Bentleyville Tour of Lights, https://www.bentleyvilleusa.org/
+52. Fort Snelling to hold wreath-laying ceremony on Memorial Day (May 26, 2025), KTTC, https://www.kttc.com/2025/05/26/fort-snelling-hold-wreath-laying-ceremony-memorial-day/
+53. Winterapolis (holidazzle.com redirect), Meet Minneapolis, https://www.minneapolis.org/winter-apolis/winterapolis/
+54. Thousands march through St. Paul in 60th St. Patrick's Day parade (March 17, 2026), MPR News, https://www.mprnews.org/story/2026/03/17/thousands-march-through-st-paul-in-60th-st-patricks-day-parade
+55. About Mall of America, Mall of America, https://www.mallofamerica.com/about
+56. Southdale Center, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/structure/southdale-center
+57. Jax Cafe, Jax Cafe, https://www.jaxcafe.com/
+58. 3M to bring employees back to office 4 days a week starting in September (2025), KSTP, https://kstp.com/kstp-news/local-news/3m-to-bring-employees-back-to-office-4-days-a-week-starting-in-september/
+59. Target Issues Return-to-Office Orders (July 10, 2025), Twin Cities Business, https://tcbmag.com/target-issues-return-to-office-orders/
+60. Minnesota Reformer: Child care costs more in Minnesota than almost any other state (March 15, 2025), Center for Rural Policy and Development, https://www.ruralmn.org/minnesota-reformer-child-care-costs-more-in-minnesota-than-almost-any-other-state-study-finds/
+61. What a Declining U.S. Birth Rate Could Mean for Minnesota (2021), Twin Cities Business, https://tcbmag.com/what-a-declining-u-s-birth-rate-could-mean-for-minnesota/
+62. How Americans feel about making English the official language of the U.S. (March 17, 2025), Pew Research Center, https://www.pewresearch.org/short-reads/2025/03/17/how-americans-feel-about-making-english-the-official-language-of-the-us/
+63. Harris won Minnesota, Trump surpassed 2020 in 84 of 87 counties (Nov. 2024), Duluth News Tribune, https://www.dglobe.com/news/local/harris-won-minnesota-trump-surpassed-2020-in-84-of-87-counties
+64. President / Vice President, Minnesota Historical Election Archive, University of Minnesota, https://mn.electionarchives.lib.umn.edu/office/president-vice-president/
+65. Lewis, Harry Sinclair (1885-1951), MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/person/lewis-harry-sinclair-1885-1951
+66. Prince (1958-2016), MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/person/prince-1958-2016
+67. Minnesota State Fair: Origins and Traditions, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/event/minnesota-state-fair-origins-and-traditions
+68. Labor and Labor Organizing in Minnesota, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/labor-and-labor-organizing-minnesota
+69. Gophers, Vikings, and Saints: Highlights from the History of Minnesota Sports, MNopedia, Minnesota Historical Society, https://www.mnhs.org/mnopedia/search/index/gophers-vikings-and-saints-highlights-history-minnesota-sports
+70. Minnesota Frost keeps the Walter Cup (May 26, 2025), MPR News, https://www.mprnews.org/story/2025/05/26/minnesota-frost-beat-ottawa-charge-2-1-game-4
+71. MSHSL maintains spot in Top 10 in NFHS annual participation survey (Aug. 19, 2025), Minnesota State High School League, https://www.mshsl.org/about/news/league-news/mshsl-maintains-spot-top-10-nfhs-annual-participation-survey
+72. Employment, Minnesota Council on Disability, https://www.disability.state.mn.us/technical-assistance/employment/
+73. Minnesota Disability Employment Statistics, Metropolitan Center for Independent Living, https://mcil-mn.org/minnesota-disability-employment-statistics/
+74. Minnesota Churches Are In Steep Decline: Report (July 9, 2018), Patch, https://patch.com/minnesota/southwestminneapolis/minnesota-churches-are-steep-decline-report
+75. Eagle Brook Church, Eagle Brook Church, https://www.eaglebrookchurch.com/
+76. Archdiocese of Saint Paul and Minneapolis, Archdiocese of Saint Paul and Minneapolis, https://www.archspm.org/
+77. Temple Israel Minneapolis, Temple Israel, https://www.templeisrael.com/
+78. Annunciation Catholic Church and School shooting coverage, MPR News, https://www.mprnews.org/annunciation-catholic-church-and-school-shooting/3
+79. New Initiative Seeks to Help Families Reclaim the Sabbath (Aug. 27, 2025), National Catholic Register (CNA), https://www.ncregister.com/cna/catholic-families-reclaim-the-sabbath
+80. Minnesota: Home to nearly 300,000 veterans, latest state data shows (Nov. 11, 2025), KTTC, https://www.kttc.com/2025/11/11/minnesota-home-nearly-300000-veterans-latest-state-data-shows/
+81. Things to do in Minnesota: 5 things to do this Fourth of July weekend (June 30, 2026), FOX 9, https://www.fox9.com/news/things-do-minnesota-5-things-do-fourth-july-weekend-2026
+82. Hundreds Gather At State Veterans Day Program, CBS Minnesota, https://www.cbsnews.com/minnesota/news/hundreds-gather-at-state-veterans-day-program/
+83. Early voting opens in MN midterms as absentee ballots roll in (Oct. 19, 2026), KAXE, https://www.kaxe.org/elections/2026-10-19/early-voting-opens-in-mn-midterms-as-absentee-ballots-roll-in
+84. General Mills and UNCF Celebrate 36th Annual Dr. Martin Luther King Jr. Holiday Breakfast (Dec. 16, 2025), General Mills, https://www.generalmills.com/news-and-stories/press-releases/general-mills-and-uncf-celebrate-36th-annual-dr-martin-luther-king-jr-holiday-breakfast
+85. 2026 MLK Jr. Day, St. Olaf College, https://wp.stolaf.edu/mlkday/
+86. September 2026 Employment Analysis, Minnesota Department of Employment and Economic Development, https://mn.gov/deed/assets/Sep%202026%20Employment%20Analysis_final_tcm1045-283140.pdf
+87. Health Care and Social Assistance, CareerForce (DEED), https://careerforce.mn.gov/industry/health-care
+88. Minnesota annual job growth outpaces rest of U.S. (Aug. 20, 2026), KTTC, https://www.kttc.com/2026/08/20/minnesota-annual-job-growth-outpaces-rest-us/
+89. Here Are the Five Largest Employers in Minnesota in 2025, KROC News, https://krocnews.com/here-are-the-five-largest-employers-in-minnesota-in-2025/
+90. Juneteenth is now a holiday in Minnesota (Feb. 3, 2023), MPR News, https://www.mprnews.org/story/2023/02/03/juneteenth-is-now-a-holiday-in-minnesota
+91. Minnesota DNR provides deer hunting outlook and regulation reminders (Oct. 26, 2026), Minnesota Department of Natural Resources, https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders
+92. Minnesota ends Medicaid-funded housing stabilization program beset by fraud accusations (Oct. 31, 2025), Yahoo News (Pioneer Press), https://www.yahoo.com/news/articles/minnesota-ends-medicaid-funded-housing-214200017.html
+93. Minnesota DHS moves to terminate Housing Stabilization Services program amid fraud concerns (2025), ABC 6 News KAAL, https://www.kaaltv.com/news/minnesota-dhs-moves-to-terminate-housing-stabilization-services-program-amid-fraud-concerns/
+94. The Arc Minnesota testimony on SF 2149 (March 10, 2025), Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2025/labor/20250311/labor_20250311_sf2149-testimony-The-Arc-Minnesota.pdf
+95. SF 4399 combined letters (March 18, 2024), Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2024/human/20240318/Human_20240318_SF4399-Combined-Letters.pdf
+96. Minnesota Statutes 177.24, Payment of minimum wages, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/177.24
+97. The Great Migration (1910-1970), National Archives, https://www.archives.gov/research/african-americans/migrations/great-migration
+98. Mancini's Char House, Mancini's Char House, https://mancinis.com/
+99. Matt's Bar, Matt's Bar, https://mattsbar.com/
+100. 5-8 Club, 5-8 Club, https://www.5-8club.com/
+101. Holiday Stationstores, Holiday Stationstores / Circle K, https://www.holidaystationstores.com/
+102. Minneapolis Regional Chamber, Minneapolis Regional Chamber, https://www.minneapolischamber.org/
+103. Minnesota Chamber of Commerce, Minnesota Chamber of Commerce, https://www.mnchamber.com/
+104. Murray's Steakhouse, Murray's, https://www.murraysrestaurant.com/
+105. St. Paul Area Chamber, St. Paul Area Chamber, https://www.saintpaulchamber.com/
+106. SPAM Museum, Hormel Foods, https://www.spam.com/museum
+107. Target Corporation, Target Corporation, https://corporate.target.com/
+108. Best Buy Corporate, Best Buy, https://corporate.bestbuy.com/
+109. Cub, Cub Foods, https://www.cub.com/
+110. Lunds & Byerlys, Lunds & Byerlys, https://www.lundsandbyerlys.com/
+111. Valleyfair, Valleyfair, https://www.valleyfair.com/
+112. Manny's Steakhouse, Manny's, https://www.mannyssteakhouse.com/
+113. Wiederholt's Supper Club, Wiederholt's Supper Club, https://www.wiederholtssupperclub.com/
+114. Vali-Hi Drive-In, Vali-Hi Drive-In, https://www.valihi.com/
+115. U.S. Bank Stadium, U.S. Bank Stadium, https://www.usbankstadium.com/
+116. Target Center, Target Center, https://www.targetcenter.com/
+117. Allianz Field, Allianz Field, https://www.allianzfield.com/
+118. Target Field, Minnesota Twins / MLB, https://www.mlb.com/twins/ballpark
+119. Grand Casino Arena, Grand Casino Arena, https://www.grandcasinoarena.com/
+120. KARE 11, KARE 11, https://www.kare11.com/
+121. Pioneer Press, Pioneer Press, https://www.twincities.com/
+122. Minnesota Monthly, Minnesota Monthly, https://www.minnesotamonthly.com/
+123. Mpls.St.Paul Magazine, Mpls.St.Paul Magazine, https://mspmag.com/
+124. MPR News, Minnesota Public Radio, https://www.mprnews.org/
+125. Rosedale Center, Rosedale Center, https://www.rosedalecenter.com/
