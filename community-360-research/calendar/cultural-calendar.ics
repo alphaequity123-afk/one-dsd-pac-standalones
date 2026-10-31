@@ -845,6 +845,20 @@ CATEGORIES:remembrance
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:hoops4unity-eid-basketball-tournament-2026-03-29@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:Hoops4Unity Eid basketball tournament
+DESCRIPTION:Eid al-Fitr\, with money raised for humanitarian aid in Somal
+ ia in 2026. Date: Set each year by Hoops4Unity after Eid al-Fitr\; no fix
+ ed rule found. Source: Sahan Journal\, June 25\, 2026 (date the 2026 tour
+ nament was held) https://sahanjournal.com/arts-culture/hoops-four-unity-b
+ asketball-league-somali-twin-cities/ Communities: Somali Minnesota
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:farmworkers-day-2026-03-31@community-360-research
 DTSTAMP:20261031T000000Z
 DTSTART;VALUE=DATE:20260331
@@ -1628,6 +1642,19 @@ DESCRIPTION:A traditional early-summer festival\; in China dragon boat ra
  of the Chinese lunisolar calendar. Source: GovHK general holidays 2026 (T
  uen Ng Festival\, 19 June) https://www.gov.hk/en/about/abouthk/holiday/20
  26.htm Communities: Chinese Minnesota
+CATEGORIES:cultural
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:buraanbur-night-at-the-somali-museum-2026-06-20@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:Buraanbur Night at the Somali Museum
+DESCRIPTION:Honors Somali women elders\, including the museum's master we
+ avers. Date: Announced by the Somali Museum of Minnesota\; no yearly rule
+  stated. Source: Somali Museum of Minnesota event page https://www.somali
+ museum.org/events/summer-festival Communities: Somali Minnesota
 CATEGORIES:cultural
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3425,6 +3452,19 @@ DESCRIPTION:Halloween\, and Anoka's century-old citywide celebration begu
  n to discourage pranks. Date: Events through October\, ending on Hallowee
  n\, October 31. Source: Anoka Halloween Inc. event listings https://anoka
  halloween.com/halloween/ Communities: Minnesota culture
+CATEGORIES:community festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:somali-museum-of-minnesota-anniversary-celebration-2026-10-31@community-360-research
+DTSTAMP:20261031T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Somali Museum of Minnesota anniversary celebration
+DESCRIPTION:The museum's anniversary and Somali arts and culture. Date: A
+ nnounced each year by the Somali Museum of Minnesota\; held in October. S
+ ource: Somali Museum of Minnesota events page https://www.somalimuseum.or
+ g/events Communities: Somali Minnesota
 CATEGORIES:community festival
 TRANSP:TRANSPARENT
 END:VEVENT

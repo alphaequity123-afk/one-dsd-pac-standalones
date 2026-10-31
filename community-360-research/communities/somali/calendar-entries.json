@@ -191,8 +191,16 @@
    ],
    "dateCertainty": "moon-sighted or announced",
    "whatItMarks": "The end of Ramadan.",
-   "howCelebratedInMinnesota": "CBS Minnesota reported Eid prayers at NorthWest Islamic Community Center and through the Muslim American Society in 2024, without naming Somali Minnesotans. Lake Street's 2026 guide lists Eid shopping at boutiques and salons.",
-   "minnesotaEvents": [],
+   "howCelebratedInMinnesota": "CBS Minnesota reported Eid prayers at NorthWest Islamic Community Center and through the Muslim American Society in 2024, without naming Somali Minnesotans. Lake Street's 2026 guide lists Eid shopping at boutiques and salons. In St. Cloud in 2019, the DNR and city and county parks joined a Somali Eid al-Fitr picnic at Lake George with fishing lessons (MPR News). Hoops4Unity, a league serving mainly Somali Americans, held its second Eid tournament in St. Paul on March 29, 2026 (Sahan Journal).",
+   "minnesotaEvents": [
+    {
+     "name": "Hoops4Unity Eid basketball tournament (second annual)",
+     "place": "St. Paul",
+     "link": "https://sahanjournal.com/arts-culture/hoops-four-unity-basketball-league-somali-twin-cities/",
+     "organizerDates": "Held Sunday, March 29, 2026, as reported by Sahan Journal; 22 teams and nearly 800 spectators",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
    "sources": [
     {
@@ -204,6 +212,16 @@
      "title": "Ramadan Guide, Visit Lake Street",
      "url": "https://www.visitlakestreet.com/ramadan-guide",
      "dateChecked": "2026-10-30"
+    },
+    {
+     "title": "Photos: St. Cloud Somali youth celebrate Eid, get schooled in fishing, MPR News, June 5, 2019",
+     "url": "https://www.mprnews.org/story/2019/06/05/photos-somali-youth-celebrate-eid-learn-fishing",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Hoops4Unity basketball league, Sahan Journal, June 25, 2026",
+     "url": "https://sahanjournal.com/arts-culture/hoops-four-unity-basketball-league-somali-twin-cities/",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -244,14 +262,66 @@
    ],
    "dateCertainty": "moon-sighted or announced",
    "whatItMarks": "The festival of sacrifice during Hajj.",
-   "howCelebratedInMinnesota": null,
-   "minnesotaEvents": [],
+   "howCelebratedInMinnesota": "Reports show a pattern rather than one Somali-only event. Eid prayers draw large crowds at shared Muslim sites: CBS Minnesota reported tens of thousands at the Minneapolis Convention Center on June 28, 2023, quoting the executive director of Abubakar As-Saddique Islamic Center, and 'Super Eid' filled U.S. Bank Stadium in 2018 and on July 9, 2022. The convention center's 2026 calendar lists Eid al-Adha on May 26/27, 2026, without naming an organizer. Afterward many families go to the Mall of America; in 2016 FOX 9 quoted Somali organizer Abdi Bihi calling the mall 'part of our Somali culture here in Minnesota,' and in 2024 Somali community leaders, the mall and Bloomington police planned Eid safety together. Sahan Journal reported in 2020 that some Muslims, including a Somali Minnesotan, perform the sacrifice at farms such as Meat Halal Farm in Braham, and in 2021 that Minneapolis bakeries make thousands of pounds of halwa for the holiday. No 2026 report of a Somali-specific Eid al-Adha event was found.",
+   "minnesotaEvents": [
+    {
+     "name": "Eid al-Adha (listed event)",
+     "place": "Minneapolis Convention Center",
+     "link": "https://www.minneapolis.org/minneapolis-convention-center/about/press/mcc-2026-q2-events/",
+     "organizerDates": "Listed as May 26/27, 2026 on the convention center's Q2 2026 calendar; organizer not named",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Eid al-Adha prayer",
+     "place": "Minneapolis Convention Center",
+     "link": "https://www.cbsnews.com/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/",
+     "organizerDates": "Held Wednesday, June 28, 2023 (CBS Minnesota)",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "name": "Super Eid",
+     "place": "U.S. Bank Stadium, Minneapolis",
+     "link": "https://www.mprnews.org/story/2022/07/08/a-super-eid-for-every-minnesotan-at-us-bank-stadium",
+     "organizerDates": "Held Saturday, July 9, 2022 (MPR News); earlier at the stadium in 2018",
+     "dateChecked": "2026-10-31"
+    }
+   ],
    "workplaceNote": null,
    "sources": [
     {
-     "title": "Seed calendar; no Minnesota Somali event found",
-     "url": "https://www.minneapolis.org/calendar/holidays/ramadan/",
-     "dateChecked": "2026-10-30"
+     "title": "Minneapolis Convention Center 2026 Q2 event calendar, Meet Minneapolis",
+     "url": "https://www.minneapolis.org/minneapolis-convention-center/about/press/mcc-2026-q2-events/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Tens of thousands of Muslims celebrate Eid al-Adha at Minneapolis Convention Center, CBS Minnesota, June 28, 2023",
+     "url": "https://www.cbsnews.com/minnesota/news/tens-of-thousands-of-muslims-celebrate-eid-al-adha-at-minneapolis-convention-center/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "A 'Super Eid' for every Minnesotan at U.S. Bank Stadium, MPR News, July 8, 2022",
+     "url": "https://www.mprnews.org/story/2022/07/08/a-super-eid-for-every-minnesotan-at-us-bank-stadium",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "A pilgrimage to Mall of America on Eid al Adha, FOX 9, Sept. 13, 2016",
+     "url": "https://www.fox9.com/news/a-pilgrimage-to-mall-of-america-on-eid-al-adha",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Minnesota Muslims preparing for Eid-al-Adha at the Mall of America, CBS Minnesota, June 15, 2024",
+     "url": "https://www.cbsnews.com/minnesota/news/mn-muslims-preparing-for-eid-al-adha-at-the-mall-of-america/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "A goat, a knife, a sacrifice, Sahan Journal, July 31, 2020",
+     "url": "https://sahanjournal.com/eid-al-adha/minnesota-eid-al-adha-halal-farm-slaughter/",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Eid in Minnesota means a pound (or a bucket) of halwa, Sahan Journal, July 18, 2021",
+     "url": "https://sahanjournal.com/food/eid-minneapolis-halwa/",
+     "dateChecked": "2026-10-31"
     }
    ]
   },
@@ -976,6 +1046,177 @@
      "title": "Maangaar Summit, Sahan Journal, Sept. 9, 2024",
      "url": "https://sahanjournal.com/immigration/maangaar-summit-somali-autism-minnesota/",
      "dateChecked": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Somali Museum of Minnesota anniversary celebration",
+   "alsoKnownAs": [
+    "13th Anniversary Celebration"
+   ],
+   "kind": "community festival",
+   "capsule": "The Somali Museum's yearly October evening of Somali singers, actors, dancers and community leaders.",
+   "dateRule": "Announced each year by the Somali Museum of Minnesota; held in October.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-10-31",
+     "endDate": null,
+     "source": "Somali Museum of Minnesota events page",
+     "sourceUrl": "https://www.somalimuseum.org/events",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "The museum's anniversary and Somali arts and culture.",
+   "howCelebratedInMinnesota": "The museum describes it as one of the biggest cultural celebrations in the Twin Cities, held every October. The 2026 event is at Hopkins Center for the Arts, 1111 Mainstreet, Hopkins, in the evening of October 31.",
+   "minnesotaEvents": [
+    {
+     "name": "13th Anniversary Celebration",
+     "place": "Hopkins Center for the Arts, Hopkins",
+     "link": "https://www.somalimuseum.org/events",
+     "organizerDates": "Saturday, October 31, 2026, evening",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Events, Somali Museum of Minnesota",
+     "url": "https://www.somalimuseum.org/events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Buraanbur Night at the Somali Museum",
+   "alsoKnownAs": [
+    "Buraanbur Night Honoring Our Somali Women Elders"
+   ],
+   "kind": "cultural",
+   "capsule": "An evening of buraanbur, poetry and performance honoring Somali women elders and master weavers.",
+   "dateRule": "Announced by the Somali Museum of Minnesota; no yearly rule stated.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-06-20",
+     "endDate": null,
+     "source": "Somali Museum of Minnesota event page",
+     "sourceUrl": "https://www.somalimuseum.org/events/summer-festival",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Honors Somali women elders, including the museum's master weavers.",
+   "howCelebratedInMinnesota": "Held June 20, 2026, 4:30 to 8:30 p.m., at Amal Event, 1201 E. Lake St., Minneapolis. The museum named weavers Ardho Ismail, Amina Shire, Xalwo Duale and Hawa Aden.",
+   "minnesotaEvents": [
+    {
+     "name": "Buraanbur Night Honoring Our Somali Women Elders",
+     "place": "Amal Event, 1201 E. Lake St., Minneapolis",
+     "link": "https://www.somalimuseum.org/events/summer-festival",
+     "organizerDates": "Saturday, June 20, 2026, 4:30-8:30 p.m.",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Buraanbur Night, Somali Museum of Minnesota",
+     "url": "https://www.somalimuseum.org/events/summer-festival",
+     "dateChecked": "2026-10-31"
+    },
+    {
+     "title": "Events, Somali Museum of Minnesota",
+     "url": "https://www.somalimuseum.org/events",
+     "dateChecked": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "seedId": null,
+   "name": "Hoops4Unity Eid basketball tournament",
+   "alsoKnownAs": [],
+   "kind": "community festival",
+   "capsule": "A Twin Cities basketball tournament held around Eid al-Fitr by a league serving mainly Somali Americans.",
+   "dateRule": "Set each year by Hoops4Unity after Eid al-Fitr; no fixed rule found.",
+   "dates": [
+    {
+     "year": 2026,
+     "date": "2026-03-29",
+     "endDate": null,
+     "source": "Sahan Journal, June 25, 2026 (date the 2026 tournament was held)",
+     "sourceUrl": "https://sahanjournal.com/arts-culture/hoops-four-unity-basketball-league-somali-twin-cities/",
+     "verified": true
+    },
+    {
+     "year": 2027,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    },
+    {
+     "year": 2028,
+     "date": null,
+     "endDate": null,
+     "source": "Not yet announced",
+     "sourceUrl": null,
+     "verified": false
+    }
+   ],
+   "dateCertainty": "announced each year",
+   "whatItMarks": "Eid al-Fitr, with money raised for humanitarian aid in Somalia in 2026.",
+   "howCelebratedInMinnesota": "Sahan Journal reported the second annual tournament on Sunday, March 29, 2026, in St. Paul, with 22 teams and nearly 800 spectators.",
+   "minnesotaEvents": [
+    {
+     "name": "Hoops4Unity Eid tournament (second annual)",
+     "place": "St. Paul",
+     "link": "https://sahanjournal.com/arts-culture/hoops-four-unity-basketball-league-somali-twin-cities/",
+     "organizerDates": "Held March 29, 2026",
+     "dateChecked": "2026-10-31"
+    }
+   ],
+   "workplaceNote": null,
+   "sources": [
+    {
+     "title": "Hoops4Unity basketball league, Sahan Journal, June 25, 2026",
+     "url": "https://sahanjournal.com/arts-culture/hoops-four-unity-basketball-league-somali-twin-cities/",
+     "dateChecked": "2026-10-31"
     }
    ]
   }

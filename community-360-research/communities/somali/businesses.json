@@ -5,9 +5,9 @@
   "neighborhoodOrCity": "2910 Pleasant Ave. S., Minneapolis (Lake Street area)",
   "whatItIs": "Somali mall opened 2005 with shops, food, money transfer and a mosque; counts range from over 100 businesses (MNopedia, AP) to 650 (owner, June 2026).",
   "link": "https://sahanjournal.com/business-work/minnesota-somali-businesses-struggle-after-immigration-crackdown/",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "open",
-  "evidence": "Sahan Journal, June 2026: owner reports businesses slowly regaining foot traffic; listed in 2026 Visit Lake Street guide."
+  "evidence": "Sahan Journal, Aug. 27, 2026: Lake Street Council held its final cash mob there Aug. 26, 2026; about 25% of its nearly 650 businesses were still closed, per a council adviser."
  },
  {
   "name": "Karmel Mall (second site)",
@@ -202,12 +202,12 @@
  {
   "name": "Albi Kitchen",
   "type": "restaurant",
-  "neighborhoodOrCity": "Loring Park, Minneapolis",
-  "whatItIs": "Modern Somali comfort food; sambusas and qahwa.",
-  "link": "https://www.minneapolis.org/food-drink/international/somali/",
-  "dateChecked": "2026-10-30",
-  "status": "could not confirm open",
-  "evidence": "Named in undated Meet Minneapolis guides; its listed site did not resolve when checked."
+  "neighborhoodOrCity": "1411 Nicollet Ave. S., Loring Park, Minneapolis",
+  "whatItIs": "Counter-service cafe with sambusas made from scratch daily, Somali qahwa, halwa and cakes.",
+  "link": "https://racketmn.com/albi-kitchen-serves-up-somali-sambusas-and-sweets-in-a-super-cute-space",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Racket review dated Oct. 10, 2025, describes recent visits and current menu prices at 1411 Nicollet Ave. S."
  },
  {
   "name": "Soma Grill & Deli",
@@ -230,14 +230,14 @@
   "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
  },
  {
-  "name": "Halwo Kismayo",
+  "name": "Halwo Kismayo (Xalwo Kismayo)",
   "type": "sweets",
-  "neighborhoodOrCity": "E. Lake St. near Bloomington Ave., Minneapolis",
-  "whatItIs": "Known for halwo.",
-  "link": "https://www.minneapolis.org/east-african-community/east-african-itinerary/",
-  "dateChecked": "2026-10-30",
+  "neighborhoodOrCity": "Bloomington Ave., with a bakery on Lake Street, Minneapolis",
+  "whatItIs": "Halwa maker and grill; in 2021 its owner expected to sell 5,000 to 10,000 pounds of halwa for Eid al-Adha and sold wholesale to Somali shops in St. Paul, Burnsville and Eden Prairie.",
+  "link": "https://sahanjournal.com/food/eid-minneapolis-halwa/",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Named only in an undated Meet Minneapolis guide; no dated sign of operation opened."
+  "evidence": "Sahan Journal, July 18, 2021, and an undated Meet Minneapolis guide; no 2025 or 2026 sign of operation opened."
  },
  {
   "name": "Safari Restaurant",
@@ -465,9 +465,9 @@
   "neighborhoodOrCity": "Minneapolis",
   "whatItIs": "Commercial litigation firm; Farah became partner in January 2021. Not a Somali-owned firm.",
   "link": "https://sahanjournal.com/?p=8071",
-  "dateChecked": "2026-10-30",
+  "dateChecked": "2026-10-31",
   "status": "could not confirm open",
-  "evidence": "Sahan Journal, Feb. 18, 2021 is the latest opened."
+  "evidence": "Sahan Journal, Feb. 18, 2021 is the latest opened. The firm's own undated news page on her appointment to a federal selection committee was opened Oct. 31, 2026; it does not give a current date."
  },
  {
   "name": "Somali American Bar Association",
@@ -558,5 +558,175 @@
   "dateChecked": "2026-10-30",
   "status": "could not confirm open",
   "evidence": "NBC News, 2016 only."
+ },
+ {
+  "name": "Zahra Cafe",
+  "type": "cafe",
+  "neighborhoodOrCity": "Karmel Mall, Minneapolis",
+  "whatItIs": "Cafe in Karmel Mall owned by Khadijo Warsame, who told Sahan Journal she has struggled to pay rent since Metro Surge.",
+  "link": "https://sahanjournal.com/business-work/minneapolis-karmel-mall-lake-street-cash-mob/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Sahan Journal, Aug. 27, 2026, reports the owner keeping the cafe open."
+ },
+ {
+  "name": "Barakaa Cafe",
+  "type": "cafe",
+  "neighborhoodOrCity": "Karmel Mall, Minneapolis",
+  "whatItIs": "Food counter in Karmel Mall.",
+  "link": "https://sahanjournal.com/business-work/minneapolis-karmel-mall-lake-street-cash-mob/",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "Sahan Journal photo caption shows shoppers buying food there during the Aug. 26, 2026 cash mob."
+ },
+ {
+  "name": "Kalsan Cuisine",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Midtown Square, 3333 W. Division St., St. Cloud",
+  "whatItIs": "Somali-run restaurant blending Somali, Kenyan and American dishes, with goat and camel; co-owned by Mohamed Jama and two others.",
+  "link": "https://www.stcloudlive.com/business/biz-buzz-new-restaurant-blends-african-and-american-food",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "St. Cloud LIVE Biz Buzz, early 2025 (photos dated Jan. 30, 2025), lists it open 8 a.m. to 10 p.m. daily."
+ },
+ {
+  "name": "Salaama",
+  "type": "restaurant",
+  "neighborhoodOrCity": "Strip mall at 33rd St. and Third Ave. NW, St. Cloud",
+  "whatItIs": "Somali restaurant named in an Initiative Foundation feature.",
+  "link": "https://ifound.org/iq-magazine/issues/power-of-partnerships/enterprising-solutions/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Undated Initiative Foundation magazine feature only."
+ },
+ {
+  "name": "Banadir Mall",
+  "type": "mall",
+  "neighborhoodOrCity": "Gateway Center, Waite Park",
+  "whatItIs": "Small Somali mall with 17 rentable spaces, mostly run by women who also work off-site shifts.",
+  "link": "https://ifound.org/iq-magazine/issues/power-of-partnerships/enterprising-solutions/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Undated Initiative Foundation magazine feature only."
+ },
+ {
+  "name": "Somali Senteral Store",
+  "type": "retail",
+  "neighborhoodOrCity": "Banadir Mall, Waite Park",
+  "whatItIs": "Shop run by Sahra Shukri, who also worked night shifts at a poultry plant, per the feature.",
+  "link": "https://ifound.org/iq-magazine/issues/power-of-partnerships/enterprising-solutions/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Undated Initiative Foundation magazine feature only."
+ },
+ {
+  "name": "Hindi Store and Deli",
+  "type": "grocery and deli",
+  "neighborhoodOrCity": "Marshall",
+  "whatItIs": "Grocery owned since 2005 by Sadia Salah and Ahmed Omar, with a deli added in 2009.",
+  "link": "https://www.marshallindependent.com/news/local-news/2017/11/two-marshall-residents-honored-for-strength-courage-and-resiliency",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Marshall Independent, Nov. 21, 2017; no 2025 or 2026 sign opened."
+ },
+ {
+  "name": "Brothers Restaurant and Grocery",
+  "type": "grocery and restaurant",
+  "neighborhoodOrCity": "2156 Hoffman Road, Mankato",
+  "whatItIs": "First halal market in Mankato (opened 2002), with a restaurant serving Somali food.",
+  "link": "https://www.mankatofreepress.com/news/local_news/somali-markets-grow-popular-in-mankato/article_95461d74-6aa2-11e8-9af9-b7693c15fe42.html",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Mankato Free Press feature, undated on the page opened; it describes five halal markets in town."
+ },
+ {
+  "name": "Barkhadle International Grocery",
+  "type": "grocery",
+  "neighborhoodOrCity": "725 S. Front St., Mankato",
+  "whatItIs": "Halal grocery opened in 2004 by Ahmed Barkhadle, known for camel meat.",
+  "link": "https://www.mankatofreepress.com/news/local_news/somali-markets-grow-popular-in-mankato/article_95461d74-6aa2-11e8-9af9-b7693c15fe42.html",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Mankato Free Press feature, undated on the page opened."
+ },
+ {
+  "name": "Community Connector Services halal food shelf",
+  "type": "nonprofit food shelf",
+  "neighborhoodOrCity": "436 Litchfield Ave. SW, Willmar",
+  "whatItIs": "Halal food shelf opened July 25, 2025, led by executive director Abdifatah Mohamed, with Second Harvest Heartland support.",
+  "link": "https://www.mprnews.org/story/2025/07/30/new-halal-food-shelf-in-willmar-serves-immigrant-families-in-need",
+  "dateChecked": "2026-10-31",
+  "status": "open",
+  "evidence": "MPR News, July 30, 2025: open Fridays and Saturdays; served about 40 families its first weekend."
+ },
+ {
+  "name": "Rochester Somali Community Center",
+  "type": "nonprofit",
+  "neighborhoodOrCity": "Rochester",
+  "whatItIs": "Nonprofit launched in November 2023, led by executive director Said Ali Hussain, planning a youth center.",
+  "link": "https://www.kttc.com/2023/11/13/new-local-somali-nonprofit-organization-celebrates-its-launch",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "KTTC, Nov. 13, 2023; no 2025 or 2026 sign opened."
+ },
+ {
+  "name": "Somali American Cultural Society of Owatonna",
+  "type": "nonprofit",
+  "neighborhoodOrCity": "Owatonna",
+  "whatItIs": "Community organization founded by Ibrahim Hussein; in 2015 he counted more than 200 Somali families in Owatonna.",
+  "link": "https://www.southernminn.com/owatonna_peoples_press/news/the-history-and-importance-of-somali-independence-day/article_b88b6f4f-5e72-5feb-9347-8a8563f75a96.html",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Owatonna People's Press, 2015; no current sign opened."
+ },
+ {
+  "name": "Modern Closet",
+  "type": "clothing boutique",
+  "neighborhoodOrCity": "Karmel Mall, Minneapolis",
+  "whatItIs": "Shop for young Muslim women opened in 2015 by Sofia Hersi and Istar Mohamed.",
+  "link": "https://www.minnpost.com/community-sketchbook/2015/07/we-want-show-our-identity-somali-muslim-women-also-we-want-look-good/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "MinnPost, July 13, 2015 only."
+ },
+ {
+  "name": "Epimonia",
+  "type": "fashion brand",
+  "neighborhoodOrCity": "Minneapolis",
+  "whatItIs": "Fashion brand by designer Mohamed Malim that turns refugees' discarded life jackets into bracelets and clothing.",
+  "link": "https://www.mprnews.org/story/2021/10/30/somali-american-designers-take-on-refugee-stereotypes-in-minneapolis-fashion-popup",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "MPR News, Oct. 30, 2021 only."
+ },
+ {
+  "name": "Dur Dur Bakery and Grocery",
+  "type": "bakery and grocery",
+  "neighborhoodOrCity": "Lake Street, Minneapolis",
+  "whatItIs": "One of a handful of Minneapolis bakeries Sahan Journal named in 2021 as making their own halwa in volume.",
+  "link": "https://sahanjournal.com/food/eid-minneapolis-halwa/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Sahan Journal, July 18, 2021 only."
+ },
+ {
+  "name": "Banadir Kitchen",
+  "type": "restaurant and bakery",
+  "neighborhoodOrCity": "Lake Street, Minneapolis",
+  "whatItIs": "Named by Sahan Journal in 2021 among Lake Street makers of halwa.",
+  "link": "https://sahanjournal.com/food/eid-minneapolis-halwa/",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Sahan Journal, July 18, 2021 only."
+ },
+ {
+  "name": "MPR News Somali",
+  "type": "media",
+  "neighborhoodOrCity": "St. Paul (statewide)",
+  "whatItIs": "Somali-language news service begun by MPR News in February 2018, combining BBC World Service content with translated local news.",
+  "link": "https://current.org/?p=3356584",
+  "dateChecked": "2026-10-31",
+  "status": "could not confirm open",
+  "evidence": "Current.org project listing describes it as ongoing; no 2025 or 2026 dated post opened."
  }
 ]
