@@ -252,12 +252,6 @@
   "usedFor": "profile"
  },
  {
-  "title": "Deer hunting | Minnesota DNR",
-  "publisher": "Minnesota Department of Natural Resources",
-  "url": "https://www.dnr.state.mn.us/hunting/deer/index.html",
-  "usedFor": "calendar, profile"
- },
- {
   "title": "Pope Francis names new auxiliary bishop for Saint Paul-Minneapolis archdiocese",
   "publisher": "EWTN News",
   "url": "https://www.ewtnnews.com/vatican/pope-francis-names-new-auxiliary-bishop-for-saint-paul-minneapolis-archdiocese",
@@ -312,15 +306,9 @@
   "usedFor": "businesses list, profile"
  },
  {
-  "title": "Gov. Walz announces 2026 fishing opener location",
+  "title": "Governor announces 2026 fishing opener location",
   "publisher": "KTTC",
   "url": "https://www.kttc.com/2025/08/27/gov-walz-announces-2026-minnesota-fishing-opener-location/",
-  "usedFor": "calendar, profile"
- },
- {
-  "title": "2026 Governer’s Pheasant Hunting Opener to be held in Northfield",
-  "publisher": "KTTC",
-  "url": "https://www.kttc.com/2025/10/14/2026-governers-pheasant-hunting-opener-be-held-northfield/",
   "usedFor": "calendar, profile"
  },
  {
@@ -738,7 +726,7 @@
   "usedFor": "profile"
  },
  {
-  "title": "Walz ends re-election bid amid fraud allegations timeline",
+  "title": "Governor ends re-election bid amid fraud allegations timeline",
   "publisher": "Northern News Now",
   "url": "https://www.northernnewsnow.com/2026/01/05/walz-ends-re-election-bid-amid-fraud-allegations-timeline/",
   "usedFor": "profile"

@@ -48,5 +48,5 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 ## Suggested additions
 
 - The State Demographic Center's 2026 chartbook gives a second, narrower Korean count (15,700 for 2019 to 2023) because it places people in two or more groups in a separate category; the page should explain why counts differ (https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf).
-- Elected officials: John Choi (Ramsey County Attorney since 2011) and St. Paul Council Member HwaJeong Kim, a Korean adoptee; Mitra Jalali led the council in 2024 and stepped down in 2025.
+- Elected officials: the Ramsey County attorney (in office since 2011) and a St. Paul council member (Ward 5) who is a Korean adoptee; Mitra Jalali led the council in 2024 and stepped down in 2025.
 - Ann Kim's Young Joni closed Sept. 14, 2025, and Kim's closed Aug. 30, 2024, if the page later lists businesses.

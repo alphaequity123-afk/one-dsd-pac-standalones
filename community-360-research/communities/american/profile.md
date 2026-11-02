@@ -18,7 +18,7 @@ This page looks at mainstream American culture as Minnesotans live it: the civic
 
 **Veterans.** The Minnesota Department of Veterans Affairs counted 295,703 veterans in its most recent full-year report, nearly 100,000 of them from the Vietnam era and about 53 percent age 65 or older, KTTC reported on Veterans Day 2025 ([KTTC, Nov. 11, 2025](https://www.kttc.com/2025/11/11/minnesota-home-nearly-300000-veterans-latest-state-data-shows/)).
 
-**Regional variation.** The same national culture looks different across the state. The sections below note where the metro and Greater Minnesota differ: in voting (section 9), health coverage and overdose trends (section 11), church life (section 5) and pastimes such as the firearms deer opener (section 6). The rural page covers Greater Minnesota as a place in depth.
+**Regional variation.** The same national culture looks different across the state. The sections below note where the metro and Greater Minnesota differ: in voting (section 9), health coverage and overdose trends (section 11) and church life (section 5). The rural page covers Greater Minnesota as a place in depth.
 
 ## 2. All walks of life
 
@@ -44,7 +44,7 @@ All figures in this section come from the Compass 2020 to 2024 profile, in 2024 
 - Workers earn at least one hour of sick and safe time for every 30 hours worked, up to 48 hours a year ([Minn. Stat. 181.9446](https://www.revisor.mn.gov/statutes/cite/181.9446)).
 - Noncompete clauses in employment agreements are void ([Minn. Stat. 181.988](https://www.revisor.mn.gov/statutes/cite/181.988)).
 - Employees may leave work long enough to vote, on Election Day or during in-person early voting, without penalty or loss of pay ([Minn. Stat. 204C.04](https://www.revisor.mn.gov/statutes/cite/204C.04)).
-- Minnesota Paid Leave began Jan. 1, 2026. In its first six months it drew about 100,000 applications and approved roughly 75,000, paying about $600 million. The average weekly benefit was about $1,083, and medical and bonding leave were most common, a DEED deputy commissioner said ([KTTC, July 7, 2026](https://www.kttc.com/2026/07/07/first-6-months-mn-paid-leave-program-draws-100000-applications/)). Not everyone agrees with it. Republican governor candidate Lisa Demuth has called the mandate "a tax on every business" and wants to roll it back ([MultiState](https://www.multistate.us/elections/governor-race/minnesota-2026)).
+- Minnesota Paid Leave began Jan. 1, 2026. In its first six months it drew about 100,000 applications and approved roughly 75,000, paying about $600 million. The average weekly benefit was about $1,083, and medical and bonding leave were most common, a DEED deputy commissioner said ([KTTC, July 7, 2026](https://www.kttc.com/2026/07/07/first-6-months-mn-paid-leave-program-draws-100000-applications/)). Not everyone agrees with it. The Republican candidate for governor, the Speaker of the Minnesota House, has called the mandate "a tax on every business" and wants to roll it back ([MultiState](https://www.multistate.us/elections/governor-race/minnesota-2026)).
 
 **The office.** In 2025 large employers pulled office staff back. 3M required non-production workers on site at least four days a week from September 2025 ([KSTP, 2025](https://kstp.com/kstp-news/local-news/3m-to-bring-employees-back-to-office-4-days-a-week-starting-in-september/)). Target asked several departments to come in three days a week, General Mills moved to a Tuesday-through-Thursday schedule, and the Minneapolis Downtown Council estimated peak weekday downtown crowds at about 70 percent of the pre-pandemic level ([Twin Cities Business, July 10, 2025](https://tcbmag.com/target-issues-return-to-office-orders/)). In the Compass profile, 76.5 percent of workers get to work by car, truck or van, 2.0 percent by public transit, and 21.5 percent walk, bike, work at home or use other means ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/minnesota)).
 
@@ -94,13 +94,12 @@ Minnesota law names the legal holidays on which public business stops: New Year'
 - **St. Patrick's Day.** St. Paul held its 60th annual parade on March 17, 2026, from Mears Park along Fifth Street to Rice Park, led by the year's Miss Shamrock. MPR described the crowd as "green-clad Irish and Irish wannabes" ([MPR News, March 17, 2026](https://www.mprnews.org/story/2026/03/17/thousands-march-through-st-paul-in-60th-st-patricks-day-parade)).
 - **Easter.** A major Christian feast. It is not a state legal holiday. No Minnesota-wide public observance was documented for this page beyond congregations' own services.
 - **Memorial Day.** Fort Snelling National Cemetery hosts a wreath-laying with music, speeches, a rifle volley and Taps, and the governor usually speaks. In 2025 it began at 9:45 a.m. ([KTTC, May 26, 2025](https://www.kttc.com/2025/05/26/fort-snelling-hold-wreath-laying-ceremony-memorial-day/)).
-- **Juneteenth.** Gov. Tim Walz signed the bill making Juneteenth a state holiday on Feb. 3, 2023 ([MPR News, Feb. 3, 2023](https://www.mprnews.org/story/2023/02/03/juneteenth-is-now-a-holiday-in-minnesota)). The African American page covers community celebrations.
+- **Juneteenth.** The governor signed the bill making Juneteenth a state holiday on Feb. 3, 2023 ([MPR News, Feb. 3, 2023](https://www.mprnews.org/story/2023/02/03/juneteenth-is-now-a-holiday-in-minnesota)). The African American page covers community celebrations.
 - **Independence Day.** In 2026 the holiday marked the nation's 250th anniversary. Because July 4 fell on a Saturday, many people had Friday off. Events ranged from the Minneapolis Park Board's Red, White and Boom! on the riverfront to small-town parades in Delano, Ely and Stillwater ([MPR News, June 26, 2026](https://www.mprnews.org/story/2026/06/26/fourth-of-july-events-guide-fireworks-parades-in-minnesota); [FOX 9, June 30, 2026](https://www.fox9.com/news/things-do-minnesota-5-things-do-fourth-july-weekend-2026)). Historic Fort Snelling and the Oliver Kelley Farm held historical celebrations ([Minnesota Historical Society](https://www.mnhs.org/media/news/commemorate-americas-250th-anniversary-fourth-july)).
 - **Labor Day.** For many Minnesotans the holiday is the last day of the State Fair, which runs for the 12 days ending on Labor Day ([Minnesota State Fair](https://www.mnstatefair.org/updates/2026-fair)). The first fair was held in 1859, and the fair moved to its permanent grounds between St. Paul and Minneapolis in 1885 ([MNopedia](https://www.mnhs.org/mnopedia/search/index/event/minnesota-state-fair-origins-and-traditions)). Public schools generally may not start until after Labor Day ([Minn. Stat. 120A.40](https://www.revisor.mn.gov/statutes/cite/120A.40)).
 - **Indigenous Peoples Day.** Minnesota law has named the second Monday in October Indigenous Peoples Day, replacing Columbus Day in public-employer contracts ([Minn. Stat. 645.44](https://www.revisor.mn.gov/statutes/cite/645.44)). This page does not go further. That history belongs with the Tribal Nations and the offices that serve them.
 - **Halloween.** Anoka calls itself the "Halloween Capital of the World." Its organizers say civic leaders started a citywide celebration in 1920 to keep young people from pranks ([Anoka Halloween, history](https://anokahalloween.com/history/)). The 2026 Grande Day Parade ran on Main Street on Saturday, Oct. 24, from 1 to 3:30 p.m. ([Anoka Halloween](https://anokahalloween.com/event/grande-day-parade/)).
 - **Election Day.** Minnesota's general election is Nov. 3, 2026. By Oct. 16, election officials had accepted 202,252 absentee ballots, 17 percent more than at the same point in 2022 ([KAXE, Oct. 19, 2026](https://www.kaxe.org/elections/2026-10-19/early-voting-opens-in-mn-midterms-as-absentee-ballots-roll-in)). Workers have a legal right to time off to vote (section 3).
-- **Firearms deer opener.** Not a holiday, but in much of the state a family tradition. More than 400,000 hunters were expected for the opener on Saturday, Nov. 7, 2026. The Department of Natural Resources describes it as a time for "rich memories" with friends and family ([Minnesota DNR, Oct. 26, 2026](https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders)).
 - **Veterans Day.** The state's official program has been held in Inver Grove Heights, with a breakfast for veterans and families and music by the 34th Infantry Division Red Bull Band ([CBS Minnesota](https://www.cbsnews.com/minnesota/news/hundreds-gather-at-state-veterans-day-program/)).
 - **Thanksgiving.** Each year the governor welcomes an official Thanksgiving turkey to the Capitol with the Minnesota Turkey Growers Association, honoring the state's more than 600 turkey farms ([WDIO](https://www.wdio.com/top-stories/minnesota-turkey-showcased-at-the-state-capitol/)).
 - **Christmas.** A Christian feast and a legal holiday. In Duluth, Bentleyville "Tour of Lights" calls itself America's largest free walk-through lighting display and runs Nov. 21 to Dec. 26, 2026, its 23rd season ([Bentleyville](https://www.bentleyvilleusa.org/)).
@@ -141,11 +140,11 @@ Minnesota law names the legal holidays on which public business stops: New Year'
 
 > **Content note:** This passage describes the 2025 shooting deaths of Melissa and Mark Hortman and the killing of two residents by federal immigration agents. Readers may skip to "An open governor's race."
 
-**Violence against the civic order.** On June 14, 2025, former House Speaker Melissa Hortman and her husband Mark were shot and killed in their Brooklyn Park home. State Sen. John Hoffman and his wife were also shot. Vance Boelter pleaded guilty, and on July 23, 2026, U.S. District Judge John Tunheim sentenced him to two consecutive life terms plus 40 years ([KAXE/Minnesota Reformer, July 23, 2026](https://www.kaxe.org/minnesota-news/2026-07-23/vance-boelter-sentenced-to-two-life-terms-plus-40-years-in-killing-of-hortmans)). The report described an attack that "injected a new level of fear into politics."
+**Violence against the civic order.** On June 14, 2025, former House Speaker Melissa Hortman and her husband Mark were shot and killed in their Brooklyn Park home. A state senator and his wife were also shot. Vance Boelter pleaded guilty, and on July 23, 2026, U.S. District Judge John Tunheim sentenced him to two consecutive life terms plus 40 years ([KAXE/Minnesota Reformer, July 23, 2026](https://www.kaxe.org/minnesota-news/2026-07-23/vance-boelter-sentenced-to-two-life-terms-plus-40-years-in-killing-of-hortmans)). The report described an attack that "injected a new level of fear into politics."
 
-**Federal immigration enforcement.** Operation Metro Surge, a federal immigration operation focused on the Twin Cities, began Dec. 1, 2025. Federal officials reported more than 4,000 arrests. Two residents, Renee Good and Alex Pretti, were killed by immigration agents. White House border adviser Tom Homan announced the drawdown on Feb. 12, 2026 ([ABC News 4/AP, Feb. 12, 2026](https://abcnews4.com/news/nation-world/immigration-operation-in-minnesota-coming-to-an-end-tom-homan-immigration-and-customs-enforcement-dhs-operation-metro-surge)). The Associated Press reported that people with no criminal record, including children and U.S. citizens, were among those detained, while the administration described those arrested as dangerous criminals ([News9/AP, Feb. 12, 2026](https://www.news9.com/national-politics-oklahoma/federal-authorities-announce-end-immigration-crackdown-minnesota)). Minneapolis Mayor Jacob Frey said standing with neighbors "is deeply American." Federal officials accused some protesters of obstruction, and Homan said about 200 people were arrested on those allegations ([ABC News 4/AP](https://abcnews4.com/news/nation-world/immigration-operation-in-minnesota-coming-to-an-end-tom-homan-immigration-and-customs-enforcement-dhs-operation-metro-surge)).
+**Federal immigration enforcement.** Operation Metro Surge, a federal immigration operation focused on the Twin Cities, began Dec. 1, 2025. Federal officials reported more than 4,000 arrests. Two residents, Renee Good and Alex Pretti, were killed by immigration agents. White House border adviser Tom Homan announced the drawdown on Feb. 12, 2026 ([ABC News 4/AP, Feb. 12, 2026](https://abcnews4.com/news/nation-world/immigration-operation-in-minnesota-coming-to-an-end-tom-homan-immigration-and-customs-enforcement-dhs-operation-metro-surge)). The Associated Press reported that people with no criminal record, including children and U.S. citizens, were among those detained, while the administration described those arrested as dangerous criminals ([News9/AP, Feb. 12, 2026](https://www.news9.com/national-politics-oklahoma/federal-authorities-announce-end-immigration-crackdown-minnesota)). The mayor of Minneapolis said standing with neighbors "is deeply American." Federal officials accused some protesters of obstruction, and Homan said about 200 people were arrested on those allegations ([ABC News 4/AP](https://abcnews4.com/news/nation-world/immigration-operation-in-minnesota-coming-to-an-end-tom-homan-immigration-and-customs-enforcement-dhs-operation-metro-surge)).
 
-**An open governor's race.** Gov. Tim Walz dropped his bid for a third term on Jan. 5, 2026, saying he would focus on fighting fraud in state programs. He faced criticism, including from President Trump, over his handling of it ([FOX 9](https://www.fox9.com/news/minnesota-governors-race-potential-democratic-contenders-after-walz-exit)). The Nov. 3, 2026 race pits U.S. Sen. Amy Klobuchar (DFL) against House Speaker Lisa Demuth (R). Either would be the state's first woman governor ([MultiState](https://www.multistate.us/elections/governor-race/minnesota-2026)).
+**An open governor's race.** The governor dropped his bid for a third term on Jan. 5, 2026, saying he would focus on fighting fraud in state programs. He faced criticism, including from President Trump, over his handling of it ([FOX 9](https://www.fox9.com/news/minnesota-governors-race-potential-democratic-contenders-after-walz-exit)). The Nov. 3, 2026 race pits a U.S. senator from Minnesota (DFL) against the Speaker of the Minnesota House (R). Either would be the state's first woman governor ([MultiState](https://www.multistate.us/elections/governor-race/minnesota-2026)).
 
 **Civic participation outside elections.** Minnesota's 40.3 percent formal volunteering rate (section 3) and its long tradition of union, church and civic clubs, such as the Kiwanis and Commercial Club that started Anoka's Halloween in 1920, are part of the same habit of joining in ([Anoka Halloween, history](https://anokahalloween.com/history/)).
 
@@ -253,8 +252,8 @@ Minnesota law names the legal holidays on which public business stops: New Year'
 24. Border Czar Tom Homan announces conclusion of Operation Metro Surge (Feb. 12, 2026), KEYC/KTTC, https://www.keyc.com/2026/02/12/border-czar-tom-homan-announces-conclusion-operation-metro-surge/
 25. Immigration operation in Minnesota coming to an end (Feb. 12, 2026), ABC News 4 (Sinclair/AP), https://abcnews4.com/news/nation-world/immigration-operation-in-minnesota-coming-to-an-end-tom-homan-immigration-and-customs-enforcement-dhs-operation-metro-surge
 26. Federal authorities announce an end to the immigration crackdown in Minnesota (Feb. 12, 2026), News9 (AP), https://www.news9.com/national-politics-oklahoma/federal-authorities-announce-end-immigration-crackdown-minnesota
-27. Minnesota Governor Race 2026: Klobuchar vs. Demuth, MultiState, https://www.multistate.us/elections/governor-race/minnesota-2026
-28. Minnesota governor's race: Potential Democratic contenders after Walz's exit (Jan. 2026), FOX 9, https://www.fox9.com/news/minnesota-governors-race-potential-democratic-contenders-after-walz-exit
+27. Minnesota Governor Race 2026, MultiState, https://www.multistate.us/elections/governor-race/minnesota-2026
+28. Minnesota governor's race: Potential Democratic contenders after the governor's exit (Jan. 2026), FOX 9, https://www.fox9.com/news/minnesota-governors-race-potential-democratic-contenders-after-walz-exit
 29. Minnesota Statutes 120A.40, School calendar, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/120A.40
 30. Minnesota Statutes 121A.11, United States flag; Pledge of Allegiance, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/121A.11
 31. Minnesota Statutes 124D.111, School meals policies; free school meals program, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/124D.111
@@ -317,38 +316,37 @@ Minnesota law names the legal holidays on which public business stops: New Year'
 88. Minnesota annual job growth outpaces rest of U.S. (Aug. 20, 2026), KTTC, https://www.kttc.com/2026/08/20/minnesota-annual-job-growth-outpaces-rest-us/
 89. Here Are the Five Largest Employers in Minnesota in 2025, KROC News, https://krocnews.com/here-are-the-five-largest-employers-in-minnesota-in-2025/
 90. Juneteenth is now a holiday in Minnesota (Feb. 3, 2023), MPR News, https://www.mprnews.org/story/2023/02/03/juneteenth-is-now-a-holiday-in-minnesota
-91. Minnesota DNR provides deer hunting outlook and regulation reminders (Oct. 26, 2026), Minnesota Department of Natural Resources, https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders
-92. Minnesota ends Medicaid-funded housing stabilization program beset by fraud accusations (Oct. 31, 2025), Yahoo News (Pioneer Press), https://www.yahoo.com/news/articles/minnesota-ends-medicaid-funded-housing-214200017.html
-93. Minnesota DHS moves to terminate Housing Stabilization Services program amid fraud concerns (2025), ABC 6 News KAAL, https://www.kaaltv.com/news/minnesota-dhs-moves-to-terminate-housing-stabilization-services-program-amid-fraud-concerns/
-94. The Arc Minnesota testimony on SF 2149 (March 10, 2025), Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2025/labor/20250311/labor_20250311_sf2149-testimony-The-Arc-Minnesota.pdf
-95. SF 4399 combined letters (March 18, 2024), Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2024/human/20240318/Human_20240318_SF4399-Combined-Letters.pdf
-96. Minnesota Statutes 177.24, Payment of minimum wages, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/177.24
-97. The Great Migration (1910-1970), National Archives, https://www.archives.gov/research/african-americans/migrations/great-migration
-98. Mancini's Char House, Mancini's Char House, https://mancinis.com/
-99. Matt's Bar, Matt's Bar, https://mattsbar.com/
-100. 5-8 Club, 5-8 Club, https://www.5-8club.com/
-101. Holiday Stationstores, Holiday Stationstores / Circle K, https://www.holidaystationstores.com/
-102. Minneapolis Regional Chamber, Minneapolis Regional Chamber, https://www.minneapolischamber.org/
-103. Minnesota Chamber of Commerce, Minnesota Chamber of Commerce, https://www.mnchamber.com/
-104. Murray's Steakhouse, Murray's, https://www.murraysrestaurant.com/
-105. St. Paul Area Chamber, St. Paul Area Chamber, https://www.saintpaulchamber.com/
-106. SPAM Museum, Hormel Foods, https://www.spam.com/museum
-107. Target Corporation, Target Corporation, https://corporate.target.com/
-108. Best Buy Corporate, Best Buy, https://corporate.bestbuy.com/
-109. Cub, Cub Foods, https://www.cub.com/
-110. Lunds & Byerlys, Lunds & Byerlys, https://www.lundsandbyerlys.com/
-111. Valleyfair, Valleyfair, https://www.valleyfair.com/
-112. Manny's Steakhouse, Manny's, https://www.mannyssteakhouse.com/
-113. Wiederholt's Supper Club, Wiederholt's Supper Club, https://www.wiederholtssupperclub.com/
-114. Vali-Hi Drive-In, Vali-Hi Drive-In, https://www.valihi.com/
-115. U.S. Bank Stadium, U.S. Bank Stadium, https://www.usbankstadium.com/
-116. Target Center, Target Center, https://www.targetcenter.com/
-117. Allianz Field, Allianz Field, https://www.allianzfield.com/
-118. Target Field, Minnesota Twins / MLB, https://www.mlb.com/twins/ballpark
-119. Grand Casino Arena, Grand Casino Arena, https://www.grandcasinoarena.com/
-120. KARE 11, KARE 11, https://www.kare11.com/
-121. Pioneer Press, Pioneer Press, https://www.twincities.com/
-122. Minnesota Monthly, Minnesota Monthly, https://www.minnesotamonthly.com/
-123. Mpls.St.Paul Magazine, Mpls.St.Paul Magazine, https://mspmag.com/
-124. MPR News, Minnesota Public Radio, https://www.mprnews.org/
-125. Rosedale Center, Rosedale Center, https://www.rosedalecenter.com/
+91. Minnesota ends Medicaid-funded housing stabilization program beset by fraud accusations (Oct. 31, 2025), Yahoo News (Pioneer Press), https://www.yahoo.com/news/articles/minnesota-ends-medicaid-funded-housing-214200017.html
+92. Minnesota DHS moves to terminate Housing Stabilization Services program amid fraud concerns (2025), ABC 6 News KAAL, https://www.kaaltv.com/news/minnesota-dhs-moves-to-terminate-housing-stabilization-services-program-amid-fraud-concerns/
+93. The Arc Minnesota testimony on SF 2149 (March 10, 2025), Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2025/labor/20250311/labor_20250311_sf2149-testimony-The-Arc-Minnesota.pdf
+94. SF 4399 combined letters (March 18, 2024), Minnesota Legislative Reference Library, https://www.lrl.mn.gov/archive/minutes/senate/2024/human/20240318/Human_20240318_SF4399-Combined-Letters.pdf
+95. Minnesota Statutes 177.24, Payment of minimum wages, Office of the Revisor of Statutes, https://www.revisor.mn.gov/statutes/cite/177.24
+96. The Great Migration (1910-1970), National Archives, https://www.archives.gov/research/african-americans/migrations/great-migration
+97. Mancini's Char House, Mancini's Char House, https://mancinis.com/
+98. Matt's Bar, Matt's Bar, https://mattsbar.com/
+99. 5-8 Club, 5-8 Club, https://www.5-8club.com/
+100. Holiday Stationstores, Holiday Stationstores / Circle K, https://www.holidaystationstores.com/
+101. Minneapolis Regional Chamber, Minneapolis Regional Chamber, https://www.minneapolischamber.org/
+102. Minnesota Chamber of Commerce, Minnesota Chamber of Commerce, https://www.mnchamber.com/
+103. Murray's Steakhouse, Murray's, https://www.murraysrestaurant.com/
+104. St. Paul Area Chamber, St. Paul Area Chamber, https://www.saintpaulchamber.com/
+105. SPAM Museum, Hormel Foods, https://www.spam.com/museum
+106. Target Corporation, Target Corporation, https://corporate.target.com/
+107. Best Buy Corporate, Best Buy, https://corporate.bestbuy.com/
+108. Cub, Cub Foods, https://www.cub.com/
+109. Lunds & Byerlys, Lunds & Byerlys, https://www.lundsandbyerlys.com/
+110. Valleyfair, Valleyfair, https://www.valleyfair.com/
+111. Manny's Steakhouse, Manny's, https://www.mannyssteakhouse.com/
+112. Wiederholt's Supper Club, Wiederholt's Supper Club, https://www.wiederholtssupperclub.com/
+113. Vali-Hi Drive-In, Vali-Hi Drive-In, https://www.valihi.com/
+114. U.S. Bank Stadium, U.S. Bank Stadium, https://www.usbankstadium.com/
+115. Target Center, Target Center, https://www.targetcenter.com/
+116. Allianz Field, Allianz Field, https://www.allianzfield.com/
+117. Target Field, Minnesota Twins / MLB, https://www.mlb.com/twins/ballpark
+118. Grand Casino Arena, Grand Casino Arena, https://www.grandcasinoarena.com/
+119. KARE 11, KARE 11, https://www.kare11.com/
+120. Pioneer Press, Pioneer Press, https://www.twincities.com/
+121. Minnesota Monthly, Minnesota Monthly, https://www.minnesotamonthly.com/
+122. Mpls.St.Paul Magazine, Mpls.St.Paul Magazine, https://mspmag.com/
+123. MPR News, Minnesota Public Radio, https://www.mprnews.org/
+124. Rosedale Center, Rosedale Center, https://www.rosedalecenter.com/

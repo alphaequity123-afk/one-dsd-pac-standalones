@@ -39,7 +39,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 11. **Claim:** Yia Vang's Union Hmong Kitchen as a restaurant history.
     **Source says:** Its own site says Uptown and North Loop locations are closed and it appears at the State Fair.
     **Link:** https://www.unionkitchenmn.com/ .
-12. **Omission worth fixing:** The page's Notable People section as read does not include St. Paul Mayor Kaohly Her (sworn in Jan. 2, 2026), and the earlier brief text has no mention of her. Also missing: the 2026 veterans law (Chapter 96) and the Maplewood race.
+12. **Omission worth fixing:** The page's Notable People section as read does not include St. Paul's mayor, the city's first Hmong American mayor (sworn in Jan. 2, 2026), and the earlier brief text has no mention of her. Also missing: the 2026 veterans law (Chapter 96) and the Maplewood race.
     **Links:** https://www.mprnews.org/story/2026/01/02/first-woman-hmong-american-kaohly-her-to-lead-st-paul-as-new-mayor ; https://www.house.mn.gov/NewLaws/story/2026/5772 ; https://sahanjournal.com/democracy-politics/maplewood-minnesota-mayoral-race-2026/ .
 13. **Omission worth fixing:** Calendar lacks Hmong Minnesota Day at the State Fair as a recurring date, the Qeej and Hmong Arts Festival, and the southwest Minnesota New Year. It also treats New Year as one St. Paul event only.
 

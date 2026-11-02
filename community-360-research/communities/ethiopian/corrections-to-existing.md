@@ -13,7 +13,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 ## Omissions a reader would notice
 
 3. **Claim:** Umbrella framing lists "Oromo, Amhara, Tigrayan, Gurage, Sidama, and other peoples."
-   **Source says:** Anuak Minnesotans are a distinct community with a Minnesota history and a 2008 estimate of 2,500 to 3,000 (Akway Cham, head of the Anywaa Community Association in North America), the largest group thought to live outside Africa. The page profiles Oballa Oballa of Gambella without naming the Anuak community at all. No opened source states his own background in those terms, so this concerns the community, not him.
+   **Source says:** Anuak Minnesotans are a distinct community with a Minnesota history and a 2008 estimate of 2,500 to 3,000 (Akway Cham, head of the Anywaa Community Association in North America), the largest group thought to live outside Africa. The page profiles an Austin council member from Gambella without naming the Anuak community at all. No opened source states his own background in those terms, so this concerns the community, not him.
    **Links:** https://www.mprnews.org/story/2008/05/30/anuak ; https://www.grandforksherald.com/newsmd/anuak-community-in-worthington-pleads-for-peace-in-ethiopian-homeland .
 4. **Claim:** "Debre Selam Medhanealem Ethiopian Orthodox Tewahedo Church" named as a place with no detail.
    **Source says:** It opened a new building at 2601 30th Ave. S. in Seward, with an open house on April 18, 2026, at a cost of nearly $11 million including land. This is one of the largest recent events in the community's life. Its old home at 4401 Minnehaha Ave. dates from 1999.
@@ -47,15 +47,15 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 - ECM at 616 Rice St. with Monday and Friday hours; eight-by-ten-foot office; $2.5 million ask at 1630 University Ave. in HF 3908 (the ask appears in the House document's own summary): supported. https://ethiopiancommunitymn.org/contact/ ; https://www.house.mn.gov/comm/docs/herYhSCSj0izw9flFc5c4g.pdf
 - Selassie Cathedral, formed 2014, consecrated 2015, at 2601 Minnehaha Ave.: supported. https://minnesotaselassie.org/index.php/clergy/brief-history
 - Debre Bisrat at Rosemount, about 200 members, July 2026 fire about three months after moving in: supported. https://www.fox9.com/news/community-rallies-around-rosemount-ethiopian-orthodox-church-after-fire ; https://www.gofundme.com/f/support-debre-bisrat-minnesota-to-rebuild
-- Gov. Walz declaring July 3 Ethiopian Day; federation nearly not holding the tournament in Minnesota because of enforcement: supported. https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears
+- The governor declaring July 3 Ethiopian Day; federation nearly not holding the tournament in Minnesota because of enforcement: supported. https://www.mprnews.org/story/2026/06/30/ethiopian-soccer-tournament-draws-thousands-despite-immigration-fears
 - Consulate opened in St. Paul in 2019: supported. https://www.mprnews.org/story/2019/04/27/ethiopia-consulate-stpaul
-- Oballa's appointment 5-1 to Ward 3 after a Ward 1 term and a 2022 at-large loss: supported. https://www.kaaltv.com/?p=875617
+- The Austin council member's appointment 5-1 to Ward 3 after a Ward 1 term and a 2022 at-large loss: supported. https://www.kaaltv.com/?p=875617
 - Kamal Mohamed's Parcelle with planned North Loop and Wayzata sites: Parcelle's own site marks both "Coming Soon" and also lists a LaSalle Plaza location downtown. https://parcelleorganics.com
 
 ## Claims that could not be supported or checked
 
-- Oballa's August 2026 Ward 3 primary result: could not open a source.
-- Sahan Journal's and Mpls.St.Paul's "first" descriptions of Oballa, and his Dadaab and Riverland history: could not open those articles. KAAL calls him Austin's first African American councilmember.
+- The Austin council member's August 2026 Ward 3 primary result: could not open a source.
+- Sahan Journal's and Mpls.St.Paul's "first" descriptions of the Austin council member, and his Dadaab and Riverland history: could not open those articles. KAAL calls him Austin's first African American councilmember.
 - The profiles of Zinet Kemal, Kamal Mohamed's early career, and national or international figures: not rechecked here.
 - HF 2707 (2023) and whether any bill passed: could not open legislative pages.
 - Ethiopian Fest of Minnesota 2022: no page on it opened.

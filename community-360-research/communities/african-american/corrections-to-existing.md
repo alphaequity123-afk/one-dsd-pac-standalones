@@ -5,7 +5,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 ## Errors or claims that should change
 
 1. **Claim:** "Melvin Carter III is the first Black mayor of St. Paul (2018-present)."
-   **Source says:** He lost to Kaohly Her in November 2025, and she was sworn in Jan. 2, 2026. He was the first Black mayor, but he is no longer in office.
+   **Source says:** He lost to the current mayor in November 2025, and she was sworn in Jan. 2, 2026. He was the first Black mayor, but he is no longer in office.
    **Links:** https://www.mprnews.org/story/2026/01/02/first-woman-hmong-american-kaohly-her-to-lead-st-paul-as-new-mayor; https://www.governing.com/politics/how-st-pauls-mayor-lost-a-safe-re-election-bid.
 2. **Claim:** "About 350,000 Black Minnesotans as of 2024, about 6 percent of the state."
    **Source says:** Minnesota Compass reported more than 450,000 Black residents, nearly 8 percent, in March 2024. Its 2020 census figure for non-Hispanic Black Minnesotans is 7 percent. The page's number is well below both.
@@ -28,7 +28,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 8. **Claim:** "Prince Rogers Nelson was born in North Minneapolis in 1958."
    **Source says:** MNopedia says he was born in Minneapolis and grew up on the North Side. I could not support "born in North Minneapolis" as worded.
    **Links:** https://www.mnhs.org/mnopedia/search/index/african-americans-minnesota; https://www.mnhs.org/mnopedia/search/index/place/near-north-african-american-community-minneapolis.
-9. **Claim:** Keith Ellison "first Muslim elected to Congress (2007)."
+9. **Claim:** The current attorney general as "first Muslim elected to Congress (2007)."
    **Source says:** MNopedia dates his chronology entry to 2007, while the existing page's own later section says he was elected in 2006. The page should use one consistent wording, such as elected 2006, seated 2007. I did not open a source on the "first Muslim" wording.
    **Link:** https://www.mnhs.org/mnopedia/search/index/african-americans-minnesota.
 10. **Claim:** The name "Minneapolis Spokesman-Recorder" in the media list.
@@ -59,7 +59,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 18. **Neighborhood lists for North, South, and suburban Minneapolis.** Named neighborhoods broadly fit MNopedia's descriptions, but I could not confirm each as having "significant Black populations" today.
 19. **CROWN Act coverage in Minnesota.** I did not open the statute or a source.
 20. **Andrea Jenkins's current office.** I could not open a source on her current status, so the page should not present her as a sitting council member without checking.
-21. **Keith Ellison's third-term ballot on Nov. 3, 2026.** Not checked against a results or filing page. Coverage confirms he is Attorney General as of Oct. 21, 2026.
+21. **The attorney general's third-term ballot on Nov. 3, 2026.** Not checked against a results or filing page. Coverage confirms he is Attorney General as of Oct. 21, 2026.
 22. **National statistics (Pew, Census, religion and denominational membership, sports shares, and similar).** These fall outside Minnesota and were not checked.
 23. **Page's statement that it found no Minnesota-based study on how African American Minnesotans understand disability, and no Black disabled-led organization.** No Black disabled-led organization was found on a further check either. The page could add that the St. Paul/Minneapolis Black Deaf Advocates is named in the governor's April 2024 Deaf History Month proclamation (https://mn.gov/governor/assets/04.01.24%20Deaf%20History%20Month_SIgned_tcm1055-620392.pdf).
 

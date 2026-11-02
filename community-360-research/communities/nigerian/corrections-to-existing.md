@@ -25,7 +25,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 7. **Claim (Fatima Lawson):** She earned "a master's degree and a Ph.D. at the University of Minnesota"; Books For Africa board officer.
    **Source says:** The 2023 Margaret McNamara profile says she earned a Ph.D. in education policy and administration at the University of Minnesota in 1995 and does not mention a Minnesota master's degree; it calls her Secretary of the Books For Africa board, while Books For Africa's 2024 page calls her Treasurer. The Highwood Hills page cited for the 2026 Bush Fellowship did not display readable text, so that claim could not be confirmed.
    **Links:** https://www.mmeg.org/women-building-a-bettter-world-1/2023/4/12/fatima-lawson ; https://www.booksforafrica.org/news/star-tribune-fatima-lawson-2024.html .
-8. **Claim:** A source labeled "Minnesota House of Representatives, Rep. Esther Agbaje" links to publichealthlawcenter.org.
+8. **Claim:** A source labeled as the District 59B state representative's Minnesota House page links to publichealthlawcenter.org.
    **Source says:** The label and link do not match. The Legislative Reference Library record confirms birth in St. Paul on March 19, 1985, House District 59B, service from 2021 and the 2025 to 2026 term, and that her "parents came to Minnesota from Nigeria."
    **Link:** https://www.lrl.mn.gov/legdb/fulldetail.aspx?ID=15551 .
 ## Missing from the page
@@ -41,7 +41,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 - IgboFest: Umunne formed 1985; first IgboFest 1994; 31st festival Aug. 8, 2026, at North Hennepin Community College; free; co-sponsored by the City of Brooklyn Park, Minneapolis Northwest Tourism and the Minnesota Humanities Center; Minneapolis Northwest Tourism reports more than 5,000 attendees (the association's president told Sahan Journal about 10,000). https://www.nhcc.edu/news/igbofest-2026 ; https://www.lrl.mn.gov/docs/2018/other/181224/governor/assets/2016_08_10_igbo_day_tcm1055-252051.pdf ; https://www.minneapolisnorthwest.com/events/annual-events-and-festivals/igbofest/ .
 - 2016 proclamation's "thousands of Igbo residents." Same link.
 - CCX Media 2019: Brooklyn Park and Brooklyn Center together have one of the largest African populations in the state. https://ccxmedia.org/news/celebrate-west-african-culture-at-igbofest-in-brooklyn-park/ .
-- Esther Agbaje: first Nigerian American in the Minnesota House (Voice of America, 2021); defeated Raymond Dehn with 48 percent on Aug. 11, 2020; father an Episcopal priest; Shattuck-St. Mary's, George Washington, Penn and Harvard Law. https://www.voanews.com/a/usa_us-politics_daughter-nigerian-immigrants-hopes-lead-example-minnesota-legislature/6201049.html ; https://www.lrl.mn.gov/legdb/fulldetail.aspx?ID=15551 .
+- The District 59B state representative: first Nigerian American in the Minnesota House (Voice of America, 2021); defeated Raymond Dehn with 48 percent on Aug. 11, 2020; father an Episcopal priest; Shattuck-St. Mary's, George Washington, Penn and Harvard Law. https://www.voanews.com/a/usa_us-politics_daughter-nigerian-immigrants-hopes-lead-example-minnesota-legislature/6201049.html ; https://www.lrl.mn.gov/legdb/fulldetail.aspx?ID=15551 .
 - Brooklyn Park sister cities in Liberia, The Gambia and Nigeria since 2012; Udu approved 2023. https://www.brooklynpark.org/sister-cities/ ; https://ccxmedia.org/news/brooklyn-park-approves-sister-city-relationship-with-udu-nigeria/ .
 - Nigerians in Diaspora Organisation Americas unification meeting, Nov. 16, 2024, Bloomington. https://www.thisdaylive.com/2024/11/22/nigerian-groups-in-the-americas-resolve-dispute-unite/ .
 - Association of Nigerian Nurses in Minnesota: umbrella of Nigerian nurses associations, 20th anniversary gala, continuing education through Dec. 31, 2026. https://annimn.nursingnetwork.com/ .
@@ -49,7 +49,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 - Fatima Lawson: born and raised in Kano; University of Ife degrees in French/Portuguese and linguistics; principal for 12 years of an immersion school she helped start; MIND vice president (2023). https://www.mmeg.org/women-building-a-bettter-world-1/2023/4/12/fatima-lawson .
 ## Claims that could not be supported from opened sources
 
-- Agbaje "understands Yoruba," her parents "met as students at the University of Minnesota," and she is co-vice chair of House Ways and Means: not stated in the pages opened.
+- The state representative "understands Yoruba," her parents "met as students at the University of Minnesota," and she is co-vice chair of House Ways and Means: not stated in the pages opened.
 - Fatima Lawson as board chair of Minnesota Africans United and the 2026 Bush Fellowship: source pages were not readable.
 - University of Minnesota Nigerian Student Association "6 officers and 21 members": the GopherLink page opened did not show these counts.
 - Mshale reporting (Udu celebration and Richard Mofe-Damijo honor, 2024) and the 2022 Peoples Gazette passport outreach report: Mshale blocked access, and the Peoples Gazette article was not opened.

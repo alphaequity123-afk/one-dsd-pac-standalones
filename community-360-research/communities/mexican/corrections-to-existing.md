@@ -61,7 +61,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 - What the sources say: Not checked against the state's figures here. The state reports about 381,000 Latino Minnesotans statewide now; the old metro number should carry its date plainly or be replaced.
 - Link: https://mn.gov/mmb-stat/documents/budget/research-and-data/2026/summary-of-agencies-programs-activities/latino-affairs-council.pdf
 
-**12. Jason Chavez's family origins.**
+**12. The Ward 9 council member's family origins.**
 - Claim as stated: Parents from Puebla, Mexico.
 - What the source says: The City of Minneapolis page opened does not state this. The page's other sources were not reopened, so this could not be supported here, though it was not contradicted.
 - Link: https://www.minneapolismn.gov/government/city-council/members/ward-9/about-jason-chavez

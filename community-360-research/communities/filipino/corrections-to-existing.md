@@ -38,7 +38,7 @@ The page also presents Compass as the only count. Other official counts differ w
 
 ## Missing from the page
 
-The page names no Minnesota Filipino organization, person or place. Opened sources document the Fil-Minnesotan Association (1953) and its Philippine Center in Maplewood, the Cultural Society of Filipino Americans (1972), the Filipino Catholic Community of Minnesota (1995), the Philippine Study Group of Minnesota and its 2002 corrective Capitol plaque, Hennepin County Board Chair Irene Fernando, and the 2022 Minnesota Teacher of the Year, Sarah Lancaster. See profile.md.
+The page names no Minnesota Filipino organization, person or place. Opened sources document the Fil-Minnesotan Association (1953) and its Philippine Center in Maplewood, the Cultural Society of Filipino Americans (1972), the Filipino Catholic Community of Minnesota (1995), the Philippine Study Group of Minnesota and its 2002 corrective Capitol plaque, the chair of the Hennepin County Board, and the 2022 Minnesota Teacher of the Year, Sarah Lancaster. See profile.md.
 
 ## Claims checked and supported
 

@@ -28,7 +28,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 ## Checked and found supported
 
 - Coya Knutson, first Minnesota woman elected to Congress, 1954: https://www.mnhs.org/mnopedia/search/index/person/knutson-coya-1912-1996
-- Hudda Ibrahim, first Somali American on St. Cloud's council, December 2024: https://www.mprnews.org/story/2024/12/03/hudda-ibrahim-st-cloud-city-council
+- First Somali American member of St. Cloud's council, appointed December 2024: https://www.mprnews.org/story/2024/12/03/hudda-ibrahim-st-cloud-city-council
 - Commonweal Theatre, 1989, Lanesboro: https://www.commonwealtheatre.org/about
 - AgrAbility program in Minnesota has ended, average farmer about 58 or older, no sample size given: https://www.pharmacy.umn.edu/news/ots-improve-mobility-aging-agricultural-workers
 - Pullmann and colleagues, 2009, is not a Minnesota study, eight caregivers in a southeastern county, as the page notes: https://pmc.ncbi.nlm.nih.gov/articles/PMC2954890
@@ -42,4 +42,4 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 
 ## Not rechecked
 
-Other people profiles (Kelley, Mayo, Densmore, Lewis, Nance, Oballa, Oberstar, Whalen, Olson, Ojakangas), most street addresses and phone numbers for organizations, Minnesota Statutes 10.65, the media merger dates, and the Hmong 94 percent figure were not rechecked for this page.
+Other people profiles (Kelley, Mayo, Densmore, Lewis, Nance, Oberstar, Whalen, Olson, Ojakangas), most street addresses and phone numbers for organizations, Minnesota Statutes 10.65, the media merger dates, and the Hmong 94 percent figure were not rechecked for this page.

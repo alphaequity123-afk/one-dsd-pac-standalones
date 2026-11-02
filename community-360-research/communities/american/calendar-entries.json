@@ -388,7 +388,7 @@
    ],
    "dateCertainty": "fixed",
    "whatItMarks": "The end of slavery in the United States.",
-   "howCelebratedInMinnesota": "Gov. Tim Walz signed the bill making Juneteenth a state holiday on Feb. 3, 2023. Community celebrations are covered on the African American page.",
+   "howCelebratedInMinnesota": "The governor signed the bill making Juneteenth a state holiday on Feb. 3, 2023. Community celebrations are covered on the African American page.",
    "minnesotaEvents": [],
    "workplaceNote": "A legal holiday under Minn. Stat. 645.44. June 19, 2027 is a Saturday, so the observed state holiday is Friday, June 18, 2027.",
    "sources": [
@@ -767,53 +767,6 @@
     {
      "title": "Minnesota leads US in voter turnout for 2024 election (KEYC)",
      "url": "https://www.keyc.com/2024/11/22/minnesota-leads-us-voter-turnout-2024-election/"
-    }
-   ]
-  },
-  {
-   "seedId": null,
-   "name": "Firearms deer season opener",
-   "alsoKnownAs": [
-    "Deer opener"
-   ],
-   "kind": "cultural",
-   "capsule": "Early November Saturday when hundreds of thousands of Minnesotans head out deer hunting with family and friends.",
-   "dateRule": "Set by the Minnesota Department of Natural Resources each year, on a Saturday in early November.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-11-07",
-     "endDate": null,
-     "source": "Minnesota DNR",
-     "sourceUrl": "https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": null,
-     "endDate": null,
-     "source": "No announcement found",
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": null,
-     "endDate": null,
-     "source": "No announcement found",
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "announced each year",
-   "whatItMarks": "The start of the firearms deer hunting season.",
-   "howCelebratedInMinnesota": "The DNR expected more than 400,000 hunters for the Nov. 7, 2026 opener and describes it as a time of memories with friends and family outdoors. It matters most in Greater Minnesota; see the rural page.",
-   "minnesotaEvents": [],
-   "workplaceNote": null,
-   "sources": [
-    {
-     "title": "Minnesota DNR provides deer hunting outlook and regulation reminders",
-     "url": "https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders"
     }
    ]
   },

@@ -582,62 +582,6 @@
   },
   {
    "seedId": null,
-   "name": "Firearms deer opener",
-   "alsoKnownAs": [],
-   "kind": "community festival",
-   "capsule": "Saturday in November when many Minnesota families head to deer camp.",
-   "dateRule": "Set by the DNR; a Saturday in early November.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-11-07",
-     "endDate": "2026-11-22",
-     "source": "Minnesota DNR",
-     "sourceUrl": "https://www.dnr.state.mn.us/hunting/seasons.html",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": "2027-11-06",
-     "endDate": "2027-11-21",
-     "source": "Minnesota DNR",
-     "sourceUrl": "https://www.dnr.state.mn.us/hunting/seasons.html",
-     "verified": true
-    },
-    {
-     "year": 2028,
-     "date": null,
-     "endDate": null,
-     "source": null,
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "announced each year",
-   "whatItMarks": "The start of firearms deer season.",
-   "howCelebratedInMinnesota": "The DNR expects more than 400,000 hunters in 2026. End dates shown are for 100 series areas; 200 and 300 series end sooner.",
-   "minnesotaEvents": [
-    {
-     "name": "Firearms deer Season A",
-     "place": "Statewide",
-     "link": "https://www.dnr.state.mn.us/hunting/seasons.html",
-     "organizerDates": "Nov. 7 to 22, 2026 in 100 series; Nov. 7 to 15 in 200 and 300 series"
-    }
-   ],
-   "workplaceNote": null,
-   "sources": [
-    {
-     "title": "DNR outlook",
-     "url": "https://www.dnr.state.mn.us/news/2026/10/26/minnesota-dnr-provides-deer-hunting-outlook-and-regulation-reminders"
-    },
-    {
-     "title": "DNR seasons",
-     "url": "https://www.dnr.state.mn.us/hunting/seasons.html"
-    }
-   ]
-  },
-  {
-   "seedId": null,
    "name": "Minnesota fishing opener",
    "alsoKnownAs": [],
    "kind": "community festival",
@@ -1401,12 +1345,12 @@
    ],
    "dateCertainty": "announced each year",
    "whatItMarks": "Farming and its trade concerns.",
-   "howCelebratedInMinnesota": "Gov. Walz proclaimed March 24, 2026, as Agriculture Day and used it to press for tariff relief.",
+   "howCelebratedInMinnesota": "The governor proclaimed March 24, 2026, as Agriculture Day and used it to press for tariff relief.",
    "minnesotaEvents": [],
    "workplaceNote": null,
    "sources": [
     {
-     "title": "Walz on Ag Day",
+     "title": "Governor on Ag Day",
      "url": "https://www.kfgo.com/2026/03/24/governor-walz-presses-trump-administration-for-tariff-relief-warns-of-bankrukptcies-on-national-ag-day/"
     }
    ]
@@ -1695,180 +1639,6 @@
     {
      "title": "Cuero, Worthington turkey teams prepare for the Great Gobbler Gallop",
      "url": "https://www.dglobe.com/news/local/cuero-worthington-turkey-teams-prepare-for-the-great-gobbler-gallop"
-    }
-   ]
-  },
-  {
-   "seedId": null,
-   "name": "Pheasant season opener",
-   "alsoKnownAs": [
-    "Pheasant opener"
-   ],
-   "kind": "community festival",
-   "capsule": "Saturday in October when pheasant season opens across southern, central and western Minnesota.",
-   "dateRule": "Set by the DNR each year; opens at 9 a.m. on a Saturday in mid-October.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-10-10",
-     "endDate": "2027-01-03",
-     "source": "Minnesota DNR",
-     "sourceUrl": "https://www.dnr.state.mn.us/news/2026/09/29/dnr-fish-and-wildlife-almanac-sept-29",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": null,
-     "endDate": null,
-     "source": null,
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": null,
-     "endDate": null,
-     "source": null,
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "announced each year",
-   "whatItMarks": "The start of the fall pheasant hunt.",
-   "howCelebratedInMinnesota": "The DNR's 2026 roadside count was 90 pheasants per 100 miles, up nearly 20 percent from 2025, with the best prospects in the west central and southwest regions.",
-   "minnesotaEvents": [
-    {
-     "name": "Pheasant season",
-     "place": "Statewide",
-     "link": "https://www.dnr.state.mn.us/news/2026/09/29/dnr-fish-and-wildlife-almanac-sept-29",
-     "organizerDates": "Oct. 10, 2026 through Jan. 3, 2027"
-    }
-   ],
-   "workplaceNote": null,
-   "sources": [
-    {
-     "title": "Pheasant index up nearly 20% from 2025",
-     "url": "https://www.dnr.state.mn.us/news/2026/09/08/pheasant-index-nearly-20-2025"
-    },
-    {
-     "title": "DNR Fish and Wildlife Almanac, Sept. 29",
-     "url": "https://www.dnr.state.mn.us/news/2026/09/29/dnr-fish-and-wildlife-almanac-sept-29"
-    }
-   ]
-  },
-  {
-   "seedId": null,
-   "name": "Governor's Pheasant Hunting Opener",
-   "alsoKnownAs": [],
-   "kind": "community festival",
-   "capsule": "Yearly opener weekend hosted by a different Minnesota town; Northfield hosted in 2026.",
-   "dateRule": "Held on pheasant opening weekend in a host town chosen by application.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-10-09",
-     "endDate": "2026-10-10",
-     "source": "Minnesota DNR",
-     "sourceUrl": "https://www.dnr.state.mn.us/news/2026/09/21/northfield-readies-2026-minnesota-governors-pheasant-hunting-opener",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": null,
-     "endDate": null,
-     "source": null,
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": null,
-     "endDate": null,
-     "source": null,
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "announced each year",
-   "whatItMarks": "Pheasant hunting, public hunting lands and the host community.",
-   "howCelebratedInMinnesota": "In 2026 Northfield hosted, with a Rooster Round-Up street dance and food trucks in Bridge Square on Oct. 9 and hunting on Oct. 10. The DNR noted the 75th anniversary of wildlife management areas.",
-   "minnesotaEvents": [
-    {
-     "name": "Governor's Pheasant Hunting Opener",
-     "place": "Northfield",
-     "link": "https://www.dnr.state.mn.us/news/2026/09/21/northfield-readies-2026-minnesota-governors-pheasant-hunting-opener",
-     "organizerDates": "Oct. 9 to 10, 2026"
-    }
-   ],
-   "workplaceNote": null,
-   "sources": [
-    {
-     "title": "Northfield readies for 2026 Minnesota Governor's Pheasant Hunting Opener",
-     "url": "https://www.dnr.state.mn.us/news/2026/09/21/northfield-readies-2026-minnesota-governors-pheasant-hunting-opener"
-    }
-   ]
-  },
-  {
-   "seedId": null,
-   "name": "Waterfowl season opener",
-   "alsoKnownAs": [
-    "Duck opener"
-   ],
-   "kind": "community festival",
-   "capsule": "Late-September Saturday when Minnesota's regular duck and goose seasons open.",
-   "dateRule": "Set by the DNR each year; regular season opens 30 minutes before sunrise on a late-September Saturday. Early teal and goose seasons start earlier.",
-   "dates": [
-    {
-     "year": 2026,
-     "date": "2026-09-26",
-     "endDate": null,
-     "source": "Minnesota DNR",
-     "sourceUrl": "https://www.dnr.state.mn.us/news/2026/09/21/dnr-fish-and-wildlife-almanac-sept-21",
-     "verified": true
-    },
-    {
-     "year": 2027,
-     "date": null,
-     "endDate": null,
-     "source": null,
-     "sourceUrl": null,
-     "verified": false
-    },
-    {
-     "year": 2028,
-     "date": null,
-     "endDate": null,
-     "source": null,
-     "sourceUrl": null,
-     "verified": false
-    }
-   ],
-   "dateCertainty": "announced each year",
-   "whatItMarks": "The start of the regular duck and goose hunting seasons.",
-   "howCelebratedInMinnesota": "In 2026 duck seasons ran Sept. 26 to Nov. 24 in the North zone, with split seasons in the Central and South zones. The DNR asked early-season hunters to take care around wild rice beds and harvesters, and to follow Tribal restrictions on three reservations.",
-   "minnesotaEvents": [
-    {
-     "name": "Early teal season",
-     "place": "Statewide",
-     "link": "https://www.dnr.state.mn.us/news/2026/08/31/waterfowl-hunting-seasons-are-horizon",
-     "organizerDates": "Sept. 5 to 9, 2026"
-    },
-    {
-     "name": "Regular duck season, North zone",
-     "place": "Northern Minnesota",
-     "link": "https://www.dnr.state.mn.us/news/2026/08/31/waterfowl-hunting-seasons-are-horizon",
-     "organizerDates": "Sept. 26 to Nov. 24, 2026"
-    }
-   ],
-   "workplaceNote": null,
-   "sources": [
-    {
-     "title": "Waterfowl hunting seasons are on the horizon",
-     "url": "https://www.dnr.state.mn.us/news/2026/08/31/waterfowl-hunting-seasons-are-horizon"
-    },
-    {
-     "title": "DNR Fish and Wildlife Almanac, Sept. 21",
-     "url": "https://www.dnr.state.mn.us/news/2026/09/21/dnr-fish-and-wildlife-almanac-sept-21"
     }
    ]
   }

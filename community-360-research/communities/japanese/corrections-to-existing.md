@@ -5,7 +5,7 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 ## Errors or claims that should change
 
 1. **Claim:** "Twin Cities JACL Discrimination Helpline," described as a helpline "listed by the Twin Cities chapter" (Access routes) and "Its website also lists a discrimination helpline" (Institutions).
-   **Source says:** The chapter's helpline page reposts the State of Minnesota's Discrimination Helpline, launched April 6, 2020, by Gov. Walz and Lt. Gov. Flanagan and run by the Minnesota Department of Human Rights (1-833-454-0148, weekdays 8 a.m. to 4:30 p.m.), with talking points from the Coalition of Asian American Leaders. It is not a JACL-run helpline. Name it as the state's MDHR helpline.
+   **Source says:** The chapter's helpline page reposts the State of Minnesota's Discrimination Helpline, launched April 6, 2020, by the governor and lieutenant governor and run by the Minnesota Department of Human Rights (1-833-454-0148, weekdays 8 a.m. to 4:30 p.m.), with talking points from the Coalition of Asian American Leaders. It is not a JACL-run helpline. Name it as the state's MDHR helpline.
    **Link:** https://www.tcjacl.org/discrimination-helpline/ .
 2. **Claim:** John Aiso card: "More than 6,000 graduates by 1945."
    **Source says:** The National Park Service says over 6,000 had graduated "when the facility closed in 1946"; MNopedia says the school graduated over six thousand linguists in total, with its last Minnesota class in June 1946. "By 1945" is not supported.
@@ -50,6 +50,6 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 - Language school at Camp Savage from June 1942 with 18 instructors and 200 students, moved to Fort Snelling August 1944, left in June 1946 (NPS; MNopedia).
 - Ruth and Earl Tanbara arrived in St. Paul in August 1942, first to resettle there under the order (MNopedia).
 - Sally Sudo: born in Seattle, held at Puyallup and Minidoka, brother served in the MIS and urged the move to Minnesota (Pioneer Press, Oct. 9, 2026).
-- Samantha Sencer-Mura: born Feb. 2, 1989; first Japanese American legislator in Minnesota; "fourth-generation Japanese American" (Legislative Reference Library).
+- The state representative for House District 63A: born Feb. 2, 1989; first Japanese American legislator in Minnesota; "fourth-generation Japanese American" (Legislative Reference Library).
 - Japan America Society of Minnesota founded 1972; Mondale Gala Nov. 14, 2026; more than 100 Japanese corporate subsidiaries; two Saturday schools (society website).
 - Minneapolis Japanese School at 2051 Larpenteur Avenue East, St. Paul; Normandale garden 50th anniversary Sept. 19, 2026; Twin Cities Buddhist Sangha 80th anniversary with nearly 70 people; Chrysanthemum Banquet in October 2026.

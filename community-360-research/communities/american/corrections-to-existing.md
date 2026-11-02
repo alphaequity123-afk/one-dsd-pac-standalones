@@ -54,6 +54,6 @@ Most of the existing page is interpretation and advice, not factual claims, and 
 ## Claims checked with no error found, or not checked
 
 - **ADA (1990), Olmstead as living law:** consistent with the Metropolitan Center for Independent Living's description of Minnesota's Olmstead Plan, named for the 1999 Supreme Court decision (https://mcil-mn.org/mcil-ada-minnesota-submits-comments-on-education-and-employment-to-minnesota-olmstead-plan/).
-- **Juneteenth "federal since 2021":** not checked against a federal source. Minnesota made Juneteenth a state holiday when Gov. Walz signed the bill on Feb. 3, 2023 (MPR News, https://www.mprnews.org/story/2023/02/03/juneteenth-is-now-a-holiday-in-minnesota). The page could add the Minnesota date.
+- **Juneteenth "federal since 2021":** not checked against a federal source. Minnesota made Juneteenth a state holiday when the governor signed the bill on Feb. 3, 2023 (MPR News, https://www.mprnews.org/story/2023/02/03/juneteenth-is-now-a-holiday-in-minnesota). The page could add the Minnesota date.
 - **2020 Census "about 331 million," Hispanic "~19%," Black "~13–14%," foreign-born "on the order of 14%":** not checked, because census.gov refused access.
 - **Crèvecoeur (1782), Bellah's *Habits of the Heart* (1985), Takaki, Tocqueville:** dates of published books, not checked for this page.

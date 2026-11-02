@@ -73,7 +73,7 @@ A fuller list, with what shows each place is operating, accompanies this profile
 
 ## 6. Celebrations and observances
 
-Minnesota's shared calendar mixes the national holidays, the state's own legal holidays, the seasons of fishing and hunting, and large public festivals. Dates below are as announced by organizers or set by law.
+Minnesota's shared calendar mixes the national holidays, the state's own legal holidays, the fishing season, and large public festivals. Dates below are as announced by organizers or set by law.
 
 **State legal holidays.** Minnesota law lists New Year's Day, Martin Luther King's Birthday (third Monday in January), Washington's and Lincoln's Birthday, Memorial Day, Juneteenth (June 19), Independence Day, Labor Day, Indigenous Peoples Day (second Monday in October), Veterans Day, Thanksgiving and Christmas. The executive branch also closes the Friday after Thanksgiving but does not treat Indigenous Peoples Day as a holiday; other branches and local governments choose for themselves ([Minn. Stat. 645.44](https://www.revisor.mn.gov/statutes/cite/645.44)).
 
@@ -84,8 +84,6 @@ Minnesota's shared calendar mixes the national holidays, the state's own legal h
 **Saint Paul Winter Carnival.** The 2027 carnival runs January 28 to February 7, with the King Boreas Grande Day Parade on Saturday, January 30, at 2 p.m., according to the organizer ([Saint Paul Winter Carnival](https://www.wintercarnival.com/p/rentals/faqs)).
 
 **Fishing opener.** The Governor's Fishing Opener has been held since 1948. The 2026 event, the 78th, was May 8 and 9 in Stillwater on the St. Croix River ([KTTC, Aug. 27, 2025](https://www.kttc.com/2025/08/27/gov-walz-announces-2026-minnesota-fishing-opener-location/)); the 2027 event is set for Cold Spring on May 14 and 15 ([KTTC, June 25, 2026](https://www.kttc.com/2026/06/25/cold-springs-host-2027-governors-fishing-opener/)). MNopedia notes the Legislature named the walleye the state fish on opening day in 1965 ([MNopedia, walleye](https://www.mnhs.org/mnopedia/search/index/thing/walleye)).
-
-**Hunting openers.** The Governor's Pheasant Hunting Opener, begun in 2011, was held in Northfield October 9 and 10, 2026 ([KTTC, Oct. 14, 2025](https://www.kttc.com/2025/10/14/2026-governers-pheasant-hunting-opener-be-held-northfield/)). The statewide firearms deer season opens Saturday, November 7, 2026, per the Department of Natural Resources ([Minnesota DNR](https://www.dnr.state.mn.us/hunting/deer/index.html)).
 
 **Halloween in Anoka.** MNopedia records that Anoka took the title "Halloween Capital of the World" in 1937, having thrown a citywide party to stop pranks ([MNopedia, Anoka Halloween](https://www.mnhs.org/mnopedia/search/index/event/anoka-halloween-celebration)). The organizer calls 2026 its 106th festival season ([Anoka Halloween](https://anokahalloween.com/halloween/)).
 
@@ -99,7 +97,7 @@ Minnesota's shared calendar mixes the national holidays, the state's own legal h
 
 **Households.** Minnesota has 2,307,855 households averaging 2.41 people. Married couples without children under 18 are 30.0 percent of households, married couples with children 19.1 percent, single mothers with children 3.7 percent, single fathers 1.2 percent, and people living alone 29.9 percent ([Minnesota Compass](https://www.mncompass.org/topics/demographics/cultural-communities/minnesota)). Most people stay put: 87.8 percent lived in the same home a year earlier.
 
-**Hotdish and the shared table.** MNopedia calls hotdish "a cultural touchstone in the Upper Midwest": typically ground meat, a creamed soup and a vegetable, topped with tater tots. It traces the earliest known recipe to a 1930 Lutheran church cookbook in Mankato, says the dish became essential during the Depression because it fed many cheaply, and notes that tater tots became the standard topping by the 1960s. It also records how the dish keeps changing: Minnesota's congressional delegation has held a hotdish contest since 2011, Rep. Ilhan Omar took second place in 2019 with a cumin-and-turmeric "Little Moga-Hot-dishu," and chef Yia Vang published a Hmong hotdish in 2021 ([MNopedia, hotdish](https://www.mnhs.org/mnopedia/search/index/thing/hotdish-mnopedia)). The Bundt pan has a similar story: MNopedia credits Nordic Ware founder H. David Dalquist, but says the request came from women of the Hadassah Society of Minnesota in the late 1940s who missed their old-country cake pans ([MNopedia, Bundt pan](https://www.mnhs.org/mnopedia/search/index/thing/bundt-pan)).
+**Hotdish and the shared table.** MNopedia calls hotdish "a cultural touchstone in the Upper Midwest": typically ground meat, a creamed soup and a vegetable, topped with tater tots. It traces the earliest known recipe to a 1930 Lutheran church cookbook in Mankato, says the dish became essential during the Depression because it fed many cheaply, and notes that tater tots became the standard topping by the 1960s. It also records how the dish keeps changing: Minnesota's congressional delegation has held a hotdish contest since 2011, the U.S. representative for the Fifth District took second place in 2019 with a cumin-and-turmeric "Little Moga-Hot-dishu," and chef Yia Vang published a Hmong hotdish in 2021 ([MNopedia, hotdish](https://www.mnhs.org/mnopedia/search/index/thing/hotdish-mnopedia)). The Bundt pan has a similar story: MNopedia credits Nordic Ware founder H. David Dalquist, but says the request came from women of the Hadassah Society of Minnesota in the late 1940s who missed their old-country cake pans ([MNopedia, Bundt pan](https://www.mnhs.org/mnopedia/search/index/thing/bundt-pan)).
 
 **Lakes, loons and the outdoors.** The Department of Natural Resources counts 11,842 lakes of 10 acres or more and 69,200 miles of rivers and streams. The most common lake name is Mud, and four counties (Mower, Olmsted, Pipestone and Rock) have no natural lakes at all ([Minnesota DNR](https://www.dnr.state.mn.us/faq/mnfacts/water.html)). The common loon became the state bird in 1961; MNopedia says more loons live in Minnesota than in any state but Alaska ([MNopedia, common loon](https://www.mnhs.org/mnopedia/search/index/thing/common-loon)). The Honeycrisp apple, bred at the University of Minnesota and released in 1991, is the state fruit ([MNopedia, Honeycrisp](https://www.mnhs.org/mnopedia/search/index/thing/honeycrisp-apple)). No source was found measuring how many Minnesotans own or use lake cabins, so "going up north" is left here as a phrase, not a statistic.
 
@@ -140,7 +138,7 @@ None of these sources measured niceness, indirectness or friendship across the s
 
 > **Content note:** This passage describes the 2025 shootings of Minnesota legislators, in which Melissa Hortman and her husband were killed. Readers may pause or skip to the next paragraph.
 
-**A hard two years.** On June 14, 2025, former House Speaker Melissa Hortman and her husband, Mark, were shot and killed, and Sen. John Hoffman, his wife and their daughter were attacked. Vance Boelter pleaded guilty in federal court and was sentenced in July 2026 to two life terms plus 40 years; his state murder trial has been delayed to next year ([MPR News, lawmaker shootings coverage](https://www.mprnews.org/crime-law-and-justice/minnesota-lawmaker-shootings-hortman-hoffman)). MPR reported that candidates in 2026 are limiting solo campaigning and hiring security ([MPR News Election 2026](https://www.mprnews.org/politics/election-2026)). On January 5, 2026, Gov. Tim Walz announced he would not seek a third term amid fraud allegations in state-funded programs, criticizing "Republican opportunists" and President Trump for "demonizing our Somali neighbors." Northern News Now traced the dispute to the 2022 Feeding Our Future indictments over an alleged $250 million scheme and to a House fraud committee created in 2025 ([Northern News Now, Jan. 5, 2026](https://www.northernnewsnow.com/2026/01/05/walz-ends-re-election-bid-amid-fraud-allegations-timeline/)). MPR's 2026 coverage profiles the two candidates for governor, U.S. Sen. Amy Klobuchar and Minnesota House Speaker Lisa Demuth ([MPR News Election 2026](https://www.mprnews.org/politics/election-2026)).
+**A hard two years.** On June 14, 2025, former House Speaker Melissa Hortman and her husband, Mark, were shot and killed, and a state senator, his wife and their daughter were attacked. Vance Boelter pleaded guilty in federal court and was sentenced in July 2026 to two life terms plus 40 years; his state murder trial has been delayed to next year ([MPR News, lawmaker shootings coverage](https://www.mprnews.org/crime-law-and-justice/minnesota-lawmaker-shootings-hortman-hoffman)). MPR reported that candidates in 2026 are limiting solo campaigning and hiring security ([MPR News Election 2026](https://www.mprnews.org/politics/election-2026)). On January 5, 2026, the governor announced he would not seek a third term amid fraud allegations in state-funded programs, criticizing "Republican opportunists" and President Trump for "demonizing our Somali neighbors." Northern News Now traced the dispute to the 2022 Feeding Our Future indictments over an alleged $250 million scheme and to a House fraud committee created in 2025 ([Northern News Now, Jan. 5, 2026](https://www.northernnewsnow.com/2026/01/05/walz-ends-re-election-bid-amid-fraud-allegations-timeline/)). MPR's 2026 coverage profiles the two candidates for governor, a U.S. senator from Minnesota (DFL) and the Speaker of the Minnesota House (R) ([MPR News Election 2026](https://www.mprnews.org/politics/election-2026)).
 
 **Debate inside the state.** Whether the state is as fair as its reputation is itself a public argument. The same record holds the gaps Myers calls the "Minnesota Paradox" (section 2) and the bipartisan laws described above.
 
@@ -190,7 +188,7 @@ None of these sources measured niceness, indirectness or friendship across the s
 
 **A federal enforcement surge and its aftermath.** "Operation Metro Surge," a federal immigration enforcement operation, began December 1, 2025, and grew, by federal officials' own court filing, to roughly 3,000 officers. Federal officers fatally shot two people in Minneapolis, Renee Good on January 7 and Alex Pretti on January 24, 2026, prompting protests. Border official Tom Homan announced the operation's end in February 2026 ([FOX 9, Feb. 15, 2026](https://www.fox9.com/news/operation-metro-surge-how-many-federal-agents-have-left-minnesota)). The effects on schools are described in section 10. Group-level effects on immigrant communities are covered in their profiles.
 
-**Politics after violence and scandal.** The assassination of Melissa Hortman, Walz's decision not to run, and the fraud allegations form the background of the 2026 election (section 9). The Minnesota Council of Nonprofits reports nonprofits facing federal cuts and closer scrutiny of state grants ([Minnesota Council of Nonprofits](https://minnesotanonprofits.org/)).
+**Politics after violence and scandal.** The assassination of Melissa Hortman, the governor's decision not to run, and the fraud allegations form the background of the 2026 election (section 9). The Minnesota Council of Nonprofits reports nonprofits facing federal cuts and closer scrutiny of state grants ([Minnesota Council of Nonprofits](https://minnesotanonprofits.org/)).
 
 **Grief and rebuilding in Minneapolis.** Reconstruction of the George Floyd Square intersection was set to start June 8, 2026, and take two years, after years of debate over whether to rebuild at all ([MPR News, May 21, 2026](https://www.mprnews.org/story/2026/05/21/city-minneapolis-george-floyd-square-agape-peoples-way)). The Annunciation shooting anniversary was marked with service projects ([MPR News](https://www.mprnews.org/story/2026/08/27/annunciation-shooting-victims-honored-one-year-later-acts-of-service)).
 
@@ -209,7 +207,7 @@ None of these sources measured niceness, indirectness or friendship across the s
 - **Ideas that traveled.** The Honeycrisp, the Bundt pan, SPAM, the Minneapolis Sound and the hotdish, each with roots in Minnesota institutions or neighborhoods ([MNopedia, Honeycrisp](https://www.mnhs.org/mnopedia/search/index/thing/honeycrisp-apple); [MNopedia, Bundt pan](https://www.mnhs.org/mnopedia/search/index/thing/bundt-pan); [MNopedia, SPAM](https://www.mnhs.org/mnopedia/search/index/thing/spam); [MNopedia, Minneapolis Sound](https://www.mnhs.org/mnopedia/search/index/thing/minneapolis-sound-music-genre)).
 - **Early moves on rights.** The bipartisan 1967 human rights law and the 1993 expansion; the self-advocates who won an apology for the state hospital era ([MNopedia](https://www.mnhs.org/mnopedia/search/index/thing/minnesota-human-rights-act); [MNopedia](https://www.mnhs.org/mnopedia/search/index/group/remembering-dignity)).
 - **Health and schools.** A top-ten health ranking and a record graduation rate, alongside the gaps reported above ([America's Health Rankings](https://www.americashealthrankings.org/explore/measures/Overall/MN); [MPR News](https://www.mprnews.org/story/2026/04/03/minnesota-graduation-rates-hit-record-high-in-2025)).
-- **A culture that keeps absorbing new people.** Hotdish recipes that now include Rep. Ilhan Omar's spiced contest entry and chef Yia Vang's Hmong version, a State Fair that publishes in Spanish, Hmong and Somali, and a Festival of Nations that has grown to reflect the state's increasing diversity ([MNopedia, hotdish](https://www.mnhs.org/mnopedia/search/index/thing/hotdish-mnopedia); [Minnesota State Fair](https://www.mnstatefair.org/about); [MNopedia, Festival of Nations](https://www.mnhs.org/mnopedia/search/index/event/festival-nations)).
+- **A culture that keeps absorbing new people.** Hotdish recipes that now include the Fifth District U.S. representative's spiced contest entry and chef Yia Vang's Hmong version, a State Fair that publishes in Spanish, Hmong and Somali, and a Festival of Nations that has grown to reflect the state's increasing diversity ([MNopedia, hotdish](https://www.mnhs.org/mnopedia/search/index/thing/hotdish-mnopedia); [Minnesota State Fair](https://www.mnstatefair.org/about); [MNopedia, Festival of Nations](https://www.mnhs.org/mnopedia/search/index/event/festival-nations)).
 
 ## What could not be established
 
@@ -261,98 +259,96 @@ None of these sources measured niceness, indirectness or friendship across the s
 35. Cub Foods: Fresh Groceries & Pharmacy Online - Cub. Cub. https://www.cub.com/
 36. Minnesota Council on Disability - Your Policy, Training and Technical Resource. Minnesota Council on Disability. https://www.disability.state.mn.us/
 37. Lakes, rivers, and wetlands facts - Minnesota DNR. Minnesota Department of Natural Resources. https://www.dnr.state.mn.us/faq/mnfacts/water.html
-38. Deer hunting - Minnesota DNR. Minnesota Department of Natural Resources. https://www.dnr.state.mn.us/hunting/deer/index.html
-39. Pope Francis names new auxiliary bishop for Saint Paul-Minneapolis archdiocese. EWTN News. https://www.ewtnnews.com/vatican/pope-francis-names-new-auxiliary-bishop-for-saint-paul-minneapolis-archdiocese
-40. Faribault Mill - Blankets, Throws & Scarves Made in USA. Faribault Mill. https://www.faribaultmill.com/
-41. Minnesota State Fair total attendance: How many people went in 2026 - FOX 9 Minneapolis-St. Paul. FOX 9. https://www.fox9.com/news/minnesota-state-fair-attendance-how-many-people-went-2026
-42. Operation Metro Surge: How many federal agents have left Minnesota? - FOX 9 Minneapolis-St. Paul. FOX 9. https://www.fox9.com/news/operation-metro-surge-how-many-federal-agents-have-left-minnesota
-43. Grand Old Day — Grand Avenue Business Association. Grand Avenue Business Association. https://www.grandave.com/grand-old-day/
-44. The Minnesota Paradox - Hubert H. Humphrey School of Public Affairs. Humphrey School of Public Affairs, University of Minnesota. https://www.hhh.umn.edu/research-centers/roy-wilkins-center-human-relations-and-social-justice/minnesota-paradox
-45. George Floyd Square hosts annual festival six years after his death - ABC 6 News - kaaltv.com. KAAL ABC 6. https://www.kaaltv.com/news/george-floyd-square-hosts-annual-festival-six-years-after-his-death/
-46. Minnesota delays new disability waiver program amid data breach - News - kimt.com. KIMT. https://www.kimt.com/news/minnesota-delays-new-disability-waiver-program-amid-data-breach/article_087b6a4b-5e4e-4cfe-a19c-65410b8fe2a4.html
-47. Kowalski’s Markets: Minneapolis-St. Paul Area Grocery Stores - Kowalski's Markets. Kowalski's Markets. https://www.kowalskis.com/
-48. Gov. Walz announces 2026 fishing opener location. KTTC. https://www.kttc.com/2025/08/27/gov-walz-announces-2026-minnesota-fishing-opener-location/
-49. 2026 Governer’s Pheasant Hunting Opener to be held in Northfield. KTTC. https://www.kttc.com/2025/10/14/2026-governers-pheasant-hunting-opener-be-held-northfield/
-50. Cold Springs to host 2027 Governor’s Fishing Opener. KTTC. https://www.kttc.com/2026/06/25/cold-springs-host-2027-governors-fishing-opener/
-51. League of Women Voters of MN - Empowering Voters. Defending Democracy. League of Women Voters of Minnesota. https://www.lwvmn.org/
-52. The Biggest Mall in North America - Mall of America®. Mall of America. https://www.mallofamerica.com/
-53. Matt's Bar HOME OF THE ORIGINAL JUCY LUCY!. Matt's Bar. https://www.mattsbar.com/
-54. Minnesota Monthly - Experience The Spirit of Minnesota. Minnesota Monthly. https://www.minnesotamonthly.com/
-55. MinnPost — Nonprofit, independent journalism. MinnPost. https://www.minnpost.com/
-56. Minnesota Chamber of Commerce - Minnesota Chamber of Commerce. Minnesota Chamber of Commerce. https://www.mnchamber.com/
-57. Minnesota population - Cultural communities - Minnesota Compass. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/cultural-communities/minnesota
-58. By race & ethnicity - MN Compass. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/race-ethnicity
-59. Handwritten History Documenting Minnesota’s Founding on Display. Minnesota Historical Society (MNopedia). https://www.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesota
-60. Anoka Halloween Celebration - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/anoka-halloween-celebration
-61. Baker v. Nelson - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/baker-v-nelson
-62. Farm Crisis, 1979–1987 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/farm-crisis-1979-1987
-63. Festival Of Nations - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/festival-nations
-64. Governorship of Jesse Ventura - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/governorship-jesse-ventura
-65. Halloween Blizzard, 1991 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/halloween-blizzard-1991
-66. Hormel Strike, 1985–1986 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/hormel-strike-1985-1986
-67. International Eelpout Festival, Walker - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/international-eelpout-festival-walker
-68. Minneapolis Aquatennial - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/minneapolis-aquatennial
-69. Minneapolis Teamsters’ Strike, 1934 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/minneapolis-teamsters-strike-1934
-70. US–Dakota War of 1862 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/us-dakota-war-1862
-71. Welsch v. Likins - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/welsch-v-likins
-72. Guthrie Theater - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/guthrie-theater
-73. Minnesota Lynx. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/minnesota-lynx
-74. Minnesota Orchestra - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/minnesota-orchestra
-75. Minnesota Twins - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/minnesota-twins
-76. Minnesota Vikings - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/minnesota-vikings
-77. Penumbra Theatre Company - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/penumbra-theatre-company
-78. Remembering With Dignity - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/remembering-dignity
-79. Humphrey, Hubert H. (1911–1978) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/person/humphrey-hubert-h-1911-1978
-80. Prince (1958–2016) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/person/prince-1958-2016
-81. Boundary Waters Canoe Area Wilderness (BWCAW) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/place/boundary-waters-canoe-area-wilderness-bwcaw
-82. First Avenue & 7th Street Entry - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/place/first-avenue-7th-street-entry
-83. Mesabi Iron Range - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/place/mesabi-iron-range
-84. Bundt Pan - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/bundt-pan
-85. Common Loon - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/common-loon
-86. Eugenics in Minnesota - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/eugenics-minnesota
-87. Honeycrisp apple - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/honeycrisp-apple
-88. Hotdish - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/hotdish-mnopedia
-89. Minneapolis Sound (music genre) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minneapolis-sound-music-genre
-90. Minnesota Amendment 1 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minnesota-amendment-1
-91. Minnesota Human Rights Act - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minnesota-human-rights-act
-92. Minnesota Miracle (legislation) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minnesota-miracle-legislation
-93. Minnesota State Flag - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minnesota-state-flag
-94. Pearson’s Nut Goodie Candy Bar - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/pearson-s-nut-goodie-candy-bar
-95. Prairie Home Companion - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/prairie-home-companion
-96. Racial Housing Covenants in the Twin Cities - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/racial-housing-covenants-twin-cities
-97. SPAM - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/spam
-98. Walleye. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/walleye
-99. Aug. 26 – Labor Day, Sept. 6, 2027 - Minnesota State Fair. Minnesota State Fair. https://www.mnstatefair.org/
-100. About the Fair - Minnesota State Fair. Minnesota State Fair. https://www.mnstatefair.org/about
-101. Minnesota Public Radio at Twin Cities Pride Festival - Minnesota Public Radio. Minnesota Public Radio. https://www.mpr.org/pride
-102. MPR News — Minnesota News, Politics, Weather, Podcasts & Public Radio. MPR News. https://www.mprnews.org/
-103. Minnesota lawmaker shootings - MPR News. MPR News. https://www.mprnews.org/crime-law-and-justice/minnesota-lawmaker-shootings-hortman-hoffman
-104. New data shows Minnesota’s homeless population is more Native American, rural than ever - MPR News. MPR News. https://www.mprnews.org/episode/2024/12/03/new-data-shows-minnesotas-homeless-population-is-more-native-american-rural-than-ever
-105. Rondo Days returns to celebrate the history of St. Paul's iconic neighborhood - MPR News. MPR News. https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood
-106. Election 2026 - MPR News. MPR News. https://www.mprnews.org/politics/election-2026
-107. Tracing the origin of "Minnesota Nice" - MPR News. MPR News. https://www.mprnews.org/story/2009/12/14/syljones
-108. Newcomers say it's 'nice,' but not warm - MPR News. MPR News. https://www.mprnews.org/story/2012/03/12/outsiders1-is-minnesota-nice-to-newcomers
-109. Churches are closing, attendance is falling, why? - MPR News. MPR News. https://www.mprnews.org/story/2018/08/14/churches-are-closing-attendance-is-falling-why
-110. Ask a 'sotan: Revisiting 'Minnesota Nice' - MPR News. MPR News. https://www.mprnews.org/story/2019/11/21/ask-a-sotan-revisiting-minnesota-nice
-111. Minnesota graduation rates hit record high in 2025 - MPR News. MPR News. https://www.mprnews.org/story/2026/04/03/minnesota-graduation-rates-hit-record-high-in-2025
-112. City of Minneapolis moves ahead with development at George Floyd Square - MPR News. MPR News. https://www.mprnews.org/story/2026/05/21/city-minneapolis-george-floyd-square-agape-peoples-way
-113. Minneapolis, local politicians host volunteer event for Annunciation shooting remembrance - MPR News. MPR News. https://www.mprnews.org/story/2026/08/27/annunciation-shooting-victims-honored-one-year-later-acts-of-service
-114. Majority of Minnesota students aren't meeting math, reading standards - MPR News. MPR News. https://www.mprnews.org/story/2026/09/30/student-math-reading-standards-minnesota-weighs-testing-criteria
-115. Walz ends re-election bid amid fraud allegations timeline. Northern News Now. https://www.northernnewsnow.com/2026/01/05/walz-ends-re-election-bid-amid-fraud-allegations-timeline/
-116. Decoding 'Minnesota nice': A culture of kindness gives weight to words like 'weird' : NPR. NPR. https://www.npr.org/transcripts/nx-s1-5065632
-117. Olsen Fish Company. Olsen Fish Company. https://www.olsenfish.com/
-118. Paisley Park - Prince's Home and Studio. Paisley Park. https://www.paisleypark.com/
-119. People in Minnesota - Religious Landscape Study (RLS) - Pew Research Center. Pew Research Center. https://www.pewresearch.org/religious-landscape-study/state/minnesota/
-120. More workers, better reimbursements needed to preserve services for developmentally disabled adults, report says - Post Bulletin - Rochester Minnesota news, weather, sports. Post Bulletin. https://www.postbulletin.com/health/more-workers-better-reimbursements-needed-to-preserve-services-for-developmentally-disabled-adults-report-says
-121. All you need to know about The Tourney — the 2026 Minnesota boys hockey state tournament - Post Bulletin - Rochester Minnesota news, weather, sports. Post Bulletin. https://www.postbulletin.com/sports/prep/all-you-need-to-know-about-the-tourney-the-2026-minnesota-boys-hockey-state-tournament
-122. Red Wing Shoes - Durable Work Boots & Lifestyle Heritage Footwear for Men and Women. Red Wing Shoes. https://www.redwingshoes.com/
-123. Sec. 645.44 MN Statutes. Minnesota Office of the Revisor of Statutes. https://www.revisor.mn.gov/statutes/cite/645.44
-124. Minnesota's Fortune 500 Companies of 2026 - Security Bank & Trust Co. Security Bank & Trust Co. https://www.security-banks.com/blog/minnesotas-fortune-500-companies
-125. Spring Grove Syttende Mai. Spring Grove Syttende Mai. https://www.sgsyttendemai.com/
-126. SPAM® Museum in Minnesota - SPAM® Brand. Hormel Foods (SPAM Museum). https://www.spam.com/museum
-127. Heritage — Spring Grove, Minnesota. City of Spring Grove. https://www.springgrovemn.com/heritage
-128. Twin Cities In Motion - Races in the Twin Cities - 355 Randolph Ave, Saint Paul, MN, USA. Twin Cities in Motion. https://www.tcmevents.org/
-129. Minnesota Frost 2025-26 Season Preview - PWHL - Professional Women's Hockey League. Professional Women's Hockey League. https://www.thepwhl.com/en/teams/minnesota-frost/news/2025/november/13/minnesota-frost-2025-26-season-preview
-130. St. Paul News, Sports and Things To Do - Pioneer Press. Pioneer Press. https://www.twincities.com/
-131. Homelessness in Minnesota 2023 Study - Wilder. Wilder Research. https://www.wilder.org/wilder_studies/homelessness-in-minnesota-2023-study
-132. FAQs. Saint Paul Festival and Heritage Foundation. https://www.wintercarnival.com/p/rentals/faqs
+38. Pope Francis names new auxiliary bishop for Saint Paul-Minneapolis archdiocese. EWTN News. https://www.ewtnnews.com/vatican/pope-francis-names-new-auxiliary-bishop-for-saint-paul-minneapolis-archdiocese
+39. Faribault Mill - Blankets, Throws & Scarves Made in USA. Faribault Mill. https://www.faribaultmill.com/
+40. Minnesota State Fair total attendance: How many people went in 2026 - FOX 9 Minneapolis-St. Paul. FOX 9. https://www.fox9.com/news/minnesota-state-fair-attendance-how-many-people-went-2026
+41. Operation Metro Surge: How many federal agents have left Minnesota? - FOX 9 Minneapolis-St. Paul. FOX 9. https://www.fox9.com/news/operation-metro-surge-how-many-federal-agents-have-left-minnesota
+42. Grand Old Day — Grand Avenue Business Association. Grand Avenue Business Association. https://www.grandave.com/grand-old-day/
+43. The Minnesota Paradox - Hubert H. Humphrey School of Public Affairs. Humphrey School of Public Affairs, University of Minnesota. https://www.hhh.umn.edu/research-centers/roy-wilkins-center-human-relations-and-social-justice/minnesota-paradox
+44. George Floyd Square hosts annual festival six years after his death - ABC 6 News - kaaltv.com. KAAL ABC 6. https://www.kaaltv.com/news/george-floyd-square-hosts-annual-festival-six-years-after-his-death/
+45. Minnesota delays new disability waiver program amid data breach - News - kimt.com. KIMT. https://www.kimt.com/news/minnesota-delays-new-disability-waiver-program-amid-data-breach/article_087b6a4b-5e4e-4cfe-a19c-65410b8fe2a4.html
+46. Kowalski’s Markets: Minneapolis-St. Paul Area Grocery Stores - Kowalski's Markets. Kowalski's Markets. https://www.kowalskis.com/
+47. Governor announces 2026 fishing opener location. KTTC. https://www.kttc.com/2025/08/27/gov-walz-announces-2026-minnesota-fishing-opener-location/
+48. Cold Springs to host 2027 Governor’s Fishing Opener. KTTC. https://www.kttc.com/2026/06/25/cold-springs-host-2027-governors-fishing-opener/
+49. League of Women Voters of MN - Empowering Voters. Defending Democracy. League of Women Voters of Minnesota. https://www.lwvmn.org/
+50. The Biggest Mall in North America - Mall of America®. Mall of America. https://www.mallofamerica.com/
+51. Matt's Bar HOME OF THE ORIGINAL JUCY LUCY!. Matt's Bar. https://www.mattsbar.com/
+52. Minnesota Monthly - Experience The Spirit of Minnesota. Minnesota Monthly. https://www.minnesotamonthly.com/
+53. MinnPost — Nonprofit, independent journalism. MinnPost. https://www.minnpost.com/
+54. Minnesota Chamber of Commerce - Minnesota Chamber of Commerce. Minnesota Chamber of Commerce. https://www.mnchamber.com/
+55. Minnesota population - Cultural communities - Minnesota Compass. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/cultural-communities/minnesota
+56. By race & ethnicity - MN Compass. Minnesota Compass (Wilder Research). https://www.mncompass.org/topics/demographics/race-ethnicity
+57. Handwritten History Documenting Minnesota’s Founding on Display. Minnesota Historical Society (MNopedia). https://www.mnhs.org/media/news/handwritten-history-spotlights-founding-of-minnesota
+58. Anoka Halloween Celebration - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/anoka-halloween-celebration
+59. Baker v. Nelson - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/baker-v-nelson
+60. Farm Crisis, 1979–1987 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/farm-crisis-1979-1987
+61. Festival Of Nations - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/festival-nations
+62. Governorship of Jesse Ventura - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/governorship-jesse-ventura
+63. Halloween Blizzard, 1991 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/halloween-blizzard-1991
+64. Hormel Strike, 1985–1986 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/hormel-strike-1985-1986
+65. International Eelpout Festival, Walker - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/international-eelpout-festival-walker
+66. Minneapolis Aquatennial - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/minneapolis-aquatennial
+67. Minneapolis Teamsters’ Strike, 1934 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/minneapolis-teamsters-strike-1934
+68. US–Dakota War of 1862 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/us-dakota-war-1862
+69. Welsch v. Likins - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/event/welsch-v-likins
+70. Guthrie Theater - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/guthrie-theater
+71. Minnesota Lynx. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/minnesota-lynx
+72. Minnesota Orchestra - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/minnesota-orchestra
+73. Minnesota Twins - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/minnesota-twins
+74. Minnesota Vikings - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/minnesota-vikings
+75. Penumbra Theatre Company - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/penumbra-theatre-company
+76. Remembering With Dignity - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/group/remembering-dignity
+77. Humphrey, Hubert H. (1911–1978) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/person/humphrey-hubert-h-1911-1978
+78. Prince (1958–2016) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/person/prince-1958-2016
+79. Boundary Waters Canoe Area Wilderness (BWCAW) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/place/boundary-waters-canoe-area-wilderness-bwcaw
+80. First Avenue & 7th Street Entry - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/place/first-avenue-7th-street-entry
+81. Mesabi Iron Range - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/place/mesabi-iron-range
+82. Bundt Pan - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/bundt-pan
+83. Common Loon - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/common-loon
+84. Eugenics in Minnesota - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/eugenics-minnesota
+85. Honeycrisp apple - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/honeycrisp-apple
+86. Hotdish - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/hotdish-mnopedia
+87. Minneapolis Sound (music genre) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minneapolis-sound-music-genre
+88. Minnesota Amendment 1 - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minnesota-amendment-1
+89. Minnesota Human Rights Act - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minnesota-human-rights-act
+90. Minnesota Miracle (legislation) - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minnesota-miracle-legislation
+91. Minnesota State Flag - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/minnesota-state-flag
+92. Pearson’s Nut Goodie Candy Bar - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/pearson-s-nut-goodie-candy-bar
+93. Prairie Home Companion - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/prairie-home-companion
+94. Racial Housing Covenants in the Twin Cities - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/racial-housing-covenants-twin-cities
+95. SPAM - MNopedia. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/spam
+96. Walleye. Minnesota Historical Society (MNopedia). https://www.mnhs.org/mnopedia/search/index/thing/walleye
+97. Aug. 26 – Labor Day, Sept. 6, 2027 - Minnesota State Fair. Minnesota State Fair. https://www.mnstatefair.org/
+98. About the Fair - Minnesota State Fair. Minnesota State Fair. https://www.mnstatefair.org/about
+99. Minnesota Public Radio at Twin Cities Pride Festival - Minnesota Public Radio. Minnesota Public Radio. https://www.mpr.org/pride
+100. MPR News — Minnesota News, Politics, Weather, Podcasts & Public Radio. MPR News. https://www.mprnews.org/
+101. Minnesota lawmaker shootings - MPR News. MPR News. https://www.mprnews.org/crime-law-and-justice/minnesota-lawmaker-shootings-hortman-hoffman
+102. New data shows Minnesota’s homeless population is more Native American, rural than ever - MPR News. MPR News. https://www.mprnews.org/episode/2024/12/03/new-data-shows-minnesotas-homeless-population-is-more-native-american-rural-than-ever
+103. Rondo Days returns to celebrate the history of St. Paul's iconic neighborhood - MPR News. MPR News. https://www.mprnews.org/episode/2026/07/15/rondo-days-returns-to-celebrate-the-history-of-st-pauls-iconic-neighborhood
+104. Election 2026 - MPR News. MPR News. https://www.mprnews.org/politics/election-2026
+105. Tracing the origin of "Minnesota Nice" - MPR News. MPR News. https://www.mprnews.org/story/2009/12/14/syljones
+106. Newcomers say it's 'nice,' but not warm - MPR News. MPR News. https://www.mprnews.org/story/2012/03/12/outsiders1-is-minnesota-nice-to-newcomers
+107. Churches are closing, attendance is falling, why? - MPR News. MPR News. https://www.mprnews.org/story/2018/08/14/churches-are-closing-attendance-is-falling-why
+108. Ask a 'sotan: Revisiting 'Minnesota Nice' - MPR News. MPR News. https://www.mprnews.org/story/2019/11/21/ask-a-sotan-revisiting-minnesota-nice
+109. Minnesota graduation rates hit record high in 2025 - MPR News. MPR News. https://www.mprnews.org/story/2026/04/03/minnesota-graduation-rates-hit-record-high-in-2025
+110. City of Minneapolis moves ahead with development at George Floyd Square - MPR News. MPR News. https://www.mprnews.org/story/2026/05/21/city-minneapolis-george-floyd-square-agape-peoples-way
+111. Minneapolis, local politicians host volunteer event for Annunciation shooting remembrance - MPR News. MPR News. https://www.mprnews.org/story/2026/08/27/annunciation-shooting-victims-honored-one-year-later-acts-of-service
+112. Majority of Minnesota students aren't meeting math, reading standards - MPR News. MPR News. https://www.mprnews.org/story/2026/09/30/student-math-reading-standards-minnesota-weighs-testing-criteria
+113. Governor ends re-election bid amid fraud allegations timeline. Northern News Now. https://www.northernnewsnow.com/2026/01/05/walz-ends-re-election-bid-amid-fraud-allegations-timeline/
+114. Decoding 'Minnesota nice': A culture of kindness gives weight to words like 'weird' : NPR. NPR. https://www.npr.org/transcripts/nx-s1-5065632
+115. Olsen Fish Company. Olsen Fish Company. https://www.olsenfish.com/
+116. Paisley Park - Prince's Home and Studio. Paisley Park. https://www.paisleypark.com/
+117. People in Minnesota - Religious Landscape Study (RLS) - Pew Research Center. Pew Research Center. https://www.pewresearch.org/religious-landscape-study/state/minnesota/
+118. More workers, better reimbursements needed to preserve services for developmentally disabled adults, report says - Post Bulletin - Rochester Minnesota news, weather, sports. Post Bulletin. https://www.postbulletin.com/health/more-workers-better-reimbursements-needed-to-preserve-services-for-developmentally-disabled-adults-report-says
+119. All you need to know about The Tourney — the 2026 Minnesota boys hockey state tournament - Post Bulletin - Rochester Minnesota news, weather, sports. Post Bulletin. https://www.postbulletin.com/sports/prep/all-you-need-to-know-about-the-tourney-the-2026-minnesota-boys-hockey-state-tournament
+120. Red Wing Shoes - Durable Work Boots & Lifestyle Heritage Footwear for Men and Women. Red Wing Shoes. https://www.redwingshoes.com/
+121. Sec. 645.44 MN Statutes. Minnesota Office of the Revisor of Statutes. https://www.revisor.mn.gov/statutes/cite/645.44
+122. Minnesota's Fortune 500 Companies of 2026 - Security Bank & Trust Co. Security Bank & Trust Co. https://www.security-banks.com/blog/minnesotas-fortune-500-companies
+123. Spring Grove Syttende Mai. Spring Grove Syttende Mai. https://www.sgsyttendemai.com/
+124. SPAM® Museum in Minnesota - SPAM® Brand. Hormel Foods (SPAM Museum). https://www.spam.com/museum
+125. Heritage — Spring Grove, Minnesota. City of Spring Grove. https://www.springgrovemn.com/heritage
+126. Twin Cities In Motion - Races in the Twin Cities - 355 Randolph Ave, Saint Paul, MN, USA. Twin Cities in Motion. https://www.tcmevents.org/
+127. Minnesota Frost 2025-26 Season Preview - PWHL - Professional Women's Hockey League. Professional Women's Hockey League. https://www.thepwhl.com/en/teams/minnesota-frost/news/2025/november/13/minnesota-frost-2025-26-season-preview
+128. St. Paul News, Sports and Things To Do - Pioneer Press. Pioneer Press. https://www.twincities.com/
+129. Homelessness in Minnesota 2023 Study - Wilder. Wilder Research. https://www.wilder.org/wilder_studies/homelessness-in-minnesota-2023-study
+130. FAQs. Saint Paul Festival and Heritage Foundation. https://www.wintercarnival.com/p/rentals/faqs

@@ -237,6 +237,6 @@ Rochester appears in Cuban Minnesota partly because of Mayo Clinic. The founder 
 67. Caridad de Cobre 2025, Mary, Mother of God Parish (Chicago), https://www.motherofgodchicago.org/parish-news/caridad-de-cobre-2025
 68. Church of the Incarnation / Iglesia de la Encarnación, https://www.incarnationmpls.org/
 69. National Hispanic Heritage Month: 2026, U.S. Census Bureau, https://www.census.gov/newsroom/facts-for-features/2026/hispanic-heritage-month.html
-70. Latino Heritage Month proclamation (Sept. 15, 2022), Office of Governor Tim Walz, https://mn.gov/governor/assets/09.15.22%20Latino%20Heritage%20Month%20%28002%29%20Signed_tcm1055-540650.pdf
+70. Latino Heritage Month proclamation (Sept. 15, 2022), Office of the Governor of Minnesota, https://mn.gov/governor/assets/09.15.22%20Latino%20Heritage%20Month%20%28002%29%20Signed_tcm1055-540650.pdf
 71. Hours and Holidays in Cuba, Cuba Travel, https://www.cuba.travel/en/useful-information/hours-and-holidays
 72. Cuba Public Holidays in 2026, Calendarific, https://calendarific.com/holidays/2026/CU

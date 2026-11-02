@@ -44,7 +44,7 @@ Date checked: October 30, 2026, except items marked
 ## Could not support from pages reached
 
 - Church of Saint Columba's Sunday 10:30 a.m. Vietnamese Mass.
-- Judge Viet-Hanh Winchell's description as Minnesota's first Vietnamese American state court judge (Minnesota courts pages not reached). Her appointment by Gov. Walz to the Tenth Judicial District, chambered in Stillwater, is supported by Mitchell Hamline (https://mitchellhamline.edu/alumni/class-note/hon-viet-hanh-winchell-08/).
+- Judge Viet-Hanh Winchell's description as Minnesota's first Vietnamese American state court judge (Minnesota courts pages not reached). Her appointment by the governor to the Tenth Judicial District, chambered in Stillwater, is supported by Mitchell Hamline (https://mitchellhamline.edu/alumni/class-note/hon-viet-hanh-winchell-08/).
 - Hoang Murphy's Foster Advocates history, Bush Fellowship and House run. A 2018 WCCO story confirms only that he spoke as the son of Vietnamese immigrants from St. Paul's East Side.
 - Bao Phi's biography and awards.
 - Asian American Press's status.

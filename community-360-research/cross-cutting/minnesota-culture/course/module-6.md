@@ -7,7 +7,7 @@ essay_sections: 8, 9, 10, 14, 15
 
 ## Opening
 
-Few things are more Minnesotan than hotdish. It is a potluck staple, and Minnesota's members of Congress even hold a hotdish contest. In 2019, Rep. Ilhan Omar took second place with her "Little Moga-Hot-dishu." In 2021, chef Yia Vang published a Hmong hotdish recipe ([MNopedia, Hotdish](https://www.mnhs.org/mnopedia/search/index/thing/hotdish-mnopedia)).
+Few things are more Minnesotan than hotdish. It is a potluck staple, and Minnesota's members of Congress even hold a hotdish contest. In 2019, the U.S. representative for the Fifth District took second place with her "Little Moga-Hot-dishu." In 2021, chef Yia Vang published a Hmong hotdish recipe ([MNopedia, Hotdish](https://www.mnhs.org/mnopedia/search/index/thing/hotdish-mnopedia)).
 
 There is a gentle joke in there that many Minnesotans will recognize: nothing says "you belong here" like being handed a casserole. But there is also something serious. The dish did not stay the same. New Minnesotans picked it up and changed it, and the old Minnesotans ate it.
 

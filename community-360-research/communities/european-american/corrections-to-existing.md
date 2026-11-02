@@ -46,4 +46,4 @@ Page: https://one-dsd-people-access-culture-production.up.railway.app/minnesota-
 
 ## Not checked (sources not reopened)
 
-The page's claims about Minneapolis Tidende circulation, the Danish American Center's membership, Amy Klobuchar's family history, the Celtic Junction and Center for Irish Music founding years, and the Fujii and Shiraishi stigma study were not rechecked.
+The page's claims about Minneapolis Tidende circulation, the Danish American Center's membership, a U.S. senator's family history, the Celtic Junction and Center for Irish Music founding years, and the Fujii and Shiraishi stigma study were not rechecked.
